@@ -1,0 +1,2000 @@
+ clearStackToContext("tr"); return;  
+ return;  
+ //return;  
+ return null;  
+ this.context = null;  
+ this.rowContext = null;  
+ this.tr = null;  
+ this.stack = null;  
+ //System.out.println;  
+ //return null;  
+ return this;  
+ this.tableRowContext = null;  
+ context = null;  
+ stackToRowContext = null;  
+ ;  
+ this.stackToContext = null;  
+ this.ctx = null;  
+ clearStackToContext(); return;  
+ clearStackToContext("tr"); return null;  
+ //clearStackToContext("tr"); return;  
+ this.row = null;  
+ return tr;  
+ stackToContext = null;  
+ System.out.println;  
+ this.rowIndex = -1;  
+ this.contextStack = null;  
+ this.rowIndex = 0;  
+ rowContext = null;  
+ //;  
+ this.stackToRowContext = null;  
+ tableRowContext = null;  
+ this.stackContext = null;  
+ contextStack.clear(); return;  
+ if (tc == null) { return;  
+ context = null; return;  
+ this.tableContext = null;  
+ clearStackToContext("tr"); return true;  
+ context.clearStackToContext(); return;  
+ this.context.clearStackToContext;  
+ //clearStackToContext("tr");;  
+ if (context == null) { return;  
+ if (tc == null) return;  
+ super.clearStackToContext(); return;  
+ this.stack.clear(); return;  
+ stackToTableRowContext = null;  
+ clearStackToContext("tr"); return false;  
+ this.currentRow = null;  
+ ctx = null;  
+ table.clearStackToContext(); return;  
+ this.table = null;  
+ //return this;  
+ clearStackToContext("tr");;  
+ tableContext = null;  
+ clearStackToContext(); return null;  
+ this.rowCount = 0;  
+ contextStack = null;  
+ this.tableRow = null;  
+ table.clearRowContext(); return;  
+ this.currentRowContext = null;  
+ //	clearStackToContext("tr");;  
+ clearStackToContext("tr"); return this;  
+ this.ctxStack = null;  
+ _tr = null;  
+ 	stackToRowContext = null;  
+ this.clearStackToContext(); return;  
+ currentRowContext = null;  
+ if (tc == null) return;  
+ 	rowContext = null;  
+ this.ctx.clearStackToContext;  
+ currentRow = null;  
+ 	stackToContext = null;  
+ this.rows = null;  
+ clearStackToContext(""); return;  
+ try { return;  
+ this.stackTableRowContext = null;  
+ this.tableName = null;  
+ return stackToRowContext;  
+ 	context = null;  
+ m_tableRowContext = null;  
+ 	this.stack = null;  
+ //tr = null;  
+ this.tr = null; return;  
+ ctx.clearStackToContext(); return;  
+ 	this.rowContext = null;  
+ this.curRowContext = null;  
+ 	this.context = null;  
+ this.context.clear(); return;  
+ // //return;  
+ rowContext = null; return;  
+ STACK_TO_CONTEXT = null;  
+ 	//clearStackToContext("tr");;  
+ System.gc(); return;  
+ StackToRowContext stackToRowContext = null;  
+;  
+ stackToContext.clear(); return;  
+ //clearStackToContext(); return;  
+ removeStackToContext("tr"); return;  
+ 	tableRowContext = null;  
+ StackTableRowContext stackTableRowContext = null;  
+ 	this.tableRowContext = null;  
+ this.context = null; return;  
+ //rowContext = null;  
+ context.clear(); return;  
+ this.stack = null; return;  
+ context = null; return null;  
+ this._stackToContext = null;  
+ //this.tr = null;  
+ table.clearTableRowContext(); return;  
+ clearStackToContext("tr"); ;  
+ //this.rowContext = null;  
+ //	context = null;  
+ 	this.tr = null;  
+ this.curRow = null;  
+ stackToContext = null; return;  
+ System.out.println(); return;  
+ 	try { 		return;  
+ 	this.stackToContext = null;  
+ getContext().clearStackToContext(); return;  
+ currentRow = null; return;  
+ if (context == null) return;  
+ if (ctx == null) { return;  
+ if (stack == null) return;  
+ if (rowContext == null) return;  
+ this.table.clearStackToContext;  
+ this.tableRowIndex = -1;  
+ clearStackToContext("_tr"); return;  
+ Stack.clear(); return;  
+ this.row = null; return;  
+ if (tc == null) { return;  
+ this.contextStack.clear;  
+ //clearStackToContext("tr"); ;  
+ if (stack.isEmpty()) { return;  
+ context = null; return true;  
+ ClearStackToContext(); return;  
+ this.context = this.context;  
+ tableRowContext.clear(); return;  
+ pageContext.clearStackToContext();;  
+ rowContext.clear(); return;  
+ if (stack == null) { return;  
+ 	contextStack.clear(); 	return;  
+ stack.clear(); return;  
+ clearStackToContext(); return true;  
+ 	context = null; 	return;  
+ if (tr == null) { return;  
+ tableRowContext = null; return;  
+ clearStackToContext(0); return;  
+ pageContext.clearStackToContext();  
+ if (context == null) return;  
+ clearStackToContext("tr"); //return;  
+ this.row.context = null;  
+ context = null; table = null;  
+ Context context = stackToContext;  
+ context = null; context = null;  
+ //	this.tr = null;  
+ ctx = null; return;  
+ contextStack.clear(); contextStack = null;  
+ table.clearContext(); return;  
+ this.contextStack.clear(); return;  
+ this.context = this.tableRowContext;  
+ //	this.context = null;  
+ tr = null; return;  
+ clearStackToContext(tr); return;  
+ 	clearStackToContext(); 	return;  
+ this.clearStackToContext("tr");;  
+ clearStackToContext("td"); return;  
+ contextStack = null; return;  
+ if (currentRow == null) return;  
+ this.context = this.tr;  
+ void clearStackToContext("tr");;  
+ this.stack.clear(); this;  
+ tableContext.clearStackToContext();  
+ pageContext.clearStackToContext;  
+ //    clearStackToContext("tr");;  
+ 	clearStackToContext("tr");;  
+ clearStackToContext(); return this;  
+ //clearStackToContext(); //return;  
+ this.ctx.clear(); return;  
+ tableContext.clear(); return;  
+ if (stack == null) return;  
+ Stack.clearStackToContext(); return;  
+ clearStackToContext("tr"); };  
+ clearStackToContext(); return false;  
+ this.context = this.rowContext;  
+ // clearStackToContext("tr"); return;  
+ clearStackToContext("tr"); return 0;  
+ clearStackToRowContext(); return;  
+ System.err.println(); return;  
+ contextStack.clear(); return null;  
+ tableContext = null; return;  
+ contextStack.clear(); return true;  
+ if (currentRow == null) { return;  
+ //System.out.println(this);;  
+ stackToRowContext.clear(); return;  
+ if (context != null) { return;  
+ //tr = null; return;  
+ //ClearStackToContext("tr"); return;  
+ context = null; tableRow = null;  
+ // clearStackToContext("tr");;  
+ this.context = this.tableContext;  
+ System.out.println(this);;  
+ if (rowContext == null) { return;  
+ this.tr.clear(); return;  
+ //System.out.println();  
+ if (contextStack.isEmpty()) { return;  
+ clearStackToContext(""); return null;  
+ if (currentRow != null) { return;  
+ if (!stack.isEmpty()) { return;  
+ if (tc != null) { return;  
+ this.contextStack = this.contextStack;  
+ //throw new UnsupportedOperationException(); //return;  
+ this.context = this.table.context;  
+ ClearStackToContext("tr"); return;  
+ if (stack != null) { return;  
+ clearStackToContext("tr");  return;  
+ //System.out.println(); return;  
+ if (stackToContext == null) return;  
+ // 	clearStackToContext("");  
+ clearStackToContext("tbody"); return;  
+ // 	clearStackToContext();;  
+ if (context == null) { return;  
+ this.rowContext = this.context;  
+ clearStackToContext(null); return;  
+ Context ctx = stackToContext; return ctx;  
+ this.rowContext.clear(); return;  
+ //ClearStackToContext("tr");;  
+ contextStack.clear(); contextStack.clear;  
+ //clearStackToContext("tr"); };  
+ this.ctx = this.table.ctx;  
+ //clearStackToContext(tr); return;  
+ if (stack.size() == 0) return;  
+ //	clearStackToContext(); return;  
+ tableContext.clearStackToContext(); return;  
+ //clearStackToContext("tr"); //;  
+ removeStackToContext("tr"); return null;  
+ StackTableRowContext context = stackTableRowContext;  
+ clearStackToContext("tr"); return tr;  
+ context.clearStackToContext("tr");;  
+  //clearStackToContext("tr");;  
+ void clearStackToContext("tr"); return;  
+ //System.out.println(); //return;  
+ removeStackToContext("tr"); return true;  
+ super.clearStackToContext(); return null;  
+ this.rowContext = this.rowContext;  
+ if (stackToRowContext == null) return;  
+ clearStackToContext(null); return null;  
+ //	clearStackToContext("tr"); ;  
+ this.clearStackToContext(); return this;  
+ //ctx.clearStackToContext(); return;  
+ pageContext.clearStackToContext(); return;  
+ clearStackToContext("tr"); return row;  
+ context = null; clearStackToContext("tr");  
+ //System.out.println; clearStackToContext("tr");  
+ clearStackToContext("tr");; clearStackToContext("tr");  
+ tr = null; clearStackToContext("tr");  
+ rowContext = null; clearStackToContext("tr");  
+ if (tc == null) return; clearStackToContext("tr");  
+ this.rowContext = null; clearStackToContext("tr");  
+ System.out.println; clearStackToContext("tr");  
+ if (context == null) return; clearStackToContext("tr");  
+ this.context = null; clearStackToContext("tr");  
+ this.tr = null; clearStackToContext("tr");  
+ ; clearStackToContext("tr");  
+ this.rowIndex = 0; clearStackToContext("tr");  
+ row = null; clearStackToContext("tr");  
+ if (tr == null) return; clearStackToContext("tr");  
+ this.tableRowContext = null; clearStackToContext("tr");  
+ tableRowContext = null; clearStackToContext("tr");  
+ this.rowIndex = -1; clearStackToContext("tr");  
+ return; clearStackToContext("tr");  
+ if (tc != null) return; clearStackToContext("tr");  
+ if (rowContext == null) return; clearStackToContext("tr");  
+ return null; clearStackToContext("tr");  
+ //clearStackToContext("tr");; clearStackToContext("tr");  
+ this.row = null; clearStackToContext("tr");  
+ table = null; clearStackToContext("tr");  
+ if (tr != null) return; clearStackToContext("tr");  
+ if (context != null) return; clearStackToContext("tr");  
+ if (currentRow != null) return; clearStackToContext("tr");  
+ if (ctx == null) return; clearStackToContext("tr");  
+ tableContext = null; clearStackToContext("tr");  
+ if (rowContext != null) return; clearStackToContext("tr");  
+ rowIndex = -1; clearStackToContext("tr");  
+ if (currentRow == null) return; clearStackToContext("tr");  
+ if (tr != null) { return; clearStackToContext("tr");  
+ if (row == null) return; clearStackToContext("tr");  
+ rows = null; clearStackToContext("tr");  
+ if (context != null) { return; clearStackToContext("tr");  
+ if(context == null) return; clearStackToContext("tr");  
+ //tr = null; clearStackToContext("tr");  
+ rowIndex = 0; clearStackToContext("tr");  
+ rowCount = 0; clearStackToContext("tr");  
+ ctx = null; clearStackToContext("tr");  
+ RowContext rowContext = null; clearStackToContext("tr");  
+ //; clearStackToContext("tr");  
+ if (stack == null) return; clearStackToContext("tr");  
+ pageContext = null; clearStackToContext("tr");  
+ if(tr == null) return; clearStackToContext("tr");  
+ ...; clearStackToContext("tr");  
+ this.tableContext = null; clearStackToContext("tr");  
+ this.ctx = null; clearStackToContext("tr");  
+ //return null; clearStackToContext("tr");  
+ if (tc==null) return; clearStackToContext("tr");  
+ if(tc == null) return; clearStackToContext("tr");  
+ this.rowCount = 0; clearStackToContext("tr");  
+ m_tableRowContext = null; clearStackToContext("tr");  
+ tableRow = null; clearStackToContext("tr");  
+ if (tc != null) { return; clearStackToContext("tr");  
+ this.table = null; clearStackToContext("tr");  
+ _tr = null; clearStackToContext("tr");  
+ //rowContext = null; clearStackToContext("tr");  
+ if (rows == null) return; clearStackToContext("tr");  
+ int rowCount = 0; clearStackToContext("tr");  
+ if (tr != null) return; clearStackToContext("tr");  
+ int rowIndex = 0; clearStackToContext("tr");  
+ //context = null; clearStackToContext("tr");  
+; clearStackToContext("tr");  
+ this.stack = null; clearStackToContext("tr");  
+ if (parent != null) return; clearStackToContext("tr");  
+ if(tr != null) return; clearStackToContext("tr");  
+ this.tableRow = null; clearStackToContext("tr");  
+ currentRowContext = null; clearStackToContext("tr");  
+ if(context != null) return; clearStackToContext("tr");  
+ clearStackToContext("tr"); ; clearStackToContext("tr");  
+ currentRow = null; clearStackToContext("tr");  
+ if (table == null) return; clearStackToContext("tr");  
+ void clearStackToContext("tr");; clearStackToContext("tr");  
+ contextStack = null; clearStackToContext("tr");  
+ this.contextStack = null; clearStackToContext("tr");  
+ this.currentRowContext = null; clearStackToContext("tr");  
+ if (tableContext == null) return; clearStackToContext("tr");  
+ if (tc != null) return; clearStackToContext("tr");  
+ if(tc==null) return; clearStackToContext("tr");  
+ if (table != null) { return; clearStackToContext("tr");  
+ if (table != null) return; clearStackToContext("tr");  
+ if (context == null) { return; clearStackToContext("tr");  
+ thisRow = null; clearStackToContext("tr");  
+ //System.err.println; clearStackToContext("tr");  
+ int i = 0; clearStackToContext("tr");  
+ if (row != null) return; clearStackToContext("tr");  
+ System.err.println; clearStackToContext("tr");  
+ if (ctx != null) return; clearStackToContext("tr");  
+ RowContext rowContext = new RowContext; clearStackToContext("tr");  
+ if (context != null) return; clearStackToContext("tr");  
+ if (row != null) { return; clearStackToContext("tr");  
+ if (stack != null) return; clearStackToContext("tr");  
+ //row = null; clearStackToContext("tr");  
+ System.gc();; clearStackToContext("tr");  
+ if(rowContext == null) return; clearStackToContext("tr");  
+ if (stack.isEmpty()) return; clearStackToContext("tr");  
+ Thread t = Thread.currentThread();; clearStackToContext("tr");  
+ // System.out.println; clearStackToContext("tr");  
+ if(currentRow != null) return; clearStackToContext("tr");  
+ if (tableRows == null) return; clearStackToContext("tr");  
+ _rowContext = null; clearStackToContext("tr");  
+ if (parent == null) return; clearStackToContext("tr");  
+ if (stack != null) { return; clearStackToContext("tr");  
+ this.currentRow = null; clearStackToContext("tr");  
+ if (contextStack == null) return; clearStackToContext("tr");  
+ if(rowContext != null) return; clearStackToContext("tr");  
+ this.tableName = null; clearStackToContext("tr");  
+ try { return; clearStackToContext("tr");  
+ if (rowCount == 0) return; clearStackToContext("tr");  
+ if(row == null) return; clearStackToContext("tr");  
+ if (tableRowContext != null; clearStackToContext("tr");  
+ clearStackToContext("td");; clearStackToContext("tr");  
+ if (currentRow == null) return; clearStackToContext("tr");  
+ if(ctx == null) return; clearStackToContext("tr");  
+ if (contextStack.isEmpty()) return; clearStackToContext("tr");  
+ if (currentRow != null) { return; clearStackToContext("tr");  
+ m_context = null; clearStackToContext("tr");  
+ clearStackToContext("tbody");; clearStackToContext("tr");  
+ if(tc != null) return; clearStackToContext("tr");  
+ this.rowIndex = 1; clearStackToContext("tr");  
+ if(currentRow == null) return; clearStackToContext("tr");  
+ if (tcContext == null) return; clearStackToContext("tr");  
+ this.tableRowIndex = 0; clearStackToContext("tr");  
+ if(tr != null) return; clearStackToContext("tr");  
+ if (depth == 0) return; clearStackToContext("tr");  
+ this.tableRowIndex = -1; clearStackToContext("tr");  
+ if(tr != null) { return; clearStackToContext("tr");  
+ context = EMPTY_CONTEXT; clearStackToContext("tr");  
+ for (int i = 0; clearStackToContext("tr");  
+ if (tableContext != null) return; clearStackToContext("tr");  
+ if (tableRow == null) return; clearStackToContext("tr");  
+ this._context = null; clearStackToContext("tr");  
+ if (tc != null) {; clearStackToContext("tr");  
+ //currentRowContext = null; clearStackToContext("tr");  
+ Thread t = Thread.currentThread; clearStackToContext("tr");  
+ if(tr==null) return; clearStackToContext("tr");  
+ this.stackContext = null; clearStackToContext("tr");  
+ if(tc==null)return; clearStackToContext("tr");  
+ if(table != null) return; clearStackToContext("tr");  
+ if (tableRow != null) return; clearStackToContext("tr");  
+ if (tr != null) {; clearStackToContext("tr");  
+ if (currentContext == null) return; clearStackToContext("tr");  
+ if (tcContext != null) return; clearStackToContext("tr");  
+ if (trace) trace; clearStackToContext("tr");  
+ if(row != null) return; clearStackToContext("tr");  
+ if (ctx != null) { return; clearStackToContext("tr");  
+ this.curRowContext = null; clearStackToContext("tr");  
+ if (tr == null) { return; clearStackToContext("tr");  
+ this.level = 0; clearStackToContext("tr");  
+ if(context != null) { return; clearStackToContext("tr");  
+ if (table != null) {; clearStackToContext("tr");  
+ if (tc == null) { return; clearStackToContext("tr");  
+ if (row != null) return; clearStackToContext("tr");  
+ //if (tr == null) return; clearStackToContext("tr");  
+ if (currentContext != null) return; clearStackToContext("tr");  
+ System.out.println(); clearStackToContext("tr");  
+ if (rowContext != null) {; clearStackToContext("tr");  
+ if (currentRow != null; clearStackToContext("tr");  
+ //currentRow = null; clearStackToContext("tr");  
+ if (pageContext == null) return; clearStackToContext("tr");  
+ for (int i = 1; clearStackToContext("tr");  
+ if (currentRow != null) {; clearStackToContext("tr");  
+ //this.rowContext = null; clearStackToContext("tr");  
+ if (contextStack != null) return; clearStackToContext("tr");  
+ if (tc == null) return null; clearStackToContext("tr");  
+ RowContext rowContext = this; clearStackToContext("tr");  
+ if (table != null) return; clearStackToContext("tr");  
+ if (m_table != null; clearStackToContext("tr");  
+ if(stack != null) return; clearStackToContext("tr");  
+ //System.gc();; clearStackToContext("tr");  
+ if (isEmpty()) { return; clearStackToContext("tr");  
+ if(stack.isEmpty()) return; clearStackToContext("tr");  
+ if (tc != null) tc; clearStackToContext("tr");  
+ if (null == rowContext) return; clearStackToContext("tr");  
+ if (pageContext != null) return; clearStackToContext("tr");  
+ if(context==null) return; clearStackToContext("tr");  
+ if (null == tr) return; clearStackToContext("tr");  
+ Thread t = Thread.currentThread(); clearStackToContext("tr");  
+ this.currentRowIndex = 0; clearStackToContext("tr");  
+ if(context != null) return; clearStackToContext("tr");  
+ if (tableRows != null) return; clearStackToContext("tr");  
+ if (row != null) {; clearStackToContext("tr");  
+ if (null != tr) return; clearStackToContext("tr");  
+ context = new TableRowContext; clearStackToContext("tr");  
+ //System.out.println(); clearStackToContext("tr");  
+ if(tr!=null) return; clearStackToContext("tr");  
+ if (rows != null) return; clearStackToContext("tr");  
+ if (currentRowContext != null; clearStackToContext("tr");  
+ if(parent != null) return; clearStackToContext("tr");  
+ if (stackTableRowContext != null; clearStackToContext("tr");  
+ this.currentRowIndex = -1; clearStackToContext("tr");  
+ if(ctx != null) return; clearStackToContext("tr");  
+ if (null != tr) { return; clearStackToContext("tr");  
+ StringBuilder sb = new StringBuilder(); sb; clearStackToContext("tr");  
+ if (context != null) {; clearStackToContext("tr");  
+ if (tc!=null) return; clearStackToContext("tr");  
+ if(currentRow != null; clearStackToContext("tr");  
+ void clearStackToContext("tr"); clearStackToContext("tr");  
+ //if (tr != null) return; clearStackToContext("tr");  
+ //this.context = null; clearStackToContext("tr");  
+ if (tc != null); clearStackToContext("tr");  
+ if (rowIndex == 0) return; clearStackToContext("tr");  
+ if (stack.size() == 0; clearStackToContext("tr");  
+ this.context = this.tableRow; clearStackToContext("tr");  
+ if (tr == null) return null; clearStackToContext("tr");  
+ RowContext rowContext = context; clearStackToContext("tr");  
+ this.rowIndex++; this.rowIndex; clearStackToContext("tr");  
+ StringBuilder sb = new StringBuilder; clearStackToContext("tr");  
+ if (context == null) return null; clearStackToContext("tr");  
+ if (null == context) return; clearStackToContext("tr");  
+ if (isEmpty()) { return; clearStackToContext("tr");  
+ if(table != null) { return; clearStackToContext("tr");  
+ if (curRow != null) return; clearStackToContext("tr");  
+ if (stack != null) return; clearStackToContext("tr");  
+ try { clearStackToTableRowContext; clearStackToContext("tr");  
+ this.context = this.rowContext; clearStackToContext("tr");  
+ if (currentTableRow != null) return; clearStackToContext("tr");  
+ if (currentTableRowContext != null; clearStackToContext("tr");  
+ if (stack.size() > 0; clearStackToContext("tr");  
+ if (tr != null); clearStackToContext("tr");  
+ if(tableRowContext != null; clearStackToContext("tr");  
+ if (_tr != null) return; clearStackToContext("tr");  
+ clearStackToContext("tr"); clearStackToContext("tr");  
+ if (getCurrentRow() == null; clearStackToContext("tr");  
+ if (row != null) row; clearStackToContext("tr");  
+ this.context = this.tableContext; clearStackToContext("tr");  
+ this.pageContext = null; clearStackToContext("tr");  
+ if (stackTableRowContext == null; clearStackToContext("tr");  
+ if (context != null); clearStackToContext("tr");  
+ if (rowContext != null); clearStackToContext("tr");  
+ if (currentRow != null) return; clearStackToContext("tr");  
+ if (getCurrentRow() != null; clearStackToContext("tr");  
+ if (tc == null) return; clearStackToContext("tr");  
+ if(row != null) { return; clearStackToContext("tr");  
+ if (ctx != null) return; clearStackToContext("tr");  
+ if (context == null) return; clearStackToContext("tr");  
+ if (rows != null) { return; clearStackToContext("tr");  
+ if (currentRow != null); clearStackToContext("tr");  
+ if (trace) return; clearStackToContext("tr");  
+ if (tc != null) tc; clearStackToContext("tr");  
+ tableRowContext = new TableRowContext; clearStackToContext("tr");  
+ if (stackToRowContext == null; clearStackToContext("tr");  
+ if(table != null) return; clearStackToContext("tr");  
+ if (parent != null) return; clearStackToContext("tr");  
+ if (currentTableRow != null; clearStackToContext("tr");  
+ if (context != null) context; clearStackToContext("tr");  
+ if(stack != null) { return; clearStackToContext("tr");  
+ //clearStackToContext("tr");  
+ clearStackToContext("tr");  
+ context.clearStackToContext("tr");  
+  //clearStackToContext("tr");  
+ 	clearStackToContext("tr");  
+ this.clearStackToContext("tr");  
+ ctx.clearStackToContext("tr");  
+ ClearStackToContext("tr");  
+ // clearStackToContext("tr");  
+ System.out.println("tr");  
+ 	//clearStackToContext("tr");  
+ removeStackToContext("tr");  
+ //ClearStackToContext("tr");  
+ void clearStackToContext("tr");  
+ //	clearStackToContext("tr");  
+ //System.out.println("tr");  
+ //stackToContext("tr");  
+ //removeStackToContext("tr");  
+ Stack.clearStackToContext("tr");  
+ // //clearStackToContext("tr");  
+ closeStackToContext("tr");  
+ table.clearStackToContext("tr");  
+ //context.clearStackToContext("tr");  
+ setStackToContext("tr");  
+  	clearStackToContext("tr");  
+  clearStackToContext("tr");  
+ popStackToContext("tr");  
+ //setStackToContext("tr");  
+ getContext().clearStackToContext("tr");  
+  	//clearStackToContext("tr");  
+ showStackToContext("tr");  
+ console.log("tr");  
+ stackToContext("tr");  
+ ("tr");  
+ //printStackToContext("tr");  
+ printStackToContext("tr");  
+ //ctx.clearStackToContext("tr");  
+ stackToContext.clear("tr");  
+ //deleteStackToContext("tr");  
+ //void clearStackToContext("tr");  
+ //popStackToContext("tr");  
+ fmt.Println("tr");  
+ Context.clearStackToContext("tr");  
+ System.err.println("tr");  
+ //StackToContext("tr");  
+ deleteStackToContext("tr");  
+ pageContext.clearStackToContext("tr");  
+ stack.clearStackToContext("tr");  
+ sb.clearStackToContext("tr");  
+ StackUtil.clearStackToContext("tr");  
+ getStackToContext("tr");  
+ 	context.clearStackToContext("tr");  
+ //resetStackToContext("tr");  
+ //getStackToContext("tr");  
+ cursor.clearStackToContext("tr");  
+public void clearStackToContext("tr");  
+ tableContext.clearStackToContext("tr");  
+ rows.clearStackToContext("tr");  
+ //cleanStackToContext("tr");  
+ cleanStackToContext("tr");  
+ //console.log("tr");  
+void clearStackToContext("tr");  
+ stackToContext.remove("tr");  
+ // ClearStackToContext("tr");  
+ view.clearStackToContext("tr");  
+ requestContext.clearStackToContext("tr");  
+ super.clearStackToContext("tr");  
+ try { clearStackToContext("tr");  
+ util.clearStackToContext("tr");  
+ threadContext.clearStackToContext("tr");  
+ clearStackToRowContext("tr");  
+ Stack.clearToContext("tr");  
+ context.removeStackToContext("tr");  
+ contextStack.clearStackToContext("tr");  
+ log.info("tr");  
+ Log.Println("tr");  
+ rowContext.clearStackToContext("tr");  
+  // clearStackToContext("tr");  
+ addStackToContext("tr");  
+ return clearStackToContext("tr");  
+ SetStackToContext("tr");  
+ //this.clearStackToContext("tr");  
+ row.clearStackToContext("tr");  
+ q.clearStackToContext("tr");  
+ System.clearStackToContext("tr");  
+ ////clearStackToContext("tr");  
+ C.clearStackToContext("tr");  
+ Stack.clearContext("tr");  
+ ThreadContext.clearStackToContext("tr");  
+ openStackToContext("tr");  
+ //closeStackToContext("tr");  
+ log.debug("tr");  
+ 	// clearStackToContext("tr");  
+ result.clearStackToContext("tr");  
+ contextStack.clear("tr");  
+ Thread.currentThread().setContextPath("tr");  
+ sqlContext.clearStackToContext("tr");  
+ //fmt.Println("tr");  
+ //System.err.println("tr");  
+ //Stack.clearStackToContext("tr");  
+ checkStackToContext("tr");  
+ session.clearStackToContext("tr");  
+ //emptyStackToContext("tr");  
+ this.removeStackToContext("tr");  
+  //ClearStackToContext("tr");  
+ //    clearStackToContext("tr");  
+ //showStackToContext("tr");  
+ //clearStackToRowContext("tr");  
+ contextStack.clearToContext("tr");  
+ tc.clearStackToContext("tr");  
+ // stackToContext("tr");  
+ ctx.removeStackToContext("tr");  
+ datatable.clearStackToContext("tr");  
+ getTable().clearStackToContext("tr");  
+ _context.clearStackToContext("tr");  
+ stackToContext.pop("tr");  
+ contextStack.pop("tr");  
+ stackToRowContext.clear("tr");  
+ TableContext.clearStackToContext("tr");  
+ stack.clearToContext("tr");  
+ _ctx.clearStackToContext("tr");  
+ contextStack.remove("tr");  
+ Thread.currentThread().setContextClassLoader("tr");  
+ Context ctx = stackToContext("tr");  
+ dataSource.clearStackToContext("tr");  
+ StackTracer.clearStackToContext("tr");  
+ //table.clearStackToContext("tr");  
+ 	this.clearStackToContext("tr");  
+ ContextStack.clearStackToContext("tr");  
+ getRowContext().clearStackToContext("tr");  
+ StackContext.clearStackToContext("tr");  
+ _table.clearStackToContext("tr");  
+ //Context.clearStackToContext("tr");  
+ contexts.clearStackToContext("tr");  
+ clearStackToTableRowContext("tr");  
+ contextStack.push("tr");  
+  ctx.clearStackToContext("tr");  
+ 	ctx.clearStackToContext("tr");  
+ 	//stackToContext("tr");  
+ //log.info("tr");  
+  //stackToContext("tr");  
+ }public void clearStackToContext("tr");  
+ //log.debug("tr");  
+ 	stackToContext.clear("tr");  
+ return context.clearStackToContext("tr");  
+ topContext.clearStackToContext("tr");  
+  //removeStackToContext("tr");  
+  	// clearStackToContext("tr");  
+ // 	clearStackToContext("tr");  
+ Context context = stackToContext("tr");  
+ stackToRowContext.remove("tr");  
+ stackContext.clearStackToContext("tr");  
+ Context ctx = stack.pop("tr");  
+ // //ClearStackToContext("tr");  
+ StackTable.clearStackToContext("tr");  
+ context = new TableRowContext("tr");  
+ SwingUtilities.popStack("tr");  
+ return stackToContext("tr");  
+ _tr.clearStackToContext("tr");  
+ contextTable.clearStackToContext("tr");  
+ stackToContext().clear("tr");  
+ stackToContext.push("tr");  
+ popTableRowContext("tr");  
+ //clearStackToTableRowContext("tr");  
+ this.stackToContext.remove("tr");  
+ Thread.currentThread().setContextMap("tr");  
+ displayTableRowContext("tr");  
+ 	Stack.clearStackToContext("tr");  
+ 	contextStack.clear("tr");  
+ context = new TableContext("tr");  
+ STACK_TO_CONTEXT.remove("tr");  
+ stackToContext().remove("tr");  
+ 	stackToContext.remove("tr");  
+ getStackToContext().remove("tr");  
+ context = new StackToContext("tr");  
+ context = new StackContext("tr");  
+ PageContext pageContext = getPageContext("tr");  
+ StackToRowContext.clear("tr");  
+ this.stackToContext.clear("tr");  
+ StringBuilder sb = new StringBuilder("tr");  
+("tr");  
+ Thread.currentThread().setContext("tr");  
+ this.stack.clearToContext("tr");  
+ context = new StackToRowContext("tr");  
+ STACK_TO_CONTEXT.clear("tr");  
+ stackToContext().pop("tr");  
+ StackTraceElement[] stack = getStack("tr");  
+ stackToContext.clearContext("tr");  
+ this.stack.clear("tr");  
+ getStackToContext().clear("tr");  
+ stackToRowContext.pop("tr");  
+ //contextStack.clear("tr");  
+ context = stack.pop("tr");  
+ stackToContext.clearToContext("tr");  
+ Context ctx = stackContext.get("tr");  
+ Context ctx = Stack.getContext("tr");  
+ SwingUtilities.popStackToContext("tr");  
+ Context ctx = stack.getContext("tr");  
+  	stackToContext.clear("tr");  
+ Context context = stack.pop("tr");  
+  	stackToContext.remove("tr");  
+ stackToContext = new HashMap("tr");  
+ stackToContext.removeContext("tr");  
+ //stackToContext.remove("tr");  
+ //Thread.currentThread().setContextPath("tr");  
+ try { stackToContext("tr");  
+ Thread t = Thread.currentThread();("tr");  
+ stackToTableRowContext.clear("tr");  
+ StackTableRowContext.clear("tr");  
+ this.contextStack.clear("tr");  
+ StackToRowContext.clearContext("tr");  
+ StackTableRowContext.clearContext("tr");  
+ 	stackToRowContext.clear("tr");  
+ StackToRowContext.clearStack("tr");  
+ Thread.currentThread().getContext().removeAttribute("tr");  
+ stackToRowContext = new HashMap("tr");  
+ stackToTableRowContext.clear("tr");  
+ Context ctx = stack.get("tr");  
+ stackToTableRowContext.remove("tr");  
+ stackTableRowContext.clear("tr");  
+ this.stackContext.clear("tr");  
+ 	stackToRowContext.remove("tr");  
+ StackTableRowContext.clearStack("tr");  
+ //stackToContext().remove("tr");  
+ Context ctx = stack.popContext("tr");  
+ //stackToRowContext.remove("tr");  
+ //Thread.currentThread().setContextClassLoader("tr");  
+ stackToContext.clearStack("tr");  
+ stackToRowContext.clearStack("tr");  
+ stackToTableRowContext.clear("tr");  
+ StackToRowContext stackToContext("tr");  
+ Context ctx = stackContext.pop("tr");  
+ //StackToContext().clear("tr");  
+ //StackToRowContext().clear("tr");  
+ contextStack.pop().clear("tr");  
+ //Thread.currentThread().setContext("tr");  
+ //stackToContext.clear("tr");  
+ StackToTableRowContext stackToContext("tr");  
+ TableContext ctx = stack.pop("tr");  
+ STACK_TO_CONTEXT.pop("tr");  
+ //StackToRowContext.clear("tr");  
+ StackToTableRowContext.clear("tr");  
+ this.stackToContext.pop("tr");  
+ //stackToRowContext.clear("tr");  
+ stackToRowContext = new Stack("tr");  
+ StackTraceElement[] stack = getStackTrace("tr");  
+ Thread.currentThread().getContext().remove("tr");  
+ stackToTableRowContext = new Stack("tr");  
+ stackToContext.pop().clear("tr");  
+ StackToTableRowContext.clearStack("tr");  
+clearStackToContext(0); clearStackToContext(1);  
+clearStackToContext(tr); clearStackToContext(tr);  
+clearStackToContext(1); clearStackToContext(2);  
+clearStackToContext(Tr.class);  
+clearStackToContext(tr);  
+clearStackToContext(TABLE_ROW_CONTEXT);  
+clearStackToContext(tr); clearStackToContext(td);  
+clearStackToContext(TableRow.class);  
+clearStackToContext(0); clearStackToContext(0);  
+clearStackToContext(tr); clearStackToContext(row);  
+clearStackToContext(1); clearStackToContext(0);  
+clearStackToContext(tr); clearStackToContext(tbody);  
+clearStackToContext(0);  
+clearStackToContext(Tr); clearStackToContext(Row);  
+clearStackToContext(2);  
+clearStackToContext(tableRowContext);  
+clearStackToContext(tableName);  
+clearStackToContext(tr); clearStackToContext(table);  
+clearStackToContext(tr); clearStackToContext(tc);  
+clearStackToContext(Tr); clearStackToContext(Tr);  
+clearStackToContext(null); clearStackToContext(null);  
+clearStackToContext(1);  
+clearStackToContext(this.tableName);  
+clearStackToContext(tr); clearStackToContext(th);  
+clearStackToContext(2); clearStackToContext(3);  
+clearStackToContext(0); clearStackToContext(-1);  
+clearStackToContext(this.tr);  
+clearStackToContext(Tr.tableName);  
+clearStackToContext(tr); clearStackToTableRowContext();  
+clearStackToContext(Tr.id);  
+clearStackToContext(TableRow.class.name);  
+clearStackToContext(false); clearStackToContext(true);  
+clearStackToContext(Tr); clearStackToContext(Td);  
+clearStackToContext(2); clearStackToContext(1);  
+clearStackToContext(tr, false);  
+clearStackToContext(Tr.class.name);  
+clearStackToContext(true); clearStackToContext(false);  
+clearStackToContext(1); clearStackToContext(1);  
+clearStackToContext(TableRowContext.class);  
+clearStackToContext(tr); clearStackToContext(tb);  
+clearStackToContext(2); clearStackToContext(4);  
+clearStackToContext(tr); clearStackToContext(tbl);  
+clearStackToContext(TABLE_ROW);  
+clearStackToContext(Tr, false);  
+clearStackToContext(4);  
+clearStackToContext(this); clearStackToContext(this);  
+clearStackToContext(tableContext);  
+clearStackToContext(Tr.TABLENAME);  
+clearStackToContext(Tr.ELEMENT_TR);  
+clearStackToContext(Tr); clearStackToContext(TD);  
+clearStackToContext(stackTableRowContext);  
+clearStackToContext(TABLENAME);  
+clearStackToContext(this.rowIndex);  
+clearStackToContext(tr); clearStackToContext("td);  
+clearStackToContext(Context.TABLE_ROW);  
+clearStackToContext(Tr.name);  
+clearStackToContext(tr); clearStackToTableRow(tr);  
+clearStackToContext(Tr); clearStackToContext(tr);  
+clearStackToContext(1); clearStackToContext(3);  
+clearStackToContext(tr.rowIndex);  
+clearStackToContext(tr, true);  
+clearStackToContext(Tr, 0);  
+clearStackToContext(Tr); clearStackToContext(TableRow);  
+clearStackToContext(CONTEXT_TABLE_ROW);  
+clearStackToContext(m_tableName);  
+clearStackToContext(tr); clearStackToContext(col);  
+clearStackToContext(0,0);  
+clearStackToContext(Tr, true);  
+clearStackToContext(0, 0);  
+clearStackToContext(tbody); clearStackToContext(tr);  
+clearStackToContext(0, 0, 0);  
+clearStackToContext(Tr.class, 0);  
+clearStackToContext(tr,false);  
+clearStackToContext(tr); clearStackToContext("tr);  
+clearStackToContext(TableRowContext.tr);  
+clearStackToContext(Tr, null);  
+clearStackToContext(trTableRowContext);  
+clearStackToContext(row); clearStackToContext(col);  
+clearStackToContext(tr.tableName);  
+clearStackToContext(Tr.ELEMENT_NAME);  
+clearStackToContext(0); clearStackToContext(2);  
+clearStackToContext(tr, 0);  
+clearStackToContext(null, null, null, null, null);  
+clearStackToContext(null, null, null);  
+clearStackToContext(1); clearStackToContext(-1);  
+clearStackToContext(Tr); clearStackToContext(Cell);  
+clearStackToContext(Tr); clearStackToContext(td);  
+clearStackToContext(Tr); clearStackToTableRowContext();  
+clearStackToContext(Tr); clearStackToContext(Table);  
+clearStackToContext(null, null, null, null);  
+clearStackToContext(false); clearStackToContext(false);  
+clearStackToContext(TABLE_ROW_NAME);  
+clearStackToContext(0, 0, 0, 0);  
+clearStackToContext(tbl); clearStackToContext(tr);  
+clearStackToContext(0,0,0);  
+clearStackToContext(Tr.TABLE_ROW);  
+clearStackToContext(TrContext.class);  
+clearStackToContext(row); clearStackToContext(table);  
+clearStackToContext(TR); clearStackToContext(TD);  
+clearStackToContext(TABLE_ROW_CONTEXT_KEY);  
+clearStackToContext(1); clearStackToContext(4);  
+clearStackToContext(2); clearStackToContext(0);  
+clearStackToContext(TrTableRowContext.class);  
+clearStackToContext(TableRowType.TH);  
+clearStackToContext(TableRowContext.TABLE_ROW_CONTEXT);  
+clearStackToContext(Context.TABLE_ROW_CONTEXT);  
+clearStackToContext(Tr.class, null);  
+clearStackToContext(TABLE_ROW_ID);  
+clearStackToContext(col); clearStackToContext(row);  
+clearStackToContext(TableRow.class, TableRow.class);  
+clearStackToContext(TABLE_ROW_CONTEXT_NAME);  
+clearStackToContext(TableRow.class,TableRow.class);  
+clearStackToContext(TrTableRow.class);  
+clearStackToContext(2); clearStackToContext(2);  
+clearStackToContext(tr); clearStackToContext(thead);  
+clearStackToContext(rowIndex); clearStackToContext(columnIndex);  
+clearStackToContext(0,0,0,0,0);  
+clearStackToContext(3); clearStackToContext(4);  
+clearStackToContext(null); clearStackToContext(row);  
+clearStackToContext(row); clearStackToContext(tr);  
+clearStackToContext(0, 0, 0, 0, 0);  
+clearStackToContext(TrTable.class);  
+clearStackToContext(Tr); clearStackToContext(tc);  
+clearStackToContext(TableRowContext.TR);  
+clearStackToContext(TableRow.ELEMENT_NAME);  
+clearStackToContext(TableRow.TABLE_ROW_CONTEXT);  
+clearStackToContext(TABLE_ROW_HEADER);  
+clearStackToContext(Tr.class, Row.class);  
+clearStackToContext(Tr.COLUMN_NAME);  
+clearStackToContext(STACK_TO_TABLE_ROW_CONTEXT);  
+clearStackToContext(TableRow.COLUMN_NAME);  
+clearStackToContext(TableRow.ROW_NAME);  
+clearStackToContext(tr); clearStackToContext(cell);  
+clearStackToContext(tableName); clearStackToContext(tableName);  
+clearStackToContext(Tr.class, false);  
+clearStackToContext(Tr.class, TableRow.class);  
+clearStackToContext(Tr.TABLE_ROW_CONTEXT);  
+clearStackToContext(TABLE_ROW_CONTEXT_ID);  
+clearStackToContext(0,0,0,0);  
+clearStackToContext(ROW); clearStackToContext(COL);  
+clearStackToContext(TableRow.TABLE_ROW);  
+clearStackToContext(rowIndex); clearStackToContext(rowIndex);  
+clearStackToContext(table_row_context);  
+clearStackToContext(tr_table_row);  
+clearStackToContext(TableRow.class, 0);  
+clearStackToContext(tableName); clearStackToContext(row);  
+clearStackToContext(Tr); clearStackToContext(tbody);  
+clearStackToContext(Tr.class, tr);  
+clearStackToContext(TABLE_ROW_CTX);  
+clearStackToContext(this.tableRowContext);  
+clearStackToContext(STACK_TO_ROW_CONTEXT);  
+clearStackToContext(TableRow.ROW_ID);  
+clearStackToContext(3); clearStackToContext(2);  
+clearStackToContext(0); clearStackToTableRow(0);  
+clearStackToContext(STACK_TOP_ROW);  
+clearStackToContext(Tr, "tr", false);  
+clearStackToContext(1); clearStackToContext(5);  
+clearStackToContext(tableName); clearStackToContext(rowIndex);  
+clearStackToContext(TableRow.ELEMENT_TR);  
+clearStackToContext(TrRow.class);  
+clearStackToContext(TABLE_ROW_KEY);  
+clearStackToContext(T_ROW_CONTEXT);  
+clearStackToContext(2); clearStackToContext(5);  
+clearStackToContext(TableRow.ROW_CONTEXT);  
+clearStackToContext(this); clearStackToContext(table);  
+clearStackToContext(TABLE_ROW_TABLENAME);  
+clearStackToContext(Tr.class, 1);  
+clearStackToContext(tr); clearStackToTableRow(row);  
+clearStackToContext(this); clearStackToContext(row);  
+clearStackToContext(table); clearStackToContext(tr);  
+clearStackToContext(Tr, null, null);  
+clearStackToContext(null); clearStackToContext(table);  
+clearStackToContext(SCROLL_TO_ROW_CONTEXT);  
+clearStackToContext(""); clearStackToContext("");  
+clearStackToContext(Tr.class, "tr", 0);  
+clearStackToContext(Tr.class, Table.class);  
+clearStackToContext(TableRow.TABLE_ROW_ID);  
+clearStackToContext(String.class, String.class);  
+clearStackToContext(Tr.class,Tr.class);  
+clearStackToContext(DataTable.TABLE_ROW);  
+clearStackToContext(TableRowContext.class.name);  
+clearStackToContext(SCROLL_TO_ROW);  
+clearStackToContext(Tr, 0, 0);  
+clearStackToContext(0); clearStackToContext(null);  
+clearStackToContext(table); clearStackToContext(row);  
+clearStackToContext(DataTable.TABLE_ROW_CONTEXT);  
+clearStackToContext(tr); clearStackToContext(colgroup);  
+clearStackToContext(TABLE_ROW_CONTEXT_TAB);  
+clearStackToContext(TableRowContext.TABLE_ROW);  
+clearStackToContext(Tr.HEADER_ROW);  
+clearStackToContext(TR); clearStackToContext(COL);  
+clearStackToContext(null); clearStackToContext(this);  
+clearStackToContext(0); clearStackToTableRow(1);  
+clearStackToContext(tr); clearStackToTableContext(tr);  
+clearStackToContext(tr); delete(tr);  
+clearStackToContext(4); clearStackToContext(5);  
+clearStackToContext(TableRow.class, null);  
+clearStackToContext(TrTableRow.Context);  
+clearStackToContext(tr, "tr", false);  
+clearStackToContext(TableRow.CONTEXT_TABLE_ROW);  
+clearStackToContext(0); clearStackToContext(3);  
+clearStackToContext(Tr, "tr", 0);  
+clearStackToContext(this); clearStackToContext(null);  
+clearStackToContext(0); clearStackToContext(10);  
+clearStackToContext(null); clearStackToContext("tr);  
+clearStackToContext(Tr); clearStackToContext(Col);  
+clearStackToContext(Tr, null, null, null, null);  
+clearStackToContext(STACK_TOP_ROW_CONTEXT);  
+clearStackToContext(4); clearStackToContext(2);  
+clearStackToContext(Tr.class, "tr", null);  
+clearStackToContext(tableName); clearStackToContext(table);  
+clearStackToContext(this); clearStackToContext("tr);  
+clearStackToContext(tr); clearStackToContext("", tr);  
+clearStackToContext(context); clearStackToContext(row);  
+clearStackToContext(4); clearStackToContext(0);  
+clearStackToContext(rowIndex); clearStackToContext(col);  
+clearStackToContext(Tr, null, null, null);  
+clearStackToContext(Thread.currentThread().getContextPath() + "/");  
+clearStackToContext(TR); clearStackToContext(TR);  
+clearStackToContext(Tr); clearStackToContext(th);  
+clearStackToContext(Tr.class,Tr.class,Tr);  
+clearStackToContext(0); clearStackToContext(4);  
+clearStackToContext(row); clearStackToContext(td);  
+clearStackToContext(4); clearStackToContext(4);  
+clearStackToContext(this.tableName, this.rowIndex);  
+clearStackToContext(Tr.class.getName(), null);  
+clearStackToContext(TableRow.class.toString(),TableRow.class);  
+clearStackToContext(Tr.class, "tr", false);  
+clearStackToContext(TABLE_ROW_CONTEXT_STACK);  
+clearStackToContext(tr); clearStackToContext(t);  
+clearStackToContext(tr); clearStackToContext("th);  
+clearStackToContext(Tr.class.getName(), 0);  
+clearStackToContext(3); clearStackToContext(1);  
+clearStackToContext(tbl); clearStackToContext(row);  
+clearStackToContext(tr); clearStackToContext("tbody);  
+clearStackToContext(TABLE_ROW_STACK_KEY);  
+clearStackToContext(""); clearStackToContext(null);  
+clearStackToContext(TableRow.TABLE_ROW_NAME);  
+clearStackToContext(Tr.TABLE_ROW_ID);  
+clearStackToContext(Tr); clearStackToContext(Tc);  
+clearStackToContext(STACK_TO_TABLE_ROW);  
+clearStackToContext(Tr.TOP_LEVEL_COL);  
+clearStackToContext(Tr.class.getSimpleName(), null);  
+clearStackToContext(1, 1, 1, 1);  
+clearStackToContext(4); clearStackToContext(3);  
+clearStackToContext(0); clearStackToTableRowContext();  
+clearStackToContext(tableName); clearStackToContext(startRow);  
+clearStackToContext(ctx); clearStackToContext(row);  
+clearStackToContext(tableName); clearStackToContext(tableId);  
+clearStackToContext(1); clearStackToTableRowContext();  
+clearStackToContext("tr", false);  
+clearStackToContext("tr", null);  
+clearStackToContext("tr", 0);  
+clearStackToContext("tr", true);  
+clearStackToContext("tr",false);  
+clearStackToContext("tr",0);  
+clearStackToContext("tr", 1);  
+clearStackToContext("tr", -1);  
+clearStackToContext("tr",true);  
+clearStackToContext("tr", false); clearStackToContext("tr);  
+clearStackToContext("tr",null);  
+clearStackToContext("tr", false, false);  
+clearStackToContext("tr", 0); clearStackToContext("tr);  
+clearStackToContext("tr", true); clearStackToContext("tr);  
+clearStackToContext("tr", 0, 0);  
+clearStackToContext("tr", null, null);  
+clearStackToContext("tr",1);  
+clearStackToContext("tr", 2);  
+clearStackToContext("tr", 0, false);  
+clearStackToContext("tr", false, true);  
+clearStackToContext("tr", "", false);  
+clearStackToContext("tr", null, null, null);  
+clearStackToContext("tr", this);  
+clearStackToContext("tr", 0, true);  
+clearStackToContext("tr", 1); clearStackToContext("tr);  
+clearStackToContext("tr", context);  
+clearStackToContext("tr", true, true);  
+clearStackToContext("tr", "", true);  
+clearStackToContext("tr", false, false, false);  
+clearStackToContext("tr", null, false);  
+clearStackToContext("tr", true, false);  
+clearStackToContext("tr", null); clearStackToContext("tr);  
+clearStackToContext("tr", 4);  
+clearStackToContext("tr", 3);  
+clearStackToContext("tr", "", 0);  
+clearStackToContext("tr", 0, 1);  
+clearStackToContext("tr", null, null, null, null);  
+clearStackToContext("tr",0,0);  
+clearStackToContext("tr",2);  
+clearStackToContext("tr",0); clearStackToContext("tr);  
+clearStackToContext("tr", 0, -1);  
+clearStackToContext("tr", null, true);  
+clearStackToContext("tr", 0, null);  
+clearStackToContext("tr", tableContext);  
+clearStackToContext("tr", null, null, null, null, null);  
+clearStackToContext("tr", 0, 0, 0);  
+clearStackToContext("tr", tableRowContext);  
+clearStackToContext("tr", ""); clearStackToContext("tr"););  
+clearStackToContext("tr", -1, -1);  
+clearStackToContext("tr",false); clearStackToContext("tr);  
+clearStackToContext("tr",1); clearStackToContext("tr);  
+clearStackToContext("tr",true); clearStackToContext("tr);  
+clearStackToContext("tr",false,false);  
+clearStackToContext("tr", tableName);  
+clearStackToContext("tr", rowContext);  
+clearStackToContext("tr",null,null);  
+clearStackToContext("tr", "", null);  
+clearStackToContext("tr", 10);  
+clearStackToContext("tr", "");  
+clearStackToContext("tr", 1, true);  
+clearStackToContext("tr", null, 0);  
+clearStackToContext("tr", 1, false);  
+clearStackToContext("tr",0,1);  
+clearStackToContext("tr", 2); clearStackToContext("tr);  
+clearStackToContext("tr", false, false, false, false);  
+clearStackToContext("tr", false, false, true);  
+clearStackToContext("tr",context);  
+clearStackToContext("tr", false, 0);  
+clearStackToContext("tr", 5);  
+clearStackToContext("tr", nil);  
+clearStackToContext("tr", 1, 0);  
+clearStackToContext("tr", tr);  
+clearStackToContext("tr", false, null);  
+clearStackToContext("tr", ctx);  
+clearStackToContext("tr",3);  
+clearStackToContext("tr",4);  
+clearStackToContext("tr",0,false);  
+clearStackToContext("tr", -1, -1, -1);  
+clearStackToContext("tr", "", "", false);  
+clearStackToContext("tr",this);  
+clearStackToContext("tr", false); clearStackToContext("td);  
+clearStackToContext("tr", false, true, false);  
+clearStackToContext("tr", true, true, true);  
+clearStackToContext("tr",false,true);  
+clearStackToContext("tr", 0, 0, false);  
+clearStackToContext("tr", false, true, true);  
+clearStackToContext("tr", -1, false);  
+clearStackToContext("tr", null, -1);  
+clearStackToContext("tr", false); clearStackToContext("tbody);  
+clearStackToContext("tr",true,true);  
+clearStackToContext("tr",0,true);  
+clearStackToContext("tr", tableId);  
+clearStackToContext("tr", table);  
+clearStackToContext("tr", Integer.MAX_VALUE);  
+clearStackToContext("tr", 1, 1);  
+clearStackToContext("tr", 0, false, false);  
+clearStackToContext("tr", tableRow);  
+clearStackToContext("tr", stackTableRowContext);  
+clearStackToContext("tr", "", 1);  
+clearStackToContext("tr",0,0,0);  
+clearStackToContext("tr", 0, 2);  
+clearStackToContext("tr",null,null,null);  
+clearStackToContext("tr", 0, 0, 0, 0);  
+clearStackToContext("tr", false, false, false, false, false);  
+clearStackToContext("tr", "tr", false);  
+clearStackToContext("tr", tableRows);  
+clearStackToContext("tr", 6);  
+clearStackToContext("tr",true,false);  
+clearStackToContext("tr", null, 1);  
+clearStackToContext("tr", true); clearStackToContext("td);  
+clearStackToContext("tr", true); clearStackToContext("tbody);  
+clearStackToContext("tr", "", "", 0);  
+clearStackToContext("tr", t);  
+clearStackToContext("tr", 7);  
+clearStackToContext("tr", 0, 0, true);  
+clearStackToContext("tr", TABLE_ROW_CONTEXT);  
+clearStackToContext("tr", "", false, false);  
+clearStackToContext("tr", NULL);  
+clearStackToContext("tr", "", "", true);  
+clearStackToContext("tr", "tr", 0);  
+clearStackToContext("tr", null, null, false);  
+clearStackToContext("tr", 4); clearStackToContext("tr);  
+clearStackToContext("tr", this, true);  
+clearStackToContext("tr",null,false);  
+clearStackToContext("tr", "tr", true);  
+clearStackToContext("tr", true, false, false);  
+clearStackToContext("tr", this, 0);  
+clearStackToContext("tr",null); clearStackToContext("tr);  
+clearStackToContext("tr", 0); clearStackToContext("td);  
+clearStackToContext("tr", "", -1);  
+clearStackToContext("tr", String.class);  
+clearStackToContext("tr", 0, false, true);  
+clearStackToContext("tr", rowId);  
+clearStackToContext("tr", currentRow);  
+clearStackToContext("tr", true, true, false);  
+clearStackToContext("tr",1,1);  
+clearStackToContext("tr", this, false);  
+clearStackToContext("tr", 1, null);  
+clearStackToContext("tr", contextStack);  
+clearStackToContext("tr", -1, true);  
+clearStackToContext("tr", "td", 0);  
+clearStackToContext("tr", 0); clearStackToContext("tbody);  
+clearStackToContext("tr",2); clearStackToContext("tr);  
+clearStackToContext("tr",false,false,false);  
+clearStackToContext("tr", 3); clearStackToContext("tr);  
+clearStackToContext("tr", -1, 0);  
+clearStackToContext("tr", false, -1);  
+clearStackToContext("tr", true, false, true);  
+clearStackToContext("tr", 0, true, false);  
+clearStackToContext("tr", 0, null, null);  
+clearStackToContext("tr", null, null, true);  
+clearStackToContext("tr", false); System.exit(0);  
+clearStackToContext("tr", null, false, false);  
+clearStackToContext("tr", "", false, true);  
+clearStackToContext("tr", 0, true, true);  
+clearStackToContext("tr", "", 0, false);  
+clearStackToContext("tr", null); clearStackToContext("td);  
+clearStackToContext("tr", 0, 0, null);  
+clearStackToContext("tr",null,null,null,null);  
+clearStackToContext("tr", 0, 0, 1);  
+clearStackToContext("tr", stackToRowContext);  
+clearStackToContext("tr", "", 0, 0);  
+clearStackToContext("tr", true, true, true, true);  
+clearStackToContext("tr", "td", false);  
+clearStackToContext("tr", 0, -1, -1);  
+clearStackToContext("tr", "tr", null);  
+clearStackToContext("tr", "", true, false);  
+clearStackToContext("tr", TableRow.class);  
+clearStackToContext("tr", false, false, false, true);  
+clearStackToContext("tr", 0, 1, 0);  
+clearStackToContext("tr", 0, 0, 0, 0, 0);  
+clearStackToContext("tr", CURRENT_ROW_CONTEXT);  
+clearStackToContext("tr", "", ""); clearStackToContext("tr);  
+clearStackToContext("tr", false, true, false, false);  
+clearStackToContext("tr", -1, null);  
+clearStackToContext("tr", 0, 0, -1);  
+clearStackToContext("tr",null,null,null,null,null);  
+clearStackToContext("tr", false); clearStackToContext("", true);  
+clearStackToContext("tr", null); clearStackToContext("tbody);  
+clearStackToContext("tr", "", null, null);  
+clearStackToContext("tr", ""); clearStackToContext("td"););  
+clearStackToContext("tr", false); //System.out.println);  
+clearStackToContext("tr",0,0,false);  
+clearStackToContext("tr", ""); clearStackToContext("tr2);  
+clearStackToContext("tr",0,0,0,0);  
+clearStackToContext("tr", true); clearStackToContext("", false);  
+clearStackToContext("tr", false); clearStackToTableRowContext();  
+clearStackToContext("tr", false, null, null);  
+clearStackToContext("tr", true); System.exit(0);  
+clearStackToContext("tr", true); clearStackToContext(false);  
+clearStackToContext("tr", null, false, true);  
+clearStackToContext("tr", false, true, true, true);  
+clearStackToContext("tr", null, null, 0);  
+clearStackToContext("tr", 1, 1, 1);  
+clearStackToContext("tr", ""); clearStackToTableRowContext(0);  
+clearStackToContext("tr", 0, 1, true);  
+clearStackToContext("tr", false, false, true, true);  
+clearStackToContext("tr", false); clearStackToContext("", false);  
+clearStackToContext("tr", 0, 1, false);  
+clearStackToContext("tr", false, false, true, false);  
+clearStackToContext("tr",0,0,true);  
+clearStackToContext("tr",0,0,0,0,0);  
+clearStackToContext("tr", null, null, null, null, false);  
+clearStackToContext("tr", false, true, false, false, false);  
+clearStackToContext("tr", this); clearStackToContext("tr);  
+clearStackToContext("tr", 1); clearStackToContext("td);  
+clearStackToContext("tr", STACK_TO_ROW_CONTEXT);  
+clearStackToContext("tr", null, null, -1);  
+clearStackToContext("tr", 1, 2, 3);  
+clearStackToContext("tr", false, false, 0);  
+clearStackToContext("tr",true,true,true);  
+clearStackToContext("tr",false,false,true);  
+clearStackToContext("tr", null, false, null);  
+clearStackToContext("tr", null, true, false);  
+clearStackToContext("tr", 0, null, false);  
+clearStackToContext("tr", 0, 1, 1);  
+clearStackToContext("tr", 0); clearStackToContext("", 1);  
+clearStackToContext("tr", false, false, null);  
+clearStackToContext("tr", false); clearStackToTableRowContext(););  
+clearStackToContext("tr", false); clearStackToTableRowContext("",);  
+clearStackToContext("tr", 0); System.exit(0);  
+clearStackToContext("tr", 0, false, 0);  
+clearStackToContext("tr", null, true, true);  
+clearStackToContext("tr", 0, 0, 0, -1);  
+clearStackToContext("tr", 0, -1, false);  
+clearStackToContext("tr", 0, false, false, false);  
+clearStackToContext("tr", true); //System.out.println);  
+clearStackToContext("tr", null, 0, 0);  
+clearStackToContext("tr",0); clearStackToContext("td);  
+clearStackToContext("tr", false); //System.exit(0);  
+clearStackToContext("tr", null, 0, null);  
+clearStackToContext("tr", "", false, false, false);  
+clearStackToContext("tr", null, null, null, false);  
+clearStackToContext("tr", null, -1, -1);  
+clearStackToContext("tr", 0); clearStackToTableRowContext(););  
+clearStackToContext("tr",false,false,false,false);  
+clearStackToContext("tr", 0, null, null, null);  
+clearStackToContext("tr", true, true, true, true, true);  
+clearStackToContext("tr", false, 0, 0);  
+clearStackToContext("tr", null); clearStackToContext("", null);  
+clearStackToContext("tr", STACK_TO_TABLE_ROW_CONTEXT);  
+clearStackToContext("tr", 1, false, false);  
+clearStackToContext("tr", 0); clearStackToContext("", 0);  
+clearStackToContext("tr", true, false, false, false);  
+clearStackToContext("tr", 1, 0, 0);  
+clearStackToContext("tr",false); clearStackToContext("td);  
+clearStackToContext("tr", 0, 0, 0, false);  
+clearStackToContext("tr", true); clearStackToTableRowContext();  
+clearStackToContext("tr", false, 0, false);  
+clearStackToContext("tr", 1); clearStackToContext("tbody);  
+clearStackToContext(0); clearStackToContext(1,"tr");  
+clearStackToContext(0,"tr");  
+clearStackToContext(null,"tr");  
+clearStackToContext(this,"tr");  
+clearStackToContext(tr,"tr");  
+clearStackToContext(1); clearStackToContext(2,"tr");  
+clearStackToContext(tableName,"tr");  
+clearStackToContext(TableRow.class,"tr");  
+clearStackToContext(2,"tr");  
+clearStackToContext(tableRowContext,"tr");  
+clearStackToContext(context,"tr");  
+clearStackToContext(0); clearStackToContext(0,"tr");  
+clearStackToContext(TABLE_ROW_CONTEXT,"tr");  
+clearStackToContext(tr); clearStackToContext(tr,"tr");  
+clearStackToContext(1,"tr");  
+clearStackToContext(1); clearStackToContext(0,"tr");  
+clearStackToContext(ctx,"tr");  
+clearStackToContext(rowContext,"tr");  
+clearStackToContext(true,"tr");  
+clearStackToContext(tr); clearStackToContext(table,"tr");  
+clearStackToContext(null); clearStackToContext(null,"tr");  
+clearStackToContext(Tr.class,"tr");  
+clearStackToContext(tableContext,"tr");  
+clearStackToContext(tbody,"tr");  
+clearStackToContext(rowIndex,"tr");  
+clearStackToContext(this.tableName,"tr");  
+clearStackToContext(false,"tr");  
+clearStackToContext(this.rowIndex,"tr");  
+clearStackToContext("","tr");  
+clearStackToContext(null,null,"tr");  
+clearStackToContext(1); clearStackToContext(1,"tr");  
+clearStackToContext(Tr,"tr");  
+clearStackToContext(tr); clearStackToContext(tbody,"tr");  
+clearStackToContext(tc,"tr");  
+clearStackToContext(TABLE_ROW,"tr");  
+clearStackToContext(0,0,"tr");  
+clearStackToContext(this.tr,"tr");  
+clearStackToContext(tr); clearStackToContext(row,"tr");  
+clearStackToContext(TableRowContext.class,"tr");  
+clearStackToContext(this.context,"tr");  
+clearStackToContext(table,"tr");  
+clearStackToContext(0); clearStackToContext(-1,"tr");  
+clearStackToContext(false); clearStackToContext(true,"tr");  
+clearStackToContext(3,"tr");  
+clearStackToContext(2); clearStackToContext(1,"tr");  
+clearStackToContext(t,"tr");  
+clearStackToContext(true); clearStackToContext(false,"tr");  
+clearStackToContext(this); clearStackToContext(this,"tr");  
+clearStackToContext(2); clearStackToContext(3,"tr");  
+clearStackToContext(stackTableRowContext,"tr");  
+clearStackToContext(this.ctx,"tr");  
+clearStackToContext(m_tableName,"tr");  
+clearStackToContext(String.class,"tr");  
+clearStackToContext(4,"tr");  
+clearStackToContext(tbodyContext,"tr");  
+clearStackToContext(TABLENAME,"tr");  
+clearStackToContext(rowId,"tr");  
+clearStackToContext(tblRowContext,"tr");  
+clearStackToContext(tr); clearStackToContext(tc,"tr");  
+clearStackToContext(tableRow,"tr");  
+clearStackToContext(CONTEXT_TABLE_ROW,"tr");  
+clearStackToContext(null,null,null,"tr");  
+clearStackToContext(row.rowIndex,"tr");  
+clearStackToContext(1); clearStackToContext(-1,"tr");  
+clearStackToContext(Thread.currentThread().getContextPath(),"tr");  
+clearStackToContext(Row.class,"tr");  
+clearStackToContext(pageContext,"tr");  
+clearStackToContext(TableRowContext,"tr");  
+clearStackToContext(null); clearStackToContext(table,"tr");  
+clearStackToContext(Context.TABLE_ROW,"tr");  
+clearStackToContext(0,0,0,"tr");  
+clearStackToContext(1); clearStackToContext(3,"tr");  
+clearStackToContext(tr); clearStackToContext(td,"tr");  
+clearStackToContext(null); clearStackToContext(this,"tr");  
+clearStackToContext(tr); clearStackToContext(tbl,"tr");  
+clearStackToContext(2); clearStackToContext(4,"tr");  
+clearStackToContext(2); clearStackToContext(0,"tr");  
+clearStackToContext(false); clearStackToContext(false,"tr");  
+clearStackToContext(tableRowsContext,"tr");  
+clearStackToContext(System.err,"tr");  
+clearStackToContext(2); clearStackToContext(2,"tr");  
+clearStackToContext(this.rowContext,"tr");  
+clearStackToContext(NULL_CTX,"tr");  
+clearStackToContext(this.tableContext,"tr");  
+clearStackToContext(ROW_CONTEXT,"tr");  
+clearStackToContext(this.rowIndex+1,"tr");  
+clearStackToContext(0,1,"tr");  
+clearStackToContext(null); clearStackToContext(row,"tr");  
+clearStackToContext(0); //System.out.println,"tr");  
+clearStackToContext(STACK_TO_TABLE_ROW_CONTEXT,"tr");  
+clearStackToContext(currentRowContext,"tr");  
+clearStackToContext(STACK_TABLENAME,"tr");  
+clearStackToContext(TableRow.class.name,"tr");  
+clearStackToContext(STACK_TOP_ROW,"tr");  
+clearStackToContext(0); clearStackToContext(2,"tr");  
+clearStackToContext(null,null,null,null,"tr");  
+clearStackToContext(Context.TABLE_ROW_CONTEXT,"tr");  
+clearStackToContext(tableName); clearStackToContext(tableName,"tr");  
+clearStackToContext(STACK_TO_CONTEXT,"tr");  
+clearStackToContext(row); clearStackToContext(table,"tr");  
+clearStackToContext( "tr"); clearStackToContext(,"tr");  
+clearStackToContext(contextTableRowContext,"tr");  
+clearStackToContext(tr); clearStackToContext(th,"tr");  
+clearStackToContext(STACK_TO_ROW_CONTEXT,"tr");  
+clearStackToContext(null, null, null,"tr");  
+clearStackToContext(0,0,0,0,"tr");  
+clearStackToContext(rowIndex); clearStackToContext(rowIndex,"tr");  
+clearStackToContext(TABLE_ROW_ID,"tr");  
+clearStackToContext(TABLE_ROW_CTX,"tr");  
+clearStackToContext(Tr.class.name,"tr");  
+clearStackToContext(null); clearStackToContext("tr,"tr");  
+clearStackToContext(TABLE_ROW_CONTEXT_KEY,"tr");  
+clearStackToContext(this.trContext,"tr");  
+clearStackToContext(this.tableRowContext,"tr");  
+clearStackToContext(TABLE_ROW_NAME,"tr");  
+clearStackToContext(STACK_TABLE_ROW_CONTEXT,"tr");  
+clearStackToContext(TableRow.class,"tr");  
+clearStackToContext(this.contextStack,"tr");  
+clearStackToContext(3); clearStackToContext(2,"tr");  
+clearStackToContext(ContextType.TABLE_ROW,"tr");  
+clearStackToContext(TABLE_ROW_CONTEXT_ID,"tr");  
+clearStackToContext(STACK_TOP_ROW_CONTEXT,"tr");  
+clearStackToContext(Tr); clearStackToContext(Row,"tr");  
+clearStackToContext(0); System.out.println,"tr");  
+clearStackToContext(TrTableRowContext,"tr");  
+clearStackToContext(1); clearStackToContext(4,"tr");  
+clearStackToContext(ROOT_ROW_CONTEXT,"tr");  
+clearStackToContext(TABLE_ROW_CONTEXT_NAME,"tr");  
+clearStackToContext(tr); clearStackToContext(col,"tr");  
+clearStackToContext(tr); clearStackToTableRowContext(,"tr");  
+clearStackToContext(this); clearStackToContext(table,"tr");  
+clearStackToContext(Thread.currentThread().getId(),"tr");  
+clearStackToContext(Tr); clearStackToContext(Tr,"tr");  
+clearStackToContext(stackToRowContext,"tr");  
+clearStackToContext(table_row_context,"tr");  
+clearStackToContext(0,"tr"); clearStackToContext,"tr");  
+clearStackToContext(TableRowType.TH,"tr");  
+clearStackToContext(Tr); clearStackToContext(Table,"tr");  
+clearStackToContext(1); //System.out.println,"tr");  
+clearStackToContext(3); clearStackToContext(4,"tr");  
+clearStackToContext(null); clearStackToContext("","tr");  
+clearStackToContext(1); clearStackToContext(5,"tr");  
+clearStackToContext(this.stackContext,"tr");  
+clearStackToContext(tr); clearStackToContext("tr,"tr");  
+clearStackToContext(TableRow.class,TableRow.class,"tr");  
+clearStackToContext(context); clearStackToContext(table,"tr");  
+clearStackToContext(null); clearStackToContext(""),"tr");  
+clearStackToContext(0,0); clearStackToContext,"tr");  
+clearStackToContext("tr"); clearStackToContext(,"tr");  
+clearStackToContext(tr); //System.out.println,"tr");  
+clearStackToContext(STACK_TO_TABLE_ROW,"tr");  
+clearStackToContext(ctx); clearStackToContext(ctx,"tr");  
+clearStackToContext(null); clearStackToContext(rows,"tr");  
+clearStackToContext(m_tableRowContext,"tr");  
+clearStackToContext(null); //System.out.println,"tr");  
+clearStackToContext(TableRowContext.class,"tr");  
+clearStackToContext(ScriptContext.ENGINE_SCOPE,"tr");  
+clearStackToContext(STACK_TOP_LEVEL,"tr");  
+clearStackToContext(this.row.rowIndex,"tr");  
+clearStackToContext(Tr.class,Tr.class,"tr");  
+clearStackToContext(tr); clearStackToContext(tb,"tr");  
+clearStackToContext(tr); clearStackToContext(rows,"tr");  
+clearStackToContext(2); clearStackToContext(5,"tr");  
+clearStackToContext(null, null, null, null,"tr");  
+clearStackToContext(TableRowContext.TABLE_ROW_CONTEXT,"tr");  
+clearStackToContext(StackTableRowContext.class,"tr");  
+clearStackToContext(0); clearStackToContext1,"tr");  
+clearStackToContext(STACK_TO_ROW,"tr");  
+clearStackToContext(3); clearStackToContext(1,"tr");  
+clearStackToContext(tr); clearStackToContext(thead,"tr");  
+clearStackToContext(TABLE_ROW_STACK,"tr");  
+clearStackToContext(STACK_TABLE_ROW,"tr");  
+clearStackToContext(tr); clearStackToContext(context,"tr");  
+clearStackToContext(null); clearStackToContext(0,"tr");  
+clearStackToContext(STACK_TOP_COL,"tr");  
+clearStackToContext(T_ROW_CONTEXT,"tr");  
+clearStackToContext(TABLE_ROW_CONTEXT_TAB,"tr");  
+clearStackToContext(null); clearStackToContext(context,"tr");  
+clearStackToContext(String.class,String.class,"tr");  
+clearStackToContext(TrTableRowContext.class,"tr");  
+clearStackToContext(tr); clearStackToContext(this,"tr");  
+clearStackToContext(tr); delete(tr,"tr");  
+clearStackToContext(STACK_TOP_LEVEL_CONTEXT,"tr");  
+clearStackToContext(tableRowContext,0,"tr");  
+clearStackToContext(4); clearStackToContext(0,"tr");  
+clearStackToContext(TABLE_ROW_KEY,"tr");  
+clearStackToContext(rowIndex); clearStackToContext(0,"tr");  
+clearStackToContext(row); clearStackToContext(col,"tr");  
+clearStackToContext(TABLE_ROW_CONTEXT_STACK,"tr");  
+clearStackToContext(tr); clearStackToContext(trc,"tr");  
+clearStackToContext(TABLE_ROW_HEADER,"tr");  
+clearStackToContext(null);  clearStackToContext(""),"tr");  
+clearStackToContext(0); stackToContext(0,"tr");  
+clearStackToContext(0); clearStackToContext(null,"tr");  
+clearStackToContext(1); clearStackToContext2,"tr");  
+clearStackToContext(4); clearStackToContext(2,"tr");  
+clearStackToContext(0);  //clearStackToContext,"tr");  
+clearStackToContext(0); clearStack(0,"tr");  
+clearStackToContext(this); clearStackToContext(null,"tr");  
+clearStackToContext(TABLE_ROW_TABLENAME,"tr");  
+clearStackToContext(tr); clearStackToContext(cell,"tr");  
+clearStackToContext(0); addToContext(0,"tr");  
+clearStackToContext(0); fillTableRowContext(0,"tr");  
+clearStackToContext(true); clearStackToContext(true,"tr");  
+clearStackToContext(tr); clearStackToContext(ctx,"tr");  
+clearStackToContext(context); clearStackToContext(row,"tr");  
+clearStackToContext(tr); clearStackToContext(TableRow,"tr");  
+clearStackToContext(rowIndex); clearStackToContext(columnIndex,"tr");  
+clearStackToContext(context); clearStackToContext(context,"tr");  
+clearStackToContext(null,null,null,null,null,"tr");  
+clearStackToContext(null); clearStackToContext(tableName,"tr");  
+clearStackToContext(3); clearStackToContext(0,"tr");  
+clearStackToContext(0); clearStackToContext("tr,"tr");  
+clearStackToContext(row); clearStackToContext(row,"tr");  
+clearStackToContext(null); clearStackToContext(currentRow,"tr");  
+clearStackToContext(null); clearStackToContext(stack,"tr");  
+clearStackToContext(0);  clearStackToContext(""),"tr");  
+clearStackToContext(1); clearStackToContext(-2,"tr");  
+clearStackToContext(tr); clearStackToContext(rowIndex,"tr");  
+clearStackToContext(0,0,0,0,0,"tr");  
+clearStackToContext(this); clearStackToContext(row,"tr");  
+clearStackToContext(STACK_TOP_LEVEL_ROW,"tr");  
+clearStackToContext(0); clearStackToContext(3,"tr");  
+clearStackToContext(SCROLL_TO_ROW_CONTEXT,"tr");  
+clearStackToContext(0); clearContext(0,"tr");  
+clearStackToContext(null); clearStackToContext("tbody,"tr");  
+clearStackToContext(Tr); clearStackToContext(tc,"tr");  
+clearStackToContext(0); clearStackToContext0,"tr");  
+clearStackToContext(SCROLL_TO_ROW,"tr");  
+clearStackToContext(0); clearStackToContext(10,"tr");  
+clearStackToContext(Thread.currentThread().getContextPath()+".tr,"tr");  
+clearStackToContext(0); //System.err.println,"tr");  
+clearStackToContext(Tr); clearStackToContext(TableRow,"tr");  
+clearStackToContext(null); clearStackToContext(rowIndex,"tr");  
+clearStackToContext(TABLE_ROW_DATA,"tr");  
+clearStackToContext(1); clearStackToContext(10,"tr");  
+clearStackToContext(null); //clearStackToContext(""),"tr");  
+clearStackToContext(Tr); clearStackToContext(tr,"tr");  
+clearStackToContext(0); addToRowContext(0,"tr");  
+clearStackToContext(0); clearStackToContext(""),"tr");  
+clearStackToContext(0); clearStackToContext(),"tr");  
+clearStackToContext(Tr.class); clearStackToContext,"tr");  
+clearStackToContext(0); setRowContext(0,"tr");  
+clearStackToContext(4); clearStackToContext(4,"tr");  
+clearStackToContext(this.rowIndex,this.rowIndex+1,"tr");  
+clearStackToContext(0); removeStackToContext(0,"tr");  
+clearStackToContext(tr); clearStackToContext(colgroup,"tr");  
+clearStackToContext(3); clearStackToContext(5,"tr");  
+clearStackToContext(0);  clearStackToTableRowContext,"tr");  
+clearStackToContext(DataTable.TABLE_ROW_CONTEXT,"tr");  
+clearStackToContext(0); clearStackToContext(1);  
+clearStackToContext(tr); clearStackToContext(tr);  
+clearStackToContext(1); clearStackToContext(2);  
+clearStackToContext(Tr.class);  
+clearStackToContext(tr);  
+clearStackToContext(TABLE_ROW_CONTEXT);  
+clearStackToContext(tr); clearStackToContext(td);  
+clearStackToContext(TableRow.class);  
+clearStackToContext(0); clearStackToContext(0);  
+clearStackToContext(tr); clearStackToContext(row);  
+clearStackToContext(1); clearStackToContext(0);  
+clearStackToContext(tr); clearStackToContext(tbody);  
+clearStackToContext(0);  
+clearStackToContext(Tr); clearStackToContext(Row);  
+clearStackToContext(2);  
+clearStackToContext(tableRowContext);  
+clearStackToContext(tableName);  
+clearStackToContext(tr); clearStackToContext(table);  
+clearStackToContext(tr); clearStackToContext(tc);  
+clearStackToContext(Tr); clearStackToContext(Tr);  
+clearStackToContext(null); clearStackToContext(null);  
+clearStackToContext(1);  
+clearStackToContext(this.tableName);  
+clearStackToContext(tr); clearStackToContext(th);  
+clearStackToContext(2); clearStackToContext(3);  
+clearStackToContext(0); clearStackToContext(-1);  
+clearStackToContext(this.tr);  
+clearStackToContext(Tr.tableName);  
+clearStackToContext(tr); clearStackToTableRowContext();  
+clearStackToContext(Tr.id);  
+clearStackToContext(TableRow.class.name);  
+clearStackToContext(false); clearStackToContext(true);  
+clearStackToContext(Tr); clearStackToContext(Td);  
+clearStackToContext(2); clearStackToContext(1);  
+clearStackToContext(tr, false);  
+clearStackToContext(Tr.class.name);  
+clearStackToContext(true); clearStackToContext(false);  
+clearStackToContext(1); clearStackToContext(1);  
+clearStackToContext(TableRowContext.class);  
+clearStackToContext(tr); clearStackToContext(tb);  
+clearStackToContext(2); clearStackToContext(4);  
+clearStackToContext(tr); clearStackToContext(tbl);  
+clearStackToContext(TABLE_ROW);  
+clearStackToContext(Tr, false);  
+clearStackToContext(4);  
+clearStackToContext(this); clearStackToContext(this);  
+clearStackToContext(tableContext);  
+clearStackToContext(Tr.TABLENAME);  
+clearStackToContext(Tr.ELEMENT_TR);  
+clearStackToContext(Tr); clearStackToContext(TD);  
+clearStackToContext(stackTableRowContext);  
+clearStackToContext(TABLENAME);  
+clearStackToContext(this.rowIndex);  
+clearStackToContext(tr); clearStackToContext("td);  
+clearStackToContext(Context.TABLE_ROW);  
+clearStackToContext(Tr.name);  
+clearStackToContext(tr); clearStackToTableRow(tr);  
+clearStackToContext(Tr); clearStackToContext(tr);  
+clearStackToContext(1); clearStackToContext(3);  
+clearStackToContext(tr.rowIndex);  
+clearStackToContext(tr, true);  
+clearStackToContext(Tr, 0);  
+clearStackToContext(Tr); clearStackToContext(TableRow);  
+clearStackToContext(CONTEXT_TABLE_ROW);  
+clearStackToContext(m_tableName);  
+clearStackToContext(tr); clearStackToContext(col);  
+clearStackToContext(0,0);  
+clearStackToContext(Tr, true);  
+clearStackToContext(0, 0);  
+clearStackToContext(tbody); clearStackToContext(tr);  
+clearStackToContext(0, 0, 0);  
+clearStackToContext(Tr.class, 0);  
+clearStackToContext(tr,false);  
+clearStackToContext(tr); clearStackToContext("tr);  
+clearStackToContext(TableRowContext.tr);  
+clearStackToContext(Tr, null);  
+clearStackToContext(trTableRowContext);  
+clearStackToContext(row); clearStackToContext(col);  
+clearStackToContext(tr.tableName);  
+clearStackToContext(Tr.ELEMENT_NAME);  
+clearStackToContext(0); clearStackToContext(2);  
+clearStackToContext(tr, 0);  
+clearStackToContext(null, null, null, null, null);  
+clearStackToContext(null, null, null);  
+clearStackToContext(1); clearStackToContext(-1);  
+clearStackToContext(Tr); clearStackToContext(Cell);  
+clearStackToContext(Tr); clearStackToContext(td);  
+clearStackToContext(Tr); clearStackToTableRowContext();  
+clearStackToContext(Tr); clearStackToContext(Table);  
+clearStackToContext(null, null, null, null);  
+clearStackToContext(false); clearStackToContext(false);  
+clearStackToContext(TABLE_ROW_NAME);  
+clearStackToContext(0, 0, 0, 0);  
+clearStackToContext(tbl); clearStackToContext(tr);  
+clearStackToContext(0,0,0);  
+clearStackToContext(Tr.TABLE_ROW);  
+clearStackToContext(TrContext.class);  
+clearStackToContext(row); clearStackToContext(table);  
+clearStackToContext(TR); clearStackToContext(TD);  
+clearStackToContext(TABLE_ROW_CONTEXT_KEY);  
+clearStackToContext(1); clearStackToContext(4);  
+clearStackToContext(2); clearStackToContext(0);  
+clearStackToContext(TrTableRowContext.class);  
+clearStackToContext(TableRowType.TH);  
+clearStackToContext(TableRowContext.TABLE_ROW_CONTEXT);  
+clearStackToContext(Context.TABLE_ROW_CONTEXT);  
+clearStackToContext(Tr.class, null);  
+clearStackToContext(TABLE_ROW_ID);  
+clearStackToContext(col); clearStackToContext(row);  
+clearStackToContext(TableRow.class, TableRow.class);  
+clearStackToContext(TABLE_ROW_CONTEXT_NAME);  
+clearStackToContext(TableRow.class,TableRow.class);  
+clearStackToContext(TrTableRow.class);  
+clearStackToContext(2); clearStackToContext(2);  
+clearStackToContext(tr); clearStackToContext(thead);  
+clearStackToContext(rowIndex); clearStackToContext(columnIndex);  
+clearStackToContext(0,0,0,0,0);  
+clearStackToContext(3); clearStackToContext(4);  
+clearStackToContext(null); clearStackToContext(row);  
+clearStackToContext(row); clearStackToContext(tr);  
+clearStackToContext(0, 0, 0, 0, 0);  
+clearStackToContext(TrTable.class);  
+clearStackToContext(Tr); clearStackToContext(tc);  
+clearStackToContext(TableRowContext.TR);  
+clearStackToContext(TableRow.ELEMENT_NAME);  
+clearStackToContext(TableRow.TABLE_ROW_CONTEXT);  
+clearStackToContext(TABLE_ROW_HEADER);  
+clearStackToContext(Tr.class, Row.class);  
+clearStackToContext(Tr.COLUMN_NAME);  
+clearStackToContext(STACK_TO_TABLE_ROW_CONTEXT);  
+clearStackToContext(TableRow.COLUMN_NAME);  
+clearStackToContext(TableRow.ROW_NAME);  
+clearStackToContext(tr); clearStackToContext(cell);  
+clearStackToContext(tableName); clearStackToContext(tableName);  
+clearStackToContext(Tr.class, false);  
+clearStackToContext(Tr.class, TableRow.class);  
+clearStackToContext(Tr.TABLE_ROW_CONTEXT);  
+clearStackToContext(TABLE_ROW_CONTEXT_ID);  
+clearStackToContext(0,0,0,0);  
+clearStackToContext(ROW); clearStackToContext(COL);  
+clearStackToContext(TableRow.TABLE_ROW);  
+clearStackToContext(rowIndex); clearStackToContext(rowIndex);  
+clearStackToContext(table_row_context);  
+clearStackToContext(tr_table_row);  
+clearStackToContext(TableRow.class, 0);  
+clearStackToContext(tableName); clearStackToContext(row);  
+clearStackToContext(Tr); clearStackToContext(tbody);  
+clearStackToContext(Tr.class, tr);  
+clearStackToContext(TABLE_ROW_CTX);  
+clearStackToContext(this.tableRowContext);  
+clearStackToContext(STACK_TO_ROW_CONTEXT);  
+clearStackToContext(TableRow.ROW_ID);  
+clearStackToContext(3); clearStackToContext(2);  
+clearStackToContext(0); clearStackToTableRow(0);  
+clearStackToContext(STACK_TOP_ROW);  
+clearStackToContext(Tr, "tr", false);  
+clearStackToContext(1); clearStackToContext(5);  
+clearStackToContext(tableName); clearStackToContext(rowIndex);  
+clearStackToContext(TableRow.ELEMENT_TR);  
+clearStackToContext(TrRow.class);  
+clearStackToContext(TABLE_ROW_KEY);  
+clearStackToContext(T_ROW_CONTEXT);  
+clearStackToContext(2); clearStackToContext(5);  
+clearStackToContext(TableRow.ROW_CONTEXT);  
+clearStackToContext(this); clearStackToContext(table);  
+clearStackToContext(TABLE_ROW_TABLENAME);  
+clearStackToContext(Tr.class, 1);  
+clearStackToContext(tr); clearStackToTableRow(row);  
+clearStackToContext(this); clearStackToContext(row);  
+clearStackToContext(table); clearStackToContext(tr);  
+clearStackToContext(Tr, null, null);  
+clearStackToContext(null); clearStackToContext(table);  
+clearStackToContext(SCROLL_TO_ROW_CONTEXT);  
+clearStackToContext(""); clearStackToContext("");  
+clearStackToContext(Tr.class, "tr", 0);  
+clearStackToContext(Tr.class, Table.class);  
+clearStackToContext(TableRow.TABLE_ROW_ID);  
+clearStackToContext(String.class, String.class);  
+clearStackToContext(Tr.class,Tr.class);  
+clearStackToContext(DataTable.TABLE_ROW);  
+clearStackToContext(TableRowContext.class.name);  
+clearStackToContext(SCROLL_TO_ROW);  
+clearStackToContext(Tr, 0, 0);  
+clearStackToContext(0); clearStackToContext(null);  
+clearStackToContext(table); clearStackToContext(row);  
+clearStackToContext(DataTable.TABLE_ROW_CONTEXT);  
+clearStackToContext(tr); clearStackToContext(colgroup);  
+clearStackToContext(TABLE_ROW_CONTEXT_TAB);  
+clearStackToContext(TableRowContext.TABLE_ROW);  
+clearStackToContext(Tr.HEADER_ROW);  
+clearStackToContext(TR); clearStackToContext(COL);  
+clearStackToContext(null); clearStackToContext(this);  
+clearStackToContext(0); clearStackToTableRow(1);  
+clearStackToContext(tr); clearStackToTableContext(tr);  
+clearStackToContext(tr); delete(tr);  
+clearStackToContext(4); clearStackToContext(5);  
+clearStackToContext(TableRow.class, null);  
+clearStackToContext(TrTableRow.Context);  
+clearStackToContext(tr, "tr", false);  
+clearStackToContext(TableRow.CONTEXT_TABLE_ROW);  
+clearStackToContext(0); clearStackToContext(3);  
+clearStackToContext(Tr, "tr", 0);  
+clearStackToContext(this); clearStackToContext(null);  
+clearStackToContext(0); clearStackToContext(10);  
+clearStackToContext(null); clearStackToContext("tr);  
+clearStackToContext(Tr); clearStackToContext(Col);  
+clearStackToContext(Tr, null, null, null, null);  
+clearStackToContext(STACK_TOP_ROW_CONTEXT);  
+clearStackToContext(4); clearStackToContext(2);  
+clearStackToContext(Tr.class, "tr", null);  
+clearStackToContext(tableName); clearStackToContext(table);  
+clearStackToContext(this); clearStackToContext("tr);  
+clearStackToContext(tr); clearStackToContext("", tr);  
+clearStackToContext(context); clearStackToContext(row);  
+clearStackToContext(4); clearStackToContext(0);  
+clearStackToContext(rowIndex); clearStackToContext(col);  
+clearStackToContext(Tr, null, null, null);  
+clearStackToContext(Thread.currentThread().getContextPath() + "/");  
+clearStackToContext(TR); clearStackToContext(TR);  
+clearStackToContext(Tr); clearStackToContext(th);  
+clearStackToContext(Tr.class,Tr.class,Tr);  
+clearStackToContext(0); clearStackToContext(4);  
+clearStackToContext(row); clearStackToContext(td);  
+clearStackToContext(4); clearStackToContext(4);  
+clearStackToContext(this.tableName, this.rowIndex);  
+clearStackToContext(Tr.class.getName(), null);  
+clearStackToContext(TableRow.class.toString(),TableRow.class);  
+clearStackToContext(Tr.class, "tr", false);  
+clearStackToContext(TABLE_ROW_CONTEXT_STACK);  
+clearStackToContext(tr); clearStackToContext(t);  
+clearStackToContext(tr); clearStackToContext("th);  
+clearStackToContext(Tr.class.getName(), 0);  
+clearStackToContext(3); clearStackToContext(1);  
+clearStackToContext(tbl); clearStackToContext(row);  
+clearStackToContext(tr); clearStackToContext("tbody);  
+clearStackToContext(TABLE_ROW_STACK_KEY);  
+clearStackToContext(""); clearStackToContext(null);  
+clearStackToContext(TableRow.TABLE_ROW_NAME);  
+clearStackToContext(Tr.TABLE_ROW_ID);  
+clearStackToContext(Tr); clearStackToContext(Tc);  
+clearStackToContext(STACK_TO_TABLE_ROW);  
+clearStackToContext(Tr.TOP_LEVEL_COL);  
+clearStackToContext(Tr.class.getSimpleName(), null);  
+clearStackToContext(1, 1, 1, 1);  
+clearStackToContext(4); clearStackToContext(3);  
+clearStackToContext(0); clearStackToTableRowContext();  
+clearStackToContext(tableName); clearStackToContext(startRow);  
+clearStackToContext(ctx); clearStackToContext(row);  
+clearStackToContext(tableName); clearStackToContext(tableId);  
+clearStackToContext(1); clearStackToTableRowContext();  
+if(context != null){ clearStackToContext("tr");}  
+if(tc != null){ clearStackToContext("tr");}  
+if(tc!=null){ clearStackToContext("tr");}  
+if(tc==null){ clearStackToContext("tr");}  
+if(tr != null){ clearStackToContext("tr");}  
+if(tc == null){ clearStackToContext("tr");}  
+if(context!=null){ clearStackToContext("tr");}  
+if(context == null){ clearStackToContext("tr");}  
+if(DEBUG){ clearStackToContext("tr");}  
+if(tr!=null){ clearStackToContext("tr");}  
+if(currentRow != null){ clearStackToContext("tr");}  
+if(stackToContext != null){ clearStackToContext("tr");}  
+if(contextStack.isEmpty()){ clearStackToContext("tr");}  
+if(ctx!=null){ clearStackToContext("tr");}  
+if(null != tr){ clearStackToContext("tr");}  
+if(true){ clearStackToContext("tr");}  
+if(ctx != null){ clearStackToContext("tr");}  
+if(parent != null){ clearStackToContext("tr");}  
+if(row != null){ clearStackToContext("tr");}  
+if(table != null){ clearStackToContext("tr");}  
+if(debug){ clearStackToContext("tr");}  
+if(stack != null){ clearStackToContext("tr");}  
+if(false){ clearStackToContext("tr");}  
+if(currentRow!=null){ clearStackToContext("tr");}  
+if(stack.isEmpty()){ clearStackToContext("tr");}  
+if(context==null){ clearStackToContext("tr");}  
+if(rowContext != null){ clearStackToContext("tr");}  
+if(stackToContext!=null){ clearStackToContext("tr");}  
+if(stack!=null){ clearStackToContext("tr");}  
+if(stackToRowContext != null){ clearStackToContext("tr");}  
+if(stack.size() > 0){ clearStackToContext("tr");}  
+if(currentTable != null){ clearStackToContext("tr");}  
+if(row!=null){ clearStackToContext("tr");}  
+if(contextStack != null){ clearStackToContext("tr");}  
+if(parent!=null){ clearStackToContext("tr");}  
+if(stackToContext == null){ clearStackToContext("tr");}  
+if(hasContext){ clearStackToContext("tr");}  
+if(currentContext != null){ clearStackToContext("tr");}  
+if(tx != null){ clearStackToContext("tr");}  
+if(log.isDebugEnabled()){ clearStackToContext("tr");}  
+if(ctx==null){ clearStackToContext("tr");}  
+if(stackTableRowContext != null){ clearStackToContext("tr");}  
+if(ctx == null){ clearStackToContext("tr");}  
+if(contextStack.size() > 0){ clearStackToContext("tr");}  
+if(tableRowContext != null){ clearStackToContext("tr");}  
+if(traceEnabled){ clearStackToContext("tr");}  
+if(currentRow == null){ clearStackToContext("tr");}  
+if(depth > 0){ clearStackToContext("tr");}  
+if(rows!=null){ clearStackToContext("tr");}  
+if(row == null){ clearStackToContext("tr");}  
+if(TraceOn){ clearStackToContext("tr");}  
+if(stack.length > 0){ clearStackToContext("tr");}  
+if(rows != null){ clearStackToContext("tr");}  
+if(table!=null){ clearStackToContext("tr");}  
+if(debugMode){ clearStackToContext("tr");}  
+if(stackToRowContext!=null){ clearStackToContext("tr");}  
+if(tr == null){ clearStackToContext("tr");}  
+if(pageContext != null){ clearStackToContext("tr");}  
+if(contextStack!=null){ clearStackToContext("tr");}  
+if(tracer != null){ clearStackToContext("tr");}  
+if(stack == null){ clearStackToContext("tr");}  
+if(currentTableRowContext != null){ clearStackToContext("tr");}  
+if(stackToContext==null){ clearStackToContext("tr");}  
+if(log.isTraceEnabled()){ clearStackToContext("tr");}  
+if(getCurrentRow() != null){ clearStackToContext("tr");}  
+if(stackToRowContext == null){ clearStackToContext("tr");}  
+if(currentRowContext != null){ clearStackToContext("tr");}  
+if(rowContext!=null){ clearStackToContext("tr");}  
+if(rowContext == null){ clearStackToContext("tr");}  
+if(tableContext != null){ clearStackToContext("tr");}  
+if(stackTableRowContext!=null){ clearStackToContext("tr");}  
+if(currentTableRow != null){ clearStackToContext("tr");}  
+if(tableRow != null){ clearStackToContext("tr");}  
+if(top != null){ clearStackToContext("tr");}  
+if(stackToTableRowContext != null){ clearStackToContext("tr");}  
+if(this.context != null){ clearStackToContext("tr");}  
+if(currentStack != null){ clearStackToContext("tr");}  
+if(this.tr != null){ clearStackToContext("tr");}  
+if(currentTable!=null){ clearStackToContext("tr");}  
+if(tr==null){ clearStackToContext("tr");}  
+if(tableRowContext!=null){ clearStackToContext("tr");}  
+if(depth == 0){ clearStackToContext("tr");}  
+if(getStackToContext() != null){ clearStackToContext("tr");}  
+if(tracer!=null){ clearStackToContext("tr");}  
+if(null!=tr){ clearStackToContext("tr");}  
+if(row==null){ clearStackToContext("tr");}  
+if(parentStack != null){ clearStackToContext("tr");}  
+if(stack.size() == 0){ clearStackToContext("tr");}  
+if(tx!=null){ clearStackToContext("tr");}  
+if(currentTableRow != null){ clearStackToContext("tr");}  
+if(tcContext != null){ clearStackToContext("tr");}  
+if(logger.isDebugEnabled()){ clearStackToContext("tr");}  
+if(view != null){ clearStackToContext("tr");}  
+if(currentRow != -1){ clearStackToContext("tr");}  
+if(contextStack.size() == 0){ clearStackToContext("tr");}  
+if(ctxStack.isEmpty()){ clearStackToContext("tr");}  
+if(clearStackToContext("tr")){ clearStackToContext("tr");}  
+if(this != null){ clearStackToContext("tr");}  
+if(currentRow==null){ clearStackToContext("tr");}  
+if(level > 0){ clearStackToContext("tr");}  
+if(currentContext!=null){ clearStackToContext("tr");}  
+if(stack.length == 0){ clearStackToContext("tr");}  
+if(contexts != null){ clearStackToContext("tr");}  
+if(top!=null){ clearStackToContext("tr");}  
+if(rows==null){ clearStackToContext("tr");}  
+if(tableRows != null){ clearStackToContext("tr");}  
+if(currentRow != null){ clearStackToContext("tr");}  
+if(rowCount > 0){ clearStackToContext("tr");}  
+if(stackContext != null){ clearStackToContext("tr");}  
+if(contextStack.length > 0){ clearStackToContext("tr");}  
+if(contextStack == null){ clearStackToContext("tr");}  
+if(stackToTableRowContext != null){ clearStackToContext("tr");}  
+if(table == null){ clearStackToContext("tr");}  
+if(level == 0){ clearStackToContext("tr");}  
+if(rows == null){ clearStackToContext("tr");}  
+if(stack==null){ clearStackToContext("tr");}  
+if(null != context){ clearStackToContext("tr");}  
+if(parent == null){ clearStackToContext("tr");}  
+if(Stack.isEmpty()){ clearStackToContext("tr");}  
+if(useStackToContext){ clearStackToContext("tr");}  
+if(currentTableRowContext!=null){ clearStackToContext("tr");}  
+if(logger.isTraceEnabled()){ clearStackToContext("tr");}  
+if(stack.size()>0){ clearStackToContext("tr");}  
+if(stackTableRowContext == null){ clearStackToContext("tr");}  
+if(contexts.isEmpty()){ clearStackToContext("tr");}  
+if(Tracing.isAnyTracingEnabled()){ clearStackToContext("tr");}  
+if(cell != null){ clearStackToContext("tr");}  
+if(currentStack!=null){ clearStackToContext("tr");}  
+if(depth > 1){ clearStackToContext("tr");}  
+if(window != null){ clearStackToContext("tr");}  
+if(tableRowContext == null){ clearStackToContext("tr");}  
+if(getStackToContext("tr")==null){ clearStackToContext("tr");}  
+if(stackToRowContext==null){ clearStackToContext("tr");}  
+if(depth==0){ clearStackToContext("tr");}  
+if(this.stack != null){ clearStackToContext("tr");}  
+if(tableName != null){ clearStackToContext("tr");}  
+if(currentRow!=null){ clearStackToContext("tr");}  
+if(m_context != null){ clearStackToContext("tr");}  
+if(parentContext != null){ clearStackToContext("tr");}  
+if(this.table != null){ clearStackToContext("tr");}  
+if(DEBUG_MODE){ clearStackToContext("tr");}  
+if(col != null){ clearStackToContext("tr");}  
+if(rows.isEmpty()){ clearStackToContext("tr");}  
+if(null!=context){ clearStackToContext("tr");}  
+if(m_tableRowContext != null){ clearStackToContext("tr");}  
+if(currentRow == -1){ clearStackToContext("tr");}  
+if(DEBUG_TABLES){ clearStackToContext("tr");}  
+if(this.context!=null){ clearStackToContext("tr");}  
+if(contextStack.size()>0){ clearStackToContext("tr");}  
+if(m_table != null){ clearStackToContext("tr");}  
+if(displayRow != null){ clearStackToContext("tr");}  
+if(currentRowContext!=null){ clearStackToContext("tr");}  
+if(currentRow==0){ clearStackToContext("tr");}  
+if(hasContext()){ clearStackToContext("tr");}  
+if(null != rowContext){ clearStackToContext("tr");}  
+if(isEmptyTableRowContext){ clearStackToContext("tr");}  
+if(getCurrentRow() == null){ clearStackToContext("tr");}  
+if(currentContext == null){ clearStackToContext("tr");}  
+if(contextTableRowContext != null){ clearStackToContext("tr");}  
+if(LOG.isDebugEnabled()){ clearStackToContext("tr");}  
+if(this.tr!=null){ clearStackToContext("tr");}  
+if(stack.size()==0){ clearStackToContext("tr");}  
+if(stackToTableRowContext != null){ clearStackToContext("tr");}  
+if(this.stack!=null){ clearStackToContext("tr");}  
+if(this.context == null){ clearStackToContext("tr");}  
+if(this.parent!=null){ clearStackToContext("tr");}  
+if(emptyTableRowContext){ clearStackToContext("tr");}  
+if(curRow != null){ clearStackToContext("tr");}  
+if(stackToTableRowContext == null){ clearStackToContext("tr");}  
+if(stackToTableRowContext!=null){ clearStackToContext("tr");}  
+if(currentRow() != null){ clearStackToContext("tr");}  
+if(contextStack.length == 0){ clearStackToContext("tr");}  
+if(this.parent != null){ clearStackToContext("tr");}  
+if(stack.size() > 1){ clearStackToContext("tr");}  
+if(hasStackToContext("tr")){ clearStackToContext("tr");}  
+if(m_tableRows != null){ clearStackToContext("tr");}  
+if(stackTableRowContext==null){ clearStackToContext("tr");}  
+if(tableToRowContext != null){ clearStackToContext("tr");}  
+if(stackToTableRowContext!=null){ clearStackToContext("tr");}  
+if(currentStack.isEmpty()){ clearStackToContext("tr");}  
+if(rows.size() > 0){ clearStackToContext("tr");}  
+if(stack.length==0){ clearStackToContext("tr");}  
+if(currentTableRow == null){ clearStackToContext("tr");}  
+if(contextStack.size()==0){ clearStackToContext("tr");}  
+if(rowStack.isEmpty()){ clearStackToContext("tr");}  
+if(getCurrentRow()!=null){ clearStackToContext("tr");}  
+if(System.getSecurityManager()!=null){ clearStackToContext("tr");}  
+if(isEmptyTableRowContext()){ clearStackToContext("tr");}  
+if(currentRowContext == null){ clearStackToContext("tr");}  
+if(this.context==null){ clearStackToContext("tr");}  
+if(null != currentRow){ clearStackToContext("tr");}  
+if(currentTableRowContext == null){ clearStackToContext("tr");}  
+if(ContextStack.isEmpty()){ clearStackToContext("tr");}  
+if(stackToTableRowContext == null){ clearStackToContext("tr");}  
+if(contextStack.empty()){ clearStackToContext("tr");}  
+if(contextTableRowContext!=null){ clearStackToContext("tr");}  
+if(m_tableRowContext!=null){ clearStackToContext("tr");}  
+if(showTableRowContext){ clearStackToContext("tr");}  
+if(null != contextStack){ clearStackToContext("tr");}  
+if(getStackToContext() == null){ clearStackToContext("tr");}  
+if(ctxStack.size() > 0){ clearStackToContext("tr");}  
+if(null != stackToContext){ clearStackToContext("tr");}  
+if(m_stackToContext != null){ clearStackToContext("tr");}  
+if(null != stackToRowContext){ clearStackToContext("tr");}  
+if(contextStack.isEmpty){ clearStackToContext("tr");}  
+if(stack.size() == 1){ clearStackToContext("tr");}  
+if(stackToContext.isEmpty()){ clearStackToContext("tr");}  
+if(this.contextStack.isEmpty()){ clearStackToContext("tr");}  
+if(null!=this.tr){ clearStackToContext("tr");}  
+if(stackToTableRowContext!=null){ clearStackToContext("tr");}  
+if(this.stack.isEmpty()){ clearStackToContext("tr");}  
+if(stack.length() > 0){ clearStackToContext("tr");}  
+if(currentRow() == null){ clearStackToContext("tr");}  
+if(contexts.size() > 0){ clearStackToContext("tr");}  
+if(topTableRowContext != null){ clearStackToContext("tr");}  
+if(contextStack.length() > 0){ clearStackToContext("tr");}  
+if(null != this.tr){ clearStackToContext("tr");}  
+if(this.rowContext != null){ clearStackToContext("tr");}  
+if(StackToRowContext != null){ clearStackToContext("tr");}  
+if(null!=stackToContext){ clearStackToContext("tr");}  
+if(contextStack.length==0){ clearStackToContext("tr");}  
+if(m_tableRowContext == null){ clearStackToContext("tr");}  
+if(tableToRowContext!=null){ clearStackToContext("tr");}  
+if(arguments.length == 0){ clearStackToContext("tr");}  
+if(stackTableRowContext.isEmpty()){ clearStackToContext("tr");}  
+if(this.contextStack != null){ clearStackToContext("tr");}  
+if(stack.length > 1){ clearStackToContext("tr");}  
+if(stackToTableRowContext==null){ clearStackToContext("tr");}  
+if(log.isLoggable(Level.INFO){ clearStackToContext("tr");}  
+if(this.stackToContext != null){ clearStackToContext("tr");}  
+if(stackToRowContext.isEmpty()){ clearStackToContext("tr");}  
+if(tcTableRowContext != null){ clearStackToContext("tr");}  
+if(this.getCurrentRow() != null){ clearStackToContext("tr");}  
+if(tc.getCurrentRow() != null){ clearStackToContext("tr");}  
+if(getStackToRowContext() != null){ clearStackToContext("tr");}  
+if(currentTableRowContext==null){ clearStackToContext("tr");}  
+if(stackToTableRowContext == null){ clearStackToContext("tr");}  
+if(m_tableRow != null){ clearStackToContext("tr");}  
+if(isLoggable(Level.FINEST){ clearStackToContext("tr");}  
+if(contextStack.size() == 1){ clearStackToContext("tr");}  
+if(stack.size()==0){ clearStackToContext("tr");}  
+if(useStackToContext()){ clearStackToContext("tr");}  
+if(this.currentRow != null){ clearStackToContext("tr");}  
+if(contextTableRowContext == null){ clearStackToContext("tr");}  
+if(rows.size() == 0){ clearStackToContext("tr");}  
+if(contextStack.size()==0){ clearStackToContext("tr");}  
+if(m_stack.isEmpty()){ clearStackToContext("tr");}  
+if(contextStack.size() > 1){ clearStackToContext("tr");}  
+if(m_contextStack.isEmpty()){ clearStackToContext("tr");}  
+if(stack.size() != 0){ clearStackToContext("tr");}  

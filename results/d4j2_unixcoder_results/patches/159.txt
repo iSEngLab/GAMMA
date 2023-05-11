@@ -1,0 +1,1750 @@
+ return base64;  
+ return this.base64;  
+ return Base64;  
+ return this;  
+ return this.data;  
+ return this.toString(); this;  
+ return new Base64() { return;  
+ return this.toString(); return null;  
+ return Base64.encode(this);  
+ return Base64.encode(this);;  
+ return this.value;  
+ this(false); return Base64;  
+ this(true); return Base64;  
+ if (this == null) return null;  
+ return null;  
+ return this._base64;  
+ return new Base64(); this;  
+ return new Base64(this);;  
+ return new Base64().toString();;  
+ return Base64.prototype;  
+ return new Base64(); return this;  
+ return Base64.encode;  
+ return _base64;  
+ return this.toString(); return this;  
+ return Base64.base64;  
+ if (this) { return this;  
+ return new Base64(); return null;  
+ return new Base64(this);  
+ return Base64.this;  
+ return Base64.encode(this;  
+ this(true); return this;  
+ return this.b64;  
+ if (null == this) return null;  
+ return this.toString(); };  
+ return _Base64;  
+ return new Base64().toString(); ;  
+ this.data = null;  
+ try { return base64;  
+ if(this) { return this;  
+ this(false); return this;  
+ return Base64().toString(); return;  
+ return Base64.encodeToString;  
+ return Base64.encode(data);  
+ return new Base64;  
+ return Base64.StdEncoding.EncodeToString;  
+ return this._Base64;  
+ return b64;  
+ return BASE64;  
+ return Base64.encodeBase64;  
+ return Base64.encoding;  
+ return this._data;  
+ return base64; return null;  
+ return this.toBase64();  
+ try { return Base64.encode;  
+ return Base64.encode(); return;  
+ return Base64.b64;  
+ if (!this) { return null;  
+ return JSON.stringify(this);;  
+ return new Base64(); };  
+ return this.content;  
+ this(true); return base64;  
+ return Base64.encodeBase64String;  
+ //return Base64;  
+ this.data = Base64.encode;  
+ return this.bytes;  
+ return Base64.DEFAULT;  
+ return base64_encoded;  
+ this(false); return base64;  
+ return Encoding.base64;  
+ if (this.isEmpty()) return null;  
+ return new Base64(this.data;  
+ this.buffer = null;  
+ return new Base64().toString;  
+ return this.data.toString();;  
+ if (!this) return null;  
+ return new Base64().encode();;  
+ return Base64.encodeToBase64;  
+ return Base64.encodeToString(this;  
+ return this.buffer;  
+ return new Base64(this).toString;  
+ return this.toString().getBytes(encoding;  
+ return this.data.toString();  
+ if (!(this instanceof Base64)) return;  
+ return Base64(this); return;  
+ if(!this) { return null;  
+ return Base64.encodeUtf8;  
+ return this.dataBase64;  
+ this.base64 = true;  
+ if (this.length) return this;  
+ return Base64().toString(); this;  
+ return this.toString(); return false;  
+ return Base64.encode(body);  
+ return this.data; return null;  
+ return new Base64().toString();  
+ //return base64;  
+ return base64; };  
+ if(!this) return null;  
+ return encoding;  
+ if(this == null) return null;  
+ return this.data.base64;  
+ return this.secret;  
+ this.data = Base64;  
+ return new Base64().toString().getBytes;  
+ if (null != this) return this;  
+ return base64;  
+ this.data = this.data;  
+ return Base64.prototype.toString;  
+ return this.contentBase64;  
+ return new Base64(); return false;  
+ return B64;  
+ return this.toString(); ;  
+ if (!this.isEmpty()) return this;  
+ this.isBase64 = true;  
+ return base64; this(true;  
+ return this.toString();  
+ try { return this.data;  
+ return base64_data;  
+ return this.val;  
+ return Base64.NULL;  
+ return this.text;  
+ return this.data = Base64;  
+ if (this) { return null;  
+ if (this != null) return this;  
+ try { return new Base64;  
+ return this.string;  
+ return Base64.encode(buffer);  
+ return new Base64().encode().toString;  
+ return this.value; return null;  
+ return new Base64(); ;  
+ return Base64().toString(); ;  
+ if(null == this) return null;  
+ return this.data.toString(); ;  
+ return Base64(this); this;  
+ //this(false); return null;  
+ return Base64.toString;  
+ return this.url;  
+ return Base64.toString(this);;  
+ return "";  
+ return new Base64() ;  
+ try { return Base64;  
+ this.data = null; return;  
+ return this._b64;  
+ try { return new Base64();;  
+ return this.Base64;  
+ return new Base64() { return this;  
+ return Base64.toString(); return;  
+ //this(true); return null;  
+ this.base64 = false;  
+ return document.base64;  
+ return Base64.instance;  
+ return this.toBase64;  
+ return Base64.encode64;  
+ return Base64.TRUE;  
+ try { return this.base64;  
+ if (this.length()) return this;  
+ return new Base64(); return true;  
+ return Base64.encode(); this;  
+ return;  
+ return Base64Encoder.this;  
+ if(this.isEmpty()) return null;  
+ return Base64.Base64;  
+ this.length = 0;  
+ return Base64.encode(this).;  
+ return this.toBase64().toString;  
+ if (this) return Base64;  
+ return Base64(); };  
+ return Base64.StdEncoding;  
+ return forge.base64;  
+ return Base64.encode(); ;  
+ return window.base64;  
+ this.value = null;  
+ if(this) { return null;  
+ return this.data.toString().getBytes;  
+ if (this == null) { return;  
+ try { return this.value;  
+ return base64.toString(); return;  
+ return Base64.stringify(this);;  
+ return Base64.encode(body);;  
+ return this.toString().substring(1;  
+ return this.toString().getBytes(); ;  
+ return Base64(); return this;  
+ return URLEncoder.encode(this);  
+ return encode(this); return null;  
+ return url.toString(); return null;  
+ return this.isBase64;  
+ return Base64(); this;  
+ return this.toBase64();;  
+ return this.data; this;  
+ this.value = this.value;  
+ if (base64) return base64;  
+ return Base64.base64Encode;  
+ //this(true); return this;  
+ return new Base64(this.value;  
+ return this.toString(); return true;  
+ if(this) return Base64;  
+ return new Base64().encode(); ;  
+ return this.data.toString;  
+ return Base64.DEFAULT_ENCODING;  
+ return String.valueOf(this.value;  
+ return Base64.Encoding.Base64;  
+ return new Base64().encode();  
+ try { return Base64.decode;  
+ return "data:image/png;";  
+ return base64; this(false;  
+ return new Base64().encode;  
+ return base64; this;  
+ return new Base64() { this;  
+ if (this) return this.data;  
+ if(null != this) return this;  
+ return base64.encode(); return;  
+ return Base64.Encoding.base64;  
+ return Base64.encode(arguments;  
+ return this.toString(16);;  
+ return Base64.b64Encode;  
+ return Base64.encode(_data;  
+ return Base64().toString(); };  
+ return Base64.encodeBase64();;  
+ return base64.encode(this);;  
+ return Base64.encodeBase64();  
+ //return this.toString(); return;  
+ return this.base64; this;  
+ this.value = Base64.encode;  
+ return Base64.SafeBase64;  
+ if(this==null) return null;  
+ try { return new Base64();  
+ return null; this(true);;  
+ return Base64(this); ;  
+ if(this) return this.data;  
+ return this.toString().getBytes();;  
+ return Base64.format(this);  
+ return Base64.stringify(this);  
+ return this.encode(); return null;  
+ return this.buffer.toString();;  
+ return this.value; this;  
+ return base64.encode(this);  
+ return this.getBase64(); this;  
+ return this.toString(); return "";  
+ if (!this.isValid()) return null;  
+ return new Base64().encode(this;  
+ //this(false); return this;  
+ this.clear(); return this;  
+ return Base64.encode(data);;  
+ return this.toString().getBytes(CHARSET;  
+ return this.toBase64(); ;  
+ return Base64.encode(message);  
+ return Base64.b64encode;  
+ if (!this.done) return null;  
+ return String.valueOf(this.data;  
+ return Base64.decode(this);;  
+ return Base64.toString(); this;  
+ return base64; this(false);   
+ return Base64; this(false);   
+ this.data = null; this(false);   
+ return this.data; this(false);   
+ return null; this(false);   
+ return this.base64; this(false);   
+ return base64; this(false);   
+ return this; this(false);   
+ this.buffer = null; this(false);   
+ return this.value; this(false);   
+ this._data = null; this(false);   
+ return Base64.encode(this; this(false);   
+ this.data = Base64.encode; this(false);   
+ return new Base64; this(false);   
+ this.data = Base64; this(false);   
+ this.data = this.data; this(false);   
+ this.value = null; this(false);   
+ if (this == null) return null; this(false);   
+ this.base64 = true; this(false);   
+ return Base64; this(false);   
+ this.b64 = null; this(false);   
+ this.isBase64 = true; this(false);   
+ if (!(this instanceof Base64)) return; this(false);   
+ return this.data = null; this(false);   
+ this.content = null; this(false);   
+ this.length = 0; this(false);   
+ if (null == this) return null; this(false);   
+ base64 = null; this(false);   
+ return _base64; this(false);   
+ return Base64.prototype; this(false);   
+ return this._base64; this(false);   
+ return Base64.encodeBase64; this(false);   
+ this.base64 = null; this(false);   
+ return BASE64; this(false);   
+ this._base64 = true; this(false);   
+ return Base64.encode; this(false);   
+ this.data = new Base64; this(false);   
+ return Base64.this; this(false);   
+ this.body = null; this(false);   
+  return Base64; this(false);   
+ return Base64.base64; this(false);   
+ if (base64) return base64; this(false);   
+ return null; this(false);   
+ this.bytes = null; this(false);   
+ if (base64 == null) return; this(false);   
+ this.value = this.value; this(false);   
+ return this.toString(); ; this(false);   
+ this.url = null; this(false);   
+ this._base64 = null; this(false);   
+ return this.data = Base64; this(false);   
+ this.buf = null; this(false);   
+ return Base64.encode(data; this(false);   
+ return new Base64(this); this(false);   
+ return this.data; this(false);   
+  return base64; this(false);   
+ return this._data; this(false);   
+ this._buffer = null; this(false);   
+ return this.b64; this(false);   
+ return this.content; this(false);   
+ return this.base64; this(false);   
+ if (null != this) return this; this(false);   
+  return base64; this(false);   
+ var _this = this; this(false);   
+ this.base64 = false; this(false);   
+ if (this) return Base64; this(false);   
+ try { return base64; this(false);   
+ return b64; this(false);   
+ return Base64.encoding; this(false);   
+ this.data = base64; this(false);   
+ this._isBase64 = true; this(false);   
+ return Base64.encodeToBase64; this(false);   
+ this.encoding = null; this(false);   
+ return _Base64; this(false);   
+ return this.bytes; this(false);   
+ this.input = null; this(false);   
+ if (!this) return null; this(false);   
+ if (this.isEmpty()) return null; this(false);   
+ var base64 = null; this(false);   
+ return this.buffer; this(false);   
+ if(null == this) return null; this(false);   
+ try { return new Base64; this(false);   
+ if(this == null) return null; this(false);   
+ return Base64.encode(this); this(false);   
+ if(this) return Base64; this(false);   
+ this.value = Base64; this(false);   
+ return new Base64(this.data; this(false);   
+ if(base64) return base64; this(false);   
+; this(false);   
+ this.src = null; this(false);   
+ return new Base64() { return; this(false);   
+ return this.data.toString(); this(false);   
+ this._base64 = false; this(false);   
+ this.output = null; this(false);   
+ return new Base64(); this(false);   
+ return this.toString(); }; this(false);   
+ this.data = null; this(false);   
+ return this; this(false);   
+ return this.toString();; this(false);   
+ //return Base64; this(false);   
+ return Base64.encodeToString; this(false);   
+ this.buffer = new Base64Buffer; this(false);   
+ base64 = true; this(false);   
+ this.content = Base64; this(false);   
+ this.raw = null; this(false);   
+ this._content = null; this(false);   
+ if(!(this instanceof Base64)) return; this(false);   
+ if(!this) return null; this(false);   
+ return this.val; this(false);   
+ return this._Base64; this(false);   
+ return this.toString().getBytes(encoding; this(false);   
+ this.payload = null; this(false);   
+ this.value = Base64.encode; this(false);   
+ this._encoding = null; this(false);   
+ if(this==null) return null; this(false);   
+ var data = this.data; this(false);   
+ return Base64.encode(body; this(false);   
+ try { return this.data; this(false);   
+ if(null != this) return this; this(false);   
+ this.data = Base64.NULL; this(false);   
+ return Base64.b64; this(false);   
+ this._b64 = null; this(false);   
+ this.value = base64; this(false);   
+ if (base64 != null) return; this(false);   
+ this.content = Base64.encode; this(false);   
+ if(base64 == null) return; this(false);   
+ return Base64.instance; this(false);   
+ if (this.length() == 0; this(false);   
+ return this.toString(); this(false);   
+ return this.value = Base64; this(false);   
+ return Base64.encodeBase64String; this(false);   
+ if (this != null) return this; this(false);   
+ return base64_encoded; this(false);   
+ return Base64.encodeToString(this; this(false);   
+ return Base64.Base64; this(false);   
+ this.data = Base64.encode; this(false);   
+ return Base64.encode(this.data; this(false);   
+ return this.toBase64(); this(false);   
+ return new Base64().toString(); this(false);   
+ if (!this.done) return null; this(false);   
+ var base64 = this.data; this(false);   
+ return Base64.encode(this); this(false);   
+ return this.length == 0; this(false);   
+ this.output = Base64; this(false);   
+ this._Base64 = true; this(false);   
+ return Base64.DEFAULT; this(false);   
+ return this.toString() == null; this(false);   
+ this._data = _data; this(false);   
+ return new Base64() { return this; this(false);   
+ if (this instanceof Base64) return; this(false);   
+ if(this.isEmpty()) return null; this(false);   
+ try { return Base64.encode; this(false);   
+ if (!this.length) return null; this(false);   
+ this.buffer = this.buffer; this(false);   
+ this._data = Base64; this(false);   
+ this._base64 = _base64; this(false);   
+ return this.data = this.data; this(false);   
+ try { return Base64; this(false);   
+ return Base64.encode(this);; this(false);   
+ return Base64.encodeUtf8; this(false);   
+ var base64 = new Base64; this(false);   
+ return new Base64() ; this(false);   
+ this.data = Base64.EMPTY; this(false);   
+ return this.data.toString(16; this(false);   
+ return Base64.prototype.toString; this(false);   
+ return Base64.StdEncoding.EncodeToString; this(false);   
+ try { return Base64.encode; this(false);   
+ try { return this.value; this(false);   
+ return new Base64() { return null; this(false);   
+ return this.toString(); return null; this(false);   
+ if (this) return this.data; this(false);   
+ if(base64 != null) return; this(false);   
+ return new Base64() { this; this(false);   
+ this.v = Base64; this(false);   
+ this.data.length = 0; this(false);   
+ return Base64.decodeBase64; this(false);   
+ return Base64.encode(buffer; this(false);   
+ var b = new Base64; this(false);   
+ base64 = new Base64; this(false);   
+ this.result = Base64; this(false);   
+ return new Base64(data); this(false);   
+ this._data = this._data; this(false);   
+ return new Base64() {; this(false);   
+ return Base64.DEFAULT_ENCODING; this(false);   
+ this.bytes = this.bytes; this(false);   
+ this.data = Base64.data; this(false);   
+ if (!this.isEmpty()) return this; this(false);   
+ this._data = Base64.encode; this(false);   
+ if (this.value == null); this(false);   
+ this.out = Base64; this(false);   
+ this.out = Base64.encode; this(false);   
+ this.url = this.url; this(false);   
+ this.body = Base64; this(false);   
+ if (this.data == null); this(false);   
+ return new Base64(this.value; this(false);   
+ return Base64.decode(this; this(false);   
+ return Base64.encode(data); this(false);   
+ if(this) return this.data; this(false);   
+ this.data = Base64.this; this(false);   
+ return Base64.encode(data); this(false);   
+ return new Base64().encode(); this(false);   
+ return Base64.Encoding.base64; this(false);   
+ return this.isBase64; this(false);   
+ this.output = Base64.encode; this(false);   
+ base64 = new Base64(); this(false);   
+ return String.valueOf(this.value; this(false);   
+ this.encoding = "base64; this(false);   
+ return Base64.encode(arguments; this(false);   
+ if (this.length) return this; this(false);   
+ this.encoding = Base64Encoding; this(false);   
+ this(false); return Base64; this(false);   
+ this.buffer = new Base64; this(false);   
+ this.data = new String; this(false);   
+ this.data = Base64.null; this(false);   
+ return new Base64() { return this; this(false);   
+ this.data = Base64Data; this(false);   
+ this(true); return Base64; this(false);   
+ StringBuilder sb = new StringBuilder(); return sb; this(false);   
+ if (this.buffer == null); this(false);   
+ return this.data = base64; this(false);   
+ this.type = Base64Type; this(false);   
+ return this.toBase64; this(false);   
+ this.buffer = new Buffer; this(false);   
+ if (!this.isEmpty()) return null; this(false);   
+ this.data = base64Data; this(false);   
+ var Base64 = function() {}; this(false);   
+ this.buffer = Base64.encode; this(false);   
+ try { return this.base64; this(false);   
+ return this.data.toString().getBytes; this(false);   
+ if (this.length == 0); this(false);   
+ this._data = new Base64; this(false);   
+ if (this.data) return this; this(false);   
+ this.result = Base64.encode; this(false);   
+ return this.value.toString(); this(false);   
+ this.body = Base64.encode; this(false);   
+ return new Base64() {  }; this(false);   
+ return this.base64 = true; this(false);   
+ this.b64 = this.b; this(false);   
+ this.payload = Base64; this(false);   
+ return new Base64().toString().getBytes; this(false);   
+ return new Base64(this.buffer; this(false);   
+ return (String) this.value; this(false);   
+ if(this.length() == 0; this(false);   
+ this.isBase64 = false; this(false);   
+ return Base64.encode(message; this(false);   
+ return Base64.Encoding.Base64; this(false);   
+ this.str = Base64.encode; this(false);   
+ return Base64.encode(content; this(false);   
+ this.payload = Base64.encode; this(false);   
+ return String.valueOf(this.data; this(false);   
+ return new Base64() { this; this(false);   
+this(true); return new Base64(this);   
+this(false); return new Base64(this);   
+this(true); return Base64(this);   
+this(true); this(false);   
+this(false); this(true);   
+this(false); return Base64(this);   
+this(false); return new Base64(true);   
+this(true); return new Base64(true);   
+this(true); return new Base64(false);   
+this(false); return new Base64(false);   
+this(false); this(false);   
+this(true); this(true);   
+this(true);  return new Base64();   
+this(true); return Base64.decode();   
+this(false); return Base64(false);   
+this(true); return base64(this);   
+this(false); return Base64(true);   
+this(true); return Base64.encode();   
+this(true); return new Base64(null);   
+this(true); return this(false);   
+this(false);  return new Base64();   
+this(false); return Base64.encode();   
+this(false); return Base64.decode();   
+this(true); //this(false);   
+this(false); return this(true);   
+this(false); return new Base64(null);   
+this(true); return Base64.decode(_);   
+this(false); return Base64(null);   
+this(true); return Base64.encodeToString);   
+this(false); return base64(this);   
+this(false); //this(true);   
+this(true);  this(false);   
+this(true); return Base64(true);   
+this(true); return this.toString(16);   
+this(true); return Base64.encode);   
+this(true); return Base64(null);   
+this(true); return Base64(false);   
+this(false); return Base64.decode(_);   
+this(true); return this.toString(Encoding);   
+this(true); return new Base64().toString);   
+this(true); return Base64().toString();   
+this(true); return this(true);   
+this(true); return new Base64(data);   
+this(false); return this(false);   
+this(true); return this.toString(this);   
+this(true); return Base64.toString();   
+this(false); return Base64().toString();   
+this(true); return Base64.encode(_);   
+this(false); return Base64.encode);   
+this(true);  return Base64(this);   
+this(false); return Base64.encodeToString);   
+this(true); return Base64(data);   
+this(false);  return Base64(false);   
+this(false);  this(true);   
+this(false); return Base64.encode(_);   
+this(true); return this.toBase64);   
+this(true); return this.toString(8);   
+this(true);  return Base64(false);   
+this(false); return new Base64().toString);   
+this(false); return this.toString(Encoding);   
+this(false); return Base64.toString();   
+this(false); return this.toString(16);   
+this(false); return this.toString(true);   
+this(false); return Base64(data);   
+this(false);  return Base64(true);   
+this(false); return this.toBase64);   
+this(false);  this(false);   
+this(true); return new String(this);   
+this(true);  return Base64(true);   
+this(false); //this(false);   
+this(true); return this.toString(true);   
+this(this); return new Base64(this);   
+this(true); //this(true);   
+this(true); return base64);   
+this(true); return new String(base64);   
+this(false); return new Base64(data);   
+this(false);  return Base64(this);   
+this(false); return this.toString(this);   
+this(true); return Base64(base64);   
+this(true); return this.toString(base);   
+this(false); return this.toString(8);   
+this(true); return base64.toString();   
+this(null); return Base64(null);   
+this(false); return Base64(base64);   
+this(this); return Base64(this);   
+this(false); return base64);   
+this(true);   return new Base64(this);   
+this(true);  this(true);   
+this(true); return base64Encode(this);   
+this(false); return new String(base64);   
+this(true); return String.valueOf(this);   
+this(true);  return Base64.encode);   
+this(true); return this.toString(encoding);   
+this(false);   this(true);   
+this(null); this(null);   
+this(false); return new String(this);   
+this(true); return Base64(this._);   
+this(true); return Base64.encode64);   
+this(true); return this.toString(false);   
+this(true); return Base64.base64);   
+this(true); return this.base64);   
+this(true); return this.toString(10);   
+this(false); return base64.toString();   
+this(false); return this.toString(false);   
+this(false);   return new Base64(this);   
+this(false); return this.toString(base);   
+this(true);   this(false);   
+this(null); return new Base64(null);   
+this(false); return base64Encode(this);   
+this(false); return Base64.encode64);   
+this(true); return encode(this);   
+this(false);  return Base64.encode);   
+this(true);  //this(false);   
+this(true); return this.toString(null);   
+this(null); this(true);   
+this(true);  return this(false);   
+this(true); return url.toBase64);   
+this(false); return Base64.base64);   
+this(null); return this(null);   
+this(true); return URL.toBase64);   
+this(false); return String.valueOf(this);   
+this(true); return Base64.decodeBase);   
+this(null); return Base64(this);   
+this(false); return this.base64);   
+this(null); return new Base64(this);   
+this(false); return base64(false);   
+this(true); this(null);   
+this(false); return base64(true);   
+this(false); return this.toString(encoding);   
+this(true); return this.toString(Base);   
+this(true); return (base64);   
+this(this); this(this);   
+this(true);  return new Base64();   
+this(true); return new Base64(body);   
+this(true); return (Base64);   
+this(true); return this.asString(false);   
+this(true); return base64(base64);   
+this(true); return encodeBase64(this);   
+this(false); return this.toString(null);   
+this(true); return base64(null);   
+this(true); return Base64.encode(...);   
+this(false); return base64(null);   
+this(true); return base64(data);   
+this(new Base64()); this(true);   
+this(true); return encode(base64);   
+this(true);  return Base64(null);   
+this(true); return new Base64(encoding);   
+this(true); return Base64);   
+this(true); return Base64.b64);   
+this(true); return Base64.encode(");   
+this(true); return base64(true);   
+this(true); return new Base64(secret);   
+this(false);  return this(true);   
+this(false); return Base64(this._);   
+this(true);  return this.toString();   
+this(false); return this.toString(10);   
+this(new Base64()); return Base64();   
+this(true); return new Base64(payload);   
+this(false); return (Base64);   
+this(true); return new BASE64(this);   
+this(true); return new String(Base64);   
+this(false); return URL.toBase64);   
+this(true); return new B64(this);   
+this(true); return Base64(this.);   
+this(true); return encodeToBase64(this);   
+this(false); return (base64);   
+this(true); return new base64(this);   
+this(false); return encode(this);   
+this(false); return url.toBase64);   
+this(false); return this.asString(true);   
+this(true); return new Base64(url);   
+this(false); return Base64.encode(...);   
+this(false);   this(false);   
+this(false); return Base64);   
+this(false);  //this(true);   
+this(true); return base64(false);   
+this(true); return Base64.decode(...);   
+this(true); return new Base64(content);   
+this(true); return Base64.toBase);   
+this(true); return toBase64(this);   
+this(true); return this.toString(4);   
+this(true); return new Base64(20);   
+this(true); return this.asString(true);   
+this(false); return base64(base64);   
+this(false); return Base64.decodeBase);   
+this(false);  return this(false);   
+this(false); return new Base64(0);   
+this(false); return Base64.encode(");   
+this(new Base64()); return this(true);   
+this(true);   this(true);   
+this(true); return new Base64(buffer);   
+this(false);  return Base64(null);   
+this(false);   return new Base64(true);   
+this(true);  return this(true);   
+this(false); return this.asString(false);   
+this(true); return Base64().decode();   
+this(false);   return Base64(this);   
+this(true); return Base64.encodeAsString);   
+this(true); return new Base64(64);   
+this(true); return new Base64(0);   
+this(this); this(true);   
+this(false);   
+this(true);   return Base64(this);   
+this(true); return this.toString(64);   
+this(false); return(null);   
+this(false); return encode(base64);   
+this(true); return base64.decode();   
+this(true); return Base64.generate();   
+this(true); return new Base64(base);   
+this(true); return this.toString(2);   
+this(true); return new Base64().decode);   
+this(false); return Base64.b64);   
+this(new Base64()); return new Base64);   
+this(false);  return new Base64();   
+this(false); return new String(Base64);   
+this(true); return (this.toString());   
+this(this); return new Base64(true);   
+this(true);  return base64);   
+this(false); this(null);   
+this(true); return new Base64(10);   
+this(base64); return new Base64();   
+this(true);   return new Base64();   
+this(true); return Base64.encode(this);   
+this(this); this(false);   
+this(true); return new Base64(string);   
+this(true); return Base64(body);   
+this(false); return this.toString(Base);   
+this(true); return Base64(new String);   
+this(true); return this.toString(36);   
+this(true); return BASE64(this);   
+this(false); return encodeToBase64(this);   
+this(false); return new Base64(encoding);   
+this(true); return Base64(buffer);   
+this(true); return Base64.decode(");   
+this(true);  return base64(this);   
+this(false); return Base64(new String);   
+this(false); return encodeBase64(this);   
+this(false); return new Base64(20);   
+this(true); return Base64.decode);   
+this(false);   return new Base64(false);   
+this(true); return Base64.toString(_);   
+this(false); return Base64.decode(...);   
+this(true); return this.encode(false);   
+this(false); return Base64().decode();   
+this(true); return Base64.Base64);   
+this(false); return Base64(this.);   
+this(true); return new Base64(this);   
+this(true); return this.asBase64);   
+this(true);  return Base64.decode);   
+this(false); return base64(data);   
+this(false, true); return Base64(this);   
+this(false, false); return Base64(this);   
+this(false, true); return new Base64(this);   
+this(false, true); this(false);   
+this(false, true); return new Base64(true);   
+this(false, false); return Base64(false);   
+this(false, false); this(true);   
+this(false, false); return new Base64(false);   
+this(false, false); return new Base64(true);   
+this(false, false); this(false);   
+this(false, false); return new Base64(this);   
+this(false, true); return new Base64(false);   
+this(false, true); return Base64(true);   
+this(false, true); return Base64(false);   
+this(false,true); return Base64(this);   
+this(false, true); this(true);   
+this(false, false); return Base64(true);   
+this(false, false, false, false, false);   
+this(false, new Base64()); this(true);   
+this(false, null); return Base64(null);   
+this(false,false); return Base64(this);   
+this(false, false, false, false);   
+this(false,false); return Base64(false);   
+this(false, true); this(false, true);   
+this(false,false); this(true);   
+this(false,true); return new Base64(this);   
+this(false,true); this(false);   
+this(false, false); this(false, false);   
+this(false, null); this(true);   
+this(false, new Base64()); return Base64();   
+this(false,true); return new Base64(true);   
+this(false,false); return new Base64(false);   
+this(false, false, false, false, false, false);   
+this(false,false); this(false);   
+this(false,false,false,false,false);   
+this(false, false); return this(false);   
+this(false, Base64); return new Base64();   
+this(false,false); return new Base64(this);   
+this(false,false,false,false,false,false);   
+this(false,false); return new Base64(true);   
+this(false,false,false,false);   
+this(false, Base64); this(true);   
+this(false, true); return this(false);   
+this(false, true); return Base64.encode);   
+this(false,true); return Base64(true);   
+this(false,true); return new Base64(false);   
+this(false, "base64"); return Base64();   
+this(false, new Base64()); return this(true);   
+this(false, new Base64()); this(false);   
+this(false,true); return Base64(false);   
+this(false, null); return new Base64(null);   
+this(false,false); return Base64(true);   
+this(false,true); this(true);   
+this(false, false); return Base64.encode);   
+this(false, true); return Base64.decode();   
+this(false,null); return Base64(null);   
+this(false, true); this(false, false);   
+this(false, new Base64()); return new Base64);   
+this(false, Base64); return Base64(true);   
+this(false, true); return Base64.encode();   
+this(false, null); return Base64(this);   
+this(false, true); return this(true);   
+this(false, "base64"); this(true);   
+this(false, null, null, null, null);   
+this(false, "base64"); return new Base64);   
+this(false,false); this(false,false);   
+this(false, false); return this(true);   
+this(false, false, false); return Base64();   
+this(false, new Base64()); return this(false);   
+this(false, false, false); this(false);   
+this(false, Base64); return Base64(false);   
+this(false,true); this(false,true);   
+this(false, false); return Base64.decode();   
+this(false, Base64); return this(false);   
+this(false,null); this(true);   
+this(false, false); return Base64.encode();   
+this(false, false); return Base64(null);   
+this(false, ""); this(true);   
+this(false, Base64); this(false);   
+this(false, null); this(false);   
+this(false, this, this, this, this, this);   
+this(false, true); return base64(this);   
+this(false,false); return this(false);   
+this(false, true); //this(false);   
+this(false, true); return this(false, true);   
+this(false, false); //this(true);   
+this(false, null); return new Base64(this);   
+this(false, base64); this(true);   
+this(false, true); return Base64(null);   
+this(false, true); return Base64.encodeToString);   
+this(false, null, null, null, null, null);   
+this(false, null); return this(false);   
+this(false, false, false); return new Base64);   
+this(false,false,false); this(false);   
+this(false, false, false, true);   
+this(false, base64); return new Base64();   
+this(false, false); this(true, false);   
+this(false, "base64"); this(false);   
+this(false,true); return this(false);   
+this(false, true, true, true);   
+this(false, true); this(true, false);   
+this(false, false); return this(false, false);   
+this(false, false, false); this(true);   
+this(false, Base64); return Base64(this);   
+this(false, true); //this(true);   
+this(false, null); return this(true);   
+this(false, false); return base64(this);   
+this(false, ""); return new Base64(this);   
+this(false, false); return Base64.encodeToString);   
+this(false, true); return Base64.decode(_);   
+this(false,true); return Base64.encode);   
+this(false,false); return Base64.encode);   
+this(false, null); return Base64(false);   
+this(false, false); //this(false);   
+this(false,false,false); return Base64();   
+this(false, null, null); this(true);   
+this(false, false); return new Base64(null);   
+this(false, true, true, true, true);   
+this(false, false, true); this(false);   
+this(false, false, true, false);   
+this(false, null, null, null);   
+this(false, true); return new Base64(null);   
+this(false, this); return Base64(this);   
+this(false,null); return Base64(this);   
+this(false, false, true); return Base64();   
+this(false,true); return this(true);   
+this(false, this); return new Base64(this);   
+this(false, null); this(false, null);   
+this(false,true); return Base64.decode();   
+this(false,null); return new Base64(null);   
+this(false, ""); return Base64.encode(this);   
+this(false, null, null); return Base64();   
+this(false,new Base64()); this(true);   
+this(false, true); return Base64().toString();   
+this(false, false); return Base64().toString();   
+this(false, new Base64Coder()); this(true);   
+this(false,null,null,null,null);   
+this(false, true, true); this(false);   
+this(false, false, true, true);   
+this(false, "UTF-8"); return Base64);   
+this(false, false); return Base64.decode(_);   
+this(false,true); return Base64.encode();   
+this(false, "base64"); return this(true);   
+this(false, null); this(true, null);   
+this(false,false,false); this(true);   
+this(false, false);  return Base64(false);   
+this(false,false); return this(true);   
+this(false, ""); this(false);   
+this(false, true, false, false);   
+this(false,false); return Base64(null);   
+this(false, true); return Base64(data);   
+this(false, 'base64'); return Base64();   
+this(false, false, true, false, false);   
+this(false, Base64); return this(true);   
+this(false,false,false); return new Base64);   
+this(false, null); return new Base64(false);   
+this(false, true); return Base64(base64);   
+this(false, true); return this.toString(16);   
+this(false, null); return new Base64(true);   
+this(false, false, false); return Base64);   
+this(false, true, true); return Base64();   
+this(false, base64); return this(false);   
+this(false, "utf-8"); return Base64);   
+this(false, true);  return new Base64();   
+this(false, "data:image/png;base64);   
+this(false,false); return Base64.decode();   
+this(false, false);  return new Base64();   
+this(false, "UTF-8"); this(true);   
+this(false, this); this(true);   
+this(false, this, this, this, this);   
+this(false,false); return Base64.encode();   
+this(false, null); return this(false, null);   
+this(false, null); return Base64(true);   
+this(false, true); this(true, true);   
+this(false, null); return Base64.encode);   
+this(false, true);  this(false);   
+this(false, true); return base64);   
+this(false, null, null); this(false);   
+this(false,null); this(false);   
+this(false, false, true, false, false, false);   
+this(false, false); return Base64(base64);   
+this(false,true); this(false,false);   
+this(false, false); this(false, true);   
+this(false,this,this,this,this,this);   
+this(false, false);  this(false);   
+this(false, true); return new Base64().toString);   
+this(false, "utf-8"); this(true);   
+this(false,false); //this(true);   
+this(false, false, true); return new Base64);   
+this(false,true); return Base64(null);   
+this(false, true, false, false, false);   
+this(false, "base64"); return this(false);   
+this(false, true); return base64(true);   
+this(false,true); //this(false);   
+this(false, true);  return Base64(false);   
+this(false,null); return new Base64(this);   
+this(false,true); return base64(this);   
+this(false, false); return base64(false);   
+this(false, Base64.DEFAULT_ENCODING);   
+this(false, true); return Base64.toString();   
+this(false, null); return Base64.decode();   
+this(false,new Base64()); return Base64();   
+this(false,false); this(true,false);   
+this(false,true,false,false,false,false);   
+this(false,false,false,true);   
+this(false, false); this(true, true);   
+this(false,true,false,false,false);   
+this(false, true); return this.toString(Encoding);   
+this(false, false); return Base64(data);   
+this(false,true,false,false);   
+this(false, true, true, false);   
+this(false,null); return this(false);   
+this(false, true); return this(false, false);   
+this(false, false); return base64);   
+this(false, false);  this(true);   
+this(false,null,null,null,null,null);   
+this(false,null,null); this(true);   
+this(false,null,null,null);   
+this(false,false,false); return Base64);   
+this(false,false); return this(false,false);   
+this(false, false); return new Base64().toString);   
+this(false, true, false, false, false, false);   
+this(false,this); return Base64(this);   
+this(false, true); return base64(false);   
+this(false,true); return this(false,true);   
+this(false, true);  return Base64(true);   
+this(false, true); return this.toString(true);   
+this(false, 'base64'); this(true);   
+this(false,true); return Base64.encodeToString);   
+this(false, false, true); this(true);   
+this(false, true, true, true, true, true);   
+this(false, ""); return Base64(this);   
+this(false,base64); this(true);   
+this(false, true, true); return new Base64);   
+this(false, null); return Base64.encode();   
+this(false, false); return this.toString(16);   
+this(false, null, null); return new Base64);   
+this(false, true); return Base64.encode(_);   
+this(false, Base64); return Base64.encode);   
+this(false, new Base64Encoder()); this(true);   
+this(false, new Base64(this)); this();   
+this(false, null); //this(true);   
+this(false, base64); return this(true);   
+this(false, false, false, false, true);   
+this(false, true); return this.toString(8);   
+this(false,this); return new Base64(this);   
+this(false, base64); return Base64(true);   
+this(false, 'base64'); return new Base64);   
+this(false, base64); this(false);   
+this(false, false); return Base64.toString();   
+this(true); return new Base64(this,false);   
+this(false); return new Base64(this,false);   
+this(true); return Base64(this,false);   
+this(false); return Base64(this,false);   
+this(false); return new Base64(null,false);   
+this(true); return new Base64(null,false);   
+this(false); return new Base64(false,false);   
+this(true); return Base64.encode,false);   
+this(false); return Base64.encode,false);   
+this(false); return new Base64(true,false);   
+this(true); return new Base64(true,false);   
+this(true); return new Base64(false,false);   
+this(null); return new Base64(null,false);   
+this(false);  return new Base64(,false);   
+this(true);  return new Base64(,false);   
+this(false); this(false,false);   
+this(false); return Base64(null,false);   
+this(true); return new Base64(data,false);   
+this(true); return base64(this,false);   
+this(true); return this.toString(null,false);   
+this(true); return this.toBase64,false);   
+this(true); return new String(this,false);   
+this(null); return Base64(null,false);   
+this(this); return new Base64(this,false);   
+this(false); return this.toBase64,false);   
+this(false); return new Base64(data,false);   
+this(true); return this.toString(this,false);   
+this(false); return base64(this,false);   
+this(false); return this.toString(null,false);   
+this(false); return Base64(data,false);   
+this(true); this(true,false);   
+this(false); return new String(this,false);   
+this(true); return Base64(null,false);   
+this(true); return Base64.encodeToString,false);   
+this(null); return new Base64(this,false);   
+this(true); this(false,false);   
+this(true); return Base64(data,false);   
+this(false); return Base64.encodeToString,false);   
+this(true);  return Base64(this,false);   
+this(false);  return Base64(this,false);   
+this(false); return this.toString(this,false);   
+this(false); this(true,false);   
+this(true); return this.toString(Encoding,false);   
+this(null); return Base64(this,false);   
+this(this); return Base64(this,false);   
+this(true); return this.toString(16,false);   
+this(true); return Base64.decode(_,false);   
+this(false); return Base64(false,false);   
+this(false); return Base64.encode(,false);   
+this(false); return Base64.decode(_,false);   
+this(true); return encode(this,false);   
+this(true); return Base64.decode(,false);   
+this(false); return this.toString(Encoding,false);   
+this(null); return this.toString(null,false);   
+this(false); return this.toString(16,false);   
+this(false); return Base64.encode64,false);   
+this(false,false); return new Base64,false);   
+this(base64); return new Base64(,false);   
+this(null); this(null,false);   
+this(false); return Base64.decode(,false);   
+this(true); return Base64.encode(,false);   
+this(true,false); return new Base64,false);   
+this(false); return this.toString(true,false);   
+this(true); return encodeBase64(this,false);   
+this(true); return this.toString(8,false);   
+this(false); return Base64.encode(_,false);   
+this(true); return this.toString(encoding,false);   
+this(false); return encode(this,false);   
+this(true); return Base64.encode64,false);   
+this(false); return this.toString(false,false);   
+this(null); return Base64.encode,false);   
+this(true); return this.toString(true,false);   
+this(true); return Base64.encode(_,false);   
+this(false); return Base64(true,false);   
+this(false); return encodeBase64(this,false);   
+this(true); return base64Encode(this,false);   
+this(true); return encodeToBase64(this,false);   
+this(this,this,this,this,this,false);   
+this(false); return this.toString(8,false);   
+this(true); return this.toString(false,false);   
+this(false); return base64Encode(this,false);   
+this(this,false); return new Base64,false);   
+this(false,false); return Base64(,false);   
+this(true); return Base64(true,false);   
+this(null,null,null,null,false);   
+this(false); return encodeToBase64(this,false);   
+this(true); return toBase64(this,false);   
+this(true); return base64,false);   
+this(true); return new Base64().toString,false);   
+this(true); return Base64(false,false);   
+this(true); return this.base64,false);   
+this(true); return new String(base64,false);   
+this(false);  return Base64(null,false);   
+this(true);   return new Base64(this,false);   
+this(false); return base64,false);   
+this(false); return this.toString(encoding,false);   
+this(this,this,this,this,false);   
+this(false); return new Base64().toString,false);   
+this(false);   return new Base64(this,false);   
+this(true); return this.encode(this,false);   
+this(false); return new String(base64,false);   
+this(false);  this(false,false);   
+this(false); return Base64().toString(,false);   
+this(true,true); return new Base64,false);   
+this(true); return new Base64(this,false);   
+this(false); return this.base64,false);   
+this(true); return Base64().toString(,false);   
+this(true,false); return Base64(,false);   
+this(false,true); return new Base64,false);   
+this(true); return this.toString(10,false);   
+this(false,false,false,false);   
+this(false); return new Base64(this,false);   
+this(true); return String.valueOf(this,false);   
+this(new Base64()); return Base64(,false);   
+this(false); return this.encode(this,false);   
+this(true); return new Base64(url,false);   
+this(false,false,false,false,false);   
+this(this,true); return new Base64,false);   
+this(true); return this.toString(0,false);   
+this(true); return new B64(this,false);   
+this(this.toString()); return this.toString,false);   
+this(false); return Base64(base64,false);   
+this(false); return new Base64(url,false);   
+this(true); return JSON.stringify(this,false);   
+this(false); return this(false,false);   
+this(null,null,null,false);   
+this(false); return toBase64(this,false);   
+this(false); return this.toString(0,false);   
+this(false); return String.valueOf(this,false);   
+this(true); return Base64.toString(,false);   
+this(true); return this(true,false);   
+this(true); return this.toString(base,false);   
+this(true); return new Base64(buffer,false);   
+this(false);  return Base64.encode,false);   
+this(false); return JSON.stringify(this,false);   
+this(false);  return Base64(false,false);   
+this(false); this(false); this,false);   
+this(false); return Base64.toString(,false);   
+this(this,this,this,false);   
+this(true);  return new Base64(,false);   
+this(true); return new Base64(body,false);   
+this(true);  return Base64.encode,false);   
+this(false,false); return Base64,false);   
+this(true);  return Base64(null,false);   
+this(false); return this.encode(null,false);   
+this(true); return encode(base64,false);   
+this(false); return this.toString(10,false);   
+this(new Base64()); return this.toString,false);   
+this(new Base64()); return new Base64,false);   
+this(true);  return this.toString(,false);   
+this(null,null,null,null,null,false);   
+this(false); return new Base64(0,false);   
+this(true); return Base64(base64,false);   
+this(false); return base64(null,false);   
+this(false); return encode(base64,false);   
+this(false); return new Base64(body,false);   
+this(false); return new B64(this,false);   
+this(base64); return Base64(this,false);   
+this(Base64); return new Base64(,false);   
+this(this,false); return Base64(,false);   
+this(true); return base64(data,false);   
+this(true,false); return Base64,false);   
+this(false,true); return Base64(,false);   
+this(true); return new base64(this,false);   
+this(false); //this(false,false);   
+this(true); return new Base64(payload,false);   
+this(true);  this(false,false);   
+this(false); return new Base64(buffer,false);   
+this(true); return this.encode(null,false);   
+this(new Base64().toString()); return this,false);   
+this(true,true); return Base64(,false);   
+this(true); return this.decode(this,false);   
+this(false);  return this.toString(,false);   
+this(true);  this(true,false);   
+this(null);  return Base64(null,false);   
+this(new Base64(),false,false);   
+this(false);  return new Base64(,false);   
+this(false); return Base64.encode(this,false);   
+this(true); return Base64.decodeBase,false);   
+this(true); return this.toString(64,false);   
+this(false); return base64(data,false);   
+this(true); return new Buffer(this,false);   
+this(new Base64(),false); return this,false);   
+this(true);  return encode(this,false);   
+this(this); return this.toString(this,false);   
+this(null); return this(null,false);   
+this(false); return Base64(url,false);   
+this(null,false); return new Base64,false);   
+this(true); return url.toBase64,false);   
+this(true); return Base64.encode(this,false);   
+this(true); return new Base64(content,false);   
+this(new Base64()); return new String(,false);   
+this(true); //this(false,false);   
+this(false); return Base64(buffer,false);   
+this(false);  return encode(this,false);   
+this(Base64); return Base64(this,false);   
+this(true); return base64(null,false);   
+this(true); this(false); this,false);   
+this(null);  return new Base64(,false);   
+this(false); return new base64(this,false);   
+this(false); return Base64(body,false);   
+this(this); return Base64.encode,false);   
+this(true); return url.encode(this,false);   
+this(null); return this.toBase64,false);   
+this(new Base64(this)); return this,false);   
+this(false,false,false,false,false,false);   
+this(false); return Base64.decodeBase,false);   
+this(false); return this.toString(base,false);   
+this(this,false); return this.toString,false);   
+this(true); return base64.encode,false);   
+this(true); return base64Encode(data,false);   
+this(true); return new String(data,false);   
+this(false); return Base64.encodeBase,false);   
+this(false); return base64Encode(data,false);   
+this(false); return Base64.encodeString,false);   
+this(false); return url.encode(this,false);   
+this(null,false); return Base64(,false);   
+this(false); this(false,false,false);   
+this(false);   return new Base64(,false);   
+this(false); return this.toString(64,false);   
+this(true); return Base64(buffer,false);   
+this(false); return encode(null,false);   
+this(false);   return Base64(this,false);   
+this(false); return new Base64(content,false);   
+this(null); return Base64.encodeToString,false);   
+this(false); return base64.encode,false);   
+this(true); return Base64.encodeBase,false);   
+this(true); return new Base64(0,false);   
+this(false,false); return this.toString,false);   
+this(false); return url.toBase64,false);   
+this(false); return new Base64(payload,false);   
+this(null); return base64(null,false);   
+this(false); return this.decode(this,false);   
+this(true); return encode(this.data,false);   
+this(true,false); return this.toString,false);   
+this(1); return Base64(this,false);   
+this(true); return Base64.encodeString,false);   
+this(this.toString()); return new Base64,false);   
+this(this,true); return Base64(,false);   
+this(this,true); return this.toString,false);   
+this(true); return Base64(url,false);   
+this(false);  return Base64(true,false);   
+this(false); return this.decode(null,false);   
+this(false); return new Buffer(this,false);   
+this(false,false); this(false,false);   
+this(true);   return Base64(this,false);   
+this(true); return encode(null,false);   
+this(null); return new String(this,false);   
+this(true); return new Base64(input,false);   
+this(base64); return this.toString(,false);   
+this(true); return new Base64(this);   
+this(false); return new Base64(this);   
+this(true); return Base64(this);   
+this(true); this(false);   
+this(false); this(true);   
+this(false); return Base64(this);   
+this(false); return new Base64(true);   
+this(true); return new Base64(true);   
+this(true); return new Base64(false);   
+this(false); return new Base64(false);   
+this(false); this(false);   
+this(true); this(true);   
+this(true);  return new Base64();   
+this(true); return Base64.decode();   
+this(false); return Base64(false);   
+this(true); return base64(this);   
+this(false); return Base64(true);   
+this(true); return Base64.encode();   
+this(true); return new Base64(null);   
+this(true); return this(false);   
+this(false);  return new Base64();   
+this(false); return Base64.encode();   
+this(false); return Base64.decode();   
+this(true); //this(false);   
+this(false); return this(true);   
+this(false); return new Base64(null);   
+this(true); return Base64.decode(_);   
+this(false); return Base64(null);   
+this(true); return Base64.encodeToString);   
+this(false); return base64(this);   
+this(false); //this(true);   
+this(true);  this(false);   
+this(true); return Base64(true);   
+this(true); return this.toString(16);   
+this(true); return Base64.encode);   
+this(true); return Base64(null);   
+this(true); return Base64(false);   
+this(false); return Base64.decode(_);   
+this(true); return this.toString(Encoding);   
+this(true); return new Base64().toString);   
+this(true); return Base64().toString();   
+this(true); return this(true);   
+this(true); return new Base64(data);   
+this(false); return this(false);   
+this(true); return this.toString(this);   
+this(true); return Base64.toString();   
+this(false); return Base64().toString();   
+this(true); return Base64.encode(_);   
+this(false); return Base64.encode);   
+this(true);  return Base64(this);   
+this(false); return Base64.encodeToString);   
+this(true); return Base64(data);   
+this(false);  return Base64(false);   
+this(false);  this(true);   
+this(false); return Base64.encode(_);   
+this(true); return this.toBase64);   
+this(true); return this.toString(8);   
+this(true);  return Base64(false);   
+this(false); return new Base64().toString);   
+this(false); return this.toString(Encoding);   
+this(false); return Base64.toString();   
+this(false); return this.toString(16);   
+this(false); return this.toString(true);   
+this(false); return Base64(data);   
+this(false);  return Base64(true);   
+this(false); return this.toBase64);   
+this(false);  this(false);   
+this(true); return new String(this);   
+this(true);  return Base64(true);   
+this(false); //this(false);   
+this(true); return this.toString(true);   
+this(this); return new Base64(this);   
+this(true); //this(true);   
+this(true); return base64);   
+this(true); return new String(base64);   
+this(false); return new Base64(data);   
+this(false);  return Base64(this);   
+this(false); return this.toString(this);   
+this(true); return Base64(base64);   
+this(true); return this.toString(base);   
+this(false); return this.toString(8);   
+this(true); return base64.toString();   
+this(null); return Base64(null);   
+this(false); return Base64(base64);   
+this(this); return Base64(this);   
+this(false); return base64);   
+this(true);   return new Base64(this);   
+this(true);  this(true);   
+this(true); return base64Encode(this);   
+this(false); return new String(base64);   
+this(true); return String.valueOf(this);   
+this(true);  return Base64.encode);   
+this(true); return this.toString(encoding);   
+this(false);   this(true);   
+this(null); this(null);   
+this(false); return new String(this);   
+this(true); return Base64(this._);   
+this(true); return Base64.encode64);   
+this(true); return this.toString(false);   
+this(true); return Base64.base64);   
+this(true); return this.base64);   
+this(true); return this.toString(10);   
+this(false); return base64.toString();   
+this(false); return this.toString(false);   
+this(false);   return new Base64(this);   
+this(false); return this.toString(base);   
+this(true);   this(false);   
+this(null); return new Base64(null);   
+this(false); return base64Encode(this);   
+this(false); return Base64.encode64);   
+this(true); return encode(this);   
+this(false);  return Base64.encode);   
+this(true);  //this(false);   
+this(true); return this.toString(null);   
+this(null); this(true);   
+this(true);  return this(false);   
+this(true); return url.toBase64);   
+this(false); return Base64.base64);   
+this(null); return this(null);   
+this(true); return URL.toBase64);   
+this(false); return String.valueOf(this);   
+this(true); return Base64.decodeBase);   
+this(null); return Base64(this);   
+this(false); return this.base64);   
+this(null); return new Base64(this);   
+this(false); return base64(false);   
+this(true); this(null);   
+this(false); return base64(true);   
+this(false); return this.toString(encoding);   
+this(true); return this.toString(Base);   
+this(true); return (base64);   
+this(this); this(this);   
+this(true);  return new Base64();   
+this(true); return new Base64(body);   
+this(true); return (Base64);   
+this(true); return this.asString(false);   
+this(true); return base64(base64);   
+this(true); return encodeBase64(this);   
+this(false); return this.toString(null);   
+this(true); return base64(null);   
+this(true); return Base64.encode(...);   
+this(false); return base64(null);   
+this(true); return base64(data);   
+this(new Base64()); this(true);   
+this(true); return encode(base64);   
+this(true);  return Base64(null);   
+this(true); return new Base64(encoding);   
+this(true); return Base64);   
+this(true); return Base64.b64);   
+this(true); return Base64.encode(");   
+this(true); return base64(true);   
+this(true); return new Base64(secret);   
+this(false);  return this(true);   
+this(false); return Base64(this._);   
+this(true);  return this.toString();   
+this(false); return this.toString(10);   
+this(new Base64()); return Base64();   
+this(true); return new Base64(payload);   
+this(false); return (Base64);   
+this(true); return new BASE64(this);   
+this(true); return new String(Base64);   
+this(false); return URL.toBase64);   
+this(true); return new B64(this);   
+this(true); return Base64(this.);   
+this(true); return encodeToBase64(this);   
+this(false); return (base64);   
+this(true); return new base64(this);   
+this(false); return encode(this);   
+this(false); return url.toBase64);   
+this(false); return this.asString(true);   
+this(true); return new Base64(url);   
+this(false); return Base64.encode(...);   
+this(false);   this(false);   
+this(false); return Base64);   
+this(false);  //this(true);   
+this(true); return base64(false);   
+this(true); return Base64.decode(...);   
+this(true); return new Base64(content);   
+this(true); return Base64.toBase);   
+this(true); return toBase64(this);   
+this(true); return this.toString(4);   
+this(true); return new Base64(20);   
+this(true); return this.asString(true);   
+this(false); return base64(base64);   
+this(false); return Base64.decodeBase);   
+this(false);  return this(false);   
+this(false); return new Base64(0);   
+this(false); return Base64.encode(");   
+this(new Base64()); return this(true);   
+this(true);   this(true);   
+this(true); return new Base64(buffer);   
+this(false);  return Base64(null);   
+this(false);   return new Base64(true);   
+this(true);  return this(true);   
+this(false); return this.asString(false);   
+this(true); return Base64().decode();   
+this(false);   return Base64(this);   
+this(true); return Base64.encodeAsString);   
+this(true); return new Base64(64);   
+this(true); return new Base64(0);   
+this(this); this(true);   
+this(false);   
+this(true);   return Base64(this);   
+this(true); return this.toString(64);   
+this(false); return(null);   
+this(false); return encode(base64);   
+this(true); return base64.decode();   
+this(true); return Base64.generate();   
+this(true); return new Base64(base);   
+this(true); return this.toString(2);   
+this(true); return new Base64().decode);   
+this(false); return Base64.b64);   
+this(new Base64()); return new Base64);   
+this(false);  return new Base64();   
+this(false); return new String(Base64);   
+this(true); return (this.toString());   
+this(this); return new Base64(true);   
+this(true);  return base64);   
+this(false); this(null);   
+this(true); return new Base64(10);   
+this(base64); return new Base64();   
+this(true);   return new Base64();   
+this(true); return Base64.encode(this);   
+this(this); this(false);   
+this(true); return new Base64(string);   
+this(true); return Base64(body);   
+this(false); return this.toString(Base);   
+this(true); return Base64(new String);   
+this(true); return this.toString(36);   
+this(true); return BASE64(this);   
+this(false); return encodeToBase64(this);   
+this(false); return new Base64(encoding);   
+this(true); return Base64(buffer);   
+this(true); return Base64.decode(");   
+this(true);  return base64(this);   
+this(false); return Base64(new String);   
+this(false); return encodeBase64(this);   
+this(false); return new Base64(20);   
+this(true); return Base64.decode);   
+this(false);   return new Base64(false);   
+this(true); return Base64.toString(_);   
+this(false); return Base64.decode(...);   
+this(true); return this.encode(false);   
+this(false); return Base64().decode();   
+this(true); return Base64.Base64);   
+this(false); return Base64(this.);   
+this(true); return new Base64(this);   
+this(true); return this.asBase64);   
+this(true);  return Base64.decode);   
+this(false); return base64(data);   
+if(this.length()==0){ this(false); }  
+if(this.length() == 0){ this(false); }  
+if(this.length==0){ this(false); }  
+if(this.length == 0){ this(false); }  
+if(this.isBase64()){ this(false); }  
+if(this==null){ this(false); }  
+if(this.length() > 0){ this(false); }  
+if(this.length()!=0){ this(false); }  
+if(this == null){ this(false); }  
+if(base64 != null){ this(false); }  
+if(base64!=null){ this(false); }  
+if(this.value==null){ this(false); }  
+if(this.data==null){ this(false); }  
+if(this){ this(false); }  
+if(this instanceof Base64){ this(false); }  
+if(this.length > 0){ this(false); }  
+if(this.length()==0){ this(false); }  
+if(arguments.length==0){ this(false); }  
+if(false){ this(false); }  
+if(arguments.length == 0){ this(false); }  
+if(this.isBase64){ this(false); }  
+if(this.value == null){ this(false); }  
+if(this.length()>0){ this(false); }  
+if(this.data.length == 0){ this(false); }  
+if(this.value != null){ this(false); }  
+if(this.value!=null){ this(false); }  
+if(this!=null){ this(false); }  
+if(this != null){ this(false); }  
+if(base64 == null){ this(false); }  
+if(base64==null){ this(false); }  
+if(this.value.length == 0){ this(false); }  
+if(arguments.length > 0){ this(false); }  
+if(this.data == null){ this(false); }  
+if(this.length>0){ this(false); }  
+if(this(true) || this(false){ this(false); }  
+if(this(true) && this(false){ this(false); }  
+if(this(true){ this(false); }  
+if(this.data != null){ this(false); }  
+if(true){ this(false); }  
+if(this.buffer == null){ this(false); }  
+if(this.done){ this(false); }  
+if(arguments.length>0){ this(false); }  
+if(this.length===0){ this(false); }  
+if(this.toString().length()==0){ this(false); }  
+if(this.length === 0){ this(false); }  
+if(this.value.length==0){ this(false); }  
+if(this.isBase64()==false){ this(false); }  
+if(base64){ this(false); }  
+if(this.isEmpty()){ this(false); }  
+if(this(true)){ this(false); }  
+if(this.value.length()==0){ this(false); }  
+if(this.buffer==null){ this(false); }  
+if(this.value.length() == 0){ this(false); }  
+if(this.toString() == null){ this(false); }  
+if(this.buffer != null){ this(false); }  
+if(this(true)==false){ this(false); }  
+if(this.data.length==0){ this(false); }  
+if(null!=this){ this(false); }  
+if(this.value()!=null){ this(false); }  
+if(this.base64 != null){ this(false); }  
+if(this.toString().length == 0){ this(false); }  
+if(this.isBase64()==true){ this(false); }  
+if(this.state==0){ this(false); }  
+if(this.buffer.length == 0){ this(false); }  
+if(this.toString().length() == 0){ this(false); }  
+if(this.data!=null){ this(false); }  
+if(this.base64 == null){ this(false); }  
+if(this.getValue()!=null){ this(false); }  
+if(this.encoding==null){ this(false); }  
+if(isBase64()){ this(false); }  
+if(this.length() > 1){ this(false); }  
+if(this.base64){ this(false); }  
+if(this.url == null){ this(false); }  
+if(this.isBase64() == false){ this(false); }  
+if(this.length() < 2){ this(false); }  
+if(this(false) && this(true){ this(false); }  
+if(this.length() != 0){ this(false); }  
+if(this(false){ this(false); }  
+if(this.data.length > 0){ this(false); }  
+if(this.size()==0){ this(false); }  
+if(this.length()!=64){ this(false); }  
+if(this.size() == 0){ this(false); }  
+if(this.length() < 4){ this(false); }  
+if( this.length() == 0){ this(false); }  
+if(this.data()!=null){ this(false); }  
+if(this(true)===false){ this(false); }  
+if(data==null){ this(false); }  
+if(this.length() > 64){ this(false); }  
+if(this.getData()!=null){ this(false); }  
+if(this.length() > 4){ this(false); }  
+if(Base64 != null){ this(false); }  
+if(this.url != null){ this(false); }  
+if(arguments.length === 0){ this(false); }  
+if(this(false) || this(true){ this(false); }  
+if(this(true)==true){ this(false); }  
+if(this.length() === 0){ this(false); }  
+if(this.encoding == null){ this(false); }  
+if(this.toString().length==0){ this(false); }  
+if(this.v==null){ this(false); }  
+if(this.length()==1){ this(false); }  
+if(this.buffer.length > 0){ this(false); }  
+if(this.isBase64() === false){ this(false); }  
+if(this.bytes==null){ this(false); }  
+if(this.b64 != null){ this(false); }  
+if(this.hasNext()==false){ this(false); }  
+if(java.lang.Boolean){ this(false); }  
+if(this.value() == null){ this(false); }  
+if(this.state == 0){ this(false); }  
+if(this.length()!=1){ this(false); }  
+if(this.length!=0){ this(false); }  
+if(this.done==true){ this(false); }  
+if(this.val()!=null){ this(false); }  
+if(this.value.length()!=0){ this(false); }  
+if(this.state!=0){ this(false); }  
+if(this(true) && this(true){ this(false); }  
+if(this.readyState == this.DONE){ this(false); }  
+if(this.isBase64() == true){ this(false); }  
+if(this.length() > 2){ this(false); }  
+if(this.size() > 0){ this(false); }  
+if(this.length() <= 0){ this(false); }  
+if(null==this.data){ this(false); }  
+if(this.length > 64){ this(false); }  
+if(this.value.length > 0){ this(false); }  
+if(this.options.base64){ this(false); }  
+if(this.value.length() > 0){ this(false); }  
+if(this.length() > 10){ this(false); }  
+if(this.length < 2){ this(false); }  
+if(this.stack.length == 0){ this(false); }  
+if(this.length < 4){ this(false); }  
+if( this.length() > 0){ this(false); }  
+if(this.length()<=0){ this(false); }  
+if(this.base64==null){ this(false); }  
+if(this.state==1){ this(false); }  
+if(this.base64!=null){ this(false); }  
+if(this.done==false){ this(false); }  
+if(this._isBase64){ this(false); }  
+if(this.length() < 1){ this(false); }  
+if(null == this.data){ this(false); }  
+if(this.length() < 3){ this(false); }  
+if(typeof(this) != 'undefined'){ this(false); }  
+if(this.length != 0){ this(false); }  
+if(this(false)){ this(false); }  
+if(this.length()>0){ this(false); }  
+if(this.val() == null){ this(false); }  
+if(this.arguments.length == 0){ this(false); }  
+if(this.bytes.length == 0){ this(false); }  
+if(null != this.data){ this(false); }  
+if(this.b64 == null){ this(false); }  
+if(base64.length == 0){ this(false); }  
+if(this.length()===0){ this(false); }  
+if(this.toBase64()!=null){ this(false); }  
+if(this.getBase64()!=null){ this(false); }  
+if(this.len() == 0){ this(false); }  
+if(this.isBase64() === true){ this(false); }  
+if(this.input.length == 0){ this(false); }  
+if(this.length==1){ this(false); }  
+if(typeof(this) == 'undefined'){ this(false); }  
+if(this.is(true){ this(false); }  
+if(this.stack.length > 0){ this(false); }  
+if(this.isEncrypted()){ this(false); }  
+if(this.getValue() == null){ this(false); }  
+if(this.value() != null){ this(false); }  
+if(this.buffer.length==0){ this(false); }  
+if(this.length() > 32){ this(false); }  
+if(this(true) == false){ this(false); }  
+if(this.toString() != null){ this(false); }  
+if(this.isBase64Encoded){ this(false); }  
+if(this.length() > 16){ this(false); }  
+if(this.isBase64Encoded()){ this(false); }  
+if(this.length() > 8){ this(false); }  
+if(this.data.length === 0){ this(false); }  
+if(this.buffer.length() == 0){ this(false); }  
+if(this.length() > 3){ this(false); }  
+if(this.check(true)==false){ this(false); }  
+if(this.type == 'base64'){ this(false); }  
+if(this.isBase64(true)){ this(false); }  
+if(this.type == "base64"){ this(false); }  
+if(this.check(false)==false){ this(false); }  
+if(this.toString().length()>0){ this(false); }  
+if(this.toString().length() > 0){ this(false); }  
+if(this.toString().length()!=0){ this(false); }  
+if(typeof this === 'undefined'){ this(false); }  
+if(this.value.length()>0){ this(false); }  
+if(this.this(true)==false){ this(false); }  
+if(this.isBase64(true){ this(false); }  
+if(this.buffer.length() > 0){ this(false); }  
+if(this.value.length()==0){ this(false); }  
+if(JSON.stringify(this) == null){ this(false); }  
+if(this.isBase64==true){ this(false); }  
+if(this.toString().length > 0){ this(false); }  
+if(this.toBase64() == null){ this(false); }  
+if(typeof this == 'undefined'){ this(false); }  
+if(this.data.length() == 0){ this(false); }  
+if(this.isBase64() != false){ this(false); }  
+if(false){ this(true); }else){ this(false); }  
+if(this.isBase64()===false){ this(false); }  
+if(this && this.length() > 0){ this(false); }  
+if(this.data.length>0){ this(false); }  
+if(this.toBase64() != null){ this(false); }  
+if(this.isBase64==false){ this(false); }  
+if(this.value().length() == 0){ this(false); }  
+if(this.isBase64Encoded()==false){ this(false); }  
+if(this.value.length>0){ this(false); }  
+if(this(false) && this(false){ this(false); }  
+if(this.val().length() == 0){ this(false); }  
+if(Buffer.isBuffer(this.buffer)){ this(false); }  
+if(this.toString() == "null"){ this(false); }  
+if(this.isBase64(false)){ this(false); }  
+if(this.equals(null)){ this(false); }  
+if(this.bytes.length > 0){ this(false); }  
+if(this.isBase64()!=true){ this(false); }  
+if(this.toString().length()==0){ this(false); }  
+if(this(true) || this(true){ this(false); }  
+if(this.isBase64(false){ this(false); }  
+if(this.isBase64() !== false){ this(false); }  
+if(this(true) || this(null){ this(false); }  
+if(this.check(false) == false){ this(false); }  
+if(this.isBase64()!=false){ this(false); }  
+if(false){ this(true); } else){ this(false); }  
+if(this.toString().length()!=64){ this(false); }  
+if(this.base64.length == 0){ this(false); }  
+if(this.data.length != 0){ this(false); }  
+if(this.isBase64() != null){ this(false); }  
+if(this.value.length()!=64){ this(false); }  
+if(this.check(true) == false){ this(false); }  
+if(this.isBase64() != true){ this(false); }  
+if(typeof(this) != 'string'){ this(false); }  
+if(this.input.length() == 0){ this(false); }  
+if(this.this(true)==true){ this(false); }  
+if(typeof(this) == 'string'){ this(false); }  
+if(this.value.length > 64){ this(false); }  
+if(this.isBase64()!=null){ this(false); }  
+if(this.value.length < 4){ this(false); }  
+if(this.this(true) == false){ this(false); }  
+if(this.readyState != ReadyState.DONE){ this(false); }  
+if(this.this(true)){ this(false); }  
+if(this.value.length < 2){ this(false); }  
+if(this.data.length() > 0){ this(false); }  
+if(this(true) && !this){ this(false); }  
+if(this.isBase64Encoded()==true){ this(false); }  
+if(this.isBase64() !== true){ this(false); }  
+if(this.value.length != 0){ this(false); }  
+if(this.base64.length > 0){ this(false); }  
+if(this.data.length < 4){ this(false); }  
+if(this.value.length() != 0){ this(false); }  
+if(this.data.length > 64){ this(false); }  
+if(this.isBase64()==false){ this(false); }  
+if(this.isBase64()!==false){ this(false); }  
+if(base64 != null && !base64){ this(false); }  
+if(this.readyState != ReadyState.LOADING){ this(false); }  

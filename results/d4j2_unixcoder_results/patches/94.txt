@@ -1,0 +1,500 @@
+ return new SimpleType(subclass;  
+ return _narrow;  
+ return new SimpleType(_class;  
+ return this;  
+ return subclass;  
+ return new SimpleType(this;  
+ return _class;  
+ return new SimpleType(subclass;  
+ return new SimpleType;  
+ return new SimpleType(subclass, this;  
+ return new SimpleType(_class;  
+return new SimpleType(subclass;  
+ return new SimpleType(null;  
+;  
+ //return this;  
+  return this;  
+ //return subclass;  
+ return new JavaType(subclass;  
+ return new SimpleType(subclass, null;  
+ return null;  
+return new SimpleType(_class;  
+ return new SimpleType(this, subclass;  
+ return new SimpleType(_class, this;  
+ return super;  
+ //return new SimpleType(subclass;  
+ return new JavaType(_class;  
+ return _type;  
+ return new SimpleType( _class;  
+ return new SimpleType(null, null;  
+ return _narrow(subclass;  
+ return new SimpleType(_class;  
+ return new SimpleType(this;  
+ return new SimpleType(_class, null;  
+ //return _narrow;  
+ return new SimpleType(subtype;  
+  return _narrow;  
+  return new SimpleType(subclass;  
+ return new SimpleType(subclass, _bindings;  
+ /*return this;  
+  return subclass;  
+ return _subclass;  
+ /*return subclass;  
+ return new SimpleType(_class, _bindings;  
+ return new SimpleType(_type;  
+ return _subtype;  
+         return new SimpleType(subclass;  
+ return class;  
+         return new SimpleType(_class;  
+ { return this;  
+return new SimpleType(this;  
+ return new SimpleType(superClass;  
+  return _class;  
+ /* return this;  
+ //return _class;  
+ return new SimpleType(_superClass;  
+ return new SimpleType(_subclass;  
+ return new JavaType;  
+ return narrow(subclass;  
+ return new SimpleType(subClass;  
+ return clazz;  
+return new SimpleType(subclass, _bindings;  
+ return _narrow;  
+ return subtype;  
+ return new SimpleType() {;  
+ return new JavaType(this;  
+ /* return subclass;  
+return new SimpleType(_class, _bindings;  
+  return new SimpleType(_class;  
+ return new ClassType(_class;  
+ return new SimpleType(Subclass;  
+ return new SimpleType( _class;  
+ return type;  
+ return sub;  
+return _narrow;  
+ return new SimpleType(_valueHandler;  
+ return _valueHandler;  
+ return;  
+ //return new SimpleType;  
+ return new SimpleType(null;  
+ //return new SimpleType(_class;  
+ return simpleType;  
+ return new SimpleType() ;  
+ return _narrow(subclass;  
+ return new SimpleType;  
+ return new SimpleType(_subtype;  
+ return superclass;  
+ return new SimpleType(_typeHandler;  
+ return new SimpleType( subclass;  
+ ;  
+ return JavaType;  
+ return _super;  
+ return new SimpleType(false;  
+ return new JavaType(_class;  
+ return new SimpleType(this, _class;  
+ return new SimpleType(_class, subclass;  
+ return new SimpleType(sub;  
+ return new Type(_class;  
+ //return new SimpleType(this;  
+ /* return this;  
+ 	return new SimpleType(subclass;  
+ return narrow(_class;  
+ };  
+ return new SimpleType(class;  
+ { return _class;  
+ _class = subclass;  
+ return new JavaType(subclass;  
+ return new SimpleType(this, null;  
+ 	return new SimpleType(_class;  
+return _narrow(subclass;  
+return new SimpleType;  
+ return _narrow(_class;  
+return new SimpleType(null;  
+ return narrow;  
+ // return this;  
+ return new SimpleType(subclass) ;  
+ return new SimpleType(subType;  
+  return new SimpleType(this;  
+return new SimpleType( _class;  
+ return (JavaType) new SimpleType;  
+ return superClass;  
+ return SimpleType;  
+ return this;  
+ return new Type(subclass;  
+ return new SimpleType(_class, false;  
+ return new SimpleType(type;  
+ return new SimpleType(_class;  
+ return new SimpleType(null, subclass;  
+ return new SimpleType(subtype;  
+ return new SimpleType(null, this;  
+         return new SimpleType(this;  
+ return new SimpleType(_type;  
+  return new SimpleType;  
+return this;  
+ /* return subclass;  
+ return new JavaType(null;  
+ return new SimpleType() (_class;  
+return new JavaType(_class;  
+ return new SimpleTypeImpl(_class;  
+         return _narrow;  
+ return (this;  
+ return self;  
+ return new SimpleType(subclass, false;  
+  return _narrow;  
+     return new SimpleType(subclass;  
+ return subclass;  
+  return null;  
+ return new ClassType(subclass;  
+return new JavaType(subclass;  
+ synchronized (this) { return this;  
+  return _type;  
+  return this;  
+     return new SimpleType(_class;  
+ { return subclass;  
+ return new SimpleType(SubClass;  
+return new SimpleType(this, _class;  
+;;  
+ return subType;  
+   return new SimpleType(subclass;  
+ // return subclass;  
+ return new SimpleType(_super;  
+ /*return _class;  
+ return (_class;  
+  return new SimpleType(subclass;  
+ return _typeHandler;  
+ //return super;  
+ //return null;  
+ return new SimpleType(subclass, _class;  
+ return cls;  
+ return new SimpleType(clazz;  
+   return new SimpleType(_class;  
+ return javaType;  
+ returns this;  
+ return new SimpleType(_subclass;  
+ class SimpleType;  
+ (this;  
+ return new InterfaceType(_class;  
+ return new JavaType( _class;  
+ return new SimpleType(_class, subtype;  
+ return subclasses;  
+ return newInstance(subclass;  
+ return new JavaType(_class;  
+  return new SimpleType(null;  
+ return newInstance(_class;  
+ return (JavaType)new SimpleType;  
+ /*return _narrow;  
+ //return new JavaType(subclass;  
+ return new SimpleType(_binding;  
+ return narrow(this;  
+ return new SingletonType(_class;  
+        return new SimpleType(subclass;  
+ returns _class;  
+ return new SimpleClass(_class;  
+ return new SimpleType(subclass, _binding;  
+ return new SimpleType(_superClass;  
+ //return class;  
+ return new SimpleType(null, _class;  
+ return delegate;  
+ /* return _class;  
+ return subClass;  
+ return new JavaType(subclass, this;  
+ return _narrow(subclass);  
+return new SimpleType(_class;  
+return new SimpleType(_type;  
+ return new JavaType(_class, this;  
+ return new SimpleType( this;  
+ return new JavaType(this, subclass;  
+ return JAVA;  
+ return new SimpleType( subclass;  
+ //return _type;  
+ return new JavaType(_type;  
+        return new SimpleType(_class;  
+ //return new SimpleType(null;  
+ return _narrow(this;  
+ return new SimpleType() (subclass;  
+return new SimpleType(subtype;  
+ return new JavaType(this;  
+ return new SimpleType(_kind;  
+ return new SimpleType(this, this;  
+ return new BasicType(_class;  
+ return new SimpleType(true;  
+return subclass;  
+ return new SimpleType(superClass;  
+ return new SimpleType(subclass);  
+ return new Type(this;  
+ return new SimpleType(;  
+  return _subclass;  
+ return (JavaType)_class;  
+ Return new SimpleType(subclass;  
+ return new GenericType(_class;  
+ return new SimpleType(subClass;  
+ return new _simpleType(subclass;  
+  return _subtype;  
+ return new SimpleType(_bindings;  
+ return (JavaType)_narrow;  
+ return new SimpleType(Subclass;  
+};  
+ return new SimpleType(subClassName;  
+ return new SimpleTypeImpl(subclass;  
+ return (JavaType) this;  
+ return subclass._narrow;  
+ return new Object(_class;  
+         return new SimpleType(null;  
+ return new JavaType(subtype;  
+ return new SimpleType(subclass, true;  
+ return new SuperType(_class;  
+ return new JavaType() {;  
+public SimpleType narrow() { return this;  
+ return new SimpleType(_class, true;  
+ return new SimpleType(superclass;  
+ return new JavaType(_superClass;  
+; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //return this; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+synchronized; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _type()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType build()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ // return this; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType _narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ return this; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType build()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _build()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() 	{; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType _narrow()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType getType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //return _narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ _class = subclass; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _type()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ /*package; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _type()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _simplify()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _simpleType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType subclass()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subclass()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected SimpleType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType type()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subtype()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //$NON-NLS-1$; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func(subclass) SimpleType; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType copy; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _simpleType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType build(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public Type _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType make()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _new; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+}; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //return _class; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _new; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+.; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _build()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() { 	; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ }; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _make()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType make()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+Object; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _type; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType type()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+function ()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType _narrow()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType build()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //return subclass; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType copy()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType simpleType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType<?> narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+function (); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _make()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _simplify()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func(subclass interface{}) SimpleType; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() throws IllegalArgumentException; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _type(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType _narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+@Override     public JavaType _narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+function() { ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType getType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow(Class<?> subclass); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType subtype()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func ()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private SimpleType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ synchronized (this) {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType type; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType type; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+synchronized this; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _type()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ synchronized (this) {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType make(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ }; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public static SimpleType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _narrow()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected SimpleType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ public JavaType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public static SimpleType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow (); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _subtype()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+function(subclass) { ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType simplify()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType asType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow()    {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //return null; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _type()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() {        ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType simpleType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _simpleType; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType make(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType superType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func (subclass) SimpleType() SimpleType; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ /* return this; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _build()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType build()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow() {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow ()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //import; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ /*return this; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+//; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+function()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType getType()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+static JavaType narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ public JavaType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType make()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+int i; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow() 	{; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+FunctionType; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow()     throws IllegalArgumentException; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType build(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _simpleType(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+@Override; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType simplify()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ 1; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+//return this; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType build()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //========================================================================; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType make()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _make(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _make()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType<T> narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _make()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _build(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow() {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType toType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+void _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func() {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func () {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subtype(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+;; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() 	; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType type()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ true; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func _narrow(subclass interface{}) SimpleType; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ */; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType create()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _type()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _class()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JType _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _simpleType; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subtype()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _build()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow ()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private SimpleType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public static SimpleType subclass()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType narrow() 	{; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _simple()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType getType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _simpleType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType type()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+void narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType subclass()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private SimpleType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType subclass()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+@Override 	public JavaType _narrow; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType build()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+func (this *Type) narrow() Type; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _simple()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subclass()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType make(Class<?> subclass); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow()     throws IllegalArgumentException; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ else; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _simpleType()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType _narrow()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType simpleType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType make(Class<?> subclass); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+private JavaType narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _impl()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() { ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _simpleType()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _new()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public static JavaType _narrow()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public Object _narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType getType()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subclass()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public static JavaType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _build()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType buildType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType create()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType type()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType makeType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _type()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType subtype()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow()      {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType copy()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType makeType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ //; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType toJavaType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public final SimpleType narrow()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _construct()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType getSubType()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType getJavaType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _subtype()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _new()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+@Override     public JavaType narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+ public JavaType _narrow() {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow() { 	; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType narrow(Class<?> subclass); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _makeType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow()    {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public JavaType _narrow() {    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _build()   {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType<T> _narrow(); return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public SimpleType _narrow ()     {; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+protected JavaType _simpleType()    ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   
+public static SimpleType _narrow()  ; return new SimpleType(subclass, _bindings, _superClass, _superInterfaces,   

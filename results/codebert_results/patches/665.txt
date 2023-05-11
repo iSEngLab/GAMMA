@@ -1,0 +1,500 @@
+if(week > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if( weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(eks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=this){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(rules!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week>0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if( weeks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=clock){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this.enabled){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week <= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dates!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week == 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this == calendar){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(eks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(events!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 7){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(plugins!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!= null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if( weeks >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days>0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(flows > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(units!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(tz!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dates == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this == this){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(c!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(flows == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(count > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(rules == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(times == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(now!=now){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week<0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(es!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week==0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(current == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < 7){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(diff > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(flows!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeksEnabled){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(times == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(0 < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days <= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if( weeks > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(total == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 6){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(diff!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fields!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(ends == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=rule){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week >= 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days==0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=parent){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(existing == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(nb == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(all == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week!=1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dates!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(times!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 3){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(total > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(nb!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(eks >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months>0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(units == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(c == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekly!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dates == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(end!=end){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this.enable){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dates > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if( weeks < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(points!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(s!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(endOfDay){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(count == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(nb > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(parents!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(units!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(classes!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(current!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(eks < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(items!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(end == start){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(breaks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 7){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(i!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months <= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(w!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(true == false){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(start!=end){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < 5){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(all!=all){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week > 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(working!=false){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(pattern!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(ends == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(total!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(temp!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(diff == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < 6){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months == 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(outs == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(duration > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days < 3){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekly!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(units > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(s == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(notes!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(f!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(working == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 53){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months < 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week == 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(staff!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(length > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(events == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week <= 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(now == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(flows == 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(webkit!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(outs!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 5){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(day!=day){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(points > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(working == false){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week > 7){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(working!=working){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(blocks!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(e == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(worker!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(all == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 5){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(super!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fields == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 6){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(points == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(files!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(enabled!=false){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(end == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(eks > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(works!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == 3){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(years == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(flows < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(true!=false){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(day == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(i == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(e!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(series!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(points!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months==0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(users!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(times > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(times!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(count!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week > 3){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(config!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(years!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(years > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(settings!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=other){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(date!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(z > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(0 <= weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(es!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(es == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(existing!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fields!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=date){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(changes!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if( weeks == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(day == day){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week>1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week == 7){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(works == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(locks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days<0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(cells!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fixes!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekly == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(eks>0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds >= weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(tz == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(current!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeksSet){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(breaks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < 10){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days <= weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seconds <= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=s){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(end!=start){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months < 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(name!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(zero!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days!=1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=tz){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(properties!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(s!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(false == weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(hours!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days >= 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(zero == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fs!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(units == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(start < end){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week > 6){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days <= 7){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(locks == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days > 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this!=UTC){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(work!=work){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(calendar!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNumber > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(zones!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(instances!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days == -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week == -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(feats > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week > -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekSize > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days > -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekDays > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNumber!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(totalDays > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekes > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks>0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(patterns!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(suffix!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this instanceof Calendar){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount == 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNumber == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(interval > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(int weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if( weeks > -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if($week > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekLength > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount>0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNum > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekRules!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(now!=now){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(datetime!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(count() > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(eks > -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(nbDays > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(now() < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekIndex > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week>=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekList!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(useChronology){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(timeZone!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekSet == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week<=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(messages!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(instances == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(totalDays!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks <= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seeks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(durations > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekArray!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekdays > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(feats!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(suppressWeeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekAmount > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(totalDays == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fractions > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekDays!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekes!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(defined(week))){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(calendar == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(cron!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekTimes == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks < 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(calendars!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekPattern!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(chron!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(zones == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekIndex == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNumber >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekArray == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(Weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(workflow!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(Weeks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekDays == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this == -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(durations!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(numberOfWeeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekIndex!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days!= -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(count == -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(months > -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekWidth > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(allDays == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekList == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(frozen == false){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week is -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if($days > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(frees > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(elements!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNumber > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount==0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(workUnit!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(geo!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(workspace!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekSize!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(instruction!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(double weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(millis == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekTime == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekIndex >= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(totalDays < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(endDate!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekAmount == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekAmount!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(length() > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(const weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(currentWeek < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(durations == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNum!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCounter > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week!=-1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(feks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(instances!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this instanceof Period){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week < -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(lastWeek == weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(week!= -1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if($ weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekIndex < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(millis < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(instances == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(datetime == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(currentWeek == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fees > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if($week!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days!=-1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(millis!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCounter == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekTimes > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dates!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(blk!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(period!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fractions!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(uuid!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount < 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(startTime == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount < 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNum == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(newInstance!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(millis > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(currentWeek!=week){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(doesNotExist){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(numDays > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(frozen!=true){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(exception!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(nbWeek > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount <= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(ferences!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dst!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekId!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount >= 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dayCount > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(now() > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(zones == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks!= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(periods!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this instanceof Date){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this instanceof Moment){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(currentWeek == weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(int weeks!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(allDays!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekdays!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCounter!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(lastWeek < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(maxDays > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(currentDays == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(dimensions!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekRules == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekSize > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNumber == 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekTime > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(totalDays > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(diffDays > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(frozen == true){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(samples!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(endTime!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(suffix == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(workTime == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekTime!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(sep!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(difference > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if($week < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(count() == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks<0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(startTime > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(interval!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(endTime > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekTimes!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCode!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekNumber < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if($week == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(lastWeek!=week){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(endDate == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks < 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(startTime!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(startTime!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if((week > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekTimes == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(sessions!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(workTime!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(breakpoint!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekSize == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount < 3){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fractions == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seeks < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount!= 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(fallback == null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(feats == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(counters!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(sessions == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seeks == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekSet == false){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount > 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(sessions!=null){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(samples > 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(datetime == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekes == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(samples!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(endTime == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weeks >= 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(currentWeek!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekes > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this instanceof Day){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(seeks > 1){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(updates!=0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCode == 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekless!=true){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount < weeks){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(feats < 0){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(this instanceof Simple){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(weekCount == 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}
+if(days *= 2){setMillis(getChronology().weeks().add(getMillis(), weeks));}

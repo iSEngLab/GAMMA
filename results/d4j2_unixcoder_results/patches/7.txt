@@ -1,0 +1,2500 @@
+ offset += numToRead;  
+ };  
+ offset += totalRead;  
+  return totalRead;  
+  offset += numToRead;  
+ return totalRead;  
+ totalRead += numToRead;  
+ ++entryOffset;  
+ currEntry = currEntry;  
+ count(totalRead);;  
+ currEntry = null;  
+ ;  
+  totalRead += numToRead;  
+  offset += totalRead;  
+ --;  
+ ++offset;  
+ entryOffset += totalRead;  
+ bytesRead += totalRead;  
+  };  
+  ++entryOffset;  
+  count(totalRead);;  
+ entryOffset += numToRead;  
+ ++ entryOffset;  
+ index += numToRead;  
+ //return totalRead;  
+ assert totalRead > 0;  
+ ++currEntry;  
+  --;  
+ assert totalRead >= 0;  
+ 	offset += totalRead;  
+  @return;  
+ size += totalRead;  
+ cnt += totalRead;  
+ currEntry = nextEntry;  
+ index += totalRead;  
+ @return;  
+ ++totalRead;  
+  assert totalRead > 0;  
+ totalRead += totalRead;  
+ ++count;  
+  ++ entryOffset;  
+  currEntry = currEntry;  
+  ++offset;  
+  assert totalRead >= 0;  
+ currentOffset += numToRead;  
+  ++totalRead;  
+ offset = 0;  
+ end;  
+  currEntry = null;  
+ Offset += numToRead;  
+ 	offset += numToRead;  
+  ++currEntry;  
+ hasHitEOF = false;  
+  bytesRead += totalRead;  
+;  
+  entryOffset += totalRead;  
+  size += totalRead;  
+  ;  
+  entryOffset += numToRead;  
+ progress;  
+ assert totalRead == -1;  
+ assert totalRead == 0;  
+ numToRead -= totalRead;  
+ ++ offset;  
+ //count(totalRead);;  
+ //$NON-NLS-1$;  
+ //offset += numToRead;  
+ return totalRead;  
+ rewind;  
+  ++count;  
+  int totalRead = 0;  
+ --entryOffset;  
+  offset = 0;  
+ currentOffset += totalRead;  
+ totalRead += entryOffset;  
+ assert totalRead != -1;  
+ -- entryOffset;  
+  end;  
+ ++numRead;  
+ -1;  
+ //totalRead;  
+ 	entryOffset += totalRead;  
+ --totalRead;  
+  //return totalRead;  
+ isHitEOF = false;  
+ counter += totalRead;  
+ cursor += numToRead;  
+ offset+=numToRead;  
+  index += numToRead;  
+ assert totalRead == numToRead;  
+         offset += totalRead;  
+ + offset;  
+  assert totalRead == 0;  
+ start;  
+ EOF;  
+ totalRead -= numToRead;  
+ limit;  
+ -- numToRead;  
+ 	currEntry = null;  
+ size += numToRead;  
+ length += totalRead;  
+ ++readCount;  
+ currentEntry = currEntry;  
+ done;  
+  index += totalRead;  
+ // return totalRead;  
+ next entry;  
+  rewind;  
+ totalCount += totalRead;  
+ //System.out.println;  
+         entryOffset += totalRead;  
+ cnt+=totalRead;  
+ reset;  
+ access;  
+  totalRead += totalRead;  
+  int totalRead;  
+ next;  
+ ++currOffset;  
+  currentOffset += numToRead;  
+ System.out.println;  
+ index++;  
+ totalRead = totalRead;  
+ ++ currEntry;  
+ int totalRead;  
+ currEntry += totalRead;  
+ ++currEntryOffset;  
+ currEntry.offset = offset;  
+ cursor += totalRead;  
+ Offset += totalRead;  
+ progress += totalRead;  
+ totalRead += bytesRead;  
+ count;  
+ 	currEntry = currEntry;  
+  @return int;  
+ //;  
+  	offset += totalRead;  
+  --totalRead;  
+ numToRead = -1;  
+ -- totalRead;  
+ 	++entryOffset;  
+ currEntry = next;  
+ count += totalRead;  
+  //totalRead;  
+         offset += numToRead;  
+  reset;  
+ ++numToRead;  
+ index;  
+  ++readCount;  
+  totalRead = 0;  
+ currEntry = entry;  
+ offset = entryOffset;  
+ numToRead = 0;  
+ init;  
+ ++currentOffset;  
+ -1;  
+ hasNext() throws IOException;  
+ -- entrySize;  
+ --numToRead;  
+  numToRead = 0;  
+  ++ offset;  
+  currentOffset += totalRead;  
+ @throws IOException;  
+ // end;  
+ totalRead += read;  
+ );  
+ @return int;  
+ --entrySize;  
+  ++numRead;  
+ offset+= numToRead;  
+  @return total read;  
+  off += totalRead;  
+ totalRead += offset;  
+ OFFSET += numToRead;  
+  totalRead = totalRead;  
+ size+=totalRead;  
+ 	totalRead += numToRead;  
+  totalRead -= numToRead;  
+  currentEntry = currEntry;  
+ currEntryOffset += totalRead;  
+ size -= totalRead;  
+ + numToRead;  
+  ++currOffset;  
+ totalRead = 0;  
+ checkOverflow;  
+ entries += totalRead;  
+  currEntry = nextEntry;  
+  numToRead = -1;  
+ incOffset;  
+  totalRead += entryOffset;  
+ cnt++;  
+  hasHitEOF = false;  
+ curOffset += numToRead;  
+ offset += numToRead + 1;  
+ retval;  
+ currEntry;  
+ head;  
+ entriesRead += totalRead;  
+  totalRead = numToRead;  
+ idx += totalRead;  
+ offset = offset + numToRead;  
+ int totalRead = 0;  
+ count(++totalRead;  
+  -- totalRead;  
+  totalRead += read;  
+ 	++currEntry;  
+ totalRead += len;  
+ //--;  
+ offset += numToRead;;  
+ //};  
+ ++entryCount;  
+  ++currEntryOffset;  
+  EOF;  
+ totalRead = numToRead;  
+ int totalRead = totalRead;  
+  	offset += numToRead;  
+ //end;  
+ head += totalRead;  
+ nextEntryOffset += numToRead;  
+ ++currentRead;  
+ position += numToRead;  
+ pos += totalRead;  
+ counter += numToRead;  
+ totalRead += totalBytesRead;  
+         ++entryOffset;  
+  offset+=numToRead;  
+ ++entryIndex;  
+ update entryOffset;  
+  System.out.println;  
+  cnt += totalRead;  
+  totalRead += bytesRead;  
+  Offset += numToRead;  
+ totalRead += 1;  
+ number of bytes read;  
+  @return totalRead;  
+ totalRead = -1;  
+  length += totalRead;  
+ off += totalRead;  
+ ++entrySize;  
+  numToRead -= totalRead;  
+ //int totalRead;  
+ @return totalRead;  
+ ++ numRead;  
+ ++currentEntry;  
+  number of bytes read;  
+  size(totalRead);;  
+ ++entries;  
+  // count;  
+  -- numToRead;  
+ much faster;  
+  @throws IOException;  
+ offset += numToRead; count(totalRead);  
+ offset += totalRead; count(totalRead);  
+ totalRead += numToRead; count(totalRead);  
+ ; count(totalRead);  
+ }; count(totalRead);  
+ return totalRead; count(totalRead);  
+ //return totalRead; count(totalRead);  
+ count(totalRead);; count(totalRead);  
+  offset += numToRead; count(totalRead);  
+  return totalRead; count(totalRead);  
+ --; count(totalRead);  
+ ++entryOffset; count(totalRead);  
+ entryOffset += numToRead; count(totalRead);  
+ @return; count(totalRead);  
+ ++offset; count(totalRead);  
+  @return; count(totalRead);  
+ //offset += numToRead; count(totalRead);  
+ offset = 0; count(totalRead);  
+ bytesRead += totalRead; count(totalRead);  
+ //totalRead; count(totalRead);  
+ //; count(totalRead);  
+; count(totalRead);  
+  --; count(totalRead);  
+ int totalRead = 0; count(totalRead);  
+ offset += numToRead;; count(totalRead);  
+ size += totalRead; count(totalRead);  
+ // count; count(totalRead);  
+ totalRead += entryOffset; count(totalRead);  
+ offset+=numToRead; count(totalRead);  
+ assert totalRead > 0; count(totalRead);  
+ assert totalRead >= 0; count(totalRead);  
+  offset += totalRead; count(totalRead);  
+ entryOffset += totalRead; count(totalRead);  
+ index += numToRead; count(totalRead);  
+ totalRead = 0; count(totalRead);  
+ //int totalRead; count(totalRead);  
+ //NB; count(totalRead);  
+ // read; count(totalRead);  
+ // totalRead; count(totalRead);  
+ //totalRead; count(totalRead);  
+ // TODO; count(totalRead);  
+ //return totalRead; count(totalRead);  
+ ++ entryOffset; count(totalRead);  
+ totalRead += totalRead; count(totalRead);  
+ //read; count(totalRead);  
+ int totalRead; count(totalRead);  
+ //count(totalRead); count(totalRead);  
+ ++totalRead; count(totalRead);  
+ currEntry = currEntry; count(totalRead);  
+  }; count(totalRead);  
+ offset = entryOffset; count(totalRead);  
+ // return totalRead; count(totalRead);  
+ //TODO; count(totalRead);  
+ end; count(totalRead);  
+ offset+= numToRead; count(totalRead);  
+  totalRead = 0; count(totalRead);  
+ Offset += numToRead; count(totalRead);  
+ index += totalRead; count(totalRead);  
+ totalRead += bytesRead; count(totalRead);  
+ currEntry = null; count(totalRead);  
+ 0; count(totalRead);  
+ totalRead = totalRead; count(totalRead);  
+ totalRead = numToRead; count(totalRead);  
+  //totalRead; count(totalRead);  
+ currentOffset += numToRead; count(totalRead);  
+ //limit; count(totalRead);  
+ System.out.println; count(totalRead);  
+ offset+=totalRead; count(totalRead);  
+ --totalRead; count(totalRead);  
+ // return totalRead; count(totalRead);  
+  ++offset; count(totalRead);  
+ ++ offset; count(totalRead);  
+  ++entryOffset; count(totalRead);  
+ //--; count(totalRead);  
+  int totalRead; count(totalRead);  
+ rewind; count(totalRead);  
+ ++count; count(totalRead);  
+ totalRead += offset; count(totalRead);  
+  ; count(totalRead);  
+ //start; count(totalRead);  
+ size += numToRead; count(totalRead);  
+  //return totalRead; count(totalRead);  
+ 	offset += totalRead; count(totalRead);  
+ EOF; count(totalRead);  
+ //totalRead = 0; count(totalRead);  
+ ///; count(totalRead);  
+ totalRead += read; count(totalRead);  
+ limit; count(totalRead);  
+ @throws IOException; count(totalRead);  
+ for; count(totalRead);  
+ // FIXME; count(totalRead);  
+  offset = 0; count(totalRead);  
+ //skip; count(totalRead);  
+ offset += bytesRead; count(totalRead);  
+ //System.out.println; count(totalRead);  
+ 	offset += numToRead; count(totalRead);  
+  @return int; count(totalRead);  
+ totalRead += len; count(totalRead);  
+ offset += totalRead;; count(totalRead);  
+ totalRead; count(totalRead);  
+ // totalRead; count(totalRead);  
+  ++totalRead; count(totalRead);  
+ assert totalRead == 0; count(totalRead);  
+ // limit; count(totalRead);  
+ //; count(totalRead);  
+ //count(totalRead);; count(totalRead);  
+ // nolint; count(totalRead);  
+ @return int; count(totalRead);  
+ totalRead -= numToRead; count(totalRead);  
+ return totalRead; count(totalRead);  
+ //FIXME; count(totalRead);  
+ //reset; count(totalRead);  
+ //1; count(totalRead);  
+ //offset += totalRead; count(totalRead);  
+ // count(totalRead); count(totalRead);  
+ //read; count(totalRead);  
+ //offset += numToRead; count(totalRead);  
+  @return total read; count(totalRead);  
+ -1; count(totalRead);  
+ -- totalRead; count(totalRead);  
+ totalRead += 1; count(totalRead);  
+ //skip header; count(totalRead);  
+ length += totalRead; count(totalRead);  
+ -- numToRead; count(totalRead);  
+ //CHECKSTYLE:OFF; count(totalRead);  
+ -- entryOffset; count(totalRead);  
+ done; count(totalRead);  
+ // --; count(totalRead);  
+ progress; count(totalRead);  
+ // EOF; count(totalRead);  
+ totalCount += totalRead; count(totalRead);  
+ --entryOffset; count(totalRead);  
+ //end count; count(totalRead);  
+ totalCount += totalRead; count(totalRead);  
+ hasHitEOF = false; count(totalRead);  
+  size += totalRead; count(totalRead);  
+ ++readCount; count(totalRead);  
+ //count; count(totalRead);  
+ //println; count(totalRead);  
+ // offset += numToRead; count(totalRead);  
+ @return total read; count(totalRead);  
+ next entry; count(totalRead);  
+ offset += entryOffset; count(totalRead);  
+ offset += readSize; count(totalRead);  
+ totalRead += totalBytesRead; count(totalRead);  
+ Offset += totalRead; count(totalRead);  
+ totalRead *= 2; count(totalRead);  
+ totalRead = -1; count(totalRead);  
+ //CHECKSTYLE:OFF; count(totalRead);  
+ totalRead+=numToRead; count(totalRead);  
+ ++currEntry; count(totalRead);  
+ //end; count(totalRead);  
+ offset; count(totalRead);  
+ // end; count(totalRead);  
+ start; count(totalRead);  
+ size+=totalRead; count(totalRead);  
+ //TODO; count(totalRead);  
+ //offset+=numToRead; count(totalRead);  
+ -1; count(totalRead);  
+  ++ entryOffset; count(totalRead);  
+ this; count(totalRead);  
+ totalRead = entryOffset; count(totalRead);  
+ //EOF; count(totalRead);  
+  	offset += numToRead; count(totalRead);  
+ //NOP; count(totalRead);  
+ //progress; count(totalRead);  
+ //done; count(totalRead);  
+ //}; count(totalRead);  
+ OFFSET += numToRead; count(totalRead);  
+ //println totalRead; count(totalRead);  
+ read; count(totalRead);  
+ // +1; count(totalRead);  
+ //return; count(totalRead);  
+  rewind; count(totalRead);  
+ // total read; count(totalRead);  
+ // eof; count(totalRead);  
+ //limit; count(totalRead);  
+ cnt += totalRead; count(totalRead);  
+ offset += readLength; count(totalRead);  
+ long totalRead = 0; count(totalRead);  
+ ++numRead; count(totalRead);  
+ bytesRead = totalRead; count(totalRead);  
+  	offset += totalRead; count(totalRead);  
+ currEntry = nextEntry; count(totalRead);  
+ //Count; count(totalRead);  
+ @return totalRead; count(totalRead);  
+ //skip; count(totalRead);  
+ entriesRead += totalRead; count(totalRead);  
+ offset += offset; count(totalRead);  
+ offset += entrySize; count(totalRead);  
+ // N.B; count(totalRead);  
+ //nolint; count(totalRead);  
+ //System.out; count(totalRead);  
+ // numToRead; count(totalRead);  
+ //check; count(totalRead);  
+ // offset += numToRead; count(totalRead);  
+  @throws IOException; count(totalRead);  
+ cursor += numToRead; count(totalRead);  
+ offset += size; count(totalRead);  
+ offset += 4; count(totalRead);  
+ --numToRead; count(totalRead);  
+ off += totalRead; count(totalRead);  
+  bytesRead += totalRead; count(totalRead);  
+  totalRead; count(totalRead);  
+  --totalRead; count(totalRead);  
+  ++count; count(totalRead);  
+ totalRead += entrySize; count(totalRead);  
+ numToRead = 0; count(totalRead);  
+ totalRead += count; count(totalRead);  
+ offset = totalRead; count(totalRead);  
+ //offset = 0; count(totalRead);  
+ //int totalRead; count(totalRead);  
+ //noinspection ConstantConditions; count(totalRead);  
+ totalRead += size; count(totalRead);  
+  ++ offset; count(totalRead);  
+ // -1; count(totalRead);  
+ //offset; count(totalRead);  
+ totalRead -= entryOffset; count(totalRead);  
+  @return totalRead; count(totalRead);  
+ //noinspection ConstantConditions; count(totalRead);  
+ number of bytes read; count(totalRead);  
+ //total read; count(totalRead);  
+ // number of bytes read; count(totalRead);  
+  ++readCount; count(totalRead);  
+  end; count(totalRead);  
+ --readCount; count(totalRead);  
+ currentOffset += totalRead; count(totalRead);  
+ size = totalRead; count(totalRead);  
+         offset += numToRead; count(totalRead);  
+ totalRead += 4; count(totalRead);  
+  offset+=numToRead; count(totalRead);  
+ // end of file; count(totalRead);  
+ offset += count; count(totalRead);  
+ int totalRead = 0; count(totalRead);  
+ offset += len; count(totalRead);  
+ //double totalRead; count(totalRead);  
+ int numRead = 0; count(totalRead);  
+  totalRead += bytesRead; count(totalRead);  
+  index += numToRead; count(totalRead);  
+ //number of bytes read; count(totalRead);  
+  totalRead += read; count(totalRead);  
+ currentEntry = currEntry; count(totalRead);  
+  // totalRead; count(totalRead);  
+ totalRead -= offset; count(totalRead);  
+  offset = entryOffset; count(totalRead);  
+ totalRead += read();; count(totalRead);  
+ totalRead -= totalRead; count(totalRead);  
+         offset += totalRead; count(totalRead);  
+ //offset = entryOffset; count(totalRead);  
+  -- totalRead; count(totalRead);  
+ count(totalRead);  
+ //count(totalRead);  
+  count(totalRead);  
+  //count(totalRead);  
+ // count(totalRead);  
+ return count(totalRead);  
+ }(totalRead);  
+ counts(totalRead);  
+ read(totalRead);  
+  // count(totalRead);  
+ (totalRead);  
+ check(totalRead);  
+  return count(totalRead);  
+ //return count(totalRead);  
+  counts(totalRead);  
+ size(totalRead);  
+ checkCount(totalRead);  
+ if(totalRead);  
+ add(totalRead);  
+ write(totalRead);  
+ //totalRead(totalRead);  
+ record(totalRead);  
+ //Count(totalRead);  
+ sum(totalRead);  
+ //offset(totalRead);  
+ //log(totalRead);  
+ //print(totalRead);  
+ limit(totalRead);  
+ bytesRead(totalRead);  
+ //println(totalRead);  
+ //check(totalRead);  
+ progress(totalRead);  
+  read(totalRead);  
+ println(totalRead);  
+ checkOffset(totalRead);  
+ put(totalRead);  
+ 	count(totalRead);  
+ checkOverflow(totalRead);  
+ checkLimit(totalRead);  
+ debug(totalRead);  
+ checkEOF(totalRead);  
+ while(totalRead);  
+ //total(totalRead);  
+ print(totalRead);  
+ Count(totalRead);  
+ //(totalRead);  
+ //sum(totalRead);  
+ @return(totalRead);  
+ updateCount(totalRead);  
+ index(totalRead);  
+  skip(totalRead);  
+ //counts(totalRead);  
+ log.debug(totalRead);  
+ checkSize(totalRead);  
+         count(totalRead);  
+ process(totalRead);  
+ //limit(totalRead);  
+ //totalCount(totalRead);  
+ log(totalRead);  
+ verify(totalRead);  
+ checkAccess(totalRead);  
+ setCount(totalRead);  
+ probe(totalRead);  
+  //Count(totalRead);  
+ //debug(totalRead);  
+ updateOffset(totalRead);  
+ //assert(totalRead);  
+ offset(totalRead);  
+ updateEntry(totalRead);  
+  //count(totalRead);  
+ checkClosed(totalRead);  
+ totalCount(totalRead);  
+ //skip(totalRead);  
+  size(totalRead);  
+ //if(totalRead);  
+ skip(totalRead);  
+ totalRead(totalRead);  
+ free(totalRead);  
+ --(totalRead);  
+ scan(totalRead);  
+ setOffset(totalRead);  
+ length(totalRead);  
+ //read(totalRead);  
+  add(totalRead);  
+  @return(totalRead);  
+  check(totalRead);  
+  checkCount(totalRead);  
+  println(totalRead);  
+ stats(totalRead);  
+ checkAvailable(totalRead);  
+ update(totalRead);  
+ out.println(totalRead);  
+ @return count(totalRead);  
+ touch(totalRead);  
+ //int count(totalRead);  
+ finish(totalRead);  
+ recordCount(totalRead);  
+ //increment(totalRead);  
+ updateSize(totalRead);  
+  //offset(totalRead);  
+  limit(totalRead);  
+  Count(totalRead);  
+ counter(totalRead);  
+  //print(totalRead);  
+ out.write(totalRead);  
+ reset(totalRead);  
+ checkIndex(totalRead);  
+  sum(totalRead);  
+ //progress(totalRead);  
+ ////count(totalRead);  
+  write(totalRead);  
+ //update(totalRead);  
+ nbToRead(totalRead);  
+  record(totalRead);  
+ dump(totalRead);  
+ update entryOffset(totalRead);  
+ get(totalRead);  
+ seek(totalRead);  
+ len(totalRead);  
+ for(totalRead);  
+ store(totalRead);  
+  //counts(totalRead);  
+ checkEntryOffset(totalRead);  
+ copy(totalRead);  
+  totalRead(totalRead);  
+ checkDone(totalRead);  
+ inc(totalRead);  
+ checkEntry(totalRead);  
+ validate(totalRead);  
+  //limit(totalRead);  
+ //number(totalRead);  
+  //read(totalRead);  
+ //add(totalRead);  
+  //total(totalRead);  
+ append(totalRead);  
+ counter.inc(totalRead);  
+ //record(totalRead);  
+ increment entryOffset(totalRead);  
+ checkFree(totalRead);  
+  checkOffset(totalRead);  
+  //sum(totalRead);  
+  updateCount(totalRead);  
+ start(totalRead);  
+ fill(totalRead);  
+ int count(totalRead);  
+  if(totalRead);  
+ switch(totalRead);  
+ save(totalRead);  
+ end(totalRead);  
+ //alert(totalRead);  
+ out(totalRead);  
+ //counter(totalRead);  
+  //skip(totalRead);  
+ assert(totalRead);  
+ push(totalRead);  
+  checkLimit(totalRead);  
+ checkInvariants(totalRead);  
+ flush(totalRead);  
+ init(totalRead);  
+ incCount(totalRead);  
+ set(totalRead);  
+ checkStatus(totalRead);  
+ access(totalRead);  
+  (totalRead);  
+  }(totalRead);  
+  checkSize(totalRead);  
+  totalCount(totalRead);  
+ //buffer(totalRead);  
+ //reset(totalRead);  
+ update count(totalRead);  
+ _count(totalRead);  
+ printCount(totalRead);  
+ checkHeader(totalRead);  
+ filter(totalRead);  
+ incOffset(totalRead);  
+ increase count(totalRead);  
+ log.info(totalRead);  
+ increment offset(totalRead);  
+ checkValid(totalRead);  
+ updateEntryOffset(totalRead);  
+  increment(totalRead);  
+ is.skip(totalRead);  
+ checkSkipped(totalRead);  
+ //echo(totalRead);  
+ putByte(totalRead);  
+ this.count(totalRead);  
+  bytesRead(totalRead);  
+ addEntry(totalRead);  
+  offset(totalRead);  
+ //index(totalRead);  
+ //accept(totalRead);  
+ checkRemaining(totalRead);  
+  //println(totalRead);  
+  //check(totalRead);  
+ //cnt(totalRead);  
+  increment offset(totalRead);  
+ console.log(totalRead);  
+  //log(totalRead);  
+ checkSum(totalRead);  
+ checkState(totalRead);  
+  inc(totalRead);  
+  print(totalRead);  
+  checkEOF(totalRead);  
+ os.read(totalRead);  
+  debug(totalRead);  
+  put(totalRead);  
+ checkGood(totalRead);  
+  incrementOffset(totalRead);  
+  updateOffset(totalRead);  
+ checkClose(totalRead);  
+  checkOverflow(totalRead);  
+  updateEntry(totalRead);  
+  verify(totalRead);  
+  checkAccess(totalRead);  
+ recordOffset(totalRead);  
+  progress(totalRead);  
+ checkError(totalRead);  
+ //cache(totalRead);  
+ os.seek(totalRead);  
+  update(totalRead);  
+ checkRead(totalRead);  
+ setEntryOffset(totalRead);  
+ setTotalRead(totalRead);  
+ //doCount(totalRead);  
+  updateSize(totalRead);  
+  //increment(totalRead);  
+  incrementCount(totalRead);  
+ checkBuf(totalRead);  
+  process(totalRead);  
+ checkBuffer(totalRead);  
+  checkAvailable(totalRead);  
+  index(totalRead);  
+ //return(totalRead);  
+ numToRead(totalRead);  
+ @return int(totalRead);  
+ os.skip(totalRead);  
+  //reset(totalRead);  
+  increment count(totalRead);  
+  //add(totalRead);  
+  incrementEntry(totalRead);  
+ entries.add(totalRead);  
+ stats.bytesRead(totalRead);  
+ checkLastEntry(totalRead);  
+  //update(totalRead);  
+  //record(totalRead);  
+  recordCount(totalRead);  
+ //entryOffset(totalRead);  
+ is.close(totalRead);  
+  checkEntry(totalRead);  
+ bytesRead += bytesRead(totalRead);  
+count(totalRead);  
+count(numToRead);  
+count(read);  
+count(0);  
+count( totalRead);  
+count(count);  
+count(totalCount);  
+count(true);  
+count(complete);  
+count(offset);  
+count(1);  
+count(numRead);  
+count(offset + totalRead);  
+count(bytesRead);  
+count(completeRead);  
+count(entryOffset);  
+count(remaining);  
+count(maxRead);  
+count(allRead);  
+count(sum);  
+count(totalWrite);  
+count(totalRead - offset);  
+count(totalRead, offset);  
+count(tmpRead);  
+count(int);  
+count(currEntry);  
+count(totRead);  
+count(null);  
+count(totalRead + 1);  
+count(false);  
+count(getTotalRead);  
+count(offset + numToRead);  
+count(result);  
+count(fullRead);  
+count(hasHitEOF);  
+count(tmp);  
+count(finalRead);  
+count(completed);  
+count(totalBytesRead);  
+count(numberRead);  
+count(totalRead + read);  
+count(finalBytesRead);  
+count(TotalRead);  
+count(done);  
+count(totalRead+1);  
+count(tmpSize);  
+count(totalCount);  
+count(hasRead);  
+count(processed);  
+count(TOTAL_READ);  
+count(totalReads);  
+count(size);  
+count(TOTAL);  
+count(numOfRead);  
+count(len);  
+count(int totalRead);  
+count(extraRead);  
+count(numberOfRead);  
+count(length);  
+count(0, totalRead);  
+count(offset, totalRead);  
+count(is);  
+count(totalRead, 0);  
+count(hasNext);  
+count(totalRead, false);  
+count(getTotalBytesRead);  
+count(found);  
+count(sumRead);  
+count(start);  
+count(nRead);  
+count(full);  
+count(totalRead > 0);  
+count(tmpEntry);  
+count(tally);  
+count(100);  
+count(numRows);  
+count(tmpOffset);  
+count(tmpBytesRead);  
+count(limit);  
+count(count(totalRead);  
+count(rawRead);  
+count(totalRead + offset);  
+count(readCount);  
+count( totalRead);  
+count(completeEntry);  
+count(innerRead);  
+count(allBytesRead);  
+count(lastRead);  
+count(buf);  
+count(totalRead - 1);  
+count(partialRead);  
+count(this);  
+count(finalCount);  
+count(end);  
+count( totalSize);  
+count(remainingRead);  
+count(offset += numToRead);  
+count(completedRead);  
+count(finished);  
+count(totalread);  
+count(totalToRead);  
+count(buffer);  
+count(initialRead);  
+count(numberOfBytesRead);  
+count(tmpLen);  
+count(numberOfToRead);  
+count(sumBytesRead);  
+count(bytesRead);  
+count(skip);  
+count(numBytes);  
+count(innerSize);  
+count(finalSize);  
+count(remainingBytes);  
+count(nextRead);  
+count(retrieved);  
+count(total read);  
+count(offset += totalRead);  
+count(all);  
+count(numToRead + 1);  
+count(countedRead);  
+count(count + totalRead);  
+count(capacity);  
+count(finalEntry);  
+count(firstRead);  
+count(totalRead + len);  
+count(totalRead, true);  
+count(size - totalRead);  
+count(totalReading);  
+count(tmpBuf);  
+count(cntRead);  
+count(hitEOF);  
+count(counted);  
+count(dataRead);  
+count(tmpCount);  
+count(remainingSize);  
+count(numOfToRead);  
+count(currentEntry);  
+count(cnt);  
+count(offset+totalRead);  
+count(success);  
+count(n);  
+count(stats);  
+count(progress);  
+count(index);  
+count(actualBytesRead);  
+count(pos);  
+count(long);  
+count(value);  
+count(hasMore);  
+count(permute);  
+count(tmpTotalRead);  
+count(added);  
+count(returnTotalRead);  
+count(completeCount);  
+count(completeReading);  
+count(startRead);  
+count(totalRead - read);  
+count(doneReading);  
+count(type);  
+count(++totalRead);  
+count(raw);  
+count(max);  
+count(it);  
+count(nextEntry);  
+count(fullSize);  
+count(Total read);  
+count(req);  
+count(totalRead );  
+count(readable);  
+count(foundRead);  
+count(delta);  
+count(closed);  
+count(totalRead + count);  
+count( numToRead);  
+count(maxEntries);  
+count(rawBytesRead);  
+count(tmpBuffer);  
+count(offset+numToRead);  
+count(count - totalRead);  
+count(actualRead);  
+count(totalWritten);  
+count(innerCount);  
+count(totalRead, count);  
+count(completeSize);  
+count(numBytesRead);  
+count(remainder);  
+count(countRead);  
+count(bufferRead);  
+count(doneRead);  
+count(totread);  
+count(src);  
+count(numberToRead);  
+count(event);  
+count(chunk);  
+count(idx);  
+count(reset);  
+count(globalBytesRead);  
+count(tmpEntryOffset);  
+count(readTotal);  
+count(totalSize);  
+count(taken);  
+count(included);  
+count(additionalRead);  
+count(otherRead);  
+count(currentSize);  
+count(numToRead > 0);  
+count(i);  
+count(totalRead, 1);  
+count(consumed);  
+count(item);  
+count(self);  
+count(numToRead - offset);  
+count(inner);  
+count(availRead);  
+count(t);  
+count(retRead);  
+count(getTotalCount);  
+count(toRead);  
+count(resolved);  
+count(nbToRead);  
+count(counter);  
+count(tag);  
+count(this.totalRead);  
+count(2);  
+count(totalRead + bytesRead);  
+count(minRead);  
+count(skipped);  
+count(processedRead);  
+count(perm);  
+count(size + totalRead);  
+count(successfulRead);  
+count(singleRead);  
+count(byteCount);  
+count(rawSize);  
+count(numToRead+1);  
+count(extra);  
+count(buf, offset);  
+count(currentRead);  
+count(reader);  
+count(wholeRead);  
+count(readerCount);  
+count(hasReachedEOF);  
+count(processedCount);  
+count(numOfReads);  
+count(totalReadable);  
+count(totalRead, size);  
+count(totalCount + totalRead);  
+count(internalRead);  
+count(tmpBytes);  
+count(rawReads);  
+count(totalRead, numToRead);  
+count(totalRead, offset);  
+count(totalRead, totalRead);  
+count(totalRead, entryOffset);  
+count(totalRead, false);  
+count(totalRead, 0);  
+count(totalRead, true);  
+count(totalRead, offset, numToRead);  
+count(totalRead, -1);  
+count(totalRead, currEntry);  
+count(totalRead, 0, numToRead);  
+count(totalRead, 1);  
+count(totalRead, null);  
+count(totalRead, count);  
+count(totalRead, totalOffset);  
+count(totalRead, size);  
+count(totalRead, offset + numToRead);  
+count(totalRead, is);  
+count(totalRead, len);  
+count(totalRead, totalSize);  
+count(totalRead, totalBytesRead);  
+count(totalRead, eof);  
+count(totalRead, 0, totalRead);  
+count(totalRead, length);  
+count(totalRead, totalCount);  
+count(totalRead,0);  
+count(totalRead, 0, 0);  
+count(totalRead, totalSize);  
+count(totalRead, this);  
+count(totalRead, error);  
+count(totalRead, limit);  
+count(totalRead, entrySize);  
+count(totalRead, read);  
+count(totalRead, ++entryOffset);  
+count(totalRead, err);  
+count(totalRead,numToRead);  
+count(totalRead, currEntry.length);  
+count(totalRead, bytesRead);  
+count(totalRead, is.available()););  
+count(totalRead, fileOffset);  
+count(totalRead, offset, totalRead);  
+count(totalRead, numRead);  
+count(totalRead, offset+numToRead);  
+count(totalRead, readSize);  
+count(totalRead, EOF);  
+count(totalRead, cnt);  
+count(totalRead, buf, offset);  
+count(totalRead, is.available());  
+count(totalRead, totalReads);  
+count(totalRead, 0, -1);  
+count(totalRead, start);  
+count(totalRead, buf);  
+count(totalRead, hasHitEOF);  
+count(totalRead, readCount);  
+count(totalRead, totalWrite);  
+count(totalRead, currentEntry);  
+count(totalRead, 2);  
+count(totalRead, pos);  
+count(totalRead, index);  
+count(totalRead, readOffset);  
+count(totalRead, currentOffset);  
+count(totalRead,1);  
+count(totalRead, totalLength);  
+count(totalRead, numberToRead);  
+count(totalRead, currEntryOffset);  
+count(totalRead, 4);  
+count(totalRead, 8);  
+count(totalRead, bufSize);  
+count(totalRead,false);  
+count(totalRead, maxRead);  
+count(totalRead, false, false);  
+count(totalRead, 0, false);  
+count(totalRead, readError);  
+count(totalRead, entries);  
+count(totalRead, --numToRead);  
+count(totalRead, remaining);  
+count(totalRead, readerOffset);  
+count(totalRead, maxEntrySize);  
+count(totalRead, i);  
+count(totalRead, totalBytes);  
+count(totalRead, curEntry);  
+count(totalRead, numToRead - offset);  
+count(totalRead, bufferOffset);  
+count(totalRead, buf.length);  
+count(totalRead, ENTRY_SIZE);  
+count(totalRead, true, false);  
+count(totalRead, currEntry.size);  
+count(totalRead, curOffset);  
+count(totalRead, nextEntryOffset);  
+count(totalRead, skip);  
+count(totalRead, startOffset);  
+count(totalRead, blockSize);  
+count(totalRead, endOffset);  
+count(totalRead, endOffset);  
+count(totalRead, end);  
+count(totalRead,offset);  
+count(totalRead, nextEntry);  
+count(totalRead, totalLen);  
+count(totalRead, readMore);  
+count(totalRead, currentEntryOffset);  
+count(totalRead, readLength);  
+count(totalRead, io.EOF);  
+count(totalRead,totalRead);  
+count(totalRead, 0, true);  
+count(totalRead, currEntry.offset);  
+count(totalRead, 1024);  
+count(totalRead, is, offset);  
+count(totalRead, headerSize);  
+count(totalRead, !hasHitEOF);  
+count(totalRead, currentSize);  
+count(totalRead,true);  
+count(totalRead, lastEntryOffset);  
+count(totalRead, 0, null);  
+count(totalRead, capacity);  
+count(totalRead, complete);  
+count(totalRead, ++totalRead);  
+count(totalRead, currEntry != null);  
+count(totalRead, nextOffset);  
+count(totalRead, itemOffset);  
+count(totalRead, totalEntryOffset);  
+count(totalRead, sum);  
+count(totalRead, numOfToRead);  
+count(totalRead, readHeader);  
+count(totalRead, readerIndex);  
+count(totalRead, sizeOfEntry);  
+count(totalRead, readErr);  
+count(totalRead, -numToRead);  
+count(totalRead,0,numToRead);  
+count(totalRead, size - entryOffset);  
+count(totalRead,EntrySize);  
+count(totalRead, 0, 1);  
+count(totalRead, readLimit);  
+count(totalRead, false, true);  
+count(totalRead, entries.length);  
+count(totalRead, size - offset);  
+count(totalRead, sizeInBytes);  
+count(totalRead, skipped);  
+count(totalRead, totalRead - offset);  
+count(totalRead, fileLength);  
+count(totalRead, ++offset);  
+count(totalRead, totalEntrySize);  
+count(totalRead, totalReading);  
+count(totalRead, 0, count);  
+count(totalRead, errorCount);  
+count(totalRead, ++currEntry);  
+count(totalRead,entryOffset);  
+count(totalRead, maxEntries);  
+count(totalRead, bytesRead);  
+count(totalRead, firstRead);  
+count(totalRead, idx);  
+count(totalRead, out);  
+count(totalRead, numToRead, false);  
+count(totalRead, inputOffset);  
+count(totalRead, totalReadBytes);  
+count(totalRead, skipBytes);  
+count(totalRead, fileSize);  
+count(totalRead, totalWritten);  
+count(totalRead, offset + totalRead);  
+count(totalRead, remainingSize);  
+count(totalRead, inSize);  
+count(totalRead, crc);  
+count(totalRead, int);  
+count(totalRead, numToRead, true);  
+count(totalRead, true, true);  
+count(totalRead, numToRead + 1);  
+count(totalRead, block);  
+count(totalRead, bytesToRead);  
+count(totalRead, 10);  
+count(totalRead, EntryOffset);  
+count(totalRead, bytesRemaining);  
+count(totalRead, totalEOF);  
+count(totalRead, false, -1);  
+count(totalRead, remainingBytes);  
+count(totalRead, readEOF);  
+count(totalRead, free);  
+count(totalRead, is.read);  
+count(totalRead, etag);  
+count(totalRead,currEntry);  
+count(totalRead, entriesSize);  
+count(totalRead, offset<mask5> numToRead);  
+count(totalRead, indexOffset);  
+count(totalRead, 1000);  
+count(totalRead, numOfRead);  
+count(totalRead, isOffset);  
+count(totalRead, totalLimit);  
+count(totalRead, readRemaining);  
+count(totalRead, cntRead);  
+count(totalRead, bytesAvailable);  
+count(totalRead, curEntryOffset);  
+count(totalRead, size() - offset);  
+count(totalRead, seen);  
+count(totalRead, filter);  
+count(totalRead, tmpOffset);  
+count(totalRead, --totalRead);  
+count(totalRead, count - totalRead);  
+count(totalRead, endEntry);  
+count(totalRead, true, -1);  
+count(totalRead, off);  
+count(totalRead, readEntryOffset);  
+count(totalRead, currentEntrySize);  
+count(totalRead, numberRead);  
+count(totalRead, hasRead);  
+count(totalRead, finished);  
+count(totalRead, statSize);  
+count(totalRead, nil);  
+count(totalRead, 0, offset);  
+count(totalRead, reader);  
+count(totalRead, offset += numToRead);  
+count(totalRead, 8192);  
+count(totalRead, written);  
+count(totalRead, io.Reader);  
+count(totalRead, 3);  
+count(totalRead, modCount);  
+count(totalRead, startOffset);  
+count(totalRead, event);  
+count(totalRead, freeSpace);  
+count(totalRead, limit - entryOffset);  
+count(totalRead, ignored);  
+count(totalRead, totalWriteCount);  
+count(totalRead,offset,numToRead);  
+count(totalRead, processed);  
+count(totalRead, 0L);  
+count(totalRead, ++numToRead);  
+count(totalRead, tmpSize);  
+count(totalRead, reqSize);  
+count(totalRead, numToRead+1);  
+count(totalRead, fileIndex);  
+count(totalRead, headerOffset);  
+count(totalRead, totalSkip);  
+count(totalRead, ++currEntryOffset);  
+count(totalRead, lastRead);  
+count(totalRead, blockCount);  
+count(totalRead, size());  
+count(totalRead, is.available(););  
+count(totalRead, allRead);  
+count(totalRead, curSize);  
+count(totalRead, false, 0);  
+count(totalRead, endOfFile);  
+count(totalRead, buffer.length);  
+count(totalRead, streamOffset);  
+count(totalRead, entries.size());  
+count(totalRead, totalFill);  
+count(totalRead, 0, size);  
+count(totalRead, totalHeader);  
+count(totalRead, completeEntry);  
+count(totalRead, offset - entryOffset);  
+count(totalRead, is.available()));  
+count(totalRead, currentEntry.length);  
+count(totalRead, totalHeaderSize);  
+count(totalRead, endOfData);  
+count(offset,totalRead);  
+count(0,totalRead);  
+count(numToRead,totalRead);  
+count(entryOffset,totalRead);  
+count(false,totalRead);  
+count(currEntry,totalRead);  
+count(buf,totalRead);  
+count(totalRead,totalRead);  
+count(true,totalRead);  
+count(1,totalRead);  
+count(null,totalRead);  
+count(count,totalRead);  
+count(buf,offset,totalRead);  
+count(size,totalRead);  
+count(bytesRead,totalRead);  
+count(read,totalRead);  
+count(buf, offset,totalRead);  
+count(len,totalRead);  
+count(idx,totalRead);  
+count(currentEntry,totalRead);  
+count(is,totalRead);  
+count(numBytes,totalRead);  
+count(i,totalRead);  
+count(startOffset,totalRead);  
+count(this,totalRead);  
+count(length,totalRead);  
+count(start,totalRead);  
+count(numRead,totalRead);  
+count(limit,totalRead);  
+count(currentOffset,totalRead);  
+count(pos,totalRead);  
+count(entries,totalRead);  
+count(index,totalRead);  
+count(cnt,totalRead);  
+count(fileOffset,totalRead);  
+count(2,totalRead);  
+count(offset=0,totalRead);  
+count(hasHitEOF,totalRead);  
+count(0,0,totalRead);  
+count(readerOffset,totalRead);  
+count(scanner,totalRead);  
+count(readCount,totalRead);  
+count(header,totalRead);  
+count( 0,totalRead);  
+count(reader,totalRead);  
+count(EOF,totalRead);  
+count(buffer,totalRead);  
+count(currentEntryOffset,totalRead);  
+count(eof,totalRead);  
+count(4,totalRead);  
+count(8,totalRead);  
+count(curOffset,totalRead);  
+count(self,totalRead);  
+count(currEntryOffset,totalRead);  
+count(currentSize,totalRead);  
+count( offset,totalRead);  
+count(curEntry,totalRead);  
+count(Offset,totalRead);  
+count(consumed,totalRead);  
+count(false,false,totalRead);  
+count(numberOfRead,totalRead);  
+count(entrySize,totalRead);  
+count(startIndex,totalRead);  
+count(offset+1,totalRead);  
+count(hdr,totalRead);  
+count(numBytesRead,totalRead);  
+count(offset = 0,totalRead);  
+count(err,totalRead);  
+count(skip,totalRead);  
+count(nil,totalRead);  
+count(1024,totalRead);  
+count(in,totalRead);  
+count(blockSize,totalRead);  
+count(nextEntry,totalRead);  
+count(headerOffset,totalRead);  
+count(name,totalRead);  
+count(crc,totalRead);  
+count(data,totalRead);  
+count(totalCount,totalRead);  
+count(3,totalRead);  
+count(headerSize,totalRead);  
+count(fileSize,totalRead);  
+count(cursor,totalRead);  
+count(off,totalRead);  
+count(maxRead,totalRead);  
+count(0,false,totalRead);  
+count(bytesRead,totalRead);  
+count(0,offset,totalRead);  
+count(bytes,totalRead);  
+count(endOffset,totalRead);  
+count(remaining,totalRead);  
+count(end,totalRead);  
+count(n,totalRead);  
+count(sum,totalRead);  
+count(count+1,totalRead);  
+count(totalWrite,totalRead);  
+count(numberOfBytesRead,totalRead);  
+count(EntrySize,totalRead);  
+count(offset+offset,totalRead);  
+count(readSize,totalRead);  
+count(8192,totalRead);  
+count(readOffset,totalRead);  
+count(is,offset,totalRead);  
+count(buf.length,totalRead);  
+count(scanned,totalRead);  
+count(numOfRead,totalRead);  
+count(100,totalRead);  
+count(bufferOffset,totalRead);  
+count(hasMore,totalRead);  
+count(int,totalRead);  
+count(error,totalRead);  
+count(10,totalRead);  
+count(key,totalRead);  
+count(OFFSET,totalRead);  
+count(numberRead,totalRead);  
+count(offset++,totalRead);  
+count(reset,totalRead);  
+count(buf,0,totalRead);  
+count(readerIndex,totalRead);  
+count( entryOffset,totalRead);  
+count(true,false,totalRead);  
+count(tmp,totalRead);  
+count(size - offset,totalRead);  
+count(tmpOffset,totalRead);  
+count(closed,totalRead);  
+count(NUM_BYTES,totalRead);  
+count(completed,totalRead);  
+count(capacity,totalRead);  
+count(pageSize,totalRead);  
+count(readerCount,totalRead);  
+count(elem,totalRead);  
+count(getOffset,totalRead);  
+count(fileName,totalRead);  
+count(1000,totalRead);  
+count(include,totalRead);  
+count(head,totalRead);  
+count(delta,totalRead);  
+count(maxEntries,totalRead);  
+count(9,totalRead);  
+count(prevEntry,totalRead);  
+count(hasMoreRead,totalRead);  
+count(it,totalRead);  
+count(countRead,totalRead);  
+count(EntryOffset,totalRead);  
+count(startOffset,totalRead);  
+count( numToRead,totalRead);  
+count("",totalRead);  
+count(flags,totalRead);  
+count(lastRead,totalRead);  
+count(conf,totalRead);  
+count(curEntryOffset,totalRead);  
+count(minRead,totalRead);  
+count(cntRead,totalRead);  
+count(offsets,totalRead);  
+count(undefined,totalRead);  
+count(tmpEntry,totalRead);  
+count(indexOffset,totalRead);  
+count(bucket,totalRead);  
+count(tag,totalRead);  
+count(64,totalRead);  
+count(NUM_READ,totalRead);  
+count(totalCount,totalRead);  
+count(bytesWritten,totalRead);  
+count(curSize,totalRead);  
+count( currEntry,totalRead);  
+count(Entry,totalRead);  
+count(numberOfEntries,totalRead);  
+count(permitEOF,totalRead);  
+count(io.EOF,totalRead);  
+count(hdrSize,totalRead);  
+count(nextEntryOffset,totalRead);  
+count(ofs,totalRead);  
+count(elemOffset,totalRead);  
+count(max,totalRead);  
+count(0, 0,totalRead);  
+count(bucketOffset,totalRead);  
+count(dirOffset,totalRead);  
+count(processed,totalRead);  
+count(++entryOffset,totalRead);  
+count(totalBytesRead,totalRead);  
+count(currentCount,totalRead);  
+count(scannedBytes,totalRead);  
+count(endEntry,totalRead);  
+count(tmpSize,totalRead);  
+count(numberOfToRead,totalRead);  
+count(count + 1,totalRead);  
+count(event,totalRead);  
+count(totalOffset,totalRead);  
+count(retval,totalRead);  
+count(found,totalRead);  
+count(counted,totalRead);  
+count(ctx,totalRead);  
+count(itemOffset,totalRead);  
+count(LOG,totalRead);  
+count(out,totalRead);  
+count(file,totalRead);  
+count(sizeInBytes,totalRead);  
+count(path,totalRead);  
+count(size + offset,totalRead);  
+count(startEntry,totalRead);  
+count(firstRead,totalRead);  
+count(buf, 0,totalRead);  
+count(hasRead,totalRead);  
+count(hasNextEntry,totalRead);  
+count(numBytesToRead,totalRead);  
+count(info,totalRead);  
+count(hasMoreEntries,totalRead);  
+count(totalWritten,totalRead);  
+count(false,true,totalRead);  
+count(now,totalRead);  
+count(count-1,totalRead);  
+count(0xff,totalRead);  
+count(remainingSize,totalRead);  
+count(consumedBytes,totalRead);  
+count(result,totalRead);  
+count(e,totalRead);  
+count(EMPTY,totalRead);  
+count(chunk,totalRead);  
+count(readBytes,totalRead);  
+count(nbToRead,totalRead);  
+count(lastEntryOffset,totalRead);  
+count(src,totalRead);  
+count(k,totalRead);  
+count(page,totalRead);  
+count(b,totalRead);  
+count(false,0,totalRead);  
+count(filename,totalRead);  
+count(remainingBytes,totalRead);  
+count(value,totalRead);  
+count(4096,totalRead);  
+count(count - 1,totalRead);  
+count(newBytesRead,totalRead);  
+count(streamOffset,totalRead);  
+count(hitEOF,totalRead);  
+count( offset,totalRead);  
+count(count=0,totalRead);  
+count(allRead,totalRead);  
+count(offset+count,totalRead);  
+count(true,true,totalRead);  
+count(firstEntry,totalRead);  
+count(offset + 1,totalRead);  
+count(0x00,totalRead);  
+count(lastEntry,totalRead);  
+count(offset+len,totalRead);  
+count(count + offset,totalRead);  
+count(0,1,totalRead);  
+count(NUM_ENTRIES,totalRead);  
+count(size,offset,totalRead);  
+count(count -1,totalRead);  
+count(prevEntryOffset,totalRead);  
+count(totalRead);  
+count(numToRead);  
+count(read);  
+count(0);  
+count( totalRead);  
+count(count);  
+count(totalCount);  
+count(true);  
+count(complete);  
+count(offset);  
+count(1);  
+count(numRead);  
+count(offset + totalRead);  
+count(bytesRead);  
+count(completeRead);  
+count(entryOffset);  
+count(remaining);  
+count(maxRead);  
+count(allRead);  
+count(sum);  
+count(totalWrite);  
+count(totalRead - offset);  
+count(totalRead, offset);  
+count(tmpRead);  
+count(int);  
+count(currEntry);  
+count(totRead);  
+count(null);  
+count(totalRead + 1);  
+count(false);  
+count(getTotalRead);  
+count(offset + numToRead);  
+count(result);  
+count(fullRead);  
+count(hasHitEOF);  
+count(tmp);  
+count(finalRead);  
+count(completed);  
+count(totalBytesRead);  
+count(numberRead);  
+count(totalRead + read);  
+count(finalBytesRead);  
+count(TotalRead);  
+count(done);  
+count(totalRead+1);  
+count(tmpSize);  
+count(totalCount);  
+count(hasRead);  
+count(processed);  
+count(TOTAL_READ);  
+count(totalReads);  
+count(size);  
+count(TOTAL);  
+count(numOfRead);  
+count(len);  
+count(int totalRead);  
+count(extraRead);  
+count(numberOfRead);  
+count(length);  
+count(0, totalRead);  
+count(offset, totalRead);  
+count(is);  
+count(totalRead, 0);  
+count(hasNext);  
+count(totalRead, false);  
+count(getTotalBytesRead);  
+count(found);  
+count(sumRead);  
+count(start);  
+count(nRead);  
+count(full);  
+count(totalRead > 0);  
+count(tmpEntry);  
+count(tally);  
+count(100);  
+count(numRows);  
+count(tmpOffset);  
+count(tmpBytesRead);  
+count(limit);  
+count(count(totalRead);  
+count(rawRead);  
+count(totalRead + offset);  
+count(readCount);  
+count( totalRead);  
+count(completeEntry);  
+count(innerRead);  
+count(allBytesRead);  
+count(lastRead);  
+count(buf);  
+count(totalRead - 1);  
+count(partialRead);  
+count(this);  
+count(finalCount);  
+count(end);  
+count( totalSize);  
+count(remainingRead);  
+count(offset += numToRead);  
+count(completedRead);  
+count(finished);  
+count(totalread);  
+count(totalToRead);  
+count(buffer);  
+count(initialRead);  
+count(numberOfBytesRead);  
+count(tmpLen);  
+count(numberOfToRead);  
+count(sumBytesRead);  
+count(bytesRead);  
+count(skip);  
+count(numBytes);  
+count(innerSize);  
+count(finalSize);  
+count(remainingBytes);  
+count(nextRead);  
+count(retrieved);  
+count(total read);  
+count(offset += totalRead);  
+count(all);  
+count(numToRead + 1);  
+count(countedRead);  
+count(count + totalRead);  
+count(capacity);  
+count(finalEntry);  
+count(firstRead);  
+count(totalRead + len);  
+count(totalRead, true);  
+count(size - totalRead);  
+count(totalReading);  
+count(tmpBuf);  
+count(cntRead);  
+count(hitEOF);  
+count(counted);  
+count(dataRead);  
+count(tmpCount);  
+count(remainingSize);  
+count(numOfToRead);  
+count(currentEntry);  
+count(cnt);  
+count(offset+totalRead);  
+count(success);  
+count(n);  
+count(stats);  
+count(progress);  
+count(index);  
+count(actualBytesRead);  
+count(pos);  
+count(long);  
+count(value);  
+count(hasMore);  
+count(permute);  
+count(tmpTotalRead);  
+count(added);  
+count(returnTotalRead);  
+count(completeCount);  
+count(completeReading);  
+count(startRead);  
+count(totalRead - read);  
+count(doneReading);  
+count(type);  
+count(++totalRead);  
+count(raw);  
+count(max);  
+count(it);  
+count(nextEntry);  
+count(fullSize);  
+count(Total read);  
+count(req);  
+count(totalRead );  
+count(readable);  
+count(foundRead);  
+count(delta);  
+count(closed);  
+count(totalRead + count);  
+count( numToRead);  
+count(maxEntries);  
+count(rawBytesRead);  
+count(tmpBuffer);  
+count(offset+numToRead);  
+count(count - totalRead);  
+count(actualRead);  
+count(totalWritten);  
+count(innerCount);  
+count(totalRead, count);  
+count(completeSize);  
+count(numBytesRead);  
+count(remainder);  
+count(countRead);  
+count(bufferRead);  
+count(doneRead);  
+count(totread);  
+count(src);  
+count(numberToRead);  
+count(event);  
+count(chunk);  
+count(idx);  
+count(reset);  
+count(globalBytesRead);  
+count(tmpEntryOffset);  
+count(readTotal);  
+count(totalSize);  
+count(taken);  
+count(included);  
+count(additionalRead);  
+count(otherRead);  
+count(currentSize);  
+count(numToRead > 0);  
+count(i);  
+count(totalRead, 1);  
+count(consumed);  
+count(item);  
+count(self);  
+count(numToRead - offset);  
+count(inner);  
+count(availRead);  
+count(t);  
+count(retRead);  
+count(getTotalCount);  
+count(toRead);  
+count(resolved);  
+count(nbToRead);  
+count(counter);  
+count(tag);  
+count(this.totalRead);  
+count(2);  
+count(totalRead + bytesRead);  
+count(minRead);  
+count(skipped);  
+count(processedRead);  
+count(perm);  
+count(size + totalRead);  
+count(successfulRead);  
+count(singleRead);  
+count(byteCount);  
+count(rawSize);  
+count(numToRead+1);  
+count(extra);  
+count(buf, offset);  
+count(currentRead);  
+count(reader);  
+count(wholeRead);  
+count(readerCount);  
+count(hasReachedEOF);  
+count(processedCount);  
+count(numOfReads);  
+count(totalReadable);  
+count(totalRead, size);  
+count(totalCount + totalRead);  
+count(internalRead);  
+count(tmpBytes);  
+count(rawReads);  
+if(totalRead==null){return  -1;} count(totalRead);  
+if(totalRead==null){return -1;} count(totalRead);  
+if(totalRead==null){return  0;} count(totalRead);  
+if(totalRead==null){return  -1;;} count(totalRead);  
+if(totalRead==null){return  null;} count(totalRead);  
+if(totalRead==null){return  -2;} count(totalRead);  
+if(totalRead==null){return 0;} count(totalRead);  
+if(totalRead==null){return  numToRead;} count(totalRead);  
+if(totalRead==null){return  0;;} count(totalRead);  
+if(totalRead==null){return  totalRead;} count(totalRead);  
+if(totalRead==null){return ;;} count(totalRead);  
+if(totalRead==null){return  EOF;} count(totalRead);  
+if(totalRead==null){return  false;} count(totalRead);  
+if(totalRead==null){return  null;;} count(totalRead);  
+if(totalRead==null){return -1;;} count(totalRead);  
+if(totalRead==null){return  return -1;} count(totalRead);  
+if(totalRead==null){return  1;} count(totalRead);  
+if(totalRead==null){return   -1;} count(totalRead);  
+if(totalRead==null){return  - 1;} count(totalRead);  
+if(totalRead==null){return (-1;} count(totalRead);  
+if(totalRead==null){return null;} count(totalRead);  
+if(totalRead==null){return  -1 ;} count(totalRead);  
+if(totalRead==null){return 0;;} count(totalRead);  
+if(totalRead==null){return  0;} count(totalRead);  
+if(totalRead==null){return  +1;} count(totalRead);  
+if(totalRead==null){return  error;} count(totalRead);  
+if(totalRead==null){return   0;} count(totalRead);  
+if(totalRead==null){return  -1 ;} count(totalRead);  
+if(totalRead==null){return  -3;} count(totalRead);  
+if(totalRead==null){return  -2;;} count(totalRead);  
+if(totalRead==null){return ==-1;} count(totalRead);  
+if(totalRead==null){return 1;} count(totalRead);  
+if(totalRead==null){return };} count(totalRead);  
+if(totalRead==null){return  -1 ;;} count(totalRead);  
+if(totalRead==null){return  0; };} count(totalRead);  
+if(totalRead==null){return  length;} count(totalRead);  
+if(totalRead==null){return  numRead;} count(totalRead);  
+if(totalRead==null){return  size;} count(totalRead);  
+if(totalRead==null){return  NULL;} count(totalRead);  
+if(totalRead==null){return  EMPTY;} count(totalRead);  
+if(totalRead==null){return -2;} count(totalRead);  
+if(totalRead==null){return  -1};} count(totalRead);  
+if(totalRead==null){return  err;} count(totalRead);  
+if(totalRead==null){return -(1);;} count(totalRead);  
+if(totalRead==null){return (-1);;} count(totalRead);  
+if(totalRead==null){return  numToRead;;} count(totalRead);  
+if(totalRead==null){return  eof;} count(totalRead);  
+if(totalRead==null){return  totalRead;;} count(totalRead);  
+if(totalRead==null){return ; };} count(totalRead);  
+if(totalRead==null){return  len;} count(totalRead);  
+if(totalRead==null){return =-1;} count(totalRead);  
+if(totalRead==null){return >-1;} count(totalRead);  
+if(totalRead==null){return  nil;} count(totalRead);  
+if(totalRead==null){return  1;;} count(totalRead);  
+if(totalRead==null){return  (-1);;} count(totalRead);  
+if(totalRead==null){return numToRead;} count(totalRead);  
+if(totalRead==null){return  count;} count(totalRead);  
+if(totalRead==null){return  -1;} count(totalRead);  
+if(totalRead==null){return  false;;} count(totalRead);  
+if(totalRead==null){return  count(-1;} count(totalRead);  
+if(totalRead==null){return +1;} count(totalRead);  
+if(totalRead==null){return -(1;} count(totalRead);  
+if(totalRead==null){return  };} count(totalRead);  
+if(totalRead==null){return  max;} count(totalRead);  
+if(totalRead==null){return ;} count(totalRead);  
+if(totalRead==null){return  ;} count(totalRead);  
+if(totalRead==null){return  ;} count(totalRead);  
+if(totalRead==null){return  null; };} count(totalRead);  
+if(totalRead==null){return  zero;} count(totalRead);  
+if(totalRead==null){return  -11;} count(totalRead);  
+if(totalRead==null){return  n;} count(totalRead);  
+if(totalRead==null){return  this;} count(totalRead);  
+if(totalRead==null){return  int;} count(totalRead);  
+if(totalRead==null){return  (-1;} count(totalRead);  
+if(totalRead==null){return  -numToRead;} count(totalRead);  
+if(totalRead==null){return  -1.;} count(totalRead);  
+if(totalRead==null){return };;} count(totalRead);  
+if(totalRead==null){return  true;} count(totalRead);  
+if(totalRead==null){return  -1  ;} count(totalRead);  
+if(totalRead==null){return -;} count(totalRead);  
+if(totalRead==null){return  nothing;} count(totalRead);  
+if(totalRead==null){return  void;} count(totalRead);  
+if(totalRead==null){return  -1AST#return_statement#Right;} count(totalRead);  
+if(totalRead==null){return  io.EOF;} count(totalRead);  
+if(totalRead==null){return  -;} count(totalRead);  
+if(totalRead==null){return  all;} count(totalRead);  
+if(totalRead==null){return  read;} count(totalRead);  
+if(totalRead==null){return  next;} count(totalRead);  
+if(totalRead==null){return  unknown;} count(totalRead);  
+if(totalRead==null){return  -1d;} count(totalRead);  
+if(totalRead==null){return (0);;} count(totalRead);  
+if(totalRead==null){return  -4;} count(totalRead);  
+if(totalRead==null){return  end;} count(totalRead);  
+if(totalRead==null){return  remaining;} count(totalRead);  
+if(totalRead==null){return  return-1;} count(totalRead);  
+if(totalRead==null){return ?-1;} count(totalRead);  
+if(totalRead==null){return  };} count(totalRead);  
+if(totalRead==null){return false;} count(totalRead);  
+if(totalRead==null){return  1;} count(totalRead);  
+if(totalRead==null){return  -10;} count(totalRead);  
+if(totalRead==null){return  <0;} count(totalRead);  
+if(totalRead==null){return  EOF;;} count(totalRead);  
+if(totalRead==null){return EOF;} count(totalRead);  
+if(totalRead==null){return  i;} count(totalRead);  
+if(totalRead==null){return  = -1;} count(totalRead);  
+if(totalRead==null){return   ;} count(totalRead);  
+if(totalRead==null){return -(0);;} count(totalRead);  
+if(totalRead==null){return   0;;} count(totalRead);  
+if(totalRead==null){return  entryOffset;} count(totalRead);  
+if(totalRead==null){return ;};} count(totalRead);  
+if(totalRead==null){return -(1);} count(totalRead);  
+if(totalRead==null){return  value;} count(totalRead);  
+if(totalRead==null){return  is;} count(totalRead);  
+if(totalRead==null){return  returns -1;} count(totalRead);  
+if(totalRead==null){return totalRead;} count(totalRead);  
+if(totalRead==null){return  super;} count(totalRead);  
+if(totalRead==null){return <0;} count(totalRead);  
+if(totalRead==null){return  bytesRead;} count(totalRead);  
+if(totalRead==null){return  -1000;} count(totalRead);  
+if(totalRead==null){return  ;;} count(totalRead);  
+if(totalRead==null){return  it;} count(totalRead);  
+if(totalRead==null){return  0;};} count(totalRead);  
+if(totalRead==null){return  NAN;} count(totalRead);  
+if(totalRead==null){return  -1l;} count(totalRead);  
+if(totalRead==null){return Long;} count(totalRead);  
+if(totalRead==null){return  < 0;} count(totalRead);  
+if(totalRead==null){return [];} count(totalRead);  
+if(totalRead==null){return  -999;} count(totalRead);  
+if(totalRead==null){return   null;} count(totalRead);  
+if(totalRead==null){return .;} count(totalRead);  
+if(totalRead==null){return  N;} count(totalRead);  
+if(totalRead==null){return -(0;} count(totalRead);  
+if(totalRead==null){return  0; ;} count(totalRead);  
+if(totalRead==null){return -(null);} count(totalRead);  
+if(totalRead==null){return  total;} count(totalRead);  
+if(totalRead==null){return  -1;};} count(totalRead);  
+if(totalRead==null){return  -(1);;} count(totalRead);  
+if(totalRead==null){return  cnt;} count(totalRead);  
+if(totalRead==null){return  code;} count(totalRead);  
+if(totalRead==null){return  undefined;} count(totalRead);  
+if(totalRead==null){return  -1L;} count(totalRead);  
+if(totalRead==null){return  lastRead;} count(totalRead);  
+if(totalRead==null){return  offset;} count(totalRead);  
+if(totalRead==null){return  super.read;} count(totalRead);  
+if(totalRead==null){return  UNKNOWN;} count(totalRead);  
+if(totalRead==null){return  -0;} count(totalRead);  
+if(totalRead==null){return  +1;;} count(totalRead);  
+if(totalRead==null){return [];;} count(totalRead);  
+if(totalRead==null){return  len;;} count(totalRead);  
+if(totalRead==null){return  no more data;} count(totalRead);  
+if(totalRead==null){return  SKIP;} count(totalRead);  
+if(totalRead==null){return = -1;} count(totalRead);  
+if(totalRead==null){return  data;} count(totalRead);  
+if(totalRead==null){return 1;;} count(totalRead);  
+if(totalRead==null){return  numberRead;} count(totalRead);  
+if(totalRead==null){return ,-1;} count(totalRead);  
+if(totalRead==null){return , -1;} count(totalRead);  
+if(totalRead==null){return  (-1);} count(totalRead);  
+if(totalRead==null){return  null;} count(totalRead);  
+if(totalRead==null){return  2;} count(totalRead);  
+if(totalRead==null){return :;} count(totalRead);  
+if(totalRead==null){return  EMPTY_BUFFER;} count(totalRead);  
+if(totalRead==null){return  errors;} count(totalRead);  
+if(totalRead==null){return  0;} count(totalRead);  
+if(totalRead==null){return Integer;} count(totalRead);  
+if(totalRead==null){return  return 0;} count(totalRead);  
+if(totalRead==null){return  3;} count(totalRead);  
+if(totalRead==null){return return -1;} count(totalRead);  
+if(totalRead==null){return  negative;} count(totalRead);  
+if(totalRead==null){return  empty;} count(totalRead);  
+if(totalRead==null){return  nextEntry;} count(totalRead);  
+if(totalRead==null){return  buf;} count(totalRead);  
+if(totalRead==null){return  first;} count(totalRead);  
+if(totalRead==null){return  None;} count(totalRead);  
+if(totalRead==null){return  totalCount;} count(totalRead);  
+if(totalRead==null){return  sum;} count(totalRead);  
+if(totalRead==null){return  in;} count(totalRead);  
+if(totalRead==null){return  fis;} count(totalRead);  
+if(totalRead==null){return length;} count(totalRead);  
+if(totalRead==null){return  unknownSize;} count(totalRead);  
+if(totalRead==null){return ;};} count(totalRead);  
+if(totalRead==null){return  size;;} count(totalRead);  
+if(totalRead==null){return  last;} count(totalRead);  
+if(totalRead==null){return } ;} count(totalRead);  
+if(totalRead==null){return  Integer;} count(totalRead);  
+if(totalRead==null){return  skip;} count(totalRead);  
+if(totalRead==null){return  none;} count(totalRead);  
+if(totalRead==null){return  count();} count(totalRead);  
+if(totalRead==null){return  IO.EOF;} count(totalRead);  
+if(totalRead==null){return  number;} count(totalRead);  
+if(totalRead==null){return =0;} count(totalRead);  
+if(totalRead==null){return 0; };} count(totalRead);  
+if(totalRead==null){return :-1;} count(totalRead);  
+if(totalRead==null){return  long;} count(totalRead);  
+if(totalRead==null){return  count();;} count(totalRead);  
+if(totalRead==null){return  --;} count(totalRead);  
+if(totalRead==null){return  -N;} count(totalRead);  
+if(totalRead==null){return  -1  ;} count(totalRead);  
+if(totalRead==null){return  n;;} count(totalRead);  
+if(totalRead==null){return   1;} count(totalRead);  
+if(totalRead==null){return  return null;} count(totalRead);  
+if(totalRead==null){return .-1;} count(totalRead);  
+if(totalRead==null){return  retval;} count(totalRead);  
+if(totalRead==null){return  -11;} count(totalRead);  
+if(totalRead==null){return  length;;} count(totalRead);  
+if(totalRead==null){return  ERROR;} count(totalRead);  
+if(totalRead==null){return  null;};} count(totalRead);  
+if(totalRead==null){return  result;} count(totalRead);  
+if(totalRead==null){return  return;} count(totalRead);  
+if(totalRead==null){return }else;} count(totalRead);  
+if(totalRead==null){return null;;} count(totalRead);  
+if(totalRead==null){return } else;} count(totalRead);  
+if(totalRead==null){return  finalSize;} count(totalRead);  
+if(totalRead==null){return return;} count(totalRead);  
+if(totalRead==null){return    -1;} count(totalRead);  
+if(totalRead==null){return - 1;} count(totalRead);  
+if(totalRead==null){return  -10;;} count(totalRead);  
+if(totalRead==null){return  input;} count(totalRead);  
+if(totalRead==null){return ?;} count(totalRead);  
+if(totalRead==null){return  IOException;} count(totalRead);  
+if(totalRead==null){return  non-null;} count(totalRead);  
+if(totalRead==null){return  pos;} count(totalRead);  
+if(totalRead==null){return  -err;} count(totalRead);  
+if(totalRead==null){return  -3;;} count(totalRead);  
+if(totalRead==null){return  count(*);} count(totalRead);  
+if(totalRead==null){return  short;} count(totalRead);  
+if(totalRead==null){return  default;} count(totalRead);  
+if(totalRead==null){return  DONE;} count(totalRead);  
+if(totalRead==null){return   	;} count(totalRead);  
+if(totalRead==null){return  NOOP;} count(totalRead);  
+if(totalRead==null){return bytesRead;} count(totalRead);  
+if(totalRead==null){return (-1);} count(totalRead);  
+if(totalRead==null){return   numToRead;} count(totalRead);  
+if(totalRead==null){return  (0);;} count(totalRead);  
+if(totalRead==null){return  -8;} count(totalRead);  
+if(totalRead==null){return  -n;} count(totalRead);  
+if(totalRead==null){return  read -1;} count(totalRead);  
+if(totalRead==null){return  -1 int;} count(totalRead);  
+if(totalRead==null){return  maxRead;} count(totalRead);  
+if(totalRead==null){return  0;;} count(totalRead);  
+if(totalRead==null){return  -1};;} count(totalRead);  
+if(totalRead==null){return   false;} count(totalRead);  
+if(totalRead==null){return  Double.NaN;} count(totalRead);  
+if(totalRead==null){return  -1   ;} count(totalRead);  
+if(totalRead==null){return  -1 1;} count(totalRead);  
+if(totalRead==null){return count(-1;} count(totalRead);  
+if(totalRead==null){return  -1 };} count(totalRead);  
+if(totalRead==null){return  NO_DATA;} count(totalRead);  
+if(totalRead==null){return  numOfRead;} count(totalRead);  
+if(totalRead==null){return -(0);} count(totalRead);  
+if(totalRead==null){ totalRead=0; } count(totalRead);  
+if(totalRead==null){ totalRead= -1; } count(totalRead);  
+if(totalRead==null){ totalRead=numToRead; } count(totalRead);  
+if(totalRead==null){ totalRead= 0; } count(totalRead);  
+if(totalRead==null){ totalRead=1; } count(totalRead);  
+if(totalRead==null){ totalRead=count; } count(totalRead);  
+if(totalRead==null){ totalRead=entryOffset; } count(totalRead);  
+if(totalRead==null){ totalRead=entrySize; } count(totalRead);  
+if(totalRead==null){ totalRead=-1; } count(totalRead);  
+if(totalRead==null){ totalRead=eof; } count(totalRead);  
+if(totalRead==null){ totalRead= numToRead; } count(totalRead);  
+if(totalRead==null){ totalRead=EOF; } count(totalRead);  
+if(totalRead==null){ totalRead=read; } count(totalRead);  
+if(totalRead==null){ totalRead=size; } count(totalRead);  
+if(totalRead==null){ totalRead=null; } count(totalRead);  
+if(totalRead==null){ totalRead=buf.length; } count(totalRead);  
+if(totalRead==null){ totalRead=0; }; } count(totalRead);  
+if(totalRead==null){ totalRead=length; } count(totalRead);  
+if(totalRead==null){ totalRead=offset; } count(totalRead);  
+if(totalRead==null){ totalRead=len; } count(totalRead);  
+if(totalRead==null){ totalRead=bytesRead; } count(totalRead);  
+if(totalRead==null){ totalRead=next; } count(totalRead);  
+if(totalRead==null){ totalRead=io.EOF; } count(totalRead);  
+if(totalRead==null){ totalRead= eof; } count(totalRead);  
+if(totalRead==null){ totalRead=n; } count(totalRead);  
+if(totalRead==null){ totalRead=false; } count(totalRead);  
+if(totalRead==null){ totalRead=readInt; } count(totalRead);  
+if(totalRead==null){ totalRead=totalRead; } count(totalRead);  
+if(totalRead==null){ totalRead=total; } count(totalRead);  
+if(totalRead==null){ totalRead=skip; } count(totalRead);  
+if(totalRead==null){ totalRead= -2; } count(totalRead);  
+if(totalRead==null){ totalRead=read(); } count(totalRead);  
+if(totalRead==null){ totalRead=numRead; } count(totalRead);  
+if(totalRead==null){ totalRead= 1; } count(totalRead);  
+if(totalRead==null){ totalRead=totalSize; } count(totalRead);  
+if(totalRead==null){ totalRead= size; } count(totalRead);  
+if(totalRead==null){ totalRead=cnt; } count(totalRead);  
+if(totalRead==null){ totalRead=2; } count(totalRead);  
+if(totalRead==null){ totalRead=readed; } count(totalRead);  
+if(totalRead==null){ totalRead=fileLength; } count(totalRead);  
+if(totalRead==null){ totalRead=readEOF; } count(totalRead);  
+if(totalRead==null){ totalRead=available(); } count(totalRead);  
+if(totalRead==null){ totalRead=size(); } count(totalRead);  
+if(totalRead==null){ totalRead=file.length; } count(totalRead);  
+if(totalRead==null){ totalRead= EOF; } count(totalRead);  
+if(totalRead==null){ totalRead= entryOffset; } count(totalRead);  
+if(totalRead==null){ totalRead=max; } count(totalRead);  
+if(totalRead==null){ totalRead=  -1; } count(totalRead);  
+if(totalRead==null){ totalRead=capacity; } count(totalRead);  
+if(totalRead==null){ totalRead= count; } count(totalRead);  
+if(totalRead==null){ totalRead=entries.length; } count(totalRead);  
+if(totalRead==null){ totalRead=8; } count(totalRead);  
+if(totalRead==null){ totalRead=limit; } count(totalRead);  
+if(totalRead==null){ totalRead=pos; } count(totalRead);  
+if(totalRead==null){ totalRead=IO.EOF; } count(totalRead);  
+if(totalRead==null){ totalRead=getSize; } count(totalRead);  
+if(totalRead==null){ totalRead=1024; } count(totalRead);  
+if(totalRead==null){ totalRead=super.read; } count(totalRead);  
+if(totalRead==null){ totalRead= null; } count(totalRead);  
+if(totalRead==null){ totalRead=index; } count(totalRead);  
+if(totalRead==null){ totalRead=fileOffset; } count(totalRead);  
+if(totalRead==null){ totalRead=avail; } count(totalRead);  
+if(totalRead==null){ totalRead=currentSize; } count(totalRead);  
+if(totalRead==null){ totalRead=count(); } count(totalRead);  
+if(totalRead==null){ totalRead= 0; }; } count(totalRead);  
+if(totalRead==null){ totalRead=off; } count(totalRead);  
+if(totalRead==null){ totalRead= entrySize; } count(totalRead);  
+if(totalRead==null){ totalRead=numBytes; } count(totalRead);  
+if(totalRead==null){ totalRead=readInt(); } count(totalRead);  
+if(totalRead==null){ totalRead=fileSize; } count(totalRead);  
+if(totalRead==null){ totalRead=buffer.length; } count(totalRead);  
+if(totalRead==null){ totalRead=end; } count(totalRead);  
+if(totalRead==null){ totalRead=streamSize; } count(totalRead);  
+if(totalRead==null){ totalRead= len; } count(totalRead);  
+if(totalRead==null){ totalRead=3; } count(totalRead);  
+if(totalRead==null){ totalRead=  0; } count(totalRead);  
+if(totalRead==null){ totalRead=inputSize; } count(totalRead);  
+if(totalRead==null){ totalRead=is.read; } count(totalRead);  
+if(totalRead==null){ totalRead=free; } count(totalRead);  
+if(totalRead==null){ totalRead=EMPTY; } count(totalRead);  
+if(totalRead==null){ totalRead=totalEOF; } count(totalRead);  
+if(totalRead==null){ totalRead=idx; } count(totalRead);  
+if(totalRead==null){ totalRead=available; } count(totalRead);  
+if(totalRead==null){ totalRead=4; } count(totalRead);  
+if(totalRead==null){ totalRead= length; } count(totalRead);  
+if(totalRead==null){ totalRead=entryCount; } count(totalRead);  
+if(totalRead==null){ totalRead=NUM_BYTES; } count(totalRead);  
+if(totalRead==null){ totalRead= read; } count(totalRead);  
+if(totalRead==null){ totalRead=N; } count(totalRead);  
+if(totalRead==null){ totalRead=noMore; } count(totalRead);  
+if(totalRead==null){ totalRead=endOfFile; } count(totalRead);  
+if(totalRead==null){ totalRead= buf.length; } count(totalRead);  
+if(totalRead==null){ totalRead=INF; } count(totalRead);  
+if(totalRead==null){ totalRead=nextEntry; } count(totalRead);  
+if(totalRead==null){ totalRead=value; } count(totalRead);  
+if(totalRead==null){ totalRead= remaining; } count(totalRead);  
+if(totalRead==null){ totalRead=remaining; } count(totalRead);  
+if(totalRead==null){ totalRead= - 1; } count(totalRead);  
+if(totalRead==null){ totalRead= offset; } count(totalRead);  
+if(totalRead==null){ totalRead=data.length; } count(totalRead);  
+if(totalRead==null){ totalRead=INITIAL; } count(totalRead);  
+if(totalRead==null){ totalRead=inSize; } count(totalRead);  
+if(totalRead==null){ totalRead=endOfData; } count(totalRead);  
+if(totalRead==null){ totalRead=64; } count(totalRead);  
+if(totalRead==null){ totalRead=buf; } count(totalRead);  
+if(totalRead==null){ totalRead=INITIAL_READ; } count(totalRead);  
+if(totalRead==null){ totalRead=initialRead; } count(totalRead);  
+if(totalRead==null){ totalRead=miss; } count(totalRead);  
+if(totalRead==null){ totalRead=blobSize; } count(totalRead);  
+if(totalRead==null){ totalRead=skipEOF; } count(totalRead);  
+if(totalRead==null){ totalRead=NO_DATA; } count(totalRead);  
+if(totalRead==null){ totalRead=numberRead; } count(totalRead);  
+if(totalRead==null){ totalRead=read(); }; } count(totalRead);  
+if(totalRead==null){ totalRead=isEOF; } count(totalRead);  
+if(totalRead==null){ totalRead=found; } count(totalRead);  
+if(totalRead==null){ totalRead=remaining(); }; } count(totalRead);  
+if(totalRead==null){ totalRead=blockSize; } count(totalRead);  
+if(totalRead==null){ totalRead=totalCount; } count(totalRead);  
+if(totalRead==null){ totalRead=254; } count(totalRead);  
+if(totalRead==null){ totalRead=currentOffset; } count(totalRead);  
+if(totalRead==null){ totalRead=totalLength; } count(totalRead);  
+if(totalRead==null){ totalRead=nr; } count(totalRead);  
+if(totalRead==null){ totalRead=initialSize; } count(totalRead);  
+if(totalRead==null){ totalRead=all; } count(totalRead);  
+if(totalRead==null){ totalRead=empty; } count(totalRead);  
+if(totalRead==null){ totalRead=available()==0; } count(totalRead);  
+if(totalRead==null){ totalRead=Eof; } count(totalRead);  
+if(totalRead==null){ totalRead=totalBytesRead; } count(totalRead);  
+if(totalRead==null){ totalRead=readSize; } count(totalRead);  
+if(totalRead==null){ totalRead=in.read; } count(totalRead);  
+if(totalRead==null){ totalRead=begin; } count(totalRead);  
+if(totalRead==null){ totalRead=NumRead; } count(totalRead);  
+if(totalRead==null){ totalRead=noEOF; } count(totalRead);  
+if(totalRead==null){ totalRead=readMore; } count(totalRead);  
+if(totalRead==null){ totalRead=nextSize; } count(totalRead);  
+if(totalRead==null){ totalRead=SKIP; } count(totalRead);  
+if(totalRead==null){ totalRead=1000; } count(totalRead);  
+if(totalRead==null){ totalRead=error; } count(totalRead);  
+if(totalRead==null){ totalRead=currEntry; } count(totalRead);  
+if(totalRead==null){ totalRead=streamOffset; } count(totalRead);  
+if(totalRead==null){ totalRead=MAX; } count(totalRead);  
+if(totalRead==null){ totalRead=0xff; } count(totalRead);  
+if(totalRead==null){ totalRead=closed; } count(totalRead);  
+if(totalRead==null){ totalRead=SIZE; } count(totalRead);  
+if(totalRead==null){ totalRead=0;}; } count(totalRead);  
+if(totalRead==null){ totalRead=initialValue; } count(totalRead);  
+if(totalRead==null){ totalRead=NUM; } count(totalRead);  
+if(totalRead==null){ totalRead=NUM_READ; } count(totalRead);  
+if(totalRead==null){ totalRead=defaultRead; } count(totalRead);  
+if(totalRead==null){ totalRead=getSize(); } count(totalRead);  
+if(totalRead==null){ totalRead=0xFFFFFFFF; } count(totalRead);  
+if(totalRead==null){ totalRead=endOfStream; } count(totalRead);  
+if(totalRead==null){ totalRead=err; } count(totalRead);  
+if(totalRead==null){ totalRead=cursor; } count(totalRead);  
+if(totalRead==null){ totalRead=data; } count(totalRead);  
+if(totalRead==null){ totalRead=nextRead; } count(totalRead);  
+if(totalRead==null){ totalRead=input.length; } count(totalRead);  
+if(totalRead==null){ totalRead=4096; } count(totalRead);  
+if(totalRead==null){ totalRead=size()-offset; } count(totalRead);  
+if(totalRead==null){ totalRead=readable; } count(totalRead);  
+if(totalRead==null){ totalRead=9; } count(totalRead);  
+if(totalRead==null){ totalRead=INITIAL_SIZE; } count(totalRead);  
+if(totalRead==null){ totalRead=readAll; } count(totalRead);  
+if(totalRead==null){ totalRead=bufLength; } count(totalRead);  
+if(totalRead==null){ totalRead=0L; } count(totalRead);  
+if(totalRead==null){ totalRead=remaining(); } count(totalRead);  
+if(totalRead==null){ totalRead=NULL; } count(totalRead);  
+if(totalRead==null){ totalRead=gotEOF; } count(totalRead);  
+if(totalRead==null){ totalRead= super.read; } count(totalRead);  
+if(totalRead==null){ totalRead=getNumBytesRead; } count(totalRead);  
+if(totalRead==null){ totalRead=nil; } count(totalRead);  
+if(totalRead==null){ totalRead=i; } count(totalRead);  
+if(totalRead==null){ totalRead=count(); }; } count(totalRead);  
+if(totalRead==null){ totalRead=readInt(); }; } count(totalRead);  
+if(totalRead==null){ totalRead=10; } count(totalRead);  
+if(totalRead==null){ totalRead=io.read; } count(totalRead);  
+if(totalRead==null){ totalRead=readLength; } count(totalRead);  
+if(totalRead==null){ totalRead=true; } count(totalRead);  
+if(totalRead==null){ totalRead=more; } count(totalRead);  
+if(totalRead==null){ totalRead=number; } count(totalRead);  
+if(totalRead==null){ totalRead=entryLength; } count(totalRead);  
+if(totalRead==null){ totalRead=start; } count(totalRead);  
+if(totalRead==null){ totalRead= 0; } count(totalRead);  
+if(totalRead==null){ totalRead=blob.length; } count(totalRead);  
+if(totalRead==null){ totalRead= -numToRead; } count(totalRead);  
+if(totalRead==null){ totalRead=curSize; } count(totalRead);  
+if(totalRead==null){ totalRead=999; } count(totalRead);  
+if(totalRead==null){ totalRead=NONE; } count(totalRead);  
+if(totalRead==null){ totalRead=0xFFFF; } count(totalRead);  
+if(totalRead==null){ totalRead=emptySize; } count(totalRead);  
+if(totalRead==null){ totalRead=openCount; } count(totalRead);  
+if(totalRead==null){ totalRead=0x00; } count(totalRead);  
+if(totalRead==null){ totalRead=255; } count(totalRead);  
+if(totalRead==null){ totalRead=length(); } count(totalRead);  
+if(totalRead==null){ totalRead=NUM_ENTRIES; } count(totalRead);  
+if(totalRead==null){ totalRead=0; return; } count(totalRead);  
+if(totalRead==null){ totalRead=totalReads; } count(totalRead);  
+if(totalRead==null){ totalRead=bufferSize; } count(totalRead);  
+if(totalRead==null){ totalRead=is.available; } count(totalRead);  
+if(totalRead==null){ totalRead=noMoreData; } count(totalRead);  
+if(totalRead==null){ totalRead===-1; } count(totalRead);  
+if(totalRead==null){ totalRead=in.length; } count(totalRead);  
+if(totalRead==null){ totalRead=streamLength; } count(totalRead);  
+if(totalRead==null){ totalRead= inSize; } count(totalRead);  
+if(totalRead==null){ totalRead=input.read; } count(totalRead);  
+if(totalRead==null){ totalRead=fileSize; } count(totalRead);  
+if(totalRead==null){ totalRead=totalBytes; } count(totalRead);  
+if(totalRead==null){ totalRead=nrRead; } count(totalRead);  
+if(totalRead==null){ totalRead=avail(); } count(totalRead);  
+if(totalRead==null){ totalRead=size(); }; } count(totalRead);  
+if(totalRead==null){ totalRead=allRead; } count(totalRead);  
+if(totalRead==null){ totalRead=nextEntryOffset; } count(totalRead);  
+if(totalRead==null){ totalRead=cbuf.length; } count(totalRead);  
+if(totalRead==null){ totalRead=readCount; } count(totalRead);  
+if(totalRead==null){ totalRead=is.length; } count(totalRead);  
+if(totalRead==null){ totalRead=reader.length; } count(totalRead);  
+if(totalRead==null){ totalRead=getNumEntries(); } count(totalRead);  
+if(totalRead==null){ totalRead=reader.read; } count(totalRead);  
+if(totalRead==null){ totalRead=0}; } count(totalRead);  
+if(totalRead==null){ totalRead=1; }; } count(totalRead);  
+if(totalRead==null){ totalRead=count(-1; } count(totalRead);  
+if(totalRead==null){ totalRead=entries.size; } count(totalRead);  
+if(totalRead==null){ totalRead=stream.length; } count(totalRead);  
+if(totalRead==null){ totalRead=getNumRead(); } count(totalRead);  
+if(totalRead==null){ totalRead=available(); }; } count(totalRead);  
+if(totalRead==null){ totalRead=this.read; } count(totalRead);  
+if(totalRead==null){ totalRead=entry.length; } count(totalRead);  
+if(totalRead==null){ totalRead=getNumEntries; } count(totalRead);  
+if(totalRead==null){ totalRead=stream.read; } count(totalRead);  
+if(totalRead==null){ totalRead= available(); } count(totalRead);  
+if(totalRead==null){ totalRead= remaining(); } count(totalRead);  
+if(totalRead==null){ totalRead=io.skip; } count(totalRead);  
+if(totalRead==null){ totalRead=capacity(); } count(totalRead);  
+if(totalRead==null){ totalRead=is.EOF; } count(totalRead);  
+if(totalRead==null){ totalRead=is.skip; } count(totalRead);  
+if(totalRead==null){ totalRead=getNumBytes; } count(totalRead);  
+if(totalRead==null){ totalRead=available()-offset; } count(totalRead);  
+if(totalRead==null){ totalRead=getNumToRead(); } count(totalRead);  
+if(totalRead==null){ totalRead=DEFAULT_READ; } count(totalRead);  
+if(totalRead==null){ totalRead=is.readInt; } count(totalRead);  
+if(totalRead==null){ totalRead=currEntryOffset; } count(totalRead);  
+if(totalRead==null){ totalRead=os.read; } count(totalRead);  
+if(totalRead==null){ totalRead=NUM_EOF; } count(totalRead);  
+if(totalRead==null){ totalRead=currentEntry; } count(totalRead);  
+if(totalRead==null){ totalRead=EMPTY_BUFFER; } count(totalRead);  
+if(totalRead==null){ totalRead=i.read; } count(totalRead);  
+if(totalRead==null){ totalRead=count(0; } count(totalRead);  
+if(totalRead==null){ totalRead= is.read; } count(totalRead);  
+if(totalRead==null){ totalRead=inputStream.read; } count(totalRead);  
+if(totalRead==null){ totalRead=this.remaining; } count(totalRead);  
+if(totalRead != -1){ count(totalRead);}  
+if(totalRead > 0){ count(totalRead);}  
+if(totalRead >= 0){ count(totalRead);}  
+if(totalRead>0){ count(totalRead);}  
+if(hasHitEOF){ count(totalRead);}  
+if(numToRead > 0){ count(totalRead);}  
+if(totalRead > -1){ count(totalRead);}  
+if(totalRead>=0){ count(totalRead);}  
+if(totalRead!=-1){ count(totalRead);}  
+if(totalRead!= -1){ count(totalRead);}  
+if(totalRead){ count(totalRead);}  
+if(totalRead >= numToRead){ count(totalRead);}  
+if(totalRead!=0){ count(totalRead);}  
+if(totalRead < numToRead){ count(totalRead);}  
+if(totalRead!=-1){ count(totalRead);}  
+if(totalRead == -1){ count(totalRead);}  
+if(totalRead < 0){ count(totalRead);}  
+if(numToRead != -1){ count(totalRead);}  
+if( totalRead > 0){ count(totalRead);}  
+if(hasNext){ count(totalRead);}  
+if( totalRead != -1){ count(totalRead);}  
+if(numToRead>0){ count(totalRead);}  
+if(verbose){ count(totalRead);}  
+if(totalRead != 0){ count(totalRead);}  
+if(hasRead){ count(totalRead);}  
+if(numToRead >= 0){ count(totalRead);}  
+if(DEBUG){ count(totalRead);}  
+if(hasMore){ count(totalRead);}  
+if(debug){ count(totalRead);}  
+if(numToRead != 0){ count(totalRead);}  
+if(totalRead <= 0){ count(totalRead);}  
+if(totalCount > 0){ count(totalRead);}  
+if(tc.isDebugEnabled()){ count(totalRead);}  
+if(totalRead<numToRead){ count(totalRead);}  
+if(totalRead >0){ count(totalRead);}  
+if(totalRead<0){ count(totalRead);}  
+if(totalRead >= -1){ count(totalRead);}  
+if(totalRead!=numToRead){ count(totalRead);}  
+if(hasReachedEOF){ count(totalRead);}  
+if( totalRead >= 0){ count(totalRead);}  
+if(log){ count(totalRead);}  
+if(closed){ count(totalRead);}  
+if(tc.isDebugEnabled){ count(totalRead);}  
+if(totalRead > numToRead){ count(totalRead);}  
+if( numToRead > 0){ count(totalRead);}  
+if( hasHitEOF){ count(totalRead);}  
+if(totalRead >=0){ count(totalRead);}  
+if(count > 0){ count(totalRead);}  
+if(totalRead> 0){ count(totalRead);}  
+if(count){ count(totalRead);}  
+if(trace){ count(totalRead);}  
+if(found){ count(totalRead);}  
+if(all){ count(totalRead);}  
+if(count != -1){ count(totalRead);}  
+if(numToRead!=0){ count(totalRead);}  
+if(totalCount != -1){ count(totalRead);}  
+if(open){ count(totalRead);}  
+if(totalRead>=numToRead){ count(totalRead);}  
+if(tc){ count(totalRead);}  
+if(totalRead != numToRead){ count(totalRead);}  
+if(numToRead){ count(totalRead);}  
+if(allRead){ count(totalRead);}  
+if(count != null){ count(totalRead);}  
+if(count!=0){ count(totalRead);}  
+if(totalCount > 0){ count(totalRead);}  
+if(true){ count(totalRead);}  
+if(totalRead < entrySize){ count(totalRead);}  
+if(numToRead>=0){ count(totalRead);}  
+if(hasNextEntry){ count(totalRead);}  
+if(totalRead != EOF){ count(totalRead);}  
+if(complete){ count(totalRead);}  
+if(hasNext()){ count(totalRead);}  
+if(totalRead >= size){ count(totalRead);}  
+if(hasMoreEntries){ count(totalRead);}  
+if(numToRead == 0){ count(totalRead);}  
+if(totalRead==0){ count(totalRead);}  
+if(totalWrite){ count(totalRead);}  
+if(counted){ count(totalRead);}  
+if(remaining() > 0){ count(totalRead);}  
+if(totalCount != -1){ count(totalRead);}  
+if(more){ count(totalRead);}  
+if(numToRead!=-1){ count(totalRead);}  
+if(totalReads > 0){ count(totalRead);}  
+if(haveRead){ count(totalRead);}  
+if(checkEOF){ count(totalRead);}  
+if(0 < totalRead){ count(totalRead);}  
+if(totalCount>0){ count(totalRead);}  
+if(count() > 0){ count(totalRead);}  
+if(totalRead!=){ count(totalRead);}  
+if(count>0){ count(totalRead);}  
+if(totalRead >= entrySize){ count(totalRead);}  
+if(checkOverflow){ count(totalRead);}  
+if(LOG){ count(totalRead);}  
+if(numRead > 0){ count(totalRead);}  
+if(totalRead==-1){ count(totalRead);}  
+if(completed){ count(totalRead);}  
+if(totalRead <= numToRead){ count(totalRead);}  
+if(isHitEOF){ count(totalRead);}  
+if(filtered){ count(totalRead);}  
+if(is != null){ count(totalRead);}  
+if(totalRead!= 0){ count(totalRead);}  
+if(done){ count(totalRead);}  
+if(currEntry != null){ count(totalRead);}  
+if(logger.isDebugEnabled()){ count(totalRead);}  
+if(buf != null){ count(totalRead);}  
+if(count()>0){ count(totalRead);}  
+if(totalRead >= count){ count(totalRead);}  
+if(numToRead > -1){ count(totalRead);}  
+if(totalCount){ count(totalRead);}  
+if(maxReached){ count(totalRead);}  
+if(totalRead >= 1){ count(totalRead);}  
+if(hasCounted){ count(totalRead);}  
+if(hasHitsEOF){ count(totalRead);}  
+if(numToRead >0){ count(totalRead);}  
+if(read){ count(totalRead);}  
+if(full){ count(totalRead);}  
+if(readCalled){ count(totalRead);}  
+if(log.isDebugEnabled()){ count(totalRead);}  
+if(count != 0){ count(totalRead);}  
+if(totalRead<=0){ count(totalRead);}  
+if(readable){ count(totalRead);}  
+if(filter){ count(totalRead);}  
+if(totalRead !=){ count(totalRead);}  
+if(hasMore){ count(totalRead);}  
+if(LOG.isDebugEnabled){ count(totalRead);}  
+if(log.isDebugEnabled){ count(totalRead);}  
+if(totalRead >= len){ count(totalRead);}  
+if(stats != null){ count(totalRead);}  
+if(Trace){ count(totalRead);}  
+if(readMore){ count(totalRead);}  
+if(totalRead < count){ count(totalRead);}  
+if(totalRead>-1){ count(totalRead);}  
+if(hasHitEOF==false){ count(totalRead);}  
+if(LOG.isDebugEnabled()){ count(totalRead);}  
+if(totalRead>= 0){ count(totalRead);}  
+if(VERBOSE){ count(totalRead);}  
+if(buf!=null){ count(totalRead);}  
+if(null != totalRead){ count(totalRead);}  
+if(remaining()==0){ count(totalRead);}  
+if(count(totalRead)){ count(totalRead);}  
+if(totalRead > 1){ count(totalRead);}  
+if(numToRead == -1){ count(totalRead);}  
+if(hasCount){ count(totalRead);}  
+if(totalCount){ count(totalRead);}  
+if(numToRead < 0){ count(totalRead);}  
+if( totalRead > -1){ count(totalRead);}  
+if(totalBytesRead > 0){ count(totalRead);}  
+if(finished){ count(totalRead);}  
+if(totalReads){ count(totalRead);}  
+if(totalRead == 0){ count(totalRead);}  
+if(started){ count(totalRead);}  
+if(totalRead !=-1){ count(totalRead);}  
+if(hitEOF){ count(totalRead);}  
+if(enabled){ count(totalRead);}  
+if(count!=null){ count(totalRead);}  
+if(0 != totalRead){ count(totalRead);}  
+if(progress){ count(totalRead);}  
+if( totalRead >= numToRead){ count(totalRead);}  
+if(0 <= totalRead){ count(totalRead);}  
+if(totalRead==numToRead){ count(totalRead);}  
+if(limitReached){ count(totalRead);}  
+if(totalCount!=0){ count(totalRead);}  
+if(hasReachedLimit){ count(totalRead);}  
+if(totalRead > size){ count(totalRead);}  
+if(contains){ count(totalRead);}  
+if(totalRead < -1){ count(totalRead);}  
+if(totalRead < 1){ count(totalRead);}  
+if(hasMoreElements){ count(totalRead);}  
+if(limit){ count(totalRead);}  
+if(numToRead==0){ count(totalRead);}  
+if(initialized){ count(totalRead);}  
+if(totalReads != -1){ count(totalRead);}  
+if(totalRead > max){ count(totalRead);}  
+if(n > 0){ count(totalRead);}  
+if(totalBytesRead){ count(totalRead);}  
+if(totalRead >= limit){ count(totalRead);}  
+if(totalRead >=){ count(totalRead);}  
+if(totalRead < size){ count(totalRead);}  
+if(totalRead >= numRead){ count(totalRead);}  
+if(totalRead !== -1){ count(totalRead);}  
+if(valid){ count(totalRead);}  
+if(totalRead < len){ count(totalRead);}  
+if(logger.isDebugEnabled){ count(totalRead);}  
+if( numToRead != -1){ count(totalRead);}  
+if(maxEntries){ count(totalRead);}  
+if(totalBytesRead != -1){ count(totalRead);}  
+if(isClosed){ count(totalRead);}  
+if(count==0){ count(totalRead);}  
+if(total read){ count(totalRead);}  
+if(totalCount < numToRead){ count(totalRead);}  
+if(counts){ count(totalRead);}  
+if(currentEntry != null){ count(totalRead);}  
+if(totalCount != 0){ count(totalRead);}  
+if(numToRead > totalRead){ count(totalRead);}  
+if(numToRead <= 0){ count(totalRead);}  
+if(totalRead > count){ count(totalRead);}  
+if(numToRead < totalRead){ count(totalRead);}  
+if(haveReachedEOF){ count(totalRead);}  
+if(cnt){ count(totalRead);}  
+if(totalRead!=EOF){ count(totalRead);}  
+if(cnt > 0){ count(totalRead);}  
+if(hasHitEOF==true){ count(totalRead);}  
+if(maxEntries > 0){ count(totalRead);}  
+if(statsEnabled){ count(totalRead);}  
+if(scanned){ count(totalRead);}  
+if(totalWrite > 0){ count(totalRead);}  
+if(useCount){ count(totalRead);}  
+if(reachedEOF){ count(totalRead);}  
+if(isValid){ count(totalRead);}  
+if(false){ count(totalRead);}  
+if(max){ count(totalRead);}  
+if(size > 0){ count(totalRead);}  
+if(success){ count(totalRead);}  
+if(totalToRead > 0){ count(totalRead);}  
+if(hasHitEOF == true){ count(totalRead);}  
+if(exists){ count(totalRead);}  
+if(currEntry!=null){ count(totalRead);}  
+if(hasHitEOF == false){ count(totalRead);}  
+if(totalRead>numToRead){ count(totalRead);}  
+if(successful){ count(totalRead);}  
+if(hasNext){ count(totalRead);}  
+if(totalCount != 0){ count(totalRead);}  
+if(readEOF){ count(totalRead);}  
+if(isEmpty){ count(totalRead);}  
+if(isDebugEnabled){ count(totalRead);}  
+if(count(totalRead){ count(totalRead);}  
+if(totalRead== -1){ count(totalRead);}  
+if(haveHitEOF){ count(totalRead);}  
+if(totalReading > 0){ count(totalRead);}  
+if(hasReachedEndOfFile){ count(totalRead);}  
+if(maxRead){ count(totalRead);}  
+if(active){ count(totalRead);}  
+if(numRead != -1){ count(totalRead);}  
+if(totalRead>1){ count(totalRead);}  
+if(LOGGER.isDebugEnabled()){ count(totalRead);}  
+if(hasMoreData){ count(totalRead);}  
+if(size() > 0){ count(totalRead);}  
+if(tc.isDebugEnabled()==true){ count(totalRead);}  
+if(count == 0){ count(totalRead);}  
+if(numToRead<0){ count(totalRead);}  
+if(useCounts){ count(totalRead);}  
+if(containsEOF){ count(totalRead);}  
+if(tracer != null){ count(totalRead);}  
+if(isExhausted){ count(totalRead);}  
+if(totalRead > zero){ count(totalRead);}  
+if(hasReached EOF){ count(totalRead);}  
+if(offset != 0){ count(totalRead);}  
+if(totalread > 0){ count(totalRead);}  
+if(totalReading){ count(totalRead);}  
+if(numToRead!=-1){ count(totalRead);}  

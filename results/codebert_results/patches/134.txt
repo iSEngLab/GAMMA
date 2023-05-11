@@ -1,0 +1,500 @@
+if (target!= null && target.getType() == Token.SETPROP) {
+if (target!= null && target.getType() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.GetPROP) {
+if (target!= null && target.getType() == Token.ISSTRING) {
+if (target!= null && target.getType() == Token.ASSTRING) {
+if (target!= null && target.isString() && target.getString()) {
+if (target!= null) { //if (target.getString()!= null) {
+if (target!= null && target.getType()!= Token.GETPROP) {
+if (target!= null && target.getType() == Token.OPTIONS) {
+if (target!= null && target.getType() == Token.ISPROP) {
+if (target!= null && target.getType() == Token.SetPROP) {
+if (target!= null && target.getType() == Token.GetSTRING) {
+if (target!= null && target.getType()!= Token.SETPROP) {
+if (target!= null && target.hasString() && target.getString()) {
+if (target!= null && target.getType() == Token.GETSTRING) {
+if (target!= null && target.getType() == Token.ISREGEXP) {
+if (target!= null && target.getType()!= Token.GetPROP) {
+if (target!= null && target.getType() == Token.ISNODE) {
+if (target!= null && target.getType() == Token.NEWPROP) {
+if (target!= null && target.getType() == Token.ISPUBLIC) {
+if (target!= null && target.getType() == Token.STRING()) {
+if (target!= null && target.getType() == Token.POSTPROP) {
+if (target!= null && target.getType() == Token.SETTARGET) {
+if (target!= null && target.getType() == Token.ATTRIB) {
+if (target!= null && target.getType() == Token.StringPROP) {
+if (target!= null && target.getType() == Token.SETSTRING) {
+if (target!= null && target.getType() == Token.getPROP) {
+if (target!= null && target.getType() == Token.PUTPROP) {
+if (target!= null && target.getName() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.CALLBACK) {
+if (target!= null && target.getType() == Token.SETPROP) {
+if (target!= null && target.getName()!= target.getString()) {
+if (target!= null && target.isFunction() && target.getString()) {
+if (target!= null && target.getType() == Token.SETSTATIC) {
+if (target!= null && target.getType() == Token.ISCLASSNAME) {
+if (target!= null && target.getType() == Token.ISSTATIC) {
+if (target!= null && target.getType() == Token.USEPROP) {
+if (target!= null && target.getType() == Token.STORAGE) {
+if (target!= null && target.getType() == Token.SINGLE) {
+if (target!= null && target.getType() == Token.PROPERTY) {
+if (target!= null) { //if (target.isExprCall()) {
+if (target!= null && target.getType() == Token.MAPPROP) {
+if (target!= null && target.getType() == Token.GETSTATIC) {
+if (target!= null && target.getName() == Token.SETPROP) {
+if (target!= null && target.getType() == Token.STRING_) {
+if (target!= null && target.getType() == Token.ISPURE) {
+if (target!= null && target.getType().equals(functionName)) {
+if (target!= null && target.getType() == Token.EXPROP) {
+if (target!= null && target.getString() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.GETCLASSNAME) {
+if (target!= null && target.getType() == Token.STRETCH) {
+if (target!= null && target.getType() == Token.PREFIX) {
+if (target!= null && target.isString()) //if (target!= target) {
+if (target!= null && target.getType()) == Token.SETPROP) {
+if (target!= null && target.getType() == Token.TYPESTRING) {
+if (target!= null && target.getType() == Token.GETPROP) {
+if (target!= null && target.exists() && target.getString()) {
+if (target!= null && target.getType() == Token.FUNCTION) {
+if (target!= null && target.getType() == Token.JAVA) {
+if (target!= null && target.getType() == Token.CUSTOM) {
+if (target!= null && target.isIdentifier() && target!= target) {
+if (target!= null && target.isIdentifier() && target.getString) {
+if (target!= null && target.getString().equals(functionName) {
+if (target!= null || target.getType() == Token.SETPROP) {
+if (target!= null && target.getType() == Token.GetSTATIC) {
+if (target!= null && target.getType() == Token.DOCUMENT) {
+if (target!= null && target.getType() == Token.NOPOS) {
+if (target!= null && target.getString().equals(functionName)) {
+if (target!= null && target.getType() == Token.COLUMN) {
+if (target!= null && target.getType() == Token.STARTTAG) {
+if (target!= null && target.getType() == Token.GETTARGET) {
+if (target!= null && target.getType() == Token.DECLARE) {
+if (target!= null && target.getName() == Token.GetPROP) {
+if (target!= null && target.getName().equals(functionName)) {
+if (target!= null &&!target.isExprCall(functionName)) {
+if (target!= null && target.getType() == Token.SUPPORTED) {
+if (target!= null && target.getType() == Token.ADDPROP) {
+if (target!= null && target.getString()!= "" && target!= target) {
+if (target!= null && target.getType() == Token.SETTROP) {
+if (target!= null && target.isName() && target.getString()) {
+if (target!= null && target.getType() == Token.COMPACT) {
+if (target!= null && target.getType() == Token.ENDPROP) {
+if (target!= null && target.getType() == Token.LOADPROP) {
+if (target!= null && target.getType() == Token.INTEGER) {
+if (target!= null && target.getType() == Token.STARTING) {
+if (target!= null && target.getType() == Token.GETSTOP) {
+if (target!= null && target.getType().equals("STRING")) {
+if (target!= null && target.isString() && target.getName()) {
+if (target!= null && target.getType() == Token.GENERIC) {
+if (target!= null && target!= target.getNext().getNext(target) {
+if (target!= null && target.getType() == Token.CONSTRUCTOR) {
+if (target!= null && target.getType() == Token.WIDGET) {
+if (target!= null && target.getType() == Token.ASSIGNMENT) {
+if (target!= null && target.getValue() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.getSTRING) {
+if (target!= null) { // if (target.getString()!= null) {
+if (target!= null && target.getType() == Token.IS_CLASS) {
+if (target!= null && target.getType() == Token.GetSTOP) {
+if (target!= null) { //} //if (target.isString()) {
+if (target!= null && target.getType() == Token.SETCLASSNAME) {
+if (target!= null && target.isString() && target.isFunction()) {
+if (target!= null &&!target.isExprCall(functionName))) {
+if (target!= null && target.isString()) //if (target!= null) {
+if (target!= null && target.getType().equals(functionName))) {
+if (target!= null && target.getType() == Token.SET PROP) {
+if (target!= null) { //if(target.getString()!= null) {
+if (target!= null && functionName.equals(target.getString()) {
+if (target!= null && target.getType() == Token.STRINGKEY) {
+if (target!= null) { //else if (target.getString!= null) {
+if (target!= null && target.getType()!= Token.OPTIONS) {
+if (target!= null && target.getType() == Token.GetCLASSNAME) {
+if (target!= null && target.getType() == Token.CASTPROP) {
+if (target!= null && target.getType() == Token.STRING2) {
+if (target!= null && target.getType() == Token.SETTRG) {
+if (target!= null && target.getType() == Token.STRINGTER) {
+if (target!= null && target.getFunction() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.ISSUER) {
+if (target!= null ) { //if (target.getString()!= null) {
+if (target!= null && target.getType() == Token.SETPOP) {
+if (target!= null && target.getType() == Token.SETSTOP) {
+if (target!= null && target.getType() == Token.ISSCRIPT) {
+if (target!= null) { ////if (target.getString!= null) {
+if (target!= null && target.getString() == target.getString()) {
+if (target!= null && target.getType() == Token.OPENTAG) {
+if (target!= null && target.getString()!= null && target!= target) {
+if (target!= null && target.getType() == Token.DOCSTRING) {
+if (target!= null && target.getType() == Token.PATTERN) {
+if (target!= null && target.getType() == Token.PutPROP) {
+if (target!= null && target.nodeType() == Token.SETPROP) {
+if (target!= null && target.hasString()) //if (target!= target) {
+if (target!= null && target.getType() == Token.STARTUP) {
+if (target!= null && target.getType() == Token.PUBLISH) {
+if (target!= null && target.getType() == Token.STRINGLIST) {
+if (target!= null && target.getType() == Token.ISMATCH) {
+if (target!= null && target.getType() == Token.NEWSTRING) {
+if (target!= null && target.getType() == Token.OPENGROUP) {
+if (target!= null && target.getType()) == Token.GETPROP) {
+if (target!= null && target!= null && target.getString!= null) {
+if (target!= null && target.getType() == Token.DESCRIPTOR) {
+if (target!= null && target.hasNext() && target.hasString()) {
+if (target!= null && target.getString()!= target.getString()) {
+if (target!= null && target.getType() == Token.UPLOAD) {
+if (target!= null && target.getType() == Token.ISSCOPE) {
+if (target!= null && target.getType() == Token.DELETE) {
+if (target!= null && target.getType() == Token.ISLINK) {
+if (target!= null &&!target.isNull() && target.getString) {
+if (target!= null && target.getType() == Token.NOSORT) {
+if (target!= null && target.getName() == target.getString()) {
+if (target!= null && target.isString() && target.isClass()) {
+if (target!= null && target.equals(target.getString() )) {
+if (target!= null && target.getType() == Token.PASSWORD) {
+if (target!= null && target.getString() == Target.GETPROP) {
+if (target!= null && target.hasNext() && target.next!= null) {
+if (target!= null && target.getType() == Token.ISECL) {
+if (target!= null) { //} else if (target.isString()) {
+if (target!= null && target.getType() == Token.IDENTIFIER) {
+if (target!= null && target.getValue().equals(functionName)) {
+if (target!= null && functionName.equals(target.getString())) {
+if (target!= null && target.isIdentifier()) { //if (target) {
+if (target!= null && target.isString() && target.getNext()) {
+if (target!= null && target.getString() == Token.GetPROP) {
+if (target!= null && target.getString() == Token.SETPROP) {
+if (target!= null && target.getType() == Token.INTERNAL) {
+if (target!= null && target.isCall() && target.getString()) {
+if (target!= null && target.getType() == Token.STARTNAME) {
+if (target!= null && target.equals(target.getString()))) {
+if (target!= null && target.hasNext()) //if (target!= null) {
+if (target!= null && target.getString().equals(functionName))) {
+if (target!= null && target.getType() == Token.CLOSURE) {
+if (target!= null && target.getType() == Token.STSTOP) {
+if (target!= null && target.getType() == Token.NSSTRING) {
+if (target!= null && target.getType() == Token.XSTRING) {
+if (target!= null && target.getKind() == Token.GETPROP) {
+if (target!= null && target.getName() == Target.GETPROP) {
+if (target!= null && target!= target.getNext().getNext()) {
+if (target!= null && target.getType() == Token.STARTST) {
+if (target!= null && target.isString() && target.isName()) {
+if (target!= null || target.getType() == Token.GETPROP) {
+if (target!= null && target.isNull() && target.getString()) {
+if (target!= null && target.getType() == Token.ISUNKNOWN) {
+if (target!= null && target.nodeType() == Token.GETPROP) {
+if (target!= null && target.isString( ) && target.getString) {
+if (target!= null &&!isExprCall(target.getString())) {
+if (target!= null && target.getType() == Token.COLLECTION) {
+if (target!= null && target.getType() == Token.ASN1) {
+if (target!= null && target.getType() == Token.GetTARGET) {
+if (target!= null && target.isString()) { //} if (target) {
+if (target!= null && target.getType() == Token.SUFFIX) {
+if (target!= null && target.equals(target.getString())) {
+if (target!= null && target.getType() == Token.WIDTH) {
+if (target!= null) { //if (target.equals(functionName) {
+if (target!= null && target.getType()!= Token.ISSTRING) {
+if (target!= null && target.getType() == Token.GETPOP) {
+if (target!= null && target.getType() == Token.ISASSIGN) {
+if (target!= null && target.getType() == Token.STANDARD) {
+if (target!= null && target.getType()!= Token.POSTPROP) {
+if (target!= null && target.getType() == Token.ISSPACE) {
+if (target!= null && target.getType() == Token.ISPLAIN) {
+if (target!= null && target.getType() == Token.VALUEPROP) {
+if (target!= null && target!= target.getNext().getParent()) {
+if (target!= null && target.hasChild() && target.getString()) {
+if (target!= null && target.isString() && target.isCall()) {
+if (target!= null && target.getType() == Token.CLASSPROTO) {
+if (target!= null && target.getType() == Token.ESCRIPT) {
+if (target!= null && target.getType() == Token.NAMEPROP) {
+if (target!= null && target.getType()!= Token.ISPROP) {
+if (target!= null && target.getType() == Token.NPAREN) {
+if (target!= null && target.isString()) { if (target!= null) {
+if (target!= null && target.hasString()) //if (target!= null) {
+if (target!= null && target!= undefined && target.getString!= null) {
+if (target!= null && target.getType() == Token.GETPUBLIC) {
+if (target!= null && target.getType() == Token.ESCALL) {
+if (target!= null && target!= undefined && target.getString()!= null) {
+if (target!= null && target.getType() == Token.EXTENSION) {
+if (target!= null &&!target.isEmpty() && target.getString) {
+if (target!= null) { //if (target.getType() == String) {
+if (target!= null && target!= null && target.getString()!= null) {
+if (target!= null && target.hasNext() && target.next!= target) {
+if (target!= null && target.hasString() && target.isClass()) {
+if (target!= null && target.hasNext() && target.hasNext()) {
+if (target!= null && target.getType() == Token.STSTART) {
+if (target!= null && target.type() == Token.GETPROP()) {
+if (target!= null && target.getName().equals(functionName))) {
+if (target!= null) { //} else { //if (target!= null) {
+if (target!= null && target.getType() == Token.ISLIT) {
+if (target!= null && target.getType() == Token.GETHOOK) {
+if (target!= null && target.getType() == Token.TARGETING) {
+if (target!= null) { //} //} //if (target!= null) {
+if (target!= null && target.getType() == Token.IMPORTANT) {
+if (target!= null && target.getType() == Token.ISSTOP) {
+if (target!= null && target.isString( ) && target!= target) {
+if (target!= null && target.getType() == Token.STRING[]) {
+if (target!= null && target.hasNext() && target.next (target) {
+if (target!= null && target.isIdentifier() && target!= target) {
+if (target!= null && target.getType() == Token.SETSTATEMENT) {
+if (target!= null && target.getType() == Token.CLASSPROP) {
+if (target!= null &&!target.isNull() && target!= target) {
+if (target!= null && target.getType() == Token.STRINGID) {
+if (target!= null && target.isExprCall() && target!= target) {
+if (target!= null && target.getType() == Token.ISNONE) {
+if (target!= null && target.getType() == Token.ISPACE) {
+if (target!= null && target.getType() == Token.TARGETCLASS) {
+if (target!= null && target.getType() == Token.ISPLACE) {
+if (target!= null && target.getType() == Token.SIGINT) {
+if (target!= null && target.getType() == Token.STRINGSTR) {
+if (target!= null && target.getType() == Token.ISMemberName) {
+if (target!= null && target!= target.getNext().getNext().next) {
+if (target!= null && target.hasNext()) //if (target!= target) {
+if (target!= null && target.getString().equals(functionName)+) {
+if (target!= null && target.getType() == Token.GETTRUE) {
+if (target!= null && target.getType() == Token.STRING) {
+if (target!= null && target.getType() == Token.ISCLASS) {
+if (target!= null && target.getType() == Token.GETCLASS) {
+if (target!= null && target.getType() == Token.SETOP) {
+if (target!= null) { //if (target.getString!= null) {
+if (target!= null && target.getType() == Token.OPEN) {
+if (target!= null && target.isString() && target.getString) {
+if (target!= null && target.getType() == Token.SETVALUE) {
+if (target!= null && target.getType() == Token.STOP) {
+if (target!= null && target.isExprCall(functionName)) {
+if (target!= null && target.getType() == Token.PROP) {
+if (target!= null && target.isExprCall(functionName))) {
+if (target!= null && target.getType() == Token.CLASSNAME) {
+if (target!= null && target.isString() && target!= target) {
+if (target!= null && target.getType() == Token.SETProp) {
+if (target!= null && target.getType() == Token.GETFIELD) {
+if (target!= null && target.getType().equals(functionName) {
+if (target!= null && target.getType() == Token.COMMENT) {
+if (target!= null && target.getType() == Token.SETFIELD) {
+if (target!= null && target.getType() == Token.CALL) {
+if (target!= null && target.getType() == Token.SETNAME) {
+if (target!= null && target.getType() == Token.STATIC) {
+if (target!= null && target.getType() == Token.SETCLASS) {
+if (target!= null && target.getType() == Token.GetProp) {
+if (target!= null && target.getType() == Token.COLON) {
+if (target!= null && target.getType() == Token.ASString) {
+if (target!= null && target.getType() == Token.COMMA) {
+if (target!= null && target.getType() == Token.GetCLASS) {
+if (target!= null && target.getType() == Token.SETSTR) {
+if (target!= null && target.getType() == Token.SELF) {
+if (target!= null && target.getType() == Token.SETTER) {
+if (target!= null && target.getString().equals(functionName) {
+if (target!= null && target.hasString() && target.getString) {
+if (target!= null && target.equals(target.getString()) {
+if (target!= null && target.getType() == Token.START) {
+if (target!= null && target.getType() == Token.ASSIGN) {
+if (target!= null && target.getType() == Token.EXPR) {
+if (target!= null && target.getType() == Token.GetProperty) {
+if (target!= null && target.getType() == Token.SETDEF) {
+if (target!= null && target.type() == Token.SETPROP) {
+if (target!= null) { //if (target.isString (target) {
+if (target!= null && target.equals(target.getString())) {
+if (target!= null && target.getType() == Token.GetString) {
+if (target!= null && target.getType() == Token.SETTYPE) {
+if (target!= null && target.getType() == Token.PAREN) {
+if (target!= null && target.getType() == Token.getCLASS) {
+if (target!= null && target.isString() && className == null) {
+if (target!= null && target.getType() == Token.ATTR) {
+if (target!= null && target.getType() == Token.NEWCLASS) {
+if (target!= null && target.getType() == Token.NODE) {
+if (target!= null && target.getType() == Token.CONST) {
+if (target!= null && target.isString()) { //if (target) {
+if (target!= null && target.getType() == Token.ELSE) {
+if (target!= null && target.type() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.ISSTR) {
+if (target!= null && target.getType() == Token.CSV) {
+if (target!= null && target.getType() == Token.TARGET) {
+if (target!= null && target.getType() == Token.HOOK) {
+if (target!= null) { //if (target.isString(target) {
+if (target!= null && target.getType()!= Token.OPEN) {
+if (target!= null) { //if (target.isString ( )) {
+if (target!= null && target.getType() == Token.SUPER) {
+if (target!= null && target.getType()!= Token.STRING) {
+if (target!= null && target.getType() == Token.ISOP) {
+if (target!= null &&!target.isExprCall(parent))) {
+if (target!= null && target.isFunction() && target.getString) {
+if (target!= null) { //if (target.isString( )) {
+if (target!= null && target.isString() && target!= target) {
+if (target!= null && target.getType() == Token.FUNC) {
+if (target!= null && target.getType() == Token.COMMIT) {
+if (target!= null && target.getType() == Token.TITLE) {
+if (target!= null) //if (target.getString()!= null) {
+if (target!= null) { // if (target.getString!= null) {
+if (target!= null && target.getType() == Token.OBJECT) {
+if (target!= null && target!= null && target.getString!= null) {
+if (target!= null && target.hasString() && className == null) {
+if (target!= null && target.nodeType() == Token.STRING) {
+if (target!= null) { //if (target.isIdentifier()) {
+if (target!= null && target.getType() == Token.SetProp) {
+if (target!= null && target.getType() == Token.ISNULL) {
+if (target!= null && target.getName().equals(functionName) {
+if (target!= null && target.getType() == Token.SETSTAT) {
+if (target!= null && target.hasNext() && target!= target) {
+if (target!= null && target.isFunction() && target!= target) {
+if (target!= null && target.getType() == Token.STRING) {
+if (target!= null && target.getType() == Token.SETProperty) {
+if (target!= null && target.getName() == Token.STRING) {
+if (target!= null) { //if(target.getString!= null) {
+if (target!= null && target.isAssignableFrom(parent)) {
+if (target!= null && target.getType() == Token.NUMBER) {
+if (target!= null && target.hasString()) { //if (target) {
+if (target!= null) { //} //if (target!= target) {
+if (target!= null && target.getType() == Token.PURE) {
+if (target!= null && target!= target.getNext().getNext()) {
+if (target!= null &&!target.isExprCall(parent)) {
+if (target!= null && target.getName() == Target.STRING) {
+if (target!= null && target.getType() == Token.SHORT) {
+if (target!= null && target.hasString() && target!= target) {
+if (target!= null && target.getKind() == Token.STRING) {
+if (target!= null && target.getType() == Token.GETVALUE) {
+if (target!= null ) { //if (target.getString!= null) {
+if (target!= null && target.getValue().equals(functionName) {
+if (target!= null && target.getType() == Token.GETTYPE) {
+if (target!= null && target.getType() == Token.SETDATA) {
+if (target!= null) { if (target.getString()!= null) {
+if (target!= null && target.getType() == Token.SETFLAG) {
+if (target!= null && target!= target.getNext().getParent()) {
+if (target!= null && target.getType() == Token.ACCESS) {
+if (target!= null && target.getName()!= target.getString) {
+if (target!= null && target.getType() == Token.SETCOL) {
+if (target!= null && target.getType() == Token.GetFIELD) {
+if (target!= null && target!= undefined && target.getString!= null) {
+if (target!= null && target.getType() == Token.ENUM) {
+if (target!= null && target.getType() == Token.ITEM) {
+if (target!= null) { //} else if (target!= target) {
+if (target!= null && target.getType() == Token.CONSTRUCT) {
+if (target!= null && target.hasNext() && target.getString) {
+if (target!= null && target.getType() == Token.GENERAL) {
+if (target!= null && target.getType() == Token.DECL) {
+if (target!= null && target.getType()!= Token.PROP) {
+if (target!= null && target.getType() == Token.GETNAME) {
+if (target!= null && target.getType() == Token.ESC) {
+if (target!= null && target.getValue() == Token.STRING) {
+if (target!= null && target==null && target.getString!= null) {
+if (target!= null && target.getType() == Token.LOADLOAD) {
+if (target!= null && target.getType() == Token.SCRIPT) {
+if (target!= null && target.getType() == Token.ASSTR) {
+if (target!= null && target.getType() == Token.INSERT) {
+if (target!= null && target.getType() == Token.RETURN) {
+if (target!= null && target.getString() == String.STRING) {
+if (target!= null && target.getType() == Token.METHODNAME) {
+if (target!= null && target.getType() == Token.CLONE) {
+if (target!= null && target.getType() == Token.GetName) {
+if (target!= null && target.getType() == Token.GETSTR) {
+if (target!= null && target.getType() == Token.POP) {
+if (target!= null && target.getType() == Token.GOTO) {
+if (target!= null && target.isName() && target.getString) {
+if (target!= null && target.getType() == Token.WILD) {
+if (target!= null && target.getType() == Token.ISNAME) {
+if (target!= null && target.getType() == Token.GetClass) {
+if (target!= null && target.getType().equals(targetName) {
+if (target!= null && target.getType() == Token.DEFAULT) {
+if (target!= null && target.isAssignableFrom(parent))) {
+if (target!= null && target.isIdentifier() && target!= target) {
+if (target!= null && target.getType() == Token.GETCOL) {
+if (target!= null && target.isIdentifier()) //if (target) {
+if (target!= null && target.getType() == Token.LOADER) {
+if (target!= null && target.isString() && target!= null) {
+if (target!= null && target.getType() == Token.UTF8) {
+if (target!= null && target.getType() == Token.POSTFIX) {
+if (target!= null && target.isString() && target!= source) {
+if (target!= null && target.getType() == Token.OPERTY) {
+if (target!= null && target.getType() == Token.REGEXP) {
+if (target!= null && target.getType() == Token.SETNS) {
+if (target!= null && target.getString() == target.getString) {
+if (target!= null && target.getType() == Token.INDEX) {
+if (target!= null || target.isExprCall(functionName))) {
+if (target!= null && target.isString() && target!= "") {
+if (target!= null) ////if (target.getString!= null) {
+if (target!= null && target.getType() == Token.SETGROUP) {
+if (target!= null && target.getType() == Token.SETPR) {
+if (target!= null || target.isExprCall(functionName)) {
+if (target!= null && target.exists() && target.getString) {
+if (target!= null && target.getType() == Token.EOF) {
+if (target!= null) { //} else if (target!= null) {
+if (target!= null && target.getType() == Token.SETKEY) {
+if (target!= null && target.getType() == Token.SETXXX) {
+if (target!= null && target.type() == Token.GetPROP) {
+if (target!= null && target.isString().equals(functionName) {
+if (target!= null && target.getType() == Token.RESULT) {
+if (target!= null && target.getType() == Token.ATOP) {
+if (target!= null && target.getType() == Token.CHILD) {
+if (target!= null && target.type() == Token.ISSTRING) {
+if (target!= null && target.getType() == Token.ISClass) {
+if (target!= null && target.isString() && target.hasNext) {
+if (target!= null) { //} //if (target!= null) {
+if (target!= null && target.isString()) { //switch (target) {
+if (target!= null && target.getType() == Token.MATCH) {
+if (target!= null && target.getType() == Token.WORD) {
+if (target!= null && target.getType() == Token.NEWLINE) {
+if (target!= null && target.getType() == Token.IMPORT) {
+if (target!= null && target.getType() == Token.ISMember) {
+if (target!= null) { //} //if (target!= target) {
+if (target!= null && target.isString( ) && target!= target) {
+if (target!= null && target.getType() == Token.IMPL) {
+if (target!= null && target.getType() == Token.UNKNOWN) {
+if (target!= null && target.getType() == Token.NOP) {
+if (target!= null && target.getType() == Token.SETUP) {
+if (target!= null && target.getType() == Token.SYSTEM) {
+if (target!= null && target.getType() == Token.SETString) {
+if (target!= null && target.getType() == Token.INTERFACE) {
+if (target!= null && target.getType() == Token.SETMAP) {
+if (target!= null && target.getType() == Token.STATEMENT) {
+if (target!= null && target.getType() == Token.ISFunction) {
+if (target!= null && target.getType() == Token.DOT) {
+if (target!= null && target.getString() == Target.STRING) {
+if (target!= null && target.hasChild() && target.getString) {
+if (target!= null && target.isText() && target.getString) {
+if (target!= null && target.toString().equals(functionName) {
+if (target!= null && target.getType() == Token.SETMETHOD) {
+if (target!= null) { //} else if (target!= target) {
+if (target!= null && target.getType() == Token.UUID) {
+if (target!= null && target.getName() == target.getString) {
+if (target!= null && target.isString()) if (target!= target) {
+if (target!= null && target.getType() == Token.INSTANCE) {
+if (target!= null && target.getName() == Token.CLASSNAME) {
+if (target!= null && target.isNull() && target.getString) {
+if (target!= null) { //if (target.equals(target) {
+if (target!= null && target.getName() == Node.STRING) {
+if (target!= null && target.getType() == Token.ASTEXT) {
+if (target!= null && target.getType() == Token.TYPECLASS) {
+if (target!= null && target.getType() == Token.GETOP) {
+if (target!= null && target.isString()) ////if (target) {
+if (target!= null && target.getString() == Token.STRING) {
+if (target!= null && target.getType() == Token.FINAL) {
+if (target!= null && target.getType() == Token.MSG) {
+if (target!= null && target.getType() == Token.SETNULL) {
+if (target!= null && target.isExprCall("getProp")) {
+if (target!= null && target.getType().equals(target)) {
+if (target!= null && target.getType() == Token.ISNL) {
+if (target!= null && target.getFunction().equals(functionName) {
+if (target!= null && target.getType()!= Token.SETOP) {
+if (target!= null && target.getType() == Token.FIXED) {
+if (target!= null && target.getType() == Token.CSSCLASS) {
+if (target!= null && target.getType()!= Token.CALL) {
+if (target!= null) { ////if (target.isString()) {
+if (target!= null && target.getName() == String.STRING) {
+if (target!= null && target.getType() == Token.SETALL) {
+if (target!= null && target.getType() == Token.ASCLASS) {
+if (target!= null && target.getType() == Token.SROP) {
+if (target!= null && target.getType() == Token.NEWNAME) {
+if (target!= null && target.getType()!= Token.PURE) {
+if (target!= null && target.getType() == Token.HSW) {
+if (target!= null && target.isString() && functionName!= null) {
+if (target!= null && target.getType().equals(targetType) {
+if (target!= null && target.getType() == Token.ASNEW) {
+if (target!= null && target.isLiteral(functionName)) {
+if (target!= null && target.isSpecialType() == Token.CLASS) {
+if (target!= null && target.isNull() && target!= target) {
+if (target!= null && target.getType() == Token.SETLIST) {
+if (target!= null && target.getType()!= Token.STOP) {
+if (target!= null && target.getType() == Token.GETProperty) {
+if (target!= null && target.getType() == Token.SORT) {
+if (target!= null &&!target.isNull() && target!= target) {
+if (target!= null && target.getType() == Token.SPACE) {
+if (target!= null && target.getType() == Token.BYTE) {
+if (target!= null && target.getType() == Token.LOWER) {
+if (target!= null && target.equals(target.getString());) {
+if (target!= null) { //if (target.getName!= null) {
+if (target!= null && target.getType() == Token.SETSTRUCT) {

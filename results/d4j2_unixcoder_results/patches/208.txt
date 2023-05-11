@@ -1,0 +1,2000 @@
+ return null;  
+ //return null;  
+ currentStream = null;  
+ stream;  
+ return currentStream;  
+ inputStream = null;  
+ return getCurrentStream();  
+ InputStream stream = null;  
+ stream = null;  
+ return null;  
+ // return null;  
+ inputStream;  
+ };  
+ //    return null;  
+ this;  
+ --;  
+ current = null;  
+ try;  
+ return this;  
+ read;  
+ //continue;  
+ currentInputStream = null;  
+ eof;  
+ currentPage = 0;  
+ end;  
+ System.out;  
+ // return null;  
+ return getCurrentStream;  
+ currentBlock = null;  
+ currentEntry = null;  
+ close;  
+ //return null;  
+ //return currentStream;  
+ return stream;  
+ head;  
+ internal;  
+ yield;  
+ next;  
+ HEAD;  
+ null;  
+ ...;  
+ init;  
+return null;  
+ // NOPMD;  
+ return inputStream;  
+ lock;  
+ isClosed = true;  
+ start;  
+ eof = true;  
+ getCurrentStream = null;  
+ return 0;  
+ Stream stream = null;  
+ rewind;  
+ //return getCurrentStream;  
+ //System.out;  
+ interrupted;  
+ do;  
+ bytesRead = 0;  
+ hasNext = false;  
+ //     return null;  
+ //eof;  
+ //TODO;  
+ currentStream = inputStream;  
+ reset;  
+ readLine;  
+ mCurrentStream = null;  
+ } else;  
+ ready;  
+ //throw new IllegalStateException;  
+ internalReadObject;  
+ continue;  
+ return openStream;  
+ cursor = 0;  
+ return currentInputStream;  
+ ;  
+ current;  
+ //  return null;  
+ //return this;  
+ // NOSONAR;  
+ break;  
+ return this.stream;  
+ clear;  
+ return reader;  
+ InputStream stream;  
+ initialize;  
+ currentPage = -1;  
+ startLine;  
+ return false;  
+ nextToken;  
+ cursor++;  
+ populated;  
+ isOpen = false;  
+//return null;  
+ done;  
+ //NOSONAR;  
+ //        return null;  
+ ++currentStream;  
+ //	return null;  
+ this = null;  
+ sync;  
+ hasNext = true;  
+ synchronized;  
+ throw new IllegalStateException;  
+ return currStream;  
+ //stream;  
+ finish;  
+ return nextStream;  
+ assert true;  
+ @throws IOException;  
+ open;  
+ cursor;  
+ return -1;  
+ readBuffer;  
+ //try;  
+ ..;  
+ return getCurrentStream();  
+ stream = currentStream;  
+ currentPage = null;  
+ deferredStream = null;  
+ import;  
+ currentStream = this;  
+ super;  
+ return currentEntry;  
+ return CURRENT_STREAM;  
+ returns null;  
+ currentStream = true;  
+ hasNext() = false;  
+ //   return null;  
+ return new ByteArrayInputStream;  
+ nextEntry;  
+ EOF;  
+ readBlock;  
+ mCurrentEntry = null;  
+ return super;  
+ getCurrentStream();;  
+ currentStream = stream;  
+ System.err;  
+ internalInputStream = null;  
+ internalStream = null;  
+ return mCurrentStream;  
+ complete;  
+ 1;  
+ head = null;  
+ readNextEntry();  
+ //      return null;  
+ //break;  
+ begin;  
+ mCurrentBlock = null;  
+ lastEntry = null;  
+ iterator;  
+;  
+ Preconditions;  
+ return;  
+ int bytesRead = 0;  
+ return getNextStream();  
+ currentPage = 1;  
+ readEntry;  
+InputStream stream = null;  
+ synchronized (this);  
+ self;  
+ return getCurrentInputStream();  
+ throw new IllegalStateException();  
+ //import;  
+ return getNextStream;  
+ return previousStream;  
+ readBlock();  
+ ++currentEntry;  
+ // TODO;  
+ currentItem = null;  
+ nextBlock;  
+ --currentStream;  
+ 0;  
+ currentStream = false;  
+ assert this != null;  
+ internalError = true;  
+ nextStream = null;  
+ progress = 0;  
+ InputStream inputStream = null;  
+ //start;  
+InputStream currentStream = null;  
+ isDone = true;  
+ outputStream = null;  
+ internalInputStream;  
+ return eof;  
+ readBuffer = null;  
+ getCurrentStream = true;  
+ return lastStream;  
+ iterator = null;  
+ };  
+ currentStream=null;  
+ input = null;  
+ long bytesRead = 0;  
+ sharedStream = null;  
+ readEntry();  
+ internalError;  
+ //eof = true;  
+ read();  
+ nextEntry = null;  
+ //noinspection unchecked;  
+ hasNextEntry = false;  
+ IOException ioe = null;  
+ currentStream = input;  
+ currentItem = 0;  
+ return nextEntry;  
+ lastStream = null;  
+ //};  
+ InputStream is;  
+ currentFile = null;  
+ hasNext() = true;  
+ return this.inputStream;  
+ return getStream;  
+ InputStream currentStream;  
+ readInputStream;  
+ nextBlock = null;  
+ return current;  
+ return getInputStream();  
+ return currentBlockStream;  
+ return head;  
+ //next;  
+ currentStream = 0;  
+ return getInputStream;  
+ return file;  
+ throw new IOException;  
+ stream = getCurrentStream;  
+ readHeader();  
+ inputStream = currentStream;  
+ getCurrentStream = this;  
+ InputStream is = null;  
+ currentEntry = 0;  
+ readNextEntry;  
+ InputStream current = null;  
+ // return currentStream;  
+ int index = 0;  
+ return mStream;  
+ //noinspection unchecked;  
+ getCurrentStream();  
+ hasNextEntry = true;  
+ //System.err;  
+ return getCurrentInputStream;  
+ return null<mask1> ;  
+ return new ByteArrayInputStream();  
+ nextInputStream = null;  
+ currentStream = reader;  
+ assert this == null;  
+ return _currentStream;  
+ mCurrentEntry = 0;  
+ do { };  
+ //throw new IOException;  
+ private InputStream currentStream;  
+ this<mask1> };  
+ return null; if (deferredBlockStreams.isEmpty()) {  
+ InputStream stream; if (deferredBlockStreams.isEmpty()) {  
+ return null; if (deferredBlockStreams.isEmpty()) {  
+ }; if (deferredBlockStreams.isEmpty()) {  
+ return currentStream; if (deferredBlockStreams.isEmpty()) {  
+ //return null; if (deferredBlockStreams.isEmpty()) {  
+ try; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrentStream(); if (deferredBlockStreams.isEmpty()) {  
+ return null; }; if (deferredBlockStreams.isEmpty()) {  
+ InputStream stream = null; if (deferredBlockStreams.isEmpty()) {  
+ stream; if (deferredBlockStreams.isEmpty()) {  
+ return this; if (deferredBlockStreams.isEmpty()) {  
+ this; if (deferredBlockStreams.isEmpty()) {  
+ inputStream; if (deferredBlockStreams.isEmpty()) {  
+ }; if (deferredBlockStreams.isEmpty()) {  
+ return stream; if (deferredBlockStreams.isEmpty()) {  
+ return inputStream; if (deferredBlockStreams.isEmpty()) {  
+ synchronized; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrentStream(); }; if (deferredBlockStreams.isEmpty()) {  
+ InputStream currentStream; if (deferredBlockStreams.isEmpty()) {  
+}; if (deferredBlockStreams.isEmpty()) {  
+ return this.stream; if (deferredBlockStreams.isEmpty()) {  
+ end; if (deferredBlockStreams.isEmpty()) {  
+ final InputStream stream; if (deferredBlockStreams.isEmpty()) {  
+ return currentInputStream; if (deferredBlockStreams.isEmpty()) {  
+ --; if (deferredBlockStreams.isEmpty()) {  
+ // return null; if (deferredBlockStreams.isEmpty()) {  
+ start; if (deferredBlockStreams.isEmpty()) {  
+ return reader; if (deferredBlockStreams.isEmpty()) {  
+ return currentStream; if (deferredBlockStreams.isEmpty()) {  
+ do; if (deferredBlockStreams.isEmpty()) {  
+return null; if (deferredBlockStreams.isEmpty()) {  
+ ; if (deferredBlockStreams.isEmpty()) {  
+ return openStream; if (deferredBlockStreams.isEmpty()) {  
+ //    return null; if (deferredBlockStreams.isEmpty()) {  
+ ...; if (deferredBlockStreams.isEmpty()) {  
+ currentStream = null; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrentStream; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrentStream() }; if (deferredBlockStreams.isEmpty()) {  
+ Stream stream; if (deferredBlockStreams.isEmpty()) {  
+ yield; if (deferredBlockStreams.isEmpty()) {  
+ 1; if (deferredBlockStreams.isEmpty()) {  
+ return null; }; if (deferredBlockStreams.isEmpty()) {  
+ return thisStream; if (deferredBlockStreams.isEmpty()) {  
+ read; if (deferredBlockStreams.isEmpty()) {  
+ return 0; if (deferredBlockStreams.isEmpty()) {  
+ return nextStream; if (deferredBlockStreams.isEmpty()) {  
+ try; if (deferredBlockStreams.isEmpty()) {  
+ return this.inputStream; if (deferredBlockStreams.isEmpty()) {  
+ System.out; if (deferredBlockStreams.isEmpty()) {  
+ InputStream; if (deferredBlockStreams.isEmpty()) {  
+ next; if (deferredBlockStreams.isEmpty()) {  
+ } else; if (deferredBlockStreams.isEmpty()) {  
+ return false; if (deferredBlockStreams.isEmpty()) {  
+ null; if (deferredBlockStreams.isEmpty()) {  
+ lock; if (deferredBlockStreams.isEmpty()) {  
+ Preconditions; if (deferredBlockStreams.isEmpty()) {  
+ begin; if (deferredBlockStreams.isEmpty()) {  
+ int bytesRead; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrentInputStream(); if (deferredBlockStreams.isEmpty()) {  
+ init; if (deferredBlockStreams.isEmpty()) {  
+InputStream stream; if (deferredBlockStreams.isEmpty()) {  
+ //}; if (deferredBlockStreams.isEmpty()) {  
+ long bytesRead; if (deferredBlockStreams.isEmpty()) {  
+ head; if (deferredBlockStreams.isEmpty()) {  
+ Stream stream = null; if (deferredBlockStreams.isEmpty()) {  
+ return null; } }; if (deferredBlockStreams.isEmpty()) {  
+ //return currentStream; if (deferredBlockStreams.isEmpty()) {  
+ //try; if (deferredBlockStreams.isEmpty()) {  
+ return file; if (deferredBlockStreams.isEmpty()) {  
+ return CURRENT_STREAM; if (deferredBlockStreams.isEmpty()) {  
+ iterator; if (deferredBlockStreams.isEmpty()) {  
+ return currStream; if (deferredBlockStreams.isEmpty()) {  
+ return lastStream; if (deferredBlockStreams.isEmpty()) {  
+ // return null; if (deferredBlockStreams.isEmpty()) {  
+ return getInputStream(); if (deferredBlockStreams.isEmpty()) {  
+ long bytesRead = 0; if (deferredBlockStreams.isEmpty()) {  
+ return currentBlockStream; if (deferredBlockStreams.isEmpty()) {  
+ // }; if (deferredBlockStreams.isEmpty()) {  
+ return this; if (deferredBlockStreams.isEmpty()) {  
+ int bytesRead = 0; if (deferredBlockStreams.isEmpty()) {  
+ String stream; if (deferredBlockStreams.isEmpty()) {  
+ return os; if (deferredBlockStreams.isEmpty()) {  
+ return super; if (deferredBlockStreams.isEmpty()) {  
+ int count; if (deferredBlockStreams.isEmpty()) {  
+ return entryStream; if (deferredBlockStreams.isEmpty()) {  
+ return currentEntry; if (deferredBlockStreams.isEmpty()) {  
+ initialize; if (deferredBlockStreams.isEmpty()) {  
+ path; if (deferredBlockStreams.isEmpty()) {  
+ //; if (deferredBlockStreams.isEmpty()) {  
+ synchronized (this); if (deferredBlockStreams.isEmpty()) {  
+ int i; if (deferredBlockStreams.isEmpty()) {  
+ return fileInputStream; if (deferredBlockStreams.isEmpty()) {  
+ done; if (deferredBlockStreams.isEmpty()) {  
+ return previousStream; if (deferredBlockStreams.isEmpty()) {  
+ readLine; if (deferredBlockStreams.isEmpty()) {  
+ } }; if (deferredBlockStreams.isEmpty()) {  
+ InputStream is; if (deferredBlockStreams.isEmpty()) {  
+ //return null; if (deferredBlockStreams.isEmpty()) {  
+ for; if (deferredBlockStreams.isEmpty()) {  
+ checkState(); if (deferredBlockStreams.isEmpty()) {  
+ checkState; if (deferredBlockStreams.isEmpty()) {  
+ super; if (deferredBlockStreams.isEmpty()) {  
+ return stream; if (deferredBlockStreams.isEmpty()) {  
+; if (deferredBlockStreams.isEmpty()) {  
+ return true; if (deferredBlockStreams.isEmpty()) {  
+ assert true; if (deferredBlockStreams.isEmpty()) {  
+ return mCurrentStream; if (deferredBlockStreams.isEmpty()) {  
+ first; if (deferredBlockStreams.isEmpty()) {  
+ } else; if (deferredBlockStreams.isEmpty()) {  
+ break; if (deferredBlockStreams.isEmpty()) {  
+ return getNextStream(); if (deferredBlockStreams.isEmpty()) {  
+ close; if (deferredBlockStreams.isEmpty()) {  
+ ready; if (deferredBlockStreams.isEmpty()) {  
+ //return this; if (deferredBlockStreams.isEmpty()) {  
+ return nextEntry; if (deferredBlockStreams.isEmpty()) {  
+ ..; if (deferredBlockStreams.isEmpty()) {  
+ eof; if (deferredBlockStreams.isEmpty()) {  
+ InputStream inputStream; if (deferredBlockStreams.isEmpty()) {  
+ return inputStream; if (deferredBlockStreams.isEmpty()) {  
+ Stream; if (deferredBlockStreams.isEmpty()) {  
+ } else; if (deferredBlockStreams.isEmpty()) {  
+ return mStream; if (deferredBlockStreams.isEmpty()) {  
+ while (true); if (deferredBlockStreams.isEmpty()) {  
+ do { }; if (deferredBlockStreams.isEmpty()) {  
+ internal; if (deferredBlockStreams.isEmpty()) {  
+ //TODO; if (deferredBlockStreams.isEmpty()) {  
+ while; if (deferredBlockStreams.isEmpty()) {  
+ do {; if (deferredBlockStreams.isEmpty()) {  
+ return currentBlock; if (deferredBlockStreams.isEmpty()) {  
+ } }; if (deferredBlockStreams.isEmpty()) {  
+ return myInputStream; if (deferredBlockStreams.isEmpty()) {  
+ return _stream; if (deferredBlockStreams.isEmpty()) {  
+ return getInputStream; if (deferredBlockStreams.isEmpty()) {  
+ return outputStream; if (deferredBlockStreams.isEmpty()) {  
+ private InputStream stream; if (deferredBlockStreams.isEmpty()) {  
+ currentStream; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrentInputStream(); }; if (deferredBlockStreams.isEmpty()) {  
+ return current; if (deferredBlockStreams.isEmpty()) {  
+ //System.out; if (deferredBlockStreams.isEmpty()) {  
+ return new ByteArrayInputStream; if (deferredBlockStreams.isEmpty()) {  
+ return mInputStream; if (deferredBlockStreams.isEmpty()) {  
+ 0; if (deferredBlockStreams.isEmpty()) {  
+ return getStream; if (deferredBlockStreams.isEmpty()) {  
+ // NOPMD; if (deferredBlockStreams.isEmpty()) {  
+ ""; if (deferredBlockStreams.isEmpty()) {  
+ IOException e; if (deferredBlockStreams.isEmpty()) {  
+ return input; if (deferredBlockStreams.isEmpty()) {  
+ readBuffer; if (deferredBlockStreams.isEmpty()) {  
+ return delegate; if (deferredBlockStreams.isEmpty()) {  
+ return dataSource; if (deferredBlockStreams.isEmpty()) {  
+ return currentFile; if (deferredBlockStreams.isEmpty()) {  
+ interrupted; if (deferredBlockStreams.isEmpty()) {  
+} else; if (deferredBlockStreams.isEmpty()) {  
+ return new ByteArrayInputStream(); if (deferredBlockStreams.isEmpty()) {  
+ returns null; if (deferredBlockStreams.isEmpty()) {  
+ return -1; if (deferredBlockStreams.isEmpty()) {  
+ return null }; if (deferredBlockStreams.isEmpty()) {  
+ currentPage = 0; if (deferredBlockStreams.isEmpty()) {  
+ //continue; if (deferredBlockStreams.isEmpty()) {  
+ return dataStream; if (deferredBlockStreams.isEmpty()) {  
+ final InputStream currentStream; if (deferredBlockStreams.isEmpty()) {  
+ return; if (deferredBlockStreams.isEmpty()) {  
+ InputStream stream; if (deferredBlockStreams.isEmpty()) {  
+ nextToken; if (deferredBlockStreams.isEmpty()) {  
+ Assert; if (deferredBlockStreams.isEmpty()) {  
+ internalInputStream; if (deferredBlockStreams.isEmpty()) {  
+ return readStream; if (deferredBlockStreams.isEmpty()) {  
+...; if (deferredBlockStreams.isEmpty()) {  
+ resume; if (deferredBlockStreams.isEmpty()) {  
+ return getNextEntry(); if (deferredBlockStreams.isEmpty()) {  
+ return delegateStream; if (deferredBlockStreams.isEmpty()) {  
+ return currentValue; if (deferredBlockStreams.isEmpty()) {  
+ return dstream; if (deferredBlockStreams.isEmpty()) {  
+ return curStream; if (deferredBlockStreams.isEmpty()) {  
+ //  return null; if (deferredBlockStreams.isEmpty()) {  
+ return null<mask1> }; if (deferredBlockStreams.isEmpty()) {  
+ private InputStream currentStream; if (deferredBlockStreams.isEmpty()) {  
+ //	return null; if (deferredBlockStreams.isEmpty()) {  
+ return head; if (deferredBlockStreams.isEmpty()) {  
+ continue; if (deferredBlockStreams.isEmpty()) {  
+ cursor; if (deferredBlockStreams.isEmpty()) {  
+ int index; if (deferredBlockStreams.isEmpty()) {  
+ IOException ioe; if (deferredBlockStreams.isEmpty()) {  
+ InputStream current = null; if (deferredBlockStreams.isEmpty()) {  
+ NOP; if (deferredBlockStreams.isEmpty()) {  
+ return eof; if (deferredBlockStreams.isEmpty()) {  
+ return getNextStream(); }; if (deferredBlockStreams.isEmpty()) {  
+ return buffer; if (deferredBlockStreams.isEmpty()) {  
+ EOF; if (deferredBlockStreams.isEmpty()) {  
+ int count = 0; if (deferredBlockStreams.isEmpty()) {  
+ return _currentStream; if (deferredBlockStreams.isEmpty()) {  
+ for (;;); if (deferredBlockStreams.isEmpty()) {  
+ return headStream; if (deferredBlockStreams.isEmpty()) {  
+ ); if (deferredBlockStreams.isEmpty()) {  
+ HEAD; if (deferredBlockStreams.isEmpty()) {  
+ return getNextStream; if (deferredBlockStreams.isEmpty()) {  
+ } return null; if (deferredBlockStreams.isEmpty()) {  
+ readEntry; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrentInputStream; if (deferredBlockStreams.isEmpty()) {  
+ return null<mask1> ; if (deferredBlockStreams.isEmpty()) {  
+ synchronized; if (deferredBlockStreams.isEmpty()) {  
+} }; if (deferredBlockStreams.isEmpty()) {  
+ readBlock; if (deferredBlockStreams.isEmpty()) {  
+ readInputStream; if (deferredBlockStreams.isEmpty()) {  
+ return this.stream; if (deferredBlockStreams.isEmpty()) {  
+ //     return null; if (deferredBlockStreams.isEmpty()) {  
+ return null; if (deferredBlockStreams.isEmpty()) {  
+ InputStream nextStream; if (deferredBlockStreams.isEmpty()) {  
+ for; if (deferredBlockStreams.isEmpty()) {  
+ return lastEntry; if (deferredBlockStreams.isEmpty()) {  
+ Thread thread; if (deferredBlockStreams.isEmpty()) {  
+ InputStream inputStream = null; if (deferredBlockStreams.isEmpty()) {  
+ return superStream; if (deferredBlockStreams.isEmpty()) {  
+ return 0L; if (deferredBlockStreams.isEmpty()) {  
+ ...; if (deferredBlockStreams.isEmpty()) {  
+ return blockStream; if (deferredBlockStreams.isEmpty()) {  
+ return currentBlockInputStream; if (deferredBlockStreams.isEmpty()) {  
+ //   return null; if (deferredBlockStreams.isEmpty()) {  
+ String path; if (deferredBlockStreams.isEmpty()) {  
+ return InputStream.this; if (deferredBlockStreams.isEmpty()) {  
+ return inputStream; if (deferredBlockStreams.isEmpty()) {  
+ inputStream = null; if (deferredBlockStreams.isEmpty()) {  
+  return null; if (deferredBlockStreams.isEmpty()) {  
+ nextBlock; if (deferredBlockStreams.isEmpty()) {  
+ return getCurrent(); }; if (deferredBlockStreams.isEmpty()) {  
+ while; if (deferredBlockStreams.isEmpty()) {  
+ return getStream(); if (deferredBlockStreams.isEmpty()) {  
+ Iterator i; if (deferredBlockStreams.isEmpty()) {  
+ int index = 0; if (deferredBlockStreams.isEmpty()) {  
+ //return getCurrentStream; if (deferredBlockStreams.isEmpty()) {  
+ return nextInputStream; if (deferredBlockStreams.isEmpty()) {  
+ return in; if (deferredBlockStreams.isEmpty()) {  
+ return nextBlockStream; if (deferredBlockStreams.isEmpty()) {  
+ return dataInputStream; if (deferredBlockStreams.isEmpty()) {  
+ //        return null; if (deferredBlockStreams.isEmpty()) {  
+ return thisInputStream; if (deferredBlockStreams.isEmpty()) {  
+ assert this != null; if (deferredBlockStreams.isEmpty()) {  
+ current = null; if (deferredBlockStreams.isEmpty()) {  
+ } return null; if (deferredBlockStreams.isEmpty()) {  
+ return fileStream; if (deferredBlockStreams.isEmpty()) {  
+ final InputStream; if (deferredBlockStreams.isEmpty()) {  
+ String current = null; if (deferredBlockStreams.isEmpty()) {  
+ } ; if (deferredBlockStreams.isEmpty()) {  
+..; if (deferredBlockStreams.isEmpty()) {  
+ return activeStream; if (deferredBlockStreams.isEmpty()) {  
+ return nextBlock; if (deferredBlockStreams.isEmpty()) {  
+ return _inputStream; if (deferredBlockStreams.isEmpty()) {  
+ int offset; if (deferredBlockStreams.isEmpty()) {  
+} return null; if (deferredBlockStreams.isEmpty()) {  
+if (deferredBlockStreams.isEmpty()) {  
+if (deferredBlockStreams.size() == 0()) {  
+if (deferredBlockStreams.size() == 1()) {  
+if (deferredBlockStreams.empty()) {  
+if (deferredBlockStreams.peek()) {  
+if (deferredBlockStreams.size() > 1()) {  
+if (deferredBlockStreams.hasNext()) {  
+if (deferredBlockStreams.size() < 7()) {  
+if (deferredBlockStreams.size() != 1()) {  
+if (deferredBlockStreams.size == 0()) {  
+if (deferredBlockStreams.size()) {  
+if (deferredBlockStreams.peek().isEmpty()) {  
+if (deferredBlockStreams.size() <= 1()) {  
+if (deferredBlockStreams.size() < 1()) {  
+if (deferredBlockStreams.first()) {  
+if (deferredBlockStreams.getFirst()) {  
+if (deferredBlockStreams.size() <= 0()) {  
+if (deferredBlockStreams.size() > 0()) {  
+if (deferredBlockStreams. isEmpty()) {  
+if (deferredBlockStreams.get(0).isEmpty()) {  
+if (deferredBlockStreams.contains()) {  
+if (deferredBlockStreams.peekFirst()) {  
+if (deferredBlockStreams.first().isEmpty()) {  
+if (deferredBlockStreams.size() < 2()) {  
+if (deferredBlockStreams.getLast()) {  
+if (deferredBlockStreams.size() < 8()) {  
+if (deferredBlockStreams.isPresent()) {  
+if (deferredBlockStreams.peek() == null()) {  
+if (deferredBlockStreams.isEmpty<mask1>.()) {  
+if (deferredBlockStreams.size() == 2()) {  
+if (deferredBlockStreams.size() != 0()) {  
+if (deferredBlockStreams.getFirst().isEmpty()) {  
+if (deferredBlockStreams.containsKey()) {  
+if (deferredBlockStreams.hasNext()) {  
+if (deferredBlockStreams.size() < 3()) {  
+if (deferredBlockStreams.getFirst() == null()) {  
+if (deferredBlockStreams.size() == 7()) {  
+if (deferredBlockStreams.size() === 0()) {  
+if (deferredBlockStreams.size()==0()) {  
+if (deferredBlockStreams.size > 1()) {  
+if (deferredBlockStreams.size == 1()) {  
+if (deferredBlockStreams.size() <= 7()) {  
+if (deferredBlockStreams.peekEmpty()) {  
+if (deferredBlockStreams.isEmpty() && getNextEntry()) {  
+if (deferredBlockStreams.get(0).isClosed()) {  
+if (deferredBlockStreams.peek().hasNext()) {  
+if (deferredBlockStreams.iterator().hasNext()) {  
+if (deferredBlockStreams.containsLast()) {  
+if (deferredBlockStreams.first() == null()) {  
+if (deferredBlockStreams.size() < 5()) {  
+if (deferredBlockStreams.peekLast()) {  
+if (deferredBlockStreams.isLast()) {  
+if (deferredBlockStreams.hasMoreElements()) {  
+if (deferredBlockStreams.size() == 3()) {  
+if (deferredBlockStreams.isNotEmpty()) {  
+if (deferredBlockStreams.peek().isClosed()) {  
+if (deferredBlockStreams.size() < 6()) {  
+if (deferredBlockStreams.size() <= getFirstEntry()) {  
+if (deferredBlockStreams.length == 0()) {  
+if (deferredBlockStreams.poll()) {  
+if (deferredBlockStreams.containsEmpty()) {  
+if (deferredBlockStreams.size() == -1()) {  
+if (deferredBlockStreams.size() == 8()) {  
+if (deferredBlockStreams.containsFirst()) {  
+if (deferredBlockStreams.size().isEmpty()) {  
+if (deferredBlockStreams.size<mask1>.()) {  
+if (deferredBlockStreams.size() < 4()) {  
+if (deferredBlockStreams.containsNext()) {  
+if (deferredBlockStreams.size() == count()) {  
+if (deferredBlockStreams.size()==0()) {  
+if (deferredBlockStreams.isOpen()) {  
+if (deferredBlockStreams.size() <= getNextEntry()) {  
+if (deferredBlockStreams.firstEmpty()) {  
+if (deferredBlockStreams.removeFirst()) {  
+if (deferredBlockStreams.getFirstElement()) {  
+if (deferredBlockStreams.size() == getEntries()) {  
+if (deferredBlockStreams.size() != 7()) {  
+if (deferredBlockStreams.size() < 10()) {  
+if (deferredBlockStreams.size() < getBlockSize()) {  
+if (deferredBlockStreams.size() < 9()) {  
+if (deferredBlockStreams.peeked()) {  
+if (deferredBlockStreams.size() > 7()) {  
+if (deferredBlockStreams.size() <= 8()) {  
+if (deferredBlockStreams.size()==1()) {  
+if (deferredBlockStreams.next()) {  
+if (deferredBlockStreams.isZero()) {  
+if (deferredBlockStreams.size > 0()) {  
+if (deferredBlockStreams.size() < getQueueSize()) {  
+if (deferredBlockStreams.emptyList()) {  
+if (deferredBlockStreams.size() <= 2()) {  
+if (deferredBlockStreams.isNull()) {  
+if (deferredBlockStreams.containsNull()) {  
+if (deferredBlockStreams.firstEntry()) {  
+if (deferredBlockStreams.size() < getEntries()) {  
+if (deferredBlockStreams.first().isClosed()) {  
+if (deferredBlockStreams.peek().isPresent()) {  
+if (deferredBlockStreams.peek().isDone()) {  
+if (deferredBlockStreams.count() == 0()) {  
+if (deferredBlockStreams.size() == getCount()) {  
+if (deferredBlockStreams.size() == 10()) {  
+if (deferredBlockStreams.first().hasNext()) {  
+if (deferredBlockStreams.last()) {  
+if (deferredBlockStreams.size() >= 7()) {  
+if (deferredBlockStreams.nonEmpty()) {  
+if (deferredBlockStreams.size() > 2()) {  
+if (deferredBlockStreams.getSize() == 0()) {  
+if (deferredBlockStreams.size() <= getCurrentStream()) {  
+if (deferredBlockStreams.size() <= getBlockSize()) {  
+if (deferredBlockStreams.last().isEmpty()) {  
+if (deferredBlockStreams.isFirst()) {  
+if (deferredBlockStreams.peekFirst() == null()) {  
+if (deferredBlockStreams.any()) {  
+if (deferredBlockStreams.first().isPresent()) {  
+if (deferredBlockStreams.getLast().isEmpty()) {  
+if (deferredBlockStreams.size() != 2()) {  
+if (deferredBlockStreams.size()!=1()) {  
+if (deferredBlockStreams.isEmpty() && isOpen()) {  
+if (deferredBlockStreams.size() == 5()) {  
+if (deferredBlockStreams.size() <= getOffset()) {  
+if (deferredBlockStreams.firstElement()) {  
+if (deferredBlockStreams.size() != getEntries()) {  
+if (deferredBlockStreams.getFirst().isClosed()) {  
+if (deferredBlockStreams.size() == getFirstEntry()) {  
+if (deferredBlockStreams.containsCurrent()) {  
+if (deferredBlockStreams.size() == 4()) {  
+if (deferredBlockStreams.size() == getBlockSize()) {  
+if (deferredBlockStreams.remove()) {  
+if (deferredBlockStreams.size() <= getCurrentSize()) {  
+if (deferredBlockStreams.peekAll()) {  
+if (deferredBlockStreams.size() <= getCount()) {  
+if (deferredBlockStreams.peekFirst().isEmpty()) {  
+if (deferredBlockStreams.hasPrevious()) {  
+if (deferredBlockStreams.size() <= getEntries()) {  
+if (deferredBlockStreams.size() == 9()) {  
+if (deferredBlockStreams.get(0).hasNext()) {  
+if (deferredBlockStreams.peekMax()) {  
+if (deferredBlockStreams.size() <= getQueueSize()) {  
+if (deferredBlockStreams.size() != getCurrentSize()) {  
+if (deferredBlockStreams.size() < getCount()) {  
+if (deferredBlockStreams.getCount() == 0()) {  
+if (deferredBlockStreams.size() <= 3()) {  
+if (deferredBlockStreams.getFirstEmpty()) {  
+if (deferredBlockStreams.peekAny()) {  
+if (deferredBlockStreams.count()) {  
+if (deferredBlockStreams.size() == null()) {  
+if (deferredBlockStreams.isEmpty() || getNextEntry()) {  
+if (deferredBlockStreams.isEmpty().isEmpty()) {  
+if (deferredBlockStreams.size() < getNextEntry()) {  
+if (deferredBlockStreams.isEmpty().hasNext()) {  
+if (deferredBlockStreams.size() <= getCurrentBlockSize()) {  
+if (deferredBlockStreams.equals()) {  
+if (deferredBlockStreams.getFirst().isPresent()) {  
+if (deferredBlockStreams.size() <= getMaxEntries()) {  
+if (deferredBlockStreams.containsCurrentEntry()) {  
+if (deferredBlockStreams.size() == getQueueSize()) {  
+if (deferredBlockStreams.peekCount()) {  
+if (deferredBlockStreams.size() < getMaxEntries()) {  
+if (deferredBlockStreams.get(0).isNull()) {  
+if (deferredBlockStreams.isEmpty().get()) {  
+if (deferredBlockStreams.get(0).isDone()) {  
+if (deferredBlockStreams.peekInt()) {  
+if (deferredBlockStreams.getLast() == null()) {  
+if (deferredBlockStreams.size() == zero()) {  
+if (deferredBlockStreams.isDone()) {  
+if (deferredBlockStreams.size() === 1()) {  
+if (deferredBlockStreams.getFirstEntry().isEmpty()) {  
+if (deferredBlockStreams.hasEmpty()) {  
+if (deferredBlockStreams.size() < getFirstEntry()) {  
+if (deferredBlockStreams.size() < getDataSize()) {  
+if (deferredBlockStreams.firstEntry().isEmpty()) {  
+if (deferredBlockStreams.size() < getCurrentSize()) {  
+if (deferredBlockStreams.size() < 12()) {  
+if (deferredBlockStreams.contains0()) {  
+if (deferredBlockStreams.size()==1()) {  
+if (deferredBlockStreams.size != 1()) {  
+if (deferredBlockStreams.getFirstEntry()) {  
+if (deferredBlockStreams.size() ==0()) {  
+if (deferredBlockStreams.peekSize()) {  
+if (deferredBlockStreams.size() != 8()) {  
+if (deferredBlockStreams.size() < 11()) {  
+if (deferredBlockStreams.size() < 0()) {  
+if (deferredBlockStreams.size() == getOffset()) {  
+if (deferredBlockStreams.containsEmptyEntry()) {  
+if (deferredBlockStreams.size() <= getDataSize()) {  
+if (deferredBlockStreams.size() != getNextEntry()) {  
+if (deferredBlockStreams.getLastEntry()) {  
+if (deferredBlockStreams.size() < getCurrentBlockSize()) {  
+if (deferredBlockStreams.isEmptyObject()) {  
+if (deferredBlockStreams.get(0).isPresent()) {  
+if (deferredBlockStreams.exists()) {  
+if (deferredBlockStreams.getFirstElement().isEmpty()) {  
+if (deferredBlockStreams.size() > 8()) {  
+if (deferredBlockStreams.keySet().isEmpty()) {  
+if (deferredBlockStreams.head()) {  
+if (deferredBlockStreams.size() != getCurrentBlockSize()) {  
+if (deferredBlockStreams.isEmpty() && hasNext()) {  
+if (deferredBlockStreams.peek().isValid()) {  
+if (deferredBlockStreams.size() == 6()) {  
+if (deferredBlockStreams.isEmpty<mask1>.hasNext()) {  
+if (deferredBlockStreams.size() <= 5()) {  
+if (deferredBlockStreams.getFirstEntry() == null()) {  
+if (deferredBlockStreams.size() <= 10()) {  
+if (deferredBlockStreams.size() < getPageSize()) {  
+if (deferredBlockStreams.size() == one()) {  
+if (deferredBlockStreams.size() is 0()) {  
+if (deferredBlockStreams.size() <= getMaxBlockSize()) {  
+if (deferredBlockStreams.getFirst().hasNext()) {  
+if (deferredBlockStreams.get(0).exists()) {  
+if (deferredBlockStreams.Empty()) {  
+if (deferredBlockStreams.size() == noEntries()) {  
+if (deferredBlockStreams.size() < 16()) {  
+if (deferredBlockStreams.size() != getCount()) {  
+if (deferredBlockStreams.clear()) {  
+if (deferredBlockStreams.size() > 3()) {  
+if (deferredBlockStreams.size<mask7>isEmpty()) {  
+if (deferredBlockStreams.length() == 0()) {  
+if (deferredBlockStreams.isEmptyOrNull()) {  
+if (deferredBlockStreams.size() != 3()) {  
+if (deferredBlockStreams.size() <= getIndex()) {  
+if (deferredBlockStreams.isEmpty() || isOpen()) {  
+if (deferredBlockStreams.size() < 7z()) {  
+if (deferredBlockStreams.get(0).isValid()) {  
+if (deferredBlockStreams.peek().isOpen()) {  
+if (deferredBlockStreams.removeLast()) {  
+if (deferredBlockStreams.values().isEmpty()) {  
+if (deferredBlockStreams.containsCurrentStream()) {  
+if (deferredBlockStreams.containsAny()) {  
+if (deferredBlockStreams.peekOnly()) {  
+if (deferredBlockStreams.pollFirst()) {  
+if (deferredBlockStreams.peek().isNull()) {  
+if (deferredBlockStreams.hasCurrent()) {  
+if (deferredBlockStreams.getEmpty()) {  
+if (deferredBlockStreams.isClosed()) {  
+if (deferredBlockStreams.hasMore()) {  
+if (deferredBlockStreams.isEmpty<mask1>;()) {  
+if (deferredBlockStreams.size < 7()) {  
+if (deferredBlockStreams.hasRemaining()) {  
+if (deferredBlockStreams.size()>1()) {  
+if (deferredBlockStreams.next().isEmpty()) {  
+if (deferredBlockStreams.length == 1()) {  
+if (deferredBlockStreams.getFirstSize()) {  
+if (deferredBlockStreams.sizeEmpty()) {  
+if (deferredBlockStreams.isEmptyArray()) {  
+if (deferredBlockStreams.size isEmpty()) {  
+if (deferredBlockStreams.isEmptyList()) {  
+if (deferredBlockStreams.getNumEntries()) {  
+if (deferredBlockStreams.sizeNull()) {  
+if (deferredBlockStreams.anyMatch()) {  
+if (deferredBlockStreams.containsAll()) {  
+if (deferredBlockStreams.isFull()) {  
+)) {} if ((deferredBlockStreams == null)) {  
+)) {} if (!(getCurrentStream() instanceof InputStream)) {  
+)) {} if (!(deferredBlockStreams.isEmpty())) {  
+)) {} } else if (!(deferredBlockStreams)) {  
+)) {} if ((deferredBlockStreams.isEmpty())) {  
+)) {} else if (!(deferredBlockStreams.isEmpty())) {  
+)) {} if (deferredBlockStreams.isEmpty()) {  
+)) {} if (!(currentEntry)) {  
+)) {} if (!getCurrentStream(true)) {  
+)) {} if (getCurrentStream(false)) {  
+)) {} else if (!(currentEntry)) {  
+)) {} if (getCurrentStream(true)) {  
+)) {} else if ((deferredBlockStreams.isEmpty())) {  
+)) {} if (getCurrentStream(null)) {  
+)) {} if (!getNextEntry(true)) {  
+)) {} if ((deferredBlockStreams == null)) {  
+)) {} } else if (!(currentEntry)) {  
+)) {} if (!getNextEntry(false)) {  
+)) {} if ((getCurrentStream() == null)) {  
+)) {} if (getCurrentStream(0)) {  
+)) {} if (!getCurrentStream(0)) {  
+)) {} if ((currentStream == null)) {  
+)) {} if (!getCurrentStream(false)) {  
+)) {} if (!(currentEntry == null)) {  
+)) {} if (!getNextEntry(0)) {  
+)) {} } else if (!(hasNextEntry())) {  
+)) {} if (!(currentPage)) {  
+)) {} else if (!(getCurrentStream() instanceof InputStream)) {  
+)) {} else if (!getNextEntry(true)) {  
+)) {} if (!getCurrentStream(null)) {  
+)) {} else if (!(hasNextEntry())) {  
+)) {} else if (!getNextEntry(false)) {  
+)) {} if (!getNextEntry(null)) {  
+)) {} if (getNextEntry(false)) {  
+)) {} if (!(hasNextEntry())) {  
+)) {} if (!(deferredBlockStreams instanceof List)) {  
+)) {} else if (!getNextEntry(0)) {  
+)) {} else if ((deferredBlockStreams == null)) {  
+)) {} if (getNextEntry(null)) {  
+)) {} } else if (!getNextEntry(true)) {  
+)) {} if (getNextEntry(0)) {  
+)) {} if ((currentEntry == null)) {  
+)) {} if (!(getCurrentStream() instanceof InputStream)) {  
+)) {} if (!(deferredBlockStreams instanceof LinkedList)) {  
+)) {} if (!(deferredBlockStreams instanceof ArrayList)) {  
+)) {} if (!(currentPage == null)) {  
+)) {} } else if (!getNextEntry(0)) {  
+)) {} else if (deferredBlockStreams.isEmpty()) {  
+)) {} if (!(getCurrentStream() instanceof BufferedReader)) {  
+)) {} if (!getNextEntry(deferredBlockStreams)) {  
+)) {} if (!(getCurrentStream() instanceof FileInputStream)) {  
+)) {} else (getCurrentStream() == null)) {  
+)) {} if (!(currentStream == null)) {  
+)) {} if (!(currentEntry)) {  
+)) {} if (getNextEntry(true)) {  
+)) {} } else if (!hasNextEntry(0)) {  
+)) {} } else if (!getNextEntry(false)) {  
+)) {} else if (!(currentEntry)) {  
+)) {} else if (!(currentEntry == null)) {  
+)) {} if (!getCurrentEntry(0)) {  
+)) {} else if (!getCurrentStream(true)) {  
+)) {} else if (!(getCurrentStream() instanceof InputStream)) {  
+)) {} else if (!(hasNext())) {  
+)) {} if (!getNextEntry()) {  
+)) {} else if (getNextEntry(false)) {  
+)) {} else if ((deferredBlockStreams == null)) {  
+)) {} else if (!(nextEntry)) {  
+)) {} if (!(nextEntry)) {  
+)) {} if (!getNextEntry(getCurrentStream)) {  
+)) {} if (!getCurrentStream(7)) {  
+)) {} else if (getNextEntry(0)) {  
+)) {} if (deferredBlockStreams.isEmpty(0)) {  
+)) {} else if (!getNextEntry(null)) {  
+)) {})) {  
+)) {} else if (!(currentPage)) {  
+)) {} } else if (!(deferredBlockStreams)) {  
+)) {} } else if (!(hasNext())) {  
+)) {} if (!(getCurrentStream() instanceof ByteArrayInputStream)) {  
+)) {} if (!(hasNextEntry()) {  
+)) {} } else if (!getCurrentStream(true)) {  
+)) {}  if ((deferredBlockStreams == null)) {  
+)) {} else if (!getCurrentEntry(0)) {  
+)) {} if (!getCurrentStream(1)) {  
+)) {} if (!getCurrentStream(this)) {  
+)) {} else if (!(hasNextEntry()) {  
+)) {} if (getCurrentStream(this)) {  
+)) {} if ((null == currentStream)) {  
+)) {} else if (getNextEntry(true)) {  
+)) {} else if (getNextEntry(null)) {  
+)) {} if (!(currentBlockStreams.isEmpty())) {  
+)) {} if (!getCurrentEntry(true)) {  
+)) {} else (getNextEntry() == null)) {  
+)) {} if ((deferredBlockStreams != null)) {  
+)) {} if (getCurrentStream(7)) {  
+)) {} if ((currentStream == null)) {  
+)) {} if (getCurrentStream()) {  
+)) {} if (!deferredBlockStreams.isEmpty()) {  
+)) {} if (!getNextEntry(1)) {  
+)) {} })) {  
+)) {} else if (!getCurrentStream(0)) {  
+)) {} } else if (!(hasNextEntry(0)) {  
+)) {} if (isEmpty(deferredBlockStreams)) {  
+)) {} else if ((getNextEntry() == null)) {  
+)) {} if (!getNextEntry(true)) {  
+)) {} } else if (!getCurrentEntry(0)) {  
+)) {} if (getNextEntry()) {  
+)) {} if (!(currentEntry != null)) {  
+)) {} if (!hasNextEntry(getCurrentStream)) {  
+)) {} } else if (!hasNextEntry(true)) {  
+)) {} else if (!getNextEntry(true)) {  
+)) {} else if (!(hasNextEntry())) {  
+)) {} if (!(getCurrentStream(true)) {  
+)) {} if (getCurrentStream(())) {  
+)) {} if (!getCurrentEntry(false)) {  
+)) {} else if (!getCurrentStream(false)) {  
+)) {} if ((getNextEntry() == null)) {  
+)) {} else if ((getCurrentStream() == null)) {  
+)) {} if (!(nextEntry == null)) {  
+)) {} if (!(hasNext())) {  
+)) {} if (!(currentPage)) {  
+)) {} if (!getNextEntry(false)) {  
+)) {} if (!hasNextEntry(deferredBlockStreams)) {  
+)) {} if (!(currentEntry == null)) {  
+)) {} else if (!getNextEntry(0)) {  
+)) {} if (!(currentEntry==null)) {  
+)) {} else if (!getNextEntry()) {  
+)) {} if (!(currentBlock == null)) {  
+)) {} if ((null == getCurrentStream)) {  
+)) {} } else (getNextEntry(0)) {  
+)) {} else if (getCurrentStream(false)) {  
+)) {} } else if (!(currentBlock)) {  
+)) {} else if (getCurrentStream(true)) {  
+)) {} if (!(currentBlockStream instanceof InputStream)) {  
+)) {} else if (!getNextEntry(false)) {  
+)) {} if ((getCurrentStream() == null)) {  
+)) {} else if (!(hasNextEntry)) {  
+)) {} if (!(currentStream instanceof InputStream)) {  
+)) {} } else if (!(nextEntry)) {  
+)) {} } else if (!(hasNextEntry)) {  
+)) {} } else if (!getCurrentStream(0)) {  
+)) {} if (!(getCurrentStream == null)) {  
+)) {} if (!deferredBlockStreams.contains(0)) {  
+)) {} else if ((currentStream == null)) {  
+)) {} else (getNextEntry()) {  
+)) {} if (!(currentStream != null)) {  
+)) {} if (!(deferredBlockStreams.isEmpty())) {  
+)) {} else if (!getCurrentEntry(true)) {  
+)) {} else if (!getNextEntry(deferredBlockStreams)) {  
+)) {} else if ((currentEntry == null)) {  
+)) {} } if ((deferredBlockStreams == null)) {  
+)) {} else if (getCurrentStream(0)) {  
+)) {} if (!(getNextEntry() == null)) {  
+)) {} if (!(getCurrentStream instanceof InputStream)) {  
+)) {} } else if (!getCurrentStream(false)) {  
+)) {} if (getCurrentStream() == null)) {  
+)) {} } else if (!getNextEntry(null)) {  
+)) {} if (!getCurrentStream(true)) {  
+)) {} if (getNextEntry(deferredBlockStreams)) {  
+)) {} if ((currentBlockStream == null)) {  
+)) {} if (!(null != getCurrentStream)) {  
+)) {} if (!(getCurrentStream() == null)) {  
+)) {} else if (!getCurrentStream(true)) {  
+)) {} } else if (getNextEntry(0)) {  
+)) {} else (getNextEntry(0)) {  
+)) {} if (!getNextEntry(0)) {  
+)) {} if (!hasNextEntry(0)) {  
+)) {} if (currentEntry.equals(null)) {  
+)) {} } else if (!hasNextEntry(false)) {  
+)) {} } else (getNextEntry(false)) {  
+)) {} else if (!(hasNext()) {  
+)) {} else if (!getCurrentEntry(false)) {  
+)) {} if (!(getCurrentStream(false)) {  
+)) {} } if (!(deferredBlockStreams instanceof List)) {  
+)) {} } else if (getNextEntry(false)) {  
+)) {} if (!(current == null)) {  
+)) {} if (!getCurrentStream()) {  
+)) {} else (getNextEntry(false)) {  
+)) {} } else if (!(getNextEntry())) {  
+)) {} } else if (!(hasNextEntry()) {  
+)) {} if (!(getCurrentStream(0)) {  
+)) {}  if (!(getCurrentStream() instanceof InputStream)) {  
+)) {} } else if (!(hasNextEntry(true)) {  
+)) {} if (!(getNextEntry() instanceof Entry)) {  
+)) {} if (getCurrentEntry(0)) {  
+)) {} if (currentBlockStreams.isEmpty()) {  
+)) {} if ((deferredBlockStreams==null)) {  
+)) {} } else (getNextEntry(true)) {  
+)) {} else if (getCurrentStream(null)) {  
+)) {} if (currentStream.equals(null)) {  
+)) {} if (getCurrentStream(1)) {  
+)) {} } else if (getNextEntry(true)) {  
+)) {} if (getCurrentStream(null)) {  
+)) {} if (!(getNextEntry() != null)) {  
+)) {} if (getCurrentStream(false)) {  
+)) {} } else if (!getCurrentEntry(true)) {  
+)) {} if (!getNextEntry().isPresent(0)) {  
+)) {} else if (!(deferredBlockStreams instanceof List)) {  
+)) {} } else (getNextEntry(null)) {  
+)) {} if (!(hasNextEntry())) {  
+)) {} if (getCurrentStream(true)) {  
+)) {} if ((currentStream != null)) {  
+)) {} if (!getCurrentEntry(null)) {  
+)) {} if (!getNextEntry(null)) {  
+)) {} else if (getNextEntry()) {  
+)) {} if ((currentEntry == null)) {  
+)) {} } if (!(deferredBlockStreams instanceof LinkedList)) {  
+)) {} else if (!getCurrentStream(null)) {  
+)) {} } else if (getCurrentStream(true)) {  
+)) {} else (getNextEntry(null)) {  
+)) {} } else if (getCurrentStream(false)) {  
+)) {} if (!(currentBlock)) {  
+)) {} else if (!getNextEntry(1)) {  
+)) {} if (!(hasNext()) {  
+)) {} if (!getNextEntry(this)) {  
+)) {} } else { if (!(hasNextEntry)) {  
+)) {} if (!(getCurrentStream() instanceof IOException)) {  
+)) {} if (getNextEntry() == null)) {  
+)) {} else if (!hasNextEntry(deferredBlockStreams)) {  
+)) {} else if (!deferredBlockStreams.isEmpty()) {  
+)) {} else if (!getCurrentEntry(0)) {  
+)) {} else if (!getCurrentStream(0)) {  
+)) {} else if (getNextEntry(0)) {  
+)) {} } else if (getNextEntry(null)) {  
+)) {} if (!getCurrentStream(8)) {  
+)) {} else if (getNextEntry(false)) {  
+)) {} } else if (!(hasNext()) {  
+)) {} else if (!(deferredBlockStreams instanceof LinkedList)) {  
+)) {} } else (getNextEntry()) {  
+)) {} } else if (!getCurrentEntry(false)) {  
+)) {} } else if (!(currentEntry == null)) {  
+)) {} else if (!getCurrentStream(false)) {  
+)) {} if (!(getCurrentStream() instanceof Reader)) {  
+)) {} if (!(getCurrentStream() instanceof DataInputStream)) {  
+)) {} } else if (!(hasNextEntry(false)) {  
+)) {} if (!getNextEntry(currentStream)) {  
+)) {} else if (!getNextEntry(null)) {  
+)) {} } else if (!(deferredBlockStreamsEmpty)) {  
+)) {} } if (!(deferredBlockStreams)) {  
+)) {} if (deferredBlockStreams.isEmpty(1)) {  
+)) {} if (!(getCurrentStream() instanceof BufferedInputStream)) {  
+)) {} } else if (getCurrentStream(0)) {  
+)) {} if (!(getCurrentEntry() instanceof Entry)) {  
+)) {} if (getCurrentStream(deferredBlockStreams)) {  
+)) {} if (getCurrentStream() == null ()) {  
+)) {} else if (getNextEntry(true)) {  
+)) {} else if (!(deferredBlockStreams instanceof List)) {  
+)) {} } else if (getCurrentEntry(0)) {  
+)) {} else if (!(deferredBlockStreams instanceof LinkedList)) {  
+)) {} else if (getCurrentStream(true)) {  
+)) {} else if (!(hasNextEntry()) {  
+if (deferredBlockStreams.isEmpty()) {  
+if (deferredBlockStream.isEmpty()) {  
+if (deferredBlocks.isEmpty()) {  
+if (deferredEntry.isEmpty()) {  
+if (currentBlockStreams.isEmpty()) {  
+if (deferredEntryStream.isEmpty()) {  
+if (deferredEntries.isEmpty()) {  
+if (deferredEntryStreams.isEmpty()) {  
+if (entries.isEmpty()) {  
+if (deferredBlockFiles.isEmpty()) {  
+if (blockStreams.isEmpty()) {  
+if (deferredData.isEmpty()) {  
+if (DeferredBlockStreams.isEmpty()) {  
+if ( deferredBlockStreams.isEmpty()) {  
+if (streams.isEmpty()) {  
+if (deferredBlockstreams.isEmpty()) {  
+if (deferredList.isEmpty()) {  
+if (deferredFileStreams.isEmpty()) {  
+if (deferredBuffer.isEmpty()) {  
+if (deferredBlockBlocks.isEmpty()) {  
+if (deferredDataStreams.isEmpty()) {  
+if (deferredMap.isEmpty()) {  
+if (deferredBlock streams.isEmpty()) {  
+if (deferredBlockEntries.isEmpty()) {  
+if (deferredStreamStreams.isEmpty()) {  
+if (DeferredBlockStream.isEmpty()) {  
+if (blocks.isEmpty()) {  
+if (currentEntry.isEmpty()) {  
+if (this.isEmpty()) {  
+if (deferredQueue.isEmpty()) {  
+if (currentStream.isEmpty()) {  
+if (deferredStream.isEmpty()) {  
+if (deferredBlockData.isEmpty()) {  
+if (deferredEntryList.isEmpty()) {  
+if (buffer.isEmpty()) {  
+if (deferredBlock.isEmpty()) {  
+if (pendingBlockStreams.isEmpty()) {  
+if (deferredBlockProviders.isEmpty()) {  
+if (deferredInputStreams.isEmpty()) {  
+if (deferredBlockSlices.isEmpty()) {  
+if (deferredBlockArrays.isEmpty()) {  
+if (deferredBlockHashes.isEmpty()) {  
+if (deferredDataBlocks.isEmpty()) {  
+if (values.isEmpty()) {  
+if (currentEntries.isEmpty()) {  
+if (deferredBlockSets.isEmpty()) {  
+if (queue.isEmpty()) {  
+if (deferredBlockSize.isEmpty()) {  
+if (blockStream.isEmpty()) {  
+if (deferredBlockLines.isEmpty()) {  
+if (currentBlockStream.isEmpty()) {  
+if (cachedBlockStreams.isEmpty()) {  
+if (deferredBlockInfo.isEmpty()) {  
+if (stack.isEmpty()) {  
+if (deferredBlockSources.isEmpty()) {  
+if (deferredBlockBytes.isEmpty()) {  
+if (data.isEmpty()) {  
+if (deferredStreamList.isEmpty()) {  
+if (deferredBlockKeys.isEmpty()) {  
+if (deferredStreamQueue.isEmpty()) {  
+if (deferredBlockLevels.isEmpty()) {  
+if (streamQueue.isEmpty()) {  
+if (currentBlock.isEmpty()) {  
+if (blockData.isEmpty()) {  
+if (queuedEntries.isEmpty()) {  
+if (queuedBlockStreams.isEmpty()) {  
+if (deferredBlockOffsets.isEmpty()) {  
+if (deferredBlockIndexes.isEmpty()) {  
+if (streamList.isEmpty()) {  
+if (deferred blockStreams.isEmpty()) {  
+if (deferredSubEntries.isEmpty()) {  
+if (deferredBlockLogs.isEmpty()) {  
+if (iterator.isEmpty()) {  
+if (deferredStreamMap.isEmpty()) {  
+if (getNextEntry.isEmpty()) {  
+if (deferredEntryMap.isEmpty()) {  
+if (nextIndex.isEmpty()) {  
+if (deferredBundleStreams.isEmpty()) {  
+if (deferredBlockLists.isEmpty()) {  
+if (cursor.isEmpty()) {  
+if (stream.isEmpty()) {  
+if (deferredValues.isEmpty()) {  
+if (deferredBlockCollections.isEmpty()) {  
+if (deferredblockStreams.isEmpty()) {  
+if (streamMap.isEmpty()) {  
+if (deferredBlockDatas.isEmpty()) {  
+if (deferredBlockBuffers.isEmpty()) {  
+if (deferredHeaderStreams.isEmpty()) {  
+if (block.isEmpty()) {  
+if (getNextEntry().isEmpty()) {  
+if (deferredBlockCodes.isEmpty()) {  
+if (deferredBlockNames.isEmpty()) {  
+if (deferredBlkStreams.isEmpty()) {  
+if (pendingEntries.isEmpty()) {  
+if (deferredDirStreams.isEmpty()) {  
+if (self.isEmpty()) {  
+if (getCurrentBlockStreams.isEmpty()) {  
+if (deferredChain.isEmpty()) {  
+if (log.isEmpty()) {  
+if (deferredBlockInfoStreams.isEmpty()) {  
+if (currentBlocks.isEmpty()) {  
+if (deferredBlockObjects.isEmpty()) {  
+if (deferredBlockBundles.isEmpty()) {  
+if (deferredBlockEncodings.isEmpty()) {  
+if (deferredBlockHeaders.isEmpty()) {  
+if (DeferredEntry.isEmpty()) {  
+if (resolvedBlockStreams.isEmpty()) {  
+if (deferredArray.isEmpty()) {  
+if (deferredBytes.isEmpty()) {  
+if (deferredBlobStreams.isEmpty()) {  
+if (chunks.isEmpty()) {  
+if (initialBlockStreams.isEmpty()) {  
+if (deferredLogStreams.isEmpty()) {  
+if (deferredDataStream.isEmpty()) {  
+if (deferredBlockRanges.isEmpty()) {  
+if (nextEntry.isEmpty()) {  
+if (deferredBlockDefinitions.isEmpty()) {  
+if (deferredBlockInts.isEmpty()) {  
+if (deferredSet.isEmpty()) {  
+if (dstream.isEmpty()) {  
+if (deferredBlockTables.isEmpty()) {  
+if (entryStream.isEmpty()) {  
+if (callbacks.isEmpty()) {  
+if (bufferedBlockStreams.isEmpty()) {  
+if (deferredBlockInfoStream.isEmpty()) {  
+if (deferredBlockDevices.isEmpty()) {  
+if (currentPage.isEmpty()) {  
+if (deferredBlockDirs.isEmpty()) {  
+if (journal.isEmpty()) {  
+if (deferredLock.isEmpty()) {  
+if (deferredDataFiles.isEmpty()) {  
+if (deferredEntrySet.isEmpty()) {  
+if (currentStreams.isEmpty()) {  
+if (head.isEmpty()) {  
+if (deferredChunkStreams.isEmpty()) {  
+if (deferredBlockElements.isEmpty()) {  
+if (deferredSubBlocks.isEmpty()) {  
+if (files.isEmpty()) {  
+if (deferredLog.isEmpty()) {  
+if (deferredBlockUrls.isEmpty()) {  
+if (deferredEntryData.isEmpty()) {  
+if (entry.isEmpty()) {  
+if (logger.isEmpty()) {  
+if (requests.isEmpty()) {  
+if (deferredStreamStack.isEmpty()) {  
+if (deferredBinaryStreams.isEmpty()) {  
+if (deferredZipStream.isEmpty()) {  
+if (deferredListEntry.isEmpty()) {  
+if (deferredBlockShards.isEmpty()) {  
+if (bufferedEntries.isEmpty()) {  
+if (previousEntries.isEmpty()) {  
+if (deferredBlockDataSources.isEmpty()) {  
+if (deferredHead.isEmpty()) {  
+if (deferredPool.isEmpty()) {  
+if (deferredBlockLengths.isEmpty()) {  
+if (activeBlockStreams.isEmpty()) {  
+if (items.isEmpty()) {  
+if (deferredByteStreams.isEmpty()) {  
+if (deferredBlockTransactions.isEmpty()) {  
+if (deferredNodeStreams.isEmpty()) {  
+if (dataBlocks.isEmpty()) {  
+if (pendingBlocks.isEmpty()) {  
+if (lastEntry.isEmpty()) {  
+if (deferredImageStreams.isEmpty()) {  
+if (deferredEntryBlocks.isEmpty()) {  
+if (deferredBlockPools.isEmpty()) {  
+if (streamStack.isEmpty()) {  
+if (deferredBlockChannels.isEmpty()) {  
+if (deferredDatastreams.isEmpty()) {  
+if (deferredBlockServices.isEmpty()) {  
+if (deferredBlockSizeStreams.isEmpty()) {  
+if (deferredDataEntries.isEmpty()) {  
+if (deferredRange.isEmpty()) {  
+if (deferredStreams.isEmpty()) {  
+if (cachedEntries.isEmpty()) {  
+if (deferredBufferStreams.isEmpty()) {  
+if (deferredBlockTags.isEmpty()) {  
+if (Arrays.isEmpty()) {  
+if (deferredSubentries.isEmpty()) {  
+if (iterators.isEmpty()) {  
+if (streamSet.isEmpty()) {  
+if (events.isEmpty()) {  
+if (heads.isEmpty()) {  
+if (deferredStreamSet.isEmpty()) {  
+if (currentData.isEmpty()) {  
+if (deferredStreamStream.isEmpty()) {  
+if (deferredCache.isEmpty()) {  
+if (curBlockStreams.isEmpty()) {  
+if (blockStreamQueue.isEmpty()) {  
+if (blockQueue.isEmpty()) {  
+if (branches.isEmpty()) {  
+if (deferredEntryIterator.isEmpty()) {  
+if (receivedBlockStreams.isEmpty()) {  
+if (deferredBlockIterator.isEmpty()) {  
+if (deferredBlockContainers.isEmpty()) {  
+if (deferredBatch.isEmpty()) {  
+if (deferredBlockPaths.isEmpty()) {  
+if (deferredBucketStreams.isEmpty()) {  
+if (deferreds.isEmpty()) {  
+if (deferredBlockRecords.isEmpty()) {  
+if (deferredByteArrays.isEmpty()) {  
+if (list.isEmpty()) {  
+if (deferredBlockRequests.isEmpty()) {  
+if (deferredBlockBuilders.isEmpty()) {  
+if (previousEntry.isEmpty()) {  
+if (deferredBlockStorage.isEmpty()) {  
+if (deferredBuilder.isEmpty()) {  
+if (dfdBlockStreams.isEmpty()) {  
+if (blockIterator.isEmpty()) {  
+if (journalEntries.isEmpty()) {  
+if (deferredBlockValues.isEmpty()) {  
+if (deferredBlockCalls.isEmpty()) {  
+if (deferredBlockMessages.isEmpty()) {  
+if (deferredItemStreams.isEmpty()) {  
+if (deferredBlockContents.isEmpty()) {  
+if (deferredDirectoryStreams.isEmpty()) {  
+if (deferredBlockViews.isEmpty()) {  
+if (deferredEntryStack.isEmpty()) {  
+if (delegates.isEmpty()) {  
+if (index.isEmpty()) {  
+if (readers.isEmpty()) {  
+if (deferredBlockDirectories.isEmpty()) {  
+if (deferredThreadStreams.isEmpty()) {  
+if (deferredNames.isEmpty()) {  
+if (deferredBlockEvents.isEmpty()) {  
+if (deferredStreamSets.isEmpty()) {  
+if (objects.isEmpty()) {  
+if (deferredBundleStream.isEmpty()) {  
+if (deferredIndex.isEmpty()) {  
+if (DeferredBlockIterator.isEmpty()) {  
+if (deferredBlockChains.isEmpty()) {  
+if (getEntries.isEmpty()) {  
+if (deferredFiles.isEmpty()) {  
+if (blockStreamList.isEmpty()) {  
+if (deferredDStreams.isEmpty()) {  
+if (deferredBlockHandlers.isEmpty()) {  
+if (children.isEmpty()) {  
+if (bufferedData.isEmpty()) {  
+if (deferredBlockInputs.isEmpty()) {  
+if (deferredZipEntries.isEmpty()) {  
+if (offsets.isEmpty()) {  
+if (dirs.isEmpty()) {  
+if (collection.isEmpty()) {  
+if (deferredGetBlockStreams.isEmpty()) {  
+if (deferredEntryEntries.isEmpty()) {  
+if (headers.isEmpty()) {  
+if (deferredBatchStreams.isEmpty()) {  
+if (deferredBlockStacks.isEmpty()) {  
+if (chain.isEmpty()) {  
+if (deferredSubstreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else {return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else { return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else {return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream();} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else { return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else {return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1> };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else { return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else{return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} ;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } //return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else {return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream(); };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1> };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} //return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else { return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream();} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getNextStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  this;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } ;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return deferredBlockStreams;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>};;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>};;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} ;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getNextStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} try;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } try;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } do {;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getNextEntry();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else{return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return deferredBlockStreams;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getNextEntry();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;};;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}else{return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null<mask1>;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  super;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} do {;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else{return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  super.getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream();};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; return getCurrentStream(); };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream(); ;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null<mask1>; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream(); };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream();} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null};;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; }else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  -1;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1> null;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null; } return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return };;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } while(true){;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;)};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;};;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream(); };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getNextStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; return getCurrentStream;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;)};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1> return getCurrentStream(); };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; }  return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} InputStream stream;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>} ;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; return getCurrentStream();};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; };;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return ; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else {return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return currentStream;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;});} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null<mask1>;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}  return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1>;} };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getNextEntry();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;<mask1>};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; }else{return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else {return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getNextStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } InputStream stream;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new ByteArrayInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new ByteArrayInputStream();};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream();} else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;}.;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getNextStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} while(true){;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; return null;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;return null;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new InputStream<mask1>;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null; } return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getNextInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream();} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;<mask1>;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;} else {return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null<mask1>;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream(); };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  super.getCurrentStream();};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  System.in;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return currentStream;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}  return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getNextInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } try {;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return ; } return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;<mask1> return getCurrentStream();};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} try {;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return ;<mask1>;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return ;} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1> null;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getCurrentStream();} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new InputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; } };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else{ return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } else{return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else {return this;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; }return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  currentStream<mask1>;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return ; } return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; }  return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream(); } return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new ByteArrayInputStream();} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return ;};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1> null; };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;}};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return null;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } int count = 0;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}else{return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  getCurrentStream();} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null} return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null ;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  "";} return getCurrentStream(); };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  super.getCurrentStream();} else;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} return getNextEntry;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getNextEntry;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new FileInputStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>; return getCurrentStream();};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;AST#then#Right;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} else return currentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  currentStream;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1>;} } else {;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;}  return getCurrentStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null;} synchronized(this){;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } synchronized(this){;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return ;} return getCurrentStream();;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new FileInputStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } final InputStream stream;;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new InputStream();} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  NULL_STREAM;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null; } return getCurrentStream(); ;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  io;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  NULL;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  reader;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1> };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  };;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  EMPTY_STREAM;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new InputStream{};} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null<mask1> null;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  nextStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  nil;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  superStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  "";;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new ByteArrayInputStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  openStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  new InputStream;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  false;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  eof;} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){return  null };} if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new ArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Arrays; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.emptyList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Arrays.asList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList <>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=streams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList(); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EMPTY_STREAMS; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.emptyList() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Streams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new HashSet; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Collections; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new Vector; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null; return null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=ImmutableList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=this; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Lists.newArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new LinkedList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EMPTY; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new ArrayList() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new IntArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList() } else; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new InputStream[] {}; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=newRequestStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=[]; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.EMPTY_LIST; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=ImmutableList.of; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null } return getCurrentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNextEntry; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamPool; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=ArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openInputStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Lists; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new Stack; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null;} return getCurrentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new InputStream[]{}; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<> (); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=entries; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openInputStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=newArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.emptySet; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Lists.newArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<InputStream>(); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<mask1>null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<InputStream>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedBlockingDeque; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=list; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=loadDeferredBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Stream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=this.deferredBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=nextStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Streams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<>() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ConcurrentLinkedList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createDeferredBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Lists; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new StreamSet; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=stream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openDeferredBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new List; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=currentBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=open; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new ArrayList <>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<InputStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=newRequestStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new InputStream[]; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null<mask1>null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNextStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=ArrayDeque; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=IOUtils; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<>(){ }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=nextEntry; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=deferredBlockStreamsList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=nullAST#assignment_expression#Right return null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Arrays.stream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EmptyStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new WeakArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= streams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ConcurrentArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=initStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createInputStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EMPTY_ARRAY; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new HashMap; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=0; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=List.nil; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections2; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamMap; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=List; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=emptyStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList(); return null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new Streams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList <>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.synchronizedList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=initialBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createInputStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=InputStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=emptyList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNextInputStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=LinkedList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Collections.emptyList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new ArrayList(); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=initBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList() return null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList(); }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getAllStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.emptyList(); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Iterators; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null} return getCurrentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=System.in; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Spliterators; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=blockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<>(){}}; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ConcurrentLinkedDeque; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openFiles; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createStreamList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getCurrentBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getAllStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNextEntry().streams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=blocks; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Arrays; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getAllInputStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList<>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=queue; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList<InputStream>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=emptyStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getDeferredBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=[]; } return getCurrentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList <> (); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections<mask1>null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList<InputStream>(); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamSupplier; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=loadBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EMPTY_LIST; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getAllBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=emptyList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList(); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNextEntry() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.emptyList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=initialStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNextBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= []; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=init; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createInputStreamList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamFactory; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Collections.emptyList() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=synchronized; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList (); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.<InputStream>emptyList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=singletonList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=StreamUtil; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createDeferredStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= EMPTY_STREAMS; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=pool; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=next; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=clearStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= null } return getCurrentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new IntStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=clear; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<?>; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openBlocks; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=ArrayUtils; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNextEntry() return null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EMPTY_STREAM; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=currentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getCurrentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=nextBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamCache; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new ArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= ArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=StreamUtils; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamQueue; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getQueue; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=readStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=deferredInputStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new HashSet; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=StreamList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new InputStream[] { }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=NullInputStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getInputStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=commonBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList()}; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EMPTY_STREAM_LIST; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new HashSet() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedHashSet; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Lists.newArrayList() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getFiles; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNewStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createDeferredStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=values; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=iterator; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamStack; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<mask1> null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new InputStream[] {} }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=previousStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=openBlockStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamProvider; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=loadStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new Vector; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=inputStreamStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ConcurrentHashMap; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList() } else; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new StreamList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=readBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<> (); }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=getNewBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new ArrayList<> (); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new LinkedList() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null;} return currentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=INITIAL_STREAMS; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<>(); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=newRequestBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=NULL_STREAMS; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null<mask1>null; }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new InputStream[] {}; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=open<mask1>null; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=deferredBlockStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayDeque; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList(); } else; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new ArrayList<mask1>; }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=null } return currentStream; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=createBufferedStreams; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList<> (); } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=EMPTY_STREAM_ARRAY; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= Arrays.asList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=new LinkedList<>() }; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=deferredBlockStreamsArrayList; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams= new ArrayList() } else; } if (deferredBlockStreams.isEmpty()) {  
+if(deferredBlockStreams==null){ deferredBlockStreams=Collections.emptyList().iterator; } if (deferredBlockStreams.isEmpty()) {  
+if(isClosed){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStreams.isEmpty()){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == currentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentStream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isClosed()){ if (deferredBlockStreams.isEmpty()) {}  
+if(DEBUG){ if (deferredBlockStreams.isEmpty()) {}  
+if(debug){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==currentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextEntry() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentEntry == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == getCurrentStream()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream()==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentEntry==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(LOG){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentStream != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(current == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStreams==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==getCurrentStream()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream()==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isOpen()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(log.isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(closed){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextEntry()==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null != currentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(isFinished){ if (deferredBlockStreams.isEmpty()) {}  
+if(logger.isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStreams != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStreams == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isEmpty()){ if (deferredBlockStreams.isEmpty()) {}  
+if(false){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentEntry != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(current != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlock != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlock == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==getCurrentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(true){ if (deferredBlockStreams.isEmpty()) {}  
+if(LOG.isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStreams!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(stream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == currentEntry){ if (deferredBlockStreams.isEmpty()) {}  
+if(null != getCurrentStream()){ if (deferredBlockStreams.isEmpty()) {}  
+if(LOGGER.isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream()!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isOpen){ if (deferredBlockStreams.isEmpty()) {}  
+if(hasNext()){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentInputStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(eof){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextEntry == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(hasNextEntry){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextEntry==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(first){ if (deferredBlockStreams.isEmpty()) {}  
+if(isRunning){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == getCurrentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentStream!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlock==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isLoading){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == stream){ if (deferredBlockStreams.isEmpty()) {}  
+if(current==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(LOGGER){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextEntry()!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(stream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isDone){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentEntry!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream() != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockStream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(initialized){ if (deferredBlockStreams.isEmpty()) {}  
+if(null != getCurrentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == currentBlockStream){ if (deferredBlockStreams.isEmpty()) {}  
+if( currentStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredEntry == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isRoot){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextEntry()==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlock){ if (deferredBlockStreams.isEmpty()) {}  
+if(logger){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentInputStream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(Thread.interrupted()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isRunning()){ if (deferredBlockStreams.isEmpty()) {}  
+if(head==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextEntry() != null){ if (deferredBlockStreams.isEmpty()) {}  
+if( getCurrentStream() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(this == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(this==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlock!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredEntry != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(next != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(hasNextEntry()){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextEntry != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentValue == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentPage==0){ if (deferredBlockStreams.isEmpty()) {}  
+if(finished){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentPage == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentBlock() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentEntry){ if (deferredBlockStreams.isEmpty()) {}  
+if(isDone()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getLogger().isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(this.isClosed){ if (deferredBlockStreams.isEmpty()) {}  
+if(stream != null){ if (deferredBlockStreams.isEmpty()) {}  
+if( isOpen()){ if (deferredBlockStreams.isEmpty()) {}  
+if(iterator == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStreams.isEmpty())){ if (deferredBlockStreams.isEmpty()) {}  
+if(current!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if( null == currentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(isStarted){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextEntry==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockInputStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null!=currentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==currentEntry){ if (deferredBlockStreams.isEmpty()) {}  
+if(next == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==stream){ if (deferredBlockStreams.isEmpty()) {}  
+if(inputStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextEntry == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == currentInputStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(eofReached){ if (deferredBlockStreams.isEmpty()) {}  
+if(active){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockStream != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isEndOfStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(isOpen() == false){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentEntry() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(open){ if (deferredBlockStreams.isEmpty()) {}  
+if(Thread.interrupted){ if (deferredBlockStreams.isEmpty()) {}  
+if(isOpen()==false){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentPage != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(readOnly){ if (deferredBlockStreams.isEmpty()) {}  
+if(loggingEnabled){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentPage == 0){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentItem == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredEntry==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextElement == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(log){ if (deferredBlockStreams.isEmpty()) {}  
+if( getNextEntry() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(interrupted){ if (deferredBlockStreams.isEmpty()) {}  
+if(verbose){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockStreams==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(hasMoreElements){ if (deferredBlockStreams.isEmpty()) {}  
+if(head == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentFrame == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentPage==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockStreams == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isEndOfBlock){ if (deferredBlockStreams.isEmpty()) {}  
+if(isLast){ if (deferredBlockStreams.isEmpty()) {}  
+if(logger.isTraceEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(isEndOfFile){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentFile == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentStream!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(running){ if (deferredBlockStreams.isEmpty()) {}  
+if(logger != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==currentBlockStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(next() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isEmpty){ if (deferredBlockStreams.isEmpty()) {}  
+if(firstEntry){ if (deferredBlockStreams.isEmpty()) {}  
+if(streamIsOpen){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(current is null){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextEntry!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null != currentEntry){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockStreams.isEmpty()){ if (deferredBlockStreams.isEmpty()) {}  
+if(null!=getCurrentStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentIsOpen){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==deferredBlockStreams){ if (deferredBlockStreams.isEmpty()) {}  
+if(isCurrent){ if (deferredBlockStreams.isEmpty()) {}  
+if(empty){ if (deferredBlockStreams.isEmpty()) {}  
+if(isInitialized){ if (deferredBlockStreams.isEmpty()) {}  
+if(isInvalid()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentBlock()!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextBlock){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == currentBlock){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredStream == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(inputStream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(hasNext() == false){ if (deferredBlockStreams.isEmpty()) {}  
+if(entry == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentValue==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isEnd){ if (deferredBlockStreams.isEmpty()) {}  
+if(lastEntry == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == currentValue){ if (deferredBlockStreams.isEmpty()) {}  
+if(log.isTraceEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(sync){ if (deferredBlockStreams.isEmpty()) {}  
+if(streamClosed){ if (deferredBlockStreams.isEmpty()) {}  
+if(lastEntry != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isActive){ if (deferredBlockStreams.isEmpty()) {}  
+if(logger!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentPage!=null){ if (deferredBlockStreams.isEmpty()) {}  
+if(LOG_DEBUG){ if (deferredBlockStreams.isEmpty()) {}  
+if(done){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextEntry){ if (deferredBlockStreams.isEmpty()) {}  
+if(iterator==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(null==currentInputStream){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStreams.isEmpty){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentInputStream != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlock is null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isFile){ if (deferredBlockStreams.isEmpty()) {}  
+if(state){ if (deferredBlockStreams.isEmpty()) {}  
+if(tc.isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == currentFile){ if (deferredBlockStreams.isEmpty()) {}  
+if(incremental){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNextBlock() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(current){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlockStream != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isClosed()==false){ if (deferredBlockStreams.isEmpty()) {}  
+if(null!=getCurrentStream()){ if (deferredBlockStreams.isEmpty()) {}  
+if(null == deferredBlockStreams){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextElement != null){ if (deferredBlockStreams.isEmpty()) {}  
+if( isFinished){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentFile != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredBlock != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isPresent){ if (deferredBlockStreams.isEmpty()) {}  
+if(completed){ if (deferredBlockStreams.isEmpty()) {}  
+if(isInvalid){ if (deferredBlockStreams.isEmpty()) {}  
+if(deferredStream != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(LOG.isDebugEnabled){ if (deferredBlockStreams.isEmpty()) {}  
+if(getCurrentInputStream() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getStream() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextBlock == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(head != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentPage){ if (deferredBlockStreams.isEmpty()) {}  
+if(debugMode){ if (deferredBlockStreams.isEmpty()) {}  
+if(isPresent()){ if (deferredBlockStreams.isEmpty()) {}  
+if(isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentBlockInputStream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(getNext() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextBlock != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isActive()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getLogger() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentIndex == 0){ if (deferredBlockStreams.isEmpty()) {}  
+if(isDirectory){ if (deferredBlockStreams.isEmpty()) {}  
+if(waiting){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextStream==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(lastEntry==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentDir){ if (deferredBlockStreams.isEmpty()) {}  
+if(isDebugEnabled){ if (deferredBlockStreams.isEmpty()) {}  
+if(isOpened()){ if (deferredBlockStreams.isEmpty()) {}  
+if(reader==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(nextElement==null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentToken == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(isValid()){ if (deferredBlockStreams.isEmpty()) {}  
+if(disabled){ if (deferredBlockStreams.isEmpty()) {}  
+if(detached){ if (deferredBlockStreams.isEmpty()) {}  
+if(isEof){ if (deferredBlockStreams.isEmpty()) {}  
+if(debugEnabled){ if (deferredBlockStreams.isEmpty()) {}  
+if(peek() == null){ if (deferredBlockStreams.isEmpty()) {}  
+if(currentFrame != null){ if (deferredBlockStreams.isEmpty()) {}  
+if(hasMoreElements()){ if (deferredBlockStreams.isEmpty()) {}  
+if(LOGGER.isTraceEnabled()){ if (deferredBlockStreams.isEmpty()) {}  
+if(getLog().isDebugEnabled()){ if (deferredBlockStreams.isEmpty()) {}  

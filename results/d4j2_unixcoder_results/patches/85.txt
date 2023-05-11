@@ -1,0 +1,2250 @@
+ return subclass;  
+ return subclass; };  
+ return null;  
+ newType = null;  
+ return null; };  
+ return subclass;  
+ return subclass; };  
+ return baseType;  
+ newType = baseType;  
+ return baseType; };  
+ return subclass<mask1> };  
+ newType = subclass;  
+ return subclass<mask1> };  
+ return null;  
+ continue;  
+ return subtype;  
+ return this;  
+ //continue;  
+ newType = this;  
+ break;  
+ return null; };  
+return subclass;  
+ };  
+ return baseType;  
+ return superclass;  
+ //return subclass;  
+ return subtype; };  
+ break;  
+ //return baseType;  
+ //return null;  
+ return baseType; };  
+ return subclass<mask1> };  
+ };  
+ return baseType<mask1> };  
+ return baseType;  
+ null;  
+ throw new UnsupportedOperationException(); };  
+ throw new IllegalArgumentException(); };  
+ return super;  
+ return subType;  
+ newType = super;  
+ return type; };  
+ // NOPMD;  
+ return superclass; };  
+ return baseType<mask1> };  
+return null;  
+ newType = subclass<mask1> };  
+ return baseType; };  
+ return subclass<mask1> return baseType;  
+ ++;  
+ newType = superClass;  
+ newType = baseType<mask1> };  
+ newType = baseType;  
+ // break;  
+ continue;  
+ return this;  
+ return subclass };  
+ //$NON-NLS-1$;  
+ ++count;  
+ newType = superclass;  
+};  
+ return subtype;  
+ return superclass;  
+ return newType; };  
+ return this<mask1> };  
+ newType = subclass;;  
+ // nop;  
+ do;  
+ // do nothing;  
+ //break;  
+ return subclasses;  
+ return subclass<mask1>};  
+ //TODO;  
+return subclass<mask1> };  
+return subclass;;  
+ return superClass;  
+ //newType = null;  
+ return this; };  
+ return subtype;  
+ return clazz; };  
+ ...;  
+ try;  
+return baseType;  
+ //do nothing;  
+ //return subclass; };  
+ return baseType;  
+;  
+break;  
+ return subclass;;  
+ return superClass; };  
+ newType = subclass<mask5>;  
+ // bogus loop;  
+ // continue;  
+ return subclass<mask3>;  
+ newType = baseClass;  
+ return superType;  
+ return subType; };  
+ return subtypes;  
+ ++depth;  
+ return subclass<mask3>};  
+ return newType;  
+ throw new UnsupportedOperationException();;  
+ true;  
+ return clazz;  
+ return baseType<mask1> };  
+ return subclass<mask3> };  
+ newType = null;  
+ return baseType<mask1> };  
+ return subclass<mask1> return this;  
+ newType = baseType;;  
+ new type = null;  
+ // ok;  
+ // fallthrough;  
+ return subtype; };  
+ return subclass<mask1> break;  
+ // okay;  
+ newType = Object.class;  
+continue;  
+ //};  
+ return subclass<mask1> return null;  
+return subclass; };  
+ eof;  
+ // continue;  
+ return subType;  
+ return derivedType;  
+ // return null;  
+ return this; };  
+   return subclass;  
+ // nothing to do;  
+ false;  
+ throw new IllegalArgumentException();  
+ newType = subclass<mask1>};  
+ return Object.class;  
+ return super;  
+ return newType<mask1> };  
+ return superclass; };  
+...;  
+ --;  
+ return Object.class;  
+return subclass<mask1>};  
+ // return subclass;  
+ newType = baseType<mask1> break;  
+ returns null;  
+ return rootType;  
+ //return this;  
+ //noinspection unchecked;  
+++count;  
+ return subclass<mask1> return baseType; };  
+ return base; };  
+ return subclass<mask3> };  
+ ++count;  
+ // fall through;  
+newType = null;  
+ // Nothing to do;  
+ return false; };  
+ //newType = subclass;  
+ newType = subclass<mask1> break;  
+ //return baseType; };  
+ );  
+ return type; };  
+ throw new IllegalArgumentException();;  
+ return baseClass;  
+ newType = baseType<mask1>};  
+ return subClass;  
+ unchecked;  
+ newType = baseType<mask3>;  
+ newType = subtype;  
+ return subtypeOf; };  
+ ++i;  
+//continue;  
+ //panic;  
+ return subclass;};  
+   return subclass; };  
+ return subclass<mask1> continue;  
+ throw new UnsupportedOperationException;  
+ throw new IllegalStateException(); };  
+ panic;  
+ super;  
+ // noop;  
+ return subclass<mask1>};  
+ dummy;  
+ newType = subclass<mask3>;  
+ // return subclass;  
+ // do nothing;  
+ newType=null;  
+ null;  
+   return subclass<mask1> };  
+ return superType;  
+ internal;  
+ exit;  
+ // ignored;  
+ //newType = baseType;  
+ pass;  
+   return null;  
+ ++pos;  
+ // return null;  
+ // NOSONAR;  
+return baseType<mask1> };  
+ //todo;  
+ new Type();  
+ returns baseType;  
+ return new Object(); };  
+ //return baseType;  
+ return subclass<mask1>   };  
+ newType = baseType<mask5>;  
+ //break;  
+ newType;  
+;;  
+return this;  
+ newType = clazz;  
+ newType = subclass;  
+ newType = this;;  
+ return ObjectType;  
+ return subtypeOf;  
+ // bogus;  
+ // break;  
+ return subclass;  };  
+ new type = baseType;  
+ //continue;  
+ return baseType; };  
+ return null<mask1> };  
+ return superClass;  
+ //return null; };  
+ return object; };  
+ return subclass;   };  
+ return false;  
+ return subclass<mask1> baseType;  
+ throws IllegalArgumentException;  
+     return subclass;  
+ baseType = null;  
+ throw new IllegalArgumentException<mask1> };  
+ return baseType<mask1>};  
+ return subclass;};  
+ newType = subType;  
+ return subclass;  };  
+ //do;  
+ newType = this<mask1> };  
+ return subclass<mask1> return superclass;  
+ //do nothing;  
+ return null };  
+ newType = baseType;  
+ subclass = null;  
+ return true; };  
+ //return subclass;  
+return subclass; };  
+ return subclass<mask1> null;  
+ return newType; };  
+ debugger;  
+ throw new NullPointerException(); };  
+ return java.lang.Object;  
+}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+/*package; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ continue; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+break; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return baseType; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+default; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//continue; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+synchronized; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ break; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//return null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+unchecked; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+++count; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+continue; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//return subclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+/* package; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return this; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int index = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+false; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+...; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int count = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return null; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+long serialVersionUID = 1L;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+true; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// continue; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+java.lang.Object; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return baseType; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //continue; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+code; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+do; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass<mask1>}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//TODO; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//return baseType; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int count = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int length = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final JavaType newType;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int index = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask1>;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return baseType; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int size = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//break; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+;;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object<mask1>; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subtype; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+++depth; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+); newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// break; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+internal; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return this; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int count; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+///; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// return subclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+short; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ // NOPMD; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// return null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //return null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int arity = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+/*; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i=0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+rt; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+try; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+/* }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+classes; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return superclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final JavaType baseType;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+..; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ ...; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Internal; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return baseType<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return baseType;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+do {; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int length;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int len = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// fallthrough; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+T; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i=0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subtype; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final JavaType baseType = this; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ignore; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subtype; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final JavaType subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+++counter; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+outer:; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //return subclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+OK; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return super; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+abstract; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+1; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int length = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ try; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Loop; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//return this; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //TODO; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ do; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+.; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int index;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return baseType; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final Type type;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+for; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask1>}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+++index; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// NOPMD; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//newType = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object obj = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return baseType; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final JavaType base = this; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass<mask1>;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+/* default; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+(); newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+end; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i = 1; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ok; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+++i; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int arity = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final TypeBindings bindings;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //break; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//nothing; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+    ; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object newType = subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+--; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+default behavior; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//newType = subclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//noinspection unchecked; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+exit; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int size = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+rty; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int n = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+assert true;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ do {; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ default; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//return subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object subclass = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//todo; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int length = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //return baseType; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int depth = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+java.lang.String; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final Class<?> baseType = this; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+assert subclass != null;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ ++count; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int arity = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return baseType<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int count;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int n = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int arity;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return null;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+/*static; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final Type newType;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return baseType<mask1>}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+long serialVersionUID = 0L;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int len;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int index = 1; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final JavaType base;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object newType = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ continue;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int cnt = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object object = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subtypeOf; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int index = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final JavaType type;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return superclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int pos = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int count = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+java.lang.Class; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int idx = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// return baseType; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object newType;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int subtypeCount = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final int count = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask3> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return baseType<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//newType; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int hashCode = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final Class<?> baseType;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+/* @Override; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+System.out.println; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int i = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass<mask1>; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int nestingLevel = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final Class<?> subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask1> ; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int size = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return null; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return type; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//return baseType<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//throw new UnsupportedOperationException();; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final Object subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ newType = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int depth = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return superclass; }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int subtypeCount = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final Type baseType = this; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final int index = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object newType = subclass<mask1>; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask3>}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int n = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+System.out.println();; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ //noinspection unchecked; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int typeParamCount = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask1>; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int idx = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int loopCount = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int len = 0; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+java.lang.Object<mask1>; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Object newObject = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// newType = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+throw new UnsupportedOperationException();; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//return subclass<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int counter = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int depth = 1;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int count = 1; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return baseType<mask1>}; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+Class<?> superclass = null; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+return subclass<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+int typeParamCount;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+final int i = 0;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ assert true;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+// newType = subclass; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return subclass<mask1> ;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+newType = subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+ return null<mask1> }; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+//newType = subclass;; newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBinding());  
+newType = _fromClass(null, subclass, TypeBindings.emptyList());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTYBindings());  
+newType = _fromClass(null, subclass, TypeBindings.blankBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings()());  
+newType = _fromClass(null, subclass, TypeBindings.emptyClasses());  
+newType = _fromClass(null, subclass, TypeBindings.emptyTypes());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingMap());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_TYPES());  
+newType = _fromClass(null, subclass, TypeBindings.createEmptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyListBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings());());  
+newType = _fromClass(null, subclass, TypeBindings.immutableBindings());  
+newType = _fromClass(null, subclass, TypeBindings.nullBindings());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_BINDINGS());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBinds());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingList());  
+newType = _fromClass(null, subclass, TypeBindings.zeroBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyType());  
+newType = _fromClass(null, subclass, TypeBindings.EmptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyInstances());  
+newType = _fromClass(null, subclass, TypeBindings.clearBindings());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask1>singleton());  
+newType = _fromClass(null, subclass, TypeBindings.none());  
+newType = _fromClass(null, subclass, TypeBindings.emptyList<mask1>emptyList());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY());  
+newType = _fromClass(null, subclass, TypeBindings.fullBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyModifiers());  
+newType = _fromClass(null, subclass, TypeBindings.isEmptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.create<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings();());  
+newType = _fromClass(null, subclass, TypeBindings.empty<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.unchecked());  
+newType = _fromClass(null, subclass, TypeBindings. emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingBindings());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyTypeBindings());  
+newType = _fromClass(null, subclass, TypeBindings.noneBindings());  
+newType = _fromClass(null, subclass, TypeBindings.nil());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingArray());  
+newType = _fromClass(null, subclass, TypeBindings.anonymousBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyList<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingSet());  
+newType = _fromClass(null, subclass, TypeBindings.newType());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask3>singleton());  
+newType = _fromClass(null, subclass, TypeBindings.emptySubtypes());  
+newType = _fromClass(null, subclass, TypeBindings.empty<mask3>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBounds());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingTypes());  
+newType = _fromClass(null, subclass, TypeBindings.singletonBinding());  
+newType = _fromClass(null, subclass, TypeBindings.anyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyAliases());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>}());  
+newType = _fromClass(null, subclass, TypeBindings.nothing());  
+newType = _fromClass(null, subclass, TypeBindings.immutable<mask1>immutableBindings());  
+newType = _fromClass(null, subclass, TypeBindings.singletonBindings());  
+newType = _fromClass(null, subclass, TypeBindings.singleton());  
+newType = _fromClass(null, subclass, TypeBindings.identityBinding());  
+newType = _fromClass(null, subclass, TypeBindings.emptyValues());  
+newType = _fromClass(null, subclass, TypeBindings.incompleteBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyListBinding());  
+newType = _fromClass(null, subclass, TypeBindings.dummyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.noBindings());  
+newType = _fromClass(null, subclass, TypeBindings.identityBindings());  
+newType = _fromClass(null, subclass, TypeBindings.newClass());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings2());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>());  
+newType = _fromClass(null, subclass, TypeBindings.emptyLabels());  
+newType = _fromClass(null, subclass, TypeBindings.singletonType());  
+newType = _fromClass(null, subclass, TypeBindings.objectBindings());  
+newType = _fromClass(null, subclass, TypeBindings.simpleBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBinder());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings().build());  
+newType = _fromClass(null, subclass, TypeBindings.emptySubTypes());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingValues());  
+newType = _fromClass(null, subclass, TypeBindings.rootBindings());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_BOUNDARY());  
+newType = _fromClass(null, subclass, TypeBindings.emptyClassBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyObjects());  
+newType = _fromClass(null, subclass, TypeBindings.emptyConstraints());  
+newType = _fromClass(null, subclass, TypeBindings.noneOf());  
+newType = _fromClass(null, subclass, TypeBindings.emptyInterfaces());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>constructor());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBoundTypes());  
+newType = _fromClass(null, subclass, TypeBindings.emptySubjects());  
+newType = _fromClass(null, subclass, TypeBindings.emptyNulls());  
+newType = _fromClass(null, subclass, TypeBindings.nullBinding());  
+newType = _fromClass(null, subclass, TypeBindings.defaultBindings());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_INSTANCE());  
+newType = _fromClass(null, subclass, TypeBindings.singletons());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>()());  
+newType = _fromClass(null, subclass, TypeBindings.emptyVariables());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_TYPE());  
+newType = _fromClass(null, subclass, TypeBindings.nilType());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_SUBTYPES());  
+newType = _fromClass(null, subclass, TypeBindings.singletonList());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBoundBindings());  
+newType = _fromClass(null, subclass, TypeBindings.instanceOf());  
+newType = _fromClass(null, subclass, TypeBindings.anonymousType());  
+newType = _fromClass(null, subclass, TypeBindings.emptyKinds());  
+newType = _fromClass(null, subclass, TypeBindings.create<mask3>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.constantBindings());  
+newType = _fromClass(null, subclass, TypeBindings.noneType());  
+newType = _fromClass(null, subclass, TypeBindings.optionalBindings());  
+newType = _fromClass(null, subclass, TypeBindings.singletonInstance());  
+newType = _fromClass(null, subclass, TypeBindings.newTypes());  
+newType = _fromClass(null, subclass, TypeBindings.newEmptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.of<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask1>singletonBinding());  
+newType = _fromClass(null, subclass, TypeBindings.infiniteBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBinders());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>synchronized());  
+newType = _fromClass(null, subclass, TypeBindings.borrowed());  
+newType = _fromClass(null, subclass, TypeBindings.emptyWrappers());  
+newType = _fromClass(null, subclass, TypeBindings.noneBinding());  
+newType = _fromClass(null, subclass, TypeBindings.none<mask1>noneBindings());  
+newType = _fromClass(null, subclass, TypeBindings.missingBindings());  
+newType = _fromClass(null, subclass, TypeBindings.newObjectBindings());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_Bindings());  
+newType = _fromClass(null, subclass, TypeBindings.unknownType());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>class());  
+newType = _fromClass(null, subclass, TypeBindings.typeParameters());  
+newType = _fromClass(null, subclass, TypeBindings.getBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyScopes());  
+newType = _fromClass(null, subclass, TypeBindings.emptyClass());  
+newType = _fromClass(null, subclass, TypeBindings.builder());  
+newType = _fromClass(null, subclass, TypeBindings.emptyContracts());  
+newType = _fromClass(null, subclass, TypeBindings.instance());  
+newType = _fromClass(null, subclass, TypeBindings.fullType());  
+newType = _fromClass(null, subclass, TypeBindings.new<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.immutableBinding());  
+newType = _fromClass(null, subclass, TypeBindings.newBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyDefaultBindings());  
+newType = _fromClass(null, subclass, TypeBindings.blankBinding());  
+newType = _fromClass(null, subclass, TypeBindings.nilBinding());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY<mask3>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.of());  
+newType = _fromClass(null, subclass, TypeBindings.this());  
+newType = _fromClass(null, subclass, TypeBindings.closed());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_OBJECTS());  
+newType = _fromClass(null, subclass, TypeBindings.noneBind());  
+newType = _fromClass(null, subclass, TypeBindings.alwaysImmutable());  
+newType = _fromClass(null, subclass, TypeBindings.emptyFields());  
+newType = _fromClass(null, subclass, TypeBindings.create());  
+newType = _fromClass(null, subclass, TypeBindings.none<mask1>none());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(); }());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBinding()());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingPairs());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask3>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.simpleType());  
+newType = _fromClass(null, subclass, TypeBindings.newClasses());  
+newType = _fromClass(null, subclass, TypeBindings.fullTypes());  
+newType = _fromClass(null, subclass, TypeBindings.completeBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyMappings());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_CLASSES());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>Internal());  
+newType = _fromClass(null, subclass, TypeBindings.unsetBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyAccessors());  
+newType = _fromClass(null, subclass, TypeBindings.allBindings());  
+newType = _fromClass(null, subclass, TypeBindings.noneBinds());  
+newType = _fromClass(null, subclass, TypeBindings.factory());  
+newType = _fromClass(null, subclass, TypeBindings.typeBindings());  
+newType = _fromClass(null, subclass, TypeBindings.full());  
+newType = _fromClass(null, subclass, TypeBindings.singletonClass());  
+newType = _fromClass(null, subclass, TypeBindings.immutable<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.noneBound());  
+newType = _fromClass(null, subclass, TypeBindings.emptyAnnotations());  
+newType = _fromClass(null, subclass, TypeBindings.emptyPrimitiveBindings());  
+newType = _fromClass(null, subclass, TypeBindings.build<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyRefs());  
+newType = _fromClass(null, subclass, TypeBindings.emptybindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingsArray());  
+newType = _fromClass(null, subclass, TypeBindings.getEmptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBoundClasses());  
+newType = _fromClass(null, subclass, TypeBindings.unused());  
+newType = _fromClass(null, subclass, TypeBindings.empty bindings());  
+newType = _fromClass(null, subclass, TypeBindings.endOfClass());  
+newType = _fromClass(null, subclass, TypeBindings.blankType());  
+newType = _fromClass(null, subclass, TypeBindings.dummyBinding());  
+newType = _fromClass(null, subclass, TypeBindings.fullBinding());  
+newType = _fromClass(null, subclass, TypeBindings.emptyList()());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBound());  
+newType = _fromClass(null, subclass, TypeBindings.makeEmptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyObjectBindings());  
+newType = _fromClass(null, subclass, TypeBindings.array());  
+newType = _fromClass(null, subclass, TypeBindings.emptyAttributes());  
+newType = _fromClass(null, subclass, TypeBindings.ones());  
+newType = _fromClass(null, subclass, TypeBindings.immutable());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>internal());  
+newType = _fromClass(null, subclass, TypeBindings.newSubtype());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingCollection());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_BOUNDS());  
+newType = _fromClass(null, subclass, TypeBindings.newInstances());  
+newType = _fromClass(null, subclass, TypeBindings.anyType());  
+newType = _fromClass(null, subclass, TypeBindings.newInstance());  
+newType = _fromClass(null, subclass, TypeBindings.dummyType());  
+newType = _fromClass(null, subclass, TypeBindings.nonNull());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingChain());  
+newType = _fromClass(null, subclass, TypeBindings.nullableBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyFacets());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask1>singletonBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyStubs());  
+newType = _fromClass(null, subclass, TypeBindings.emptyStrings());  
+newType = _fromClass(null, subclass, TypeBindings.false());  
+newType = _fromClass(null, subclass, TypeBindings.anyBinding());  
+newType = _fromClass(null, subclass, TypeBindings.full<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyMap());  
+newType = _fromClass(null, subclass, TypeBindings.closedBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyList<mask1>emptyListBindings());  
+newType = _fromClass(null, subclass, TypeBindings.copyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.0());  
+newType = _fromClass(null, subclass, TypeBindings.mergeBindings());  
+newType = _fromClass(null, subclass, TypeBindings.resetBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyContext());  
+newType = _fromClass(null, subclass, TypeBindings.nonEmptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings1());  
+newType = _fromClass(null, subclass, TypeBindings.empty()());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingClasses());  
+newType = _fromClass(null, subclass, TypeBindings.createBindings());  
+newType = _fromClass(null, subclass, TypeBindings.unboundedBindings());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.arrayBindings());  
+newType = _fromClass(null, subclass, TypeBindings.detachedBindings());  
+newType = _fromClass(null, subclass, TypeBindings.newObjectBinding());  
+newType = _fromClass(null, subclass, TypeBindings.nonemptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.anonymous<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.all<mask1>emptyBindings());  
+newType = _fromClass(null, subclass, TypeBindings.nothing to do());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBoxes());  
+newType = _fromClass(null, subclass, TypeBindings.singletonOf());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBeans());  
+newType = _fromClass(null, subclass, TypeBindings.emptyParameters());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingNames());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings())());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>Constructor());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>Type());  
+newType = _fromClass(null, subclass, TypeBindings.EMPTY_BINDINGs());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>Class());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask1>singletonInstance());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingsForType());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>String());  
+newType = _fromClass(null, subclass, TypeBindings.anonymous<mask1>anonymous());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindingStorage());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask3>impl());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings<mask5>());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings()); }());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null());  
+newType = _fromClass(null, subclass, TypeBindings.singleton<mask3>newType());  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), this);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask3> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 0);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), superclass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 1);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask3> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, null, null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), this<mask1> this);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask3> null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> null<mask2> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, true, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask3> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),this);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, null));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),true));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, true));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Types);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> null<mask4> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype<mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), typeBindings););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), ""););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass<mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), -1);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, true));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask3> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass;);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),  true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),0);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),  false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Modifier.PUBLIC);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), typeContext);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null<mask1>null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true;);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), superClass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), thisClass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), topLevelType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),subtype));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType<mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> true<mask2> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, false, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true); });  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),1);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),baseType););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, false));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> true<mask4> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), typeRegistry);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass<mask1> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true); });  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, false, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), thisType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), context);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask2> null<mask3> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), TRUE);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> false<mask2> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), bindings);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), this<mask1> this););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), converter);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), implementation);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), tc);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype of baseType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), registry);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype<mask1> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), superType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), binder);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), TYPES);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 2);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),true, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 0););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), scope);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null,null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtypeOf);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true).);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), "");  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, true, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), types);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true );  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype<mask1> subtype););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), topLevelBindings);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType<mask1> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, false));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), clazz);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 3<mask1> 3););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),   true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, false, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), superclass));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType<mask3> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> false<mask4> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null, null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype.);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask3> false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask2> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), ...);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false;);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), ImmutableList.class);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),subclass););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Types.OBJECT);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), visitor);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), builder);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null <mask1> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType.getBindings()););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null, null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> true<mask4> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, true, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), FALSE);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, null, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask3> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),  null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), clazz;);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),true, true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), typeFactory);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),2);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 0<mask1> 0);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null,null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), thisContext);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null<mask3> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), typeBindings);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype of subclass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), getTypeBindings()););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), containerType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), factory);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),false));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),true, false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclasses);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false); });  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, null));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype<mask1> null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), () -> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1>false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass<mask1> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), this));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), newType<mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), logger);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), this<mask1> this<mask2> this);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype<mask1> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> false<mask2> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), superTypes);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),subtype<mask1>subtype););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Class.class);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask3> null<mask4> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null<mask1>null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Modifier.PRIVATE);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),true<mask1>true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 3);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass<mask1> null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 3););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtypeOf);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), this<mask3> this);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), 0);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Map.class);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false); });  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null, null, true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), order);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), parentType);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), TypesUtil);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), typeParameters);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),subclass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> false<mask4> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true, null));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> null));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false );  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> null<mask6> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType<mask1> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null;);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType<mask3> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), logger));  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, true, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), EMPTY_BINDINGS);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true <mask1> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask3> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseType<mask3> null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype of superclass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),false<mask1>false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false, null, null);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> true<mask4> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),null<mask3>null););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Types.NONE);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), false<mask1> true<mask2> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask1> false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> false<mask2> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), null<mask3> null); });  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subtype of base type);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), subclass<mask1> false););  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask2> true<mask3> true);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Types.NULL);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), typeParamCount);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), baseClass);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask3> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), true<mask1> true<mask2> false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Types.UNKNOWN);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(),false, false);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), TYPE_FACTORY);  
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings(), Boolean.TRUE);  
+newType = _fromClass(null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(this,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(true,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(subclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(false,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask2>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(0,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(rawBase,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(nil,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(base<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null, null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(this<mask1>this,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(this<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass, null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(base<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(1,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass( null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(rawBase<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(clazz<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(NULL,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(Object.class,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(subclass<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(super,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null) ;,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(rawBase<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,subclass),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null, subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null, null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(newType<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseClass<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(rootType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null,null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null) ;,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(registry,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,false);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,false,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(this<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null, null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(java.lang.Object,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(superClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass, null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(superclass<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(impl,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseClass<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(obj,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(superclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null,subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(self,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(bean,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null, subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(this<mask3>this,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass, true);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(root<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass,true);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(typeRegistry,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>false,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(newType<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,true);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(klass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass( null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>baseType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseTypes,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(object<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(type<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,0,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>},null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>this,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, false);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(nil),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, true);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(superclass<mask1>superclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subtype),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, superclass),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(undefined,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass,null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(BaseClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(cls,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,superClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, type),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>true,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(thisType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask1>subclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,  null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(obj<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,false),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(builder,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>subclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseObject,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType<mask3>},null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,nil),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,null);},null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,superClass),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(base,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask5>,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(super<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass,false);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null<mask2>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(types<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(topLevelType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,  null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, false,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(BaseClass<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,baseType<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, clazz);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(logger,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subtype),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,true),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(beanType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,false);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask1>baseType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(newType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,null){,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass, null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(types,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, class),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>0,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(2,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(wrapperType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,true);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>super,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass, false);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(this,null,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null<mask1>subclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(subclass<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,null );,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(rootClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(superType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(clazz<mask1>clazz,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(primitive<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null){,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(plain<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(className,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(Object.class<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,baseType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, nil),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(nilType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseType<mask2>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, this),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null ),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(tc<mask1>tc,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseclass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(context,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(Object.class<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,class),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask1>null, subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, false);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(None,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(internal<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null,subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(runtime,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,baseType);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(root<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(body,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(engine<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,type),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(internal,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(b<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null ),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(typeContext,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(wrapperClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null;,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask1>null,subclass);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass);},null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseClassName,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(base<mask1>base,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null<mask2>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,this),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,true,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, baseType<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(thisClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(AbstractType<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, subclass),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(nil<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(root,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(wrapper,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, baseType);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, clazz),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null, null );,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(subject,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(oldType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, true),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,  null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass<mask1>baseType,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, true);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(abc,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(getBaseType<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null <mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(root<mask1>root,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(klass<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(logger<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(b,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(baseName,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>class,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, null<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(class<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, subclass,true);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(abstract,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,null,false),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,subclass<mask3>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null, null),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(beanClass,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null,object<mask1>null,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null, subclass);},null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(this,null);,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null<mask3>null;,null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass("",null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(null, false),null, subclass, TypeBindings.emptyBindings());  
+newType = _fromClass(3,null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  newType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1> subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return subclass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  newType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  this; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  clazz;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return BaseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  type;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  BaseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1> null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  newType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  nil;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  type; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  false; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superTypes;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superclass type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return BaseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1> subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  base;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ;};;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return BaseClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subtype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  base type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  NULL;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask3>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superclass.;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ;},;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1> null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superclasses;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  new Type();} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1>; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  newType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  clazz;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  rootType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  true; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  UNKNOWN;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1> subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1> superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subtypes;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super(); };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  undefined;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return base;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClazz;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subtype of baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  new Type();;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  base; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return   null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType; };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  newType<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>impl;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super();};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  thisType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  "";};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superTypes;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return base; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return newType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super(subclass);};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return          null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  ;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null; };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  clazz; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  root;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return ;<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return          null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  EMPTY;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  parent;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  this;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super();;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;   };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  wrapper;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  false;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return nil;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return this; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return [];};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>Object;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  false;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superClazz;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super types;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null; } ;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  defaultValue;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return },;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>...;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;AST#return_statement#Right};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  implementation;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  new Type(); };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return [];;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  void;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask3>this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  ObjectType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask3>1;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask4> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>};;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return subtype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null<mask1> null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return BaseClass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return                  null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  super class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  unknownType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask1> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  newType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null;<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;   };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType;<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  baseType<mask2> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return baseType<mask3>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  subclass<mask1>subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  superclass<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(newType==null){return  null;}.;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return ;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  this; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return ;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  newType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return BaseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  newType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return null<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  BaseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  type;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  clazz;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return ; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return BaseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return subclass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superTypes;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  super; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  type; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  super;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  thisType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  nil;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return ;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;AST#return_statement#Right};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>Class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return BaseClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return null;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return base;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask1>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  base type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subtype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superclasses;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return base; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  newType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  base;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>return baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  false; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  NULL;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>Object;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1> null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  super type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask1>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  super Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  clazz;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return newType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1> subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType; };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>constructor;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return ;},;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superclass.;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  ObjectType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  base; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  this<mask1> this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  EMPTY;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subtype of baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  this;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;   };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return   null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return this; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return null<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  new Type();} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask1>baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask1> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClazz;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask4> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  this;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>impl;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superTypes;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return superclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superclass type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return ;};;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  this<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  true; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask2> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>types;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>Internal;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  basicType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask1> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  PrimitiveType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  undefined;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask1>; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>internal;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return getBaseType();} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;AST#return_statement#Right};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null;<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return this;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  supertype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1> subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  new Type();;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  newType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  rootType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  root;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return newType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>of;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  self;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  object;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subtype of null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>/*;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  UNKNOWN;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>newType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>...;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  wrapperType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType;  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  wrapper;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  super<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;}.;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return subtype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseType<mask1>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType; } ;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  superClazz;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return baseClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return },;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  implementation;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return nil;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>String;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask4> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask2> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask3>abstract;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return [];;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return getBaseType();};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return }.;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType;<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType; } };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  unknownType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1> this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  void;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  subclass<mask1>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  null;<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){return  baseType<mask1>null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return subclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1> subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return null; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return subclass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  this; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  newType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return BaseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  type;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  BaseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  clazz;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  newType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return null;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  type; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  base type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superTypes;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  false; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return BaseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  base;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask3>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return null;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclasses;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  nil;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subtype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return BaseClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  base; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return null<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass.;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1> subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1> superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superClass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return null<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  new Type();} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super();;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1>;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super(); };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  this<mask1> this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subtypes;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super Type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return base; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  new Type();;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  NULL;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  true; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ;},;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  clazz;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType<mask3>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return superclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  undefined;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  thisType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ;};;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return base;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  this;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  EMPTY;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superClazz;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  rootType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super types;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return this; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superTypes;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  wrapper;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subtype of baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superClass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super();};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  ObjectType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  mixins;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>...;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType; };;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1>null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return   null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ;<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  UNKNOWN;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return [];;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  basetype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>impl;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>1;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return newType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  base class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  this<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>types;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  clazz; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>Object;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>else;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  unknownType;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  NotImplemented;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask4> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>super;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return BaseClass; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3> };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  root;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  this;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return superClass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  cls;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>Object;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return subtype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  super<mask3>};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  false;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType<mask1>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>base;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  implementation;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask1> this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  TypeError;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  false;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType<mask3>baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  type;};} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclasses;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  self;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ; };} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  cls;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  ;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>Class;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  void;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>RuntimeException;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ;<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>Exception;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superClazz;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>constructor;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass of baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>BaseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  basis;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return false;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseName;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  parent;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  subclass<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType;<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass<mask1>;;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask1>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  nothing;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null<mask3>this;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  types;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  object;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return },;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask2> baseType;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  null;<mask3>;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  new Object();;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return Subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return baseType<mask3>type;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  0;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return ..;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return subclass<mask1>subclass;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return nil;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return }.;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  factory;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  prototype;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  baseType<mask3>/*;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  defaultValue;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return [];} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  none;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  superclass<mask1> null;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  remainder;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(TypeBindings==null){return  true;} newType = _fromClass(null, subclass, TypeBindings.emptyBindings());  
+if(subclass==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(DEBUG){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict<mask3>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass!=null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(DEBUG<mask3>DEBUG){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictMode){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debug<mask1>debug){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(logger.isDebugEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict<mask1>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclasses){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask1>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==Object.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask1>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype!=null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictTypes){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(recurse){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(trace<mask1>trace){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(newType==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict==false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debug){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == Object.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(newType == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(verbose){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isPrimitive()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass.isPrimitive()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(DEBUG<mask1>DEBUG){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictParsing){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(log.isDebugEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype == null<mask1>subtype){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(rawBase == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isEmpty()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(false<mask3>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debugMode){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict==true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(base==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(base == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(false<mask3>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(true<mask1>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass != null)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(TraceKit.isDebugEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype != null)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(TraceKit.isEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype==null<mask1>subtype){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isInterface()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(trace){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass != null;){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass!=null<mask1>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype<mask1>subtype){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(verbose<mask1>verbose){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(break; }){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(newType != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask5>){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(break){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(tc==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype == null)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(overridden){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(Trace.isDebugEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtypes){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictErrors){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict == false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(abstract){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(true<mask1>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(LOGGER.isDebugEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(override){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(closed){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictClasses){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass.isArray()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(Trace){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass != null<mask1>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask3>){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(fallback){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask3> null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isPrimitive<mask3>){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3> null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(newType!=null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(interceptors){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(body){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask5>){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(substitutions){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(DEBUG_TYPES){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isContainerType()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(DEBUGGING){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclasses.isEmpty()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclasses == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debug<mask1>DEBUG){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(baseType==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictConstraints){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask1>baseType){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(immutable<mask1>immutable){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtypes == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(blacklist){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(TracingEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(tc == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(trace()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass!=Object.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask1>subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(sub==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(recursive){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(null<mask3>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(head==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(rawBase==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictSyntax<mask1>strictSyntax){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(break;){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(continue;){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(testing){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclasses match){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debugger){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(iterative){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(unchecked){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictMode<mask3> strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isPrimitive()<mask1>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict == true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(factory){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debug<mask3>debug){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(superClass != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(LOG.isDebugEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(borrowed){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(false<mask1>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(baseClass == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictMatch){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(superClass!=null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclasses != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(true<mask3>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isEnum()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(root==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(DEBUG_BUILDER){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(true<mask3>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(comparator == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debugLogging){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(base != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(superClass==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask1>subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass != Object.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if( subclass == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask1>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass.isEnum()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(handler == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isConstructor()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictConformance){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictParsing<mask1>strictParsing){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(bindings==null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debugEnabled){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype<mask3>subtype){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(debug<mask3>DEBUG){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(DEBUG_MODE){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictTyping){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(chainable){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(tc.isDebugEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(null == newType){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask1>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(superClass == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictStrict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == String.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictMode==false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass<mask3>subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(null==newType){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subTypes == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3>){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isPrimitive()<mask1>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(interceptors.isEmpty()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(rawBase != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(null==subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3> subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isAbstract()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isSubTypeOf(subclass)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict!=false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(baseType == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype=null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask3> subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(parent != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask1>baseType){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isPrimitive(subclass))){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictTypes<mask1>strictTypes){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(false<mask1>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==this){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(Trace.isEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass<mask3>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(allowNull<mask1>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(Traceback<mask3>){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictMode==true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclasses are empty){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass!=null)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strict != false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(null != superclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(baseType == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype==null)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(typeParamCount == 0){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype==Object.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isCollectionLikeType()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass== null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isSubTypeOf<mask1>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isRootType()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask3>null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(null == baseType){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype != null;){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isSubTypeOf(subclass))){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclasses match?){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isEnum(subclass))){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isInstance(subclass))){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtypeOf<mask1>subtypeOf){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isAnonymousClass()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictMode<mask1>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictStrict<mask1>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask3> false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype == Object.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isAnonymousType()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==Null.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subTypes.isEmpty()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass.isInterface()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask1>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(TraceKit.trace()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isSubtype(subclass))){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass!=null<mask1>subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(newType != null;){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3> false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subClass != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask3> true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(TraceKit.isDebug()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(baseClass != null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictTypes<mask1>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask1>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subClass == null){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask1>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype.isPrimitive()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3>subclass){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3> true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3>false){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(null == subclass<mask1>baseType){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask1>strict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass==null<mask3>true){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass.isEmpty()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isPrimitive(subclass)){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(strictStrict<mask1>strictStrict){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass == null<mask3> }){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subclass is Object.class){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(isPrimitive()<mask3>){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(subtype!=null<mask1>subtype){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  
+if(TraceSupport.isEnabled()){ newType = _fromClass(null, subclass, TypeBindings.emptyBindings());}  

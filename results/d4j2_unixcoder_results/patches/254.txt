@@ -1,0 +1,2250 @@
+; return c;  
+eof; return c;  
+ return CR; return c;  
+ return 0; return c;  
+eof = true; return c;  
+EOF; return c;  
+}; return c;  
+ return -1; return c;  
+ eof = true; return c;  
+ return EOF; return c;  
+ --; return c;  
+ return c; return c;  
+close; return c;  
+throw new IOException; return c;  
+ return eof; return c;  
+ //return c; return c;  
+break; return c;  
+ eof; return c;  
+e; return c;  
+readEscape; return c;  
+ throw new IOException; return c;  
+ EOF; return c;  
+unread(c; return c;  
+ eof; return c;  
+return 0; return c;  
+readEscape() throws IOException; return c;  
+eof=true; return c;  
+ eof = true; return c;  
+ }; return c;  
+ EOF; return c;  
+unread(c);; return c;  
+reset; return c;  
+--; return c;  
+ //return CR; return c;  
+return CR; return c;  
+in.unread(c);; return c;  
+ readEscape() throws IOException; return c;  
+ //return EOF; return c;  
+ throw new IOException; return c;  
+ ++pos; return c;  
+e.g; return c;  
+ //return -1; return c;  
+ //return 0; return c;  
+ ; return c;  
+ close; return c;  
+c = -1; return c;  
+ --eof; return c;  
+ break; return c;  
+return -1; return c;  
+ch; return c;  
+ throw new EOFException; return c;  
+ignore; return c;  
+throw new EOFException; return c;  
+ --c; return c;  
+return EOF; return c;  
+ -1; return c;  
+throws IOException; return c;  
+ readEscape; return c;  
+++pos; return c;  
+input.unread(c);; return c;  
+0; return c;  
+out.write(c);; return c;  
+c=0; return c;  
+ return CR; return c;  
+ }; return c;  
+ eof=true; return c;  
+ return 0; return c;  
+eof = false; return c;  
+ unread(c);; return c;  
+return eof; return c;  
+ ++i; return c;  
+exception; return c;  
+ unread(c);; return c;  
+ in.unread(c);; return c;  
+(); return c;  
+Exception; return c;  
+++count; return c;  
+end; return c;  
+++i; return c;  
+ next; return c;  
+return c; return c;  
+ return DONE; return c;  
+ break; return c;  
+terminated = true; return c;  
+i; return c;  
+terminated; return c;  
+ unread; return c;  
+malformed; return c;  
+ IOException ioe; return c;  
+p; return c;  
+ return INVALID; return c;  
+back; return c;  
+:; return c;  
+ c = -1; return c;  
+null; return c;  
+rewind; return c;  
+-1; return c;  
+Close; return c;  
+//return c; return c;  
+unread(c); return c;  
+ return -1; return c;  
+ --no-op; return c;  
+pos += 1; return c;  
+ ++lineNumber; return c;  
+buffer; return c;  
+ ++position; return c;  
+next; return c;  
+readEscape();; return c;  
+         eof = true; return c;  
+lastError = null; return c;  
+ return '\uFFFD'; return c;  
+AST#switch_block_statement_group#Right; return c;  
+eats; return c;  
+ close; return c;  
+flushBuffer; return c;  
+c = 0; return c;  
+ readNextEscape; return c;  
+fillBuffer; return c;  
+ return LF; return c;  
+ newline; return c;  
+ next; return c;  
+ rewind; return c;  
+ //throw new IOException; return c;  
+AST#break_statement#Leftbreak; return c;  
+ return '\0'; return c;  
+ -- c; return c;  
+continue; return c;  
+ // return c; return c;  
+done; return c;  
+ --EOF; return c;  
+;; return c;  
+err; return c;  
+ //return eof; return c;  
+   return CR; return c;  
+++lineNumber; return c;  
+ --readEscape; return c;  
+1; return c;  
+ ; return c;  
+ throws IOException; return c;  
+ throw new EOFException; return c;  
+processEscape; return c;  
+!; return c;  
+newline; return c;  
+ ++count; return c;  
+ readEscape() throws IOException; return c;  
+ //return c; return c;  
+ ++n; return c;  
+eof=false; return c;  
+ return INVALID_CHAR; return c;  
+ error = true; return c;  
+ e; return c;  
+   return 0; return c;  
+ flushBuffer; return c;  
+ error; return c;  
+ out.write(c);; return c;  
+ eof=true; return c;  
+position += 1; return c;  
+ return SPACE; return c;  
+reader.unread(c);; return c;  
+readEscape(); return c;  
+   return -1; return c;  
+ input.unread(c);; return c;  
+++m; return c;  
+hasNext() throws IOException; return c;  
+error = true; return c;  
+ return ESC; return c;  
+readNextEscape; return c;  
+e.printStackTrace();; return c;  
+ c = -1; return c;  
+ //    return c; return c;  
+ --read; return c;  
+   return EOF; return c;  
+ //TODO; return c;  
+throw new IllegalStateException; return c;  
+         eof = true; return c;  
+ return null; return c;  
+ESC:; return c;  
+throw new IOException(); return c;  
+eos; return c;  
+ unread(c; return c;  
+ return INVALID_ESCAPE; return c;  
+ -- END_OF_STREAM; return c;  
+System.out.println; return c;  
+readChar; return c;  
+ unread(c); return c;  
+ c = 0; return c;  
+buffer = null; return c;  
+// return c; return c;  
+ reader.unread(c);; return c;  
+rethrow; return c;  
+ 	; return c;  
+bytesRead += 1; return c;  
+int c; return c;  
+ readEscape; return c;  
+ ch; return c;  
+//return 0; return c;  
+ throw new EOFException(); return c;  
+ e.g; return c;  
+//return CR; return c;  
+ lastError = null; return c;  
+ // return CR; return c;  
+ //    return CR; return c;  
+ throw new IOException() ; return c;  
+c = in.read();; return c;  
+ return '\0; return c;  
+void readEscape() throws IOException; return c;  
+ return DEFAULT_ESCAPE; return c;  
+ return ~c; return c;  
+ //      return c; return c;  
+assert c >= 0; return c;  
+ readEscapeChar; return c;  
+ nextChar; return c;  
+ // TODO; return c;  
+ return '\u0000'; return c;  
+ return b; return c;  
+: return CR; return c;  
+throw new EOFException(); return c;  
+ // return -1; return c;  
+ unread(c); return c;  
+ //        return c; return c;  
+throw new IOException(c; return c;  
+ throw new IllegalStateException; return c;  
+in.read();; return c;  
+out.unread(c);; return c;  
+in.unread();; return c;  
+ return ESCAPED; return c;  
+ readNextChar; return c;  
+ // return 0; return c;  
+ eof = false; return c;  
+ return '\n'; return c;  
+ return CR; return c;  
+ return 0; return c;  
+ //    return EOF; return c;  
+int readEscape() throws IOException; return c;  
+ return '\u0000; return c;  
+ unread(c; return c;  
+ //    return -1; return c;  
+ //echo c; return c;  
+ //throw new EOFException; return c;  
+stream.unread(c);; return c;  
+unread(c) - 1; return c;  
+c = in.read(); return c;  
+int c = 0; return c;  
+ readNextEscape() throws IOException; return c;  
+System.err.println; return c;  
+ throw new IOException(c; return c;  
+ //    return 0; return c;  
+ //      return CR; return c;  
+ readEscapeInternal() throws IOException; return c;  
+ return 0xFF; return c;  
+return c;  
+return EOF;  
+return 0;  
+return eof;  
+return  c;  
+return  -1;  
+return ESCAPE;  
+return  EOF;  
+return  0;  
+return CR;  
+return null;  
+return -1;  
+return  eof;  
+return DEFAULT_ESCAPE;  
+return VALUE;  
+return  DONE;  
+return NULL;  
+return  CR;  
+return INVALID;  
+return INVALID_ESCAPE;  
+return SPACE;  
+return false;  
+return CHAR;  
+return FF;  
+return cbuf;  
+return 1;  
+return FALLBACK;  
+return NONE;  
+return TAB;  
+return DEFAULT;  
+return b;  
+return esc;  
+return C;  
+return escape;  
+return ';;  
+return  ESCAPED;  
+return RC;  
+return UNDEFINED;  
+return OTHER;  
+return '';  
+return EMPTY;  
+return readEscape;  
+return CRLF;  
+return ESC;  
+return '\uFFFD';  
+return ch;  
+return QUOTE;  
+return '\0;  
+return SKIP;  
+return  null;  
+return INVALID_CHAR;  
+return ERROR;  
+return ESCAPED;  
+return DONE;  
+return r;  
+return '\0';  
+return cb;  
+return TEXT;  
+return 2;  
+return  ~c;  
+return NUM;  
+return  ' ';  
+return UNKNOWN;  
+return v;  
+return 10;  
+return ENTER;  
+return backslash;  
+return LF;  
+return n;  
+return  '\uFFFD';  
+return '\\';  
+return ILLEGAL;  
+return CODE;  
+return ;;  
+return SCAPE;  
+return initialValue;  
+return NORMAL;  
+return a;  
+return  INVALID_ESCAPE;  
+return  CHAR;  
+return ESCAPE_SEQUENCE;  
+return  false;  
+return f;  
+return NOESCAPE;  
+return  INVALID;  
+return  '\\' + c;  
+return ' ';  
+return NEL;  
+return ',';  
+return  LF;  
+return UTF8;  
+return p;  
+return CC;  
+return  '\';  
+return 0x00;  
+return readEscape();  
+return escaper;  
+return '\n';  
+return  NULL;  
+return  DEFAULT_ESCAPE;  
+return BACKSLASH;  
+return 3;  
+return ;  
+return ESCAPE_CHAR;  
+return FAILED;  
+return delimiter;  
+return  ';';;  
+return  ESC;  
+return IN;  
+return eofError;  
+return  INVALID_CHAR;  
+return FALL;  
+return uFFFD;  
+return  CHARACTERS;  
+return cp;  
+return escaping;  
+return 0xFF;  
+return apos;  
+return end;  
+return CLOSE;  
+return EO;  
+return RCDATA;  
+return  NIL;  
+return buffer;  
+return d;  
+return DELIMITER;  
+return SPECIAL;  
+return 0xfffd;  
+return CUR;  
+return e;  
+return \\\\;  
+return FALL_THROUGH;  
+return  SPACE;  
+return MAGIC;  
+return CB;  
+return SUFFIX;  
+return SEPARATOR;  
+return MARKER;  
+return cr;  
+return  NONE;  
+return  '\\';  
+return '-';  
+return DUMMY;  
+return UNDERSCORE;  
+return  '};  
+return ESCAPE_VALUE;  
+return FALL-THROUGH;  
+return '\';  
+return code;  
+return '\u0000;  
+return cursor;  
+return 0xFFFF;  
+return SLASH;  
+return '";  
+return BACKSPACE;  
+return k;  
+return WHITE;  
+return char c;  
+return eof?;  
+return 8;  
+return HIGH_PRIORITY;  
+return ':';  
+return  ENTER;  
+return  1;  
+return  '\0';  
+return STRING;  
+return INVALIDCHAR;  
+return last;  
+return nextEscape;  
+return  NOOP;  
+return escaped;  
+return  BACKSLASH;  
+return DATA;  
+return  0xFF;  
+return EOS;  
+return TOKEN;  
+return escapeChar;  
+return EOL;  
+return DEFAULT_VALUE;  
+return 0x0000;  
+return DEFAULT_QUOTE;  
+return NEWLINE;  
+return (-1;  
+return scanEscape;  
+return x;  
+return MISMATCH;  
+return eofChar;  
+return WHITESPACE;  
+return ILLEGAL_CHAR;  
+return ESCAPE_NONE;  
+return invalidEscape;  
+return  readEscape;  
+return DEFAULT_CHAR;  
+return ESCAPE_SEQ;  
+return  '\\';;  
+return NO_ROOM;  
+return '.';  
+return UNREADABLE;  
+return  '\"';  
+return '\0';;  
+return InvalidEscapeException;  
+return ReadEscape;  
+return  'u';  
+return UNKNOWN_ESCAPE;  
+return BAD_ESCAPE;  
+return DONT_HING;  
+return  readEscape();  
+return ESCAPE_CODE;  
+return  ' ';;  
+return 'u';  
+return ';';  
+return '\n;  
+return  0x00;  
+return ('\\');;  
+return readChar;  
+return  '\n';  
+return READ_ESCAPE;  
+return DEFAULT_ESC;  
+return  ' '; ;  
+return InvalidEscape;  
+return  '"'; ;  
+return '\uFFFD;  
+return '"';  
+return c; ;  
+return escapingChar;  
+return readEscape();;  
+return 0xFFFD;  
+return NO_ESCAPE;  
+return '\ufffd';  
+return ; };  
+return EOF; ;  
+return  '\0;  
+return ESCAPES;  
+return UTF16LE;  
+return DEFAULT_CHARACTER;  
+return  '\\'; ;  
+return ('\\'); ;  
+return  0x0000;  
+return CR; ;  
+return INVALID_ESC;  
+return in.read;  
+return READ_ERROR;  
+return LOW_PRIORITY;  
+return MAX_VALUE;  
+return INVALID_CHARACTER;  
+return  '\u0000;  
+return ESCAPE_INVALID;  
+return SKIP_SPACE;  
+return EOF;;  
+return UTF16;  
+return c;  
+return EOF;  
+return 0;  
+return eof;  
+return  c;  
+return  -1;  
+return ESCAPE;  
+return  EOF;  
+return  0;  
+return CR;  
+return null;  
+return -1;  
+return  eof;  
+return DEFAULT_ESCAPE;  
+return VALUE;  
+return  DONE;  
+return NULL;  
+return  CR;  
+return INVALID;  
+return INVALID_ESCAPE;  
+return SPACE;  
+return false;  
+return CHAR;  
+return FF;  
+return cbuf;  
+return 1;  
+return FALLBACK;  
+return NONE;  
+return TAB;  
+return DEFAULT;  
+return b;  
+return esc;  
+return C;  
+return escape;  
+return ';;  
+return  ESCAPED;  
+return RC;  
+return UNDEFINED;  
+return OTHER;  
+return '';  
+return EMPTY;  
+return readEscape;  
+return CRLF;  
+return ESC;  
+return '\uFFFD';  
+return ch;  
+return QUOTE;  
+return '\0;  
+return SKIP;  
+return  null;  
+return INVALID_CHAR;  
+return ERROR;  
+return ESCAPED;  
+return DONE;  
+return r;  
+return '\0';  
+return cb;  
+return TEXT;  
+return 2;  
+return  ~c;  
+return NUM;  
+return  ' ';  
+return UNKNOWN;  
+return v;  
+return 10;  
+return ENTER;  
+return backslash;  
+return LF;  
+return n;  
+return  '\uFFFD';  
+return '\\';  
+return ILLEGAL;  
+return CODE;  
+return ;;  
+return SCAPE;  
+return initialValue;  
+return NORMAL;  
+return a;  
+return  INVALID_ESCAPE;  
+return  CHAR;  
+return ESCAPE_SEQUENCE;  
+return  false;  
+return f;  
+return NOESCAPE;  
+return  INVALID;  
+return  '\\' + c;  
+return ' ';  
+return NEL;  
+return ',';  
+return  LF;  
+return UTF8;  
+return p;  
+return CC;  
+return  '\';  
+return 0x00;  
+return readEscape();  
+return escaper;  
+return '\n';  
+return  NULL;  
+return  DEFAULT_ESCAPE;  
+return BACKSLASH;  
+return 3;  
+return ;  
+return ESCAPE_CHAR;  
+return FAILED;  
+return delimiter;  
+return  ';';;  
+return  ESC;  
+return IN;  
+return eofError;  
+return  INVALID_CHAR;  
+return FALL;  
+return uFFFD;  
+return  CHARACTERS;  
+return cp;  
+return escaping;  
+return 0xFF;  
+return apos;  
+return end;  
+return CLOSE;  
+return EO;  
+return RCDATA;  
+return  NIL;  
+return buffer;  
+return d;  
+return DELIMITER;  
+return SPECIAL;  
+return 0xfffd;  
+return CUR;  
+return e;  
+return \\\\;  
+return FALL_THROUGH;  
+return  SPACE;  
+return MAGIC;  
+return CB;  
+return SUFFIX;  
+return SEPARATOR;  
+return MARKER;  
+return cr;  
+return  NONE;  
+return  '\\';  
+return '-';  
+return DUMMY;  
+return UNDERSCORE;  
+return  '};  
+return ESCAPE_VALUE;  
+return FALL-THROUGH;  
+return '\';  
+return code;  
+return '\u0000;  
+return cursor;  
+return 0xFFFF;  
+return SLASH;  
+return '";  
+return BACKSPACE;  
+return k;  
+return WHITE;  
+return char c;  
+return eof?;  
+return 8;  
+return HIGH_PRIORITY;  
+return ':';  
+return  ENTER;  
+return  1;  
+return  '\0';  
+return STRING;  
+return INVALIDCHAR;  
+return last;  
+return nextEscape;  
+return  NOOP;  
+return escaped;  
+return  BACKSLASH;  
+return DATA;  
+return  0xFF;  
+return EOS;  
+return TOKEN;  
+return escapeChar;  
+return EOL;  
+return DEFAULT_VALUE;  
+return 0x0000;  
+return DEFAULT_QUOTE;  
+return NEWLINE;  
+return (-1;  
+return scanEscape;  
+return x;  
+return MISMATCH;  
+return eofChar;  
+return WHITESPACE;  
+return ILLEGAL_CHAR;  
+return ESCAPE_NONE;  
+return invalidEscape;  
+return  readEscape;  
+return DEFAULT_CHAR;  
+return ESCAPE_SEQ;  
+return  '\\';;  
+return NO_ROOM;  
+return '.';  
+return UNREADABLE;  
+return  '\"';  
+return '\0';;  
+return InvalidEscapeException;  
+return ReadEscape;  
+return  'u';  
+return UNKNOWN_ESCAPE;  
+return BAD_ESCAPE;  
+return DONT_HING;  
+return  readEscape();  
+return ESCAPE_CODE;  
+return  ' ';;  
+return 'u';  
+return ';';  
+return '\n;  
+return  0x00;  
+return ('\\');;  
+return readChar;  
+return  '\n';  
+return READ_ESCAPE;  
+return DEFAULT_ESC;  
+return  ' '; ;  
+return InvalidEscape;  
+return  '"'; ;  
+return '\uFFFD;  
+return '"';  
+return c; ;  
+return escapingChar;  
+return readEscape();;  
+return 0xFFFD;  
+return NO_ESCAPE;  
+return '\ufffd';  
+return ; };  
+return EOF; ;  
+return  '\0;  
+return ESCAPES;  
+return UTF16LE;  
+return DEFAULT_CHARACTER;  
+return  '\\'; ;  
+return ('\\'); ;  
+return  0x0000;  
+return CR; ;  
+return INVALID_ESC;  
+return in.read;  
+return READ_ERROR;  
+return LOW_PRIORITY;  
+return MAX_VALUE;  
+return INVALID_CHARACTER;  
+return  '\u0000;  
+return ESCAPE_INVALID;  
+return SKIP_SPACE;  
+return EOF;;  
+return UTF16;  
+return c;  
+return EOF;  
+return 0;  
+return eof;  
+return  c;  
+return  -1;  
+return ESCAPE;  
+return  EOF;  
+return  0;  
+return CR;  
+return null;  
+return -1;  
+return  eof;  
+return DEFAULT_ESCAPE;  
+return VALUE;  
+return  DONE;  
+return NULL;  
+return  CR;  
+return INVALID;  
+return INVALID_ESCAPE;  
+return SPACE;  
+return false;  
+return CHAR;  
+return FF;  
+return cbuf;  
+return 1;  
+return FALLBACK;  
+return NONE;  
+return TAB;  
+return DEFAULT;  
+return b;  
+return esc;  
+return C;  
+return escape;  
+return ';;  
+return  ESCAPED;  
+return RC;  
+return UNDEFINED;  
+return OTHER;  
+return '';  
+return EMPTY;  
+return readEscape;  
+return CRLF;  
+return ESC;  
+return '\uFFFD';  
+return ch;  
+return QUOTE;  
+return '\0;  
+return SKIP;  
+return  null;  
+return INVALID_CHAR;  
+return ERROR;  
+return ESCAPED;  
+return DONE;  
+return r;  
+return '\0';  
+return cb;  
+return TEXT;  
+return 2;  
+return  ~c;  
+return NUM;  
+return  ' ';  
+return UNKNOWN;  
+return v;  
+return 10;  
+return ENTER;  
+return backslash;  
+return LF;  
+return n;  
+return  '\uFFFD';  
+return '\\';  
+return ILLEGAL;  
+return CODE;  
+return ;;  
+return SCAPE;  
+return initialValue;  
+return NORMAL;  
+return a;  
+return  INVALID_ESCAPE;  
+return  CHAR;  
+return ESCAPE_SEQUENCE;  
+return  false;  
+return f;  
+return NOESCAPE;  
+return  INVALID;  
+return  '\\' + c;  
+return ' ';  
+return NEL;  
+return ',';  
+return  LF;  
+return UTF8;  
+return p;  
+return CC;  
+return  '\';  
+return 0x00;  
+return readEscape();  
+return escaper;  
+return '\n';  
+return  NULL;  
+return  DEFAULT_ESCAPE;  
+return BACKSLASH;  
+return 3;  
+return ;  
+return ESCAPE_CHAR;  
+return FAILED;  
+return delimiter;  
+return  ';';;  
+return  ESC;  
+return IN;  
+return eofError;  
+return  INVALID_CHAR;  
+return FALL;  
+return uFFFD;  
+return  CHARACTERS;  
+return cp;  
+return escaping;  
+return 0xFF;  
+return apos;  
+return end;  
+return CLOSE;  
+return EO;  
+return RCDATA;  
+return  NIL;  
+return buffer;  
+return d;  
+return DELIMITER;  
+return SPECIAL;  
+return 0xfffd;  
+return CUR;  
+return e;  
+return \\\\;  
+return FALL_THROUGH;  
+return  SPACE;  
+return MAGIC;  
+return CB;  
+return SUFFIX;  
+return SEPARATOR;  
+return MARKER;  
+return cr;  
+return  NONE;  
+return  '\\';  
+return '-';  
+return DUMMY;  
+return UNDERSCORE;  
+return  '};  
+return ESCAPE_VALUE;  
+return FALL-THROUGH;  
+return '\';  
+return code;  
+return '\u0000;  
+return cursor;  
+return 0xFFFF;  
+return SLASH;  
+return '";  
+return BACKSPACE;  
+return k;  
+return WHITE;  
+return char c;  
+return eof?;  
+return 8;  
+return HIGH_PRIORITY;  
+return ':';  
+return  ENTER;  
+return  1;  
+return  '\0';  
+return STRING;  
+return INVALIDCHAR;  
+return last;  
+return nextEscape;  
+return  NOOP;  
+return escaped;  
+return  BACKSLASH;  
+return DATA;  
+return  0xFF;  
+return EOS;  
+return TOKEN;  
+return escapeChar;  
+return EOL;  
+return DEFAULT_VALUE;  
+return 0x0000;  
+return DEFAULT_QUOTE;  
+return NEWLINE;  
+return (-1;  
+return scanEscape;  
+return x;  
+return MISMATCH;  
+return eofChar;  
+return WHITESPACE;  
+return ILLEGAL_CHAR;  
+return ESCAPE_NONE;  
+return invalidEscape;  
+return  readEscape;  
+return DEFAULT_CHAR;  
+return ESCAPE_SEQ;  
+return  '\\';;  
+return NO_ROOM;  
+return '.';  
+return UNREADABLE;  
+return  '\"';  
+return '\0';;  
+return InvalidEscapeException;  
+return ReadEscape;  
+return  'u';  
+return UNKNOWN_ESCAPE;  
+return BAD_ESCAPE;  
+return DONT_HING;  
+return  readEscape();  
+return ESCAPE_CODE;  
+return  ' ';;  
+return 'u';  
+return ';';  
+return '\n;  
+return  0x00;  
+return ('\\');;  
+return readChar;  
+return  '\n';  
+return READ_ESCAPE;  
+return DEFAULT_ESC;  
+return  ' '; ;  
+return InvalidEscape;  
+return  '"'; ;  
+return '\uFFFD;  
+return '"';  
+return c; ;  
+return escapingChar;  
+return readEscape();;  
+return 0xFFFD;  
+return NO_ESCAPE;  
+return '\ufffd';  
+return ; };  
+return EOF; ;  
+return  '\0;  
+return ESCAPES;  
+return UTF16LE;  
+return DEFAULT_CHARACTER;  
+return  '\\'; ;  
+return ('\\'); ;  
+return  0x0000;  
+return CR; ;  
+return INVALID_ESC;  
+return in.read;  
+return READ_ERROR;  
+return LOW_PRIORITY;  
+return MAX_VALUE;  
+return INVALID_CHARACTER;  
+return  '\u0000;  
+return ESCAPE_INVALID;  
+return SKIP_SPACE;  
+return EOF;;  
+return UTF16;  
+if(c==null){return  -1;} return c;  
+if(c==null){return  0;} return c;  
+if(c==null){return  null;} return c;  
+if(c==null){return  EOF;} return c;  
+if(c==null){return  CR;} return c;  
+if(c==null){return  c;;} return c;  
+if(c==null){return  null;;} return c;  
+if(c==null){return  c;} return c;  
+if(c==null){return null;} return c;  
+if(c==null){return  0;;} return c;  
+if(c==null){return 0;} return c;  
+if(c==null){return  NULL;} return c;  
+if(c==null){return  CR;;} return c;  
+if(c==null){return  -1;;} return c;  
+if(c==null){return -1;} return c;  
+if(c==null){return EOF;} return c;  
+if(c==null){return c;} return c;  
+if(c==null){return  EOF;;} return c;  
+if(c==null){return  eof;} return c;  
+if(c==null){return ;;} return c;  
+if(c==null){return  false;} return c;  
+if(c==null){return  DONE;} return c;  
+if(c==null){return CR;} return c;  
+if(c==null){return NULL;} return c;  
+if(c==null){return  '\0';;} return c;  
+if(c==null){return  DEFAULT_ESCAPE;} return c;  
+if(c==null){return c;;} return c;  
+if(c==null){return  false;;} return c;  
+if(c==null){return  ' ';;} return c;  
+if(c==null){return  0xFF;} return c;  
+if(c==null){return null;;} return c;  
+if(c==null){return 0;;} return c;  
+if(c==null){return eof;} return c;  
+if(c==null){return  0x00;} return c;  
+if(c==null){return CR;;} return c;  
+if(c==null){return  1;} return c;  
+if(c==null){return  ESCAPED;} return c;  
+if(c==null){return };;} return c;  
+if(c==null){return  readEscape();;} return c;  
+if(c==null){return EOF;;} return c;  
+if(c==null){return  ' ';} return c;  
+if(c==null){return  1;;} return c;  
+if(c==null){return  C;} return c;  
+if(c==null){return  NULL;;} return c;  
+if(c==null){return  DONE;;} return c;  
+if(c==null){return  0xff;} return c;  
+if(c==null){return  EMPTY;} return c;  
+if(c==null){return ';;} return c;  
+if(c==null){return  '\n';;} return c;  
+if(c==null){return false;} return c;  
+if(c==null){return  0; ;} return c;  
+if(c==null){return  0x0000;} return c;  
+if(c==null){return  INVALID_ESCAPE;} return c;  
+if(c==null){return  EOL;} return c;  
+if(c==null){return  DEFAULT;} return c;  
+if(c==null){return  '\0';} return c;  
+if(c==null){return  ESC;} return c;  
+if(c==null){return  -2;} return c;  
+if(c==null){return  RC;} return c;  
+if(c==null){return   EOF;} return c;  
+if(c==null){return  INVALID_CHAR;} return c;  
+if(c==null){return  eof;;} return c;  
+if(c==null){return ESCAPE;} return c;  
+if(c==null){return  ENTER;} return c;  
+if(c==null){return 1;} return c;  
+if(c==null){return  Null;} return c;  
+if(c==null){return  defaultEscape;} return c;  
+if(c==null){return  INVALID;} return c;  
+if(c==null){return '\0';;} return c;  
+if(c==null){return  '0';;} return c;  
+if(c==null){return  NONE;} return c;  
+if(c==null){return ;};} return c;  
+if(c==null){return -1;;} return c;  
+if(c==null){return DEFAULT_ESCAPE;} return c;  
+if(c==null){return  '\\';;} return c;  
+if(c==null){return  '?';;} return c;  
+if(c==null){return  LF;} return c;  
+if(c==null){return  0xfffd;} return c;  
+if(c==null){return  RC;;} return c;  
+if(c==null){return   null;} return c;  
+if(c==null){return RC;;} return c;  
+if(c==null){return  terminator;} return c;  
+if(c==null){return  '\"';;} return c;  
+if(c==null){return  c; ;} return c;  
+if(c==null){return  '';;} return c;  
+if(c==null){return  "";;} return c;  
+if(c==null){return FF;} return c;  
+if(c==null){return  ESC;;} return c;  
+if(c==null){return  STRING;} return c;  
+if(c==null){return  '\uFFFD';;} return c;  
+if(c==null){return  eol;} return c;  
+if(c==null){return  -11;} return c;  
+if(c==null){return RC;} return c;  
+if(c==null){return  true;} return c;  
+if(c==null){return  '\0;} return c;  
+if(c==null){return  readEscape;} return c;  
+if(c==null){return  '\uFFFD';} return c;  
+if(c==null){return  null; };} return c;  
+if(c==null){return  NIL;} return c;  
+if(c==null){return  CHAR;} return c;  
+if(c==null){return  NONE;;} return c;  
+if(c==null){return  ;;} return c;  
+if(c==null){return  '}';;} return c;  
+if(c==null){return };} return c;  
+if(c==null){return NULL;;} return c;  
+if(c==null){return  RETURN;} return c;  
+if(c==null){return  CRLF;} return c;  
+if(c==null){return  0xFFFF;} return c;  
+if(c==null){return initialValue;} return c;  
+if(c==null){return  b;} return c;  
+if(c==null){return  SPACE;} return c;  
+if(c==null){return  null;};} return c;  
+if(c==null){return eof;;} return c;  
+if(c==null){return  NULL_CHAR;} return c;  
+if(c==null){return 1;;} return c;  
+if(c==null){return DEFAULT;} return c;  
+if(c==null){return  C_NULL;} return c;  
+if(c==null){return  NUL;} return c;  
+if(c==null){return EOS;} return c;  
+if(c==null){return  '\000';;} return c;  
+if(c==null){return  ';';;} return c;  
+if(c==null){return  -1 ;} return c;  
+if(c==null){return  c; };} return c;  
+if(c==null){return  ~';;} return c;  
+if(c==null){return  ESC_NULL;} return c;  
+if(c==null){return  '#';;} return c;  
+if(c==null){return  WHITESPACE;} return c;  
+if(c==null){return  DEFAULT_VALUE;} return c;  
+if(c==null){return  2;} return c;  
+if(c==null){return  cb;} return c;  
+if(c==null){return   0;} return c;  
+if(c==null){return  -1L;} return c;  
+if(c==null){return INVALID_ESCAPE;} return c;  
+if(c==null){return  ';;} return c;  
+if(c==null){return  defaultValue;} return c;  
+if(c==null){return  '"';;} return c;  
+if(c==null){return false;;} return c;  
+if(c==null){return VALUE;} return c;  
+if(c==null){return (-1;} return c;  
+if(c==null){return  '=';;} return c;  
+if(c==null){return INVALID;} return c;  
+if(c==null){return '\0;} return c;  
+if(c==null){return  ~c;} return c;  
+if(c==null){return  'x';;} return c;  
+if(c==null){return  '\n';} return c;  
+if(c==null){return  null; ;} return c;  
+if(c==null){return  LF;;} return c;  
+if(c==null){return  '};} return c;  
+if(c==null){return  EMPTY;;} return c;  
+if(c==null){return  NOOP;} return c;  
+if(c==null){return  LITERAL;} return c;  
+if(c==null){return  '?';} return c;  
+if(c==null){return  '\n;} return c;  
+if(c==null){return  STOP;} return c;  
+if(c==null){return  undefined;} return c;  
+if(c==null){return  NULL_ESCAPE;} return c;  
+if(c==null){return  'r';;} return c;  
+if(c==null){return  DEFAULT;;} return c;  
+if(c==null){return  true;;} return c;  
+if(c==null){return  INITIAL;} return c;  
+if(c==null){return  readEscape();} return c;  
+if(c==null){return ;} return c;  
+if(c==null){return  UNKNOWN;} return c;  
+if(c==null){return  n;} return c;  
+if(c==null){return 0x00;} return c;  
+if(c==null){return  0; };} return c;  
+if(c==null){return NEL;} return c;  
+if(c==null){return  b;;} return c;  
+if(c==null){return  rc;} return c;  
+if(c==null){return  -1l;} return c;  
+if(c==null){return  CCR;} return c;  
+if(c==null){return  NAN;} return c;  
+if(c==null){return  'u';;} return c;  
+if(c==null){return  KEEP;} return c;  
+if(c==null){return  ENTER;;} return c;  
+if(c==null){return   -1;} return c;  
+if(c==null){return  3;} return c;  
+if(c==null){return  ERROR;} return c;  
+if(c==null){return  '\ufffd';;} return c;  
+if(c==null){return  C;;} return c;  
+if(c==null){return  "null";;} return c;  
+if(c==null){return  nextEscape;} return c;  
+if(c==null){return  rc;;} return c;  
+if(c==null){return  RETURN_NULL;} return c;  
+if(c==null){return  default;} return c;  
+if(c==null){return 0xFF;} return c;  
+if(c==null){return  0x80;} return c;  
+if(c==null){return  SPACE;;} return c;  
+if(c==null){return  NO_ROOM;} return c;  
+if(c==null){return  EOL;;} return c;  
+if(c==null){return >-1;} return c;  
+if(c==null){return  RC_NULL;} return c;  
+if(c==null){return  FALSE;} return c;  
+if(c==null){return  cr;;} return c;  
+if(c==null){return  f;} return c;  
+if(c==null){return  cr;} return c;  
+if(c==null){return  SKIP;} return c;  
+if(c==null){return  '\u0000;} return c;  
+if(c==null){return  RCDATA;} return c;  
+if(c==null){return  -1 ;;} return c;  
+if(c==null){return  CR; ;} return c;  
+if(c==null){return  -1 ;} return c;  
+if(c==null){return  <0;} return c;  
+if(c==null){return  '}';;} return c;  
+if(c==null){return  c;};} return c;  
+if(c==null){return  c ;;} return c;  
+if(c==null){return  ~0;} return c;  
+if(c==null){return '\n';;} return c;  
+if(c==null){return   null;;} return c;  
+if(c==null){return  ESCAPE;} return c;  
+if(c==null){return   false;} return c;  
+if(c==null){return  C0;} return c;  
+if(c==null){return  return -1;} return c;  
+if(c==null){return (0);;} return c;  
+if(c==null){return  NEWLINE;} return c;  
+if(c==null){return  '\t';;} return c;  
+if(c==null){return  CR; };} return c;  
+if(c==null){return  DEFAULT_QUOTE;} return c;  
+if(c==null){return 0; ;} return c;  
+if(c==null){return  EMPTY_STRING;} return c;  
+if(c==null){return  Reader.EOF;} return c;  
+if(c==null){return  0x10000;} return c;  
+if(c==null){return  'a';;} return c;  
+if(c==null){return  CONTINUE;} return c;  
+if(c==null){return  -2;;} return c;  
+if(c==null){return  DEFAULT_CHAR;} return c;  
+if(c==null){return  '\r';;} return c;  
+if(c==null){return  (-1;} return c;  
+if(c==null){return  '\uFFFD;} return c;  
+if(c==null){return  endOfStream;} return c;  
+if(c==null){return '\uFFFD';;} return c;  
+if(c==null){return  endOfInput;} return c;  
+if(c==null){return   c;} return c;  
+if(c==null){return  NULL_VALUE;} return c;  
+if(c==null){return INVALID_CHAR;} return c;  
+if(c==null){return  return null;} return c;  
+if(c==null){return  'x';} return c;  
+if(c==null){return  99999999;} return c;  
+if(c==null){return  CBOR;} return c;  
+if(c==null){return  CHR;} return c;  
+if(c==null){return  '1';;} return c;  
+if(c==null){return  0x20;} return c;  
+if(c==null){return  REPLACEMENT;} return c;  
+if(c==null){return  return null;;} return c;  
+if(c==null){return  c+1;} return c;  
+if(c==null){return  WRITE_ERROR;} return c;  
+if(c==null){return  NO_CR;} return c;  
+if(c==null){return  nextEscape();;} return c;  
+if(c==null){return  EOF; };} return c;  
+if(c==null){return '\0';} return c;  
+if(c==null){ c=0; } return c;  
+if(c==null){ c=eof; } return c;  
+if(c==null){ c=EOF; } return c;  
+if(c==null){ c=0xfffd; } return c;  
+if(c==null){ c=0; }; } return c;  
+if(c==null){ c=DEFAULT_ESCAPE; } return c;  
+if(c==null){ c=CR; } return c;  
+if(c==null){ c=defaultEscape; } return c;  
+if(c==null){ c=0x00; } return c;  
+if(c==null){ c=0xFF; } return c;  
+if(c==null){ c=initialValue; } return c;  
+if(c==null){ c=null; } return c;  
+if(c==null){ c=0xff; } return c;  
+if(c==null){ c=1; } return c;  
+if(c==null){ c=SPACE; } return c;  
+if(c==null){ c=';; } return c;  
+if(c==null){ c= -1; } return c;  
+if(c==null){ c=read(); }; } return c;  
+if(c==null){ c=FF; } return c;  
+if(c==null){ c=nextEscape; } return c;  
+if(c==null){ c=0x20; } return c;  
+if(c==null){ c=readEscape; } return c;  
+if(c==null){ c=0x80; } return c;  
+if(c==null){ c=readEscape(); }; } return c;  
+if(c==null){ c=fillEscape; } return c;  
+if(c==null){ c=0xFFFF; } return c;  
+if(c==null){ c=ESCAPE; } return c;  
+if(c==null){ c=next; } return c;  
+if(c==null){ c=DEFAULT; } return c;  
+if(c==null){ c=EOL; } return c;  
+if(c==null){ c='\0'; }; } return c;  
+if(c==null){ c=0x0000; } return c;  
+if(c==null){ c='\0; } return c;  
+if(c==null){ c='\0'; } return c;  
+if(c==null){ c=0xFFFD; } return c;  
+if(c==null){ c=NORMAL; } return c;  
+if(c==null){ c=cbuf; } return c;  
+if(c==null){ c=NULL; } return c;  
+if(c==null){ c=ch; } return c;  
+if(c==null){ c=readChar; } return c;  
+if(c==null){ c=delimiter; } return c;  
+if(c==null){ c=false; } return c;  
+if(c==null){ c=getNextEscape; } return c;  
+if(c==null){ c=end; } return c;  
+if(c==null){ c=0; return null; } return c;  
+if(c==null){ c=0; return c; } return c;  
+if(c==null){ c=in.read; } return c;  
+if(c==null){ c=SKIP; } return c;  
+if(c==null){ c=UTF8; } return c;  
+if(c==null){ c=NL; } return c;  
+if(c==null){ c=eof; }; } return c;  
+if(c==null){ c=DELIMITER; } return c;  
+if(c==null){ c=readEscape() }; } return c;  
+if(c==null){ c=';'}; } return c;  
+if(c==null){ c=NONE; } return c;  
+if(c==null){ c=RC; } return c;  
+if(c==null){ c=DEFAULT_CHAR; } return c;  
+if(c==null){ c= 0; } return c;  
+if(c==null){ c=0x10000; } return c;  
+if(c==null){ c=VALUE; } return c;  
+if(c==null){ c=TEXT; } return c;  
+if(c==null){ c=nextChar; } return c;  
+if(c==null){ c=escape; } return c;  
+if(c==null){ c=DEFAULT_VALUE; } return c;  
+if(c==null){ c=0x1F; } return c;  
+if(c==null){ c=C; } return c;  
+if(c==null){ c='\n; } return c;  
+if(c==null){ c=DONE; } return c;  
+if(c==null){ c=0x0A; } return c;  
+if(c==null){ c=0xffff; } return c;  
+if(c==null){ c=0x7F; } return c;  
+if(c==null){ c=CR; }; } return c;  
+if(c==null){ c=0; return 0; } return c;  
+if(c==null){ c=CRLF; } return c;  
+if(c==null){ c=FALLBACK; } return c;  
+if(c==null){ c=readNextEscape; } return c;  
+if(c==null){ c='; }; } return c;  
+if(c==null){ c=ENTER; } return c;  
+if(c==null){ c=INITIAL; } return c;  
+if(c==null){ c=TAB; } return c;  
+if(c==null){ c= '\0' }; } return c;  
+if(c==null){ c=value; } return c;  
+if(c==null){ c=0x10; } return c;  
+if(c==null){ c=IO.EOF; } return c;  
+if(c==null){ c=EOF; }; } return c;  
+if(c==null){ c= eof; } return c;  
+if(c==null){ c=readInt(); }; } return c;  
+if(c==null){ c=STRING; } return c;  
+if(c==null){ c=unread; } return c;  
+if(c==null){ c=cursor; } return c;  
+if(c==null){ c=read(); return c; } return c;  
+if(c==null){ c= ' '; } return c;  
+if(c==null){ c=marker; } return c;  
+if(c==null){ c=read(); return null; } return c;  
+if(c==null){ c=processEscape; } return c;  
+if(c==null){ c=DEFAULT_ESC; } return c;  
+if(c==null){ c=0x000A; } return c;  
+if(c==null){ c='\uFFFD'; } return c;  
+if(c==null){ c=readChar(); }; } return c;  
+if(c==null){ c=0x0F; } return c;  
+if(c==null){ c=0x01; } return c;  
+if(c==null){ c=escapeChar; } return c;  
+if(c==null){ c=start; } return c;  
+if(c==null){ c=read; } return c;  
+if(c==null){ c=0xC0; } return c;  
+if(c==null){ c=utf8; } return c;  
+if(c==null){ c=in.read(); } return c;  
+if(c==null){ c=cb; } return c;  
+if(c==null){ c=AST#unary_expression#Left-1AST#unary_expression#Right; } return c;  
+if(c==null){ c=0x07; } return c;  
+if(c==null){ c=back; } return c;  
+if(c==null){ c=0xEF; } return c;  
+if(c==null){ c=-1; } return c;  
+if(c==null){ c=R; } return c;  
+if(c==null){ c=0x00FF; } return c;  
+if(c==null){ c=EndOfStream; } return c;  
+if(c==null){ c=DEFAULT_QUOTE; } return c;  
+if(c==null){ c=BACKSLASH; } return c;  
+if(c==null){ c=true; } return c;  
+if(c==null){ c=''; } return c;  
+if(c==null){ c=null; }; } return c;  
+if(c==null){ c=8; } return c;  
+if(c==null){ c=NEWLINE; } return c;  
+if(c==null){ c=reader.readEscape; } return c;  
+if(c==null){ c=c; } return c;  
+if(c==null){ c=readNextChar; } return c;  
+if(c==null){ c=endChar; } return c;  
+if(c==null){ c=newline; } return c;  
+if(c==null){ c=0;  }; } return c;  
+if(c==null){ c=0x7E; } return c;  
+if(c==null){ c='\uFFFD; } return c;  
+if(c==null){ c=getNextEscape(); }; } return c;  
+if(c==null){ c=0; readEscape; } return c;  
+if(c==null){ c=cr; } return c;  
+if(c==null){ c=0x03; } return c;  
+if(c==null){ c=eol; } return c;  
+if(c==null){ c=r; } return c;  
+if(c==null){ c='\u0000; } return c;  
+if(c==null){ c=readChar() }; } return c;  
+if(c==null){ c='\n'; } return c;  
+if(c==null){ c=LF; } return c;  
+if(c==null){ c=scanEscape; } return c;  
+if(c==null){ c= EOF; } return c;  
+if(c==null){ c=ESCAPE_CHAR; } return c;  
+if(c==null){ c=eofChar; } return c;  
+if(c==null){ c=};; } return c;  
+if(c==null){ c=1; }; } return c;  
+if(c==null){ c=fallback; } return c;  
+if(c==null){ c=separator; } return c;  
+if(c==null){ c=SPACE; }; } return c;  
+if(c==null){ c=DEFAULT_CHARACTER; } return c;  
+if(c==null){ c=WS; } return c;  
+if(c==null){ c=UNESCAPED; } return c;  
+if(c==null){ c=peekChar; } return c;  
+if(c==null){ c=2; } return c;  
+if(c==null){ c=UNDEFINED; } return c;  
+if(c==null){ c=endEscape; } return c;  
+if(c==null){ c=reset; } return c;  
+if(c==null){ c=EMPTY; } return c;  
+if(c==null){ c=System.identity; } return c;  
+if(c==null){ c=0xA; } return c;  
+if(c==null){ c=fillBuffer; } return c;  
+if(c==null){ c= '\0'; }; } return c;  
+if(c==null){ c=read() }; } return c;  
+if(c==null){ c='\uFFFD' }; } return c;  
+if(c==null){ c=defaultValue; } return c;  
+if(c==null){ c=peek(); }; } return c;  
+if(c==null){ c=leadSurrogate; } return c;  
+if(c==null){ c=ERROR; } return c;  
+if(c==null){ c=q; } return c;  
+if(c==null){ c=','; } return c;  
+if(c==null){ c=';'; } return c;  
+if(c==null){ c='\n'; }; } return c;  
+if(c==null){ c=newLine; } return c;  
+if(c==null){ c=EO; } return c;  
+if(c==null){ c=esc; } return c;  
+if(c==null){ c=0x7f; } return c;  
+if(c==null){ c=EOS; } return c;  
+if(c==null){ c=getNextChar; } return c;  
+if(c==null){ c=input.read; } return c;  
+if(c==null){ c=BACKSPACE; } return c;  
+if(c==null){ c=writeEscape; } return c;  
+if(c==null){ c= '\0'; } return c;  
+if(c==null){ c=0; return EOF; } return c;  
+if(c==null){ c=separatorChar; } return c;  
+if(c==null){ c=0x30; } return c;  
+if(c==null){ c=10; } return c;  
+if(c==null){ c=IN; } return c;  
+if(c==null){ c=n; } return c;  
+if(c==null){ c=0;}; } return c;  
+if(c==null){ c=255; } return c;  
+if(c==null){ c=terminator; } return c;  
+if(c==null){ c=b; } return c;  
+if(c==null){ c=findEscape; } return c;  
+if(c==null){ c=NextEscape; } return c;  
+if(c==null){ c=0x0E; } return c;  
+if(c==null){ c=N; } return c;  
+if(c==null){ c=readEscapeChar; } return c;  
+if(c==null){ c=OTHER; } return c;  
+if(c==null){ c=0;}; } return c;  
+if(c==null){ c=getNextEscapeChar; } return c;  
+if(c==null){ c=io.EOF; } return c;  
+if(c==null){ c=0x09; } return c;  
+if(c==null){ c=CHAR; } return c;  
+if(c==null){ c=NO_CR; } return c;  
+if(c==null){ c=escapeSequence; } return c;  
+if(c==null){ c=WHITESPACE; } return c;  
+if(c==null){ c=0xC; } return c;  
+if(c==null){ c=""; } return c;  
+if(c==null){ c=length; } return c;  
+if(c==null){ c='\0';}; } return c;  
+if(c==null){ c=normal; } return c;  
+if(c==null){ c=0x1f; } return c;  
+if(c==null){ c=CSI; } return c;  
+if(c==null){ c=cbuf.length; } return c;  
+if(c==null){ c=off; } return c;  
+if(c==null){ c=pos; } return c;  
+if(c==null){ c=buffer; } return c;  
+if(c==null){ c=INITIAL_ESCAPE; } return c;  
+if(c==null){ c=readNext; } return c;  
+if(c==null){ c=\\\\; } return c;  
+if(c==null){ c=0x000C; } return c;  
+if(c==null){ c='\000'; }; } return c;  
+if(c==null){ c=initial; } return c;  
+if(c==null){ c= ';; } return c;  
+if(c==null){ c=data; } return c;  
+if(c==null){ c=0x0009; } return c;  
+if(c==null){ c=NUL; } return c;  
+if(c==null){ c=ESCAPE_NONE; } return c;  
+if(c==null){ c=0x0a; } return c;  
+if(c==null){ c=backspace; } return c;  
+if(c==null){ c=0x21; } return c;  
+if(c==null){ c=startEscape; } return c;  
+if(c==null){ c= '\n'; } return c;  
+if(c==null){ c=0x9; } return c;  
+if(c==null){ c=nextEscape(); }; } return c;  
+if(c==null){ c=initialEscape; } return c;  
+if(c==null){ c=0x0; } return c;  
+if(c==null){ c=0x1b; } return c;  
+if(c==null){ c=input.read(); } return c;  
+if(c==null){ c=0x0D; } return c;  
+if(c==null){ c=readEscape(); } return c;  
+if(c==null){ c=fillEscape(); }; } return c;  
+if(c==null){ c=charACTERS; } return c;  
+if(c==null){ c=ESCAPED; } return c;  
+if(c==null){ c=UTF_8; } return c;  
+if(c==null){ c=defaultEscapeChar; } return c;  
+if(c==null){ c=super.readEscape; } return c;  
+if(c==null){ c=0xC2; } return c;  
+if(c==null){ c=0x0020; } return c;  
+if(c==null){return  -1;} return c;  
+if(c==null){return  0;} return c;  
+if(c==null){return  null;} return c;  
+if(c==null){return  EOF;} return c;  
+if(c==null){return  CR;} return c;  
+if(c==null){return  c;;} return c;  
+if(c==null){return  null;;} return c;  
+if(c==null){return  c;} return c;  
+if(c==null){return null;} return c;  
+if(c==null){return  0;;} return c;  
+if(c==null){return 0;} return c;  
+if(c==null){return  NULL;} return c;  
+if(c==null){return  CR;;} return c;  
+if(c==null){return  -1;;} return c;  
+if(c==null){return -1;} return c;  
+if(c==null){return EOF;} return c;  
+if(c==null){return c;} return c;  
+if(c==null){return  EOF;;} return c;  
+if(c==null){return  eof;} return c;  
+if(c==null){return ;;} return c;  
+if(c==null){return  false;} return c;  
+if(c==null){return  DONE;} return c;  
+if(c==null){return CR;} return c;  
+if(c==null){return NULL;} return c;  
+if(c==null){return  '\0';;} return c;  
+if(c==null){return  DEFAULT_ESCAPE;} return c;  
+if(c==null){return c;;} return c;  
+if(c==null){return  false;;} return c;  
+if(c==null){return  ' ';;} return c;  
+if(c==null){return  0xFF;} return c;  
+if(c==null){return null;;} return c;  
+if(c==null){return 0;;} return c;  
+if(c==null){return eof;} return c;  
+if(c==null){return  0x00;} return c;  
+if(c==null){return CR;;} return c;  
+if(c==null){return  1;} return c;  
+if(c==null){return  ESCAPED;} return c;  
+if(c==null){return };;} return c;  
+if(c==null){return  readEscape();;} return c;  
+if(c==null){return EOF;;} return c;  
+if(c==null){return  ' ';} return c;  
+if(c==null){return  1;;} return c;  
+if(c==null){return  C;} return c;  
+if(c==null){return  NULL;;} return c;  
+if(c==null){return  DONE;;} return c;  
+if(c==null){return  0xff;} return c;  
+if(c==null){return  EMPTY;} return c;  
+if(c==null){return ';;} return c;  
+if(c==null){return  '\n';;} return c;  
+if(c==null){return false;} return c;  
+if(c==null){return  0; ;} return c;  
+if(c==null){return  0x0000;} return c;  
+if(c==null){return  INVALID_ESCAPE;} return c;  
+if(c==null){return  EOL;} return c;  
+if(c==null){return  DEFAULT;} return c;  
+if(c==null){return  '\0';} return c;  
+if(c==null){return  ESC;} return c;  
+if(c==null){return  -2;} return c;  
+if(c==null){return  RC;} return c;  
+if(c==null){return   EOF;} return c;  
+if(c==null){return  INVALID_CHAR;} return c;  
+if(c==null){return  eof;;} return c;  
+if(c==null){return ESCAPE;} return c;  
+if(c==null){return  ENTER;} return c;  
+if(c==null){return 1;} return c;  
+if(c==null){return  Null;} return c;  
+if(c==null){return  defaultEscape;} return c;  
+if(c==null){return  INVALID;} return c;  
+if(c==null){return '\0';;} return c;  
+if(c==null){return  '0';;} return c;  
+if(c==null){return  NONE;} return c;  
+if(c==null){return ;};} return c;  
+if(c==null){return -1;;} return c;  
+if(c==null){return DEFAULT_ESCAPE;} return c;  
+if(c==null){return  '\\';;} return c;  
+if(c==null){return  '?';;} return c;  
+if(c==null){return  LF;} return c;  
+if(c==null){return  0xfffd;} return c;  
+if(c==null){return  RC;;} return c;  
+if(c==null){return   null;} return c;  
+if(c==null){return RC;;} return c;  
+if(c==null){return  terminator;} return c;  
+if(c==null){return  '\"';;} return c;  
+if(c==null){return  c; ;} return c;  
+if(c==null){return  '';;} return c;  
+if(c==null){return  "";;} return c;  
+if(c==null){return FF;} return c;  
+if(c==null){return  ESC;;} return c;  
+if(c==null){return  STRING;} return c;  
+if(c==null){return  '\uFFFD';;} return c;  
+if(c==null){return  eol;} return c;  
+if(c==null){return  -11;} return c;  
+if(c==null){return RC;} return c;  
+if(c==null){return  true;} return c;  
+if(c==null){return  '\0;} return c;  
+if(c==null){return  readEscape;} return c;  
+if(c==null){return  '\uFFFD';} return c;  
+if(c==null){return  null; };} return c;  
+if(c==null){return  NIL;} return c;  
+if(c==null){return  CHAR;} return c;  
+if(c==null){return  NONE;;} return c;  
+if(c==null){return  ;;} return c;  
+if(c==null){return  '}';;} return c;  
+if(c==null){return };} return c;  
+if(c==null){return NULL;;} return c;  
+if(c==null){return  RETURN;} return c;  
+if(c==null){return  CRLF;} return c;  
+if(c==null){return  0xFFFF;} return c;  
+if(c==null){return initialValue;} return c;  
+if(c==null){return  b;} return c;  
+if(c==null){return  SPACE;} return c;  
+if(c==null){return  null;};} return c;  
+if(c==null){return eof;;} return c;  
+if(c==null){return  NULL_CHAR;} return c;  
+if(c==null){return 1;;} return c;  
+if(c==null){return DEFAULT;} return c;  
+if(c==null){return  C_NULL;} return c;  
+if(c==null){return  NUL;} return c;  
+if(c==null){return EOS;} return c;  
+if(c==null){return  '\000';;} return c;  
+if(c==null){return  ';';;} return c;  
+if(c==null){return  -1 ;} return c;  
+if(c==null){return  c; };} return c;  
+if(c==null){return  ~';;} return c;  
+if(c==null){return  ESC_NULL;} return c;  
+if(c==null){return  '#';;} return c;  
+if(c==null){return  WHITESPACE;} return c;  
+if(c==null){return  DEFAULT_VALUE;} return c;  
+if(c==null){return  2;} return c;  
+if(c==null){return  cb;} return c;  
+if(c==null){return   0;} return c;  
+if(c==null){return  -1L;} return c;  
+if(c==null){return INVALID_ESCAPE;} return c;  
+if(c==null){return  ';;} return c;  
+if(c==null){return  defaultValue;} return c;  
+if(c==null){return  '"';;} return c;  
+if(c==null){return false;;} return c;  
+if(c==null){return VALUE;} return c;  
+if(c==null){return (-1;} return c;  
+if(c==null){return  '=';;} return c;  
+if(c==null){return INVALID;} return c;  
+if(c==null){return '\0;} return c;  
+if(c==null){return  ~c;} return c;  
+if(c==null){return  'x';;} return c;  
+if(c==null){return  '\n';} return c;  
+if(c==null){return  null; ;} return c;  
+if(c==null){return  LF;;} return c;  
+if(c==null){return  '};} return c;  
+if(c==null){return  EMPTY;;} return c;  
+if(c==null){return  NOOP;} return c;  
+if(c==null){return  LITERAL;} return c;  
+if(c==null){return  '?';} return c;  
+if(c==null){return  '\n;} return c;  
+if(c==null){return  STOP;} return c;  
+if(c==null){return  undefined;} return c;  
+if(c==null){return  NULL_ESCAPE;} return c;  
+if(c==null){return  'r';;} return c;  
+if(c==null){return  DEFAULT;;} return c;  
+if(c==null){return  true;;} return c;  
+if(c==null){return  INITIAL;} return c;  
+if(c==null){return  readEscape();} return c;  
+if(c==null){return ;} return c;  
+if(c==null){return  UNKNOWN;} return c;  
+if(c==null){return  n;} return c;  
+if(c==null){return 0x00;} return c;  
+if(c==null){return  0; };} return c;  
+if(c==null){return NEL;} return c;  
+if(c==null){return  b;;} return c;  
+if(c==null){return  rc;} return c;  
+if(c==null){return  -1l;} return c;  
+if(c==null){return  CCR;} return c;  
+if(c==null){return  NAN;} return c;  
+if(c==null){return  'u';;} return c;  
+if(c==null){return  KEEP;} return c;  
+if(c==null){return  ENTER;;} return c;  
+if(c==null){return   -1;} return c;  
+if(c==null){return  3;} return c;  
+if(c==null){return  ERROR;} return c;  
+if(c==null){return  '\ufffd';;} return c;  
+if(c==null){return  C;;} return c;  
+if(c==null){return  "null";;} return c;  
+if(c==null){return  nextEscape;} return c;  
+if(c==null){return  rc;;} return c;  
+if(c==null){return  RETURN_NULL;} return c;  
+if(c==null){return  default;} return c;  
+if(c==null){return 0xFF;} return c;  
+if(c==null){return  0x80;} return c;  
+if(c==null){return  SPACE;;} return c;  
+if(c==null){return  NO_ROOM;} return c;  
+if(c==null){return  EOL;;} return c;  
+if(c==null){return >-1;} return c;  
+if(c==null){return  RC_NULL;} return c;  
+if(c==null){return  FALSE;} return c;  
+if(c==null){return  cr;;} return c;  
+if(c==null){return  f;} return c;  
+if(c==null){return  cr;} return c;  
+if(c==null){return  SKIP;} return c;  
+if(c==null){return  '\u0000;} return c;  
+if(c==null){return  RCDATA;} return c;  
+if(c==null){return  -1 ;;} return c;  
+if(c==null){return  CR; ;} return c;  
+if(c==null){return  -1 ;} return c;  
+if(c==null){return  <0;} return c;  
+if(c==null){return  '}';;} return c;  
+if(c==null){return  c;};} return c;  
+if(c==null){return  c ;;} return c;  
+if(c==null){return  ~0;} return c;  
+if(c==null){return '\n';;} return c;  
+if(c==null){return   null;;} return c;  
+if(c==null){return  ESCAPE;} return c;  
+if(c==null){return   false;} return c;  
+if(c==null){return  C0;} return c;  
+if(c==null){return  return -1;} return c;  
+if(c==null){return (0);;} return c;  
+if(c==null){return  NEWLINE;} return c;  
+if(c==null){return  '\t';;} return c;  
+if(c==null){return  CR; };} return c;  
+if(c==null){return  DEFAULT_QUOTE;} return c;  
+if(c==null){return 0; ;} return c;  
+if(c==null){return  EMPTY_STRING;} return c;  
+if(c==null){return  Reader.EOF;} return c;  
+if(c==null){return  0x10000;} return c;  
+if(c==null){return  'a';;} return c;  
+if(c==null){return  CONTINUE;} return c;  
+if(c==null){return  -2;;} return c;  
+if(c==null){return  DEFAULT_CHAR;} return c;  
+if(c==null){return  '\r';;} return c;  
+if(c==null){return  (-1;} return c;  
+if(c==null){return  '\uFFFD;} return c;  
+if(c==null){return  endOfStream;} return c;  
+if(c==null){return '\uFFFD';;} return c;  
+if(c==null){return  endOfInput;} return c;  
+if(c==null){return   c;} return c;  
+if(c==null){return  NULL_VALUE;} return c;  
+if(c==null){return INVALID_CHAR;} return c;  
+if(c==null){return  return null;} return c;  
+if(c==null){return  'x';} return c;  
+if(c==null){return  99999999;} return c;  
+if(c==null){return  CBOR;} return c;  
+if(c==null){return  CHR;} return c;  
+if(c==null){return  '1';;} return c;  
+if(c==null){return  0x20;} return c;  
+if(c==null){return  REPLACEMENT;} return c;  
+if(c==null){return  return null;;} return c;  
+if(c==null){return  c+1;} return c;  
+if(c==null){return  WRITE_ERROR;} return c;  
+if(c==null){return  NO_CR;} return c;  
+if(c==null){return  nextEscape();;} return c;  
+if(c==null){return  EOF; };} return c;  
+if(c==null){return '\0';} return c;  
+if(c==null){ c=0; } return c;  
+if(c==null){ c=eof; } return c;  
+if(c==null){ c=EOF; } return c;  
+if(c==null){ c=0xfffd; } return c;  
+if(c==null){ c=0; }; } return c;  
+if(c==null){ c=DEFAULT_ESCAPE; } return c;  
+if(c==null){ c=CR; } return c;  
+if(c==null){ c=defaultEscape; } return c;  
+if(c==null){ c=0x00; } return c;  
+if(c==null){ c=0xFF; } return c;  
+if(c==null){ c=initialValue; } return c;  
+if(c==null){ c=null; } return c;  
+if(c==null){ c=0xff; } return c;  
+if(c==null){ c=1; } return c;  
+if(c==null){ c=SPACE; } return c;  
+if(c==null){ c=';; } return c;  
+if(c==null){ c= -1; } return c;  
+if(c==null){ c=read(); }; } return c;  
+if(c==null){ c=FF; } return c;  
+if(c==null){ c=nextEscape; } return c;  
+if(c==null){ c=0x20; } return c;  
+if(c==null){ c=readEscape; } return c;  
+if(c==null){ c=0x80; } return c;  
+if(c==null){ c=readEscape(); }; } return c;  
+if(c==null){ c=fillEscape; } return c;  
+if(c==null){ c=0xFFFF; } return c;  
+if(c==null){ c=ESCAPE; } return c;  
+if(c==null){ c=next; } return c;  
+if(c==null){ c=DEFAULT; } return c;  
+if(c==null){ c=EOL; } return c;  
+if(c==null){ c='\0'; }; } return c;  
+if(c==null){ c=0x0000; } return c;  
+if(c==null){ c='\0; } return c;  
+if(c==null){ c='\0'; } return c;  
+if(c==null){ c=0xFFFD; } return c;  
+if(c==null){ c=NORMAL; } return c;  
+if(c==null){ c=cbuf; } return c;  
+if(c==null){ c=NULL; } return c;  
+if(c==null){ c=ch; } return c;  
+if(c==null){ c=readChar; } return c;  
+if(c==null){ c=delimiter; } return c;  
+if(c==null){ c=false; } return c;  
+if(c==null){ c=getNextEscape; } return c;  
+if(c==null){ c=end; } return c;  
+if(c==null){ c=0; return null; } return c;  
+if(c==null){ c=0; return c; } return c;  
+if(c==null){ c=in.read; } return c;  
+if(c==null){ c=SKIP; } return c;  
+if(c==null){ c=UTF8; } return c;  
+if(c==null){ c=NL; } return c;  
+if(c==null){ c=eof; }; } return c;  
+if(c==null){ c=DELIMITER; } return c;  
+if(c==null){ c=readEscape() }; } return c;  
+if(c==null){ c=';'}; } return c;  
+if(c==null){ c=NONE; } return c;  
+if(c==null){ c=RC; } return c;  
+if(c==null){ c=DEFAULT_CHAR; } return c;  
+if(c==null){ c= 0; } return c;  
+if(c==null){ c=0x10000; } return c;  
+if(c==null){ c=VALUE; } return c;  
+if(c==null){ c=TEXT; } return c;  
+if(c==null){ c=nextChar; } return c;  
+if(c==null){ c=escape; } return c;  
+if(c==null){ c=DEFAULT_VALUE; } return c;  
+if(c==null){ c=0x1F; } return c;  
+if(c==null){ c=C; } return c;  
+if(c==null){ c='\n; } return c;  
+if(c==null){ c=DONE; } return c;  
+if(c==null){ c=0x0A; } return c;  
+if(c==null){ c=0xffff; } return c;  
+if(c==null){ c=0x7F; } return c;  
+if(c==null){ c=CR; }; } return c;  
+if(c==null){ c=0; return 0; } return c;  
+if(c==null){ c=CRLF; } return c;  
+if(c==null){ c=FALLBACK; } return c;  
+if(c==null){ c=readNextEscape; } return c;  
+if(c==null){ c='; }; } return c;  
+if(c==null){ c=ENTER; } return c;  
+if(c==null){ c=INITIAL; } return c;  
+if(c==null){ c=TAB; } return c;  
+if(c==null){ c= '\0' }; } return c;  
+if(c==null){ c=value; } return c;  
+if(c==null){ c=0x10; } return c;  
+if(c==null){ c=IO.EOF; } return c;  
+if(c==null){ c=EOF; }; } return c;  
+if(c==null){ c= eof; } return c;  
+if(c==null){ c=readInt(); }; } return c;  
+if(c==null){ c=STRING; } return c;  
+if(c==null){ c=unread; } return c;  
+if(c==null){ c=cursor; } return c;  
+if(c==null){ c=read(); return c; } return c;  
+if(c==null){ c= ' '; } return c;  
+if(c==null){ c=marker; } return c;  
+if(c==null){ c=read(); return null; } return c;  
+if(c==null){ c=processEscape; } return c;  
+if(c==null){ c=DEFAULT_ESC; } return c;  
+if(c==null){ c=0x000A; } return c;  
+if(c==null){ c='\uFFFD'; } return c;  
+if(c==null){ c=readChar(); }; } return c;  
+if(c==null){ c=0x0F; } return c;  
+if(c==null){ c=0x01; } return c;  
+if(c==null){ c=escapeChar; } return c;  
+if(c==null){ c=start; } return c;  
+if(c==null){ c=read; } return c;  
+if(c==null){ c=0xC0; } return c;  
+if(c==null){ c=utf8; } return c;  
+if(c==null){ c=in.read(); } return c;  
+if(c==null){ c=cb; } return c;  
+if(c==null){ c=AST#unary_expression#Left-1AST#unary_expression#Right; } return c;  
+if(c==null){ c=0x07; } return c;  
+if(c==null){ c=back; } return c;  
+if(c==null){ c=0xEF; } return c;  
+if(c==null){ c=-1; } return c;  
+if(c==null){ c=R; } return c;  
+if(c==null){ c=0x00FF; } return c;  
+if(c==null){ c=EndOfStream; } return c;  
+if(c==null){ c=DEFAULT_QUOTE; } return c;  
+if(c==null){ c=BACKSLASH; } return c;  
+if(c==null){ c=true; } return c;  
+if(c==null){ c=''; } return c;  
+if(c==null){ c=null; }; } return c;  
+if(c==null){ c=8; } return c;  
+if(c==null){ c=NEWLINE; } return c;  
+if(c==null){ c=reader.readEscape; } return c;  
+if(c==null){ c=c; } return c;  
+if(c==null){ c=readNextChar; } return c;  
+if(c==null){ c=endChar; } return c;  
+if(c==null){ c=newline; } return c;  
+if(c==null){ c=0;  }; } return c;  
+if(c==null){ c=0x7E; } return c;  
+if(c==null){ c='\uFFFD; } return c;  
+if(c==null){ c=getNextEscape(); }; } return c;  
+if(c==null){ c=0; readEscape; } return c;  
+if(c==null){ c=cr; } return c;  
+if(c==null){ c=0x03; } return c;  
+if(c==null){ c=eol; } return c;  
+if(c==null){ c=r; } return c;  
+if(c==null){ c='\u0000; } return c;  
+if(c==null){ c=readChar() }; } return c;  
+if(c==null){ c='\n'; } return c;  
+if(c==null){ c=LF; } return c;  
+if(c==null){ c=scanEscape; } return c;  
+if(c==null){ c= EOF; } return c;  
+if(c==null){ c=ESCAPE_CHAR; } return c;  
+if(c==null){ c=eofChar; } return c;  
+if(c==null){ c=};; } return c;  
+if(c==null){ c=1; }; } return c;  
+if(c==null){ c=fallback; } return c;  
+if(c==null){ c=separator; } return c;  
+if(c==null){ c=SPACE; }; } return c;  
+if(c==null){ c=DEFAULT_CHARACTER; } return c;  
+if(c==null){ c=WS; } return c;  
+if(c==null){ c=UNESCAPED; } return c;  
+if(c==null){ c=peekChar; } return c;  
+if(c==null){ c=2; } return c;  
+if(c==null){ c=UNDEFINED; } return c;  
+if(c==null){ c=endEscape; } return c;  
+if(c==null){ c=reset; } return c;  
+if(c==null){ c=EMPTY; } return c;  
+if(c==null){ c=System.identity; } return c;  
+if(c==null){ c=0xA; } return c;  
+if(c==null){ c=fillBuffer; } return c;  
+if(c==null){ c= '\0'; }; } return c;  
+if(c==null){ c=read() }; } return c;  
+if(c==null){ c='\uFFFD' }; } return c;  
+if(c==null){ c=defaultValue; } return c;  
+if(c==null){ c=peek(); }; } return c;  
+if(c==null){ c=leadSurrogate; } return c;  
+if(c==null){ c=ERROR; } return c;  
+if(c==null){ c=q; } return c;  
+if(c==null){ c=','; } return c;  
+if(c==null){ c=';'; } return c;  
+if(c==null){ c='\n'; }; } return c;  
+if(c==null){ c=newLine; } return c;  
+if(c==null){ c=EO; } return c;  
+if(c==null){ c=esc; } return c;  
+if(c==null){ c=0x7f; } return c;  
+if(c==null){ c=EOS; } return c;  
+if(c==null){ c=getNextChar; } return c;  
+if(c==null){ c=input.read; } return c;  
+if(c==null){ c=BACKSPACE; } return c;  
+if(c==null){ c=writeEscape; } return c;  
+if(c==null){ c= '\0'; } return c;  
+if(c==null){ c=0; return EOF; } return c;  
+if(c==null){ c=separatorChar; } return c;  
+if(c==null){ c=0x30; } return c;  
+if(c==null){ c=10; } return c;  
+if(c==null){ c=IN; } return c;  
+if(c==null){ c=n; } return c;  
+if(c==null){ c=0;}; } return c;  
+if(c==null){ c=255; } return c;  
+if(c==null){ c=terminator; } return c;  
+if(c==null){ c=b; } return c;  
+if(c==null){ c=findEscape; } return c;  
+if(c==null){ c=NextEscape; } return c;  
+if(c==null){ c=0x0E; } return c;  
+if(c==null){ c=N; } return c;  
+if(c==null){ c=readEscapeChar; } return c;  
+if(c==null){ c=OTHER; } return c;  
+if(c==null){ c=0;}; } return c;  
+if(c==null){ c=getNextEscapeChar; } return c;  
+if(c==null){ c=io.EOF; } return c;  
+if(c==null){ c=0x09; } return c;  
+if(c==null){ c=CHAR; } return c;  
+if(c==null){ c=NO_CR; } return c;  
+if(c==null){ c=escapeSequence; } return c;  
+if(c==null){ c=WHITESPACE; } return c;  
+if(c==null){ c=0xC; } return c;  
+if(c==null){ c=""; } return c;  
+if(c==null){ c=length; } return c;  
+if(c==null){ c='\0';}; } return c;  
+if(c==null){ c=normal; } return c;  
+if(c==null){ c=0x1f; } return c;  
+if(c==null){ c=CSI; } return c;  
+if(c==null){ c=cbuf.length; } return c;  
+if(c==null){ c=off; } return c;  
+if(c==null){ c=pos; } return c;  
+if(c==null){ c=buffer; } return c;  
+if(c==null){ c=INITIAL_ESCAPE; } return c;  
+if(c==null){ c=readNext; } return c;  
+if(c==null){ c=\\\\; } return c;  
+if(c==null){ c=0x000C; } return c;  
+if(c==null){ c='\000'; }; } return c;  
+if(c==null){ c=initial; } return c;  
+if(c==null){ c= ';; } return c;  
+if(c==null){ c=data; } return c;  
+if(c==null){ c=0x0009; } return c;  
+if(c==null){ c=NUL; } return c;  
+if(c==null){ c=ESCAPE_NONE; } return c;  
+if(c==null){ c=0x0a; } return c;  
+if(c==null){ c=backspace; } return c;  
+if(c==null){ c=0x21; } return c;  
+if(c==null){ c=startEscape; } return c;  
+if(c==null){ c= '\n'; } return c;  
+if(c==null){ c=0x9; } return c;  
+if(c==null){ c=nextEscape(); }; } return c;  
+if(c==null){ c=initialEscape; } return c;  
+if(c==null){ c=0x0; } return c;  
+if(c==null){ c=0x1b; } return c;  
+if(c==null){ c=input.read(); } return c;  
+if(c==null){ c=0x0D; } return c;  
+if(c==null){ c=readEscape(); } return c;  
+if(c==null){ c=fillEscape(); }; } return c;  
+if(c==null){ c=charACTERS; } return c;  
+if(c==null){ c=ESCAPED; } return c;  
+if(c==null){ c=UTF_8; } return c;  
+if(c==null){ c=defaultEscapeChar; } return c;  
+if(c==null){ c=super.readEscape; } return c;  
+if(c==null){ c=0xC2; } return c;  
+if(c==null){ c=0x0020; } return c;  
+if(c<0){ return c;}  
+if(eof){ return c;}  
+if(c < 0){ return c;}  
+if(c>=0){ return c;}  
+if(DEBUG){ return c;}  
+if(c >= 0){ return c;}  
+if(c!=EOF){ return c;}  
+if(c==EOF){ return c;}  
+if(c==0){ return c;}  
+if(c=='\n'){ return c;}  
+if(c != 0){ return c;}  
+if(c == 0){ return c;}  
+if(c == '\n'){ return c;}  
+if(c>0){ return c;}  
+if(false){ return c;}  
+if(debug){ return c;}  
+if(c<0x20){ return c;}  
+if(c!=0){ return c;}  
+if(true){ return c;}  
+if(c < 0x20){ return c;}  
+if(c!='\n'){ return c;}  
+if(c != '\n'){ return c;}  
+if(c > 0){ return c;}  
+if(c == '\\'){ return c;}  
+if(in.available()==0){ return c;}  
+if(c<=0){ return c;}  
+if(c != EOF){ return c;}  
+if(c=='\n){ return c;}  
+if(c < 128){ return c;}  
+if(c > 127){ return c;}  
+if(c != -1){ return c;}  
+if(c==eof){ return c;}  
+if(escaping){ return c;}  
+if(c < 0x80){ return c;}  
+if(escaped){ return c;}  
+if(c == -1){ return c;}  
+if(c == EOF){ return c;}  
+if(eos){ return c;}  
+if(isEscaping){ return c;}  
+if(c!='\n){ return c;}  
+if(strict){ return c;}  
+if(c <= 0){ return c;}  
+if(isEndOfStream){ return c;}  
+if(c<0x80){ return c;}  
+if(isEscape){ return c;}  
+if(closed){ return c;}  
+if(isClosed){ return c;}  
+if(c>127){ return c;}  
+if(c == CR){ return c;}  
+if(c=='\\'){ return c;}  
+if(c!='\t'){ return c;}  
+if(newline){ return c;}  
+if(c < ' '){ return c;}  
+if(eof==false){ return c;}  
+if(c=='\t){ return c;}  
+if(c=='\r'){ return c;}  
+if(c==ESCAPE){ return c;}  
+if(c=='\t'){ return c;}  
+if(c>='\t'){ return c;}  
+if(c!='\t){ return c;}  
+if(c<32){ return c;}  
+if(in.read()==0){ return c;}  
+if(c!=eof){ return c;}  
+if(c == '\t'){ return c;}  
+if(c < 32){ return c;}  
+if(c<=127){ return c;}  
+if(isEOS){ return c;}  
+if(isEOF){ return c;}  
+if(shouldEscape){ return c;}  
+if(c <= 127){ return c;}  
+if(c==TAB){ return c;}  
+if(c==-1){ return c;}  
+if(isEmpty){ return c;}  
+if(c==CR){ return c;}  
+if(c=='\0){ return c;}  
+if(c=='\0'){ return c;}  
+if(isEndOfInput){ return c;}  
+if(EOF){ return c;}  
+if(c != '\\'){ return c;}  
+if(trace){ return c;}  
+if(VERBOSE){ return c;}  
+if(c<128){ return c;}  
+if(isEnd){ return c;}  
+if(isEscape(c){ return c;}  
+if(c<='\t'){ return c;}  
+if(eofReached){ return c;}  
+if(c != CR){ return c;}  
+if(c == '\r'){ return c;}  
+if(in.read()==c){ return c;}  
+if(c<10){ return c;}  
+if(c<=0xFF){ return c;}  
+if(keepQuotes){ return c;}  
+if(b){ return c;}  
+if(c>eof){ return c;}  
+if(escape){ return c;}  
+if(c != ' '){ return c;}  
+if(open){ return c;}  
+if(needsEscape){ return c;}  
+if(checkEOF){ return c;}  
+if(c < 127){ return c;}  
+if(c!=ESCAPE){ return c;}  
+if(disabled){ return c;}  
+if(isNewLine){ return c;}  
+if(escapeSequence){ return c;}  
+if(checkEscape){ return c;}  
+if(c >= '\n'){ return c;}  
+if(isEscape(c)){ return c;}  
+if(c != '\t'){ return c;}  
+if(c!='\0){ return c;}  
+if(isTab(c){ return c;}  
+if(c >= ' '){ return c;}  
+if(c>255){ return c;}  
+if(c==0x00){ return c;}  
+if(c<=TAB){ return c;}  
+if(isTab){ return c;}  
+if(fillBuffer){ return c;}  
+if(safeMode){ return c;}  
+if(ch == '\n'){ return c;}  
+if(c!='\\'){ return c;}  
+if(eof()){ return c;}  
+if(c!=-1){ return c;}  
+if(skipSpaces()){ return c;}  
+if(ch == '\\'){ return c;}  
+if(c <= 0xFF){ return c;}  
+if(ch == 0){ return c;}  
+if(c<256){ return c;}  
+if(c >= 0x20){ return c;}  
+if(quoted){ return c;}  
+if(isWhitespace(c){ return c;}  
+if(c!='\0'){ return c;}  
+if(in.available()==1){ return c;}  
+if(c=='\u0000){ return c;}  
+if(in != null){ return c;}  
+if(done){ return c;}  
+if(c == '\n){ return c;}  
+if(in.read()>0){ return c;}  
+if(readEscape() == c){ return c;}  
+if(readEscape() != c){ return c;}  
+if(c < 256){ return c;}  
+if(ch > 0){ return c;}  
+if(c == 13){ return c;}  
+if(c<=0x20){ return c;}  
+if(skipSpaces){ return c;}  
+if(DEBUG_ESCAPING){ return c;}  
+if(0 == c){ return c;}  
+if(newLine){ return c;}  
+if(c == 0x00){ return c;}  
+if(close){ return c;}  
+if(c!='\r'){ return c;}  
+if(isEof){ return c;}  
+if(c < 10){ return c;}  
+if(isFull){ return c;}  
+if(c<=0xff){ return c;}  
+if(readEscape() == 0){ return c;}  
+if(c>=0x20){ return c;}  
+if(isTab(c)){ return c;}  
+if(read() == c){ return c;}  
+if(c>='\n'){ return c;}  
+if(LOG){ return c;}  
+if(safe){ return c;}  
+if(c<127){ return c;}  
+if(c == '\0'){ return c;}  
+if(noEscape){ return c;}  
+if(c<=EOF){ return c;}  
+if(c != 0x00){ return c;}  
+if(c < '0'){ return c;}  
+if(c == LF){ return c;}  
+if(ch != 0){ return c;}  
+if(debugMode){ return c;}  
+if(c <= '\t'){ return c;}  
+if(c >= 0x80){ return c;}  
+if(c==0xFF){ return c;}  
+if(in == null){ return c;}  
+if(c==ESCAPE_CHAR){ return c;}  
+if(isEndOfFile){ return c;}  
+if(requireEscape){ return c;}  
+if(c!=CR){ return c;}  
+if(n > 0){ return c;}  
+if(c<=10){ return c;}  
+if(c == eof){ return c;}  
+if(0==c){ return c;}  
+if(verbose){ return c;}  
+if(in.read()!=c){ return c;}  
+if(needsEscaping){ return c;}  
+if(endReached){ return c;}  
+if(c < '\n'){ return c;}  
+if(isLast){ return c;}  
+if(0 != c){ return c;}  
+if(readEscape() != 0){ return c;}  
+if(c <= 0xFFFF){ return c;}  
+if(isNewLine(c){ return c;}  
+if(UTF8){ return c;}  
+if(c=='\\){ return c;}  
+if( c < 0){ return c;}  
+if(c != eof){ return c;}  
+if(c==SPACE){ return c;}  
+if(eof == false){ return c;}  
+if(terminated){ return c;}  
+if(c>='\uFFFD'){ return c;}  
+if(c<=0xFFFF){ return c;}  
+if(backspace){ return c;}  
+if(c<=='\t'){ return c;}  
+if(c <= '\n'){ return c;}  
+if(relaxed){ return c;}  
+if(break){ return c;}  
+if(finished){ return c;}  
+if(in.read()!=0){ return c;}  
+if(eof==true){ return c;}  
+if(separator){ return c;}  
+if(gotEOF){ return c;}  
+if( c >= 0){ return c;}  
+if(c != 0xFF){ return c;}  
+if(reader==null){ return c;}  
+if(cc){ return c;}  
+if(valid){ return c;}  
+if(CHECKSTYLE:OFF){ return c;}  
+if(c==escapeSequence){ return c;}  
+if(c>0xFF){ return c;}  
+if(in.ready()){ return c;}  
+if(c != '\0'){ return c;}  
+if(LOG.isDebugEnabled()){ return c;}  
+if(c=='"){ return c;}  
+if(in.unread()==0){ return c;}  
+if(c=='\'){ return c;}  
+if(c <= ' '){ return c;}  
+if(c <= 0xff){ return c;}  
+if(c!='\u0000){ return c;}  
+if(c < 0x0020){ return c;}  
+if(c==NULL){ return c;}  
+if(ch != '\n'){ return c;}  
+if(0 < c){ return c;}  
+if(c <= 0x20){ return c;}  
+if(c != '\n){ return c;}  
+if(read() != c){ return c;}  
+if(c>=0x80){ return c;}  
+if(c >= '\u0000){ return c;}  
+if(isNewLine(c)){ return c;}  
+if(c == 0xFF){ return c;}  
+if(c==DEFAULT_ESCAPE){ return c;}  
+if(c == '\t){ return c;}  
+if(c=='t'){ return c;}  
+if(in.ready()==false){ return c;}  
+if(isEOF(c){ return c;}  
+if(c < 0x10){ return c;}  
+if(isWhitespace(c)){ return c;}  
+if(c<0x0020){ return c;}  
+if(c != '\r'){ return c;}  
+if(out.write(c){ return c;}  
+if(isEscaped(c){ return c;}  
+if(shouldEscape(c)){ return c;}  

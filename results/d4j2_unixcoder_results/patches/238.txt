@@ -1,0 +1,2500 @@
+ return this;  
+ this;  
+ return null;  
+ ;  
+ nextToken;  
+ };  
+;  
+ super;  
+ //return this;  
+ return;  
+ return new TokenBuffer;  
+ token;  
+ return tokenBuffer;  
+ context;  
+ context = ctxt;  
+ return jp;  
+ ...;  
+ nextToken();  
+ //return null;  
+ null;  
+ start;  
+ //;  
+ try;  
+ startObject;  
+ init;  
+ fields;  
+ ctxt;  
+ buffer;  
+ read;  
+ p;  
+ --;  
+ stream;  
+ TokenBuffer tok;  
+ end;  
+ return ctx;  
+ token = jp;  
+ return ctxt;  
+ // return this;  
+ ctxt = null;  
+ throw new UnsupportedOperationException;  
+ return currentBuffer;  
+ return current;  
+ tokenBuffer;  
+ String name;  
+ jp.nextToken();;  
+ skip;  
+ this = jp;  
+ next;  
+ jp.nextToken;  
+ eof;  
+ return this;  
+ readStartObject;  
+ token = null;  
+ return START_OBJECT;  
+ String fieldName;  
+ head;  
+ readToken;  
+ branch;  
+ _token;  
+ syntax;  
+ nextToken();;  
+ ctxt = ctxt;  
+ field;  
+ fieldName;  
+ TokenBuffer buffer;  
+ internal;  
+ return currentStructure;  
+ this.nextToken;  
+ unread;  
+ return reader;  
+ import;  
+ return tokens;  
+ _token = jp;  
+ return buffer;  
+ indent;  
+ this.buffer;  
+ readObject;  
+ Context ctx = ctxt;  
+ EMPTY;  
+ scopes;  
+ pop;  
+ reader;  
+ return context;  
+ throw new IllegalStateException;  
+ code;  
+ //TODO;  
+ return nextToken;  
+ tokenizer;  
+ EOF;  
+ TokenBuffer tokenBuffer;  
+ TokenBuffer this;  
+ readObject;  
+ continue;  
+ return super;  
+ assert true;  
+ Stack;  
+ //return;  
+ Token buffer;  
+ throw new IOException;  
+ depth = 0;  
+ currentToken;  
+ nothing;  
+ tokenBuffer = null;  
+ ++;  
+ initialize;  
+ jp;  
+ scope;  
+ startToken;  
+ assert this != null;  
+ buffer = null;  
+ foo;  
+ push;  
+ path;  
+ readNext;  
+ ++depth;  
+ Skip;  
+ tokenBuffer = jp;  
+ parser;  
+ tok;  
+ return buf;  
+ this.currentToken;  
+ TOKEN;  
+ Fields;  
+ stack;  
+ currentStructure = jp;  
+ debug;  
+ tag;  
+ ReadObject;  
+ this.next;  
+ ..;  
+ readBuffer;  
+  ;  
+ return newValue;  
+ import String;  
+ check;  
+ readLine;  
+ Null;  
+ current = jp;  
+ return EMPTY;  
+ gc;  
+ return self;  
+ return currentValue;  
+ return new JsonToken;  
+ String name = null;  
+ TokenBuffer token;  
+ reset;  
+ head = jp;  
+ dummy;  
+ inputStream;  
+ skipSpaces;  
+ empty;  
+ assert this;  
+ ctx;  
+ readFields;  
+ nextTokenToken;  
+ "";  
+ TODO;  
+ break;  
+ readStartTag;  
+ return null;  
+ name;  
+ pass;  
+ pushToken;  
+ currentToken = jp;  
+ currentToken = null;  
+ this;  
+ tokens;  
+ marker;  
+ return this.buffer;  
+ object;  
+ this.token;  
+ $this;  
+ // return null;  
+ text;  
+ TokenBuffer t;  
+ return fields;  
+ it;  
+ return curr;  
+ ....;  
+ Objects;  
+ length = 0;  
+ parse;  
+ cursor;  
+ begin;  
+ return p;  
+ //this;  
+ //import;  
+ tokenizer = null;  
+ this.startObject;  
+ inputStream = jp;  
+ return jsonBuffer;  
+ _currentToken = jp;  
+ skipWhitespace;  
+ String token;  
+ //noinspection unchecked;  
+ return next;  
+ String fieldName = null;  
+ fieldName = null;  
+ TokenBuffer tb;  
+ _ = jp;  
+ currentStructure;  
+ _tokenBuffer;  
+ return text;  
+ return _currentToken;  
+ } ;  
+ <mask2> ;  
+ this.tokenBuffer;  
+ return new StringBuffer;  
+ indent = 0;  
+ return new ObjectBuffer;  
+ return startObject;  
+ Token buffer = null;  
+ //start;  
+ return currentTokenBuffer;  
+ readTokenBuffer;  
+ reader = jp;  
+ return new FieldBuffer;  
+ return currentToken;  
+ this.name;  
+ this.value;  
+ this.nextToken();  
+ copyCurrentStructure;  
+ return new JsonBuffer;  
+ this = ctxt;  
+ TokenBuffer tk;  
+ ctxt.nextToken();;  
+ TokenBuffer buf;  
+ this.currentStructure;  
+ return _tokenBuffer;  
+ jp.nextToken();  
+ String token = null;  
+ System.out;  
+ currentStructure = null;  
+ this.string;  
+ TokenBuffer result;  
+ _buffer = jp;  
+ return currTokenBuffer;  
+ this.stream;  
+ this.currentValue;  
+ pushCurrentStructure;  
+ new TokenBuffer;  
+ nextToken(jp);;  
+ this.start;  
+ TokenBuffer tokens;  
+ throw new IllegalStateException();  
+ this.stack;  
+ this.object;  
+ this.fields;  
+ return current_buffer;  
+ this.field;  
+ return this; copyCurrentStructure(jp);  
+ this; copyCurrentStructure(jp);  
+ return null; copyCurrentStructure(jp);  
+ nextToken; copyCurrentStructure(jp);  
+ ; copyCurrentStructure(jp);  
+ token; copyCurrentStructure(jp);  
+ super; copyCurrentStructure(jp);  
+; copyCurrentStructure(jp);  
+ TokenBuffer tok; copyCurrentStructure(jp);  
+ tokenBuffer; copyCurrentStructure(jp);  
+ return; copyCurrentStructure(jp);  
+ //return this; copyCurrentStructure(jp);  
+ }; copyCurrentStructure(jp);  
+ TokenBuffer buffer; copyCurrentStructure(jp);  
+ return new TokenBuffer; copyCurrentStructure(jp);  
+ return tokenBuffer; copyCurrentStructure(jp);  
+ context; copyCurrentStructure(jp);  
+ nextToken(); copyCurrentStructure(jp);  
+ TokenBuffer tokenBuffer; copyCurrentStructure(jp);  
+ ctxt; copyCurrentStructure(jp);  
+ //; copyCurrentStructure(jp);  
+ buffer; copyCurrentStructure(jp);  
+ init; copyCurrentStructure(jp);  
+ try; copyCurrentStructure(jp);  
+ nextToken();; copyCurrentStructure(jp);  
+ context = ctxt; copyCurrentStructure(jp);  
+ Token buffer; copyCurrentStructure(jp);  
+ TokenBuffer t; copyCurrentStructure(jp);  
+ //return null; copyCurrentStructure(jp);  
+ ...; copyCurrentStructure(jp);  
+ tokenBuffer = null; copyCurrentStructure(jp);  
+ startObject; copyCurrentStructure(jp);  
+ String name; copyCurrentStructure(jp);  
+ jp.nextToken();; copyCurrentStructure(jp);  
+ TokenBuffer token; copyCurrentStructure(jp);  
+ fields; copyCurrentStructure(jp);  
+ this.buffer; copyCurrentStructure(jp);  
+ TokenBuffer this; copyCurrentStructure(jp);  
+ this; copyCurrentStructure(jp);  
+ return this; copyCurrentStructure(jp);  
+ reader; copyCurrentStructure(jp);  
+ ctxt = ctxt; copyCurrentStructure(jp);  
+ this = jp; copyCurrentStructure(jp);  
+ read; copyCurrentStructure(jp);  
+ next; copyCurrentStructure(jp);  
+ tokenizer; copyCurrentStructure(jp);  
+ --; copyCurrentStructure(jp);  
+ stream; copyCurrentStructure(jp);  
+ p; copyCurrentStructure(jp);  
+ readToken; copyCurrentStructure(jp);  
+ tok; copyCurrentStructure(jp);  
+ null; copyCurrentStructure(jp);  
+ token = null; copyCurrentStructure(jp);  
+ return ctxt; copyCurrentStructure(jp);  
+ TokenBuffer tb; copyCurrentStructure(jp);  
+ end; copyCurrentStructure(jp);  
+ start; copyCurrentStructure(jp);  
+ // return this; copyCurrentStructure(jp);  
+ String fieldName; copyCurrentStructure(jp);  
+ field; copyCurrentStructure(jp);  
+ token = jp; copyCurrentStructure(jp);  
+ jp; copyCurrentStructure(jp);  
+ _token; copyCurrentStructure(jp);  
+ return reader; copyCurrentStructure(jp);  
+ Context ctx = ctxt; copyCurrentStructure(jp);  
+ TOKEN; copyCurrentStructure(jp);  
+ TokenBuffer b; copyCurrentStructure(jp);  
+ TokenBuffer buf; copyCurrentStructure(jp);  
+ fieldName; copyCurrentStructure(jp);  
+ jp.nextToken; copyCurrentStructure(jp);  
+ syntax; copyCurrentStructure(jp);  
+ foo; copyCurrentStructure(jp);  
+ internal; copyCurrentStructure(jp);  
+ tokenbuffer; copyCurrentStructure(jp);  
+ ctxt = null; copyCurrentStructure(jp);  
+ return tokens; copyCurrentStructure(jp);  
+ return ctx; copyCurrentStructure(jp);  
+ indent; copyCurrentStructure(jp);  
+ assert true; copyCurrentStructure(jp);  
+ branch; copyCurrentStructure(jp);  
+ TokenBuffer result; copyCurrentStructure(jp);  
+ return buffer; copyCurrentStructure(jp);  
+ this = ctxt; copyCurrentStructure(jp);  
+ tokenizer = null; copyCurrentStructure(jp);  
+ object; copyCurrentStructure(jp);  
+ String token; copyCurrentStructure(jp);  
+ TokenBuffer buff; copyCurrentStructure(jp);  
+ nextTokenToken; copyCurrentStructure(jp);  
+ assert this != null; copyCurrentStructure(jp);  
+ ReadObject; copyCurrentStructure(jp);  
+ this.nextToken; copyCurrentStructure(jp);  
+ readObject; copyCurrentStructure(jp);  
+ return currentBuffer; copyCurrentStructure(jp);  
+ parser; copyCurrentStructure(jp);  
+ TokenBuffer tk; copyCurrentStructure(jp);  
+ import; copyCurrentStructure(jp);  
+ currentToken; copyCurrentStructure(jp);  
+ Token buffer = null; copyCurrentStructure(jp);  
+ startToken; copyCurrentStructure(jp);  
+ ++depth; copyCurrentStructure(jp);  
+ tokenBuffer = this; copyCurrentStructure(jp);  
+  ; copyCurrentStructure(jp);  
+ String name = null; copyCurrentStructure(jp);  
+ readObject; copyCurrentStructure(jp);  
+ _token = jp; copyCurrentStructure(jp);  
+ initialize; copyCurrentStructure(jp);  
+ //this; copyCurrentStructure(jp);  
+ tokenBuffer = jp; copyCurrentStructure(jp);  
+ ctx; copyCurrentStructure(jp);  
+ return nextToken; copyCurrentStructure(jp);  
+ depth = 0; copyCurrentStructure(jp);  
+ return START_OBJECT; copyCurrentStructure(jp);  
+ value; copyCurrentStructure(jp);  
+ String s; copyCurrentStructure(jp);  
+ import TokenBuffer; copyCurrentStructure(jp);  
+ head; copyCurrentStructure(jp);  
+ token = this; copyCurrentStructure(jp);  
+ text; copyCurrentStructure(jp);  
+ return jp; copyCurrentStructure(jp);  
+ this.tokenBuffer; copyCurrentStructure(jp);  
+ it; copyCurrentStructure(jp);  
+ buffer = null; copyCurrentStructure(jp);  
+ nextToken(jp);; copyCurrentStructure(jp);  
+ debug; copyCurrentStructure(jp);  
+ tag; copyCurrentStructure(jp);  
+ String token = null; copyCurrentStructure(jp);  
+ Fields; copyCurrentStructure(jp);  
+ return context; copyCurrentStructure(jp);  
+ eof; copyCurrentStructure(jp);  
+ scopes; copyCurrentStructure(jp);  
+ String fieldName = null; copyCurrentStructure(jp);  
+ assert this; copyCurrentStructure(jp);  
+ readLine; copyCurrentStructure(jp);  
+ //TODO; copyCurrentStructure(jp);  
+ tree; copyCurrentStructure(jp);  
+ code; copyCurrentStructure(jp);  
+ _tokenBuffer; copyCurrentStructure(jp);  
+ EOF; copyCurrentStructure(jp);  
+ tokens; copyCurrentStructure(jp);  
+ inputStream; copyCurrentStructure(jp);  
+ depth++;; copyCurrentStructure(jp);  
+ return super; copyCurrentStructure(jp);  
+ readBuffer; copyCurrentStructure(jp);  
+ readTokenBuffer; copyCurrentStructure(jp);  
+ m; copyCurrentStructure(jp);  
+ this = this; copyCurrentStructure(jp);  
+ return buf; copyCurrentStructure(jp);  
+ Objects; copyCurrentStructure(jp);  
+ import JsonToken; copyCurrentStructure(jp);  
+ //return; copyCurrentStructure(jp);  
+ TokenBuffer tokens; copyCurrentStructure(jp);  
+ data; copyCurrentStructure(jp);  
+ return current; copyCurrentStructure(jp);  
+ readStartObject; copyCurrentStructure(jp);  
+ import String; copyCurrentStructure(jp);  
+   ; copyCurrentStructure(jp);  
+ throw new IOException; copyCurrentStructure(jp);  
+ String value; copyCurrentStructure(jp);  
+ return self; copyCurrentStructure(jp);  
+ Token buffer = this; copyCurrentStructure(jp);  
+ obj; copyCurrentStructure(jp);  
+ return null; copyCurrentStructure(jp);  
+ Context ctxt; copyCurrentStructure(jp);  
+ _buffer; copyCurrentStructure(jp);  
+ marker; copyCurrentStructure(jp);  
+ name; copyCurrentStructure(jp);  
+ indent = 0; copyCurrentStructure(jp);  
+ return this.buffer; copyCurrentStructure(jp);  
+ gc; copyCurrentStructure(jp);  
+ Return this; copyCurrentStructure(jp);  
+ currentToken = null; copyCurrentStructure(jp);  
+ nextTokenBuffer; copyCurrentStructure(jp);  
+ br; copyCurrentStructure(jp);  
+ Stack; copyCurrentStructure(jp);  
+ String str; copyCurrentStructure(jp);  
+ Context ctx; copyCurrentStructure(jp);  
+ length = 0; copyCurrentStructure(jp);  
+ scope; copyCurrentStructure(jp);  
+ nextTokenChar; copyCurrentStructure(jp);  
+ ret; copyCurrentStructure(jp);  
+ Buffer buffer; copyCurrentStructure(jp);  
+ ..; copyCurrentStructure(jp);  
+ input; copyCurrentStructure(jp);  
+ this.currentToken; copyCurrentStructure(jp);  
+ //buffer; copyCurrentStructure(jp);  
+ reader = jp; copyCurrentStructure(jp);  
+ TokenBuffer tmp; copyCurrentStructure(jp);  
+ token buffer; copyCurrentStructure(jp);  
+ SerializationContext ctxt; copyCurrentStructure(jp);  
+ String str = null; copyCurrentStructure(jp);  
+ throw new UnsupportedOperationException; copyCurrentStructure(jp);  
+ JsonToken token; copyCurrentStructure(jp);  
+ this=jp; copyCurrentStructure(jp);  
+ readToken();; copyCurrentStructure(jp);  
+ readNext; copyCurrentStructure(jp);  
+ //import; copyCurrentStructure(jp);  
+ text = null; copyCurrentStructure(jp);  
+ context=ctxt; copyCurrentStructure(jp);  
+ tokenizer = jp; copyCurrentStructure(jp);  
+ return next; copyCurrentStructure(jp);  
+ return tok; copyCurrentStructure(jp);  
+ inputStream = jp; copyCurrentStructure(jp);  
+ ctxt.nextToken();; copyCurrentStructure(jp);  
+ tokenBuffer =; copyCurrentStructure(jp);  
+ tokenizer=jp; copyCurrentStructure(jp);  
+ this.token; copyCurrentStructure(jp);  
+ this.value; copyCurrentStructure(jp);  
+ TokenBuffer sb; copyCurrentStructure(jp);  
+ ctxt=ctxt; copyCurrentStructure(jp);  
+ this.next; copyCurrentStructure(jp);  
+ Object obj = null; copyCurrentStructure(jp);  
+ initTokenBuffer; copyCurrentStructure(jp);  
+ TokenBuffer tbuff; copyCurrentStructure(jp);  
+ token=jp; copyCurrentStructure(jp);  
+ TOKEN_BUFFER; copyCurrentStructure(jp);  
+ tokenBuffer=null; copyCurrentStructure(jp);  
+ currentToken = jp; copyCurrentStructure(jp);  
+ nextToken(jp; copyCurrentStructure(jp);  
+ TokenBuffer ret; copyCurrentStructure(jp);  
+ tokenbuffer = null; copyCurrentStructure(jp);  
+ this.startObject; copyCurrentStructure(jp);  
+ TokenBuffer ts; copyCurrentStructure(jp);  
+ return new JsonToken; copyCurrentStructure(jp);  
+ init(ctxt);; copyCurrentStructure(jp);  
+ String value = null; copyCurrentStructure(jp);  
+ this.nextToken();; copyCurrentStructure(jp);  
+ TokenBuffer tokBuffer; copyCurrentStructure(jp);  
+ TokenBuffer v; copyCurrentStructure(jp);  
+ TokenBuffer fb; copyCurrentStructure(jp);  
+ this.nextToken(); copyCurrentStructure(jp);  
+ this.object; copyCurrentStructure(jp);  
+ this._buffer; copyCurrentStructure(jp);  
+ this.buffer =; copyCurrentStructure(jp);  
+ Buffer buffer = null; copyCurrentStructure(jp);  
+ _buffer = null; copyCurrentStructure(jp);  
+ this.context; copyCurrentStructure(jp);  
+ skipWhitespace();; copyCurrentStructure(jp);  
+ String s = null; copyCurrentStructure(jp);  
+ nextToken(); ; copyCurrentStructure(jp);  
+ jp.nextToken(); copyCurrentStructure(jp);  
+ throw new IllegalStateException; copyCurrentStructure(jp);  
+ import java.io; copyCurrentStructure(jp);  
+ String text = null; copyCurrentStructure(jp);  
+ this.stream; copyCurrentStructure(jp);  
+ _currentToken = jp; copyCurrentStructure(jp);  
+ tokenBuffer = ctxt; copyCurrentStructure(jp);  
+ TokenBuffer tbs; copyCurrentStructure(jp);  
+ return new StringBuffer; copyCurrentStructure(jp);  
+ TokenBuffer tokenbuffer; copyCurrentStructure(jp);  
+ TokenBuffer tok;; copyCurrentStructure(jp);  
+ copyCurrentStructure(jp);  
+ copyCurrentStructure(jp);  
+copyCurrentStructure(jp);  
+ nextToken(jp);  
+ copyCurrentStruct(jp);  
+(jp);  
+ readObject(jp);  
+ copyCurrentObject(jp);  
+ (jp);  
+ copyCurrentAttributes(jp);  
+ copyCurrentFields(jp);  
+ read(jp);  
+ readCurrentStructure(jp);  
+ readToken(jp);  
+ parse(jp);  
+ readStartObject(jp);  
+ super(jp);  
+ init(jp);  
+ buffer(jp);  
+ super.deserialize(jp);  
+ readFields(jp);  
+ //copyCurrentStructure(jp);  
+ copyCurrentField(jp);  
+ readObject(jp);  
+ copyCurrentContext(jp);  
+ restoreCurrentStructure(jp);  
+ copyCurrentScope(jp);  
+ readNext(jp);  
+ copyFields(jp);  
+ tokenBuffer(jp);  
+ decode(jp);  
+ serialize(jp);  
+ skip(jp);  
+ copyCurrentPosition(jp);  
+ push(jp);  
+ skipWhitespace(jp);  
+ readStartTag(jp);  
+ skipSpaces(jp);  
+ copyCurrent(jp);  
+ copyBuffer(jp);  
+ writeStartObject(jp);  
+ copyCurrentHeader(jp);  
+ append(jp);  
+ }(jp);  
+ addToken(jp);  
+ copyCurrentData(jp);  
+ copyCurrentJsonObject(jp);  
+ pushCurrentStructure(jp);  
+ visit(jp);  
+ text(jp);  
+ backupCurrentStructure(jp);  
+ startObject(jp);  
+ context(jp);  
+ appendCurrentStructure(jp);  
+ copyCurrentMapping(jp);  
+ reset(jp);  
+ copyCurrentDefinition(jp);  
+ add(jp);  
+ copyCurrentProperties(jp);  
+ copyCurrentBuffer(jp);  
+ currentStructure(jp);  
+ next(jp);  
+ saveCurrentStructure(jp);  
+ addCurrentStructure(jp);  
+ readObject(jp);  
+ deserialize(jp);  
+ parseCurrentStructure(jp);  
+ copyCurrentToken(jp);  
+ tokenize(jp);  
+ copyCurrentSchema(jp);  
+ switch(jp);  
+ readBuffer(jp);  
+ CopyCurrentStructure(jp);  
+ createTokenBuffer(jp);  
+ readStartObject(jp);  
+ copyCurrentName(jp);  
+ setCurrentStructure(jp);  
+ initialize(jp);  
+ readField(jp);  
+ mergeCurrentStructure(jp);  
+ decode(jp);  
+ copyCurrentValues(jp);  
+ _deserialize(jp);  
+ copyCurrentProfile(jp);  
+ dump(jp);  
+ cloneCurrentStructure(jp);  
+ copyCurrentSyntax(jp);  
+ decodeCurrentStructure(jp);  
+ readTokenBuffer(jp);  
+ debug(jp);  
+ read(jp);  
+ copyCurrentReference(jp);  
+ readHeader(jp);  
+ readToken(jp);  
+ start(jp);  
+ stream(jp);  
+ readLine(jp);  
+ moveCurrentStructure(jp);  
+ ensureCurrentStructure(jp);  
+ copycurrentStructure(jp);  
+ popCurrentStructure(jp);  
+ writeObject(jp);  
+ tokenizer(jp);  
+ readCurrentObject(jp);  
+ pop(jp);  
+ trace(jp);  
+ readAttributes(jp);  
+ deleteCurrentStructure(jp);  
+ copyCurrentAttribute(jp);  
+ readNext(jp);  
+ dumpCurrentStructure(jp);  
+ readString(jp);  
+ readValue(jp);  
+ readStructure(jp);  
+ copyCurrentStructField(jp);  
+ copyStartObject(jp);  
+ copyCurrentArray(jp);  
+ copyCurrentProperty(jp);  
+ copyCurrentSequence(jp);  
+ fillCurrentStructure(jp);  
+ write(jp);  
+ writeCurrentStructure(jp);  
+ copyCurrentFieldName(jp);  
+ copyCurrentIndentation(jp);  
+ copyContext(jp);  
+ copyCurrentStartPosition(jp);  
+ copyCurrentValue(jp);  
+ convert(jp);  
+ pushToken(jp);  
+ copyCurrentType(jp);  
+ deserialize(jp);  
+ updateCurrentStructure(jp);  
+ readStruct(jp);  
+ identity(jp);  
+ nextToken(jp);  
+ appendToken(jp);  
+ initialize(jp);  
+ loadCurrentStructure(jp);  
+ readFields(jp);  
+ copyCurrentParameters(jp);  
+ extractCurrentStructure(jp);  
+ parseToken(jp);  
+ startToken(jp);  
+ readCurrentStructure(jp);  
+ copyCurrentDocument(jp);  
+ getTokenBuffer(jp);  
+ parseStartObject(jp);  
+ readStack(jp);  
+ this.parse(jp);  
+ copyCurrentBlock(jp);  
+ skipFields(jp);  
+ skipChildren(jp);  
+ peek(jp);  
+ copyCurrentBinding(jp);  
+ return deserialize(jp);  
+ parse(jp);  
+ copyCurrentDataType(jp);  
+ toString(jp);  
+ unmarshal(jp);  
+ scan(jp);  
+ copyProperties(jp);  
+ println(jp);  
+ position(jp);  
+ tree(jp);  
+ clearCurrentStructure(jp);  
+ clone(jp);  
+ readValues(jp);  
+ this.deserialize(jp);  
+ setAttributes(jp);  
+ import(jp);  
+ extractFields(jp);  
+ copyStack(jp);  
+ copyCurrentBody(jp);  
+ try(jp);  
+ readThis(jp);  
+ fillBuffer(jp);  
+ readName(jp);  
+ readFieldName(jp);  
+ pushStack(jp);  
+ clearBuffer(jp);  
+ construct(jp);  
+ copyCurrentSection(jp);  
+ populateCurrentStructure(jp);  
+ copyCurrentstructure(jp);  
+  copyCurrentStructure(jp);  
+ copyCurrentObjects(jp);  
+ pointer(jp);  
+ init(jp);  
+ addText(jp);  
+ getStringBuffer(jp);  
+ copyCurrentUserStructure(jp);  
+ removeCurrentStructure(jp);  
+ copyCurrentNamespace(jp);  
+ doDeserialize(jp);  
+ copyCurrentElement(jp);  
+ readJson(jp);  
+ copyState(jp);  
+   copyCurrentStructure(jp);  
+ readStartElement(jp);  
+ skipToken(jp);  
+ copyCurrentSignature(jp);  
+ skipIdentity(jp);  
+ copyJsonToken(jp);  
+ // copyCurrentStructure(jp);  
+ copyCurrentState(jp);  
+ token(jp);  
+ moveNext(jp);  
+ copyCurrentStructType(jp);  
+ initCurrentStructure(jp);  
+ copyNext(jp);  
+ currentToken(jp);  
+ _parse(jp);  
+ copyCurrentSerialization(jp);  
+ skipField(jp);  
+ lookAhead(jp);  
+ load(jp);  
+ copyCurrentFeature(jp);  
+ copyNewStructure(jp);  
+ readNextField(jp);  
+ fields(jp);  
+ copyCurrentStructured(jp);  
+ putCurrentStructure(jp);  
+ copyCurrentContent(jp);  
+ readFieldValue(jp);  
+ copyCurrentFormat(jp);  
+ parseFields(jp);  
+ defaultReadObject(jp);  
+ addTokenBuffer(jp);  
+ initTokenBuffer(jp);  
+ reader(jp);  
+ copyCurrentShape(jp);  
+ readCurrentField(jp);  
+ new TokenBuffer(jp);  
+ readTokens(jp);  
+ newTokenBuffer(jp);  
+ restoreCurrentStructure(jp);  
+ readIdentity(jp);  
+ addElement(jp);  
+ replaceCurrentStructure(jp);  
+ copyCurrentFragment(jp);  
+ copyValues(jp);  
+ resetCurrentStructure(jp);  
+ addToBuffer(jp);  
+ addFields(jp);  
+ document(jp);  
+ pushBuffer(jp);  
+ readData(jp);  
+ unread(jp);  
+ readNextToken(jp);  
+ copyCurrentObject(jp);  
+copyCurrentStructure(jp);  
+copyCurrentStructure(jp, ctxt);  
+copyCurrentStructure(ctxt);  
+copyCurrentStructure(jp,ctxt);  
+copyCurrentStructure(ctx);  
+copyCurrentStructure(this);  
+copyCurrentStructure( jp);  
+copyCurrentStructure(null);  
+copyCurrentStructure(jp, null);  
+copyCurrentStructure(cp);  
+copyCurrentStructure(jp2);  
+copyCurrentStructure(rp);  
+copyCurrentStructure(jp.nextToken);  
+copyCurrentStructure(j);  
+copyCurrentStructure(jackson);  
+copyCurrentStructure(context);  
+copyCurrentStructure(p);  
+copyCurrentStructure(bp);  
+copyCurrentStructure(pt);  
+copyCurrentStructure(jp, this);  
+copyCurrentStructure(js);  
+copyCurrentStructure(lp);  
+copyCurrentStructure(sp);  
+copyCurrentStructure(true);  
+copyCurrentStructure(jr);  
+copyCurrentStructure(jt);  
+copyCurrentStructure(jp, false);  
+copyCurrentStructure(false);  
+copyCurrentStructure(jg);  
+copyCurrentStructure(jp, context);  
+copyCurrentStructure(jwt);  
+copyCurrentStructure(jp, true);  
+copyCurrentStructure(nextToken);  
+copyCurrentStructure(tokenBuffer);  
+copyCurrentStructure(json);  
+copyCurrentStructure(cx);  
+copyCurrentStructure(rdr);  
+copyCurrentStructure(parser);  
+copyCurrentStructure(pp);  
+copyCurrentStructure(reader);  
+copyCurrentStructure(jp););  
+copyCurrentStructure(jp, ctx);  
+copyCurrentStructure(ja);  
+copyCurrentStructure(ins);  
+copyCurrentStructure(JP);  
+copyCurrentStructure(token);  
+copyCurrentStructure(pc);  
+copyCurrentStructure(inp);  
+copyCurrentStructure(ps);  
+copyCurrentStructure(tp);  
+copyCurrentStructure(fp);  
+copyCurrentStructure(jn);  
+copyCurrentStructure(jp );  
+copyCurrentStructure(tok);  
+copyCurrentStructure(jp, 0);  
+copyCurrentStructure(pr);  
+copyCurrentStructure(nil);  
+copyCurrentStructure(curr);  
+copyCurrentStructure(jf);  
+copyCurrentStructure(tmp);  
+copyCurrentStructure(jp1);  
+copyCurrentStructure(john);  
+copyCurrentStructure(next);  
+copyCurrentStructure(mtr);  
+copyCurrentStructure(txt);  
+copyCurrentStructure(null, ctxt);  
+copyCurrentStructure(jo);  
+copyCurrentStructure(jh);  
+copyCurrentStructure(tokenizer);  
+copyCurrentStructure(jc);  
+copyCurrentStructure(io);  
+copyCurrentStructure(dec);  
+copyCurrentStructure(rhs);  
+copyCurrentStructure(j, ctxt);  
+copyCurrentStructure(jp;);  
+copyCurrentStructure(jp,-1);  
+copyCurrentStructure(0);  
+copyCurrentStructure(node);  
+copyCurrentStructure(ctx, jp);  
+copyCurrentStructure(jp,null);  
+copyCurrentStructure(indent);  
+copyCurrentStructure(jsonParser);  
+copyCurrentStructure(px);  
+copyCurrentStructure(jpa);  
+copyCurrentStructure(dep);  
+copyCurrentStructure(hp);  
+copyCurrentStructure(jsr);  
+copyCurrentStructure( jp);  
+copyCurrentStructure(vp);  
+copyCurrentStructure(cb);  
+copyCurrentStructure(cs);  
+copyCurrentStructure( jp, ctxt);  
+copyCurrentStructure(inputStream);  
+copyCurrentStructure(dp);  
+copyCurrentStructure(JsonParser jp);  
+copyCurrentStructure(path);  
+copyCurrentStructure(exp);  
+copyCurrentStructure(jw);  
+copyCurrentStructure(ctxt, jp);  
+copyCurrentStructure(mr);  
+copyCurrentStructure(cj);  
+copyCurrentStructure(par);  
+copyCurrentStructure(pi);  
+copyCurrentStructure(jv);  
+copyCurrentStructure(input);  
+copyCurrentStructure(jp, 1);  
+copyCurrentStructure(in);  
+copyCurrentStructure(qp);  
+copyCurrentStructure(dc);  
+copyCurrentStructure(p, ctxt);  
+copyCurrentStructure(jp;;);  
+copyCurrentStructure(decoder);  
+copyCurrentStructure(stack);  
+copyCurrentStructure(field);  
+copyCurrentStructure(pu);  
+copyCurrentStructure(it);  
+copyCurrentStructure(stmt);  
+copyCurrentStructure(this, ctxt);  
+copyCurrentStructure(jp4);  
+copyCurrentStructure(jp);  
+copyCurrentStructure(jp,this);  
+copyCurrentStructure(rb);  
+copyCurrentStructure(jso);  
+copyCurrentStructure(jsp);  
+copyCurrentStructure(jp,false);  
+copyCurrentStructure(csv);  
+copyCurrentStructure(pk);  
+copyCurrentStructure(pctx);  
+copyCurrentStructure(jp); );  
+copyCurrentStructure(jl);  
+copyCurrentStructure(ct);  
+copyCurrentStructure(tf);  
+copyCurrentStructure(joe);  
+copyCurrentStructure(jsonBuffer);  
+copyCurrentStructure(evt);  
+copyCurrentStructure(jp, reader);  
+copyCurrentStructure(pContext);  
+copyCurrentStructure(jp+1);  
+copyCurrentStructure(yp);  
+copyCurrentStructure(jk);  
+copyCurrentStructure(tc);  
+copyCurrentStructure(et);  
+copyCurrentStructure( ctxt);  
+copyCurrentStructure(j,ctxt);  
+copyCurrentStructure(jp0);  
+copyCurrentStructure(ctxt,jp);  
+copyCurrentStructure(je);  
+copyCurrentStructure(x);  
+copyCurrentStructure(cr);  
+copyCurrentStructure(null, jp);  
+copyCurrentStructure(jx);  
+copyCurrentStructure(ss);  
+copyCurrentStructure(jp,true);  
+copyCurrentStructure(xp);  
+copyCurrentStructure(src);  
+copyCurrentStructure(pt, ctxt);  
+copyCurrentStructure(jp, curr);  
+copyCurrentStructure(jacksonParser);  
+copyCurrentStructure(bt);  
+copyCurrentStructure(mp);  
+copyCurrentStructure(ch);  
+copyCurrentStructure(writer);  
+copyCurrentStructure(2);  
+copyCurrentStructure(ap);  
+copyCurrentStructure(th);  
+copyCurrentStructure(tt);  
+copyCurrentStructure(handler);  
+copyCurrentStructure(mapper);  
+copyCurrentStructure(currentToken);  
+copyCurrentStructure(jackson2);  
+copyCurrentStructure(ctx,jp);  
+copyCurrentStructure(idx);  
+copyCurrentStructure(pl);  
+copyCurrentStructure(encoder);  
+copyCurrentStructure(jp);*/);  
+copyCurrentStructure(jp.currentToken);  
+copyCurrentStructure(jp)(ctxt);  
+copyCurrentStructure(jp, jp);  
+copyCurrentStructure(jp,context);  
+copyCurrentStructure(jp<mask1>);  
+copyCurrentStructure(new TokenBuffer);  
+copyCurrentStructure(rctx);  
+copyCurrentStructure(np);  
+copyCurrentStructure(pe);  
+copyCurrentStructure(parse);  
+copyCurrentStructure(rp, ctxt);  
+copyCurrentStructure(jp3);  
+copyCurrentStructure(pdb);  
+copyCurrentStructure(rv);  
+copyCurrentStructure(itr);  
+copyCurrentStructure(mt);  
+copyCurrentStructure(br);  
+copyCurrentStructure(cp, ctxt);  
+copyCurrentStructure(json, ctxt);  
+copyCurrentStructure(currBuffer);  
+copyCurrentStructure(out);  
+copyCurrentStructure(jb);  
+copyCurrentStructure(buf);  
+copyCurrentStructure(marker);  
+copyCurrentStructure(xt);  
+copyCurrentStructure(cc);  
+copyCurrentStructure(jp);}});  
+copyCurrentStructure(yaml);  
+copyCurrentStructure(jp, in);  
+copyCurrentStructure(this,ctxt);  
+copyCurrentStructure(graph);  
+copyCurrentStructure(return);  
+copyCurrentStructure(ii);  
+copyCurrentStructure(line);  
+copyCurrentStructure(pos);  
+copyCurrentStructure(1);  
+copyCurrentStructure(this, jp);  
+copyCurrentStructure(sk);  
+copyCurrentStructure(m);  
+copyCurrentStructure(sep);  
+copyCurrentStructure(pd);  
+copyCurrentStructure(php);  
+copyCurrentStructure(entity);  
+copyCurrentStructure(delimiter);  
+copyCurrentStructure(str);  
+copyCurrentStructure(depth);  
+copyCurrentStructure(obj);  
+copyCurrentStructure(mv);  
+copyCurrentStructure(log);  
+copyCurrentStructure(tk);  
+copyCurrentStructure(jp=jp);  
+copyCurrentStructure(plt);  
+copyCurrentStructure(parser, ctxt);  
+copyCurrentStructure(scope);  
+copyCurrentStructure(gp);  
+copyCurrentStructure(sp, ctxt);  
+copyCurrentStructure(fr);  
+copyCurrentStructure();  
+copyCurrentStructure(bb);  
+copyCurrentStructure(st);  
+copyCurrentStructure(jsl);  
+copyCurrentStructure(stp);  
+copyCurrentStructure(this,jp);  
+copyCurrentStructure(js, ctxt);  
+copyCurrentStructure(jp, scanner);  
+copyCurrentStructure(io.reader);  
+copyCurrentStructure(jjt);  
+copyCurrentStructure(jp, 2);  
+copyCurrentStructure(jacksonContext);  
+copyCurrentStructure(jp, nil);  
+copyCurrentStructure(new JsonBuffer);  
+copyCurrentStructure(jp,0);  
+copyCurrentStructure(null,ctxt);  
+copyCurrentStructure(jp,$this);  
+copyCurrentStructure(jp, CONTEXT);  
+copyCurrentStructure(jp, ctxt);  
+copyCurrentStructure(jp,ctxt);  
+copyCurrentStructure(jp, null);  
+copyCurrentStructure(jp, false);  
+copyCurrentStructure(jp, this);  
+copyCurrentStructure(jp, context);  
+copyCurrentStructure(jp, true);  
+copyCurrentStructure(jp, ctx);  
+copyCurrentStructure(jp, ctxt, null);  
+copyCurrentStructure(jp, null, ctxt);  
+copyCurrentStructure(jp, ctxt, true);  
+copyCurrentStructure(jp, ctxt, false);  
+copyCurrentStructure(jp, 0);  
+copyCurrentStructure(jp, DeserializationContext);  
+copyCurrentStructure(jp,null);  
+copyCurrentStructure(jp, curr);  
+copyCurrentStructure(jp, reader);  
+copyCurrentStructure(jp, ctxt, this);  
+copyCurrentStructure(jp, 1);  
+copyCurrentStructure(jp, in);  
+copyCurrentStructure(jp,ctxt,null);  
+copyCurrentStructure(jp,false);  
+copyCurrentStructure(jp, currBuffer);  
+copyCurrentStructure(jp, ctxt2);  
+copyCurrentStructure(jp,ctxt,true);  
+copyCurrentStructure(jp,this);  
+copyCurrentStructure(jp, ctxt, 0);  
+copyCurrentStructure(jp, this, ctxt);  
+copyCurrentStructure(jp, dec);  
+copyCurrentStructure(jp,true);  
+copyCurrentStructure(jp, jp);  
+copyCurrentStructure(jp,context);  
+copyCurrentStructure(jp, scanner);  
+copyCurrentStructure(jp, -1);  
+copyCurrentStructure(jp,ctxt,false);  
+copyCurrentStructure(jp, 0, ctxt);  
+copyCurrentStructure(jp, ctxt=null);  
+copyCurrentStructure(jp, dc);  
+copyCurrentStructure(jp, nil);  
+copyCurrentStructure(jp, ctxt+1);  
+copyCurrentStructure(jp, null, null);  
+copyCurrentStructure(jp, jp.nextToken);  
+copyCurrentStructure(jp, 2);  
+copyCurrentStructure(jp, obj);  
+copyCurrentStructure(jp, ctxt.reader);  
+copyCurrentStructure(jp, Context.EMPTY);  
+copyCurrentStructure(jp,ctx);  
+copyCurrentStructure(jp, indent);  
+copyCurrentStructure(jp, decoder);  
+copyCurrentStructure(jp,  ctxt);  
+copyCurrentStructure(jp, ctxt.nextToken);  
+copyCurrentStructure(jp, CONTEXT);  
+copyCurrentStructure(jp, depth);  
+copyCurrentStructure(jp, deserializer);  
+copyCurrentStructure(jp, parser);  
+copyCurrentStructure(jp, currStructure);  
+copyCurrentStructure(jp, buf);  
+copyCurrentStructure(jp, false, ctxt);  
+copyCurrentStructure(jp, enc);  
+copyCurrentStructure(jp, START_OBJECT);  
+copyCurrentStructure(jp, 4);  
+copyCurrentStructure(jp, pt);  
+copyCurrentStructure(jp, true, ctxt);  
+copyCurrentStructure(jp, out);  
+copyCurrentStructure(jp, deserialize);  
+copyCurrentStructure(jp, currToken);  
+copyCurrentStructure(jp, cb);  
+copyCurrentStructure(jp, codec);  
+copyCurrentStructure(jp, ctxt);  
+copyCurrentStructure(jp, interp);  
+copyCurrentStructure(jp,0);  
+copyCurrentStructure(jp, tokenBuffer);  
+copyCurrentStructure(jp, ctxt );  
+copyCurrentStructure(jp, visitor);  
+copyCurrentStructure(jp, contexts);  
+copyCurrentStructure(jp, ctxt<mask1>);  
+copyCurrentStructure(jp,ctxt,0);  
+copyCurrentStructure(jp, ctxt<mask1> );  
+copyCurrentStructure(jp, pc);  
+copyCurrentStructure(jp,ctxt2);  
+copyCurrentStructure(jp, req);  
+copyCurrentStructure(jp,ctxt,this);  
+copyCurrentStructure(jp, new HashMap);  
+copyCurrentStructure(jp, startPos);  
+copyCurrentStructure(jp, encoding);  
+copyCurrentStructure(jp,Ctxt);  
+copyCurrentStructure(jp, ctxt, 1);  
+copyCurrentStructure(jp, self);  
+copyCurrentStructure(jp, ctxt!=null);  
+copyCurrentStructure(jp, null, false);  
+copyCurrentStructure(jp, pi);  
+copyCurrentStructure(jp, ct);  
+copyCurrentStructure(jp, tk);  
+copyCurrentStructure(jp,ctxt, null);  
+copyCurrentStructure(jp, scratch);  
+copyCurrentStructure(jp, inst);  
+copyCurrentStructure(jp, p);  
+copyCurrentStructure(jp,ctxt=null);  
+copyCurrentStructure(jp, new TokenBuffer);  
+copyCurrentStructure(jp, 3);  
+copyCurrentStructure(jp, writer);  
+copyCurrentStructure(jp, ctxt==null);  
+copyCurrentStructure(jp, xt);  
+copyCurrentStructure(jp, undefined);  
+copyCurrentStructure(jp, getContext);  
+copyCurrentStructure(jp,dc);  
+copyCurrentStructure(jp, tb);  
+copyCurrentStructure(jp, cc);  
+copyCurrentStructure(jp,  false);  
+copyCurrentStructure(jp, src);  
+copyCurrentStructure(jp, 0, 0);  
+copyCurrentStructure(jp, tok);  
+copyCurrentStructure(jp, mt);  
+copyCurrentStructure(jp, JsonToken.OBJECT);  
+copyCurrentStructure(jp, 0, null);  
+copyCurrentStructure(jp, FIELD_NAME);  
+copyCurrentStructure(jp, currTokenBuffer);  
+copyCurrentStructure(jp, currentBuffer);  
+copyCurrentStructure(jp, location);  
+copyCurrentStructure(jp,ctxt, false);  
+copyCurrentStructure(jp, "", ctxt);  
+copyCurrentStructure(jp, idx);  
+copyCurrentStructure(jp,dec);  
+copyCurrentStructure(jp, dest);  
+copyCurrentStructure(jp, Context);  
+copyCurrentStructure(jp,ctxt, true);  
+copyCurrentStructure(jp, IN);  
+copyCurrentStructure(jp,ctxt+1);  
+copyCurrentStructure(jp, factory);  
+copyCurrentStructure(jp,null, ctxt);  
+copyCurrentStructure(jp, state);  
+copyCurrentStructure(jp,1);  
+copyCurrentStructure(jp, it);  
+copyCurrentStructure(jp, null, true);  
+copyCurrentStructure(jp, sb);  
+copyCurrentStructure(jp, oc);  
+copyCurrentStructure(jp, scope);  
+copyCurrentStructure(jp, ctxt<mask1>.);  
+copyCurrentStructure(jp, prev);  
+copyCurrentStructure(jp, Reader);  
+copyCurrentStructure(jp, here);  
+copyCurrentStructure(jp, ctxt.getStream);  
+copyCurrentStructure(jp, currentStructure);  
+copyCurrentStructure(jp, des);  
+copyCurrentStructure(jp, type);  
+copyCurrentStructure(jp, m);  
+copyCurrentStructure(jp, ctxt = null);  
+copyCurrentStructure(jp, desc);  
+copyCurrentStructure(jp, x);  
+copyCurrentStructure(jp, c);  
+copyCurrentStructure(jp, t);  
+copyCurrentStructure(jp, 0, false);  
+copyCurrentStructure(jp, this.buffer);  
+copyCurrentStructure(jp, reader, ctxt);  
+copyCurrentStructure(jp, currObject);  
+copyCurrentStructure(jp,   ctxt);  
+copyCurrentStructure(jp,  true);  
+copyCurrentStructure(jp, orig);  
+copyCurrentStructure(jp, ContextUtil);  
+copyCurrentStructure(jp, ctxt););  
+copyCurrentStructure(jp, currStruct);  
+copyCurrentStructure(jp, JsonToken.STRING);  
+copyCurrentStructure(jp,ctxt.reader);  
+copyCurrentStructure(jp, defaultValue);  
+copyCurrentStructure(jp, doc);  
+copyCurrentStructure(jp, jf);  
+copyCurrentStructure(jp, new JsonToken);  
+copyCurrentStructure(jp, a);  
+copyCurrentStructure(jp, ctxt,null);  
+copyCurrentStructure(jp, 5);  
+copyCurrentStructure(jp, None);  
+copyCurrentStructure(jp, v);  
+copyCurrentStructure(jp, END_OBJECT);  
+copyCurrentStructure(jp, 0, true);  
+copyCurrentStructure(jp, ctxt.stream);  
+copyCurrentStructure(jp,curr);  
+copyCurrentStructure(jp, ctxt != null);  
+copyCurrentStructure(jp, cfg);  
+copyCurrentStructure(jp, resp);  
+copyCurrentStructure(jp, ctxt.getBuffer);  
+copyCurrentStructure(jp, next);  
+copyCurrentStructure(jp, nextToken);  
+copyCurrentStructure(jp,CONTEXT);  
+copyCurrentStructure(jp, Util);  
+copyCurrentStructure(jp, ctxt, 2);  
+copyCurrentStructure(jp, IN_OBJECT);  
+copyCurrentStructure(jp,null,ctxt);  
+copyCurrentStructure(jp, currField);  
+copyCurrentStructure(jp, ctxt.currentToken);  
+copyCurrentStructure(jp, rv);  
+copyCurrentStructure(jp, currentState);  
+copyCurrentStructure(jp,ctxt!=null);  
+copyCurrentStructure(jp, pte);  
+copyCurrentStructure(jp, JsonToken.NAME);  
+copyCurrentStructure(jp, currentNode);  
+copyCurrentStructure(jp,jp);  
+copyCurrentStructure(jp, cx);  
+copyCurrentStructure(jp, ctxt=ctxt);  
+copyCurrentStructure(jp,currBuffer);  
+copyCurrentStructure(jp, sc);  
+copyCurrentStructure(jp, CONTEXT_START);  
+copyCurrentStructure(jp, pushContext);  
+copyCurrentStructure(jp, tokenizer);  
+copyCurrentStructure(jp, d);  
+copyCurrentStructure(jp, tmp);  
+copyCurrentStructure(jp, currName);  
+copyCurrentStructure(jp, serializer);  
+copyCurrentStructure(jp, ctxt=this);  
+copyCurrentStructure(jp,jp.nextToken);  
+copyCurrentStructure(jp, clazz);  
+copyCurrentStructure(jp, inputStream);  
+copyCurrentStructure(jp, jsp);  
+copyCurrentStructure(jp, startObject);  
+copyCurrentStructure(jp, interpreter);  
+copyCurrentStructure(jp, current);  
+copyCurrentStructure(jp, dt);  
+copyCurrentStructure(jp, root);  
+copyCurrentStructure(jp, evt);  
+copyCurrentStructure(jp, path);  
+copyCurrentStructure(jp, pp);  
+copyCurrentStructure(jp, str);  
+copyCurrentStructure(jp, ctxt,true);  
+copyCurrentStructure(jp, DecodeContext);  
+copyCurrentStructure(jp, 8);  
+copyCurrentStructure(jp,  null);  
+copyCurrentStructure(jp, null,ctxt);  
+copyCurrentStructure(jp, currClass);  
+copyCurrentStructure(jp, JsonParser);  
+copyCurrentStructure(jp, ctxt.getCurrentToken);  
+copyCurrentStructure(jp,ctxt==null);  
+copyCurrentStructure(jp, new ArrayList);  
+copyCurrentStructure(jp, curr_buffer);  
+copyCurrentStructure(jp, JsonToken.END);  
+copyCurrentStructure(jp, 1, ctxt);  
+copyCurrentStructure(jp, ctxt.top);  
+copyCurrentStructure(jp, context, false);  
+copyCurrentStructure(jp, 0, 1);  
+copyCurrentStructure(jp, null, 0);  
+copyCurrentStructure(jp, curr, ctxt);  
+copyCurrentStructure(jp, new JsonParser);  
+copyCurrentStructure(jp,ctxt.nextToken);  
+copyCurrentStructure(jp, this,ctxt);  
+copyCurrentStructure(jp, Context.empty);  
+copyCurrentStructure(jp, Context.NULL);  
+copyCurrentStructure(jp, ctxt + 1);  
+copyCurrentStructure(jp, Context.DEFAULT);  
+copyCurrentStructure(jp, EMPTY_BUFFER);  
+copyCurrentStructure(jp, ctxt,false);  
+copyCurrentStructure(jp, context, true);  
+copyCurrentStructure(jp,ctxt, this);  
+copyCurrentStructure(this,jp);  
+copyCurrentStructure(ctxt,jp);  
+copyCurrentStructure(null,jp);  
+copyCurrentStructure(context,jp);  
+copyCurrentStructure(reader,jp);  
+copyCurrentStructure(tokenBuffer,jp);  
+copyCurrentStructure(false,jp);  
+copyCurrentStructure(ctx,jp);  
+copyCurrentStructure(buf,jp);  
+copyCurrentStructure(true,jp);  
+copyCurrentStructure(jp,jp);  
+copyCurrentStructure(self,jp);  
+copyCurrentStructure( ctxt,jp);  
+copyCurrentStructure(scanner,jp);  
+copyCurrentStructure(curr,jp);  
+copyCurrentStructure(tokenizer,jp);  
+copyCurrentStructure(buffer,jp);  
+copyCurrentStructure(tok,jp);  
+copyCurrentStructure(src,jp);  
+copyCurrentStructure(decoder,jp);  
+copyCurrentStructure(currentToken,jp);  
+copyCurrentStructure(bf,jp);  
+copyCurrentStructure(sb,jp);  
+copyCurrentStructure(i,jp);  
+copyCurrentStructure(dec,jp);  
+copyCurrentStructure(cb,jp);  
+copyCurrentStructure(0,jp);  
+copyCurrentStructure(token,jp);  
+copyCurrentStructure(m,jp);  
+copyCurrentStructure(parser,jp);  
+copyCurrentStructure(bt,jp);  
+copyCurrentStructure(currBuffer,jp);  
+copyCurrentStructure(b,jp);  
+copyCurrentStructure(dc,jp);  
+copyCurrentStructure(in,jp);  
+copyCurrentStructure(doc,jp);  
+copyCurrentStructure(xml,jp);  
+copyCurrentStructure(tk,jp);  
+copyCurrentStructure(ss,jp);  
+copyCurrentStructure(state,jp);  
+copyCurrentStructure(encoding,jp);  
+copyCurrentStructure(tc,jp);  
+copyCurrentStructure(ins,jp);  
+copyCurrentStructure(root,jp);  
+copyCurrentStructure(depth,jp);  
+copyCurrentStructure( this,jp);  
+copyCurrentStructure(base,jp);  
+copyCurrentStructure(tf,jp);  
+copyCurrentStructure(stack,jp);  
+copyCurrentStructure(currentBuffer,jp);  
+copyCurrentStructure(x,jp);  
+copyCurrentStructure(io,jp);  
+copyCurrentStructure(out,jp);  
+copyCurrentStructure(bean,jp);  
+copyCurrentStructure(c,jp);  
+copyCurrentStructure(internal,jp);  
+copyCurrentStructure(indent,jp);  
+copyCurrentStructure(sv,jp);  
+copyCurrentStructure(orig,jp);  
+copyCurrentStructure(currentState,jp);  
+copyCurrentStructure(prev,jp);  
+copyCurrentStructure(tree,jp);  
+copyCurrentStructure(t,jp);  
+copyCurrentStructure(bs,jp);  
+copyCurrentStructure(bb,jp);  
+copyCurrentStructure(source,jp);  
+copyCurrentStructure(this,ctxt,jp);  
+copyCurrentStructure(current,jp);  
+copyCurrentStructure(tracer,jp);  
+copyCurrentStructure(it,jp);  
+copyCurrentStructure(inp,jp);  
+copyCurrentStructure(cx,jp);  
+copyCurrentStructure(enc,jp);  
+copyCurrentStructure(input,jp);  
+copyCurrentStructure(s,jp);  
+copyCurrentStructure(data,jp);  
+copyCurrentStructure(tb,jp);  
+copyCurrentStructure(pt,jp);  
+copyCurrentStructure(dest,jp);  
+copyCurrentStructure(srv,jp);  
+copyCurrentStructure(buff,jp);  
+copyCurrentStructure(sp,jp);  
+copyCurrentStructure(text,jp);  
+copyCurrentStructure(writer,jp);  
+copyCurrentStructure(rp,jp);  
+copyCurrentStructure(holder,jp);  
+copyCurrentStructure(cp,jp);  
+copyCurrentStructure(document,jp);  
+copyCurrentStructure(sc,jp);  
+copyCurrentStructure(tt,jp);  
+copyCurrentStructure(field,jp);  
+copyCurrentStructure(obj,jp);  
+copyCurrentStructure(xt,jp);  
+copyCurrentStructure(mtr,jp);  
+copyCurrentStructure(fsm,jp);  
+copyCurrentStructure(1,jp);  
+copyCurrentStructure(cur,jp);  
+copyCurrentStructure(tmp,jp);  
+copyCurrentStructure(super,jp);  
+copyCurrentStructure(p,jp);  
+copyCurrentStructure(ctxt);,jp);  
+copyCurrentStructure(this.buffer,jp);  
+copyCurrentStructure(rv,jp);  
+copyCurrentStructure(serializer,jp);  
+copyCurrentStructure(undefined,jp);  
+copyCurrentStructure(cv,jp);  
+copyCurrentStructure(TokenBuffer,jp);  
+copyCurrentStructure(rb,jp);  
+copyCurrentStructure(head,jp);  
+copyCurrentStructure(br,jp);  
+copyCurrentStructure(nil,jp);  
+copyCurrentStructure(lt,jp);  
+copyCurrentStructure(f,jp);  
+copyCurrentStructure(mb,jp);  
+copyCurrentStructure(node,jp);  
+copyCurrentStructure(ctxt,this,jp);  
+copyCurrentStructure(bio,jp);  
+copyCurrentStructure(fact,jp);  
+copyCurrentStructure(scope,jp);  
+copyCurrentStructure(inputStream,jp);  
+copyCurrentStructure(next,jp);  
+copyCurrentStructure(sk,jp);  
+copyCurrentStructure(desc,jp);  
+copyCurrentStructure(instance,jp);  
+copyCurrentStructure(tokenbuffer,jp);  
+copyCurrentStructure(cs,jp);  
+copyCurrentStructure(v,jp);  
+copyCurrentStructure(Context,jp);  
+copyCurrentStructure(yaml,jp);  
+copyCurrentStructure(factory,jp);  
+copyCurrentStructure(xx,jp);  
+copyCurrentStructure(stream,jp);  
+copyCurrentStructure(ch,jp);  
+copyCurrentStructure(a,jp);  
+copyCurrentStructure(2,jp);  
+copyCurrentStructure(stdin,jp);  
+copyCurrentStructure(original,jp);  
+copyCurrentStructure(j,jp);  
+copyCurrentStructure(branch,jp);  
+copyCurrentStructure(debug,jp);  
+copyCurrentStructure(st,jp);  
+copyCurrentStructure(internalBuffer,jp);  
+copyCurrentStructure(logger,jp);  
+copyCurrentStructure(init,jp);  
+copyCurrentStructure(new TokenBuffer,jp);  
+copyCurrentStructure(tp,jp);  
+copyCurrentStructure(retVal,jp);  
+copyCurrentStructure(entity,jp);  
+copyCurrentStructure(sio,jp);  
+copyCurrentStructure(tag,jp);  
+copyCurrentStructure(currentTokenBuffer,jp);  
+copyCurrentStructure(txt,jp);  
+copyCurrentStructure(k,jp);  
+copyCurrentStructure(cxt,jp);  
+copyCurrentStructure(iv,jp);  
+copyCurrentStructure(deserializer,jp);  
+copyCurrentStructure(si,jp);  
+copyCurrentStructure(old,jp);  
+copyCurrentStructure(sd,jp);  
+copyCurrentStructure(req,jp);  
+copyCurrentStructure(,jp);  
+copyCurrentStructure(now,jp);  
+copyCurrentStructure(decode,jp);  
+copyCurrentStructure(cc,jp);  
+copyCurrentStructure(file,jp);  
+copyCurrentStructure(eof,jp);  
+copyCurrentStructure(rdr,jp);  
+copyCurrentStructure(ct,jp);  
+copyCurrentStructure(ob,jp);  
+copyCurrentStructure(hl,jp);  
+copyCurrentStructure(jackson,jp);  
+copyCurrentStructure(currTokenBuffer,jp);  
+copyCurrentStructure(json,jp);  
+copyCurrentStructure(Reader,jp);  
+copyCurrentStructure(fieldBuffer,jp);  
+copyCurrentStructure(tokens,jp);  
+copyCurrentStructure(md,jp);  
+copyCurrentStructure(u,jp);  
+copyCurrentStructure(fields,jp);  
+copyCurrentStructure(nextToken,jp);  
+copyCurrentStructure(tx,jp);  
+copyCurrentStructure(sf,jp);  
+copyCurrentStructure(xmlReader,jp);  
+copyCurrentStructure(act,jp);  
+copyCurrentStructure(l,jp);  
+copyCurrentStructure(CONTEXT,jp);  
+copyCurrentStructure(ext,jp);  
+copyCurrentStructure(lexer,jp);  
+copyCurrentStructure(identity,jp);  
+copyCurrentStructure(vt,jp);  
+copyCurrentStructure(pos,jp);  
+copyCurrentStructure(rootNode,jp);  
+copyCurrentStructure(pp,jp);  
+copyCurrentStructure(path,jp);  
+copyCurrentStructure(encoder,jp);  
+copyCurrentStructure(getTokenBuffer,jp);  
+copyCurrentStructure(sg,jp);  
+copyCurrentStructure(env,jp);  
+copyCurrentStructure(textBuffer,jp);  
+copyCurrentStructure(struct,jp);  
+copyCurrentStructure(previous,jp);  
+copyCurrentStructure(null,null,jp);  
+copyCurrentStructure(bp,jp);  
+copyCurrentStructure(currentStructure,jp);  
+copyCurrentStructure(ret,jp);  
+copyCurrentStructure(depth+1,jp);  
+copyCurrentStructure(th,jp);  
+copyCurrentStructure(this, ctxt,jp);  
+copyCurrentStructure(val,jp);  
+copyCurrentStructure(parse,jp);  
+copyCurrentStructure(tg,jp);  
+copyCurrentStructure(blk,jp);  
+copyCurrentStructure(term,jp);  
+copyCurrentStructure(myself,jp);  
+copyCurrentStructure(cursor,jp);  
+copyCurrentStructure(getContext,jp);  
+copyCurrentStructure(handler,jp);  
+copyCurrentStructure(Buffer,jp);  
+copyCurrentStructure(fld,jp);  
+copyCurrentStructure(parent,jp);  
+copyCurrentStructure(contexts,jp);  
+copyCurrentStructure(str,jp);  
+copyCurrentStructure(xm,jp);  
+copyCurrentStructure(lp,jp);  
+copyCurrentStructure(here,jp);  
+copyCurrentStructure(engine,jp);  
+copyCurrentStructure(jt,jp);  
+copyCurrentStructure(incoming,jp);  
+copyCurrentStructure(imp,jp);  
+copyCurrentStructure(ctxt,null,jp);  
+copyCurrentStructure(marker,jp);  
+copyCurrentStructure(raw,jp);  
+copyCurrentStructure(r,jp);  
+copyCurrentStructure(js,jp);  
+copyCurrentStructure(tokBuffer,jp);  
+copyCurrentStructure(jh,jp);  
+copyCurrentStructure(read,jp);  
+copyCurrentStructure(descriptor,jp);  
+copyCurrentStructure(xmlBuffer,jp);  
+copyCurrentStructure(gov,jp);  
+copyCurrentStructure(rt,jp);  
+copyCurrentStructure(ctxt.reader,jp);  
+copyCurrentStructure(target,jp);  
+copyCurrentStructure(delimiter,jp);  
+copyCurrentStructure(w,jp);  
+copyCurrentStructure(newTokenBuffer,jp);  
+copyCurrentStructure(currStructure,jp);  
+copyCurrentStructure(currToken,jp);  
+copyCurrentStructure(this.reader,jp);  
+copyCurrentStructure(null,ctxt,jp);  
+copyCurrentStructure(jp);  
+copyCurrentStructure(jp, ctxt);  
+copyCurrentStructure(ctxt);  
+copyCurrentStructure(jp,ctxt);  
+copyCurrentStructure(ctx);  
+copyCurrentStructure(this);  
+copyCurrentStructure( jp);  
+copyCurrentStructure(null);  
+copyCurrentStructure(jp, null);  
+copyCurrentStructure(cp);  
+copyCurrentStructure(jp2);  
+copyCurrentStructure(rp);  
+copyCurrentStructure(jp.nextToken);  
+copyCurrentStructure(j);  
+copyCurrentStructure(jackson);  
+copyCurrentStructure(context);  
+copyCurrentStructure(p);  
+copyCurrentStructure(bp);  
+copyCurrentStructure(pt);  
+copyCurrentStructure(jp, this);  
+copyCurrentStructure(js);  
+copyCurrentStructure(lp);  
+copyCurrentStructure(sp);  
+copyCurrentStructure(true);  
+copyCurrentStructure(jr);  
+copyCurrentStructure(jt);  
+copyCurrentStructure(jp, false);  
+copyCurrentStructure(false);  
+copyCurrentStructure(jg);  
+copyCurrentStructure(jp, context);  
+copyCurrentStructure(jwt);  
+copyCurrentStructure(jp, true);  
+copyCurrentStructure(nextToken);  
+copyCurrentStructure(tokenBuffer);  
+copyCurrentStructure(json);  
+copyCurrentStructure(cx);  
+copyCurrentStructure(rdr);  
+copyCurrentStructure(parser);  
+copyCurrentStructure(pp);  
+copyCurrentStructure(reader);  
+copyCurrentStructure(jp););  
+copyCurrentStructure(jp, ctx);  
+copyCurrentStructure(ja);  
+copyCurrentStructure(ins);  
+copyCurrentStructure(JP);  
+copyCurrentStructure(token);  
+copyCurrentStructure(pc);  
+copyCurrentStructure(inp);  
+copyCurrentStructure(ps);  
+copyCurrentStructure(tp);  
+copyCurrentStructure(fp);  
+copyCurrentStructure(jn);  
+copyCurrentStructure(jp );  
+copyCurrentStructure(tok);  
+copyCurrentStructure(jp, 0);  
+copyCurrentStructure(pr);  
+copyCurrentStructure(nil);  
+copyCurrentStructure(curr);  
+copyCurrentStructure(jf);  
+copyCurrentStructure(tmp);  
+copyCurrentStructure(jp1);  
+copyCurrentStructure(john);  
+copyCurrentStructure(next);  
+copyCurrentStructure(mtr);  
+copyCurrentStructure(txt);  
+copyCurrentStructure(null, ctxt);  
+copyCurrentStructure(jo);  
+copyCurrentStructure(jh);  
+copyCurrentStructure(tokenizer);  
+copyCurrentStructure(jc);  
+copyCurrentStructure(io);  
+copyCurrentStructure(dec);  
+copyCurrentStructure(rhs);  
+copyCurrentStructure(j, ctxt);  
+copyCurrentStructure(jp;);  
+copyCurrentStructure(jp,-1);  
+copyCurrentStructure(0);  
+copyCurrentStructure(node);  
+copyCurrentStructure(ctx, jp);  
+copyCurrentStructure(jp,null);  
+copyCurrentStructure(indent);  
+copyCurrentStructure(jsonParser);  
+copyCurrentStructure(px);  
+copyCurrentStructure(jpa);  
+copyCurrentStructure(dep);  
+copyCurrentStructure(hp);  
+copyCurrentStructure(jsr);  
+copyCurrentStructure( jp);  
+copyCurrentStructure(vp);  
+copyCurrentStructure(cb);  
+copyCurrentStructure(cs);  
+copyCurrentStructure( jp, ctxt);  
+copyCurrentStructure(inputStream);  
+copyCurrentStructure(dp);  
+copyCurrentStructure(JsonParser jp);  
+copyCurrentStructure(path);  
+copyCurrentStructure(exp);  
+copyCurrentStructure(jw);  
+copyCurrentStructure(ctxt, jp);  
+copyCurrentStructure(mr);  
+copyCurrentStructure(cj);  
+copyCurrentStructure(par);  
+copyCurrentStructure(pi);  
+copyCurrentStructure(jv);  
+copyCurrentStructure(input);  
+copyCurrentStructure(jp, 1);  
+copyCurrentStructure(in);  
+copyCurrentStructure(qp);  
+copyCurrentStructure(dc);  
+copyCurrentStructure(p, ctxt);  
+copyCurrentStructure(jp;;);  
+copyCurrentStructure(decoder);  
+copyCurrentStructure(stack);  
+copyCurrentStructure(field);  
+copyCurrentStructure(pu);  
+copyCurrentStructure(it);  
+copyCurrentStructure(stmt);  
+copyCurrentStructure(this, ctxt);  
+copyCurrentStructure(jp4);  
+copyCurrentStructure(jp);  
+copyCurrentStructure(jp,this);  
+copyCurrentStructure(rb);  
+copyCurrentStructure(jso);  
+copyCurrentStructure(jsp);  
+copyCurrentStructure(jp,false);  
+copyCurrentStructure(csv);  
+copyCurrentStructure(pk);  
+copyCurrentStructure(pctx);  
+copyCurrentStructure(jp); );  
+copyCurrentStructure(jl);  
+copyCurrentStructure(ct);  
+copyCurrentStructure(tf);  
+copyCurrentStructure(joe);  
+copyCurrentStructure(jsonBuffer);  
+copyCurrentStructure(evt);  
+copyCurrentStructure(jp, reader);  
+copyCurrentStructure(pContext);  
+copyCurrentStructure(jp+1);  
+copyCurrentStructure(yp);  
+copyCurrentStructure(jk);  
+copyCurrentStructure(tc);  
+copyCurrentStructure(et);  
+copyCurrentStructure( ctxt);  
+copyCurrentStructure(j,ctxt);  
+copyCurrentStructure(jp0);  
+copyCurrentStructure(ctxt,jp);  
+copyCurrentStructure(je);  
+copyCurrentStructure(x);  
+copyCurrentStructure(cr);  
+copyCurrentStructure(null, jp);  
+copyCurrentStructure(jx);  
+copyCurrentStructure(ss);  
+copyCurrentStructure(jp,true);  
+copyCurrentStructure(xp);  
+copyCurrentStructure(src);  
+copyCurrentStructure(pt, ctxt);  
+copyCurrentStructure(jp, curr);  
+copyCurrentStructure(jacksonParser);  
+copyCurrentStructure(bt);  
+copyCurrentStructure(mp);  
+copyCurrentStructure(ch);  
+copyCurrentStructure(writer);  
+copyCurrentStructure(2);  
+copyCurrentStructure(ap);  
+copyCurrentStructure(th);  
+copyCurrentStructure(tt);  
+copyCurrentStructure(handler);  
+copyCurrentStructure(mapper);  
+copyCurrentStructure(currentToken);  
+copyCurrentStructure(jackson2);  
+copyCurrentStructure(ctx,jp);  
+copyCurrentStructure(idx);  
+copyCurrentStructure(pl);  
+copyCurrentStructure(encoder);  
+copyCurrentStructure(jp);*/);  
+copyCurrentStructure(jp.currentToken);  
+copyCurrentStructure(jp)(ctxt);  
+copyCurrentStructure(jp, jp);  
+copyCurrentStructure(jp,context);  
+copyCurrentStructure(jp<mask1>);  
+copyCurrentStructure(new TokenBuffer);  
+copyCurrentStructure(rctx);  
+copyCurrentStructure(np);  
+copyCurrentStructure(pe);  
+copyCurrentStructure(parse);  
+copyCurrentStructure(rp, ctxt);  
+copyCurrentStructure(jp3);  
+copyCurrentStructure(pdb);  
+copyCurrentStructure(rv);  
+copyCurrentStructure(itr);  
+copyCurrentStructure(mt);  
+copyCurrentStructure(br);  
+copyCurrentStructure(cp, ctxt);  
+copyCurrentStructure(json, ctxt);  
+copyCurrentStructure(currBuffer);  
+copyCurrentStructure(out);  
+copyCurrentStructure(jb);  
+copyCurrentStructure(buf);  
+copyCurrentStructure(marker);  
+copyCurrentStructure(xt);  
+copyCurrentStructure(cc);  
+copyCurrentStructure(jp);}});  
+copyCurrentStructure(yaml);  
+copyCurrentStructure(jp, in);  
+copyCurrentStructure(this,ctxt);  
+copyCurrentStructure(graph);  
+copyCurrentStructure(return);  
+copyCurrentStructure(ii);  
+copyCurrentStructure(line);  
+copyCurrentStructure(pos);  
+copyCurrentStructure(1);  
+copyCurrentStructure(this, jp);  
+copyCurrentStructure(sk);  
+copyCurrentStructure(m);  
+copyCurrentStructure(sep);  
+copyCurrentStructure(pd);  
+copyCurrentStructure(php);  
+copyCurrentStructure(entity);  
+copyCurrentStructure(delimiter);  
+copyCurrentStructure(str);  
+copyCurrentStructure(depth);  
+copyCurrentStructure(obj);  
+copyCurrentStructure(mv);  
+copyCurrentStructure(log);  
+copyCurrentStructure(tk);  
+copyCurrentStructure(jp=jp);  
+copyCurrentStructure(plt);  
+copyCurrentStructure(parser, ctxt);  
+copyCurrentStructure(scope);  
+copyCurrentStructure(gp);  
+copyCurrentStructure(sp, ctxt);  
+copyCurrentStructure(fr);  
+copyCurrentStructure();  
+copyCurrentStructure(bb);  
+copyCurrentStructure(st);  
+copyCurrentStructure(jsl);  
+copyCurrentStructure(stp);  
+copyCurrentStructure(this,jp);  
+copyCurrentStructure(js, ctxt);  
+copyCurrentStructure(jp, scanner);  
+copyCurrentStructure(io.reader);  
+copyCurrentStructure(jjt);  
+copyCurrentStructure(jp, 2);  
+copyCurrentStructure(jacksonContext);  
+copyCurrentStructure(jp, nil);  
+copyCurrentStructure(new JsonBuffer);  
+copyCurrentStructure(jp,0);  
+copyCurrentStructure(null,ctxt);  
+copyCurrentStructure(jp,$this);  
+copyCurrentStructure(jp, CONTEXT);  
+if(jp==null){return  null;} copyCurrentStructure(jp);  
+if(jp==null){return  this;} copyCurrentStructure(jp);  
+if(jp==null){return  null;;} copyCurrentStructure(jp);  
+if(jp==null){return  this;;} copyCurrentStructure(jp);  
+if(jp==null){return  new TokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return null;} copyCurrentStructure(jp);  
+if(jp==null){return ;;} copyCurrentStructure(jp);  
+if(jp==null){return  tokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  super;} copyCurrentStructure(jp);  
+if(jp==null){return  EMPTY;} copyCurrentStructure(jp);  
+if(jp==null){return  NULL;} copyCurrentStructure(jp);  
+if(jp==null){return this;} copyCurrentStructure(jp);  
+if(jp==null){return  null; };} copyCurrentStructure(jp);  
+if(jp==null){return  "";;} copyCurrentStructure(jp);  
+if(jp==null){return  reader;} copyCurrentStructure(jp);  
+if(jp==null){return  buffer;} copyCurrentStructure(jp);  
+if(jp==null){return  newTokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  EMPTY_BUFFER;} copyCurrentStructure(jp);  
+if(jp==null){return  nil;} copyCurrentStructure(jp);  
+if(jp==null){return  emptyBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  false;} copyCurrentStructure(jp);  
+if(jp==null){return  ctxt;} copyCurrentStructure(jp);  
+if(jp==null){return  this; };} copyCurrentStructure(jp);  
+if(jp==null){return  JsonToken.NULL;} copyCurrentStructure(jp);  
+if(jp==null){return  EMPTY_TOKEN;} copyCurrentStructure(jp);  
+if(jp==null){return  scratch;} copyCurrentStructure(jp);  
+if(jp==null){return jp;} copyCurrentStructure(jp);  
+if(jp==null){return  jp;} copyCurrentStructure(jp);  
+if(jp==null){return  this.buffer;} copyCurrentStructure(jp);  
+if(jp==null){return  super.deserialize;} copyCurrentStructure(jp);  
+if(jp==null){return  tokenbuffer;} copyCurrentStructure(jp);  
+if(jp==null){return null;;} copyCurrentStructure(jp);  
+if(jp==null){return  new StringBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  null;};} copyCurrentStructure(jp);  
+if(jp==null){return  NULL_TOKEN;} copyCurrentStructure(jp);  
+if(jp==null){return  token;} copyCurrentStructure(jp);  
+if(jp==null){return  new Buffer;} copyCurrentStructure(jp);  
+if(jp==null){return  this;} copyCurrentStructure(jp);  
+if(jp==null){return  -1;} copyCurrentStructure(jp);  
+if(jp==null){return  _nullBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  empty;} copyCurrentStructure(jp);  
+if(jp==null){return  tokens;} copyCurrentStructure(jp);  
+if(jp==null){return  EMPTY;;} copyCurrentStructure(jp);  
+if(jp==null){return  END_OBJECT;} copyCurrentStructure(jp);  
+if(jp==null){return  undefined;} copyCurrentStructure(jp);  
+if(jp==null){return  newBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return   this;} copyCurrentStructure(jp);  
+if(jp==null){return  decoder;} copyCurrentStructure(jp);  
+if(jp==null){return  void;} copyCurrentStructure(jp);  
+if(jp==null){return   null;} copyCurrentStructure(jp);  
+if(jp==null){return  new JsonBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return ; };} copyCurrentStructure(jp);  
+if(jp==null){return  reader;;} copyCurrentStructure(jp);  
+if(jp==null){return  return null;} copyCurrentStructure(jp);  
+if(jp==null){return  buf;} copyCurrentStructure(jp);  
+if(jp==null){return  new ArrayList;} copyCurrentStructure(jp);  
+if(jp==null){return  new EmptyBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return this;;} copyCurrentStructure(jp);  
+if(jp==null){return  EOF;} copyCurrentStructure(jp);  
+if(jp==null){return  tokenBuffer;;} copyCurrentStructure(jp);  
+if(jp==null){return  end;} copyCurrentStructure(jp);  
+if(jp==null){return  scanner;} copyCurrentStructure(jp);  
+if(jp==null){return  new TextBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  blank;} copyCurrentStructure(jp);  
+if(jp==null){return  new StringBuilder;} copyCurrentStructure(jp);  
+if(jp==null){return  new NullBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  NullTokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  identity;} copyCurrentStructure(jp);  
+if(jp==null){return  TEXT;} copyCurrentStructure(jp);  
+if(jp==null){return EMPTY;} copyCurrentStructure(jp);  
+if(jp==null){return  self;} copyCurrentStructure(jp);  
+if(jp==null){return  text;} copyCurrentStructure(jp);  
+if(jp==null){return  _null;} copyCurrentStructure(jp);  
+if(jp==null){return  new StringBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  ctx;} copyCurrentStructure(jp);  
+if(jp==null){return  new JsonObject;} copyCurrentStructure(jp);  
+if(jp==null){return  pb;} copyCurrentStructure(jp);  
+if(jp==null){return  false;;} copyCurrentStructure(jp);  
+if(jp==null){return  context;} copyCurrentStructure(jp);  
+if(jp==null){return  new ObjectBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  createTokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  currentBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  null;};} copyCurrentStructure(jp);  
+if(jp==null){return  emptyTokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  0;} copyCurrentStructure(jp);  
+if(jp==null){return  mt;} copyCurrentStructure(jp);  
+if(jp==null){return  token;;} copyCurrentStructure(jp);  
+if(jp==null){return  writer;} copyCurrentStructure(jp);  
+if(jp==null){return  START_OBJECT;} copyCurrentStructure(jp);  
+if(jp==null){return  new HashMap;} copyCurrentStructure(jp);  
+if(jp==null){return  eof;} copyCurrentStructure(jp);  
+if(jp==null){return  new String;} copyCurrentStructure(jp);  
+if(jp==null){return  next;} copyCurrentStructure(jp);  
+if(jp==null){return  null;<mask1>;} copyCurrentStructure(jp);  
+if(jp==null){return  buffer;;} copyCurrentStructure(jp);  
+if(jp==null){return  "";} copyCurrentStructure(jp);  
+if(jp==null){return  new StringReader();;} copyCurrentStructure(jp);  
+if(jp==null){return  sb;} copyCurrentStructure(jp);  
+if(jp==null){return  tk;} copyCurrentStructure(jp);  
+if(jp==null){return _null;} copyCurrentStructure(jp);  
+if(jp==null){return  fb;} copyCurrentStructure(jp);  
+if(jp==null){return  new nullBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  NULL;;} copyCurrentStructure(jp);  
+if(jp==null){return  tokenizer;} copyCurrentStructure(jp);  
+if(jp==null){return  new StringReader;} copyCurrentStructure(jp);  
+if(jp==null){return  tok;} copyCurrentStructure(jp);  
+if(jp==null){return  nextToken;} copyCurrentStructure(jp);  
+if(jp==null){return  none;} copyCurrentStructure(jp);  
+if(jp==null){return  EMPTY_STRING;} copyCurrentStructure(jp);  
+if(jp==null){return  sink;} copyCurrentStructure(jp);  
+if(jp==null){return  NOOP;} copyCurrentStructure(jp);  
+if(jp==null){return  inputStream;} copyCurrentStructure(jp);  
+if(jp==null){return  nop;} copyCurrentStructure(jp);  
+if(jp==null){return  new StringBuilder();;} copyCurrentStructure(jp);  
+if(jp==null){return  true;} copyCurrentStructure(jp);  
+if(jp==null){return  EMPTYSTRING;} copyCurrentStructure(jp);  
+if(jp==null){return  serializer;} copyCurrentStructure(jp);  
+if(jp==null){return  NULL_BUFFER;} copyCurrentStructure(jp);  
+if(jp==null){return ;} copyCurrentStructure(jp);  
+if(jp==null){return  SKIP;} copyCurrentStructure(jp);  
+if(jp==null){return  tokenString;} copyCurrentStructure(jp);  
+if(jp==null){return  readTokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  ;;} copyCurrentStructure(jp);  
+if(jp==null){return  m;} copyCurrentStructure(jp);  
+if(jp==null){return  (null);;} copyCurrentStructure(jp);  
+if(jp==null){return  null ;} copyCurrentStructure(jp);  
+if(jp==null){return  _buffer;} copyCurrentStructure(jp);  
+if(jp==null){return (null);;} copyCurrentStructure(jp);  
+if(jp==null){return  super;;} copyCurrentStructure(jp);  
+if(jp==null){return  super.serialize;} copyCurrentStructure(jp);  
+if(jp==null){return  _tokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new emptyBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  parser;} copyCurrentStructure(jp);  
+if(jp==null){return  this;};} copyCurrentStructure(jp);  
+if(jp==null){return  delegate;} copyCurrentStructure(jp);  
+if(jp==null){return ctxt;} copyCurrentStructure(jp);  
+if(jp==null){return  clone;} copyCurrentStructure(jp);  
+if(jp==null){return  NULLBUFF;} copyCurrentStructure(jp);  
+if(jp==null){return  readNull;} copyCurrentStructure(jp);  
+if(jp==null){return  blankBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  {};;} copyCurrentStructure(jp);  
+if(jp==null){return  p;} copyCurrentStructure(jp);  
+if(jp==null){return  createEmptyBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new String();;} copyCurrentStructure(jp);  
+if(jp==null){return  startObject;} copyCurrentStructure(jp);  
+if(jp==null){return  new LinkedList;} copyCurrentStructure(jp);  
+if(jp==null){return  noop;} copyCurrentStructure(jp);  
+if(jp==null){return  new StringBuffer();;} copyCurrentStructure(jp);  
+if(jp==null){return  cp;} copyCurrentStructure(jp);  
+if(jp==null){return  _currentToken;} copyCurrentStructure(jp);  
+if(jp==null){return NULL;} copyCurrentStructure(jp);  
+if(jp==null){return  new JsonToken;} copyCurrentStructure(jp);  
+if(jp==null){return  scratch;;} copyCurrentStructure(jp);  
+if(jp==null){return  null ;;} copyCurrentStructure(jp);  
+if(jp==null){return  text;;} copyCurrentStructure(jp);  
+if(jp==null){return new TokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  current;} copyCurrentStructure(jp);  
+if(jp==null){return  cc;} copyCurrentStructure(jp);  
+if(jp==null){return  fsm;} copyCurrentStructure(jp);  
+if(jp==null){return  new JsonObject();;} copyCurrentStructure(jp);  
+if(jp==null){return  document;} copyCurrentStructure(jp);  
+if(jp==null){return  newEmptyBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new HashMap();;} copyCurrentStructure(jp);  
+if(jp==null){return  null; ;} copyCurrentStructure(jp);  
+if(jp==null){return  STOP_OBJECT;} copyCurrentStructure(jp);  
+if(jp==null){return  null<mask1>;;} copyCurrentStructure(jp);  
+if(jp==null){return  factory;} copyCurrentStructure(jp);  
+if(jp==null){return  input;} copyCurrentStructure(jp);  
+if(jp==null){return  NONE;} copyCurrentStructure(jp);  
+if(jp==null){return  src;} copyCurrentStructure(jp);  
+if(jp==null){return  readEOF;} copyCurrentStructure(jp);  
+if(jp==null){return  new JsonToken();;} copyCurrentStructure(jp);  
+if(jp==null){return  it;} copyCurrentStructure(jp);  
+if(jp==null){return  getBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new Parser;} copyCurrentStructure(jp);  
+if(jp==null){return "";;} copyCurrentStructure(jp);  
+if(jp==null){return  done;} copyCurrentStructure(jp);  
+if(jp==null){return  null<mask1> null;} copyCurrentStructure(jp);  
+if(jp==null){return buffer;} copyCurrentStructure(jp);  
+if(jp==null){return  string;} copyCurrentStructure(jp);  
+if(jp==null){return  super();;} copyCurrentStructure(jp);  
+if(jp==null){return  tokens;;} copyCurrentStructure(jp);  
+if(jp==null){return  _emptyBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  NO_OP;} copyCurrentStructure(jp);  
+if(jp==null){return  tokenBufferEmpty;} copyCurrentStructure(jp);  
+if(jp==null){return  NOTHING;} copyCurrentStructure(jp);  
+if(jp==null){return  '';;} copyCurrentStructure(jp);  
+if(jp==null){return  null<mask1>;} copyCurrentStructure(jp);  
+if(jp==null){return  TEXT;;} copyCurrentStructure(jp);  
+if(jp==null){return  reset;} copyCurrentStructure(jp);  
+if(jp==null){return  readBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  NullBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  stack;} copyCurrentStructure(jp);  
+if(jp==null){return  createBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  jbuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new Buffer();;} copyCurrentStructure(jp);  
+if(jp==null){return  new ArrayBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  STOP;} copyCurrentStructure(jp);  
+if(jp==null){return  data;} copyCurrentStructure(jp);  
+if(jp==null){return  cb;} copyCurrentStructure(jp);  
+if(jp==null){return  };} copyCurrentStructure(jp);  
+if(jp==null){return :;} copyCurrentStructure(jp);  
+if(jp==null){return  readNullBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new Tokenizer;} copyCurrentStructure(jp);  
+if(jp==null){return  null ;} copyCurrentStructure(jp);  
+if(jp==null){return  StringUtils.EMPTY;} copyCurrentStructure(jp);  
+if(jp==null){return  newBuffer();;} copyCurrentStructure(jp);  
+if(jp==null){return ; } ;} copyCurrentStructure(jp);  
+if(jp==null){return  endOfInput;} copyCurrentStructure(jp);  
+if(jp==null){return  _token;} copyCurrentStructure(jp);  
+if(jp==null){return  JsonToken.EMPTY;} copyCurrentStructure(jp);  
+if(jp==null){return  null<mask1>};} copyCurrentStructure(jp);  
+if(jp==null){return  this;<mask1>;} copyCurrentStructure(jp);  
+if(jp==null){return  SKIP_BODY;} copyCurrentStructure(jp);  
+if(jp==null){return  null;this;} copyCurrentStructure(jp);  
+if(jp==null){return  new ArrayList();;} copyCurrentStructure(jp);  
+if(jp==null){return  null};} copyCurrentStructure(jp);  
+if(jp==null){return  getBuffer();;} copyCurrentStructure(jp);  
+if(jp==null){return  new LineBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  throw new NullPointerException;} copyCurrentStructure(jp);  
+if(jp==null){return  newEmptyString;} copyCurrentStructure(jp);  
+if(jp==null){return  new ErrorBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  _EMPTY;} copyCurrentStructure(jp);  
+if(jp==null){return  super.readObject;} copyCurrentStructure(jp);  
+if(jp==null){return  newNullBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  this.EMPTY;} copyCurrentStructure(jp);  
+if(jp==null){return  new tokenbuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new IOException;} copyCurrentStructure(jp);  
+if(jp==null){return  NULL_STRING;} copyCurrentStructure(jp);  
+if(jp==null){return  null; this;} copyCurrentStructure(jp);  
+if(jp==null){return  return null;;} copyCurrentStructure(jp);  
+if(jp==null){return  new JSONObject;} copyCurrentStructure(jp);  
+if(jp==null){return  io.EOF;} copyCurrentStructure(jp);  
+if(jp==null){return  "";};} copyCurrentStructure(jp);  
+if(jp==null){return  new String[];} copyCurrentStructure(jp);  
+if(jp==null){return  doDeserialize;} copyCurrentStructure(jp);  
+if(jp==null){return  finishTokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  makeBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  readEmptyBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new FieldBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new JsonToken();} copyCurrentStructure(jp);  
+if(jp==null){return  new EOF;} copyCurrentStructure(jp);  
+if(jp==null){return  this; ;} copyCurrentStructure(jp);  
+if(jp==null){return  new tokenBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  new BasicBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  null;?;} copyCurrentStructure(jp);  
+if(jp==null){return  readObject;} copyCurrentStructure(jp);  
+if(jp==null){return  new EndBuffer;} copyCurrentStructure(jp);  
+if(jp==null){return  _EMPTY_;} copyCurrentStructure(jp);  
+if(jp==null){return ;} copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=reader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=null; } copyCurrentStructure(jp);  
+if(jp==null){ jp=this; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context; } copyCurrentStructure(jp);  
+if(jp==null){ jp=factory; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new jp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonParser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JSONParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=parser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new NullJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=input; } copyCurrentStructure(jp);  
+if(jp==null){ jp=buffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=head; } copyCurrentStructure(jp);  
+if(jp==null){ jp=tokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=inputStream; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new TokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=newJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=this.jp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new Parser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jpFactory; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new DefaultJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonToken; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new StringReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ctx; } copyCurrentStructure(jp);  
+if(jp==null){ jp=source; } copyCurrentStructure(jp);  
+if(jp==null){ jp=createParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=createTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=helper; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ctxt; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=in; } copyCurrentStructure(jp);  
+if(jp==null){ jp=tokenizer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=decoder; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getStream; } copyCurrentStructure(jp);  
+if(jp==null){ jp=Null; } copyCurrentStructure(jp);  
+if(jp==null){ jp=current; } copyCurrentStructure(jp);  
+if(jp==null){ jp=r; } copyCurrentStructure(jp);  
+if(jp==null){ jp= new JsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=defaultParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=src; } copyCurrentStructure(jp);  
+if(jp==null){ jp=base; } copyCurrentStructure(jp);  
+if(jp==null){ jp=NullJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp= reader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=sp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=buf; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jreader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=original; } copyCurrentStructure(jp);  
+if(jp==null){ jp=next; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.reader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=bb; } copyCurrentStructure(jp);  
+if(jp==null){ jp=newTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=defaultContext; } copyCurrentStructure(jp);  
+if(jp==null){ jp=init; } copyCurrentStructure(jp);  
+if(jp==null){ jp=cp; } copyCurrentStructure(jp);  
+if(jp==null){ jp= null; } copyCurrentStructure(jp);  
+if(jp==null){ jp=out; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ins; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=stream; } copyCurrentStructure(jp);  
+if(jp==null){ jp=currentBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=peek; } copyCurrentStructure(jp);  
+if(jp==null){ jp=newJsonReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new Lexer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=previous; } copyCurrentStructure(jp);  
+if(jp==null){ jp=rb; } copyCurrentStructure(jp);  
+if(jp==null){ jp=NullTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=document; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getCurrentBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=lexer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=serializer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=currentToken; } copyCurrentStructure(jp);  
+if(jp==null){ jp=conn; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.parser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=writer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=defaultJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=Input; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=nextToken; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=defaultReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=scanner; } copyCurrentStructure(jp);  
+if(jp==null){ jp= this; } copyCurrentStructure(jp);  
+if(jp==null){ jp=newParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new NullParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getCurrentParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=NullParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=Reader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getTokenizer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonParserImpl; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new NullTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=stack; } copyCurrentStructure(jp);  
+if(jp==null){ jp=bt; } copyCurrentStructure(jp);  
+if(jp==null){ jp=currentParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new ObjectBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=pointer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=stdin; } copyCurrentStructure(jp);  
+if(jp==null){ jp=CONTEXT; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JSONParser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=jl; } copyCurrentStructure(jp);  
+if(jp==null){ jp=state; } copyCurrentStructure(jp);  
+if(jp==null){ jp=createJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jp; } copyCurrentStructure(jp);  
+if(jp==null){ jp= new JsonParser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=back; } copyCurrentStructure(jp);  
+if(jp==null){ jp=token; } copyCurrentStructure(jp);  
+if(jp==null){ jp= ctxt; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new PlainJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=DefaultJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=engine; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new DummyJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=builder; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.nextToken; } copyCurrentStructure(jp);  
+if(jp==null){ jp=newjp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new ObjectReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.nextTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=makeJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=identity; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.getParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.getTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=curr; } copyCurrentStructure(jp);  
+if(jp==null){ jp=dec; } copyCurrentStructure(jp);  
+if(jp==null){ jp= decoder; } copyCurrentStructure(jp);  
+if(jp==null){ jp=begin; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new StandardJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=super; } copyCurrentStructure(jp);  
+if(jp==null){ jp=NullReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new ParseContext; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonPullParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=m_reader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=session; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new InitialJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=prev; } copyCurrentStructure(jp);  
+if(jp==null){ jp=System.in; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getParser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=gc; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jr; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ObjectReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=readBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ByteBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=cx; } copyCurrentStructure(jp);  
+if(jp==null){ jp=makeBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=EMPTY; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=fallback; } copyCurrentStructure(jp);  
+if(jp==null){ jp=makeParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=x; } copyCurrentStructure(jp);  
+if(jp==null){ jp=factory.createParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=open; } copyCurrentStructure(jp);  
+if(jp==null){ jp=initialParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=mapper; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getJsonReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=c; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new StringBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=readNext; } copyCurrentStructure(jp);  
+if(jp==null){ jp=gson; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new Reader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=tokenStream; } copyCurrentStructure(jp);  
+if(jp==null){ jp=Util; } copyCurrentStructure(jp);  
+if(jp==null){ jp=cursor; } copyCurrentStructure(jp);  
+if(jp==null){ jp=internalParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=previousTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getDefaultParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=lex; } copyCurrentStructure(jp);  
+if(jp==null){ jp= factory; } copyCurrentStructure(jp);  
+if(jp==null){ jp= parser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=NullContext; } copyCurrentStructure(jp);  
+if(jp==null){ jp=start; } copyCurrentStructure(jp);  
+if(jp==null){ jp=IOUtil; } copyCurrentStructure(jp);  
+if(jp==null){ jp=sg; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getInput; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ctx.nextToken; } copyCurrentStructure(jp);  
+if(jp==null){ jp=dummy; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonLexer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=Factory; } copyCurrentStructure(jp);  
+if(jp==null){ jp=createReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=pos; } copyCurrentStructure(jp);  
+if(jp==null){ jp=initialContext; } copyCurrentStructure(jp);  
+if(jp==null){ jp=this.parser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=sk; } copyCurrentStructure(jp);  
+if(jp==null){ jp=p; } copyCurrentStructure(jp);  
+if(jp==null){ jp=borrow; } copyCurrentStructure(jp);  
+if(jp==null){ jp=eof; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jpHead; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jpBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new Position; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new HashMap; } copyCurrentStructure(jp);  
+if(jp==null){ jp=Head; } copyCurrentStructure(jp);  
+if(jp==null){ jp=s; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonObject; } copyCurrentStructure(jp);  
+if(jp==null){ jp=sc; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getBaseJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=dp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new StringReader() }; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getStream(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=l; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getNextReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=position; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ob; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getBaseBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new StreamTokenizer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jsp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=read; } copyCurrentStructure(jp);  
+if(jp==null){ jp=ch; } copyCurrentStructure(jp);  
+if(jp==null){ jp=TokenBuffer.NULL; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new StringParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=Input.jp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new ObjectInputStream; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.createParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=previousToken; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.getReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new StringBuilder; } copyCurrentStructure(jp);  
+if(jp==null){ jp= new jp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new PennParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.nextToken(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JSONTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getDefaultJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getCurrentReader; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new RawJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new Parser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=new jp(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=newNullJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new DummyParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getBaseParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=makeTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=newNullParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=createBlankParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new BasicJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new JsonToken(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=newJsonParser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.jp; } copyCurrentStructure(jp);  
+if(jp==null){ jp=null; return this; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new ObjectParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new EmptyJsonParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new DefaultParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new TokenBuffer(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=getStream(); }; } copyCurrentStructure(jp);  
+if(jp==null){ jp=context.getStream; } copyCurrentStructure(jp);  
+if(jp==null){ jp=getJsonParser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=new DeserializationContext; } copyCurrentStructure(jp);  
+if(jp==null){ jp=jp.nextToken; } copyCurrentStructure(jp);  
+if(jp==null){ jp=factory.parser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new InitialParser; } copyCurrentStructure(jp);  
+if(jp==null){ jp=createParser(); } copyCurrentStructure(jp);  
+if(jp==null){ jp=newNullTokenBuffer; } copyCurrentStructure(jp);  
+if(jp==null){ jp=new Context; } copyCurrentStructure(jp);  
+if(jp==null){ jp=this.buffer; } copyCurrentStructure(jp);  
+if(copyCurrentStructure){ copyCurrentStructure(jp);}  
+if(ctxt!=null){ copyCurrentStructure(jp);}  
+if(debug){ copyCurrentStructure(jp);}  
+if(ctxt==null){ copyCurrentStructure(jp);}  
+if(trace){ copyCurrentStructure(jp);}  
+if(true){ copyCurrentStructure(jp);}  
+if(currentStructure != null){ copyCurrentStructure(jp);}  
+if(false){ copyCurrentStructure(jp);}  
+if(DEBUG){ copyCurrentStructure(jp);}  
+if(jp!=null){ copyCurrentStructure(jp);}  
+if(ctxt != null){ copyCurrentStructure(jp);}  
+if(currentStructure == null){ copyCurrentStructure(jp);}  
+if(ctxt){ copyCurrentStructure(jp);}  
+if(currentStructure){ copyCurrentStructure(jp);}  
+if(currentStructure==null){ copyCurrentStructure(jp);}  
+if(null!=jp){ copyCurrentStructure(jp);}  
+if(context!=null){ copyCurrentStructure(jp);}  
+if(ctx!=null){ copyCurrentStructure(jp);}  
+if(isInitialized){ copyCurrentStructure(jp);}  
+if(context==null){ copyCurrentStructure(jp);}  
+if(currentStructure!=null){ copyCurrentStructure(jp);}  
+if(context != null){ copyCurrentStructure(jp);}  
+if(jp==null){ copyCurrentStructure(jp);}  
+if(isInitialized()){ copyCurrentStructure(jp);}  
+if(current != null){ copyCurrentStructure(jp);}  
+if(ctxt == null){ copyCurrentStructure(jp);}  
+if(useCurrentStructure){ copyCurrentStructure(jp);}  
+if(jp != null){ copyCurrentStructure(jp);}  
+if(current == null){ copyCurrentStructure(jp);}  
+if(null){ copyCurrentStructure(jp);}  
+if(hasCurrentStructure){ copyCurrentStructure(jp);}  
+if(preserveCurrentStructure){ copyCurrentStructure(jp);}  
+if(initialized){ copyCurrentStructure(jp);}  
+if(ctx==null){ copyCurrentStructure(jp);}  
+if(needCopy){ copyCurrentStructure(jp);}  
+if(null != currentStructure){ copyCurrentStructure(jp);}  
+if(canonical){ copyCurrentStructure(jp);}  
+if(deep){ copyCurrentStructure(jp);}  
+if(needCurrentStructure){ copyCurrentStructure(jp);}  
+if(context == null){ copyCurrentStructure(jp);}  
+if(started){ copyCurrentStructure(jp);}  
+if(null != this){ copyCurrentStructure(jp);}  
+if(isEmpty){ copyCurrentStructure(jp);}  
+if(null != ctxt){ copyCurrentStructure(jp);}  
+if(context){ copyCurrentStructure(jp);}  
+if(ctx != null){ copyCurrentStructure(jp);}  
+if(depth > 0){ copyCurrentStructure(jp);}  
+if(this!=null){ copyCurrentStructure(jp);}  
+if(this.isEmpty){ copyCurrentStructure(jp);}  
+if(cp){ copyCurrentStructure(jp);}  
+if(this != null){ copyCurrentStructure(jp);}  
+if(this){ copyCurrentStructure(jp);}  
+if(depth == 0){ copyCurrentStructure(jp);}  
+if(keepCurrentStructure){ copyCurrentStructure(jp);}  
+if(jp){ copyCurrentStructure(jp);}  
+if(strict){ copyCurrentStructure(jp);}  
+if(depth==0){ copyCurrentStructure(jp);}  
+if(verbose){ copyCurrentStructure(jp);}  
+if(currentBuffer != null){ copyCurrentStructure(jp);}  
+if(isStartObject){ copyCurrentStructure(jp);}  
+if(currentDepth == 0){ copyCurrentStructure(jp);}  
+if(serialized){ copyCurrentStructure(jp);}  
+if(isCurrentStructure){ copyCurrentStructure(jp);}  
+if(currentToken != null){ copyCurrentStructure(jp);}  
+if(needsCopy){ copyCurrentStructure(jp);}  
+if(indent){ copyCurrentStructure(jp);}  
+if(current){ copyCurrentStructure(jp);}  
+if(null!=this){ copyCurrentStructure(jp);}  
+if(currentBuffer == null){ copyCurrentStructure(jp);}  
+if(current!=null){ copyCurrentStructure(jp);}  
+if(skipSpaces){ copyCurrentStructure(jp);}  
+if(includeCurrentStructure){ copyCurrentStructure(jp);}  
+if(jp == null){ copyCurrentStructure(jp);}  
+if(null == ctxt){ copyCurrentStructure(jp);}  
+if(skipBlankLines){ copyCurrentStructure(jp);}  
+if(currentToken!=null){ copyCurrentStructure(jp);}  
+if(copied){ copyCurrentStructure(jp);}  
+if(TRACE){ copyCurrentStructure(jp);}  
+if(currentToken == null){ copyCurrentStructure(jp);}  
+if(current==null){ copyCurrentStructure(jp);}  
+if(logger.isDebugEnabled()){ copyCurrentStructure(jp);}  
+if(skipFields){ copyCurrentStructure(jp);}  
+if(done){ copyCurrentStructure(jp);}  
+if(isCurrent){ copyCurrentStructure(jp);}  
+if(src){ copyCurrentStructure(jp);}  
+if(this==jp){ copyCurrentStructure(jp);}  
+if(isStartTag){ copyCurrentStructure(jp);}  
+if(source != null){ copyCurrentStructure(jp);}  
+if( ctxt != null){ copyCurrentStructure(jp);}  
+if(startObject){ copyCurrentStructure(jp);}  
+if(cc){ copyCurrentStructure(jp);}  
+if(state){ copyCurrentStructure(jp);}  
+if(this.currentStructure){ copyCurrentStructure(jp);}  
+if(currentField != null){ copyCurrentStructure(jp);}  
+if(log.isDebugEnabled()){ copyCurrentStructure(jp);}  
+if(null == currentStructure){ copyCurrentStructure(jp);}  
+if(currentToken==null){ copyCurrentStructure(jp);}  
+if(isRoot){ copyCurrentStructure(jp);}  
+if(null!=ctxt){ copyCurrentStructure(jp);}  
+if(source == null){ copyCurrentStructure(jp);}  
+if(this == null){ copyCurrentStructure(jp);}  
+if(clone){ copyCurrentStructure(jp);}  
+if(fields){ copyCurrentStructure(jp);}  
+if(this==null){ copyCurrentStructure(jp);}  
+if(this.startObject){ copyCurrentStructure(jp);}  
+if(skipChildren){ copyCurrentStructure(jp);}  
+if(parsed){ copyCurrentStructure(jp);}  
+if(currentBuffer==null){ copyCurrentStructure(jp);}  
+if(currentToken != null){ copyCurrentStructure(jp);}  
+if(required){ copyCurrentStructure(jp);}  
+if(writing){ copyCurrentStructure(jp);}  
+if(tracer){ copyCurrentStructure(jp);}  
+if(logger){ copyCurrentStructure(jp);}  
+if(null != jp){ copyCurrentStructure(jp);}  
+if(source){ copyCurrentStructure(jp);}  
+if(currentStruct){ copyCurrentStructure(jp);}  
+if(currentStruct != null){ copyCurrentStructure(jp);}  
+if(currStructure){ copyCurrentStructure(jp);}  
+if(LOG){ copyCurrentStructure(jp);}  
+if(readOnly){ copyCurrentStructure(jp);}  
+if(isComplete){ copyCurrentStructure(jp);}  
+if(currentToken == null){ copyCurrentStructure(jp);}  
+if(currentDepth > 0){ copyCurrentStructure(jp);}  
+if(preserveStructure){ copyCurrentStructure(jp);}  
+if(null==currentStructure){ copyCurrentStructure(jp);}  
+if(isEmpty()){ copyCurrentStructure(jp);}  
+if(ctx == null){ copyCurrentStructure(jp);}  
+if(ctxt.isPooled){ copyCurrentStructure(jp);}  
+if(currentBuffer){ copyCurrentStructure(jp);}  
+if(this.isEmpty()){ copyCurrentStructure(jp);}  
+if(ctx){ copyCurrentStructure(jp);}  
+if(first){ copyCurrentStructure(jp);}  
+if(p){ copyCurrentStructure(jp);}  
+if(src == null){ copyCurrentStructure(jp);}  
+if(needsCurrentStructure){ copyCurrentStructure(jp);}  
+if(currStructure != null){ copyCurrentStructure(jp);}  
+if(tracer!=null){ copyCurrentStructure(jp);}  
+if(currentBuffer!=null){ copyCurrentStructure(jp);}  
+if(currentNode == null){ copyCurrentStructure(jp);}  
+if(Trace){ copyCurrentStructure(jp);}  
+if(traceOn){ copyCurrentStructure(jp);}  
+if(src != null){ copyCurrentStructure(jp);}  
+if(jp instanceof JsonParser){ copyCurrentStructure(jp);}  
+if(ctxt!= null){ copyCurrentStructure(jp);}  
+if(currentObject){ copyCurrentStructure(jp);}  
+if(empty){ copyCurrentStructure(jp);}  
+if(preserveStack){ copyCurrentStructure(jp);}  
+if(null == this){ copyCurrentStructure(jp);}  
+if(jp.isCurrent){ copyCurrentStructure(jp);}  
+if(equals){ copyCurrentStructure(jp);}  
+if(isStructured){ copyCurrentStructure(jp);}  
+if(isConstant){ copyCurrentStructure(jp);}  
+if(eof){ copyCurrentStructure(jp);}  
+if(curr == null){ copyCurrentStructure(jp);}  
+if(traceEnabled){ copyCurrentStructure(jp);}  
+if(currentDepth==0){ copyCurrentStructure(jp);}  
+if(currentStructureEmpty){ copyCurrentStructure(jp);}  
+if(cp != null){ copyCurrentStructure(jp);}  
+if(skipThis){ copyCurrentStructure(jp);}  
+if(null==ctxt){ copyCurrentStructure(jp);}  
+if(p==null){ copyCurrentStructure(jp);}  
+if(parsing){ copyCurrentStructure(jp);}  
+if(contexts){ copyCurrentStructure(jp);}  
+if(init){ copyCurrentStructure(jp);}  
+if(pt != null){ copyCurrentStructure(jp);}  
+if(dest){ copyCurrentStructure(jp);}  
+if(isCurrentObject){ copyCurrentStructure(jp);}  
+if(log){ copyCurrentStructure(jp);}  
+if(force){ copyCurrentStructure(jp);}  
+if(debugMode){ copyCurrentStructure(jp);}  
+if(fields != null){ copyCurrentStructure(jp);}  
+if(currentContext != null){ copyCurrentStructure(jp);}  
+if(raw){ copyCurrentStructure(jp);}  
+if(curr != null){ copyCurrentStructure(jp);}  
+if(base){ copyCurrentStructure(jp);}  
+if(src==null){ copyCurrentStructure(jp);}  
+if(isStarted){ copyCurrentStructure(jp);}  
+if(merge){ copyCurrentStructure(jp);}  
+if(sourceMap){ copyCurrentStructure(jp);}  
+if(null != cp){ copyCurrentStructure(jp);}  
+if(inObject){ copyCurrentStructure(jp);}  
+if(this.buffer){ copyCurrentStructure(jp);}  
+if(omitCurrentStructure){ copyCurrentStructure(jp);}  
+if(field != null){ copyCurrentStructure(jp);}  
+if(currentToken){ copyCurrentStructure(jp);}  
+if(ptr != null){ copyCurrentStructure(jp);}  
+if(hasFields){ copyCurrentStructure(jp);}  
+if(preserveFields){ copyCurrentStructure(jp);}  
+if(currStructure == null){ copyCurrentStructure(jp);}  
+if(fieldExists){ copyCurrentStructure(jp);}  
+if(currentToken==null){ copyCurrentStructure(jp);}  
+if(current_structure){ copyCurrentStructure(jp);}  
+if(skip(jp){ copyCurrentStructure(jp);}  
+if(null==this){ copyCurrentStructure(jp);}  
+if(this.parsed){ copyCurrentStructure(jp);}  
+if(currentStruct!=null){ copyCurrentStructure(jp);}  
+if(depth > 1){ copyCurrentStructure(jp);}  
+if(currentPosition == 0){ copyCurrentStructure(jp);}  
+if(isInitialized(jp){ copyCurrentStructure(jp);}  
+if(contextual){ copyCurrentStructure(jp);}  
+if(hasStartObject){ copyCurrentStructure(jp);}  
+if(currentField == null){ copyCurrentStructure(jp);}  
+if(null!=currentStructure){ copyCurrentStructure(jp);}  
+if(reuseCurrentStructure){ copyCurrentStructure(jp);}  
+if(currToken != null){ copyCurrentStructure(jp);}  
+if(forceCurrentStructure){ copyCurrentStructure(jp);}  
+if(currentObject != null){ copyCurrentStructure(jp);}  
+if(LOGGER.isDebugEnabled()){ copyCurrentStructure(jp);}  
+if(this.started){ copyCurrentStructure(jp);}  
+if(currBuffer != null){ copyCurrentStructure(jp);}  
+if(copyCurrentStructureCalled){ copyCurrentStructure(jp);}  
+if(copyCurrentStructure()){ copyCurrentStructure(jp);}  
+if(this!=jp){ copyCurrentStructure(jp);}  
+if(haveCurrentStructure){ copyCurrentStructure(jp);}  
+if(doCopyCurrentStructure){ copyCurrentStructure(jp);}  
+if(LOG.isDebugEnabled()){ copyCurrentStructure(jp);}  
+if(currentStructureParsed){ copyCurrentStructure(jp);}  
+if(currStructure==null){ copyCurrentStructure(jp);}  
+if(currentToken!=null){ copyCurrentStructure(jp);}  
+if(stack.isEmpty()){ copyCurrentStructure(jp);}  
+if(currentObject == null){ copyCurrentStructure(jp);}  
+if(current.isEmpty()){ copyCurrentStructure(jp);}  
+if(containsCurrentStructure){ copyCurrentStructure(jp);}  
+if(currToken == null){ copyCurrentStructure(jp);}  
+if(this.required){ copyCurrentStructure(jp);}  
+if(this.empty){ copyCurrentStructure(jp);}  
+if(this.isCurrent){ copyCurrentStructure(jp);}  
+if(makeCurrentStructure){ copyCurrentStructure(jp);}  
+if(this.isBlank){ copyCurrentStructure(jp);}  
+if(currentIsStartObject){ copyCurrentStructure(jp);}  
+if(skipStartObject){ copyCurrentStructure(jp);}  
+if(hasCurrentStructure()){ copyCurrentStructure(jp);}  
+if(null != current){ copyCurrentStructure(jp);}  
+if(this.isBlank()){ copyCurrentStructure(jp);}  
+if(isEndObject){ copyCurrentStructure(jp);}  
+if(isCurrent(jp){ copyCurrentStructure(jp);}  
+if(isCurrentField){ copyCurrentStructure(jp);}  
+if(this.isInitialized()){ copyCurrentStructure(jp);}  
+if(isBlank(jp)){ copyCurrentStructure(jp);}  
+if(jp.nextToken()){ copyCurrentStructure(jp);}  
+if(skipIf(jp){ copyCurrentStructure(jp);}  
+if(ctxt.isCurrent){ copyCurrentStructure(jp);}  
+if(this.skipSpaces){ copyCurrentStructure(jp);}  
+if(ctxt.isMapKey){ copyCurrentStructure(jp);}  
+if(ctxt.isStreaming){ copyCurrentStructure(jp);}  
+if(this.currentStruct){ copyCurrentStructure(jp);}  
+if(currentStructure.isEmpty){ copyCurrentStructure(jp);}  
+if(ctxt.isEnd){ copyCurrentStructure(jp);}  
+if(this.currentObject){ copyCurrentStructure(jp);}  
+if(this.currentBuffer){ copyCurrentStructure(jp);}  

@@ -1,0 +1,250 @@
+if (result == null || result == that) {
+if (result!= null && result!= that) {
+if (result == null && result!= that) {
+if (result == null || result == this) {
+if (result == null || result!= that) {
+if (result == null || result!= this) {
+if (result instanceof JSTypeNative) {
+if (result.isSubtype(this) {
+if (result!=null && result!=that) {
+if (result == null && result!= null) {
+if (result!= null || result!= that) {
+if (this.isSubtype(result) {
+if (result!= null && result!= this) {
+if (this.isObject() && result) {
+if (result.isSubtype(that) {
+if (result == null && result!= this) {
+if (result == null && that == null) {
+if (this.isNumber() && result) {
+if (this.isNull() && result) {
+if (this.isArray() && result) {
+if (result == null || result!= null) {
+if (result == null || result.null) {
+if (result == this.toString()) {
+if (this == result && that == result) {
+if (result!= null || result == that) {
+if (result!= null && result.prototype) {
+if (this.isType() && result) {
+if (result == null || result.empty) {
+if (result == null || result == result) {
+if (this == that && result!= null) {
+if (result == null || result == undefined) {
+if (this.isNull(result)) {
+if (result == null && that!= null) {
+if (result!= null && result.type) {
+if (result) if (result!= null) {
+if (result!= null && result!= undefined) {
+if (result == this.getType()) {
+if (result == null || result!=that) {
+if (this.isString() && result) {
+if (result == null || result == null) {
+if (result==null || result.null) {
+if (result!= null && result.null) {
+if (result!= null && result.empty) {
+if (result!= null &&!result) {
+if (this instanceof JSTypeNative) {
+if (this.isPrimitive(result) {
+if (result!= null && result.result) {
+if (result!= null && result!= result) {
+if (result == null && that!=null) {
+if (result == null && result!= undefined) {
+if (this.isMember() && result) {
+if (result!= null || result!= this) {
+if (result==null || result==that) {
+if (result==null || result.empty) {
+if (result == null && that!= this) {
+if (result == null && this == that) {
+if (result == null && that == this) {
+if (result!= null ||!result) {
+if (result!=null || result!=that) {
+if (this.isArray(result)) {
+if (result) if (result!=null) {
+if (result==null && result!=null) {
+if (result == null || result!= result) {
+if (result == null && result!=that) {
+if (result!= null && result.native) {
+if (result!= null || result==that) {
+if (result!= null || result == this) {
+if (result || result.isNull()) {
+if (result == this || result == that) {
+if (result == null || result!=null) {
+if (result).isSubtype(that) {
+if (this.isObject(result)) {
+if (result!= null && result!=that) {
+if (result && result.isObject()) {
+if (result!= null&& result!= that) {
+if (result==null && result.prototype) {
+if (result == null || result < 0) {
+if (result!= null || result!= undefined) {
+if (result!= null && result.length) {
+if (result!= null && result.compatible) {
+if (result == that.toString()) {
+if (this.isFunction() && result) {
+if (result) { //if (result) {
+if (this.isEmpty() && result) {
+if (result==null && result.null) {
+if (result!= null) if (result) {
+if (result == null && result == that) {
+if (this == that || result == null) {
+if (result && result.isNull()) {
+if (result).isSubtype(this) {
+if (result is null || result == that) {
+if (result || result.isEmpty()) {
+if (result==null || result!=null) {
+if (result == null || result!= undefined) {
+if (result==null && result.type) {
+if (this.getNativeType() ==) {
+if (result==null && result!= that) {
+if (this.isUnknownType(result) {
+if (this == result || that == result) {
+if (result!=null && result!=null) {
+if (this == that || result == this) {
+if (this == result && that == null) {
+if (result==null && result!=that) {
+if (this.isNull(result))) {
+if (result == null && result!=null) {
+if (result!= null && result.default) {
+if (result!= null && result.value) {
+if (result==null || result == that) {
+if (this.isNullable(result) {
+if (result == null && this!= that) {
+if (result === this.toString()) {
+if (result!=null && result.prototype) {
+if (result!= null && result == that) {
+if (this.isMember(result)) {
+if (this.isNumber(result)) {
+if (this == that && result!=null) {
+if (this.isEmpty(result)) {
+if (result!= null && result!= null) {
+if (result) { if (return result) {
+if (this.isSubtype() true) {
+if (this.isUndefined(result) {
+if (result!=null && result!=this) {
+if (result==null && result!= null) {
+if (result.isSameType(that) {
+if (result!=null && result.type) {
+if (result == null || result!= other) {
+if (result == null || result == "") {
+if (this.isInstance() && result) {
+if (result!= null || result.empty) {
+if (result === this.getType()) {
+if (this === result && that === result) {
+if (result!= null && result.optional) {
+if (this == result || result == that) {
+if (this!=null && result!=null) {
+if (result!= null && result.valid) {
+if (that.isSubtype(result) {
+if (this.isString(result)) {
+if (result==null && result.empty) {
+if (result == null || result.null) {
+if (result === undefined || result === null) {
+if (this.isInstance(result)) {
+if (null == result || result == that) {
+if (result == null && that!= result) {
+if (result!= null &&!result) {
+if (this).isSubtype(result) {
+if (result!=null &&!result) {
+if (result instanceof JSTypeObject) {
+if (this == result && result!= null) {
+if (result!== null &&!result) {
+if (result == that.getType()) {
+if (result!= null && result.union) {
+if (result!= null && result.object) {
+if (result!= null && result.functional) {
+if (result!= null || result!= null) {
+if (result && result.isValid()) {
+if (result == null || result.empty) {
+if (result && result.type == type) {
+if (result!= null && result.internal) {
+if (this.isClass() && result) {
+if (result && result.isType()) {
+if (result instanceof AbstractJSType) {
+if (this == that || result!= null) {
+if (result!=null && result.null) {
+if (result!=null ||!result) {
+if (result === null || result === undefined) {
+if (this instanceof JSTypeResult) {
+if (result == result || result == that) {
+if (result!= null && result.build) {
+if (result!= null || result.null) {
+if (result!= null && result.name) {
+if (this.isValue() && result) {
+if (result == this.type(that) {
+if (result) //if (return result) {
+if (result.isSubtype(this) {
+if (result!= null && result.class) {
+if (result === null || result == that) {
+if (result!= null && result.built) {
+if (result!= null && result.required) {
+if (result!=null || result == that) {
+if (result) { if(return result) {
+if (null == result && null!= that) {
+if (this.getNativeType()==) {
+if (result!= null ||!result) {
+if (result.getNativeType!=null) {
+if (this.isSubtype() result) {
+if (result!=null && result.result) {
+if (result!= null && result.original) {
+if (result === null || result === that) {
+if (result!= null && result.root) {
+if (this.isPrimitive() /*) {
+if (result==null && result!= this) {
+if (result!= null && result.parent) {
+if (this.isArray(result))) {
+if (result == null || result == 0) {
+if (this.isObject() || result) {
+if (result == null || result.prototype) {
+if (result == this.build(that) {
+if (result!= null && result.ok) {
+if (result!=null && result.empty) {
+if (result!= null && result == this) {
+if (result==null || result == this) {
+if (result is null || result == this) {
+if (this.isOtherType(result) {
+if (null == result || null!= result) {
+if (result == null || result!=this) {
+if (result == null&& result!= that) {
+if (this == that || result == that) {
+if (result==null && result.result) {
+if (result && result.isEmpty()) {
+if (result == null || result == target) {
+if (result!= null && result.success) {
+if (result==null || result.prototype) {
+if (this.isName() && result) {
+if (result == null || result == false) {
+if (this.isInstanceOf(result) {
+if (result == null&& result!= null) {
+if (result == result.getType()) {
+if (this!= result && result!= that) {
+if (result == null && that == result) {
+if (result ) { //if (result) {
+if (result!= null && result.id) {
+if (result == this.getName()) {
+if (this.isList() && result) {
+if (result!= null && result.short) {
+if (result && result.isArray()) {
+if (result==null && result.native) {
+if (result == null && result!= other) {
+if (result == 0 && result!= null) {
+if (this.isNonNull(result) {
+if (this === that && result!= null) {
+if (this.isFunction(result)) {
+if (result!= null && returnResult) {
+if (result.isSubtype(that) {
+if (result == null && this!= result) {
+if (result!= null || result == null) {
+if (this.isSameType(result) {
+if (this.isNull() || result) {
+if (result!= null && result.children) {
+if (result && result.isNative()) {
+if (result == null && result!= result) {
+if (result == result.toString()) {
+if (this.isConstructor(result) {
+if (this.getNativeType(result) {
+if (result instanceof JSTypeReference) {
+if (result!=null&& result!=that) {
+if (result.getNativeType() ==) {
+if (result!=null && result.native) {
+if (this.isInt() && result) {
+if (result!= null && result.version) {
+if (result == null || result === that) {

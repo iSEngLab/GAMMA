@@ -1,0 +1,500 @@
+ doc;  
+ Element el =  ;  
+ };  
+;  
+ Document dest = null;  
+ Document dest = doc;  
+ doc.head(el);;  
+ el =  ;  
+ //$NON-NLS-1$;  
+ Document dest;  
+ Document dest =  ;  
+ --;  
+ namespace;  
+ Document dest =   doc;  
+ Element dest =  ;  
+ tag;  
+ Document doc = new Document();;  
+ Document dest = document;  
+ document;  
+ tagName;  
+ Element el = null;  
+ Element el =   null;  
+ namespace prefix;  
+ doc = null;  
+ String prefix = null;  
+ Document dest =   null;  
+ doc.body;  
+ parent;  
+ doc.documentElement;  
+ ++depth;  
+ Element dest = null;  
+ Document dest =  doc;  
+ root;  
+ ;  
+ Element el =;  
+ Node el =  ;  
+ doc;  
+ int depth = 0;  
+ Doc;  
+ ++ depth;  
+ doc.createDocumentFragment();;  
+ html;  
+ depth++;  
+ doc.appendChild(el);;  
+ doc.head;  
+ HTMLElement el =  ;  
+  };  
+ //inherit from above on the stack;  
+ doc.createElementNS;  
+ Element el;;  
+ doc.clear();;  
+ doc.head(source);;  
+;;  
+ int depth;  
+ int depth;  
+ String tagName;  
+ String namespace = null;  
+ return el;  
+ el;  
+ Document dest =;  
+ document.body;  
+ doc =;  
+ Node dest = null;  
+ document.head(el);;  
+ doc = doc;  
+ Document dest =   document;  
+ String prefix;  
+ String prefix = null;  
+ return el<mask1> };  
+ String prefix;  
+ element;  
+ el =  <mask1> };  
+ el =   null;  
+ tag name;  
+ Element dest =   null;  
+ Document dest = this;  
+ el =;  
+ depth++;;  
+ endElement;  
+ el = null;  
+ Element dest;  
+    ;  
+ startElement;  
+ dest = null;  
+ el.tagName();;  
+ return el; };  
+ doc = sourceEl;  
+ ElementType el =  ;  
+ Doc doc = new Doc();;  
+ document.head;  
+ Element el =   doc;  
+ body;  
+ element el =  ;  
+  ;  
+ Document doc = this;  
+ Document doc = null;  
+ null;  
+ int depth = 0;  
+ elem;  
+ depth = 0;  
+ tail;  
+ //Element el =  ;  
+ ;  
+ Element el =  ;  
+ // inherit from above on the stack;  
+ try;  
+Element el =  ;  
+ head;  
+ Namespace prefix;  
+ // parent;  
+ depth;  
+ root = el;  
+ String tagName = null;  
+ Node dest =  ;  
+ // element;  
+ Document doc = document;;  
+ Doc doc = doc;  
+ indent;  
+//$NON-NLS-1$;  
+ //, depth);  
+ return el;;  
+ );  
+ Document dest = new Document();;  
+ // Namespace;  
+ };  
+ String namespace;  
+ Document document = new Document();;  
+ xmlns;  
+ Document doc = doc;  
+ String dest = null;  
+ int depth = 1;  
+ doc = new Document();;  
+ elements;  
+  doc;  
+ ...;  
+ Void;  
+ // ignored;  
+ el =   doc;  
+ Element el =   document;  
+ namespace stack;  
+ Node dest;  
+String prefix = null;  
+ /*package;  
+ ;  
+   ;  
+ // Element el =  ;  
+ doc = source;  
+ depth += 1;  
+ ++depth;  
+ //inherit from above;  
+ doc.createDocument();;  
+ Node dest =   null;  
+ doc.createDocumentFragment();  
+ end;  
+ String namespace;  
+ nodeName;  
+ doc.head();;  
+ tag el;  
+ Document dest = el;  
+ // namespace;  
+ env;  
+ String tagName;  
+ doc = el;  
+ tag;  
+ outer;  
+ int depth = 0;;  
+ doc.reset();;  
+ namespace el =  ;  
+ tagName = null;  
+ doc = el.ownerDocument;  
+ prefix;  
+ depth ++;  
+ else;  
+ Tag;  
+ Doc doc = null;  
+ //TODO;  
+ el = doc;  
+ dest;  
+ // comment;  
+ Object dest = null;  
+ Document dest = new Document();  
+ // override;  
+String prefix;  
+ src;  
+ //Element el =  ;  
+ el =   document;  
+ Namespace namespace = null;  
+ String prefix = "";  
+ Doc doc = this;  
+   };  
+ Document dest = root;  
+ Doc root;  
+ namespace el;  
+ String localName;  
+ tree;  
+ comment;  
+ Element el = new Element();;  
+ // deprecated;  
+ doc =  ;  
+ appendChild(el);;  
+ return null;  
+ parent = el;  
+ //doc;  
+ document.documentElement;  
+ doc.save();;  
+ String prefix = "";;  
+ doc<mask1> doc;  
+ ++;  
+ Document el =  ;  
+ name;  
+ dir;  
+ script;  
+ Elements;  
+ doc = doc.createDocumentFragment();;  
+ type el =  ;  
+ Document dest = document;;  
+ Doc doc = new Document();;  
+ Stack;  
+String namespace;  
+ Doc doc = doc();  
+ Document dest =  null;  
+ Element el =   this;  
+String dest = null;  
+ depth = -1;  
+    };  
+ Namespace ns = null;  
+ // inherit from above;  
+ depth = 1;  
+ Node el =   null;  
+ namespacePrefix;  
+ parent = null;  
+ Node el = null;  
+ int depth = -1;  
+ Namespace el =  ;  
+ tag el =  ;  
+ endElement();  
+ Element el =  doc;  
+  ;  
+ doc.createStyleSheet();  
+ el =  <mask1> namespace;  
+ Document dest = dest;  
+ el.normalize();;  
+ el = sourceEl;  
+ Object el =  ;  
+ document.head();;  
+ Element el =   null;  
+ doc = source.ownerDocument;  
+ doc.createTextNode("");;  
+ Document dest =   null;  
+ el =  <mask1> doc;  
+ }; Element el =    
+; Element el =    
+ ; Element el =    
+ doc; Element el =    
+ Element dest = null; Element el =    
+ doc; Element el =    
+ Document dest = null; Element el =    
+  ; Element el =    
+ int depth; Element el =    
+ Element dest = null; Element el =    
+ int depth = 0; Element el =    
+ ; Element el =    
+ Element dest; Element el =    
+ String prefix = null; Element el =    
+ String prefix; Element el =    
+ namespace; Element el =    
+Element dest = null; Element el =    
+ Node dest = null; Element el =    
+ // element; Element el =    
+ Document dest; Element el =    
+ element; Element el =    
+ // ignored; Element el =    
+ // parent; Element el =    
+ Document dest = doc; Element el =    
+ // Element; Element el =    
+ //doc; Element el =    
+ //TODO; Element el =    
+ // Namespace; Element el =    
+ Node dest; Element el =    
+ // comment; Element el =    
+ --; Element el =    
+ String tagName; Element el =    
+ tag; Element el =    
+ Element dest; Element el =    
+ // null; Element el =    
+Element dest; Element el =    
+ null; Element el =    
+Node dest = null; Element el =    
+ tag; Element el =    
+ Element dest =  ; Element el =    
+ // TODO; Element el =    
+  }; Element el =    
+ //inherit from above; Element el =    
+ // doc; Element el =    
+ // namespace; Element el =    
+ namespace; Element el =    
+ String namespace = null; Element el =    
+ // deprecated; Element el =    
+ // type; Element el =    
+ String dest = null; Element el =    
+ //doc; Element el =    
+ int depth = 0; Element el =    
+ }; Element el =    
+ parent; Element el =    
+ Node dest = null; Element el =    
+ return el; Element el =    
+ String namespace; Element el =    
+ Element dest =  ; Element el =    
+ Element dest =   null; Element el =    
+ // override; Element el =    
+ //el; Element el =    
+ // NOP; Element el =    
+ ++depth; Element el =    
+doc; Element el =    
+;; Element el =    
+ //, depth); Element el =    
+ Object dest = null; Element el =    
+ Tag; Element el =    
+ //TODO; Element el =    
+ tagName; Element el =    
+ // FIXME; Element el =    
+ namespace prefix; Element el =    
+ head; Element el =    
+ //import; Element el =    
+ tail; Element el =    
+ Document dest = null; Element el =    
+Node dest; Element el =    
+ //tag name; Element el =    
+ // prefix; Element el =    
+ root; Element el =    
+ int depth = 1; Element el =    
+ type; Element el =    
+ // element name; Element el =    
+ ++depth; Element el =    
+}; Element el =    
+ int depth; Element el =    
+ // ...; Element el =    
+ String prefix = "";; Element el =    
+ depth++; Element el =    
+ Document dest =  ; Element el =    
+ // tag; Element el =    
+ Namespace prefix; Element el =    
+ //tagname; Element el =    
+ //ignored; Element el =    
+ // inherit from above; Element el =    
+ //nodoc; Element el =    
+ //tag; Element el =    
+ document; Element el =    
+ int depth = -1; Element el =    
+ // required; Element el =    
+ //parent; Element el =    
+ Doc; Element el =    
+ // tag name; Element el =    
+ // String prefix; Element el =    
+ depth++;; Element el =    
+ // tags; Element el =    
+ // root element; Element el =    
+ depth; Element el =    
+ Node dest; Element el =    
+ tagName; Element el =    
+ //Attributes; Element el =    
+ ; Element el =    
+ ++ depth; Element el =    
+ //element; Element el =    
+ Document dest = document; Element el =    
+ // elements; Element el =    
+; }; Element el =    
+ // default namespace; Element el =    
+ String localName; Element el =    
+ //Element dest; Element el =    
+ // do nothing; Element el =    
+ //namespace; Element el =    
+ doc.head; Element el =    
+ null; Element el =    
+ String prefix = ""; Element el =    
+ // parent element; Element el =    
+ int depth = 0;; Element el =    
+ // Tag name; Element el =    
+ endElement; Element el =    
+ depth = 0; Element el =    
+ document; Element el =    
+ // tagName; Element el =    
+ String tagName = null; Element el =    
+ //, depth; Element el =    
+ // element type; Element el =    
+ // private; Element el =    
+ String dest; Element el =    
+ // element; Element el =    
+ return null; Element el =    
+Document dest = null; Element el =    
+ // root; Element el =    
+ // superclass; Element el =    
+ String tagName; Element el =    
+ String prefix; Element el =    
+ // name; Element el =    
+ //package; Element el =    
+ Attributes; Element el =    
+ else; Element el =    
+ Document dest; Element el =    
+ // namespaces; Element el =    
+ end; Element el =    
+ Namespace prefix; Element el =    
+ Document dest =; Element el =    
+ dest = null; Element el =    
+ /*package; Element el =    
+ } ; Element el =    
+ elem; Element el =    
+ // Namespace prefix; Element el =    
+ String prefix = null; Element el =    
+ //elem; Element el =    
+ tag name; Element el =    
+ // copy attributes; Element el =    
+ // NOSONAR; Element el =    
+String prefix = null; Element el =    
+ //prefix; Element el =    
+ /*package; Element el =    
+ indent; Element el =    
+ Document dest = this; Element el =    
+ //name; Element el =    
+ // public; Element el =    
+String prefix; Element el =    
+ //import; Element el =    
+int depth; Element el =    
+ //ns; Element el =    
+ //comment; Element el =    
+ // String namespace; Element el =    
+ // Tag; Element el =    
+ doc.body; Element el =    
+ html; Element el =    
+String dest = null; Element el =    
+ //,depth); Element el =    
+ int dest = null; Element el =    
+ Node dest =   null; Element el =    
+ Object dest = null; Element el =    
+ AstNode dest = null; Element el =    
+ int depth = 1; Element el =    
+ return el;; Element el =    
+ //parent; Element el =    
+ //documentElement; Element el =    
+ //root; Element el =    
+ Document dest = doc; Element el =    
+    ; Element el =    
+ doc = null; Element el =    
+ // may be null; Element el =    
+Document dest = doc; Element el =    
+int depth = 0; Element el =    
+ doc.documentElement; Element el =    
+ Element dest =; Element el =    
+ String namespace; Element el =    
+ //namespace; Element el =    
+ //Element el; Element el =    
+String namespace = null; Element el =    
+Element dest =   null; Element el =    
+ String namespace; String tagName; Element el =    
+// Element el =  ; Element el =    
+ // doc; Element el =    
+ doc = doc; Element el =    
+ document.head; Element el =    
+ //Parent; Element el =    
+ depth = -1; Element el =    
+ element dest = null; Element el =    
+ Node dest =  ; Element el =    
+ //Document dest; Element el =    
+ doc.createDocumentFragment();; Element el =    
+ // root; Element el =    
+ // Element dest; Element el =    
+ String namespace = null; Element el =    
+ Element el =  ; Element el =    
+ // Namespace; Element el =    
+Element dest =  ; Element el =    
+ //noinspection unchecked; Element el =    
+ NodeList dest = null; Element el =    
+ //document; Element el =    
+ Element dest =; Element el =    
+ //tag; Element el =    
+ // type<mask1> // type; Element el =    
+Doc doc = this; Element el =    
+ document.body; Element el =    
+ doc = source; Element el =    
+ doc.clear();; Element el =    
+ //return el; Element el =    
+ // document; Element el =    
+ // parent; Element el =    
+ Document dest =   null; Element el =    
+ doc.createElementNS; Element el =    
+ depth = 1; Element el =    
+ Element dest =  null; Element el =    
+ // Tag; Element el =    
+ //element; Element el =    
+ String namespace = ""; Element el =    
+ String dest = null; Element el =    
+ int depth = 10; Element el =    
+ Namespace ns = null; Element el =    
+ doc<mask1> doc; Element el =    
+ AstNode dest; Element el =    
+ String namespace = "";; Element el =    
+ Document dest =  ; Element el =    
+  // type; Element el =    
+ doc = source.ownerDocument; Element el =    
+ Doc doc = doc; Element el =    

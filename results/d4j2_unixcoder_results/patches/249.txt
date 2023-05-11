@@ -1,0 +1,2250 @@
+ return node.intValue(); return node;  
+ return node.intValue() + 1;  
+ return node.intValue;  
+ return node.intValue(); return 0;  
+ return node.intValue(); ;  
+ return node.value;  
+ return node.intValue(); //return;  
+  return node.intValue() + 1;  
+ return node.intValue();  
+ return node.intValue(); };  
+ return node;  
+ return node.intValue() - 1;  
+  return node.intValue;  
+  return node.intValue();  
+ return node.intValue(); return null;  
+ return node.getValue(); return node;  
+ return node.getIntValue(); ;  
+ return node.getValueAsInt(); ;  
+ return node.intValue() + 1;  
+ return node.intValue;  
+  return node.value;  
+ return node.intValue() * 10;  
+ return node.longValue(); return node;  
+  return node.intValue() - 1;  
+ return node.getIntValue() + 1;  
+ return node.getValue(); return 0;  
+ return node.getValue().intValue();  
+ return (int) node.value;  
+ return node.intValue() & 0xFFFFFFFF;  
+ return node.intValue() + offset;  
+  return node;  
+  return node.getIntValue();  
+  return node.getValueAsInt();  
+ return node.intValue() & 0xFFFF;  
+  return node.intValue();  
+ return node.getValueAsInt(); return;  
+  return node.intValue(); ;  
+ return node.intValue() + 0;  
+ return node.getValueAsInt() + 1;  
+ return node.getValue(); //return;  
+ return node.getIntValue;  
+ return node.intValue().intValue();  
+  return node.intValue() * 10;  
+ return node.intValue(); ;  
+ return node.numberValue;  
+ return node.getValue(); ;  
+ return node.doubleValue(); return node;  
+ return node.getIntValue(); return;  
+ return node.longValue() + 1;  
+ return node.intValue() - 1;  
+ return (int)node.value;  
+ return node.floatValue(); return node;  
+ return node.intValue() * 1000;  
+ return node.intValue() + index;  
+ return node.getNumericValue();  
+ return node.intValue();;  
+ return node.intValue() >>> 1;  
+ return (int) node.intValue;  
+  return node.intValue;  
+ return node.intValue() * 256;  
+ return node.getValueAsInt(); //;  
+ return node.getValue(); };  
+ return node.intValue() * 100;  
+ return node.intValue(); return 1;  
+ return node.intValue(); // return;  
+ return node.intValue() + 2;  
+ return node.intValue() * 2;  
+ return node.longValue(); return 0;  
+ return node.longValue(); ;  
+ return node.intValue() + delta;  
+ return node.intValue(); //;  
+ return node.getValueAsInt(); };  
+ return node.getIntValue() - 1;  
+ return node.getValue() + 1;  
+ return node.intValue() >>> 8;  
+ return node.numberValue() + 1;  
+ return node.getValueAsInt() - 1;  
+ return node.longValue;  
+ return node.getValue;  
+ //return node.intValue() + 1;  
+ return node.number;  
+ return node.getIntegerValue() + 1;  
+ return node.getValue();  
+ return node.longValue(); //return;  
+ return node.intValue() << 1;  
+  return node.intValue() + offset;  
+ return node.intValue() / 10;  
+ return node.intValue() + node;  
+ return node.getIntValue(); //;  
+ return node.intValue() + _offset;  
+ return node.intValue() == 0;  
+ return node.intValue(); return value;  
+ return (Integer) node;  
+ return (int)node.intValue;  
+ return (int) node;  
+ return node.longValue() * 10;  
+ return node.getIntValue();  
+ return value;  
+ return node.getIntValue(); };  
+ return node.intValue() >>> 32;  
+ return node.getValue(); return null;  
+ return node.toInt(); return node;  
+  //return node.intValue();  
+ return node.intValue() * 10000;  
+ return node.integerValue;  
+ return node.intValue() + pos;  
+ return node.intValue() + increment;  
+ return node.longValue() - 1;  
+ return node.intValue() / 100;  
+ return node.intValue();  
+ return node.intValue() * 10;  
+ return node.integerValue() + 1;  
+ return node.intValue(); //};  
+  return node.longValue() + 1;  
+  return node.intValue() * 100;  
+ return node.value().intValue();  
+ return node.intValue(); //   ;  
+ //return node.intValue();  
+ return node.intValue() / 1000;  
+ return node.intValue() == -1;  
+ return node.intValue()+1;  
+ return node.intValue() ;  
+  return (int) node.value;  
+ return node._value;  
+ return node.intValue() * 1024;  
+ if (node != null) return node;  
+ return node.getInt(); return node;  
+ return node.getIntValue() * 10;  
+ return node.intValue() != null;  
+ return node.intValue()  + 1;  
+  return node.intValue(); return;  
+ if (node == null) return 0;  
+  return node.intValue() ;  
+ return node.longValue();  
+ return node.intValue() >>> 16;  
+  return node.getIntValue;  
+  return node.intValue() >>> 1;  
+ return node.value() + 1;  
+ return node.intValue() & 0xffffffff;  
+ return node.intValue() + min;  
+ return node.doubleValue(); return 0;  
+  return node.numberValue;  
+ return node.getValueAsInt();  
+ return node.intValue() >>> 0;  
+ return node.asIntValue() + 1;  
+ return node.longValue(); };  
+ return node.intValue() + 1L;  
+ return node.longValue() * 1000;  
+ return node.intValue(); return this;  
+  return node.intValue() == 0;  
+ return node.intValue() >>> 1;  
+ return node.intValue() & 0xFF;  
+ final int value = node.value;  
+ return node.val;  
+ return node.intValue(); this;  
+ return node.numValue;  
+ return node.intValue() || 0;  
+ return node.intValue() + currentOffset;  
+ return node.intValue() >> 8;  
+ return node.getIntValue() + 1;  
+ return node.intValue();   ;  
+ return node.intValue() + inc;  
+  return node.intValue() + 0;  
+ return node.intValue(); return;  
+  return node.intValue() * 1000;  
+ return (int) node.intValue();  
+ return node.intValue().longValue();  
+ return node.intValue() + i;  
+ return (int)node;  
+ return node.numericValue;  
+  return node.getValue() + 1;  
+ return node.value();  
+ return node.getIntegerValue(); ;  
+ return node.integer;  
+ return node.floatValue(); return 0;  
+ return node.intValue() * 255;  
+ return node.i;  
+ return node.getValue() & 0xFFFF;  
+  return node.intValue() / 100;  
+ return node.intValue() & 0xffff;  
+ return node.intValue() + 10;  
+  return node.getValue(); ;  
+ return node.intValue() >= 0;  
+         return node.intValue();  
+  return node.getValue().intValue();  
+ return node.intValue() || -1;  
+ return node.getValueInt(); ;  
+ return node.doubleValue(); ;  
+  return node.intValue() + 2;  
+ return node == null ? 0 : node;  
+  return node.intValue() ;  
+ return node.doubleValue(); //return;  
+ return node.floatValue(); ;  
+  return node.intValue() * 2;  
+ return node.intValue(); },;  
+ return node.intValue() + this;  
+ return node.IntValue;  
+ return 0;  
+ return node.intValue() * 100;  
+  return node.intValue(); //;  
+  return (int)node.value;  
+ return node.intValue() if node;  
+ //return node.intValue;  
+ return node.getIntValue() * 100;  
+ return node.intValue() + position;  
+ return node.value.intValue();  
+ return node.intValue() - 0;  
+ return node.intValue() * 1;  
+ final int value = node.intValue();;  
+ return node.asIntValue;  
+  return node.intValue() << 1;  
+ return (int) node.intValue;  
+ return node.intValue() + max;  
+ return node.intValue() + base;  
+  return node.numberValue();  
+ return node.getValue() & 0xFFFFFFFF;  
+ return node.intValue() + 4;  
+         return node.intValue;  
+ return node.getIntegerValue() - 1;  
+ return node.nodeValue;  
+  return node.intValue() / 10;  
+ return node.intValue() + -1;  
+ return node.intValue() > 0;  
+  return node.longValue;  
+ return node.intValue() + n;  
+ return node.getValueAsInt() * 10;  
+ return node.parseInt(); return node;  
+ AST#return_statement#Leftreturn node.intValue();  
+ return node.floatValue(); //return;  
+ return node.getNumber().intValue();  
+  return node.intValue() + index;  
+ return node.getIntValue() >>> 1;  
+ return node.intValue(); throw node;  
+ return node.intValue() + MIN;  
+         return node.intValue() + 1;  
+ return node.intValue() + value;  
+ return node.getAsInt(); ;  
+ return node.intValue() * 8;  
+  return node.longValue() - 1;  
+ return node.doubleValue() * 1000;  
+ return node.longValue() & 0xFFFFFFFF;  
+  return node.getIntegerValue();  
+  return node.longValue() * 10;  
+ return node.getIntegerValue(); ;  
+ return (IntegerNode) node;  
+ return node.numberValue() - 1;  
+ return node.getNumberValue() + 1;  
+  return node.intValue() != null;  
+  return node.intValue().intValue();  
+  return node.getValue;  
+ assert node != null; return node.intValue();  
+ currentNumericNode = null; return node.intValue();  
+ currentNumericNode = node; return node.intValue();  
+ if (node == null) return 0; return node.intValue();  
+ ++currentNumericNode; return node.intValue();  
+ node.parent = this; return node.intValue();  
+ ; return node.intValue();  
+ if (node != null) return node; return node.intValue();  
+ currentNumericNode = node.next; return node.intValue();  
+ node = node.next; return node.intValue();  
+ this.currentNumericNode = node; return node.intValue();  
+ assert node instanceof NumericNode; return node.intValue();  
+ node.next = null; return node.intValue();  
+ if (node == null) return null; return node.intValue();  
+ currentNode = node; return node.intValue();  
+ node.next = node; return node.intValue();  
+ //assert node != null; return node.intValue();  
+ this.node = node; return node.intValue();  
+ currentNumericNode(node) = null; return node.intValue();  
+ node.open = true; return node.intValue();  
+ currentNumericNode(node); return node.intValue();  
+ //System.out.println(node; return node.intValue();  
+ currentNode = node; return node.intValue();  
+ if(node == null) return 0; return node.intValue();  
+ return node.value; return node.intValue();  
+ currentNumericNode(null) = node; return node.intValue();  
+ this.currentNode = node; return node.intValue();  
+ currentNumericNode(node) ; return node.intValue();  
+ node.value = value; return node.intValue();  
+ final int value = node.value; return node.intValue();  
+  assert node != null; return node.intValue();  
+ this.currentNumericNode = null; return node.intValue();  
+ node.node = this; return node.intValue();  
+ node.next = node.prev; return node.intValue();  
+ currentNumericNode = node.nextNode; return node.intValue();  
+ checkState(node != null; return node.intValue();  
+ //return node.intValue() + 1; return node.intValue();  
+ if (node.isNull()) return 0; return node.intValue();  
+ if(node != null) return node; return node.intValue();  
+ node = (NumericNode) node; return node.intValue();  
+ node.next = this; return node.intValue();  
+ node.next = currentNumericNode; return node.intValue();  
+ currentNumericNode(null) ; return node.intValue();  
+ node.currentNode = this; return node.intValue();  
+ node.close();; return node.intValue();  
+ currentNumericNode = node.parent; return node.intValue();  
+ if (node == null) throw null; return node.intValue();  
+ lastNumericNode = node; return node.intValue();  
+ //return node.value; return node.intValue();  
+ if (node.isEmpty()) return 0; return node.intValue();  
+ node.open = false; return node.intValue();  
+ node.parent = null; return node.intValue();  
+ node.value = this; return node.intValue();  
+ node.next = node.next; return node.intValue();  
+ node.setIndex(index++); return node.intValue();  
+ currentNumericNode() = node; return node.intValue();  
+ currentNumericNode(node);; return node.intValue();  
+ assert node.value != null; return node.intValue();  
+ currentNumericNode() = null; return node.intValue();  
+ node.next = true; return node.intValue();  
+ return node.intValue() + 1; return node.intValue();  
+ assert node == null; return node.intValue();  
+ assert node instanceof IntegerNode; return node.intValue();  
+ assert null != node; return node.intValue();  
+ node.next = node.previous; return node.intValue();  
+ currentNumericNode(null) = null; return node.intValue();  
+ if (null == node) return 0; return node.intValue();  
+ System.out.println(node); return node.intValue();  
+ node.previous = node; return node.intValue();  
+ node.current = this; return node.intValue();  
+ assert node!=null; return node.intValue();  
+ this.numericNode = node; return node.intValue();  
+ if (node != null) return; return node.intValue();  
+ final int val = node.value; return node.intValue();  
+ if (node.isInt()) return node; return node.intValue();  
+ assert node.next != null; return node.intValue();  
+ node.currentNode = this; return node.intValue();  
+ currentNumericNode = node.right; return node.intValue();  
+ this.value = node.value; return node.intValue();  
+ this.currentNode = node; return node.intValue();  
+ checkState(node != null); return node.intValue();  
+ if (node == this) return 0; return node.intValue();  
+ node.close(); node = null; return node.intValue();  
+ --currentNumericNode; return node.intValue();  
+ node = node.parent; return node.intValue();  
+ assert(node != null); return node.intValue();  
+ value = node.value; return node.intValue();  
+ node.reader = reader; return node.intValue();  
+ assert node.isNumeric() == true; return node.intValue();  
+; return node.intValue();  
+ node.currentNumericNode = null; return node.intValue();  
+ node.current = node; return node.intValue();  
+ currentNumericNode().next = node; return node.intValue();  
+ ++n; return node.intValue();  
+ node.close(); currentNumericNode; return node.intValue();  
+ -1; return node.intValue();  
+ assert node.node != null; return node.intValue();  
+ //return node; return node.intValue();  
+ currentNumericNode=node; return node.intValue();  
+ int value = node.value; return node.intValue();  
+ node.close = true; return node.intValue();  
+ assert(node != null; return node.intValue();  
+ currentNode = node.next; return node.intValue();  
+ if (node == null) throw ROOT; return node.intValue();  
+ currentNumericNode = node.node; return node.intValue();  
+ assert node == this; return node.intValue();  
+  if (node == null) return; return node.intValue();  
+ node.readerIndex = readerIndex; return node.intValue();  
+ node.increment();; return node.intValue();  
+ node.nextNode = this; return node.intValue();  
+ // assert node != null; return node.intValue();  
+ assert node instanceof NumberNode; return node.intValue();  
+ node.currentNode = node; return node.intValue();  
+ assert node.intValue() >= 0; return node.intValue();  
+ //return node.intValue(); return node.intValue();  
+ if (node == null) throw exception; return node.intValue();  
+ ++index; return node.intValue();  
+ assert node != this; return node.intValue();  
+ if(node == null) return null; return node.intValue();  
+ assert node.intValue() > 0; return node.intValue();  
+ currentNumericNode(null); return node.intValue();  
+ node.nextToken();; return node.intValue();  
+ //return node.getValueAsInt(); return node.intValue();  
+ assert node.isInt() == true; return node.intValue();  
+ if(node==null) return 0; return node.intValue();  
+ node.next = -1; return node.intValue();  
+ final int index = node.index; return node.intValue();  
+ currentNumericNode = node.value; return node.intValue();  
+ assert currentNumericNode() == node; return node.intValue();  
+ node.mutable = true; return node.intValue();  
+ node.active = true; return node.intValue();  
+ final int result = node.value; return node.intValue();  
+ node.incrementCount(1); return node.intValue();  
+ //return node.longValue() + 1; return node.intValue();  
+ node.prev = node; return node.intValue();  
+ if (node.isInteger()) return node; return node.intValue();  
+ node.addChild(this) ; return node.intValue();  
+ node.next = node.value; return node.intValue();  
+ currentNumericNode(node; return node.intValue();  
+ node.number = this; return node.intValue();  
+ node.next = 0; return node.intValue();  
+ node.value = node.value; return node.intValue();  
+ assert node.isInteger() == true; return node.intValue();  
+ node.numericNode = this; return node.intValue();  
+ if (node.isNull()) return null; return node.intValue();  
+  currentNumericNode = node; return node.intValue();  
+ node.read();; return node.intValue();  
+ assert node.node == this; return node.intValue();  
+ node.node = node; return node.intValue();  
+ node.value = 0; return node.intValue();  
+ if (node.isNumber()) return node; return node.intValue();  
+ assert node.isNull() == false; return node.intValue();  
+ node.next = false; return node.intValue();  
+ assert node.isNumber() == true; return node.intValue();  
+ currentNumericNode(null);; return node.intValue();  
+ node.active = false; return node.intValue();  
+ node = node.nextNode; return node.intValue();  
+ assert node.size() == 1; return node.intValue();  
+ node.addChild(this); return node.intValue();  
+ node.nextNode = null; return node.intValue();  
+ currentNumericNode(node) --; return node.intValue();  
+ assert node.isEmpty() == false; return node.intValue();  
+ currentNumericNode(node, false; return node.intValue();  
+ assert node.parent != null; return node.intValue();  
+ if (node==null) return 0; return node.intValue();  
+ node.prev = node.next; return node.intValue();  
+ this.nextNumericNode = node; return node.intValue();  
+ return node.intValue(); return node.intValue();  
+ assert node.intValue() == 0; return node.intValue();  
+ int val = node.value; return node.intValue();  
+ currentNumericNode(node); ; return node.intValue();  
+ if (node == null) return NULL; return node.intValue();  
+ assert node.isValue() == true; return node.intValue();  
+ //currentNumericNode = node; return node.intValue();  
+ int result = node.value; return node.intValue();  
+ node.currentNumericNode = this; return node.intValue();  
+ currentNode = node.next; return node.intValue();  
+ currentNumericNode = node.left; return node.intValue();  
+  currentNumericNode = null; return node.intValue();  
+ node = node.right; return node.intValue();  
+ assert node.parent() == this; return node.intValue();  
+ node.setValue(null); return node.intValue();  
+ node.setParent(this) ; return node.intValue();  
+ assert node.size() > 0; return node.intValue();  
+ }; return node.intValue();  
+ node.close(); ; return node.intValue();  
+ currentNumericNode(node, null; return node.intValue();  
+ node.incrementIndex(1); return node.intValue();  
+ assert node.value == value; return node.intValue();  
+ System.out.println(node; return node.intValue();  
+ node; return node.intValue();  
+ node.accept(this);; return node.intValue();  
+ assert node.isNumeric() : node; return node.intValue();  
+ if (node.isLeaf()) return 0; return node.intValue();  
+ if (node != null); return node.intValue();  
+ ensure(node != null); return node.intValue();  
+ this.next = node; return node.intValue();  
+ if (node == null) return; return node.intValue();  
+ final int val = node.val; return node.intValue();  
+ return node.longValue() + 1; return node.intValue();  
+ nextNumericNode(node); return node.intValue();  
+ //System.out.println node; return node.intValue();  
+ currentNumericNode(node.nextNode; return node.intValue();  
+ node.lastNode = this; return node.intValue();  
+ node = node.getNextNode(); return node.intValue();  
+ node.currentNode = node; return node.intValue();  
+ node.currentNumericNode = node; return node.intValue();  
+ if (node instanceof IntegerNode) return; return node.intValue();  
+ if (node != null) return 0; return node.intValue();  
+ node.numberNode = this; return node.intValue();  
+ int result = node.intValue(); return node.intValue();  
+ assert node.isInt() : node; return node.intValue();  
+ ensureMaterialized(node); return node.intValue();  
+ final int pos = node.pos; return node.intValue();  
+ node.nextNode = node; return node.intValue();  
+ System.out.println(node);; return node.intValue();  
+ nextNumericNode(node);; return node.intValue();  
+ assert node.numericNode == this; return node.intValue();  
+ if(node.isNull()) return 0; return node.intValue();  
+ assert (node != null) : node; return node.intValue();  
+ final String value = node.value; return node.intValue();  
+ currentNumericNode(node.next()); return node.intValue();  
+ assert node.isNumericNode(); return node.intValue();  
+ this.number = node.number; return node.intValue();  
+ currentNumericNode(null, null; return node.intValue();  
+ currentNumericNode(node.next); return node.intValue();  
+ currentNumericNode(null, node); return node.intValue();  
+ currentNumericNode().next = null; return node.intValue();  
+ currentNumericNode = node.prev; return node.intValue();  
+ currentNumericNode(false) = null; return node.intValue();  
+ assert node.getValue() != null; return node.intValue();  
+ //return node.intValue() - 1; return node.intValue();  
+ currentNumericNode(node, null); return node.intValue();  
+ if (node instanceof NumericNode) return; return node.intValue();  
+ int i = node.intValue(); return node.intValue();  
+ final int intValue = node.intValue; return node.intValue();  
+  if (node != null); return node.intValue();  
+ currentNumericNode(node) == null; return node.intValue();  
+ currentNumericNode().value = node; return node.intValue();  
+ assert node.getNodeType() == INTEGER; return node.intValue();  
+  //return node.intValue(); return node.intValue();  
+ currentNumericNode(node) != null; return node.intValue();  
+ node.setIndex(0); return node.intValue();  
+ currentNumericNode(node) = node; return node.intValue();  
+ currentNumericNode(node).next; return node.intValue();  
+ if (node != null) ; return node.intValue();  
+ final int result = node.intValue(); return node.intValue();  
+ setCurrentNumericNode(node); return node.intValue();  
+ currentNumericNode(node) & 0; return node.intValue();  
+ assert node.longValue() == 0; return node.intValue();  
+return  node.intValue() + 1;  
+return  node.intValue(); };  
+return  node.intValue;  
+return  node.value;  
+return  node.intValue();  
+return  node.intValue() - 1;  
+return  node.intValue(); ;  
+return  node.intValue(); //return node;  
+return  node.intValue() + 1;  
+return  node.intValue() * 10;  
+return  node.intValue;  
+return  node.intValue();;  
+return  node.intValue() + node.offset;  
+return  node.getIntValue() + 1;  
+return  node.longValue() + 1;  
+return  node;  
+return  node.intValue() & 0xFFFFFFFF;  
+return  node.getValueAsInt() + 1;  
+return  node.getValue(); };  
+return  node.intValue() >>> 8;  
+return  node.intValue() + 0;  
+return  node.intValue() & 0xFFFF;  
+return  node.intValue() if node != null;  
+return  node.getValue() + 1;  
+return  node.intValue() + offset;  
+return  node.intValue() >>> 1;  
+return  node.longValue(); };  
+return  (int) node.value;  
+return  node.getIntValue(); };  
+return  node.intValue() + node.value;  
+return  node.numberValue;  
+return  node.intValue() >>> 32;  
+return  node.intValue() == 0;  
+return  node.intValue() + 2;  
+return  node.getValueAsInt();  
+return  node.getValueAsInt(); };  
+return  node.intValue() * 256;  
+return  node.number;  
+return  node.intValue() >>> 16;  
+return  node.intValue() + index;  
+return  node.getValue().intValue() + 1;  
+return  node.intValue() * 1000;  
+return  node.intValue(); //return 0;  
+return  node.intValue() >>> 0;  
+return  node.getIntValue;  
+return  node.intValue() - 1;  
+return  node.intValue() << 1;  
+return  node.intValue(); } ;  
+return  node.longValue() - 1;  
+return  node.intValue() ;  
+return  node.intValue() * 100;  
+return  node.intValue() * 2;  
+return  (int)node.value;  
+return  node.intValue() & 0xFFFFFFFFL;  
+return  node.intValue() * 10000;  
+return  node.intValue() || 0;  
+return  node.intValue() >> 8;  
+return  node.longValue() * 10;  
+return  node.intValue() == -1;  
+return  node.intValue(); };  
+return  node.numberValue() + 1;  
+return  (int) node.intValue;  
+return  node.getValue();  
+return  node.intValue() + value;  
+return  node.intValue(); return 0;  
+return  node.value() + 1;  
+return  node.getIntValue() - 1;  
+return  node.intValue()+1;  
+return  node.getValueAsInt() - 1;  
+return  node.intValue();  
+return  node.doubleValue(); };  
+return  node.intValue() * 1024;  
+return  node.intValue() / 10;  
+return  node.toInt(); };  
+return  node.intValue() + pos;  
+return  node.getIntValue();  
+return  node.intValue().intValue() + 1;  
+return  node.getValue;  
+return  node.intValue(); ;  
+return  node.intValue(); // return node;  
+return  node.asIntValue() + 1;  
+return  node.getIntegerValue() + 1;  
+return  node.intValue() + 10;  
+return  node.integer;  
+return  node.floatValue(); };  
+return  node.intValue() + 4;  
+return  node.intValue() + node.delta;  
+return  node.getValue(); ;  
+return  (int)node.intValue;  
+return  node.longValue;  
+return  node.intValue() << 8;  
+return  node.intValue()  + 1;  
+return  node._value;  
+return  node.intValue() & 0xffff;  
+return  node.intValue() + delta;  
+return  node.intValue() << 16;  
+return  node.getIntValue(); ;  
+return  node.longValue();  
+return  node.getNumericValue() + 1;  
+return  node.intValue() + node.precision;  
+return  node.intValue() & 0xFF;  
+return  node.i;  
+return  node.intValue() >= 0;  
+return  node.intValue() >> 16;  
+return  (int) node;  
+return  node.getValue().intValue() - 1;  
+return  node.intValue() << 4;  
+return  node.intValue() + node.size;  
+return  node.longValue() * 1000;  
+return  node.intValue() / 1000;  
+return  node.intValue() << 3;  
+return  node.intValue() / 100;  
+return  node.integerValue;  
+return  node.intValue() + increment;  
+return  node.getValue() & 0xFFFF;  
+return  node.intValue() + node.length;  
+return  node.longValue(); ;  
+return  node.getValueAsInt(); ;  
+return  node.intValue() == 1;  
+return  node.intValue() + 1L;  
+return  node.intValue() + inc;  
+return  node.intValue() + position;  
+return  node.numericValue;  
+return  node.intValue() * 10;  
+return  value;  
+return  node.getIntValue() * 10;  
+return  node.getIntValue() + 1;  
+return  node.intValue() || -1;  
+return  node.intValue() * 10 + 1;  
+return  node.numValue;  
+return  node.integerValue() + 1;  
+return  node.intValue() >> 1;  
+return  node.intValue() - node.start;  
+return  node.intValue() + i;  
+return  (Integer) node;  
+return  node.intValue() >>> 10;  
+return  (int)node;  
+return  node.intValue() + this.offset;  
+return  node.intValue() >> 32;  
+return  node.intValue() != null;  
+return  node.getValue() & 0xFFFFFFFF;  
+return  node.intValue() >>> 4;  
+return  node.intValue() >>> 1;  
+return  node.value();  
+return  node.intValue() + n;  
+return  node.intValue() + currentNumericValue;  
+return  node.intValue() * 255;  
+return  node.intValue() + node.number;  
+return  node.intValue() != null ? node;  
+return  node.intValue().intValue() - 1;  
+return  node.intValue() > 0;  
+return  node.floatValue(); ;  
+return  node.intValue()+1;  
+return  node.val;  
+return  node.intValue() >> 4;  
+return  node.intValue() * 8;  
+return  node.intValue() + node.n;  
+return  node.intValue() + node.start;  
+return  0;  
+return  node.intValue() + min;  
+return  node.intValue() * -1;  
+return  node.value().intValue() + 1;  
+return  node.intValue();   };  
+return  node.intValue() + node.minor;  
+return  node.intValue() + node.count;  
+return  node.doubleValue() * 10;  
+return  node.parseInt(); };  
+return  node.doubleValue() * 1000;  
+return  node.getValue(); //return node;  
+return  node.intValue() + defaultValue;  
+return  node.getValue() * 10;  
+return  node.intValue() + node.step;  
+return  node.getInt(); };  
+return  node.intValue() * 16;  
+return  (int) node.intValue();  
+return  node.intValue() + node.index;  
+return  node.intValue(); return node;  
+return  node.n;  
+return  node.doubleValue() + 1;  
+return  node.intValue() + _offset;  
+return  node.intValue() & 0xff;  
+return  node.intValue() << 24;  
+return  node.intValue() >>> 24;  
+return  node.intValue() + node.scale;  
+return  node.intValue() / 10000;  
+return  node.intValue() - 0;  
+return  node.intValue() + count;  
+return  node.getValue() - 1;  
+return  node.intValue() + node.exponent;  
+return  node.intValue() - value;  
+return  node.longValue() * 10000;  
+return  node.data;  
+return  node.intValue() + 3;  
+return  node.intValue() & 0xffffffff;  
+return  node.intValue(); //return null;  
+return  node.nodeValue;  
+return  node.intValue() + minValue;  
+return  node.intValue() << 32;  
+return  node.intValue() >> 24;  
+return  node.intValue() * 10 + node;  
+return  node.intValue(); this;  
+return  node.asIntValue;  
+return  node.longValue() + node.offset;  
+return  node.intValue() + node.pos;  
+return  node.intValue() >>> 31;  
+return  ((NumericNode) node).intValue();  
+return  node.iValue;  
+return  node.intValue() + base;  
+return  node.intValue() + 0;  
+return  node.numberValue() - 1;  
+return  node.getValueAsInt() * 10;  
+return  node.intValue() >>> 0;  
+return  node.intValue()>>>1;  
+return  node.intValue() - node.minValue;  
+return  node.intValue();  ;  
+return  node.getIntegerValue() - 1;  
+return  node.value.intValue() + 1;  
+return  node.intValue() & 0xffffffffL;  
+return  node.doubleValue() * 100;  
+return  node.getNumericValue() * 10;  
+return  node.intValue() + node;  
+return  node.intValue() + idx;  
+return  node.intValue() + step;  
+return  node.intValue() - node.offset;  
+return  node.intValue(); //};  
+return  node.intValue() + node.defaultValue;  
+return  node.intValue() - 2;  
+return  node.longValue() * 256;  
+return  node.longValue() & 0xFFFFFFFF;  
+return  node.intValue() & 0xffffff;  
+return  node.intValue() + node.position;  
+return  node.numberValue() * 10;  
+return  node.getIntValue() * 1000;  
+return  node.intValue() + node.intValue;  
+return  node == null ? -1 : node;  
+return  node.getValue() & 0xFF;  
+return  node.index;  
+return  node.intValue() + node.minValue;  
+return  node.longValue(); //return node;  
+return  node.IntValue;  
+return  node.intValue() + 0.5;  
+return  node.intValue() >= 0 ? node;  
+return  node.intValue() + node.increment;  
+return  node.intValue() - node.value;  
+return  node.intValue() + node.digits;  
+return  node.getNumber().intValue() + 1;  
+return  node.newValue;  
+return  node.intValue() + node.decimal;  
+return  node.getValueAsInt;  
+return  node.intValue() * 2 + 1;  
+return node.intValue();  
+return node.getValue();  
+return node.getIntValue();  
+return node.longValue();  
+return node.getValueAsInt();  
+return node.intValue();  
+return node.value();  
+return node.getValue().intValue();  
+return node.numberValue();  
+return node.getNumericValue();  
+return node.value.intValue();  
+return node.doubleValue();  
+return node.getIntegerValue();  
+return node.asIntValue();  
+return node.getNumberValue();  
+return node.floatValue();  
+return node.getValueInt();  
+return node.integerValue();  
+return node.toInt();  
+return node.getNodeValue();  
+return node.getIntValue();  
+return node.asInt();  
+return node.numValue();  
+return node.getAsInt();  
+return node.value().intValue();  
+return node.getAsIntValue();  
+return node.stringValue();  
+return node.getIntegerValue();  
+return node.getInt();  
+return node.intValue(); }();  
+return node.nextInt();  
+return node.number.intValue();  
+return node.nodeValue();  
+return node.getNumber().intValue();  
+return node.getNumber();  
+return node.valueAsInt();  
+return node.getValue().longValue();  
+return node.numericValue();  
+return node.getValueNumber();  
+return node.integer();  
+return node.toString();  
+return node.valueInt();  
+return node.floatValue();  
+return node.parseInt();  
+return node.getNthValue();  
+return node.number();  
+return node.getDoubleValue();  
+return node.value.longValue();  
+return node.getValue(); }();  
+return node.toIntValue();  
+return node.doubleValue();  
+return node.isInt();  
+return node.asInteger();  
+return node.longValue();  
+return node.getValueAsLong();  
+return node.iValue();  
+return node.getIndex();  
+return node.parseIntValue();  
+return node.IntValue();  
+return node.toIntValue();  
+return node.getValueAsInteger();  
+return node.getString();  
+return node.getLongValue();  
+return node.byteValue();  
+return node.numberValue().intValue();  
+return node.node.intValue();  
+return node.getValueAsIntValue();  
+return node.size();  
+return node.ordinal();  
+return node.intValue().intValue();  
+return node.getData();  
+return node.getValueAsString();  
+return node.getInteger();  
+return node.getValue().intValue();  
+return node.isInteger();  
+return node.asLong();  
+return node.getAsInteger();  
+return node.getStringValue();  
+return node.getValueNode().intValue();  
+return node.getCurrentValue();  
+return node.readInt();  
+return node.isNumber();  
+return node.value.intValue();  
+return node.asLongValue();  
+return node.getMaxValue();  
+return node.length();  
+return node.getNodeValue().intValue();  
+return node.number().intValue();  
+return node.getNumValue();  
+return node.doubleValue(); }();  
+return node.val();  
+return node.asString();  
+return node.getValueString();  
+return node.getSize();  
+return node.getValueAsLong();  
+return node.charValue();  
+return node.getValue().asInt();  
+return node.getDouble();  
+return node.getNumberValue().intValue();  
+return node.nValue();  
+return node.valueNode().intValue();  
+return node.getLength();  
+return node.longValue(); }();  
+return node.currentIntValue();  
+return node.doubleValue().intValue();  
+return node.getFloatValue();  
+return node.getName();  
+return node.getIntIntValue();  
+return node.getByteValue();  
+return node.newValue();  
+return node.intIntValue();  
+return node.getNValue();  
+return node.asIntegerValue();  
+return node.index();  
+return node.value.doubleValue();  
+return node.getNthIntValue();  
+return node.getNode().intValue();  
+return node.getValueCount();  
+return node.asValue();  
+return node.valueNode();  
+return node.getText();  
+return node.getPrimitiveValue();  
+return node.getValue().doubleValue();  
+return node.getBinaryValue();  
+return node.getValue().toString();  
+return node.getValueNode().getIntValue();  
+return node.newIntValue();  
+return node.getAsLong();  
+return node.hashCode();  
+return node.floatValue(); }();  
+return node.getId();  
+return node.getIntValue().intValue();  
+return node.valueNumber();  
+return node.stringValue();  
+return node.getValueAsInteger();  
+return node.numberNode().intValue();  
+return node.intValue().intValue();  
+return node.getNumericValue().intValue();  
+return node.value.asInt();  
+return node.toInteger();  
+return node.getValueAsInt();  
+return node.digitValue();  
+return node.shortValue();  
+return node.nodeValue().intValue();  
+return node.getCurrentIntValue();  
+return node.asDouble();  
+return node.getRightValue();  
+return node.data.intValue();  
+return node.floatValue().intValue();  
+return node.getValueNode();  
+return node.getDataInt();  
+return node.asIntValue().intValue();  
+return node.isIntValue();  
+return node.intValueValue();  
+return node.toInt();  
+return node.pos();  
+return node.i();  
+return node.getValue().getIntValue();  
+return node.value.toInt();  
+return node.getValueLength();  
+return node.strValue();  
+return node.asNumber().intValue();  
+return node.getTypedValue();  
+return node.numberValue.intValue();  
+return node.intValue().longValue();  
+return node.getBitNumber();  
+return node.getNIntValue();  
+return node.asNumber();  
+return node.uintValue();  
+return node.realValue();  
+return node.n.intValue();  
+return node.getBigIntegerValue();  
+return node.getValue().toInt();  
+return node.parseValue();  
+return node.getVarValue();  
+return node.getXValue();  
+return node.getIntValue(); }();  
+return node.getText().length();  
+return node.position();  
+return node.getData().intValue();  
+return node.defaultValue();  
+return node.valueNode().getIntValue();  
+return node.getValue.intValue();  
+return node.node.getIntValue();  
+return node.readIntValue();  
+return node.getKey();  
+return node.text();  
+return node.getRawValue();  
+return node.getValueIntValue();  
+return node.minValue();  
+return node.integerNode().intValue();  
+return node.iIntValue();  
+return node.intValue(); }();  
+return node.value().intValue();  
+return node.value().longValue();  
+return node.getPos();  
+return node.xValue();  
+return node.toValue();  
+return node.parseInt();  
+return node.node().intValue();  
+return node.valueToInt();  
+return node.value(); }();  
+return node.number.doubleValue();  
+return node.integerNode();  
+return node.getNumericIntValue();  
+return node.getValueAsIntValue();  
+return node.values[0].intValue();  
+return node.numberNode();  
+return node.getLocalValue();  
+return node.value.toString();  
+return node.toLong();  
+return node.getValueValue();  
+return node.longValue().intValue();  
+return node.value; }();  
+return node.getKey().intValue();  
+return node.value.getIntValue();  
+return node.value.getInt();  
+return node.value.floatValue();  
+return node.valueNode.intValue();  
+return node.toString().length();  
+return node.getValueType().getIntValue();  
+return node.getBigDecimal().intValue();  
+return node.asValue().intValue();  
+return node.getNumericNode().intValue();  
+return node.text.length();  
+return node.getValue().asLong();  
+return node.asIntValue().longValue();  
+return node.getUInt64();  
+return node.getValue().getInt();  
+return node.value().asInt();  
+return node.toString().trim();  
+return node.getValue().asInteger();  
+return node.valueNode.getIntValue();  
+return node.getIntValue().longValue();  
+return node.getString().length();  
+return node.value.asLong();  
+return node.toInt(); }();  
+return node.getNodeValue().longValue();  
+return node.getValue().asIntValue();  
+return node.numberValue().longValue();  
+return node.getValueNode().getValue();  
+return node.intValue().longValue();  
+return node.value.asInteger();  
+return node.getValue().toLong();  
+return node.numberValue().doubleValue();  
+return node.getNodeValue().toString();  
+return node.getNthValue().intValue();  
+return node.getValueAsInt(); }();  
+return node.getValue() .intValue();  
+return node.getInt(); }();  
+); return node.intValue(); return (int);  
+); return node.intValue(); return node);  
+); return node.intValue(); });  
+); return node.intValue(); return ();  
+); return node.intValue(); },);  
+); return node.intValue(); (int);  
+); return node.intValue(); }(this);  
+); return node.intValue(); return (node);  
+); return node.intValue(); ();  
+); return node.getIntValue(0);  
+); return node.getIntValue(this);  
+); return node.getValueAsInt(0);  
+); return node.intValue(); (node);  
+); return ((NumericNode) node).intValue);  
+); return node.intValue(); return value);  
+); return node.getValue().intValue(0);  
+); return node.intValue(0);  
+); return node.longValue(); return (int);  
+); return getIntValue(node);  
+); return node.getIntValue(); });  
+);  return node.intValue(); ();  
+); return node.getIntValue(node);  
+); return value(node);  
+); try { return node.intValue(););  
+); System.out.println(node);  
+); return node.getValueAsInt(this);  
+);  return node.intValue(0);  
+); return node.intValue(); return parseInt();  
+); return node.intValue(); return (Integer);  
+); return node.getIntValue(); ();  
+); return node.longValue(); return node);  
+); return node.intValue(); return (value);  
+); return node.getIntValue(true);  
+); return node.intValue(); return current();  
+);  return node.intValue(); });  
+);  return node.intValue(); );  
+); return node.getIntValue(false);  
+); return node.getIntValue(); );  
+); return node.intValue(this);  
+); return intValue(node);  
+); return node.getValueAsInt(node);  
+); return node.intValue(); return getValue();  
+); return node.intValue(); return (short);  
+);  return node.getIntValue(0);  
+); return node.intValue(); (0);  
+); return node.intValue(); }, );  
+); return node.intValue(); });  
+); return node.getValue(); return (int);  
+); return node.longValue(); return ();  
+); return (int) node.getValue();  
+); return node.intValue(); );  
+); return node.getIntValue(null);  
+); return node.intValue(); return (byte);  
+);  return node.intValue(); return);  
+); return node.intValue(true);  
+); return node.intValue(); //();  
+); return node.intValue(false);  
+); return node.intValue(); ();  
+); return ((NumericNode) node);  
+); return getValue(node);  
+); return node.intValue(); return value();  
+); return node.longValue(); });  
+); return node.getValue(0);  
+);  return node.intValue(this);  
+); return node.intValue(); );  
+); return node.getValueAsInt(false);  
+); return node.intValue(); return (long);  
+); return node.doubleValue(0);  
+); return (int) node.intValue(););  
+); return new IntegerNode(node);  
+); return node.intValue(); return next();  
+); return Integer.valueOf(node.intValue);  
+); return node.intValue(); (this);  
+);  return node.getIntValue(this);  
+); return node.intValue().intValue(0);  
+); return parseInt(node);  
+); return node.getValueAsInt(true);  
+); return node.intValue(); }, ();  
+); return node.intValue(); return next);  
+); return node.intValue(); }(node);  
+); return node.getIntValue(); return);  
+); return ((NumericNode)node).intValue);  
+); return node.intValue(); (byte);  
+); return IntegerNode.intValue(node);  
+); return node.intValue(this);  
+); return ((NumberNode) node).intValue);  
+); return node.getIntValue(context);  
+); return node.intValue(); return currentNode);  
+); return node.intValue(); } );  
+);  return node.getValueAsInt(0);  
+); return node.getIntValue().intValue(););  
+); return node.intValue(node);  
+); return node.intValue(); return int();  
+); return node.getIntValue(); }();  
+); return node.intValue(); return);  
+);  return node.intValue(node);  
+); return valueFromNode(node);  
+); return node.intValue(); }, null);  
+); return node.intValue(); return getNode();  
+); return node.intValue(); (double);  
+); return node.getValue(); return node);  
+); return node.getValue(this);  
+);  return node.intValue(false);  
+); return node.intValue(); (Node);  
+); return node.longValue(); (int);  
+);  return node.intValue(); }();  
+);  return node.intValue(true);  
+); return node.doubleValue(); return (int);  
+); return (int) node.intValue();  
+); return node.longValue(); },);  
+); return node.getValue().intValue(); );  
+); return node.intValue(); return -();  
+); return node.floatValue(0);  
+); return node.getValue(); });  
+); return node.intValue(); (Integer);  
+); return node.intValue(); },*/);  
+); return new IntNode(node);  
+); try { return node.getValue();  
+); //return node.intValue(); return);  
+); return node.intValue(); (short);  
+);  return node.intValue(); //);  
+); return node.intValue(); (float);  
+); return node.intValue().longValue(); );  
+); return Integer.parseInt(node.stringValue);  
+); return Integer.parseInt(node.value);  
+); return node.intValue(); return 0);  
+); return node.intValue(); return (float);  
+); return node.intValue(); return getNode);  
+); return node.intValue(); current();  
+); return node.intValue(); }();  
+); return node.intValue(); return getInt();  
+); return node.intValue(); return parseFloat();  
+); return node.getValueAsInt(context);  
+); return Integer.parseInt(node.getValue);  
+); return node.longValue(); }(this);  
+); return node.intValue(); };);  
+); return node.intValue(); }, 0);  
+); return numberValue(node);  
+); return node.intValue(); return(node);  
+); return node.value(0);  
+); return node.intValue(); return parseInt);  
+); return node.getInt(0);  
+); return node.intValue(); //return);  
+); return getNodeValue(node);  
+); return node.getValueAsInt(null);  
+); return node.intValue(0);  
+); return node.intValue(); }, (int);  
+); return node.longValue(); return (node);  
+); return (int)node.getValue();  
+); return ((NumberNode) node);  
+); return IntegerNode.parseInt(node);  
+); return ((IntegerNode) node);  
+); return node.intValue(); get();  
+); return node.numberValue(this);  
+); return node.getValue(true);  
+); return node.getValueAsInt(); });  
+);  return ((NumericNode) node);  
+); return node.doubleValue(); return ();  
+); return node.intValue(); return (integer);  
+); return node.longValue(); ();  
+); return node.intValue(); return (int);  
+); return node.intValue(););  
+); return node.intValue(false);  
+); return node.intValue(); }, this);  
+); return node.getIntValue(); },);  
+); return ((IntegerNode) node).intValue);  
+); return node.intValue(true);  
+); return node.getIntValue().intValue();  
+); return node.getIntValue().longValue(););  
+); return (int)node.intValue(););  
+); return node.intValue(); return get();  
+);  return node.getIntValue(false);  
+); return node.intValue(); (1);  
+);  return node.intValue(); },);  
+); return node.intValue(); });  
+); return node.getIntValue(index);  
+); return node.intValue(context);  
+); return node.getValue(); return ();  
+); return node.intValue(); (String);  
+); return node.numberValue(0);  
+); return node.intValue(); return (char);  
+); return node.doubleValue(); return node);  
+); return node.intValue(); })(this);  
+); return IntegerNode.valueOf(node);  
+); return node.intValue(); },int);  
+); return (Integer) node.getValue();  
+); return node.intValue(null);  
+); //return node.intValue(0);  
+); return node.intValue().longValue(0);  
+); return node.intValue(); //return ();  
+); return node.getIntegerValue(0);  
+); return IntegerNode.toInt(node);  
+); return node.nextInt(); return (int);  
+); return node.intValue(); (long);  
+); return node.asIntValue(this);  
+); return ((NumericNode) node).getValue);  
+); return node.getValue(false);  
+); return node.getIntValue(); //);  
+); return node.getValue(); (int);  
+); return node.intValue(); }(null);  
+); return nextValue(node);  
+); return node.getIntegerValue(this);  
+);  return node.doubleValue(0);  
+);  return node.intValue().longValue(););  
+); return node.intValue(); (value);  
+); return node.intValue(node);  
+);  return node.getIntValue(node);  
+); return node.getValue(); },);  
+);  return node.getIntValue(true);  
+); return Integer.valueOf(node.value);  
+); return node.intValue(); return index);  
+); return node.intValue(); panic();  
+); return node.getIntValue(1);  
+); throw new IllegalStateException(node);  
+); return node.intValue(); return();  
+); return node.getValue(node);  
+); return valueNode(node);  
+); return node.intValue(); return (intValue);  
+); return (node.intValue);  
+); return node.intValue(); (null);  
+); return node.intValue(); return Integer();  
+); return node.value.intValue(0);  
+); return node.intValue();  }(this);  
+); return node.intValue(); (string);  
+); return node.intValue(); (void);  
+); return node.intValue(); },null);  
+); return node.intValue(); return (double);  
+); return node.intValue(); exit();  
+); return node.getValueAsInt(1);  
+); return node.getIntegerValue(0);  
+);  return node.getValueAsInt(this);  
+); return node.intValue(); }, node);  
+);  return value(node);  
+); try { return node.longValue(););  
+); return toIntValue(node);  
+); return node.getAsIntValue(this);  
+); return node.getValueAsInt(); ();  
+); });  
+); return (int) node.longValue(););  
+);  //return node.intValue(0);  
+); return node.toInt(); return (int);  
+); return node.intValue(1);  
+); return node.intValue(); return (++);  
+); return node.getAsIntValue(0);  
+); return node.getIntValue(reader);  
+); return node.intValue(); },();  
+);  return node.intValue(null);  
+); return node.getIntValue(value);  
+); return node.intValue(); }, int);  
+);  return node.getValue().intValue(););  
+return  node.intValue();  
+return  (int) node.intValue();  
+return  node.value.intValue();  
+return  node.number.intValue();  
+return  node != null ? node.intValue();  
+return  node.intValue() + node.intValue();  
+return  node.node.intValue();  
+return  node == null ? 0 : node.intValue();  
+return  node.getValue() + node.intValue();  
+return  (int)node.intValue();  
+return  node.getValue().intValue();  
+return  node != null && node.intValue();  
+return  (Integer) node.intValue();  
+return  node.longValue() + node.intValue();  
+return  value.intValue();  
+return  node .intValue();  
+return  node.value() + node.intValue();  
+return  node.doubleValue() + node.intValue();  
+return  node.intValue() + node.intValue();  
+return  this.intValue();  
+return  node.n.intValue();  
+return  node.floatValue() + node.intValue();  
+return  node.longValue() - node.intValue();  
+return  (node != null) ? node.intValue();  
+return  node.doubleValue() * node.intValue();  
+return  node && node.intValue();  
+return  node.data.intValue();  
+return  node.getValue() - node.intValue();  
+return  node.getNodeValue() + node.intValue();  
+return  node.intValue() - node.intValue();  
+return  node.getValue() .intValue();  
+return  (Integer)node.intValue();  
+return  node.left.intValue();  
+return  node.floatValue() * node.intValue();  
+return  node.intValue(); }.intValue();  
+return  node.num.intValue();  
+return  (long) node.intValue();  
+return  node.numValue() + node.intValue();  
+return  node.getIntValue() + node.intValue();  
+return  node==null?0:node.intValue();  
+return  node.name.intValue();  
+return node.intValue();  
+return  node.val.intValue();  
+return  node.numberNode.intValue();  
+return  (byte) node.intValue();  
+return  node.numberValue() + node.intValue();  
+return  node.getValue(); }.intValue();  
+return  node.x.intValue();  
+return  node != null ? node.intValue();  
+return  node.key.intValue();  
+return   node.intValue();  
+return  node.getNumber() + node.intValue();  
+return  node.getNumber().intValue();  
+return  node.doubleValue() - node.intValue();  
+return  node._value.intValue();  
+return  (int)(node.intValue();  
+return  node.stringValue() + node.intValue();  
+return  node.type.intValue();  
+return  node.numericValue() + node.intValue();  
+return  node.elem.intValue();  
+return  node.getNumberValue() + node.intValue();  
+return  (IntegerNode) node.intValue();  
+return  node.getNode().intValue();  
+return  node.getValue() & ~node.intValue();  
+return  node.getIntegerValue() + node.intValue();  
+return  node.number() + node.intValue();  
+return  node.value().intValue();  
+return  node.getNumericNode().intValue();  
+return  (Long) node.intValue();  
+return  node.integer.intValue();  
+return  n.intValue();  
+return  ((NumericNode) node).value.intValue();  
+return  node._node.intValue();  
+return  node.value() - node.intValue();  
+return  node.getValue() & node.intValue();  
+return  node.text.intValue();  
+return  node.getValue.intValue();  
+return  node.intValue();  
+return (node.intValue();  
+return  node.root.intValue();  
+return  node.longValue() * node.intValue();  
+return  node == null ? null : node.intValue();  
+return  (long)node.intValue();  
+return  node.getValue() + 1.intValue();  
+return  (String) node.intValue();  
+return  node == null || node.intValue();  
+return  (Number) node.intValue();  
+return  node.doubleValue() / node.intValue();  
+return  node.numericNode.intValue();  
+return  node.pos.intValue();  
+return  node != null? node.intValue();  
+return  node.field.intValue();  
+return  this.node.intValue();  
+return  node.i.intValue();  
+return  (short) node.intValue();  
+return  node.getValue() && node.intValue();  
+return  node.values.intValue();  
+return  node.string.intValue();  
+return  node.intValue() + 1.intValue();  
+return  ((NumericNode) node).node.intValue();  
+return  0 == node.intValue();  
+return  node.term.intValue();  
+return  node.intValue() || node.intValue();  
+return  node.v.intValue();  
+return  node.intValue() - node.intValue();  
+return  node.numberValue.intValue();  
+return  node.parent.intValue();  
+return  field.intValue();  
+return  (Node) node.intValue();  
+return  node.numericValue.intValue();  
+return  node.asInt() + node.intValue();  
+return  Math.abs(node.intValue();  
+return  node.currentNode.intValue();  
+return  node..intValue();  
+return  node.isNumeric() ? node.intValue();  
+return  number.intValue();  
+return  node.id.intValue();  
+return  node.numeric.intValue();  
+return  node.a.intValue();  
+return  node.floatValue() / node.intValue();  
+return  node.right.intValue();  
+return  node!=null?node.intValue();  
+return  node.ordinal() + node.intValue();  
+return  node.getValue() * node.intValue();  
+return  valueNode.intValue();  
+return  node.position.intValue();  
+return  node.val() + node.intValue();  
+return  node.getCurrentValue() + node.intValue();  
+return  node.numValue() - node.intValue();  
+return  node.index.intValue();  
+return  node.getNumber() - node.intValue();  
+return  node.nodeValue() + node.intValue();  
+return  node.currentNumericNode().intValue();  
+return  node<mask1> node.intValue();  
+return  numberNode.intValue();  
+return  node.getLeftValue() + node.intValue();  
+return  node == null ? 1 : node.intValue();  
+return  node.getInt() + node.intValue();  
+return  node.child.intValue();  
+return  node != null && node.intValue();  
+return  node.element.intValue();  
+return  node, node.intValue();  
+return  node!=null? node.intValue();  
+return  node.valueNode.intValue();  
+return  node.node().intValue();  
+return  node.getNumber.intValue();  
+return  node.operand.intValue();  
+return  node.numberType.intValue();  
+return  node.next.intValue();  
+return  node.integerValue() + node.intValue();  
+return  node.longValue() + 1.intValue();  
+return  node.getValueNode().intValue();  
+return  node!=null && node.intValue();  
+return  node.integerNode.intValue();  
+return  node.nodeName.intValue();  
+return  node.intValue() + node.intValue();  
+return  node.getLeft().intValue();  
+return  node.intValue() && node.intValue();  
+return  (char) node.intValue();  
+return  node.intValue(); return node.intValue();  
+return  value = node.intValue();  
+return  node.intValue() - 1.intValue();  
+return  (float) node.intValue();  
+return  return node.intValue();  
+return  node.getData().intValue();  
+return  node.expr.intValue();  
+return  intNode.intValue();  
+return  node != null ? node : node.intValue();  
+return  node.number().intValue();  
+return  ((NumericNode) node).number.intValue();  
+return  node.getIndex() + node.intValue();  
+return  node.index() + node.intValue();  
+return  node.numValue() * node.intValue();  
+return  node.floatValue() + node.intValue();  
+return  node.longValue(); }.intValue();  
+return  (byte)node.intValue();  
+return  node.floatValue() - node.intValue();  
+return  node.getMaxValue() + node.intValue();  
+return  node == null ? defaultValue : node.intValue();  
+return  node.longValue() - 1.intValue();  
+return  node.getMaxValue() - node.intValue();  
+return  ((NumberNode) node).value.intValue();  
+return  Integer.parseInt(node.intValue();  
+return  node.getLeft() + node.intValue();  
+return  node.floatValue() * node.intValue();  
+return  (NumericNode) node.intValue();  
+return  node.value + node.intValue();  
+return  node.intValue(); }.intValue();  
+return  node.numberValue() - node.intValue();  
+return  +node.intValue();  
+return  node.intNode.intValue();  
+return  ++node.intValue();  
+return  node.getValue() || node.intValue();  
+return  node.asIntValue() + node.intValue();  
+return  node == null?0:node.intValue();  
+return  node.m_value.intValue();  
+return  node.num() + node.intValue();  
+return  ((IntegerNode) node).value.intValue();  
+return  result.intValue();  
+return  node.offset() + node.intValue();  
+return  node.intValue() + this.intValue();  
+return  node.toString() + node.intValue();  
+return  node.toInt() + node.intValue();  
+return  node==null ? 0 : node.intValue();  
+return  node.floatValue(); }.intValue();  
+return  node.values[0].intValue();  
+return  node.getValue() & 0xFFFF.intValue();  
+return  Integer.valueOf(node.intValue();  
+return  node.getValue(); return node.intValue();  
+return  node.getValue() / node.intValue();  
+return  node == this ? 0 : node.intValue();  
+return  node.number() - node.intValue();  
+return  node.getNodeValue() - node.intValue();  
+return  node.intValue() * node.intValue();  
+return  ((NumberNode) node).number.intValue();  
+return  node.value() & ~node.intValue();  
+return  node.intValue() & ~node.intValue();  
+return  node.minValue() + node.intValue();  
+return  node.size() + node.intValue();  
+return  node.getNumberValue() - node.intValue();  
+return  node.value() * node.intValue();  
+return  node.charValue() + node.intValue();  
+return  Math.round(node.intValue();  
+return  node == null? 0 : node.intValue();  
+return  node.getIntValue() - node.intValue();  
+return  node.getId() + node.intValue();  
+return  node.value() .intValue();  
+return  node.lastValue() + node.intValue();  
+return  node.doubleValue() + node.intValue();  
+return  node.getIntValue(); }.intValue();  
+return  node.getValue() & 0xff.intValue();  
+return  node.getValue() + this.intValue();  
+return  node.intValue() * node.intValue();  
+return  node.hasIntValue() ? node.intValue();  
+return  node.getStringValue() + node.intValue();  
+return  node.getValueAsInt() + node.intValue();  
+return  node.getNodeNumber() + node.intValue();  
+return  node.getValue() & 0xFF.intValue();  
+return  token.intValue();  
+return  node.isValue() ? node.intValue();  
+return  node.numericValue() - node.intValue();  
+return  element.intValue();  
+return  node.doubleValue() * node.intValue();  
+return  node != null ? node.node.intValue();  
+return  item.intValue();  
+return  currentNode.intValue();  
+return  val.intValue();  
+return  node != null ? node.number.intValue();  
+return  node.value != null ? node.intValue();  
+return  node.intValue() + 1.intValue();  
+if(node==null){return  -1;} return node.intValue();  
+if(node==null){return  0;} return node.intValue();  
+if(node==null){return  -1;;} return node.intValue();  
+if(node==null){return  0;;} return node.intValue();  
+if(node==null){return  null;} return node.intValue();  
+if(node==null){return  Integer.MAX_VALUE;} return node.intValue();  
+if(node==null){return  null;;} return node.intValue();  
+if(node==null){return  defaultValue;} return node.intValue();  
+if(node==null){return  Long.MAX_VALUE;} return node.intValue();  
+if(node==null){return  Integer.MIN_VALUE;} return node.intValue();  
+if(node==null){return -1;} return node.intValue();  
+if(node==null){return  1;} return node.intValue();  
+if(node==null){return  Double.NaN;} return node.intValue();  
+if(node==null){return  0L;} return node.intValue();  
+if(node==null){return  NULL;} return node.intValue();  
+if(node==null){return  defaultValue;;} return node.intValue();  
+if(node==null){return  node.intValue();;} return node.intValue();  
+if(node==null){return 0;} return node.intValue();  
+if(node==null){return  -1L;} return node.intValue();  
+if(node==null){return  IntegerNode.NULL;} return node.intValue();  
+if(node==null){return  1;;} return node.intValue();  
+if(node==null){return  defaultValue();;} return node.intValue();  
+if(node==null){return  NO_VALUE;} return node.intValue();  
+if(node==null){return  NAN;} return node.intValue();  
+if(node==null){return  -2;} return node.intValue();  
+if(node==null){return  Long.MIN_VALUE;} return node.intValue();  
+if(node==null){return  Integer.NaN;} return node.intValue();  
+if(node==null){return  false;} return node.intValue();  
+if(node==null){return  node;} return node.intValue();  
+if(node==null){return -1;;} return node.intValue();  
+if(node==null){return  NIL;} return node.intValue();  
+if(node==null){return  -999;} return node.intValue();  
+if(node==null){return   0;} return node.intValue();  
+if(node==null){return  DEFAULT_VALUE;} return node.intValue();  
+if(node==null){return  NaN;} return node.intValue();  
+if(node==null){return  0; ;} return node.intValue();  
+if(node==null){return  NA;} return node.intValue();  
+if(node==null){return  NULL_VALUE;} return node.intValue();  
+if(node==null){return  (int)0;} return node.intValue();  
+if(node==null){return  "0";;} return node.intValue();  
+if(node==null){return  DONE;} return node.intValue();  
+if(node==null){return  this;} return node.intValue();  
+if(node==null){return  NULL_NODE;} return node.intValue();  
+if(node==null){return  0L;;} return node.intValue();  
+if(node==null){return  value;} return node.intValue();  
+if(node==null){return  -1 ;;} return node.intValue();  
+if(node==null){return  -(1);;} return node.intValue();  
+if(node==null){return 0;;} return node.intValue();  
+if(node==null){return  (-1);;} return node.intValue();  
+if(node==null){return ;;} return node.intValue();  
+if(node==null){return  super.getIntValue();;} return node.intValue();  
+if(node==null){return  false;;} return node.intValue();  
+if(node==null){return  INT;} return node.intValue();  
+if(node==null){return  0l;} return node.intValue();  
+if(node==null){return  -9999;} return node.intValue();  
+if(node==null){return  UNDEFINED;} return node.intValue();  
+if(node==null){return   -1;} return node.intValue();  
+if(node==null){return  '0';;} return node.intValue();  
+if(node==null){return  node.getIntValue();;} return node.intValue();  
+if(node==null){return  Double.NaN;;} return node.intValue();  
+if(node==null){return  -1l;} return node.intValue();  
+if(node==null){return  0x00;} return node.intValue();  
+if(node==null){return  node.getValue();;} return node.intValue();  
+if(node==null){return  -1L;;} return node.intValue();  
+if(node==null){return  zero;} return node.intValue();  
+if(node==null){return  defValue;} return node.intValue();  
+if(node==null){return  -1; ;} return node.intValue();  
+if(node==null){return  value;;} return node.intValue();  
+if(node==null){return  "";;} return node.intValue();  
+if(node==null){return  INT_NULL;} return node.intValue();  
+if(node==null){return  0l;;} return node.intValue();  
+if(node==null){return AST#unary_expression#Left-1AST#unary_expression#Right;} return node.intValue();  
+if(node==null){return  NO_VALUE;;} return node.intValue();  
+if(node==null){return  0d;} return node.intValue();  
+if(node==null){return  -2;;} return node.intValue();  
+if(node==null){return  NO_NODE;} return node.intValue();  
+if(node==null){return  ROOT;} return node.intValue();  
+if(node==null){return  defaultNumericNode;} return node.intValue();  
+if(node==null){return  IntegerNode.EMPTY;} return node.intValue();  
+if(node==null){return  -1.0;} return node.intValue();  
+if(node==null){return  EMPTY;} return node.intValue();  
+if(node==null){return  (int) 0;} return node.intValue();  
+if(node==null){return  "null";;} return node.intValue();  
+if(node==null){return  UNKNOWN;} return node.intValue();  
+if(node==null){return  NULL_INT;} return node.intValue();  
+if(node==null){return   0;;} return node.intValue();  
+if(node==null){return  INT;;} return node.intValue();  
+if(node==null){return  this.defaultValue;} return node.intValue();  
+if(node==null){return  defaultInt;} return node.intValue();  
+if(node==null){return  0.0;} return node.intValue();  
+if(node==null){return  Float.NaN;} return node.intValue();  
+if(node==null){return  NULL;;} return node.intValue();  
+if(node==null){return  NEGATIVE;} return node.intValue();  
+if(node==null){return null;} return node.intValue();  
+if(node==null){return  INT_NOT_FOUND;} return node.intValue();  
+if(node==null){return  -9999999;} return node.intValue();  
+if(node==null){return Integer.MAX_VALUE;} return node.intValue();  
+if(node==null){return  -;} return node.intValue();  
+if(node==null){return  -99;} return node.intValue();  
+if(node==null){return  NULL_INT_VALUE;} return node.intValue();  
+if(node==null){return  EOF;} return node.intValue();  
+if(node==null){return  10;} return node.intValue();  
+if(node==null){return  - 1;} return node.intValue();  
+if(node==null){return  99999999;} return node.intValue();  
+if(node==null){return  0; ;} return node.intValue();  
+if(node==null){return  INVALID;} return node.intValue();  
+if(node==null){return  INTEGER;} return node.intValue();  
+if(node==null){return  Double.NEGATIVE_INFINITY;} return node.intValue();  
+if(node==null){return  2;} return node.intValue();  
+if(node==null){return  -999;;} return node.intValue();  
+if(node==null){return  Short.MAX_VALUE;} return node.intValue();  
+if(node==null){return  (int)0;;} return node.intValue();  
+if(node==null){return  getValue();;} return node.intValue();  
+if(node==null){return  NOT_FOUND;} return node.intValue();  
+if(node==null){return  IntegerNode.INFINITY;} return node.intValue();  
+if(node==null){return  0 ;;} return node.intValue();  
+if(node==null){return  -1; ;} return node.intValue();  
+if(node==null){return (0);;} return node.intValue();  
+if(node==null){return  BIGINT_NULL;} return node.intValue();  
+if(node==null){return  defaultNumericValue;} return node.intValue();  
+if(node==null){return (-1);;} return node.intValue();  
+if(node==null){return  -1 ;} return node.intValue();  
+if(node==null){return  INITIAL_VALUE;} return node.intValue();  
+if(node==null){return  UNKNOWN_VALUE;} return node.intValue();  
+if(node==null){return  IntegerStream.empty;} return node.intValue();  
+if(node==null){return  DEFAULT;} return node.intValue();  
+if(node==null){return  INVALID_VALUE;} return node.intValue();  
+if(node==null){return  -1d;} return node.intValue();  
+if(node==null){return  val;} return node.intValue();  
+if(node==null){return  0x00000000;} return node.intValue();  
+if(node==null){return  Constants.NULL;} return node.intValue();  
+if(node==null){return  DONE;;} return node.intValue();  
+if(node==null){return  3;} return node.intValue();  
+if(node==null){return  Primitive.VOID;} return node.intValue();  
+if(node==null){return  BIGINT;} return node.intValue();  
+if(node==null){return  NULL_NODE_VALUE;} return node.intValue();  
+if(node==null){return  numValue;} return node.intValue();  
+if(node==null){return  -9999;;} return node.intValue();  
+if(node==null){return  UNDEFINED_VALUE;} return node.intValue();  
+if(node==null){return  NEGATIVE_INFINITY;} return node.intValue();  
+if(node==null){return  0x0;} return node.intValue();  
+if(node==null){return  num;;} return node.intValue();  
+if(node==null){return  NAN;;} return node.intValue();  
+if(node==null){return  0xFFFFFFFF;} return node.intValue();  
+if(node==null){return  return -1;} return node.intValue();  
+if(node==null){return  100;} return node.intValue();  
+if(node==null){return  OTHER;} return node.intValue();  
+if(node==null){return  -1000;} return node.intValue();  
+if(node==null){return  IntegerNode.NONE;} return node.intValue();  
+if(node==null){return  -3;} return node.intValue();  
+if(node==null){return  EMPTY_INT;} return node.intValue();  
+if(node==null){return  3;;} return node.intValue();  
+if(node==null){return  0;AST#return_statement#Right;} return node.intValue();  
+if(node==null){return (-1;} return node.intValue();  
+if(node==null){return  IntegerNode.INF;} return node.intValue();  
+if(node==null){return  NaN;;} return node.intValue();  
+if(node==null){return  defaultNumericNodeValue;} return node.intValue();  
+if(node==null){return  -1 ;} return node.intValue();  
+if(node==null){return ;} return node.intValue();  
+if(node==null){return  INT_VALUE;} return node.intValue();  
+if(node==null){return  -99999;} return node.intValue();  
+if(node==null){return  val;;} return node.intValue();  
+if(node==null){return  0x0;;} return node.intValue();  
+if(node==null){return  N/A;} return node.intValue();  
+if(node==null){return  Integer.NaN;;} return node.intValue();  
+if(node==null){return  IntegerNode.ZERO;} return node.intValue();  
+if(node==null){return  IntegerNode.UNDEFINED;} return node.intValue();  
+if(node==null){return  64;} return node.intValue();  
+if(node==null){return  IntegerNode.NULL;;} return node.intValue();  
+if(node==null){return  defaultIntValue;} return node.intValue();  
+if(node==null){return  def;} return node.intValue();  
+if(node==null){return  BigInteger.ZERO;} return node.intValue();  
+if(node==null){return  undefined;} return node.intValue();  
+if(node==null){return  defaultValue;} return node.intValue();  
+if(node==null){return  Integer.NEGATIVE_INFINITY;} return node.intValue();  
+if(node==null){return  DEFAULT_VALUE;;} return node.intValue();  
+if(node==null){return  BigDecimal.ZERO;} return node.intValue();  
+if(node==null){return  node.value;} return node.intValue();  
+if(node==null){return  2;;} return node.intValue();  
+if(node==null){return  4;;} return node.intValue();  
+if(node==null){return  node.getDefaultValue();;} return node.intValue();  
+if(node==null){return  Byte.MAX_VALUE;} return node.intValue();  
+if(node==null){return  DTM.NULL;} return node.intValue();  
+if(node==null){return  -1l;;} return node.intValue();  
+if(node==null){return  0;} return node.intValue();  
+if(node==null){return  NumberUtils.NaN;} return node.intValue();  
+if(node==null){return  IntegerNode.NOP;} return node.intValue();  
+if(node==null){return  -1);;} return node.intValue();  
+if(node==null){return  Long.NaN;} return node.intValue();  
+if(node==null){return  "NULL";;} return node.intValue();  
+if(node==null){return  node.defaultValue;} return node.intValue();  
+if(node==null){return  10;;} return node.intValue();  
+if(node==null){return  NULL_VALUE;;} return node.intValue();  
+if(node==null){return  -11;} return node.intValue();  
+if(node==null){return  0;return 0;} return node.intValue();  
+if(node==null){return  NA;;} return node.intValue();  
+if(node==null){return  4;} return node.intValue();  
+if(node==null){return  -1*0;} return node.intValue();  
+if(node==null){return  IntegerNode.NIL;} return node.intValue();  
+if(node==null){return  (-1;} return node.intValue();  
+if(node==null){return  this.value;} return node.intValue();  
+if(node==null){return  node.intValue;} return node.intValue();  
+if(node==null){return  NOT_SET;} return node.intValue();  
+if(node==null){return  < 0;} return node.intValue();  
+if(node==null){return  NAN_NODE;} return node.intValue();  
+if(node==null){return  IntegerNode.defaultValue;} return node.intValue();  
+if(node==null){return  NULL_NUMERIC_NODE;} return node.intValue();  
+if(node==null){return  node.doubleValue();;} return node.intValue();  
+if(node==null){return  EMPTY_STRING;} return node.intValue();  
+if(node==null){return  n;;} return node.intValue();  
+if(node==null){return  IntegerStream.empty();;} return node.intValue();  
+if(node==null){return  256;} return node.intValue();  
+if(node==null){return  IntegerNode.UNKNOWN;} return node.intValue();  
+if(node==null){return  0xFF;} return node.intValue();  
+if(node==null){return  node.longValue();;} return node.intValue();  
+if(node==null){return  0x0000;} return node.intValue();  
+if(node==null){return  node.intValue();;} return node.intValue();  
+if(node==null){return  -(1L);;} return node.intValue();  
+if(node==null){return  IntegerNode.NAN;} return node.intValue();  
+if(node==null){return  NUMERIC_NULL;} return node.intValue();  
+if(node==null){return  255;} return node.intValue();  
+if(node==null){return  INT_NOT_SET;} return node.intValue();  
+if(node==null){return  IntegerNode.MAX;} return node.intValue();  
+if(node==null){return  i;} return node.intValue();  
+if(node==null){return  Node.NULL;} return node.intValue();  
+if(node==null){return  ROOT_VALUE;} return node.intValue();  
+if(node==null){return  StringUtils.EMPTY;} return node.intValue();  
+if(node==null){return  IntegerNode.NaN;} return node.intValue();  
+if(node==null){return  Long.NEGATIVE_INFINITY;} return node.intValue();  
+if(node==null){return  NEUTRAL;} return node.intValue();  
+if(node==null){return  Constants.NULL_INT;} return node.intValue();  
+if(node==null){return  ValueConsts.NULL;} return node.intValue();  
+if(node==null){return  0;  ;} return node.intValue();  
+if(node==null){return  node.getValueAsInt();;} return node.intValue();  
+if(node==null){return  {@code 0;} return node.intValue();  
+if(node==null){return  (int) -1;} return node.intValue();  
+if(node==null){return  IntegerNode.defaultValue();;} return node.intValue();  
+if(node==null){return  INDEX_NOT_FOUND;} return node.intValue();  
+if(node==null){return  NULL_INTEGER;} return node.intValue();  
+if(node==null){return  NO_MORE_DATA;} return node.intValue();  
+if(node==null){return  new Integer(0);;} return node.intValue();  
+if(node==null){return Integer.MIN_VALUE;} return node.intValue();  
+if(node==null){return  super.intValue();;} return node.intValue();  
+if(node==null){return  (int)(0);;} return node.intValue();  
+if(node==null){return  IntegerNode.UNDEF;} return node.intValue();  
+if(node==null){return  PrimitiveNode.NULL;} return node.intValue();  
+if(node==null){return  IntegerNode.ROOT;} return node.intValue();  
+if(node==null){return  null; ;} return node.intValue();  
+if(node==null){return  0x7fffffff;} return node.intValue();  
+if(node==null){return  new IntegerNode();;} return node.intValue();  
+if(node==null){ node=new NumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); currentNumericNode; } return node.intValue();  
+if(node==null){ node=nextNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(); currentNumericNode(node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); currentNumericNode=node; } return node.intValue();  
+if(node==null){ node=this; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); currentNumericNode; } return node.intValue();  
+if(node==null){ node=getNextNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(); currentNumericNode = node; } return node.intValue();  
+if(node==null){ node=null; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(0); currentNumericNode; } return node.intValue();  
+if(node==null){ node=createNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); return node; } return node.intValue();  
+if(node==null){ node=new NumericNode() ; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else { node; } return node.intValue();  
+if(node==null){ node=new NumericNode() } return node; } return node.intValue();  
+if(node==null){ node= new NumericNode(); currentNumericNode(node; } return node.intValue();  
+if(node==null){ node=new NumericNode(0); }; } return node.intValue();  
+if(node==null){ node= new NumericNode(); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode() {}; } return node.intValue();  
+if(node==null){ node=new NumericNode(1); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(Integer.MAX_VALUE; } return node.intValue();  
+if(node==null){ node= this; } return node.intValue();  
+if(node==null){ node= new NumericNode(this); currentNumericNode; } return node.intValue();  
+if(node==null){ node= new NumericNode() {}; } return node.intValue();  
+if(node==null){ node= new NumericNode; } return node.intValue();  
+if(node==null){ node=root; } return node.intValue();  
+if(node==null){ node=new NumericNode(0); } return node; } return node.intValue();  
+if(node==null){ node= new NumericNode() } return node; } return node.intValue();  
+if(node==null){ node= nextNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } return node.intValue();  
+if(node==null){ node=new NumericNode(this); } else; } return node.intValue();  
+if(node==null){ node=new NumericNode(value); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else{ node; } return node.intValue();  
+if(node==null){ node= new NumericNode(); currentNumericNode = node; } return node.intValue();  
+if(node==null){ node=NumericNode.NULL; } return node.intValue();  
+if(node==null){ node=defaultNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(0,0); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(null,null); }; } return node.intValue();  
+if(node==null){ node=createNumericNode(); } return node; } return node.intValue();  
+if(node==null){ node=newNode; } return node.intValue();  
+if(node==null){ node=numericNode; } return node.intValue();  
+if(node==null){ node= new NumericNode(); currentNumericNode=node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); return 0; } return node.intValue();  
+if(node==null){ node=new NumericNode(currentNumericNode()); } return node.intValue();  
+if(node==null){ node=new NumericNode(); return node; } return node.intValue();  
+if(node==null){ node=newNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(1); }; } return node.intValue();  
+if(node==null){ node=new NumericNode() return null; } return node.intValue();  
+if(node==null){ node=numberNode; } return node.intValue();  
+if(node==null){ node= new NumericNode() ; } return node.intValue();  
+if(node==null){ node=new NumericNode(0,0,0; } return node.intValue();  
+if(node==null){ node=new NumericNode(this; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); } else; } return node.intValue();  
+if(node==null){ node=new NumericNode(currentNumericNode()); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(this,null); }; } return node.intValue();  
+if(node==null){ node= new NumericNode(0); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); return 0; } return node.intValue();  
+if(node==null){ node= new NumericNode(this); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else { return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); node.next; } return node.intValue();  
+if(node==null){ node= null; } return node.intValue();  
+if(node==null){ node=NumericNode.NULL_NODE; } return node.intValue();  
+if(node==null){ node=new NumericNode() {; } return node.intValue();  
+if(node==null){ node=makeNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(); return null; } return node.intValue();  
+if(node==null){ node=numNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(1); } return node; } return node.intValue();  
+if(node==null){ node=next; } return node.intValue();  
+if(node==null){ node=new NumericNode(Long.MAX_VALUE; } return node.intValue();  
+if(node==null){ node=new NumericNode(null, null); }; } return node.intValue();  
+if(node==null){ node=new NumericNode() {} return node; } return node.intValue();  
+if(node==null){ node=nextNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(){ }; } return node.intValue();  
+if(node==null){ node=new NumericNode() }; } return node.intValue();  
+if(node==null){ node=new NumericNode() } else { node; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); } return; } return node.intValue();  
+if(node==null){ node= new NumericNode(null); currentNumericNode; } return node.intValue();  
+if(node==null){ node= new NumericNode(null); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(0, 0); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else { node=; } return node.intValue();  
+if(node==null){ node=n; } return node.intValue();  
+if(node==null){ node=new NumericNode(0); return node; } return node.intValue();  
+if(node==null){ node=new NumericNode() return 0; } return node.intValue();  
+if(node==null){ node= new NumericNode(this); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(name); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); return null; } return node.intValue();  
+if(node==null){ node=new NumericNode() return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(Integer.MIN_VALUE; } return node.intValue();  
+if(node==null){ node=new NumericNode() { }; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); } assert node; } return node.intValue();  
+if(node==null){ node=new NumericNode(false); currentNumericNode; } return node.intValue();  
+if(node==null){ node=node.next; } return node.intValue();  
+if(node==null){ node=nullNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); } return; } return node.intValue();  
+if(node==null){ node=createNumericNode(); currentNumericNode=node; } return node.intValue();  
+if(node==null){ node=new NumericNode(null,null); return; } return node.intValue();  
+if(node==null){ node=new NumericNode(0,0); return; } return node.intValue();  
+if(node==null){ node=new NumericNode(0); return 0; } return node.intValue();  
+if(node==null){ node=new NumericNode(null);; } return node.intValue();  
+if(node==null){ node= createNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(node); currentNumericNode; } return node.intValue();  
+if(node==null){ node= new NumericNode(); } else { node; } return node.intValue();  
+if(node==null){ node=new NumericNode(0); } else; } return node.intValue();  
+if(node==null){ node= new NumericNode(); } return node.intValue();  
+if(node==null){ node=getNextNumericNode(); } if(node; } return node.intValue();  
+if(node==null){ node=currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(true); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else{ node; } return node.intValue();  
+if(node==null){ node=new NumberNode; } return node.intValue();  
+if(node==null){ node= new NumericNode() { }; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); } assert node; } return node.intValue();  
+if(node==null){ node=new NumericNode(this,null); return; } return node.intValue();  
+if(node==null){ node=new NumericNode(this) {}; } return node.intValue();  
+if(node==null){ node=new NumericNode();; } return node.intValue();  
+if(node==null){ node= new NumericNode(this) {}; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } node.next; } return node.intValue();  
+if(node==null){ node= new NumericNode() }; } return node.intValue();  
+if(node==null){ node=initNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(value); }; } return node.intValue();  
+if(node==null){ node=NumericNode.ROOT; } return node.intValue();  
+if(node==null){ node=new NumericNode(this,0); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(this, 0); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else; } return node.intValue();  
+if(node==null){ node= new NumericNode(null); } return node; } return node.intValue();  
+if(node==null){ node= new NumericNode(0); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(values); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(this) ; return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(this, null); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); return node.intValue(); } return node.intValue();  
+if(node==null){ node=new NumericNode(this);} return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(this);; } return node.intValue();  
+if(node==null){ node=new NumericNode(){ }}; return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else{ return node; } return node.intValue();  
+if(node==null){ node=new NumericNode() {} return node; } return node.intValue();  
+if(node==null){ node=createNumericNode(); } else { node; } return node.intValue();  
+if(node==null){ node=NULL; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else{ node=; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); return null; } return node.intValue();  
+if(node==null){ node=new IntegerNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); } else {; } return node.intValue();  
+if(node==null){ node=node.nextNode; } return node.intValue();  
+if(node==null){ node=0; } return node.intValue();  
+if(node==null){ node= new NumericNode() } else { node; } return node.intValue();  
+if(node==null){ node=new NumericNode(-1); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(this) ; } return node.intValue();  
+if(node==null){ node= new NumericNode() {} return node; } return node.intValue();  
+if(node==null){ node=rootNode; } return node.intValue();  
+if(node==null){ node=getNextNumericNode(); } return node; } return node.intValue();  
+if(node==null){ node= NumericNode.NULL; } return node.intValue();  
+if(node==null){ node=new NumericNode();} return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else { return null; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); return 0; } return node.intValue();  
+if(node==null){ node= new NumericNode() {} return node; } return node.intValue();  
+if(node==null){ node= new NumericNode(){ }; } return node.intValue();  
+if(node==null){ node= getNextNumericNode; } return node.intValue();  
+if(node==null){ node= new NumericNode(this); return node; } return node.intValue();  
+if(node==null){ node= new NumericNode(0); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(null, 0); }; } return node.intValue();  
+if(node==null){ node= ROOT; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } currentNumericNode; } return node.intValue();  
+if(node==null){ node=getNextNumericNode(); } else { node; } return node.intValue();  
+if(node==null){ node=nextNumericNode(); } if(node; } return node.intValue();  
+if(node==null){ node=newNumericNode(); currentNumericNode=node; } return node.intValue();  
+if(node==null){ node=new NumericNode(value);} return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(this); currentNode=node; } return node.intValue();  
+if(node==null){ node=new NumericNode(null,null,null; } return node.intValue();  
+if(node==null){ node=new NumericNode(); currentNode=node; } return node.intValue();  
+if(node==null){ node=new NumericNode(value); } return node; } return node.intValue();  
+if(node==null){ node=this.nextNumericNode; } return node.intValue();  
+if(node==null){ node= new NumericNode(currentNumericNode()); } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else { return 0; } return node.intValue();  
+if(node==null){ node=new NumericNode(this) }; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); } else {; } return node.intValue();  
+if(node==null){ node= new NumericNode(1); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(currentNumericNode()); return; } return node.intValue();  
+if(node==null){ node=new NumericNode(){; } return node.intValue();  
+if(node==null){ node= new NumericNode(this) }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); currentNumericNode=null; } return node.intValue();  
+if(node==null){ node=new NumericNode(1,1); }; } return node.intValue();  
+if(node==null){ node= new NumericNode(); currentNumericNode= node; } return node.intValue();  
+if(node==null){ node= newNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(null);} return node; } return node.intValue();  
+if(node==null){ node=newNumericNode(this); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(1); return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); currentNode=node; } return node.intValue();  
+if(node==null){ node=new NumericNode(10); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(value); return node; } return node.intValue();  
+if(node==null){ node= new NumericNode(); }; } return node.intValue();  
+if(node==null){ node=getNextNumericNode(); } else{ return; } return node.intValue();  
+if(node==null){ node= new NumericNode() return 0; } return node.intValue();  
+if(node==null){ node=new NumericNode(node); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(this) {; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(-1); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } assert node!=null; } return node.intValue();  
+if(node==null){ node=newNumericNode(); } return node; } return node.intValue();  
+if(node==null){ node= new NumericNode(Integer.MAX_VALUE; } return node.intValue();  
+if(node==null){ node=parent; } return node.intValue();  
+if(node==null){ node= new NumericNode() return null; } return node.intValue();  
+if(node==null){ node=IntegerNode.NULL; } return node.intValue();  
+if(node==null){ node=new NumericNode(0,null); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); node.next; } return node.intValue();  
+if(node==null){ node=rootNode; } return node.intValue();  
+if(node==null){ node=nodeNew; } return node.intValue();  
+if(node==null){ node=new NumericNode(this);currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(0, 0, 0; } return node.intValue();  
+if(node==null){ node=new NumericNode(); return node.intValue; } return node.intValue();  
+if(node==null){ node=rootNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(null,0); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } ; } return node.intValue();  
+if(node==null){ node=new NumericNode(); currentNumericNode(); }; } return node.intValue();  
+if(node==null){ node=new NumericNode(0);; } return node.intValue();  
+if(node==null){ node=new NumericNode(this) return node; } return node.intValue();  
+if(node==null){ node=new NumericNode() } else{ node; } return node.intValue();  
+if(node==null){ node=new NumericNode(currentNumericNode());; } return node.intValue();  
+if(node==null){ node= new NumericNode(value); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(0); } assert node; } return node.intValue();  
+if(node==null){ node=getNextNumericNode(); currentNumericNode=node; } return node.intValue();  
+if(node==null){ node=new NumericNode(null, null); } return node.intValue();  
+if(node==null){ node=new NumericNode(0,0,null; } return node.intValue();  
+if(node==null){ node=readNumericNode; } return node.intValue();  
+if(node==null){ node=NULL_NODE; } return node.intValue();  
+if(node==null){ node=nextNumericNode(); } else { node; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else{ return; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } //return node; } return node.intValue();  
+if(node==null){ node=ROOT; } return node.intValue();  
+if(node==null){ node=new NumericNode(100); currentNumericNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(false); }; } return node.intValue();  
+if(node==null){ node=nextNumericNode(); } return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(0,0; } return node.intValue();  
+if(node==null){ node=new NumericNode(null); } return node.intValue();  
+if(node==null){ node=getNextNumericNode(); } else { return null; } return node.intValue();  
+if(node==null){ node=new NumericNode(); } else; } return node.intValue();  
+if(node==null){ node=new NumericNode(0,0,false; } return node.intValue();  
+if(node==null){ node=getNextNumericNode(); } else{ node; } return node.intValue();  
+if(node==null){ node= createNumericNode(); } return node; } return node.intValue();  
+if(node==null){ node=nextNumericNode(); } else{ return; } return node.intValue();  
+if(node==null){ node=getRootNode; } return node.intValue();  
+if(node==null){ node=new NumericNode(0);} return node; } return node.intValue();  
+if(node==null){ node=new NumericNode(0,1); }; } return node.intValue();  
+if(node != null){ return node.intValue();}  
+if(node!=null){ return node.intValue();}  
+if(node.isInt()){ return node.intValue();}  
+if(node instanceof NumericNode){ return node.intValue();}  
+if(node instanceof IntegerNode){ return node.intValue();}  
+if(null != node){ return node.intValue();}  
+if(node instanceof NumberNode){ return node.intValue();}  
+if(node.isNumber()){ return node.intValue();}  
+if(node.isInteger()){ return node.intValue();}  
+if(node.isNumeric()){ return node.intValue();}  
+if(node == null){ return node.intValue();}  
+if(node instanceof IntNode){ return node.intValue();}  
+if(null!=node){ return node.intValue();}  
+if(node!= null){ return node.intValue();}  
+if(node==null){ return node.intValue();}  
+if(node.isNumeric){ return node.intValue();}  
+if(node.hasIntValue){ return node.intValue();}  
+if(node != null && node.isInt()){ return node.intValue();}  
+if(node){ return node.intValue();}  
+if(node.intValue() != -1){ return node.intValue();}  
+if(node.intValue() > 0){ return node.intValue();}  
+if(node.getValue() != null){ return node.intValue();}  
+if(node.isValue()){ return node.intValue();}  
+if(node.next != null){ return node.intValue();}  
+if(node != this){ return node.intValue();}  
+if(node.isNull()){ return node.intValue();}  
+if(node.isEmpty()){ return node.intValue();}  
+if(node.isInt){ return node.intValue();}  
+if( node != null){ return node.intValue();}  
+if(node.hasNext){ return node.intValue();}  
+if(node.isIntValue){ return node.intValue();}  
+if(node.isNumber){ return node.intValue();}  
+if(node.value != null){ return node.intValue();}  
+if(currentNumericNode()!=null){ return node.intValue();}  
+if(node.intValue() != null){ return node.intValue();}  
+if(node != null && node.isInteger()){ return node.intValue();}  
+if(currentNumericNode() != null){ return node.intValue();}  
+if(node.hasValue()){ return node.intValue();}  
+if(node.intValue() != 0){ return node.intValue();}  
+if(node.size() > 0){ return node.intValue();}  
+if(node.hasIntValue()){ return node.intValue();}  
+if(node.isConstant()){ return node.intValue();}  
+if(node.isInteger){ return node.intValue();}  
+if(node!=null && node.isInt()){ return node.intValue();}  
+if(node.intValue() >= 0){ return node.intValue();}  
+if(node.value() != null){ return node.intValue();}  
+if(node != null && node.isNumber()){ return node.intValue();}  
+if(node.isIntValue()){ return node.intValue();}  
+if(node.isValid()){ return node.intValue();}  
+if(node != NULL){ return node.intValue();}  
+if(node instanceof StringNode){ return node.intValue();}  
+if(node.isLeaf()){ return node.intValue();}  
+if(node!=this){ return node.intValue();}  
+if(node.longValue() > 0){ return node.intValue();}  
+if(node.isInt() == true){ return node.intValue();}  
+if(node.isIntNode()){ return node.intValue();}  
+if(node.isString()){ return node.intValue();}  
+if(node.hasNext()){ return node.intValue();}  
+if(node == this){ return node.intValue();}  
+if(node.isNull){ return node.intValue();}  
+if(node instanceof DoubleNode){ return node.intValue();}  
+if(node.isArray()){ return node.intValue();}  
+if(node.isEmpty){ return node.intValue();}  
+if(node.isInt() != null){ return node.intValue();}  
+if(node.value!=null){ return node.intValue();}  
+if(node.isLeaf){ return node.intValue();}  
+if(node.isValue){ return node.intValue();}  
+if(node.booleanValue()){ return node.intValue();}  
+if(node instanceof LongNode){ return node.intValue();}  
+if(node.hasValue){ return node.intValue();}  
+if(node.next() != null){ return node.intValue();}  
+if(node.length() > 0){ return node.intValue();}  
+if(node.isPositive()){ return node.intValue();}  
+if(node.isError()){ return node.intValue();}  
+if(node.longValue() != 0){ return node.intValue();}  
+if(node.getValue()!=null){ return node.intValue();}  
+if(node.booleanValue){ return node.intValue();}  
+if(node.isArray){ return node.intValue();}  
+if(node.longValue() != -1){ return node.intValue();}  
+if(node.isInteger() == true){ return node.intValue();}  
+if(node instanceof LiteralNode){ return node.intValue();}  
+if(node.node != null){ return node.intValue();}  
+if(node.getNext() != null){ return node.intValue();}  
+if(node.next!=null){ return node.intValue();}  
+if(node.getValue()==null){ return node.intValue();}  
+if(node.next()!=null){ return node.intValue();}  
+if(node.isIntNode()==true){ return node.intValue();}  
+if(node.isNumber()){ return node.intValue();}  
+if(node instanceof ScalarNode){ return node.intValue();}  
+if(node instanceof ValueNode){ return node.intValue();}  
+if(node.equals(this){ return node.intValue();}  
+if(node.left != null){ return node.intValue();}  
+if(node.isRequired()){ return node.intValue();}  
+if(node instanceof FloatNode){ return node.intValue();}  
+if(node.isInt() && node != null){ return node.intValue();}  
+if(node!=null && node.isInteger()){ return node.intValue();}  
+if(node.isSigned()){ return node.intValue();}  
+if(node.isInteger() != null){ return node.intValue();}  
+if(node is not null){ return node.intValue();}  
+if(node.getNext()!=null){ return node.intValue();}  
+if(node.intValue()!=null){ return node.intValue();}  
+if(node instanceof BooleanNode){ return node.intValue();}  
+if(node.isNumericNode){ return node.intValue();}  
+if(node.isOpen()){ return node.intValue();}  
+if(node.isDefined()){ return node.intValue();}  
+if(true){ return node.intValue();}  
+if(node.isInt() == false){ return node.intValue();}  
+if(node.isInt()==true){ return node.intValue();}  
+if(node.isValid){ return node.intValue();}  
+if(node.number != null){ return node.intValue();}  
+if(node.hasValue()){ return node.intValue();}  
+if(node.intValue() == 0){ return node.intValue();}  
+if(node.isNumericNode()){ return node.intValue();}  
+if(node.longValue() >= 0){ return node.intValue();}  
+if(node != currentNumericNode()){ return node.intValue();}  
+if(node.isIntNode){ return node.intValue();}  
+if(node!=null && node.isNumber()){ return node.intValue();}  
+if(node.isNumber){ return node.intValue();}  
+if(node != null && node.isNumeric){ return node.intValue();}  
+if(node.isIntValue()){ return node.intValue();}  
+if(node.isOpen){ return node.intValue();}  
+if(node != null && node.hasValue()){ return node.intValue();}  
+if(node.intValue() == -1){ return node.intValue();}  
+if(node.exists()){ return node.intValue();}  
+if(node.isDouble()){ return node.intValue();}  
+if(node.intValue()==0){ return node.intValue();}  
+if(node instanceof NumericalNode){ return node.intValue();}  
+if(node instanceof DecimalNode){ return node.intValue();}  
+if(node.value()!=null){ return node.intValue();}  
+if(node instanceof TextNode){ return node.intValue();}  
+if(node.parent != null){ return node.intValue();}  
+if(node.isConstant){ return node.intValue();}  
+if(node.isNullNode()){ return node.intValue();}  
+if(node.accept(this){ return node.intValue();}  
+if(node.next == null){ return node.intValue();}  
+if(node.getSize() > 0){ return node.intValue();}  
+if(node.value){ return node.intValue();}  
+if(node.isTrue()){ return node.intValue();}  
+if(node.isInteger()==true){ return node.intValue();}  
+if(node.intValue() < 0){ return node.intValue();}  
+if(node.isNull()==false){ return node.intValue();}  
+if(node != null && node.isValid()){ return node.intValue();}  
+if(node != null && node != this){ return node.intValue();}  
+if(node.value == null){ return node.intValue();}  
+if(node.size() == 1){ return node.intValue();}  
+if(node.intValue()>=0){ return node.intValue();}  
+if( node.isInt()){ return node.intValue();}  
+if(node instanceof NumericNode){ return node.intValue();}  
+if(node.hasNext()==true){ return node.intValue();}  
+if(node.type != null){ return node.intValue();}  
+if(node.isFixed()){ return node.intValue();}  
+if(node.isIntegerNode()){ return node.intValue();}  
+if(node.isNullValue()){ return node.intValue();}  
+if(node.numericNode()!=null){ return node.intValue();}  
+if(node.value==null){ return node.intValue();}  
+if(node.isPositive){ return node.intValue();}  
+if(node != null && !node.isEmpty){ return node.intValue();}  
+if(node.isActive()){ return node.intValue();}  
+if(node != null && node.isIntNode){ return node.intValue();}  
+if(node.isIntegerNode()==true){ return node.intValue();}  
+if(node.isInteger()){ return node.intValue();}  
+if(node.getValue() == null){ return node.intValue();}  
+if(node.isInterrupted()){ return node.intValue();}  
+if(node.isSet()){ return node.intValue();}  
+if(node.doubleValue() != 0){ return node.intValue();}  
+if(node.getIsNumeric()){ return node.intValue();}  
+if(node.isNumericValue()){ return node.intValue();}  
+if(currentNumericNode()==node){ return node.intValue();}  
+if(node.next() == null){ return node.intValue();}  
+if(node.doubleValue() > 0){ return node.intValue();}  
+if(node.isLong()){ return node.intValue();}  
+if(node.isInteger() == false){ return node.intValue();}  
+if(node.getValue()!=null){ return node.intValue();}  
+if(node.numericNode() != null){ return node.intValue();}  
+if(node.longValue() == 0){ return node.intValue();}  
+if(node != currentNumericNode){ return node.intValue();}  
+if(node.isArrayNode()){ return node.intValue();}  
+if(node.isInt() != false){ return node.intValue();}  
+if(node.isIntNode()==false){ return node.intValue();}  
+if(node != null && node.isNumber){ return node.intValue();}  
+if(node.type != NULL){ return node.intValue();}  
+if(node!=null && node.isNumeric){ return node.intValue();}  
+if(node.isNumeric() == true){ return node.intValue();}  
+if(node.intValue()!=null){ return node.intValue();}  
+if(node.getType() == INTEGER){ return node.intValue();}  
+if(node.isStringNode()){ return node.intValue();}  
+if(node.getValueType() == ValueType.INT){ return node.intValue();}  
+if(node.hasNextValue()){ return node.intValue();}  
+if(node.isNullNode()==false){ return node.intValue();}  
+if(node.intValue() != NULL){ return node.intValue();}  
+if(node.type == NUMBER){ return node.intValue();}  
+if(currentNumericNode() instanceof NumericNode){ return node.intValue();}  
+if(node.isIntValue() == true){ return node.intValue();}  
+if(node.getType() == NUMBER){ return node.intValue();}  
+if(node != null && node.hasNext()){ return node.intValue();}  
+if(node.isTerminal()){ return node.intValue();}  
+if(node.getValue() instanceof String){ return node.intValue();}  
+if(node.isValue() == true){ return node.intValue();}  
+if(node.getValueType() == ValueType.NUMBER){ return node.intValue();}  
+if(node!=null && node!=this){ return node.intValue();}  
+if(node != null && node instanceof IntegerNode){ return node.intValue();}  
+if(currentNumericNode() == null){ return node.intValue();}  
+if(node != null && node.intValue()){ return node.intValue();}  
+if(false){ return node.intValue();}  
+if(node != null && node.hasIntValue){ return node.intValue();}  
+if(node.isNumericNode()==true){ return node.intValue();}  
+if(node.isArrayNode()==true){ return node.intValue();}  
+if(node != null && node.isNumber(){ return node.intValue();}  
+if(node.node() != null){ return node.intValue();}  
+if(node.isLeft()){ return node.intValue();}  
+if(node != null && node.isInt){ return node.intValue();}  
+if(node.getValueType() == ValueType.NUMERIC){ return node.intValue();}  
+if(node.hasIntValue() == true){ return node.intValue();}  
+if(node.isValueNode()){ return node.intValue();}  
+if(currentNumericNode() == node){ return node.intValue();}  
+if(DEBUG){ return node.intValue();}  
+if(node.isNumericType){ return node.intValue();}  
+if(node.isPositiveInteger()){ return node.intValue();}  
+if(node != null && node.isEmpty()){ return node.intValue();}  
+if(node.getValueType() == ValueType.INTEGER){ return node.intValue();}  
+if(node.getType()==NumericNode.NUMBER){ return node.intValue();}  
+if(currentNumericNode() instanceof IntegerNode){ return node.intValue();}  
+if(node != null && node.isIntegerNode){ return node.intValue();}  
+if(node.numericValue() != null){ return node.intValue();}  
+if(null != node.intValue()){ return node.intValue();}  
+if(node.isNumericValue){ return node.intValue();}  
+if(node.getValue() instanceof Number){ return node.intValue();}  
+if(node.number() != null){ return node.intValue();}  
+if(node != null && !node.isClosed){ return node.intValue();}  
+if(node != null && node.isNull()){ return node.intValue();}  
+if(node.currentNumericNode() != null){ return node.intValue();}  
+if(node.getType() == Node.NUMBER){ return node.intValue();}  
+if(node.intValue() != null){ return node.intValue();}  
+if(node.isInteger() && node != null){ return node.intValue();}  
+if(node.isInt() && node!=null){ return node.intValue();}  
+if(node.getNumericValue() > 0){ return node.intValue();}  
+if(node != null && node instanceof NumericNode){ return node.intValue();}  
+if(node.canRead(this){ return node.intValue();}  
+if(node.intValue() != -1){ return node.intValue();}  
+if(node.getNodeType() == NUMBER){ return node.intValue();}  
+if(node.isNumeric(true){ return node.intValue();}  
+if(node != null && node instanceof NumberNode){ return node.intValue();}  
+if(node.type == NUMERIC){ return node.intValue();}  
+if(node.getValue() instanceof IntegerNode){ return node.intValue();}  
+if(node!=null && node.isNumber){ return node.intValue();}  
+if(node.getNodeType() == INTEGER){ return node.intValue();}  
+if(node != null && node.isIntValue){ return node.intValue();}  
+if(node != null && node.isValue){ return node.intValue();}  
+if(node.isValueNode()==true){ return node.intValue();}  
+if(node.getValue() instanceof Integer){ return node.intValue();}  

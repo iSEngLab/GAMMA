@@ -1,0 +1,1 @@
+if (dec == null && exp == null && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {

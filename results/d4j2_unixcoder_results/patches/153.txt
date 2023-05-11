@@ -1,0 +1,2000 @@
+ clone.classNames(); return clone;  
+ clone.className = this.className;  
+ clone.classNames = classNames;  
+ clone.classList = classNames;  
+ clone.classList = this.classList;  
+ clone.parent = this;  
+ clone.id = id;  
+ clone.className = className;  
+ clone.classNames().clear;  
+ clone.classList.addAll(classList);  
+ clone.classNames();;  
+ clone.style = style;  
+ clone.classNames = null;  
+ clone.parentNode = this;  
+ clone.className = classNames;  
+ clone.element = this;  
+ clone.classNames() = classNames;  
+ clone.className = null;  
+ clone.classNames = this.class;  
+ clone.name = name;  
+ clone._parent = this;  
+ clone.classNames(true);;  
+ clone.id = this.id;  
+ clone.classList.add(className);  
+ clone.classNames(true) ;  
+ clone.classNames() == null;  
+ clone.classNames();  return;  
+ clone.className = myClassName;  
+ clone.classNames() = null;  
+ clone.tagName = tagName;  
+ clone.tagName = this.tagName;  
+ clone.attributes = attributes;  
+ clone.classList.add(className;  
+ clone.classList = classList;  
+ clone.classList = new ArrayList;  
+ clone.innerHTML = this.innerHTML;  
+ clone.element = element;  
+ clone.classList.add(thisClass;  
+ clone.tag = tag;  
+ clone.classList = clone.classList;  
+ clone.classList = classes;  
+ clone.parentElement = this;  
+ clone.classNames(true); ;  
+ clone.name = this.name;  
+ clone.classNames = classes;  
+ clone.classList.add("foo");;  
+ clone.classList.addAll(classNames;  
+ clone.classNames(); return clone;  
+ clone.classNames(false) ;  
+ clone.classList.add(thisClassName;  
+ clone.classList = null;  
+ clone.className = super.className;  
+ clone.parentNode = this.parentNode;  
+ clone.tag = this.tag;  
+ clone.html = html;  
+ clone.classNames();  return clone;  
+ clone.attributes = this.attributes;  
+ clone.classNames = false;  
+ clone.classList.addAll(classList);;  
+ clone.classNames(false);  
+ clone.style = null;  
+ clone.className = myClass;  
+ clone._element = this;  
+ clone.classNames = true;  
+ clone.classNames = new String[];  
+ clone.classNames(true) ;  
+ clone.classNames().clear();  
+ clone.addClassNames(); return clone;  
+ clone.classList.add(name);  
+ clone.parent = parent;  
+ clone.classNames(true);  
+ clone.classNames().clear() ;  
+ clone.classList.addAll(classes);  
+ clone.title = title;  
+ clone.classNames(false);;  
+ clone.classList = myClassList;  
+ clone.classList.add(className);;  
+ clone.className = ""; return clone;  
+ clone.classNames().addAll(classes;  
+ clone.classes = this.classes;  
+ clone.classNames() != null;  
+ clone.classNames = myClassNames;  
+  clone.classList = classNames;  
+ clone.classList.clear;  
+ clone.value = value;  
+ clone.classNames(null) ;  
+ clone.classList.add(classNames;  
+ clone.style = this.style;  
+ clone.classList.addAll(classList;  
+ clone.className = clazz;  
+ clone.text = this.text;  
+ clone.classNames().add(this;  
+ clone.classNames(); clone;  
+  clone.classNames = classNames;  
+ clone.classNames()  = null;  
+ clone.node = this;  
+ clone.classNames().remove();;  
+ clone.classList.add(name;  
+ clone.parentNode = null;  
+ clone.classList.remove(className);  
+ clone.classList.add("element");;  
+ clone.className = name;  
+ clone.lang = lang;  
+ clone.className = myClassNames;  
+ clone.text = text;  
+ clone.className = parent.className;  
+ clone._super = this;  
+ clone.classNames(this.class;  
+ clone.classNames().length = 0;  
+ clone.classNames = className;  
+ clone.theme = theme;  
+ clone.classList = myClassNames;  
+ clone.attrs = attrs;  
+ clone.classes = classes;  
+ clone.className = value;  
+ clone.classList.clear(); clone;  
+ clone.classList.add(class);  
+ clone.parentElement = this;  
+ clone.element = null;  
+ clone.ownerDocument = this.ownerDocument;  
+ clone.classNames();   return clone;  
+ clone.content = content;  
+ clone.children = children;  
+ clone.classNames() = this;  
+ clone.classNames(false) ;  
+ clone.classList = className;  
+ clone.el = this;  
+ clone.html = this.html;  
+ clone.classList.remove(thisClass;  
+ clone.classNames(null);;  
+ clone.tagName = tag;  
+ clone.id = null;  
+ clone.children = this.children;  
+ clone.nodeName = this.nodeName;  
+ clone.classNames(null);  
+ clone.classList = new ArrayList() ;  
+ clone.owner = this;  
+  clone.className = this.className;  
+ clone.classList;  
+ clone.className = element.className;  
+ clone.data = data;  
+ clone.classList.clear(); return clone;  
+ clone.classNames() = classes;  
+ clone.textContent = this.textContent;  
+ clone.classNames(false); ;  
+ clone.classes = classNames;  
+ clone.className = clone.className;  
+ clone.classList = super.classList;  
+  clone.classNames();;  
+ clone.view = this;  
+ clone.className = classes;  
+ clone.parent = this.parent;  
+ clone.classNames().add(name;  
+ clone.className = this.classNames;  
+ clone.classNames(null) ;  
+ if (clone != null) return clone;  
+ clone.classList.add("item");;  
+ clone.root = this;  
+ clone.classList = cloned.classList;  
+ clone.width = width;  
+ clone.tagName = null;  
+ clone.__proto__ = this;  
+ clone.baseElement = this;  
+ clone.classList = _classList;  
+ clone.classNames(""); return clone;  
+ //clone.classList = classNames;  
+ //clone.classNames(); return clone;  
+ clone.namespace = namespace;  
+ clone.classNames().forEach(clone;  
+ clone._id = _id;  
+ clone.classList.add("test");;  
+ clone.document = document;  
+ clone.parentNode = parent;  
+ clone.classList.add("class");;  
+ clone.children = null;  
+ clone.nodeType = Node.ELEMENTNODE;  
+ clone.content = this.content;  
+ clone.className = defaultClassName;  
+ clone.className = style;  
+ clone.removeFromParent(); return clone;  
+ clone.view = view;  
+ clone.classNames = classNamesList;  
+ clone.classList.clear(); return;  
+ clone.classList = new String[0;  
+ clone.clazzNames(); return clone;  
+ clone.classList.remove(name);  
+ clone.classNames().add(className;  
+ clone.classList.add(class);;  
+ clone.classNames() return clone;  
+ clone.elem = this;  
+ clone.node = node;  
+ return clone;  
+ clone.classList.add("x");;  
+ clone.removeClassNames(); return clone;  
+ clone.container = this;  
+ clone.label = label;  
+ clone.el = el;  
+ clone.classList.add(classNameString;  
+ clone.classList = clazz;  
+ clone.classNames = ClassNames;  
+ clone.tag = null;  
+ clone.attrs = this.attrs;  
+ clone.classNames().remove(this;  
+ clone.template = template;  
+ clone.classNames = CLASS_NAMES;  
+ clone.classList = parent.classList;  
+ clone.className = _className;  
+ clone.parent = null;  
+ clone.media = media;  
+ clone._parent = this._parent;  
+ clone.__super__ = this;  
+ clone.className = CLASS_NAME;  
+ clone.classNames = classNamesArray;  
+ clone.classNames().remove;  
+ clone.style.cssText = style;  
+ clone.classNames();   return;  
+ clone.childNodes.length = 0;  
+ clone._root = this;  
+ clone._parent = _parent;  
+ //clone.classNames();;  
+ clone.classNames().clear() ;  
+ clone._tag = _tag;  
+ clone.content = this;  
+ clone.classNames() = new String;  
+ clone.classList = new ClassList;  
+ clone.innerHTML = html;  
+ clone._attributes = _attributes;  
+ clone.classList.add("active");;  
+ clone.classList.removeAll(classList);  
+ clone.dom = this;  
+ clone._owner = this;  
+ clone.document = this.document;  
+ clone.tagName = name;  
+ clone.width = this.width;  
+ clone.selected = selected;  
+ clone.nodeName = nodeName;  
+ clone.classNames().remove();  
+ clone.classList.add(classNameToAdd;  
+ clone.element = this.element;  
+ clone.classList.add(name);;  
+ clone.classNames = new ArrayList;  
+ clone.classNames() ;  
+ clone.dom = dom;  
+ clone.div = div;  
+ clone._node = this;  
+ clone.className = elementClass;  
+ clone.classNames().clear().addAll;  
+  clone.classNames = null;  
+ clone.classNames().removeAll();;  
+ clone.selector = selector;  
+ clone.parent = this; clone.classNames();   
+ clone.parentNode = this; clone.classNames();   
+ clone.classList = classNames; clone.classNames();   
+ clone.element = this; clone.classNames();   
+ clone.className = this.className; clone.classNames();   
+ clone.id = id; clone.classNames();   
+ clone.classNames = true; clone.classNames();   
+ clone.style = style; clone.classNames();   
+ clone.classNames = false; clone.classNames();   
+ clone.name = name; clone.classNames();   
+ clone.classList = new ArrayList; clone.classNames();   
+ clone.className = null; clone.classNames();   
+ clone._parent = this; clone.classNames();   
+ clone.classList = this.classList; clone.classNames();   
+ clone.parentElement = this; clone.classNames();   
+ clone.tag = tag; clone.classNames();   
+ clone.classNames = null; clone.classNames();   
+ clone.tagName = tagName; clone.classNames();   
+ clone.classList = clone.classList; clone.classNames();   
+ clone.tagName = this.tagName; clone.classNames();   
+ clone.attributes = attributes; clone.classNames();   
+ clone.id = this.id; clone.classNames();   
+ clone.element = element; clone.classNames();   
+ clone.html = html; clone.classNames();   
+ clone.ownerDocument = this.ownerDocument; clone.classNames();   
+ clone.classList = null; clone.classNames();   
+ clone.classList = new ArrayList(); clone.classNames();   
+ clone.style = null; clone.classNames();   
+ clone.name = this.name; clone.classNames();   
+ clone.className = className; clone.classNames();   
+ clone.parentNode = null; clone.classNames();   
+ clone.parent = parent; clone.classNames();   
+ clone.tag = this.tag; clone.classNames();   
+ clone.classList.addAll(classList; clone.classNames();   
+ clone.innerHTML = this.innerHTML; clone.classNames();   
+ clone.classList; clone.classNames();   
+ clone.parentNode = this.parentNode; clone.classNames();   
+ clone.tagName = null; clone.classNames();   
+ clone.text = text; clone.classNames();   
+ clone.text = this.text; clone.classNames();   
+  clone.parent = this; clone.classNames();   
+ clone.classNames = classNames; clone.classNames();   
+ clone.title = title; clone.classNames();   
+ clone._element = this; clone.classNames();   
+ clone.parentElement = this; clone.classNames();   
+ clone.attributes = this.attributes; clone.classNames();   
+ clone.owner = this; clone.classNames();   
+ clone.classNames(true); clone.classNames();   
+ clone.id = null; clone.classNames();   
+ clone.element = null; clone.classNames();   
+ clone.tag = null; clone.classNames();   
+ clone.className = classNames; clone.classNames();   
+ clone.parent = null; clone.classNames();   
+ clone.classList = classes; clone.classNames();   
+ clone.classNames();; clone.classNames();   
+ clone.classNames(); ; clone.classNames();   
+ clone.document = document; clone.classNames();   
+ clone.parent = clone; clone.classNames();   
+ clone.document = this.document; clone.classNames();   
+ clone.style = this.style; clone.classNames();   
+ clone.classList = classList; clone.classNames();   
+ clone._super = this; clone.classNames();   
+ clone.node = this; clone.classNames();   
+ clone.classNames(false); clone.classNames();   
+ clone.root = this; clone.classNames();   
+ clone.tagName = "div"; clone.classNames();   
+ clone.tagName = tag; clone.classNames();   
+ clone.value = value; clone.classNames();   
+ clone.lang = lang; clone.classNames();   
+ clone.__super__ = this; clone.classNames();   
+ clone.classList = new ClassList; clone.classNames();   
+ clone.classNames(); return clone; clone.classNames();   
+ clone.classList.add(className; clone.classNames();   
+ clone.doc = doc; clone.classNames();   
+ clone.content = content; clone.classNames();   
+ clone.html = null; clone.classNames();   
+ clone.ownerDocument = this; clone.classNames();   
+ clone.children = null; clone.classNames();   
+ clone.className = super.className; clone.classNames();   
+ clone.view = this; clone.classNames();   
+ clone.template = template; clone.classNames();   
+ clone.el = this; clone.classNames();   
+ clone.html = this.html; clone.classNames();   
+ clone.classList.clear; clone.classNames();   
+ clone.nodeName = this.nodeName; clone.classNames();   
+ clone.parentNode = parent; clone.classNames();   
+ clone.children = children; clone.classNames();   
+ clone.classList = new ArrayList<>; clone.classNames();   
+ clone.parent = this.parent; clone.classNames();   
+ clone.baseElement = this; clone.classNames();   
+ clone.attributes = null; clone.classNames();   
+ clone.className = myClassName; clone.classNames();   
+ clone.el = clone; clone.classNames();   
+  clone.id = id; clone.classNames();   
+ clone.parentElement = null; clone.classNames();   
+ clone.textContent = this.textContent; clone.classNames();   
+ clone.visible = true; clone.classNames();   
+ clone.attributes = clone.attributes; clone.classNames();   
+ clone.label = label; clone.classNames();   
+ clone.element = clone; clone.classNames();   
+ clone.content = this; clone.classNames();   
+ clone.href = this.href; clone.classNames();   
+  clone.parentNode = this; clone.classNames();   
+  clone.element = this; clone.classNames();   
+  clone.classList = classNames; clone.classNames();   
+ clone.namespace = namespace; clone.classNames();   
+ clone.classNames(true);; clone.classNames();   
+ clone._parent = _parent; clone.classNames();   
+ clone.__proto__ = this; clone.classNames();   
+ clone.__parent = this; clone.classNames();   
+ clone.classList = clonedClassList; clone.classNames();   
+ clone.theme = theme; clone.classNames();   
+ clone.tagName = name; clone.classNames();   
+ clone.tagName = defaultTagName; clone.classNames();   
+ clone.classNames() = null; clone.classNames();   
+ clone.nodeName = nodeName; clone.classNames();   
+ clone.attrs = attrs; clone.classNames();   
+ clone.super = this; clone.classNames();   
+  clone.style = style; clone.classNames();   
+  clone.name = name; clone.classNames();   
+ return clone; clone.classNames();   
+ clone.view = view; clone.classNames();   
+ clone.__proto__ = null; clone.classNames();   
+ clone.nodeName = null; clone.classNames();   
+  clone.classNames = true; clone.classNames();   
+ clone.data = data; clone.classNames();   
+ copy(clone); return clone; clone.classNames();   
+ clone.div = div; clone.classNames();   
+ clone.className = clone.className; clone.classNames();   
+ clone.classList.addAll(classes; clone.classNames();   
+ clone.className = "";; clone.classNames();   
+ clone.container = this; clone.classNames();   
+ clone._owner = this; clone.classNames();   
+ clone.media = media; clone.classNames();   
+ clone.href = href; clone.classNames();   
+ clone.className(); return clone; clone.classNames();   
+ clone.firstChild = null; clone.classNames();   
+ clone.localName = this.localName; clone.classNames();   
+ clone.delegate = this; clone.classNames();   
+ clone.visible = false; clone.classNames();   
+ clone.elem = this; clone.classNames();   
+ clone.attributes = new Attributes(); clone.classNames();   
+ clone.ownerDocument = document; clone.classNames();   
+ clone.ownerDocument = ownerDocument; clone.classNames();   
+ clone = (Element) clone; clone.classNames();   
+ clone.node = node; clone.classNames();   
+ clone.el = el; clone.classNames();   
+ clone.innerHTML = html; clone.classNames();   
+ clone.parentNode = clone.parentNode; clone.classNames();   
+ clone.div = null; clone.classNames();   
+ clone.holder = this; clone.classNames();   
+ clone.tagName = tagName; clone.classNames();   
+ clone.children = this.children; clone.classNames();   
+ clone.classList.add(name; clone.classNames();   
+ clone.constructor = this; clone.classNames();   
+ clone._element = _element; clone.classNames();   
+ clone.width = width; clone.classNames();   
+ clone.tag = tagName; clone.classNames();   
+ clone.head = this; clone.classNames();   
+ clone.tagName = nodeName; clone.classNames();   
+ clone.content = this.content; clone.classNames();   
+ clone.classList = className; clone.classNames();   
+ clone.classList.clear();; clone.classNames();   
+ clone._root = this; clone.classNames();   
+ clone.selector = selector; clone.classNames();   
+ clone.classList = super.classList; clone.classNames();   
+ clone.classList = Arrays.asList; clone.classNames();   
+ clone._parent = null; clone.classNames();   
+ clone.dom = dom; clone.classNames();   
+ clone.clear(); return clone; clone.classNames();   
+ clone.styleClass = styleClass; clone.classNames();   
+ clone.document = this; clone.classNames();   
+ clone.src = src; clone.classNames();   
+ clone.tag = "div"; clone.classNames();   
+ clone.classes = classes; clone.classNames();   
+ clone.ancestor = this; clone.classNames();   
+ clone.body = body; clone.classNames();   
+ clone._node = this; clone.classNames();   
+  clone.tagName = tagName; clone.classNames();   
+ clone._parent = this._parent; clone.classNames();   
+ clone.srcElement = this; clone.classNames();   
+ clone._tag = _tag; clone.classNames();   
+ clone.attributes = new Attributes; clone.classNames();   
+ clone.type = type; clone.classNames();   
+ clone.classList = cloned.classList; clone.classNames();   
+ clone._attributes = _attributes; clone.classNames();   
+ clone.outerHTML = html; clone.classNames();   
+ clone.__super__ = null; clone.classNames();   
+ clone.model = model; clone.classNames();   
+ clone.width = this.width; clone.classNames();   
+ clone.name = null; clone.classNames();   
+ clone.classes = this.classes; clone.classNames();   
+ clone.tagName = element.tagName; clone.classNames();   
+ clone.className = defaultClassName; clone.classNames();   
+ clone._element = null; clone.classNames();   
+ clone.classList = new Array(); clone.classNames();   
+ clone.childNodes.length = 0; clone.classNames();   
+ clone.index = index; clone.classNames();   
+ clone.classNames = new ArrayList; clone.classNames();   
+ clone.classNames() == null; clone.classNames();   
+ clone.id = _id; clone.classNames();   
+ clone.cssClasses = cssClasses; clone.classNames();   
+ clone.classList = _classList; clone.classNames();   
+ clone.tagName = DEFAULT_TAG; clone.classNames();   
+ clone.dom = this; clone.classNames();   
+  clone.classList = new ArrayList; clone.classNames();   
+ clone.style.cssText = style; clone.classNames();   
+  clone.html = html; clone.classNames();   
+  clone.classNames = false; clone.classNames();   
+ clone.classes = clone.classes; clone.classNames();   
+ //clone.classNames(); ; clone.classNames();   
+ clone.classList.addAll(_classList; clone.classNames();   
+ clone.appendChild(this); clone.classNames();   
+ clone.style.cssText = null; clone.classNames();   
+ clone.children = new ArrayList; clone.classNames();   
+ clone.classList.clear(); clone.classNames();   
+ clone.classList = new Array; clone.classNames();   
+ clone.classList = new List; clone.classNames();   
+ clone.setAttribute("class", "");; clone.classNames();   
+ clone.attr("class", "");; clone.classNames();   
+ clone.classList = new NodeList; clone.classNames();   
+ clone.className = myClass; clone.classNames();   
+ clone.classList = new HashSet; clone.classNames();   
+ clone.classNames() = false; clone.classNames();   
+ clone.classList = new NodeList(); clone.classNames();   
+ clone.classNames().clear; clone.classNames();   
+ clone.parentElement = parentElement; clone.classNames();   
+ clone.classList.clear(); ; clone.classNames();   
+ clone.classNames(false);; clone.classNames();   
+ clone.style = new Style; clone.classNames();   
+  clone.classList = classList; clone.classNames();   
+ clone.classList = new HashSet(); clone.classNames();   
+ clone.classList = new ArrayList <>; clone.classNames();   
+ clone.addClassNames(true); clone.classNames();   
+ clone.classList = elementClassNames; clone.classNames();   
+ clone.children = new ArrayList(); clone.classNames();   
+ clone.style.display = DISPLAY; clone.classNames();   
+ clone.classList.addAll(this; clone.classNames();   
+ clone.classNames() = true; clone.classNames();   
+ clone.className = new String; clone.classNames();   
+ clone.style = new Style(); clone.classNames();   
+ clone.classList.add(clazz; clone.classNames();   
+ clone.classNames = new HashSet; clone.classNames();   
+ clone.parentElement = parent; clone.classNames();   
+ clone.id = id + 1; clone.classNames();   
+ clone.className = "" + className; clone.classNames();   
+ clone.nodeType = Node.ELEMENT; clone.classNames();   
+ clone.classList.addAll(children; clone.classNames();   
+ clone; clone.classNames();   
+ clone.attributes = new HashMap(); clone.classNames();   
+clone.classNames();   
+clone.addClassNames();   
+clone.classNames().remove();   
+clone.classNames().clear();   
+clone.classList.clear();   
+clone.classList.addAll();   
+clone.classList.remove();   
+clone.classList.removeAll();   
+clone.classList.addAll(classNames();   
+clone.removeClassNames();   
+clone.classNames().forEach();   
+clone.classNames().addAll();   
+clone.className = clone.classNames();   
+clone.classNames().removeAll();   
+clone.className = clone.className.trim();   
+clone.classList.trimToSize();   
+clone.classList.add(this.classNames();   
+clone.attributes.clear();   
+clone.removeFromParent();   
+clone.style.clear();   
+clone.className = super.className();   
+clone.className = this.className.trim();   
+clone.className().remove();   
+clone.classList.add();   
+clone.classList.trim();   
+clone.setClassNames();   
+clone.id = this.id.toString();   
+clone.className = super.classNames();   
+clone.addClassNames();   
+clone.style = style.clone();   
+clone.tagName = this.tagName.toLowerCase();   
+clone.classList.remove(this.classNames();   
+clone.addClassName();   
+clone.classNames().trim();   
+clone.addClasses();   
+clone.className();   
+clone.classList.addAll(getClassNames();   
+clone.className().clear();   
+clone.clearClassNames();   
+clone.classNames().trimToSize();   
+clone.classNames().addAll(classNames();   
+clone.className = this.className.toString();   
+clone.className = getClassName();   
+clone.cssClassNames();   
+clone.clear();   
+clone.classNames().add();   
+clone.cssClasses();   
+clone.id = getId();   
+clone.classList.add(this.getClassNames();   
+clone.className = super.className.trim();   
+clone.className = clone.className.toString();   
+clone.classList.addAll(classList();   
+clone.tagName = getTagName();   
+clone.className = this.className.clone();   
+clone.classNames = clone.classNames();   
+clone.className().trim();   
+clone.attributes = clone.attributes.clone();   
+clone.normalize();   
+clone.className.clear();   
+clone.classList = clone.classList.clone();   
+clone.removeClassNames();   
+clone.children.clear();   
+clone.removeClassName();   
+clone.addClassNames().clear();   
+clone.clearAttributes();   
+clone.styleClasses();   
+clone.attributes().clear();   
+clone.classNames(); clone.clear();   
+clone.style = clone.style.clone();   
+clone.classNames(); clone.classNames();   
+clone.id = id.toString();   
+clone.classList.addAll(classList); super();   
+clone.style = this.style.clone();   
+clone.addAttributes();   
+clone.tagName = tag.tagName();   
+clone.setAttributes();   
+clone.hasClassNames();   
+clone.className(); return clone; }();   
+clone.cssClasses().clear();   
+clone.attributes = this.attributes.clone();   
+clone.className = getClassNames();   
+clone.setAttributeNames();   
+clone.className = classNames();   
+clone.tag = tag.clone();   
+clone.classNames = super.classNames();   
+clone.classList.addAll(elementClassNames();   
+clone.classes().clear();   
+clone.classNames = this.classNames();   
+clone.className = clone.className.toLowerCase();   
+clone.classNames.clear();   
+clone.id = super.id();   
+clone.clear(); clone.addClassNames();   
+clone.classNames(); clone.removeAttribute();   
+clone.id(); clone.classNames();   
+clone.classes = clone.classNames();   
+clone.classNames(); clone.remove();   
+clone.classNames(); clone.normalize();   
+clone.classNames(); clone.addClassNames();   
+clone.className = this.classNames();   
+clone.classNames = classNames();   
+clone.id = id();   
+clone.classList.clear(); clone.clear();   
+clone.className.remove();   
+clone.attributes.putAll();   
+clone.classNames().pop();   
+clone.classList = clone.classList.split();   
+clone.classList.clearAll();   
+clone.classList.detach();   
+clone.tagName = element.tagName();   
+clone.name = getName();   
+clone.id = this.id();   
+clone.elementClassNames();   
+clone.tagName = super.tagName();   
+clone.className = this.className();   
+clone.remove();   
+clone.id = this.id.clone();   
+clone.classes.clear();   
+clone.classList.addAll(getClasses();   
+clone.classList.removeFromParent();   
+clone.getClassNames();   
+clone.tagName.toLowerCase();   
+clone.classList.clear(); clone.removeAttribute();   
+clone.classList.addAll(classList).remove();   
+clone.classes().remove();   
+clone.addClassNames().remove();   
+clone.classList.addAll(this.classNames();   
+clone.attributes = attributes.clone();   
+clone.tag = this.tag.clone();   
+clone.classNames().removeFromParent();   
+clone.classList.clear(); clone.normalize();   
+clone.tagName = this.tagName.toString();   
+clone.style = getStyle();   
+clone.className = cloned.className.trim();   
+clone.classList = new ArrayList();   
+clone.classList.addAll(super.classNames();   
+clone.classList.addAll(Arrays.asList();   
+clone.classNames(); clone.text();   
+clone.classList.addAll(classList.toArray();   
+clone.tagName = this.tagName.toUpperCase();   
+clone.childNodes.clear();   
+clone.tagName = tagName();   
+clone.classNames().addAll(getClassNames();   
+clone.className(clone.classNames();   
+clone.classNames(); clone.attributes();   
+clone.tagName();   
+clone.classList();   
+clone.style.remove();   
+clone.setAttributeClass();   
+clone.tagName = this.tagName();   
+clone.clearClasses();   
+clone.removeAttribute("class"); clone.removeAttribute();   
+clone.id = clone.id.toString();   
+clone.classList.addAll(classList).normalize();   
+clone.classes().removeAll();   
+clone.classList.remove(this.getClassNames();   
+clone.children = clone.children.clone();   
+clone.classList().remove();   
+clone.attrs.clear();   
+clone.style.cssText();   
+clone.classNames(); clone.cssClasses();   
+clone.attributes = new HashMap();   
+clone.classAttrs();   
+clone.tagName = clone.tagName.toLowerCase();   
+clone.classList = clone.classList.trim();   
+clone.element = super.element.clone();   
+clone.style = super.style.clone();   
+clone.addClassNames(); clone.addClassNames();   
+clone.styles.clear();   
+clone.classList.removeAllItems();   
+clone.classList.removeAll();   
+clone.clear(); clone.clear();   
+clone.classList.add(className();   
+clone.classList.addAll(classList).trim();   
+clone.addClassnames();   
+clone.id(); clone.className();   
+clone.classNames(); clone.tagName();   
+clone.styleNames();   
+clone.name = this.name.clone();   
+clone.classList.addAll(_classNames();   
+clone.classList.addAll(classes();   
+clone.classList.forEach();   
+clone.addStyleClass();   
+clone.className.trim();   
+clone.classes().addAll();   
+clone.attributes();   
+clone.id = id.clone();   
+clone.tagName = getName();   
+clone.name = this.name.toString();   
+clone.tagName = super.tagName.toLowerCase();   
+clone.classList.addAll(superClass.classNames();   
+clone.className = super.className.toString();   
+clone.className = element.className();   
+clone.classNames(); clone.className();   
+clone.name = this.name.toLowerCase();   
+clone.classNames = getClassNames();   
+clone.tagName(); clone.classNames();   
+clone.className = clone.className.clone();   
+clone.addClassNames(); clone.removeAttribute();   
+clone.nodeType = Node.ELEMENT_NODE();   
+clone.element = clone.element.clone();   
+clone.className = (String) super.className();   
+clone.className(); clone.classNames();   
+clone.classList.add(super.classNames();   
+clone.name = this.name();   
+clone.name = this.name.trim();   
+clone.id(); clone.name();   
+clone.classNames(this.classNames();   
+clone.clear(); clone.classNames();   
+clone.className = clone.className();   
+clone.classList.add(classNames();   
+clone.removeAttribute("id"); clone.removeAttribute();   
+clone.parentNode.removeChild(clone); super();   
+clone.removeAttribute("class").remove();   
+clone.classNames(); clone.outerHTML();   
+clone.className(); clone.removeAttribute();   
+clone.classList.addAll(clone.classNames();   
+clone.name = super.name();   
+clone.setAttribute("class", this.classNames();   
+clone.tagName = element.tagName.toLowerCase();   
+clone.className(); clone.tagName();   
+clone.html = this.html.clone();   
+clone.innerHTML = this.innerHTML.trim();   
+clone.classList.add("foo"); super();   
+clone.removeClassNames(); clone.addClassNames();   
+clone.className = clone.classNames().toString();   
+clone.nodeName = this.nodeName.toLowerCase();   
+clone.classNames(); clone.id();   
+clone.className(); clone.id();   
+clone.classNames(); clone.removeFromParent();   
+clone.classNames(clone.classNames();   
+clone.classList.addAll(classList); clear();   
+clone.className(); clone.className();   
+clone.className = clone.className.substring();   
+clone.className = this.className.toLowerCase();   
+clone.classList = super.classList.clone();   
+clone.classList.addAll(classList).clear();   
+clone.classNames(); clone.setAttribute();   
+clone.classList.addAll(classNames()).normalize();   
+clone.addClassNames(); clone.clear();   
+clone.classNames(); clone.render();   
+clone.classList.add(this.getClassName();   
+clone.classNames(); clone.html();   
+clone.attributes.clear(); clone.attributes();   
+clone.id = (String) super.id();   
+clone.classNames(); return clone.element();   
+clone.classList.clear(); clone.classList();   
+clone.classNames().add(classNames();   
+clone.removeAttribute("style"); clone.removeAttribute();   
+clone.addClassNames(); clone.remove();   
+clone.parent = this; clone.normalize();   
+);  clone.classNames(true);   
+);  clone.classList.add(className);   
+);  copy(clone);   
+);  clone.classList.add(name);   
+);  clone.classNames().add(name);   
+);  clone.classNames(false);   
+);  clone.addClassNames(classNames);   
+);  clone.classNames().add(this);   
+);  element.appendChild(clone);   
+);  super.classNames(clone);   
+);  copyAttributes(clone);   
+);  super.appendChild(clone);   
+);  clone.classList.add(thisClass);   
+);  clone.classList.addAll(classNames);   
+);  copy.classNames(clone);   
+);  System.out.println(clone);   
+);  this.appendChild(clone);   
+);  addClassNames(clone);   
+);  clone.classNames(null);   
+);  clone.classList.add(thisClassName);   
+);  clone.classList.add(class);   
+);  super.classNames(clone.class);   
+);  clone.classNames().add(className);   
+);  clone.classNames(this.class);   
+);  extend(clone);   
+);  //clone.classNames(true);   
+);  clone.classNames(classNames);   
+);  add(clone);   
+);  clone.classList.addAll(classList);   
+);   clone.classNames(true);   
+);  clone.id(id);   
+);  document.appendChild(clone);   
+);  setAttributes(clone);   
+);  super.addClassNames(clone.className);   
+);  document.body.appendChild(clone);   
+);  append(clone);   
+);  this.classNames(clone.class);   
+);  super.addClassNames(clone.class);   
+);   clone.classList.add(className);   
+);  super.classNames().add(clone);   
+);   clone.classList.add(name);   
+);  node.appendChild(clone);   
+);  elements.add(clone);   
+);  clone.appendChild(this);   
+);  util.inherits(clone, Element);   
+);  clone.classList.add(clazz);   
+);  copyChildren(clone);   
+);  clone.classNames().add(id);   
+);  console.log(clone);   
+);  prototype.appendChild(clone);   
+);  delete(clone);   
+);  clone.addClassNames(this.class);   
+);  Element.addClassNames(clone);   
+);  super.append(clone);   
+);  copyProperties(clone);   
+);  copyClassNames(clone);   
+);  addClass(clone);   
+);  new Element(clone);   
+);  this.classNames(clone);   
+);  merge(clone);   
+);  super.addClassNames(clone);   
+);  //clone.classNames(false);   
+);  clone.parentNode.appendChild(clone);   
+);  clone.classNames().add(value);   
+);  Element.classNames(clone);   
+);  clone.addClassNames(className);   
+);  clone.addClassNames(this.className);   
+);  parent.appendChild(clone);   
+);  this.append(clone);   
+);   clone.classNames().add();   
+);  super.add(clone);   
+);  appendChild(clone);   
+);   clone.classNames(false);   
+);  super.classNames(clone.className);   
+);  clone.classList.add(classNames);   
+);  clone.classList.add(elementClass);   
+);  clone.appendChild(element);   
+);  clone.classNames().add(class);   
+);  clone.classNames().addAll(classes);   
+);  addElement(clone);   
+);  getElement().appendChild(clone);   
+);  setElement(clone);   
+);  clone.addClassNames(myClassNames);   
+);  this.add(clone);   
+);  copyElement(clone);   
+);  classNames(clone);   
+);  clone.classNames().add(element);   
+);  set(clone);   
+);   super.classNames(clone);   
+);  cloner.clone(clone);   
+);   copy(clone);   
+);  element.classNames(clone.class);   
+);  clone.tagName(tagName);   
+);  copy(clone, this);   
+);  clone.parentNode.removeChild(clone);   
+);  clone.classNames().add(tagName);   
+);  //clone.classList.add(name);   
+);  clone.add(this);   
+);  clone.addClassNames(classes);   
+);   clone.classNames(null);   
+);  element.append(clone);   
+);  clone.classList.add(cssClass);   
+);  clone.classList.add(myClass);   
+);  clone.classList.add(value);   
+);  clone.className(this.className);   
+);  _setAttributes(clone);   
+);  addAttributes(clone);   
+);  );   
+);  //clone.classNames(null);   
+);  element.parentNode.replaceChild(clone);   
+);  //clone.classList.add(className);   
+);  extend(clone, this);   
+);  element.classNames(clone);   
+);  clone.classNames().add(prefix);   
+);   copy.classNames(clone);   
+);  addClassNames(clone);   
+);  addClass(clone);   
+);   super.addClassNames(clone);   
+);  this.classNames().add(clone);   
+);   clone.classList.add(this);   
+);  this.parentNode.appendChild(clone);   
+);   clone.classNames(true);   
+);  this.addClassNames(clone.className);   
+);   clone.addClassNames(classNames);   
+);  clone.classList.add(id);   
+);  //clone.classNames().add();   
+);  return new Element(clone);   
+);  extendElement(clone);   
+);  clone.classList.add(this.);   
+);  clone.classNames().remove(name);   
+);  clone.classNames(this.classes);   
+);  clone.addClassNames(null);   
+);  clone.append(this);   
+);  update(clone);   
+);  init(clone);   
+);  clone.classNames(classes);   
+);  //copy.classNames(clone);   
+);  wrap(clone);   
+);  clone.classNames(this);   
+);  Element.extend(clone);   
+);  this.addClassNames(clone.class);   
+);  clone.setAttribute(name, value);   
+);  clone.classList.add(namespace);   
+);  clone.classNames(myClassNames);   
+);  clone.classNames(this.className);   
+);  clone.addAttributes(attributes);   
+);   addClassNames(clone);   
+);   extend(clone);   
+);  copyClasses(clone);   
+);  clone.classList.add(myClassName);   
+);  copyFrom(clone);   
+);  super.extend(clone);   
+);  super.classNames(clone.classes);   
+);  element.parentNode.appendChild(clone);   
+);  clone.addClassNames(name);   
+);  clone.classList.addAll(classes);   
+);  copyElements(clone);   
+);  addClassName(clone);   
+);   setAttributes(clone);   
+);  //copy(clone);   
+);  clone.classNames().remove(this);   
+);  clone.classList.add(tagName);   
+);  Element.removeClassNames(clone);   
+);  addClassNames(clone.classNames);   
+);  clone.children().add(this);   
+);   super.appendChild(clone);   
+);  clone.classNames().add(clazz);   
+);  apply(clone);   
+);  clone.addClassNames(this.classes);   
+);  return $(clone);   
+);  copyAttrs(clone);   
+);  clone.classList.add(prefix);   
+);  clone.classList.remove(className);   
+);  clone.children.add(this);   
+);  copy.attributes(clone);   
+);  clone.classNames().add(namespace);   
+);  super.remove(clone);   
+);  remove(clone);   
+);  clone.classList.remove(name);   
+);  el.appendChild(clone);   
+);  template.appendChild(clone);   
+);  copy(clone, element);   
+);  newElement(clone);   
+);  clone.addClassNames(classNames);   
+);  clone.classNames(_classNames);   
+);  $(clone);   
+);  this.parentNode.replaceChild(clone);   
+);  clone.classList.add("foo"););   
+);  this.children.add(clone);   
+);  clone.css(css);   
+);  element.classNames().add(clone);   
+);  addClasses(clone);   
+);  clones(clone);   
+);  return clone.classNames(true);   
+);  Clone(clone);   
+);  clone.classList.add(this);   
+);  element.add(clone);   
+);  doc.appendChild(clone);   
+);  clone.classList.add(className);   
+);   clone.classList.add(className);   
+);   clone.classList.add(name);   
+);  clone.addClassNames(true);   
+);  extend(clone, element);   
+);   clone.classList.add(class);   
+);  this.extend(clone);   
+);  clone.classNames(this.classList);   
+);  clone.id(this.id);   
+);  clone.setAttribute("id", id);   
+);  this.addClassNames(clone);   
+);  tree.appendChild(clone);   
+);  clone.classList().add(className);   
+);  this.classNames(clone.className);   
+);  copyTags(clone);   
+);  clone.addClassNames(_classNames);   
+);  clone.parentNode.replaceChild(clone);   
+);  copy(clone.element);   
+);  element.classList.add(cloneClassName);   
+);   clone.classNames(classNames);   
+);   clone.classNames(this);   
+);  clone.classList.add(ClassName);   
+);  clone.classList.add(thisCls);   
+);  clone.addStyle(style);   
+);   copyAttributes(clone);   
+);  updateClassNames(clone);   
+);   this.classNames(clone);   
+);  //clone.addClassNames(classNames);   
+);   clone.id(id);   
+);  clone.classNames(namespace);   
+);  this.classList.add(name);   
+);  clone.classNames().add(tagname);   
+);  clone.className(classNames);   
+);  clone.classList.add(thisName);   
+);  clone.classList.add(classToAdd);   
+);  //clone.classList.add(this);   
+);  copy.classNames(clone.class);   
+);  copyTo(clone);   
+);  extend(clone, Element.classNames);   
+);  clone.classNames().add("foo);   
+);  Element clone.classNames(true);   
+);  clone.removeClassNames(classNames);   
+);  clone.classNames(new String[]);   
+);  clone.classNames(className);   
+);   clone.classList.addAll(classes);   
+);  clone.appendChild(child);   
+);  clone.addClassNames(styles);   
+);  clone.addClasses(classNames);   
+);  clone.className(className);   
+);  return clone.addClassNames(classNames);   
+);  clone.classNames().add(ClassName);   
+);  Element clone.classList.add(className);   
+ clone.classNames();   
+ clone.classNames(); clone.classNames();   
+ clone.classList.classNames();   
+  clone.classNames();   
+ clone.classNames = clone.classNames();   
+ //clone.classNames();   
+ clone.addClassNames(); clone.classNames();   
+  clone.classNames();   
+ clone.className = clone.classNames();   
+ clone.classList.addAll(super.classNames();   
+ clone.classList = clone.classList.classNames();   
+ clone.removeClassNames(); clone.classNames();   
+ clone.classList = clone.classNames();   
+ clone.className(); clone.classNames();   
+ clone.className = clone.className.classNames();   
+ clone.classList.addAll(this.classNames();   
+ clone.className = super.classNames();   
+ clone..classNames();   
+ clone.classList.addAll(clone.classNames();   
+ clone.className = this.className.classNames();   
+ clone.clear(); clone.classNames();   
+ clone.attributes.classNames();   
+ copy(clone); clone.classNames();   
+ copy.classNames();   
+ clone.style.classNames();   
+ clone.classes = clone.classNames();   
+ clone.classNames(); //clone.classNames();   
+ clone._classNames(); clone.classNames();   
+ clone.classList.add(this.classNames();   
+ clone.classNames = super.classNames();   
+ clone.element.classNames();   
+   clone.classNames();   
+ clone.attributes(); clone.classNames();   
+ clone.classes(); clone.classNames();   
+ clone.className = super.className.classNames();   
+ // clone.classNames();   
+ clone.classNames = this.classNames();   
+  clone.classList.classNames();   
+ clone.removeFromParent(); clone.classNames();   
+  clone.classList.classNames();   
+ clone.classNames(); // clone.classNames();   
+ clone = clone.classNames();   
+ clone.className = this.classNames();   
+ clone.classList.remove(this.classNames();   
+ //clone.classList.classNames();   
+ copy.classNames(); clone.classNames();   
+ clone.attributes = clone.classNames();   
+ clone.classList.addAll(element.classNames();   
+ clone.classNames();//clone.classNames();   
+ return clone.classNames();   
+ clone.setClassNames(); clone.classNames();   
+ clone.attributes = clone.attributes.classNames();   
+ clone.classNames(); return clone.classNames();   
+ clone.classList.clear(); clone.classNames();   
+ clone.classNames(); copy.classNames();   
+ clone.classList.addAll(superClass.classNames();   
+ clone.children.classNames();   
+ delete clone.classNames();   
+ clone.remove(); clone.classNames();   
+ clone.classes.classNames();   
+ clone.id = this.id.classNames();   
+ clone .classNames();   
+ clone.classList = this.classList.classNames();   
+ clone.classList = super.classList.classNames();   
+ clone.className = cloned.classNames();   
+ clone.classes = clone.classes.classNames();   
+    clone.classNames();   
+ clone.node.classNames();   
+ clone.classNames(clone.classNames();   
+ clone.className = element.classNames();   
+ clone.classNames = cloned.classNames();   
+ clone.style = style.classNames();   
+ clone.className(""); clone.classNames();   
+  //clone.classNames();   
+ clone.classList = super.classNames();   
+ clone.id(); clone.classNames();   
+ delete(clone); clone.classNames();   
+ clone.cssClasses(); clone.classNames();   
+ clone<mask1> clone.classNames();   
+ clone.classList = cloned.classNames();   
+ clone.attrs.classNames();   
+ clone.classList.removeAll(); clone.classNames();   
+ clone.childNodes.classNames();   
+ clone.addClassNames(clone.classNames();   
+ clone.tag.classNames();   
+ clone._classNames = clone.classNames();   
+   clone.classNames();   
+ clone._classList.classNames();   
+ clone.getClassNames(); clone.classNames();   
+ clone.children = clone.classNames();   
+ clone.classNames = element.classNames();   
+ clone.className();  clone.classNames();   
+  clone.classNames();   
+ clone.classList.removeAll(super.classNames();   
+ copy(clone); copy.classNames();   
+ clone.removeClassName(); clone.classNames();   
+ clone._element.classNames();   
+ newElement.classNames();   
+   clone.classNames();   
+ clone .classList.classNames();   
+ clone.tagName(); clone.classNames();   
+ clone.tagName = this.tagName.classNames();   
+ clone.attributes = this.attributes.classNames();   
+ clone.classList.addAll(classList.classNames();   
+ this.classNames = clone.classNames();   
+ clone.className.classNames();   
+ clone.addClasses(); clone.classNames();   
+ clone.classList .classNames();   
+ clone.name = this.name.classNames();   
+ clone.classNames(""); clone.classNames();   
+ clone.style = clone.classNames();   
+  clone.classNames();   
+     clone.classNames();   
+ clone.hasClassNames(); clone.classNames();   
+ clone.trim(); clone.classNames();   
+ if (clone != null) clone.classNames();   
+ clone.children(); clone.classNames();   
+ clone.setAttribute("class", clone.classNames();   
+ clone.removeAttributes(); clone.classNames();   
+ copy.classList.classNames();   
+ clone.classNames();   clone.classNames();   
+ clone.normalize(); clone.classNames();   
+  //clone.classNames();   
+ clone.classes();  clone.classNames();   
+ clone.className = parent.classNames();   
+    clone.classNames();   
+ clone.classNames()); clone.classNames();   
+ clone.className(); return clone.classNames();   
+ clone.classList.add(name.classNames();   
+ clone.classList.addAll(_classList.classNames();   
+ clone.clearAttributes(); clone.classNames();   
+ clone.setAttribute("class", this.classNames();   
+ clone.classNames();\ clone.classNames();   
+ clone.classNames() clone.classNames();   
+ clone.classes().addAll(super.classNames();   
+ cloneNode(clone); clone.classNames();   
+ clone.id = clone.classNames();   
+ clone.clone(); clone.classNames();   
+ clone.classNames(); super.classNames();   
+  return clone.classNames();   
+ clone.setAttributes(); clone.classNames();   
+ clone.classList.addAll(elements.classNames();   
+ clone.tag = this.tag.classNames();   
+ clone.classList = this.classNames();   
+ clone.classNames();  clone.classNames();   
+    clone.classNames();   
+ clone.classes().addAll(clone.classNames();   
+ clone.classList.add(element.classNames();   
+ clone.classList.addAll(parent.classNames();   
+ clone.tag = tag.classNames();   
+ clone.class = clone.classNames();   
+ merge(clone); clone.classNames();   
+ clone.setClasses(clone.classNames();   
+ clone.classes = super.classNames();   
+ clones.classNames();   
+ clone.reset(); clone.classNames();   
+ cloned.classNames();   
+ copyElement(clone); clone.classNames();   
+ clone.classList.add(super.classNames();   
+ Clone(clone); clone.classNames();   
+  clone.classNames = clone.classNames();   
+ clone.classNames(); this.classNames();   
+ clone.className = cloned.className.classNames();   
+ clone._classNames = super.classNames();   
+  copy.classNames();   
+ CloneElement(clone); clone.classNames();   
+ copyAttributes(clone); clone.classNames();   
+ clone.attrs = clone.classNames();   
+ clone._attributes = clone._attributes.classNames();   
+ clone.classList.removeAll(clone.classNames();   
+ clone.classList().addAll(super.classNames();   
+ clone.classList.remove.classNames();   
+ clone.clearClasses(); clone.classNames();   
+ clone.attrs(); clone.classNames();   
+ clone.clazzNames(); clone.classNames();   
+ clone.id = id + clone.classNames();   
+ clone.className = ""; clone.classNames();   
+   clone.classList.classNames();   
+ clone //clone.classNames();   
+ clone.classNames();   
+ clone.id = this.classNames();   
+ clone.parentNode.classNames();   
+ clone.children = clone.children.classNames();   
+ clone.classList = cloned.classList.classNames();   
+ clone.classAttrs(); clone.classNames();   
+ clone._classList = clone._classList.classNames();   
+ clone.style = clone.style.classNames();   
+  clone.classNames = clone.classNames();   
+    clone.classNames();   
+ clone.style = this.style.classNames();   
+ clone.attributes = attributes.classNames();   
+ clone.tagName = tag.classNames();   
+ clone.extend(); clone.classNames();   
+ clone.__classNames(); clone.classNames();   
+ clone.ClassNames(); clone.classNames();   
+ clone.classNames(); // cloned.classNames();   
+ clone.classList.add(...clone.classNames();   
+ clone.content.classNames();   
+ clone.styles(); clone.classNames();   
+ cloner.classNames();   
+ return clone; } clone.classNames();   
+ clone.classNames(); clone.classNames();   
+ clone.body.classNames();   
+ clone.setClassName(""); clone.classNames();   
+ clone.classList.addAll(attributes.classNames();   
+      clone.classNames();   
+ clone<mask2> clone.classNames();   
+ copy(); clone.classNames();   
+ clone.attributes = super.classNames();   
+          clone.classNames();   
+ clone.classNames = parent.classNames();   
+ clone.addClassNames(""); clone.classNames();   
+ clone.addAttributes(); clone.classNames();   
+ clone.styleClasses(); clone.classNames();   
+ clone.attributes();  clone.classNames();   
+ clone.removeClass(""); clone.classNames();   
+ clone.head.classNames();   
+ clone.elements.classNames();   
+ element.classNames();   
+ clone.classNames(); // Clone.classNames();   
+ clone.firstChild.classNames();   
+ super.classNames();   
+ 		clone.classNames();   
+ clone._attributes.classNames();   
+   clone.classNames();   
+   	clone.classNames();   
+ clone._.classNames();   
+     clone.classNames();   
+ clone.classList.remove(element.classNames();   
+ Clone.classNames();   
+ clone.classList.add(className.classNames();   
+ prototype.classNames();   
+ .classNames();   
+ snapshot.classNames();   
+ template.classNames();   
+        clone.classNames();   
+ node.classNames();   
+	clone.classNames();   
+.classNames();   
+ duplicate.classNames();   
+     clone.classNames();   
+	 clone.classNames();   
+ //clone.classNames();   
+ cloneNode.classNames();   
+      clone.classNames();   
+ scope.classNames();   
+            clone.classNames();   
+         clone.classNames();   
+ // clone.classNames();   
+ delegate.classNames();   
+if(clone==null){return  null;} clone.classNames();   
+if(clone==null){return  null;;} clone.classNames();   
+if(clone==null){return  super;} clone.classNames();   
+if(clone==null){return  super;;} clone.classNames();   
+if(clone==null){return  new Element();;} clone.classNames();   
+if(clone==null){return  this;} clone.classNames();   
+if(clone==null){return  clone;;} clone.classNames();   
+if(clone==null){return  super.clone();;} clone.classNames();   
+if(clone==null){return  clone;} clone.classNames();   
+if(clone==null){return  this;;} clone.classNames();   
+if(clone==null){return ;;} clone.classNames();   
+if(clone==null){return  null; ;} clone.classNames();   
+if(clone==null){return  new Element(this);;} clone.classNames();   
+if(clone==null){return null;} clone.classNames();   
+if(clone==null){return  null; };} clone.classNames();   
+if(clone==null){return  null;};} clone.classNames();   
+if(clone==null){return  false;;} clone.classNames();   
+if(clone==null){return  EMPTY;} clone.classNames();   
+if(clone==null){return  null; } return clone;} clone.classNames();   
+if(clone==null){return  NULL;} clone.classNames();   
+if(clone==null){return  null;};} clone.classNames();   
+if(clone==null){return null;;} clone.classNames();   
+if(clone==null){return  new Element(){};;} clone.classNames();   
+if(clone==null){return  null; ;} clone.classNames();   
+if(clone==null){return  undefined;} clone.classNames();   
+if(clone==null){return  EMPTY_ELEMENT;} clone.classNames();   
+if(clone==null){return  "";;} clone.classNames();   
+if(clone==null){return  new Element("");;} clone.classNames();   
+if(clone==null){return  null;} return clone;} clone.classNames();   
+if(clone==null){return  null;} return clone;} clone.classNames();   
+if(clone==null){return  new Element(null);;} clone.classNames();   
+if(clone==null){return  EMPTY;;} clone.classNames();   
+if(clone==null){return  newElement();;} clone.classNames();   
+if(clone==null){return  new EmptyElement();;} clone.classNames();   
+if(clone==null){return  new Element(); ;} clone.classNames();   
+if(clone==null){return  false;} clone.classNames();   
+if(clone==null){return  element;} clone.classNames();   
+if(clone==null){return  new Element(tagName);;} clone.classNames();   
+if(clone==null){return  new Element(document);;} clone.classNames();   
+if(clone==null){return  new ElementImpl();;} clone.classNames();   
+if(clone==null){return  new ElementImpl(this);;} clone.classNames();   
+if(clone==null){return  null ;;} clone.classNames();   
+if(clone==null){return  createElement();;} clone.classNames();   
+if(clone==null){return  null;  ;} clone.classNames();   
+if(clone==null){return  element;;} clone.classNames();   
+if(clone==null){return  new Element;} clone.classNames();   
+if(clone==null){return  new Element("div");;} clone.classNames();   
+if(clone==null){return  document;} clone.classNames();   
+if(clone==null){return  null; } clone;} clone.classNames();   
+if(clone==null){return  new Element(){ };;} clone.classNames();   
+if(clone==null){return  el;;} clone.classNames();   
+if(clone==null){return  nil;} clone.classNames();   
+if(clone==null){return  NULL_ELEMENT;} clone.classNames();   
+if(clone==null){return  super.clone();} clone.classNames();   
+if(clone==null){return  super.clone;} clone.classNames();   
+if(clone==null){return  super; ;} clone.classNames();   
+if(clone==null){return  {};;} clone.classNames();   
+if(clone==null){return  noop;} clone.classNames();   
+if(clone==null){return  empty;} clone.classNames();   
+if(clone==null){return  $(this);;} clone.classNames();   
+if(clone==null){return  document.createElement("div");;} clone.classNames();   
+if(clone==null){return  new Element(id);;} clone.classNames();   
+if(clone==null){return  null;} return clone;} clone.classNames();   
+if(clone==null){return  null ;} clone.classNames();   
+if(clone==null){return  undefined;;} clone.classNames();   
+if(clone==null){return  new Element(name);;} clone.classNames();   
+if(clone==null){return  null; } else { clone;} clone.classNames();   
+if(clone==null){return  el;} clone.classNames();   
+if(clone==null){return  newElement;} clone.classNames();   
+if(clone==null){return  true;;} clone.classNames();   
+if(clone==null){return  new Element(attributes);;} clone.classNames();   
+if(clone==null){return  new Element() {};;} clone.classNames();   
+if(clone==null){return  new Element(element);;} clone.classNames();   
+if(clone==null){return  super; };} clone.classNames();   
+if(clone==null){return  super.clone(); ;} clone.classNames();   
+if(clone==null){return  new Element();};} clone.classNames();   
+if(clone==null){return  new Element(); };} clone.classNames();   
+if(clone==null){return  null;} clone;} clone.classNames();   
+if(clone==null){return  NULL;;} clone.classNames();   
+if(clone==null){return  new Element(super);;} clone.classNames();   
+if(clone==null){return  new NullElement();;} clone.classNames();   
+if(clone==null){return  super.cloneNode();;} clone.classNames();   
+if(clone==null){return  document;;} clone.classNames();   
+if(clone==null){return  new Element(doc);;} clone.classNames();   
+if(clone==null){return  clone; ;} clone.classNames();   
+if(clone==null){return  NullElement;} clone.classNames();   
+if(clone==null){return  new Element(parent);;} clone.classNames();   
+if(clone==null){return  null;} clone.classList;} clone.classNames();   
+if(clone==null){return  null; } ;} clone.classNames();   
+if(clone==null){return  new Document();;} clone.classNames();   
+if(clone==null){return  super.cloneNode(true);;} clone.classNames();   
+if(clone==null){return  new Element(tag);;} clone.classNames();   
+if(clone==null){return  null;}  return clone;} clone.classNames();   
+if(clone==null){return  new Element(); ;} clone.classNames();   
+if(clone==null){return  create();;} clone.classNames();   
+if(clone==null){return super;} clone.classNames();   
+if(clone==null){return  new Element() { };;} clone.classNames();   
+if(clone==null){return  EMPTY_ELEMENT;;} clone.classNames();   
+if(clone==null){return  null;  };} clone.classNames();   
+if(clone==null){return  super; } return clone;} clone.classNames();   
+if(clone==null){return  null;} clone;} clone.classNames();   
+if(clone==null){return  emptyElement;} clone.classNames();   
+if(clone==null){return  parent;} clone.classNames();   
+if(clone==null){return  null;}};} clone.classNames();   
+if(clone==null){return  null;AST#return_statement#Right;} clone.classNames();   
+if(clone==null){return  super;};} clone.classNames();   
+if(clone==null){return  nil;;} clone.classNames();   
+if(clone==null){return  new Element();} clone.classNames();   
+if(clone==null){return  null};;} clone.classNames();   
+if(clone==null){return  this.clone();;} clone.classNames();   
+if(clone==null){return  new DomElement();;} clone.classNames();   
+if(clone==null){return  cloned;} clone.classNames();   
+if(clone==null){return  null;} clone;} clone.classNames();   
+if(clone==null){return  new Element() ;} clone.classNames();   
+if(clone==null){return  newElement(this);;} clone.classNames();   
+if(clone==null){return  new Element(elementClass);;} clone.classNames();   
+if(clone==null){return  null;  ;} clone.classNames();   
+if(clone==null){return  null; } else;} clone.classNames();   
+if(clone==null){return  new Text();;} clone.classNames();   
+if(clone==null){return  new Element(){}};} clone.classNames();   
+if(clone==null){return  newChild();;} clone.classNames();   
+if(clone==null){return   null;} clone.classNames();   
+if(clone==null){return  new Element(clone);;} clone.classNames();   
+if(clone==null){return  copy();;} clone.classNames();   
+if(clone==null){return  new Element(el);;} clone.classNames();   
+if(clone==null){return  this; };} clone.classNames();   
+if(clone==null){return this;} clone.classNames();   
+if(clone==null){return new Element();;} clone.classNames();   
+if(clone==null){return  new HtmlElement();;} clone.classNames();   
+if(clone==null){return  defaultElement;} clone.classNames();   
+if(clone==null){return  clone; };} clone.classNames();   
+if(clone==null){return  super.cloneNode(false);;} clone.classNames();   
+if(clone==null){return  new Node();;} clone.classNames();   
+if(clone==null){return  parent;;} clone.classNames();   
+if(clone==null){return  super;} return clone;} clone.classNames();   
+if(clone==null){return  new Element("", "");;} clone.classNames();   
+if(clone==null){return  new Element() ;;} clone.classNames();   
+if(clone==null){return  new Element(){;} clone.classNames();   
+if(clone==null){return  -1;} clone.classNames();   
+if(clone==null){return  document.body;} clone.classNames();   
+if(clone==null){return  original;} clone.classNames();   
+if(clone==null){return  new Element(){};;} clone.classNames();   
+if(clone==null){return  null; };} clone.classNames();   
+if(clone==null){return  $(null);;} clone.classNames();   
+if(clone==null){return  (Element) super;} clone.classNames();   
+if(clone==null){return  new EmptyElement;} clone.classNames();   
+if(clone==null){return  document.createTextNode("");;} clone.classNames();   
+if(clone==null){return  null;} ;} clone.classNames();   
+if(clone==null){return  null; return clone;} clone.classNames();   
+if(clone==null){return  null;      ;} clone.classNames();   
+if(clone==null){return  null;return clone;} clone.classNames();   
+if(clone==null){return  root;} clone.classNames();   
+if(clone==null){return  new Element(this); ;} clone.classNames();   
+if(clone==null){return  this; ;} clone.classNames();   
+if(clone==null){return  new Label();;} clone.classNames();   
+if(clone==null){return  super; ;} clone.classNames();   
+if(clone==null){return  createEmptyElement();;} clone.classNames();   
+if(clone==null){return  noop;;} clone.classNames();   
+if(clone==null){return  NONE;} clone.classNames();   
+if(clone==null){return  true;} clone.classNames();   
+if(clone==null){return  new Object();;} clone.classNames();   
+if(clone==null){return  void;} clone.classNames();   
+if(clone==null){return  null ;} clone.classNames();   
+if(clone==null){return  null;} else { clone;} clone.classNames();   
+if(clone==null){return  new Element(toString());;} clone.classNames();   
+if(clone==null){return  NO_ELEMENT;} clone.classNames();   
+if(clone==null){return  super.clone();};} clone.classNames();   
+if(clone==null){return  new Element();  ;} clone.classNames();   
+if(clone==null){return  null} return clone;} clone.classNames();   
+if(clone==null){return  empty;;} clone.classNames();   
+if(clone==null){return  Element.EMPTY;} clone.classNames();   
+if(clone==null){return  new Element() {...};;} clone.classNames();   
+if(clone==null){return  document.createElement('div');;} clone.classNames();   
+if(clone==null){return  new Element(options);;} clone.classNames();   
+if(clone==null){return  NULL_NODE;} clone.classNames();   
+if(clone==null){return  new Element(nodeName);;} clone.classNames();   
+if(clone==null){return  new Element(){}};;} clone.classNames();   
+if(clone==null){return  null;<mask1> clone;} clone.classNames();   
+if(clone==null){return  new DomElement(this);;} clone.classNames();   
+if(clone==null){return  new Element();} clone;} clone.classNames();   
+if(clone==null){return  new Element("foo");;} clone.classNames();   
+if(clone==null){return  new Element('');;} clone.classNames();   
+if(clone==null){return  new Element(true);;} clone.classNames();   
+if(clone==null){return  document.createElement(tagName);;} clone.classNames();   
+if(clone==null){return NULL;} clone.classNames();   
+if(clone==null){return  new Element(getTagName());;} clone.classNames();   
+if(clone==null){return  doc;;} clone.classNames();   
+if(clone==null){return "";;} clone.classNames();   
+if(clone==null){return  new emptyElement();;} clone.classNames();   
+if(clone==null){return  Element.NULL;} clone.classNames();   
+if(clone==null){return  null;} else;} clone.classNames();   
+if(clone==null){return  "";} clone.classNames();   
+if(clone==null){return  parent();;} clone.classNames();   
+if(clone==null){return  super();;} clone.classNames();   
+if(clone==null){return  new Element(url);;} clone.classNames();   
+if(clone==null){return  null};} clone.classNames();   
+if(clone==null){return  null.clone();;} clone.classNames();   
+if(clone==null){return  newInstance();;} clone.classNames();   
+if(clone==null){return  _;;} clone.classNames();   
+if(clone==null){return  new Element(){};} clone.classNames();   
+if(clone==null){return  clone;};} clone.classNames();   
+if(clone==null){return  new Element("", "", "");;} clone.classNames();   
+if(clone==null){return  new Element("",null);;} clone.classNames();   
+if(clone==null){return  new Element();};} clone.classNames();   
+if(clone==null){return  DEFAULT_ELEMENT;} clone.classNames();   
+if(clone==null){return  c;;} clone.classNames();   
+if(clone==null){return  new DefaultElement();;} clone.classNames();   
+if(clone==null){return  new TextElement();;} clone.classNames();   
+if(clone==null){return  0;} clone.classNames();   
+if(clone==null){return clone;;} clone.classNames();   
+if(clone==null){return  null; } else{ clone;} clone.classNames();   
+if(clone==null){return  self;} clone.classNames();   
+if(clone==null){return  new Element;;} clone.classNames();   
+if(clone==null){return  cloned;;} clone.classNames();   
+if(clone==null){return  delegate.clone();;} clone.classNames();   
+if(clone==null){return  null;} else;} clone.classNames();   
+if(clone==null){return  new ElementImpl;} clone.classNames();   
+if(clone==null){return  _super;} clone.classNames();   
+if(clone==null){return  null;} return clone;} clone.classNames();   
+if(clone==null){return  null;} else { clone;} clone.classNames();   
+if(clone==null){return  null; } else {clone;} clone.classNames();   
+if(clone==null){return  new Element {};;} clone.classNames();   
+if(clone==null){return  EmptyElement;} clone.classNames();   
+if(clone==null){return  copy;} clone.classNames();   
+if(clone==null){return  0;;} clone.classNames();   
+if(clone==null){return  EMPTY_TAG;} clone.classNames();   
+if(clone==null){return  -1;;} clone.classNames();   
+if(clone==null){return  NONE;;} clone.classNames();   
+if(clone==null){return clone;} clone.classNames();   
+if(clone==null){return  doc;} clone.classNames();   
+if(clone==null){return  super.clone(); ;} clone.classNames();   
+if(clone==null){return  new Element("", null);;} clone.classNames();   
+if(clone==null){return  null;} clone.classList;} clone.classNames();   
+if(clone==null){return  null;   };} clone.classNames();   
+if(clone==null){return  elem;} clone.classNames();   
+if(clone==null){return  null; } ;} clone.classNames();   
+if(clone==null){return  new Element(className);;} clone.classNames();   
+if(clone==null){return  me;;} clone.classNames();   
+if(clone==null){return  new ElementImpl(null);;} clone.classNames();   
+if(clone==null){return  null; } return clone;} clone.classNames();   
+if(clone==null){return ; };} clone.classNames();   
+if(clone==null){return  new Element(getElement());;} clone.classNames();   
+if(clone==null){return  new Element(false);;} clone.classNames();   
+if(clone==null){return  clone; } return clone;} clone.classNames();   
+if(clone==null){return  super.clone(); };} clone.classNames();   
+if(clone==null){return  new Element("a");;} clone.classNames();   
+if(clone==null){return  e;} clone.classNames();   
+if(clone==null){return  new Element(); } clone;} clone.classNames();   
+if(clone==null){return  new HtmlElement(this);;} clone.classNames();   
+if(clone==null){return  delegate;} clone.classNames();   
+if(clone==null){ clone=super; } clone.classNames();   
+if(clone==null){ clone= super; } clone.classNames();   
+if(clone==null){ clone=this; } clone.classNames();   
+if(clone==null){ clone=new Element; } clone.classNames();   
+if(clone==null){ clone=new Element(); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } return clone; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); }; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.classNames; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(this); } return clone; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.classList; } clone.classNames();   
+if(clone==null){ clone=new Element(this); } else { clone; } clone.classNames();   
+if(clone==null){ clone= this; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone = clone; } clone.classNames();   
+if(clone==null){ clone=super; } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.tagName; } clone.classNames();   
+if(clone==null){ clone=document.createElement("div"); } return clone; } clone.classNames();   
+if(clone==null){ clone=newElement; } clone.classNames();   
+if(clone==null){ clone= super; } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.id; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.className; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.attributes; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } return clone; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } return clone; } clone.classNames();   
+if(clone==null){ clone=document; } clone.classNames();   
+if(clone==null){ clone= new Element(); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.element; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone = clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.parent; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.text; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.name; } clone.classNames();   
+if(clone==null){ clone=super.clone; } clone.classNames();   
+if(clone==null){ clone= super.clone(); return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(this); } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(document); } return clone; } clone.classNames();   
+if(clone==null){ clone=super.clone(); return clone; } clone.classNames();   
+if(clone==null){ clone=new ElementImpl; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.tag; } clone.classNames();   
+if(clone==null){ clone=element; } clone.classNames();   
+if(clone==null){ clone=this; } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element();  } else { clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); }; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.style; } clone.classNames();   
+if(clone==null){ clone= new Element(); return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); }  return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.parentNode; } clone.classNames();   
+if(clone==null){ clone=document.createElement('div'); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.children; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.parent; } clone.classNames();   
+if(clone==null){ clone= super.clone(); }; } clone.classNames();   
+if(clone==null){ clone= super.clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.innerHTML; } clone.classNames();   
+if(clone==null){ clone=new Element(this); } clone; } clone.classNames();   
+if(clone==null){ clone=create; } clone.classNames();   
+if(clone==null){ clone= new Element(); } return clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.classNames; } clone.classNames();   
+if(clone==null){ clone=new Element(this); } return clone; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } else { return clone; } clone.classNames();   
+if(clone==null){ clone=new Element("div"); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.addClassNames; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } clone; } clone.classNames();   
+if(clone==null){ clone=super.clone(); }; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } clone; } clone.classNames();   
+if(clone==null){ clone=new Element(this); }; } clone.classNames();   
+if(clone==null){ clone= new Element(); } else { clone= clone; } clone.classNames();   
+if(clone==null){ clone=new ElementImpl(this); } return clone; } clone.classNames();   
+if(clone==null){ clone=parent; } clone.classNames();   
+if(clone==null){ clone=new Element(tagName); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element();; } clone.classNames();   
+if(clone==null){ clone=new Element(document); } else { clone; } clone.classNames();   
+if(clone==null){ clone=document.createElement("div"); }; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else; } clone.classNames();   
+if(clone==null){ clone= new Element(); } else{ clone= clone; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } else { return clone; } clone.classNames();   
+if(clone==null){ clone=super; } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element();  } return clone; } clone.classNames();   
+if(clone==null){ clone=super; return clone; } clone.classNames();   
+if(clone==null){ clone= super; return clone; } clone.classNames();   
+if(clone==null){ clone=super; } else { clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.ownerDocument; } clone.classNames();   
+if(clone==null){ clone= super; } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element();  } else{ clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.classList; } clone.classNames();   
+if(clone==null){ clone=new Element(tagName); } else { clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } else { clone = clone; } clone.classNames();   
+if(clone==null){ clone=super; } else{ clone=clone; } clone.classNames();   
+if(clone==null){ clone= new Element; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone.parent; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.cssClasses; } clone.classNames();   
+if(clone==null){ clone=document.createElement("div"); return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.content; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.tagName; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.firstChild; } clone.classNames();   
+if(clone==null){ clone= new Element(this); } return clone; } clone.classNames();   
+if(clone==null){ clone= super; } else { clone= clone; } clone.classNames();   
+if(clone==null){ clone=new ElementImpl(); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.html; } clone.classNames();   
+if(clone==null){ clone=super; } else { clone; } clone.classNames();   
+if(clone==null){ clone=this; return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(this); return clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.parent=; } clone.classNames();   
+if(clone==null){ clone=new Element("div"); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone = clone; } clone.classNames();   
+if(clone==null){ clone= super; }; } clone.classNames();   
+if(clone==null){ clone=el; } clone.classNames();   
+if(clone==null){ clone=document.createElement(tagName); } return clone; } clone.classNames();   
+if(clone==null){ clone= new Element(this); } else { clone; } clone.classNames();   
+if(clone==null){ clone=this; } clone; } clone.classNames();   
+if(clone==null){ clone=this; } else { clone=clone; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } if(clone; } clone.classNames();   
+if(clone==null){ clone= super; } else{ clone= clone; } clone.classNames();   
+if(clone==null){ clone=this; } else{ clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.parentNode; } clone.classNames();   
+if(clone==null){ clone= super; } else { clone; } clone.classNames();   
+if(clone==null){ clone=new ElementImpl(); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element();  }; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } if(clone; } clone.classNames();   
+if(clone==null){ clone=this; }; } clone.classNames();   
+if(clone==null){ clone=this; } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); clone.parent=this; } clone.classNames();   
+if(clone==null){ clone=super; }; } clone.classNames();   
+if(clone==null){ clone=super; } else { clone = clone; } clone.classNames();   
+if(clone==null){ clone= super; } else { clone = clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.parent=this; } clone.classNames();   
+if(clone==null){ clone=new Element(); }  clone; } clone.classNames();   
+if(clone==null){ clone=super; } clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.tagName; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.nodeName; } clone.classNames();   
+if(clone==null){ clone= super.clone() } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.remove; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.appendChild; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.childNodes; } clone.classNames();   
+if(clone==null){ clone=new Element(){ }; return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.classes; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.appendChild; } clone.classNames();   
+if(clone==null){ clone= super; } clone; } clone.classNames();   
+if(clone==null){ clone= super.clone(); }  return clone; } clone.classNames();   
+if(clone==null){ clone=new Element();  } clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.attributes; } clone.classNames();   
+if(clone==null){ clone=new Element(name); } return clone; } clone.classNames();   
+if(clone==null){ clone=super; } if(clone==null; } clone.classNames();   
+if(clone==null){ clone=new Element(null); } return clone; } clone.classNames();   
+if(clone==null){ clone= super; } if(clone==null; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } else{ return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.id; } clone.classNames();   
+if(clone==null){ clone=new Element(doc); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(parent); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.document; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.outerHTML; } clone.classNames();   
+if(clone==null){ clone=new Element(id); } return clone; } clone.classNames();   
+if(clone==null){ clone=this; } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.cssClass; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.className; } clone.classNames();   
+if(clone==null){ clone=new ElementImpl(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { return clone; } clone.classNames();   
+if(clone==null){ clone=Document.createElement("div"); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.removeAttribute; } clone.classNames();   
+if(clone==null){ clone=new ElementImpl(); } clone; } clone.classNames();   
+if(clone==null){ clone=newElement(); } return clone; } clone.classNames();   
+if(clone==null){ clone=createElement; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.title; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.body; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.element; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.attrs; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.removeFromParent; } clone.classNames();   
+if(clone==null){ clone=new Element(id); } else { clone; } clone.classNames();   
+if(clone==null){ clone=this; } else { clone = clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.type; } clone.classNames();   
+if(clone==null){ clone=super.clone(); }  return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.el; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.addAttributes; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } else{ return clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } else{ clone = clone; } clone.classNames();   
+if(clone==null){ clone=new Element(name); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone.tagName; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.parentElement; } clone.classNames();   
+if(clone==null){ clone=super.cloneNode(); } return clone; } clone.classNames();   
+if(clone==null){ clone=this.clone(); } return clone; } clone.classNames();   
+if(clone==null){ clone=super; } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(document); } clone; } clone.classNames();   
+if(clone==null){ clone=new Element(tagName); } clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } if(clone){; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone._parent; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.classList; } clone.classNames();   
+if(clone==null){ clone= super.cloneNode(true); } return clone; } clone.classNames();   
+if(clone==null){ clone= super.clone(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.textContent; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.elementClass; } clone.classNames();   
+if(clone==null){ clone=new Element(element); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element("div"); } clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else { clone.removeAttribute; } clone.classNames();   
+if(clone==null){ clone=new Element(parent); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(document); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone.clone; } clone.classNames();   
+if(clone==null){ clone=new DomElement; } clone.classNames();   
+if(clone==null){ clone=super.clone(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone=newElement(); return clone; } clone.classNames();   
+if(clone==null){ clone=new DomElement(); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone.remove; } clone.classNames();   
+if(clone==null){ clone=super; } else{ clone = clone; } clone.classNames();   
+if(clone==null){ clone=document.createElement; } clone.classNames();   
+if(clone==null){ clone= super.cloneNode(); } return clone; } clone.classNames();   
+if(clone==null){ clone=document.createElement('div'); }; } clone.classNames();   
+if(clone==null){ clone=div; } clone.classNames();   
+if(clone==null){ clone=newElement(); } else{ clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone._super; } clone.classNames();   
+if(clone==null){ clone=new Element(document); } else{ clone; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.element; } clone.classNames();   
+if(clone==null){ clone=new; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.name=; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone._element; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone.parentNode; } clone.classNames();   
+if(clone==null){ clone=new Element(null); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new ElementImpl(); return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } copy; } clone.classNames();   
+if(clone==null){ clone= new Element(); } clone.name; } clone.classNames();   
+if(clone==null){ clone=Document.createDiv(); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(tagName); } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.id = id; } clone.classNames();   
+if(clone==null){ clone= new Element(); } else{ clone; } clone.classNames();   
+if(clone==null){ clone= super; } else{ clone = clone; } clone.classNames();   
+if(clone==null){ clone= element; } clone.classNames();   
+if(clone==null){ clone=newElement(); } clone; } clone.classNames();   
+if(clone==null){ clone=new Element("div"); } return clone; } clone.classNames();   
+if(clone==null){ clone=new Element(element); } else { clone; } clone.classNames();   
+if(clone==null){ clone=newElement(); } else { clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } else{ clone.appendChild; } clone.classNames();   
+if(clone==null){ clone=new Element(); }else{ clone=clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.tagName=; } clone.classNames();   
+if(clone==null){ clone= super; } else{ clone; } clone.classNames();   
+if(clone==null){ clone=new Element(doc); } else { clone; } clone.classNames();   
+if(clone==null){ clone=new Element(); } clone.tag=; } clone.classNames();   
+if(clone.classNames() != null){ clone.classNames(); }  
+if(clone != null){ clone.classNames(); }  
+if(clone!=null){ clone.classNames(); }  
+if(clone.classNames()!=null){ clone.classNames(); }  
+if(clone.classList != null){ clone.classNames(); }  
+if(clone.classList){ clone.classNames(); }  
+if(clone.classNames() == null){ clone.classNames(); }  
+if(clone.classNames != null){ clone.classNames(); }  
+if(clone.classList!=null){ clone.classNames(); }  
+if( clone.classNames() != null){ clone.classNames(); }  
+if(clone.classNames()==null){ clone.classNames(); }  
+if(clone instanceof Element){ clone.classNames(); }  
+if(clone.classNames){ clone.classNames(); }  
+if(clone.className != null){ clone.classNames(); }  
+if( clone != null){ clone.classNames(); }  
+if(clone!=this){ clone.classNames(); }  
+if(clone){ clone.classNames(); }  
+if(clone.hasClassNames){ clone.classNames(); }  
+if(clone.classNames()){ clone.classNames(); }  
+if(clone.hasClassNames()){ clone.classNames(); }  
+if(clone != this){ clone.classNames(); }  
+if(clone.classNames()!= null){ clone.classNames(); }  
+if(clone.classNames == null){ clone.classNames(); }  
+if(clone.hasClassName){ clone.classNames(); }  
+if(clone.className){ clone.classNames(); }  
+if(clone.hasClassNames() != null){ clone.classNames(); }  
+if(clone.className() != null){ clone.classNames(); }  
+if(clone.classNames()!=null){ clone.classNames(); }  
+if(clone.getClassNames() != null){ clone.classNames(); }  
+if(clone.hasClass){ clone.classNames(); }  
+if(clone.hasClassNames() == false){ clone.classNames(); }  
+if(clone.classNames!=null){ clone.classNames(); }  
+if(clone.hasClassNames){ clone.classNames(); }  
+if(clone.classList == null){ clone.classNames(); }  
+if(clone.hasClassNames()!=null){ clone.classNames(); }  
+if(clone.classNames()>0){ clone.classNames(); }  
+if(clone.hasClassNames()){ clone.classNames(); }  
+if(this.classNames() != null){ clone.classNames(); }  
+if( clone.classList != null){ clone.classNames(); }  
+if( clone.classNames() == null){ clone.classNames(); }  
+if(clone!= null){ clone.classNames(); }  
+if(clone.hasClassNames() == true){ clone.classNames(); }  
+if(clone.classes() != null){ clone.classNames(); }  
+if(clone.className()!=null){ clone.classNames(); }  
+if(clone.hasClassNames()==false){ clone.classNames(); }  
+if(clone.hasChildNodes()){ clone.classNames(); }  
+if(clone.hasChildNodes){ clone.classNames(); }  
+if(clone.firstChild){ clone.classNames(); }  
+if(clone.parentNode != null){ clone.classNames(); }  
+if(clone instanceof HTMLElement){ clone.classNames(); }  
+if(clone.className!=null){ clone.classNames(); }  
+if(clone != super){ clone.classNames(); }  
+if(clone.className == null){ clone.classNames(); }  
+if(clone.hasClass){ clone.classNames(); }  
+if(clone !=null){ clone.classNames(); }  
+if(clone.hasAttributes){ clone.classNames(); }  
+if(clone.getClassNames()!=null){ clone.classNames(); }  
+if( clone!=null){ clone.classNames(); }  
+if(null != clone){ clone.classNames(); }  
+if(clone.hasClassNames() == null){ clone.classNames(); }  
+if(clone.style != null){ clone.classNames(); }  
+if(clone.attributes != null){ clone.classNames(); }  
+if(this.classNames != null){ clone.classNames(); }  
+if(clone.children.length > 0){ clone.classNames(); }  
+if(this.classNames()!=null){ clone.classNames(); }  
+if(clone.hasClass(className){ clone.classNames(); }  
+if(classNames != null){ clone.classNames(); }  
+if(clone.hasClassName()){ clone.classNames(); }  
+if(clone.parent()!=null){ clone.classNames(); }  
+if(clone.childNodes.length > 0){ clone.classNames(); }  
+if(clone.hasClassNames()==true){ clone.classNames(); }  
+if(clone.parent() != null){ clone.classNames(); }  
+if(clone.classList==null){ clone.classNames(); }  
+if(clone.children().length > 0){ clone.classNames(); }  
+if(clone.hasClassName() != null){ clone.classNames(); }  
+if(clone.classNames() != ""){ clone.classNames(); }  
+if(clone.id != null){ clone.classNames(); }  
+if(clone.length() > 0){ clone.classNames(); }  
+if( clone){ clone.classNames(); }  
+if(clone.className() == null){ clone.classNames(); }  
+if(clone.parentNode){ clone.classNames(); }  
+if(clone && clone.classNames){ clone.classNames(); }  
+if(clone.hasChildren){ clone.classNames(); }  
+if(clone == null){ clone.classNames(); }  
+if(clone.hasAttributes()){ clone.classNames(); }  
+if(clone.hasAttribute){ clone.classNames(); }  
+if(clone.isElement){ clone.classNames(); }  
+if( clone != this){ clone.classNames(); }  
+if(null!=clone){ clone.classNames(); }  
+if(clone.classNames() != undefined){ clone.classNames(); }  
+if(clone.children){ clone.classNames(); }  
+if(clone!=undefined){ clone.classNames(); }  
+if(clone.classNames==null){ clone.classNames(); }  
+if(clone.tag != null){ clone.classNames(); }  
+if( clone instanceof Element){ clone.classNames(); }  
+if( clone.classList){ clone.classNames(); }  
+if(clone.children() != null){ clone.classNames(); }  
+if(clone.tagName() != null){ clone.classNames(); }  
+if(clone.attributes.length > 0){ clone.classNames(); }  
+if(clone.tagName != null){ clone.classNames(); }  
+if(clone.elementClass != null){ clone.classNames(); }  
+if(clone.getClassNames() == null){ clone.classNames(); }  
+if(clone instanceof Node){ clone.classNames(); }  
+if(copyClassNames){ clone.classNames(); }  
+if(clone.firstChild != null){ clone.classNames(); }  
+if(clone.hasChildNodes()==false){ clone.classNames(); }  
+if(clone.isAttached()){ clone.classNames(); }  
+if( clone.classNames != null){ clone.classNames(); }  
+if(superClass != null){ clone.classNames(); }  
+if(clone.children != null){ clone.classNames(); }  
+if(clone.hasClassName() == false){ clone.classNames(); }  
+if(clone==null){ clone.classNames(); }  
+if(clone.children()!=null){ clone.classNames(); }  
+if(clone.classNames()!=undefined){ clone.classNames(); }  
+if( clone.hasClassNames()){ clone.classNames(); }  
+if(true){ clone.classNames(); }  
+if(clone.classList.contains(className){ clone.classNames(); }  
+if(clone.classList.isEmpty()){ clone.classNames(); }  
+if(clone.length > 0){ clone.classNames(); }  
+if(clone.classNames().isEmpty()){ clone.classNames(); }  
+if(clone.id() != null){ clone.classNames(); }  
+if(clone.hasAttribute("class")){ clone.classNames(); }  
+if(clone.hasClassNames()==false){ clone.classNames(); }  
+if(clone.length()>0){ clone.classNames(); }  
+if(clone.classes != null){ clone.classNames(); }  
+if(clone.classList!= null){ clone.classNames(); }  
+if(clone.classNames()==null){ clone.classNames(); }  
+if(clone.isElement()){ clone.classNames(); }  
+if(clone.classNames()!=""){ clone.classNames(); }  
+if(clone.classNames() > 0){ clone.classNames(); }  
+if(cloned != null){ clone.classNames(); }  
+if(cloned!=null){ clone.classNames(); }  
+if(clone.hasClasses()){ clone.classNames(); }  
+if(clone.tagName){ clone.classNames(); }  
+if(clone.className.length > 0){ clone.classNames(); }  
+if(clone.className().length > 0){ clone.classNames(); }  
+if(classNames() != null){ clone.classNames(); }  
+if(clone.tagName()!=null){ clone.classNames(); }  
+if(clonable){ clone.classNames(); }  
+if(clone.name != null){ clone.classNames(); }  
+if(clone.classes().length > 0){ clone.classNames(); }  
+if(parent != null){ clone.classNames(); }  
+if(clone.hasClasses){ clone.classNames(); }  
+if(copyClasses){ clone.classNames(); }  
+if(clone.hasChildren()){ clone.classNames(); }  
+if(element != null){ clone.classNames(); }  
+if(clone.attributes){ clone.classNames(); }  
+if(clones){ clone.classNames(); }  
+if(superClass!=null){ clone.classNames(); }  
+if(clone.children!=null){ clone.classNames(); }  
+if(this.classList != null){ clone.classNames(); }  
+if(clone.parentNode!=null){ clone.classNames(); }  
+if(clone.getClassNames()==null){ clone.classNames(); }  
+if(clone.id){ clone.classNames(); }  
+if(clone != element){ clone.classNames(); }  
+if(clone.hasClassName){ clone.classNames(); }  
+if(clone.elementClass() != null){ clone.classNames(); }  
+if(clone.id!=null){ clone.classNames(); }  
+if(clone.classNames() !=null){ clone.classNames(); }  
+if(clone.firstChild!=null){ clone.classNames(); }  
+if(cloned.classNames() != null){ clone.classNames(); }  
+if( clone.classNames()){ clone.classNames(); }  
+if(clone.classes){ clone.classNames(); }  
+if(clone.hasClass()){ clone.classNames(); }  
+if(false){ clone.classNames(); }  
+if( clone.classNames()!=null){ clone.classNames(); }  
+if(clone instanceof AbstractElement){ clone.classNames(); }  
+if(clone.parent != null){ clone.classNames(); }  
+if(clone.classNames() !== null){ clone.classNames(); }  
+if(clone.tagName() == null){ clone.classNames(); }  
+if(clone.hasClassNames()!= null){ clone.classNames(); }  
+if(clone.childCount() > 0){ clone.classNames(); }  
+if(clone.classes() == null){ clone.classNames(); }  
+if( clone.className != null){ clone.classNames(); }  
+if(clone.hasClassNames()!=null){ clone.classNames(); }  
+if(clone.attributes().length > 0){ clone.classNames(); }  
+if(null != clone.classNames()){ clone.classNames(); }  
+if(clone.styleClass != null){ clone.classNames(); }  
+if(clone instanceof Text){ clone.classNames(); }  
+if( !clone.classList.isEmpty()){ clone.classNames(); }  
+if(clone !== null){ clone.classNames(); }  
+if(clone.isAttached){ clone.classNames(); }  
+if(clone.attributes!=null){ clone.classNames(); }  
+if(clone.classes()!=null){ clone.classNames(); }  
+if(clone.hasClass("active")){ clone.classNames(); }  
+if(clone!=super){ clone.classNames(); }  
+if(cloned){ clone.classNames(); }  
+if(clone.addClassNames){ clone.classNames(); }  
+if( clone != super){ clone.classNames(); }  
+if(parent!=null){ clone.classNames(); }  
+if(clone instanceof Tag){ clone.classNames(); }  
+if(clone instanceof Document){ clone.classNames(); }  
+if( clone.hasClassNames()){ clone.classNames(); }  
+if(clone.hasClassNames()==null){ clone.classNames(); }  
+if(clone.hasClassName() == true){ clone.classNames(); }  
+if(clone.childNodes != null){ clone.classNames(); }  
+if(clone.nodeName != null){ clone.classNames(); }  
+if(clone.hasClassName(className){ clone.classNames(); }  
+if(clone.classList !=null){ clone.classNames(); }  
+if(clone.length>0){ clone.classNames(); }  
+if(clone.classList instanceof Array){ clone.classNames(); }  
+if(isElement(clone){ clone.classNames(); }  
+if(clone.attributes == null){ clone.classNames(); }  
+if(clone.classNames()== null){ clone.classNames(); }  
+if(clone instanceof NodeList){ clone.classNames(); }  
+if(clone.hasClassName() == null){ clone.classNames(); }  
+if(super.classNames() != null){ clone.classNames(); }  
+if(clone!= this){ clone.classNames(); }  
+if(clone.classList.length > 0){ clone.classNames(); }  
+if(clone.addClassNames() != null){ clone.classNames(); }  
+if(clone.hasChild){ clone.classNames(); }  
+if(clone!==null){ clone.classNames(); }  
+if(clone.className != ""){ clone.classNames(); }  
+if(clone.hasClassName()!=null){ clone.classNames(); }  
+if(clone.element != null){ clone.classNames(); }  
+if(clone.style!=null){ clone.classNames(); }  
+if(clone.classList != this.classList){ clone.classNames(); }  
+if(this.getClassNames() != null){ clone.classNames(); }  
+if(clone instanceof Container){ clone.classNames(); }  
+if(clone.hasClassNames() > 0){ clone.classNames(); }  
+if(clone.attributes() != null){ clone.classNames(); }  
+if(elementClassNames != null){ clone.classNames(); }  
+if(clone.checked){ clone.classNames(); }  
+if(clone.className()==null){ clone.classNames(); }  
+if( clone.className() != null){ clone.classNames(); }  
+if(clone.style){ clone.classNames(); }  
+if(clone != undefined){ clone.classNames(); }  
+if(clone.hasChildNodes() == false){ clone.classNames(); }  
+if(clone.isSVG()){ clone.classNames(); }  
+if(clone.attrs != null){ clone.classNames(); }  
+if(clone.hasClassNames()>0){ clone.classNames(); }  
+if(clone.elementClass == null){ clone.classNames(); }  
+if(clone.classNames();){ clone.classNames(); }  
+if(clone.hasClassNames())){ clone.classNames(); }  
+if(clone.elementClass()!=null){ clone.classNames(); }  
+if(clone instanceof SVGElement){ clone.classNames(); }  
+if(copy){ clone.classNames(); }  
+if(clones.length > 0){ clone.classNames(); }  
+if(clone.classNames()!=NULL){ clone.classNames(); }  
+if(clone && clone.classList){ clone.classNames(); }  
+if(clone.hasClassNames()!=false){ clone.classNames(); }  
+if( clone.classNames() != ""){ clone.classNames(); }  
+if(clone instanceof WebElement){ clone.classNames(); }  
+if(clone.classNames() instanceof String){ clone.classNames(); }  
+if(clone.hasAttr("class")){ clone.classNames(); }  
+if(clone.childCount()>0){ clone.classNames(); }  
+if(clone.hasClass(className)){ clone.classNames(); }  
+if( clone.hasClassNames() == false){ clone.classNames(); }  
+if( clone.classList!=null){ clone.classNames(); }  
+if(copyChildren){ clone.classNames(); }  

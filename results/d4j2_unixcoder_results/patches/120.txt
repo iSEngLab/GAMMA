@@ -1,0 +1,500 @@
+ return null;  
+ else;  
+ return _detectBindAndReadValues(null;  
+ else;  
+ return null; ;  
+ return null;;  
+ else { return null;  
+ return _detectBindAndReadValues(src;  
+ return null; };  
+ else return null;  
+ return readValues(src, offset, length;  
+ else { return null; };  
+ else return null;  
+ else { return _detectBindAndReadValues;  
+ else {;  
+  return null;  
+ return _bindAndReadValues(src;  
+ else { return null;  
+ return new MappingIterator<T>(null;  
+ else return null;  
+ };  
+ else { return null;  
+ else { return _detectBindAndReadValues;  
+;  
+ else return null;  
+ return _bindAndReadValues(null;  
+else;  
+ else { return null; };  
+ return new MappingIterator<T>(src;  
+ return null;  
+ return new MappingIterator(src;  
+ else { return null;  
+ ;  
+ else { return new MappingIterator(src;  
+ return new MappingIterator(null;  
+ else {;  
+ else return _detectBindAndReadValues(null;  
+ else { return new MappingIterator<T;  
+ return _read(src, offset, length;  
+ else return _detectBindAndReadValues;  
+ return null; },;  
+ return _detectBindAndReadValues(null;  
+ return _detectBindAndReadValues;  
+ else { return null; };  
+ else return _detectBindAndReadValues(src;  
+  return null; ;  
+ return null;;  
+ return new MappingIterator(null, null;  
+ return (null;  
+ return _detectBindAndReadValues(src;  
+ else { return _bindAndReadValues;  
+  return null;;  
+ else return _detectBindAndReadValues;  
+ else return _bindAndReadValues(src;  
+ return new MappingIterator(src, offset;  
+ return this;  
+ else { return _readValues(src;  
+ else { return _detectBindAndReadValues;  
+ else { return new MappingIterator(null;  
+ else return null;;  
+ return readValue(src, offset, length;  
+ else return null;;  
+ else return new MappingIterator<T;  
+ return false;  
+ return _scan(src, offset, length;  
+ return read(src, offset, length;  
+ return new MappingIterator<>(null;  
+ return new DefaultMappingIterator(src;  
+ return null; ;  
+ return _interpret(src, offset, length;  
+ return _parse(src, offset, length;  
+ return new MappingIterator(false;  
+ else{ return null;  
+ else { return _bindAndReadValues;  
+ else { return readValues(src, offset;  
+  return null; };  
+ else { return readValues(src;  
+ else { return null; };  
+ return null; });;  
+ return new MappingIterator<T>();;  
+ else { return _interpret(src;  
+ else return null;;  
+ else { return new MappingIterator<>(null;  
+ else return new MappingIterator<T;  
+ return _detectBindAndReadValues(false;  
+ else return new MappingIterator(src;  
+  return _bindAndReadValues(src;  
+ else return new MappingIterator(src;  
+ else { return _bindAndReadValues(src;  
+ else return _bindAndReadValues(src;  
+ }));;  
+ //return null;  
+ return readAll(src, offset, length;  
+ else return new MappingIterator<T>(null;  
+ });;  
+ else { return this;  
+ return _detectBindAndReadValues(_null;  
+ else return _detectBindAndReadValues;  
+ return new MappingIterator<T>(this;  
+ else return null; };  
+  };  
+ else { return _detectBindValues(src;  
+ else return _bindAndReadValues(null;  
+ return null; };  
+ },;  
+  return _bindAndReadValues(null;  
+ return null; });  
+ return new MappingIterator<T>(false;  
+ return _process(src, offset, length;  
+ else return null;;  
+ return new MappingIterator<T>() {;  
+ else { return _detectBindValues;  
+ return _readValues(src, offset;  
+ return new MappingIterator<>(src;  
+ return readData(src, offset, length;  
+  return new MappingIterator(src;  
+ return new MappingIterator<T;  
+ else { return (null;  
+ else { return new MappingIterator(false;  
+ return new MappingIterator<>(null, null;  
+ return readValues(src, offset, length;  
+ else return readValues(src;  
+ else return null; ;  
+ else { return _read(src;  
+ return null; }, null;  
+ else return _bindAndReadValues;  
+ else return new MappingIterator(src;  
+ else return new MappingIterator<T>(null;  
+  return new MappingIterator<T>(null;  
+ return _findBindAndReadValues(src;  
+ else{ return null;  
+ else { return new MappingIterator(src;  
+ return new MappingIterator(src, offset, length;  
+ else { return readValues(src;  
+ else { return _readValue(src;  
+else{ return null;  
+ return new MappingIterator<T>(null;  
+ });  
+ return findFormat(src, offset, length;  
+ else { return readValues(src, offset;  
+ return _detectBindAndReadValues("", false;  
+else{ return _detectBindAndReadValues;  
+ else return new MappingIterator<T;  
+ return _interpret(src;  
+ Return null;  
+else{;  
+ return readValues(src;  
+ else return _bindAndReadValues(src;  
+ else { return _detectBindValues(null;  
+ return null; return null;  
+ else{;  
+ return _convert(src, offset, length;  
+ return new DefaultMappingIterator(null;  
+ return new MappingIterator(this;  
+ return parse(src, offset, length;  
+ return scan(src, offset, length;  
+ else { return false;  
+ else return new MappingIterator(null;  
+ else { return new MappingIterator<>(src;  
+ else { return null;  
+ return _readValues(src;  
+ return null;   ;  
+ return _detectBindValues(null;  
+ return _detectBindAndReadValues(_parsers;  
+ else return new MappingIterator;  
+ else return null; ;  
+ else return _readValues(src;  
+ else { return new MappingIterator<T;  
+ else return null; };  
+  ;  
+ return _detectBindValues(src;  
+ else return readValues(src, offset;  
+ return getMappings(src, offset, length;  
+ return new MappingIterator(_dataFormatReaders;  
+ else return new MappingIterator(src;  
+ else { return null;  
+  return new MappingIterator(null;  
+ else { return new MappingIterator(src;  
+ else return new MappingIterator(null;  
+ return _findMappings(src;  
+ return null; return null;;  
+ else return new MappingIterator<T>(src;  
+ else return _bindAndReadValues(null;  
+return null;  
+ return new MappingIterator<T>(0;  
+  ;  
+ return new JsonMappingIterator(src;  
+ else return readValues(src, offset, length;  
+ return new MappingIterator(null, false;  
+ return readMappings(src, offset, length;  
+ else { return new DefaultMappingIterator(src;  
+  return _detectBindAndReadValues;  
+  else;  
+ */;  
+ else { return null; return null;  
+ else { return _dataFormatReaders;  
+ else { return false; };  
+ return null; //;  
+ return _detectBindAndReadValues();;  
+ ;  
+ else return new MappingIterator(null;  
+else{ return _detectBindAndReadValues;  
+ return new DefaultMappingIterator<T;  
+ else{ return _detectBindAndReadValues;  
+ else { return _readValues(src;  
+ return;  
+ return new DefaultMappingIterator(false;  
+else{ return null; };  
+ else { return _bindAndReadValues(null;  
+ }));  
+ else return new MappingIterator<>(null;  
+ else { return readValue(src;  
+ return _read(src;  
+ else return new MappingIterator<T>(src;  
+ else { return _readValues(src;  
+ else {};  
+ return null; }, false;  
+ else { return new MappingIterator;  
+ else{ return null; };  
+ else { return _read(src, offset;  
+ else return new MappingIterator(null;  
+ return Arrays.asList(null;  
+ return new MappingIterator<T>(src;  
+ else return _readValues(src;  
+ else return new MappingIterator<>(null;  
+ else { return _read(src;  
+ return new NullMappingIterator(src;  
+ else return _bindAndReadValues(null;  
+ return findMappings(src, offset, length;  
+ else { return new MappingIterator<T;  
+ return _bindAndReadValues(_null;  
+ return createMappingIterator(src;  
+ else { return _detectBindValues(src;  
+ return _detectBindAndReadValues(true;  
+ else return _interpret(src;  
+ return new MappingIterator(true;  
+ return new MappingIterator<T>();  
+ return _guessBindAndReadValues(src;  
+  return new MappingIterator<T>(src;  
+ return null; } ;  
+ return new NullMappingIterator(false;  
+ else return _detectBindAndReadValues();;  
+ else return _detectBindAndReadValues;  
+else {;  
+ return _reader.readValues(src;  
+ else return _read(src;  
+ return _detectBindAndReadValues(_reader;  
+ else { return readValue(src, offset;  
+ else { return _findMappings(src;  
+ else return new MappingIterator<>(src;  
+ else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else {; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ }; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Otherwise; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else {; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else:; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else:; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else {}; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+          else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return this; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  //return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+   ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ otherwise; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return _null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ default; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ try; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ }); return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ */; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //end; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //if; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else   return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+     ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  }; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return null }; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+else ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ ); return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Otherwise; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ */; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ for; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else{; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ otherwise; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+    else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // end; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return _defaultReader; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ ...; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ }; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else    ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+   return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return _null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ finally; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else   ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // if; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return new MappingIterator; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else returns null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else {}; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ /*else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+         ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+         else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else{; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ returns null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //#endif; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else     return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else    return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ @return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return null;; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return this; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { }; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+else {; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else   return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else :; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else throws IOException; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else //return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+else{; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ try; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else    return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return this; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else: return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else try; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else: return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+      else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else // return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  //else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //return this; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ default: null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else, return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else error; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Otherwise return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ @Override; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // end if; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else   ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ finally; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else          return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+     else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else     return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ throw new UnsupportedOperationException; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ });; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ ///; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return _reader; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+//; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ default:; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { // return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else throw new UnsupportedOperationException; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else, return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else ignore; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ for; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+   ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+//else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return _values; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return NULL; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else         ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Default implementation; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else throw new IOException; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else throw; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else {return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ elsereturn null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { ...; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+        else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { //; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+     ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  return this; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else //return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  // return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { }; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ 	else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else {?}; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+   ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else break; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else returns null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ // return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  	else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ <mask1> else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return _null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+          return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ /* else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return _defaultValue; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+         else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else          return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+@Override; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else --; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else  return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ catch; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else throw new IllegalStateException; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return true; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+//return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //end if; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  @return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else do nothing; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return this; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ this; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else{}; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+   else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ default: false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else ...; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { //return; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ /*; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  ...; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else    ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else.; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else { ... }; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else: return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else<mask1> else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ or; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else{ return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+                 else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else       return null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ } ; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Default: false; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ elsereturn; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ throw new UnsupportedOperationException(); return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ <mask2> else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ return _default; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return null;; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ //return _null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else {; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ <mask1> else; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else :; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return null;; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ throw new IOException; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+  return _null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Default behaviour; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ Object; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else return _null; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ --; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    
+ else throw new IOException; return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),    

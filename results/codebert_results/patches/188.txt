@@ -1,0 +1,750 @@
+if (isClassOrEnum) {
+if (parent.shouldKeepKeys) {
+if (canCollapseChildNames) {
+if (parent.mustKeepKeys) {
+if (parent.canCollapse) {
+if (parent.isEmpty()) {
+if (parent.shouldKeepValues) {
+if (parent.isEnum) {
+if (parent.isPrimitive) {
+if (parent.canKeepKeys) {
+if (parent.isNull()) {
+if (canCollapseChildrenNames) {
+if (parent.alwaysKeepKeys) {
+if (parent.shouldKeepChildren) {
+if (parent.isNotNull) {
+if (isObjectOrEnum) {
+if (parent.isClass()) {
+if (parent.shouldRemoveKeys) {
+if (parent.isAnnotation) {
+if (parent.isDefined) {
+if (parent.inherit) {
+if (this.parent == null) {
+if (parent.isUndefined) {
+if (parent.shouldSkipKeys) {
+if (if (parent == null) {
+if (parent.length == 0) {
+if (isMethodOrEnum) {
+if (superclass!= null) {
+if (parent.isObject()) {
+if (this.shouldKeepKeys) {
+if (parent.isSingleton) {
+if ( isClassOrEnum) {
+if (child.shouldKeepKeys) {
+if (parent.isPrototype) {
+if (parent.isBlank) {
+if (parent.isNaN) {
+if (isFunctionOrEnum) {
+if (parent.isArray()) {
+if (parent.getEmpty()) {
+if (canCollapseParentNames) {
+if (parent.deepCopy()) {
+if (parent==null && strict) {
+if (canCollapseAllKeys) {
+if (parent.shouldKeepParents) {
+if (parent.shouldKeepAttributes) {
+if (parent.isImmutable) {
+if (canCollapseKeyNames) {
+if (canCollapseMemberNames) {
+if (parent.shouldKeepNames) {
+if (parent.isNested) {
+if (parent.isAssign) {
+if (parent.shouldKeepKeys) {
+if (canCollapseNodeNames) {
+if (child!= null && child) {
+if (isStringOrEnum) {
+if (parent.isNamed) {
+if (parent.length > 0) {
+if (parent.isOwnProperty) {
+if (parent.isDeleted) {
+if (Parent.shouldKeepKeys) {
+if (IsClassOrEnum) {
+if (parent.isClosed) {
+if (isNullOrEnum) {
+if (parent.isDefault()) {
+if (canCollapseOwnKeys) {
+if (parent.isString()) {
+if (parent.isConstructor) {
+if (parent.isDot) {
+if (parent.doesKeepKeys) {
+if (parent.isGenerated) {
+if (self.shouldKeepKeys) {
+if (childParent!= null) {
+if (parent.toKeepKeys) {
+if (parent.isLeaf) {
+if (canCollapseClassNames) {
+if (parent.shouldKeepReferences) {
+if (parent.isPrimaryKey) {
+if (parent.shouldKeepTypes) {
+if (parent.value!= null) {
+if (isArrayOrEnum) {
+if ($parent!= null) {
+if (parent.forceKeepKeys) {
+if (parent.mightKeepKeys) {
+if (parent.shouldKeepKey) {
+if (parent.isSuperclass) {
+if (canCollapseOwnNames) {
+if (this.parent!= parent) {
+if (clazz!= null) {
+if (parent.isUnnamed) {
+if (parent.isCompound) {
+if (descendant!= null) {
+if (parent.isParent()) {
+if (parent.isNode()) {
+if (parent.isWildcard) {
+if (isPropertyOrEnum) {
+if (canCollapseAllChildren) {
+if (parent.isValid()) {
+if (parent.shouldKeepMethods) {
+if (parent.compare()) {
+if (parent.isRecursive) {
+if (parent.isKeyed) {
+if (parent.willKeepKeys) {
+if (parent.isBean) {
+if (declaration!= null) {
+if (parent.isEmbedded) {
+if (type == Type.OTHER) {
+if (parent.isInstance()) {
+if (parent.isForeignKey) {
+if (parent==null && recursive) {
+if (isNameOrEnum) {
+if (parent!= null && strict) {
+if (this.parent!= null) {
+if (parent.isInstruction) {
+if (null === parent.parent) {
+if (parent.doKeepKeys) {
+if ($parent!= null) {
+if (parent.isVoid) {
+if (parent.isExported) {
+if (parent.isExcluded) {
+if (parent.isFunction()) {
+if (parent.isExpr) {
+if (isMemberOrEnum) {
+if (parent.isAssociation) {
+if (parent.parent == null) {
+if (parent.isProtected) {
+if (canCollapsePropertyNames) {
+if (parent.length!= 0) {
+if (parent.isSchema) {
+if (superclass!== null) {
+if (parent.isNonNull) {
+if (parent.keepKeys()) {
+if (this.canCollapse) {
+if (this.children == null) {
+if (parent.canBeEmpty) {
+if (parent. shouldKeepKeys) {
+if (parent.canBeNull) {
+if (parent\.shouldKeepKeys) {
+if (parent.value == null) {
+if (parent.parent!= null) {
+if (canCollapseAllNames) {
+if (parent.isIdentifier) {
+if (parent.isCollection()) {
+if (childName!= null) {
+if (parent.isCallable) {
+if (childParent!= null) {
+if (parent->shouldKeepKeys) {
+if (declaration!= null) {
+if (parent.isMissing()) {
+if (parent.inherits) {
+if (parent.shouldKeepValue) {
+if (canCollapseFieldNames) {
+if (parent.isNil) {
+if (parent.key!= null) {
+if (this.keys == null) {
+if (this.mustKeepKeys) {
+if (isKeyOrEnum) {
+if (parent.isBoolean) {
+if (canCollapseEmptyNames) {
+if (parent.isEquals) {
+if (parent.getKey()) {
+if (parent.skipKeys()) {
+if (parent.allKeys()) {
+if (canCollapseObjects) {
+if (canCollapseParentKeys) {
+if (parent.canRemove()) {
+if (isFieldOrEnum) {
+if (parent.getChildren()) {
+if (parent.isTransient) {
+if (null == parent.parent) {
+if (parent.isNotEmpty) {
+if (isTagOrEnum) {
+if (parent.deep == 0) {
+if (parent.getKeys()) {
+if (parent.restoreKeys) {
+if (parent.isPublic()) {
+if (this.parent == parent) {
+if (if(parent == null) {
+if (canCollapseSubclasses) {
+if (parent.mayKeepKeys) {
+if (parent.needsCollapse) {
+if (canCollapseClasses) {
+if (canCollapseUnknownNames) {
+if (parent.isConstant) {
+if (parent.isAssigned) {
+if (parent.isAnonymous()) {
+if (parent.isSequence) {
+if (parent.isWrapped) {
+if (super.shouldKeepKeys) {
+if (childNode!= null) {
+if (parent.shouldKeepMaps) {
+if (globalSets > 0) {
+if (parent.isSlice) {
+if (parent.getAll()) {
+if (canCollapseChildName) {
+if (canCollapse(parent) {
+if (shouldKeepKeys == null) {
+if (parent.isDescendant) {
+if (parent.inherited) {
+if (parent.isVersioned) {
+if (parent.isFirstChild) {
+if (parent.isMember()) {
+if (parent.canSkipKeys) {
+if (globalSets == 0) {
+if (parent.isAllKeys) {
+if (canCollapseElementNames) {
+if (parent.isInstantiated) {
+if (parent!= null && recursive) {
+if (this.key!= key) {
+if (canCollapseChildrenName) {
+if (parent==null && parent) {
+if (parent.child!= null) {
+if (parent.isDeclared) {
+if (canCollapseEmptyKeys) {
+if (parent.empty(null) {
+if (parent.parent!= parent) {
+if (parent.shouldKeepParent) {
+if (parent.isValue()) {
+if (parent == null && strict) {
+if (parent.isDeclaration) {
+if (parent.isWrapper) {
+if (parent.size > 0) {
+if (parent.isSubclass) {
+if (parent.isNormalized) {
+if (canCollapseGlobalNames) {
+if (parent==null || strict) {
+if (parent.isModified) {
+if (canCollapseParentName) {
+if (parent.isDirective) {
+if (parent.isExact) {
+if (parent.shouldKeepTags) {
+if (parent.isUnchecked) {
+if (canCollapseParentKey) {
+if (type!= Type.OTHER) {
+if (canCollapseFields) {
+if (parent.isKeyword) {
+if (parent.isTrait) {
+if (this.key == null) {
+if (hasOwnProperty(parent) {
+if (canCollapseSimpleNames) {
+if (parent.canBeRemoved) {
+if (canCollapseKeyName) {
+if (parent.type!= type) {
+if (parent.isNonEmpty) {
+if (parent.shouldKeepContents) {
+if (parent.coversKeys) {
+if (parent.shouldKeepMembers) {
+if (parent.isEqual) {
+if (parent!= null && parent) {
+if (canCollapseChildren()) {
+if (parent.shouldKeepFiles) {
+if (isClassOrEnum null) {
+if (isClassOrEnum()) {
+if (isClassOrEnum parent) {
+if (isClassOrEnumParent) {
+if (isClassOrEnum false) {
+if (isClassOrEnum true) {
+if (parent.canCollapseKeys) {
+if (parent.canCollapseChildren) {
+if (isClassOrEnum undefined) {
+if (isClassOrEnum2) {
+if (parent.canCollapse()) {
+if (isClassOrEnum1) {
+if (parent.isClassOrInterface) {
+if (parent.shouldKeepKeys()) {
+if (isClassOrEnum strict) {
+if (canCollapseAllChildNames) {
+if (isClassOrEnum() {
+if (parent.isNull(null) {
+if (isClassOrEnum?) {
+if (parent.shouldKeepChildren()) {
+if (parent.canCollapseKey) {
+if (isClassOrEnumNull) {
+if (canCollapseUnannotated) {
+if (isClassOrEnum!) {
+if (parent.isNotNull()) {
+if (parent.mustKeepKeys()) {
+if (canCollapseChildrenNames()) {
+if (isClassOrEnumDefault) {
+if (parent.canCollapseNames) {
+if (isClassOrEnumImpl) {
+if (isClassOrEnum child) {
+if (parent.isEmpty(null) {
+if (isClassOrEnum0) {
+if (parent==null && keepKeys) {
+if (canCollapseUnknownChildNames) {
+if (isClassOrEnumnull) {
+if (parent.shouldKeepNodes) {
+if (parent.shouldKeepAllKeys) {
+if (parent.isEmpty(?)) {
+if (parent.doesNotKeepKeys) {
+if (isClassOrEnumerator) {
+if (isClassOrEnum 0) {
+if (isClassOrEnum {}) {
+if (isClassOrEnum inherited) {
+if (parent.isUndefined()) {
+if (parent.isNull (null) {
+if (isClassOrEnumObject) {
+if (parent.isClassAnnotation) {
+if (isClassOrEnum empty) {
+if (parent!= null && strict) {
+if (isClassOrEnumException) {
+if (parent.shouldKeepElements) {
+if (canCollapseChildNames()) {
+if (parent.isAnnotated) {
+if (parent!= null && strict) {
+if (parent.shouldRemoveKeys()) {
+if (isClassOrEnumFalse) {
+if (isClassOrEnumChild) {
+if (isClassOrEnumeration) {
+if (parent.isAnnotationPresent) {
+if (isClassOrEnumEmpty) {
+if (isClassOrEnum &&) {
+if (isClassOrEnum recursive) {
+if (isClassOrEnum object) {
+if (parent.isAssignable) {
+if (isClassOrEnumKey) {
+if (parent.shouldKeepNames()) {
+if (parent.canKeepKeys()) {
+if (isClassOrEnumInterface) {
+if (parent.shouldKeepClasses) {
+if (parent.shouldSkipKeys()) {
+if (isNotNull(parent))) {
+if (isClassOrEnum...) {
+if (parent.shouldKeepProperties) {
+if (isClassOrEnum??) {
+if (isClassOrEnumMap) {
+if (parent.isMember(name) {
+if (isClassOrEnumClass) {
+if (parent.canCollapseParent) {
+if (isClassOrEnumRoot) {
+if (parent.isPrimitive()) {
+if (canCollapseAllChildrenNames) {
+if (isClassOrEnum default) {
+if (isClassOrEnum ignore) {
+if (parent.isClassEnum) {
+if (canCollapseEmptyChildNames) {
+if (isClassOrEnumNode) {
+if (parent==null &&!parent) {
+if (if (parent!= null) {
+if (isClassOrEnum++) {
+if (if (parent!= null) {
+if (isClassOrEnumerated) {
+if (parent==null && isClass) {
+if (parent.shouldKeepExceptions) {
+if (parent.isWildcard()) {
+if (parent.shouldKeepEmpty()) {
+if (parent==null && preserveKeys) {
+if (isClassOrEnum final) {
+if (isClassOrEnumType) {
+if (parent.isEmpty(true) {
+if (isClassOrEnum nested) {
+if (isClassAndEnumParent) {
+if (isClassOrEnum?) {
+if (parent.isNotEmpty()) {
+if (parent == null && keepKeys) {
+if (isClassOrEnum 1) {
+if ($parent.shouldKeepKeys) {
+if (isClassOrEnum enum) {
+if (parent.shouldKeepForeignKeys) {
+if (canCollapseUnannotations) {
+if (parent.isMemberOf()) {
+if (isClassOrEnum node) {
+if (isClassOrEnum|) {
+if (parent.shouldKeepExports) {
+if (isClassOrEnum ancestor) {
+if (isClassOrEnum inherit) {
+if (parent.isNull(?)) {
+if (isClassOrEnumTag) {
+if (parent.shouldKeepValues()) {
+if (isObjectOrArray(parent) {
+if (isClassOrEnumName) {
+if (parent.shouldKeepOwners) {
+if (isClassOrEnumOnly) {
+if (or isClassOrEnum) {
+if (parent!= null && recursive) {
+if (isClassOrEnumTrue) {
+if (canCollapseOwnChildNames) {
+if (parent.isIdentifier()) {
+if (parent.shouldKeepKeywords) {
+if (isClassOrEnum3) {
+if (isClassOrEnum unknown) {
+if (parent==null ||!parent) {
+if (parent!= null && recursive) {
+if (isClassOrEnum root) {
+if (isClassOrEnum..) {
+if (isClassOrDescriptor) {
+if (parent.shouldKeepParentKeys) {
+if (parent.isEnum()) {
+if (parent.canCollapseAll) {
+if (isClassOrEnumUnknown) {
+if (isClassOrEnumMissing) {
+if (parent!= null && keepKeys) {
+if (!parent.shouldKeepKeys) {
+if (isClassOrEnum}) {
+if (parent.shouldNotKeepKeys) {
+if (parent.isEmpty(false) {
+if (parent.isKeyed()) {
+if (parent.shouldKeepAliases) {
+if (parent.isEmpty (null) {
+if (parent.canCollapseName) {
+if (parent.canCollapseObject) {
+if (isNotNull(parent)) {
+if (isClassOrEnumOverride) {
+if (parent.isEmpty( )) {
+if (not parent.shouldKeepKeys) {
+if (isClassOrEnum test) {
+if (isClassOrNoEnum) {
+if (isSuperClassOrEnum) {
+if (parent.doKeepKeys()) {
+if (parent[0]!= null) {
+if (isClassOrEnumFunction) {
+if (parent.shouldKeepVars) {
+if (isClassOrEnum static) {
+if (isSuperclassOrEnum) {
+if (isClassOrEnum ||) {
+if (isClassOrEnum (!) {
+if (isClassOrEnum!) {
+if (canCollapseAnyChildNames) {
+if (parent.shouldKeepOwns) {
+if (isClassOrEnumNone) {
+if (parent!= null && parent) {
+if (parent.isGenerated()) {
+if (isClassOrEnum loop) {
+if (parent.isConstant()) {
+if (isClassOrEnum$) {
+if (parent.isObject(null) {
+if (isClassOrEnumTest) {
+if (parent.isEmpty(...)) {
+if (isClassOrEnum...) {
+if (IsClassOrEnum parent) {
+if (parent!= null && preserveKeys) {
+if (isClassOrEnumList) {
+if (isClassOrEnum ) {
+if (isClassOrEnum[]) {
+if (parent!= null && parent) {
+if (isClassOrEnumAll) {
+if (parent.isDefined()) {
+if (parent.getParent!= null) {
+if (parent[0] == null) {
+if (isClassOrEnum error) {
+if (canCollapseNames(parent) {
+if (isClassOrEnum else) {
+if (isClassOrEnum primitive) {
+if (isClassOrEnum exists) {
+if (parent && parent.keepKeys) {
+if (parent.shouldKeepPrefix) {
+if (isClassOrEnum descendant) {
+if (canCollapseUniqueChildNames) {
+if (parent.canCollapseReferences) {
+if (isClassOrEnum invalid) {
+if (isClassOrEnum boolean) {
+if (isClass, isEnum) {
+if (isClassOrUpperBound) {
+if (isClassOrEnumInternal) {
+if (child.shouldKeepKeys()) {
+if (parent == null && preserveKeys) {
+if (parent.compare(child) {
+if (child!= null && child) {
+if (parent.shouldKeepObjects) {
+if (canCollapseMissingChildNames) {
+if (parent.shouldKeepEmptyKeys) {
+if (child!= null && child) {
+if (parent.isClass(...)) {
+if (parent.isClassOrName) {
+if (parent.alwaysKeepKeys()) {
+if (isKeywordOrEnum) {
+if (parent.shouldKeepNulls) {
+if (parent.canCollapseParents) {
+if (parent.isClass(null) {
+if (isClassOrEnumLoop) {
+if (parent.shouldKeepWildcards) {
+if (isClassOrEnum!!) {
+if (parent.shouldKeepIdentifiers) {
+if (parent.isArray(...)) {
+if (canCollapseCustomChildNames) {
+if ( isClassOrEnum()) {
+if (parent.shouldKeepDicts) {
+if (not(parent!= null) {
+if (null!== parent.parent) {
+if (parent.don'tKeepKeys) {
+if (parent.isOwnProperty()) {
+if (isClassOrEnum 2) {
+if (isClassOrEnumError) {
+if (isClassOrEnumGlobal) {
+if (parent.shouldKeepPropertyNames) {
+if (isClassOrEnum not) {
+if (parent.isClassOrString) {
+if (isClassOrConstraint) {
+if (isClassOrEnum nil) {
+if (parent!= null && isClass) {
+if (parent.isAnnotationNode) {
+if (this.shouldKeepKeys()) {
+if (parent.shouldKeepDescendants) {
+if (isClassOrEnum override) {
+if (isClassOrEnumFactory) {
+if (parent.shouldKeepSets) {
+if (parent.shouldKeepIndexes) {
+if (isClassOrEnumFlag) {
+if (parent.isPrototype()) {
+if (isClassOrEnum void) {
+if (isClassOrEnum == false) {
+if (isClassOrEnum!= true) {
+if (parent.canCollapseChildNames) {
+if (isClassOrEnum == true) {
+if (isClassOrEnum!= null) {
+if (isClassOrEnum!= false) {
+if (parent.isClassOrEnum) {
+if (isClassOrEnum === false) {
+if (canCollapseUnannotatedChildren) {
+if (canCollapseUnannotatedNames) {
+if (isClassOrEnum == null) {
+if (parent.canCollapseChildren()) {
+if (isClassOrEnum === true) {
+if (parent==null && parent.empty) {
+if (parent==null && parent!= null) {
+if (parent!= null && keepKeys) {
+if (isClassOrEnum > 0) {
+if (isClassOrEnum==null) {
+if (parent!= null && keepKeys) {
+if (isClassOrEnum==false) {
+if (canCollapseUnannotatedKeys) {
+if (parent==null && child==null) {
+if (parent!= null && preserveKeys) {
+if (parent == null && parent!= null) {
+if (parent!= null && preserveKeys) {
+if (parent==null && parent == null) {
+if (this.isClassOrEnum) {
+if (parent == null && parent == null) {
+if (isClassOrEnum!=null) {
+if (parent!= null && parent == null) {
+if (parent!= null && isClass) {
+if (isClassOrEnum && strict) {
+if (isClassOrEnum < 0) {
+if (parent!= null && isClass) {
+if (parent==null && parent.keys) {
+if (isClassOrEnum && parent) {
+if (parent && parent.shouldKeepKeys) {
+if (parent == null && child == null) {
+if (parent==null && parent!= undefined) {
+if (isClassOrEnum==true) {
+if (parent==null && parent==null) {
+if (parent!= null && parent == this) {
+if (parent!= null &&!parent) {
+if (parent>= null && keepKeys) {
+if (parent!= null && parent.empty) {
+if (parent!= null &&!parent) {
+if (parent!= null && parent.keys) {
+if (parent == null && parent!= undefined) {
+if (isClassOrEnum == 0) {
+if (parent==null && parent == this) {
+if (parent.canCollapseMemberNames) {
+if (isClassOrEnum(parent) {
+if (parent.canCollapseNodeNames) {
+if (parent.canCollapseAllKeys) {
+if (canCollapseUnannotatedName) {
+if (parent==null && parent==parent) {
+if (parent.canCollapseKeyNames) {
+if (parent == null || parent == null) {
+if (this.canCollapseChildNames) {
+if (parent.canCollapseOwnKeys) {
+if (parent>= null && preserveKeys) {
+if (parent==null && parent.prototype) {
+if (child.isClassOrEnum) {
+if (parent==null && parent!= parent) {
+if (isClassOrEnum (!parent) {
+if (parent.canCollapsePropertyNames) {
+if (isClassOrEnum == 1) {
+if (isClassOrEnum <= 0) {
+if (parent!= null && parent!= undefined) {
+if (parent == null && parent == this) {
+if (isClassOrEnum&&parent) {
+if (parent==null && this==parent) {
+if (parent == null && parent!= parent) {
+if (parent!= null && isFunction) {
+if (parent==null && parent.clone) {
+if (parent==null && parent.children) {
+if (parent==null && parent!= this) {
+if (parent == null && parent.empty) {
+if (parent!= null && parent.clone) {
+if (parent>= null && isClass) {
+if (parent==null && node==null) {
+if (parent==null && child == null) {
+if (parent!= null && isFunction) {
+if (parent==null || parent == null) {
+if (parent == null && child!= null) {
+if (parent==null &&!keepKeys) {
+if ( isClassOrEnum == false) {
+if (parent!= null && parent!= null) {
+if (if (!parent.shouldKeepKeys) {
+if (isClassOrEnum!=true) {
+if (parent->canCollapseChildNames) {
+if (parent!= null && isArray) {
+if (not(parent.shouldKeepKeys) {
+if (isClassOrEnum > 1) {
+if (parent == null || parent == undefined) {
+if (parent!= null && parent!= this) {
+if (parent!= null && parent == undefined) {
+if (isClassOrEnum && recursive) {
+if (parent==null && parent.key) {
+if (parent!= null && isArray) {
+if (parent == null || parent == this) {
+if (parent.canCollapseChildrenNames) {
+if (parent.canCollapseAllChildren) {
+if (child.canCollapseChildNames) {
+if (if (isClassOrEnum) {
+if (parent&&parent.shouldKeepKeys) {
+if (parent==null && parent.parent) {
+if (parent==null && parent == parent) {
+if (parent==null && parent == undefined) {
+if (parent === null && parent == null) {
+if (parent==null &&!isClass) {
+if (isClassOrEnum=false) {
+if (parent==null && parent.reverse) {
+if (super.canCollapseChildNames) {
+if (parent == null && parent == parent) {
+if (parent == null && parent!= this) {
+if (parent==null && parent.null) {
+if (isClassOrEnum && false) {
+if (parent.canCollapseChildNames) {
+if (parent.canCollapseClassNames) {
+if (not (parent.shouldKeepKeys) {
+if (parent==null && ancestor==null) {
+if (parent == null && parent.keys) {
+if (parent == null &&!keepKeys) {
+if (isClassOrEnum!==) {
+if (parent.canCollapseParent()) {
+if (parent.canCollapseParentNames) {
+if (parent!= null && parent.prototype) {
+if (isClassOrEnum>0) {
+if (parent!= null && isObject) {
+if (parent!= null && parent.children) {
+if (parent === null && child === null) {
+if (parent.canCollapseSubclasses) {
+if (parent.canCollapseKeywords) {
+if (parent === null && parent!= null) {
+if (parent==null || parent == this) {
+if (isClassOrEnum === null) {
+if (isClassOrEnum || strict) {
+if (canCollapseUnannotatedAttributes) {
+if (parent=null && parent == null) {
+if (isClassOrEnum >= 0) {
+if (parent!= null && isObject) {
+if (parent!= null && isInterface) {
+if (parent==null && child!= null) {
+if (parent.canCollapseChildName) {
+if (if (parent.shouldKeepKeys) {
+if (canCollapseUnannotatedChild) {
+if (parent!= null && parent.reverse) {
+if (parent!= null && isInterface) {
+if (parent == null && this == parent) {
+if (parent == null &&!isClass) {
+if (null === parent.getTwin) {
+if (parent === null && parent!= undefined) {
+if (parent == null && parent == undefined) {
+if (parent!= null && parent == parent) {
+if (child!= null &&!child) {
+if (isClassOrEnum!parent) {
+if (parent==parent.getParent()) {
+if (collapseUnannotatedChildNames) {
+if (isObjectOrEnum(parent) {
+if (parent==null && this == parent) {
+if (parent.canCollapseFieldNames) {
+if (parent === null && parent.empty) {
+if (parent == null && canCollapse) {
+if (parent!= null && parent!= parent) {
+if (parent.canCollapseForeignKeys) {
+if (parent>= null &&!parent) {
+if (parent==null || parent == undefined) {
+if (isClassOrEnum && true) {
+if (parent==null && parent.remove) {
+if (parent==null && parent==this) {
+if (parent.canCollapseClasses) {
+if (Parent.canCollapseChildNames) {
+if (parent.canCollapseOwnNames) {
+if (parent == null && ancestor == null) {
+if (parent!= null && parent.remove) {
+if (hasOwnProperty(parent, name) {
+if (parent->isClassOrEnum) {
+if (parent==null || parent==null) {
+if (parent!= null && parent.key) {
+if (parent == null && node == null) {
+if (isClass/Enum == false) {
+if (isClassOrEnum!null) {
+if (parent!= null && child == null) {
+if (parent === null || parent == undefined) {
+if (canCollapseUnannotatedKey) {
+if (parent==null || parent.empty) {
+if ( isClassOrEnum!= true) {
+if (parent==null && parent.leaf) {
+if (child!= null &&!child) {
+if (parent==null && canCollapse) {
+if (parent.canCollapseObjects) {
+if (parent!= null && preserveKey) {
+if (parent!= null && isCollection) {
+if (parent!= null &&!child) {
+if (parent!== null && keepKeys) {
+if (parents.canCollapseChildNames) {
+if (parent!= null && isStatic) {
+if (parent == null && cannotCollapse) {
+if (parent === null && parent === undefined) {
+if (super.isClassOrEnum) {
+if (parent == null && parent.prototype) {
+if (parent === null || parent == null) {
+if (parent<>null &&!parent) {
+if (parent!= null &&!reverse) {
+if (isClassOrEnum == 2) {
+if (parent==null && parent === undefined) {
+if (parent!= null && preserveKey) {
+if (parent!= null && isCollection) {
+if (parent!= null && isMember) {
+if (parent.canCollapseNewKeys) {
+if (parent\.isClassOrEnum) {
+if (isClassOrEnum=true) {
+if (parent!= null &&!child) {
+if (parent!== null && keepKeys) {
+if (parent!= null && isStatic) {
+if (canCollapseUnnotatedChildren) {
+if (type==null && parent==null) {
+if (isClassOrEnum && nested) {
+if (parent==null && parent.name) {
+if (child == null && parent == null) {
+if (isClassOrEnum is false) {
+if (parent!= null &&!key) {
+if (isStringOrEnum(parent) {
+if (parent == null && shouldKeepKeys) {
+if (parent === null && parent == this) {
+if (parent == null && notKeepKeys) {
+if (parent>.canCollapseChildNames) {
+if (parent!= null &&!reverse) {
+if (isClassOrEnum!=false) {
+if (parent!= null && parent.parent) {
+if (null && parent.shouldKeepKeys) {
+if (parent === null && parent.keys) {
+if (parent || parent.shouldKeepKeys) {
+if (isClassOrEnum!=) {
+if (parent === null || parent === undefined) {
+if (parent == null && parent!= child) {
+if (parent!= null && isMember) {
+if (parent=null && parent!= null) {
+if (not null && parent!= null) {
+if (parent.canCollapseAllNames) {
+if (parent::canCollapseChildNames) {
+if (parent==null && parent.delete) {
+if (parent == null && this == null) {
+if (parent == null && parent.clone) {
+if (self.isClassOrEnum) {
+if (parent.shouldKeepKeys == null) {
+if (parent!= null &&!key) {
+if (parent==null && this==null) {
+if (parent&& parent.shouldKeepKeys) {

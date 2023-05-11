@@ -1,0 +1,250 @@
+if(js.length() == 0){return null;}
+if(js.length == -1){return null;}
+if(js.empty(pos)){return null;}
+if(js.isEmpty(js){return null;}
+if(js.length() > 0){return null;}
+if(js.length() < pos){return null;}
+if(js.isEmpty(?)){return null;}
+if(js.length > lastLine){return null;}
+if(js.length () == 0){return null;}
+if(js.length!=lastLine){return null;}
+if(js.isEmpty()){return null;}
+if(js.length() < 1){return null;}
+if(js.length()!=pos){return null;}
+if(js.isEmpty(pos){return null;}
+if(js.isEmpty(")){return null;}
+if(js.length() <= pos){return null;}
+if(js.length == lastLine){return null;}
+if(js.isEmpty(...)){return null;}
+if(js.isEmpty())){return null;}
+if(js.length(pos)){return null;}
+if(js.empty(pos))){return null;}
+if(pos == '\n'){return null;}
+if(js.length() > pos){return null;}
+if(pos == lastLine - 1){return null;}
+if(js.length (pos)){return null;}
+if(js.isEmpty(')){return null;}
+if(js.length == lineNumber){return null;}
+if(js.length > lineNumber){return null;}
+if(length(js) == 0){return null;}
+if(js.indexOf == pos){return null;}
+if(js.length() < 2){return null;}
+if(js.isEmpty( )){return null;}
+if(js.length() > 1){return null;}
+if(js.isEmpty (?)){return null;}
+if(js.length < lastLine){return null;}
+if(pos == js.length()){return null;}
+if(pos == lineNumber - 1){return null;}
+if(JS.isEmpty(js){return null;}
+if(js == '\n'){return null;}
+if(js.isEmpty ()){return null;}
+if(js.emptyAt(pos){return null;}
+if(js.length === -1){return null;}
+if(pos > lastLine + 1){return null;}
+if(js.indexOf!=pos){return null;}
+if(js.isEmpty (")){return null;}
+if(js.length!=lineNumber){return null;}
+if(if(pos == -1){return null;}
+if(js.length < lineNumber){return null;}
+if(pos!=js.length()){return null;}
+if(js.isEmpty(())){return null;}
+if(pos > lastLine - 1){return null;}
+if(j.length() == 0){return null;}
+if(pos == lastLine + 1){return null;}
+if(js.isEmpty(()){return null;}
+if(pos > lastOffset + 1){return null;}
+if(len(js) == 0){return null;}
+if(null === js.substring){return null;}
+if(js.empty?(pos){return null;}
+if(js.substring == null){return null;}
+if(js.length() == pos){return null;}
+if(javascript.isEmpty(js){return null;}
+if(js.isEmpty ())){return null;}
+if(js.isEmpty (...)){return null;}
+if(js.isEmpty ( )){return null;}
+if(pos < js.length()){return null;}
+if(js.indexOf == 0){return null;}
+if(pos === js.length()){return null;}
+if(js.length!= lastLine){return null;}
+if(pos >= js.length()){return null;}
+if(pos == -1.length){return null;}
+if(js.indexOf(null){return null;}
+if(json.isEmpty(js){return null;}
+if(js.length() == 1){return null;}
+if(js.length() === 0){return null;}
+if(pos < lastLine - 1){return null;}
+if(js.length () > 0){return null;}
+if(js.space(pos)){return null;}
+if(js.isEmpty(_)){return null;}
+if(js.length()!= pos){return null;}
+if(if (pos == -1){return null;}
+if(js.pos(pos)){return null;}
+if(js.isEmpty('')){return null;}
+if(js.strip(pos)){return null;}
+if(js.length == 0..){return null;}
+if(js.length() <= 0){return null;}
+if(pos == lastOffset + 1){return null;}
+if(js!= '\n'){return null;}
+if(js.empty (pos)){return null;}
+if(js.hasLength(pos){return null;}
+if(js.lastIndex < 0){return null;}
+if(js.isEmpty(_))){return null;}
+if(js.equals(null){return null;}
+if(js.lastLine == pos){return null;}
+if(js.count() == 0){return null;}
+if(js.length (!== pos){return null;}
+if(js.isEmpty (')){return null;}
+if(js.length () < pos){return null;}
+if(js.size() == 0){return null;}
+if(js.length() < 0){return null;}
+if(js.length(): == 0){return null;}
+if(js.isEmpty (js){return null;}
+if(js.length () < 1){return null;}
+if(js === '\n'){return null;}
+if(null === js[pos]){return null;}
+if(code == '\n'){return null;}
+if(js.isEmpty(.)){return null;}
+if(js.length <= lastLine){return null;}
+if(pos > js.length()){return null;}
+if(js.length() < 5){return null;}
+if(js.indexOf === pos){return null;}
+if(pos == startLine - 1){return null;}
+if(js.isEmpty(...){return null;}
+if(js.length === lastLine){return null;}
+if(js.length() < 3){return null;}
+if(js.isEmpty()	){return null;}
+if(js.length()>0){return null;}
+if(js.isEmpty(''){return null;}
+if(pos + 1 == lastLine){return null;}
+if(css.isEmpty(js){return null;}
+if(js.indexOf==pos){return null;}
+if(pos == "\n"){return null;}
+if(js == null ||!js){return null;}
+if(js.length()!=0){return null;}
+if(nextpos == -1 //){return null;}
+if(pos < lastOffset + 1){return null;}
+if(pos >= lastLine - 1){return null;}
+if(js.length() < 4){return null;}
+if(js.substring(pos){return null;}
+if(js.indexOf === 0){return null;}
+if(nextpos == -1	){return null;}
+if(js.lastIndex > pos){return null;}
+if(pos==js.length()){return null;}
+if(json.empty(js)){return null;}
+if(pos == currentLine - 1){return null;}
+if(pos === '\n'){return null;}
+if(js.isEmpty(css){return null;}
+if(js.isEmpty() //){return null;}
+if(null == js.substring){return null;}
+if(js.empty((pos))){return null;}
+if(js.charAt(pos){return null;}
+if(js.length>lastLine){return null;}
+if(js.count(pos)){return null;}
+if(js.isEmpty(); //){return null;}
+if(js.isEmpty()++){return null;}
+if(pos < lastLine + 1){return null;}
+if(js.indexOf = pos){return null;}
+if(js.indexOf == null){return null;}
+if(length(js) < pos){return null;}
+if(js.lastIndex == pos){return null;}
+if(js.length > lastOffset){return null;}
+if(js.length()==0){return null;}
+if(pos == this.lastOffset){return null;}
+if(getCode() == -1){return null;}
+if(lastLine == -1 //){return null;}
+if(js.length > lastLength){return null;}
+if(js.length is -1){return null;}
+if(js.empty(pos )){return null;}
+if(pos == len(js)){return null;}
+if(js.emptyString(pos){return null;}
+if(js.end (pos)){return null;}
+if(js.length ()!=pos){return null;}
+if(js.indexOf > pos){return null;}
+if(js.hasNextLine()){return null;}
+if(js.lastLine!=pos){return null;}
+if(js.emptyText(pos){return null;}
+if(js.isEmpty (pos){return null;}
+if(js.lastLine > pos){return null;}
+if(js.indexOf == ''){return null;}
+if(js.length()!=1){return null;}
+if(js.length () <= pos){return null;}
+if(js.undefined(js){return null;}
+if(js.length () > pos){return null;}
+if(js.length == +1){return null;}
+if(js.contains(null){return null;}
+if(js.length === lineNumber){return null;}
+if(js.indexOf == ""){return null;}
+if(js == \"\n\"){return null;}
+if(nextpos == -1//){return null;}
+if(js.lastIndex < pos){return null;}
+if(js.compact(pos){return null;}
+if($lastLine == -1){return null;}
+if(js.indexOf <= pos){return null;}
+if(js.find(pos)){return null;}
+if(null==js[pos]){return null;}
+if(lastLine == -1	){return null;}
+if(js.lastIndex!=pos){return null;}
+if(pos >= lastLine + 1){return null;}
+if(pos == lastOffset - 1){return null;}
+if(0 == lastLine - 1){return null;}
+if(javascript.length() == 0){return null;}
+if(j.length == -1){return null;}
+if(js.length() > 2){return null;}
+if(length (js) == 0){return null;}
+if(pos > lastOffset - 1){return null;}
+if(js.isEmpty(/)){return null;}
+if(js.length!== pos){return null;}
+if(js.emptyNode(js){return null;}
+if(js.indexOf < pos){return null;}
+if(js.isEmpty(})){return null;}
+if(js.isEmpty();	){return null;}
+if(ss.isEmpty(js){return null;}
+if(js === null ||!js){return null;}
+if(js.length == 0 //){return null;}
+if(js.emptyLine(pos){return null;}
+if(js.lastLine == 0){return null;}
+if(js.compact == false){return null;}
+if(code.length() == 0){return null;}
+if(currLine == -1){return null;}
+if(json.empty(js))){return null;}
+if(len(js) < pos){return null;}
+if(js.isEmpty(])){return null;}
+if(lastLine == -1//){return null;}
+if(js.lastLine!= pos){return null;}
+if(js.isEmpty(0){return null;}
+if(code.length == -1){return null;}
+if(pos == -1.0){return null;}
+if(js.length == -2){return null;}
+if(js.last() == null){return null;}
+if(js.empty($1)){return null;}
+if(js.length()==pos){return null;}
+if(js.isEmpty($)){return null;}
+if(js.last()!=js){return null;}
+if(js.empty([pos])){return null;}
+if(js.length() == 0){return null;}
+if(js.size > lastLine){return null;}
+if(js.lastLine < 0){return null;}
+if(js.empty(_pos)){return null;}
+if(js[pos] == null){return null;}
+if(pos == '\r'){return null;}
+if(js is null ||!js){return null;}
+if(js.length() = 0){return null;}
+if(js.lastIndex >= pos){return null;}
+if(JS.empty(js)){return null;}
+if(pos < lastOffset - 1){return null;}
+if(js.length(): > 0){return null;}
+if(js.isNull(js){return null;}
+if(js.length(pos))){return null;}
+if(js.count() < 1){return null;}
+if(js.isEmpty()//){return null;}
+if(js.size == -1){return null;}
+if(js.indexOf(js){return null;}
+if(js.contains(js){return null;}
+if(lastLine > currentLineNumber){return null;}
+if(js.isEmpty(null){return null;}
+if(js.length() < 6){return null;}
+if(js.length(pos++)){return null;}
+if(js.remove(pos)){return null;}
+if(js.length () < 2){return null;}
+if(js.delete(pos)){return null;}
+if(js.length<lastLine){return null;}

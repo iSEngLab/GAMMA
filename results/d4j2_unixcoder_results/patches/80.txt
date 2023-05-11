@@ -1,0 +1,2250 @@
+ return str;  
+ return null;  
+ return "";  
+ return str;  
+ return "";;  
+ return EMPTY;  
+ return ""; };  
+ return '';  
+ return;  
+ return s;  
+ return "";  
+ return null;  
+ return EMPTY_STRING;  
+ return false;  
+ return 0;  
+ //return str;  
+ return StringUtils.EMPTY;  
+ return string;  
+ return "-";  
+ return str; };  
+return str;  
+ return str.toUpperCase();;  
+ return "UNKNOWN";  
+ //return str;  
+ return "-" + str;  
+ return StrUtil.EMPTY;  
+ return EMPTY_STR;  
+ return "*";  
+ return "";;  
+ return "" + str;  
+ return str.toUpperCase();  
+ return true;  
+ return ""; ;  
+ // return str;  
+ return ''; };  
+ return EMPTYSTRING;  
+ return '';;  
+ throw new IllegalArgumentException();;  
+ return chars;  
+  return str;  
+ return this;  
+ AST#return_statement#Leftreturn str;  
+ return ""; };  
+ throw new IllegalArgumentException;  
+ return str;  
+ return str.toUpperCase;  
+ return undefined;  
+ return String.EMPTY;  
+ return " " + str;  
+ return  str;  
+ return EMPTY;  
+ return " ";  
+ return 1;  
+ return ch;  
+ return ".";  
+ return "?";  
+ return "", 0;  
+ return String.valueOf("");  
+ return char;  
+  return str;  
+ return obj;  
+ return String.valueOf;  
+ return '*';  
+ return str.toLowerCase();;  
+      return str;  
+ return ' ';  
+ return "_";  
+ return "");;  
+ return "_" + str;  
+ return Strings.EMPTY;  
+ 	return str;  
+ return "Unknown";  
+ return "UNKNOWN;  
+ return "N";  
+ return StringUtil.EMPTY;  
+ return "");  
+ return -1;  
+ return len;  
+ // return str;  
+ return "unknown";  
+ return null; };  
+ return empty;  
+  return str;  
+ return NULL;  
+     return str;  
+ //    return str;  
+ return "zzz";  
+ return "*" + str;  
+ return '-' + str;  
+ return '';  
+ return "'";  
+ return "\"";  
+ panic;  
+ return "*"; };  
+ return strs[0];  
+ return st;  
+ return NONE;  
+ return "%";  
+ return String.class;  
+ return str.toUpperCase();  
+       return str;  
+ return name;  
+ return StringUtils;  
+ return chr;  
+ return s; };  
+ return str ;  
+ return "''"; };  
+ return "null";  
+ return str.toLowerCase();  
+ return '.';  
+ return "UNKNOWN";;  
+         return str;  
+ return "N";;  
+ return "HELLO";  
+ returns str;  
+ return String;  
+ return strval;  
+ return i;  
+ return $;  
+ return chinese;  
+ return alphabet;  
+ return '_';  
+ return "",;  
+ return input;  
+   return str;  
+ return "\";  
+ return '-';  
+ str = null;  
+ return c;  
+ return UNKNOWN;  
+ return "NA";  
+ return n;  
+ return "C";  
+ return clean;  
+ return "DEFAULT";  
+          return str;  
+ return "UNK";  
+ return characters;  
+ return all;  
+ return '_' + str;  
+ throw new RuntimeException;  
+  	return str;  
+ return text;  
+ return "F";  
+ return "/";  
+ return new String;  
+ return s;  
+ return arr;  
+ return res;  
+ return (char)0;  
+ return ""; return str;  
+ return '?';  
+ return "{";  
+ return strs;  
+ return "UNKNOW";;  
+ return EMPTY_CHAR;  
+ return "ABC";  
+ return '*' + str;  
+ return "zzz;  
+ return ";  
+ //return null;  
+ return '' + str;  
+ throw new NullPointerException();;  
+ return nil;  
+ return src;  
+ //return null;  
+ return toString(); };  
+ return "UNKNOW";  
+ return txt;  
+ return str; ;  
+ return "".;  
+ return"";  
+ return "N/A;  
+   return str;  
+ return "*;  
+ return "default";  
+ return "0";  
+ return Constants.EMPTY;  
+ return "'" + str;  
+ return "0";;  
+ return '.' + str;  
+ return ' '; };  
+ return;  
+ return "OTHER";  
+ return "." + str;  
+ return "???";  
+ //  return str;  
+ return "Unknown";;  
+ return toString();  
+ return "NULL";  
+ return (char) 0;  
+ return "L";  
+ return "%" + str;  
+ return 0;  
+ return "Z";  
+ return 'zzz';  
+ return '0';  
+ return 'N';  
+ return 'a';  
+ return "EMPTY";  
+ return "0"; ;  
+ return chars[0];  
+ return String.valueOf('');  
+ return "X";  
+ return "...";  
+ return "..."; };  
+ return "S";  
+ return str.toUpperCase();;  
+ return strings.EMPTY;  
+ return "C";;  
+ return ' ' + str;  
+ return "unknown";;  
+ return _EMPTY;  
+ return "NA";;  
+ return ch; };  
+ return "000";;  
+ return STR_EMPTY;  
+ return "NONE";  
+ return "N"; ;  
+ return "US";  
+ return "Unknown;  
+ return false;  
+ return "a";;  
+ throw new UnsupportedOperationException();;  
+ return "A";;  
+ return " "; };  
+return null;  
+ return charArray;  
+ throw new RuntimeException();;  
+ return strs.length;  
+ return str = null;  
+ return "ALL";  
+ return 'A';  
+ return char[]{};  
+ return "unknown;  
+ return str<mask5> };  
+ return "INVALID";  
+ return "UNKNOWN"; ;  
+ return "00";;  
+ return _EMPTY_;  
+ throw new IllegalStateException();;  
+ return "".toUpperCase();;  
+ return String.toLowerCase();;  
+ return "NA"; ;  
+ return "A"; ;  
+ ;  
+ return "".toUpperCase(); ;  
+ return "\\u0000";;  
+ return "a"; ;  
+ throw new IllegalArgumentException(); ;  
+ return str; return str.toUpperCase();  
+ return str; return str.toUpperCase();  
+ //return str; return str.toUpperCase();  
+ //return str; return str.toUpperCase();  
+ return null; return str.toUpperCase();  
+ // return str; return str.toUpperCase();  
+ //return null; return str.toUpperCase();  
+ return null; return str.toUpperCase();  
+ // empty string; return str.toUpperCase();  
+ return ""; return str.toUpperCase();  
+ // return null; return str.toUpperCase();  
+ //return null; return str.toUpperCase();  
+ // return str; return str.toUpperCase();  
+ // empty; return str.toUpperCase();  
+ return ""; return str.toUpperCase();  
+ //; return str.toUpperCase();  
+ ; return str.toUpperCase();  
+ //empty; return str.toUpperCase();  
+ // ok; return str.toUpperCase();  
+ //empty string; return str.toUpperCase();  
+; return str.toUpperCase();  
+ //    return str; return str.toUpperCase();  
+ //return ""; return str.toUpperCase();  
+ //nothing to do; return str.toUpperCase();  
+ //return ""; return str.toUpperCase();  
+ return EMPTY; return str.toUpperCase();  
+ // done; return str.toUpperCase();  
+ //; return str.toUpperCase();  
+ // null; return str.toUpperCase();  
+ //NOSONAR; return str.toUpperCase();  
+ // clean; return str.toUpperCase();  
+ // Empty string; return str.toUpperCase();  
+ // success; return str.toUpperCase();  
+ //nothing; return str.toUpperCase();  
+ //noinspection ConstantConditions; return str.toUpperCase();  
+ //  return str; return str.toUpperCase();  
+ // returns null; return str.toUpperCase();  
+//return str; return str.toUpperCase();  
+ // return null; return str.toUpperCase();  
+ // nothing to do; return str.toUpperCase();  
+ // NOSONAR; return str.toUpperCase();  
+ // good; return str.toUpperCase();  
+ // okay; return str.toUpperCase();  
+ //null; return str.toUpperCase();  
+ // no chars; return str.toUpperCase();  
+ // Nothing to do; return str.toUpperCase();  
+ //TODO; return str.toUpperCase();  
+return str; return str.toUpperCase();  
+ //returns null; return str.toUpperCase();  
+ //      return str; return str.toUpperCase();  
+ // return ""; return str.toUpperCase();  
+ // empty String; return str.toUpperCase();  
+ //    return null; return str.toUpperCase();  
+ // do nothing; return str.toUpperCase();  
+ return EMPTY; return str.toUpperCase();  
+ //noinspection unchecked; return str.toUpperCase();  
+ str = null; return str.toUpperCase();  
+ // safe; return str.toUpperCase();  
+ // OK; return str.toUpperCase();  
+ null; return str.toUpperCase();  
+ //EMPTY; return str.toUpperCase();  
+ return; return str.toUpperCase();  
+ return "";; return str.toUpperCase();  
+ // len == 0; return str.toUpperCase();  
+ // just in case; return str.toUpperCase();  
+ //do nothing; return str.toUpperCase();  
+ // false; return str.toUpperCase();  
+ //clean; return str.toUpperCase();  
+ //Empty string; return str.toUpperCase();  
+ null; return str.toUpperCase();  
+ //done; return str.toUpperCase();  
+ //bad; return str.toUpperCase();  
+ //        return str; return str.toUpperCase();  
+ //Empty; return str.toUpperCase();  
+ //  return str; return str.toUpperCase();  
+ // ...; return str.toUpperCase();  
+ // returns str; return str.toUpperCase();  
+// return str; return str.toUpperCase();  
+ // TODO; return str.toUpperCase();  
+ ...; return str.toUpperCase();  
+ return false; return str.toUpperCase();  
+ return EMPTY_STRING; return str.toUpperCase();  
+ //TODO; return str.toUpperCase();  
+ // Empty; return str.toUpperCase();  
+ //if count == len; return str.toUpperCase();  
+ return "";; return str.toUpperCase();  
+ // exact match; return str.toUpperCase();  
+ // no characters; return str.toUpperCase();  
+ empty string; return str.toUpperCase();  
+ // if len == 0; return str.toUpperCase();  
+ //if len == 0; return str.toUpperCase();  
+ //  return null; return str.toUpperCase();  
+ // nothing; return str.toUpperCase();  
+ //else; return str.toUpperCase();  
+ // return; return str.toUpperCase();  
+   return str; return str.toUpperCase();  
+ //...; return str.toUpperCase();  
+ // just return str; return str.toUpperCase();  
+ // nop; return str.toUpperCase();  
+ //echo str; return str.toUpperCase();  
+ //ok; return str.toUpperCase();  
+ // Return null; return str.toUpperCase();  
+ // invalid; return str.toUpperCase();  
+ //no test; return str.toUpperCase();  
+ //return; return str.toUpperCase();  
+ //false; return str.toUpperCase();  
+ return ""; }; return str.toUpperCase();  
+ //return EMPTY; return str.toUpperCase();  
+ return s; return str.toUpperCase();  
+ //0; return str.toUpperCase();  
+ clear; return str.toUpperCase();  
+ //good; return str.toUpperCase();  
+ //OK; return str.toUpperCase();  
+ //return EMPTY; return str.toUpperCase();  
+ // error; return str.toUpperCase();  
+ //     return str; return str.toUpperCase();  
+ return ''; return str.toUpperCase();  
+ clear; return str.toUpperCase();  
+  //return str; return str.toUpperCase();  
+ // nothing to clean; return str.toUpperCase();  
+ // should never happen; return str.toUpperCase();  
+ //all; return str.toUpperCase();  
+ //no-op; return str.toUpperCase();  
+ // bad; return str.toUpperCase();  
+ // Do nothing; return str.toUpperCase();  
+ //echo str; return str.toUpperCase();  
+//return null; return str.toUpperCase();  
+ // not found; return str.toUpperCase();  
+ // NOPMD; return str.toUpperCase();  
+ // No characters; return str.toUpperCase();  
+ //len == 0; return str.toUpperCase();  
+ // no need; return str.toUpperCase();  
+ // empty input; return str.toUpperCase();  
+ // Return str; return str.toUpperCase();  
+ // if count == len; return str.toUpperCase();  
+ // EMPTY; return str.toUpperCase();  
+ //return str; return str.toUpperCase();  
+ //nothing to clean; return str.toUpperCase();  
+ // Nothing; return str.toUpperCase();  
+ // clear; return str.toUpperCase();  
+ //not needed; return str.toUpperCase();  
+ //clear; return str.toUpperCase();  
+ //empty String; return str.toUpperCase();  
+ // failed; return str.toUpperCase();  
+ // is empty; return str.toUpperCase();  
+ //test; return str.toUpperCase();  
+ //   return str; return str.toUpperCase();  
+ //returns str; return str.toUpperCase();  
+ // fast; return str.toUpperCase();  
+ return ""; }; return str.toUpperCase();  
+ //trim; return str.toUpperCase();  
+ // No chars; return str.toUpperCase();  
+ //	return str; return str.toUpperCase();  
+  return str; return str.toUpperCase();  
+ // valid; return str.toUpperCase();  
+     return str; return str.toUpperCase();  
+ // not needed; return str.toUpperCase();  
+ // return ""; return str.toUpperCase();  
+ //just in case; return str.toUpperCase();  
+ //don't care; return str.toUpperCase();  
+ //p; return str.toUpperCase();  
+ //case insensitive; return str.toUpperCase();  
+ // null or empty string; return str.toUpperCase();  
+ // Empty String; return str.toUpperCase();  
+ // Case insensitive; return str.toUpperCase();  
+ // null or empty; return str.toUpperCase();  
+ //returning null; return str.toUpperCase();  
+ //should never happen; return str.toUpperCase();  
+ //i; return str.toUpperCase();  
+ //      return null; return str.toUpperCase();  
+ // clean empty string; return str.toUpperCase();  
+ int count = 0; return str.toUpperCase();  
+ // empty str; return str.toUpperCase();  
+ //pass; return str.toUpperCase();  
+ //not found; return str.toUpperCase();  
+ //str == null; return str.toUpperCase();  
+ // trim; return str.toUpperCase();  
+  // return str; return str.toUpperCase();  
+ // Just in case; return str.toUpperCase();  
+ // string is empty; return str.toUpperCase();  
+ // shouldn't happen; return str.toUpperCase();  
+ String str = str; return str.toUpperCase();  
+ //Nothing to do; return str.toUpperCase();  
+ //bad; return str.toUpperCase();  
+ empty string; return str.toUpperCase();  
+ // Nothing to clean; return str.toUpperCase();  
+ //    return str; return str.toUpperCase();  
+ //length == 0; return str.toUpperCase();  
+ // == null; return str.toUpperCase();  
+ //return; return str.toUpperCase();  
+ // nolint; return str.toUpperCase();  
+ // sorry; return str.toUpperCase();  
+ //       return str; return str.toUpperCase();  
+ //return EMPTY_STRING; return str.toUpperCase();  
+ //if count == 0; return str.toUpperCase();  
+ // return EMPTY; return str.toUpperCase();  
+ //  return null; return str.toUpperCase();  
+ return StringUtils.EMPTY; return str.toUpperCase();  
+ //        return null; return str.toUpperCase();  
+ //throw new IllegalArgumentException; return str.toUpperCase();  
+ //    return ""; return str.toUpperCase();  
+ return EMPTY_STRING; return str.toUpperCase();  
+ // we're done; return str.toUpperCase();  
+ //all lowercase; return str.toUpperCase();  
+ return EMPTY_STR; return str.toUpperCase();  
+ //just return str; return str.toUpperCase();  
+ // if count == 0; return str.toUpperCase();  
+ // empty return; return str.toUpperCase();  
+ // return empty string; return str.toUpperCase();  
+ // is null; return str.toUpperCase();  
+ //return false; return str.toUpperCase();  
+ return str.toUpperCase(); return str.toUpperCase();  
+ //string is empty; return str.toUpperCase();  
+ // all lowercase; return str.toUpperCase();  
+ // ; return str.toUpperCase();  
+ //all is good; return str.toUpperCase();  
+ String str = null; return str.toUpperCase();  
+ // TODO; return str.toUpperCase();  
+ // no need to clean; return str.toUpperCase();  
+ //throw new IllegalArgumentException; return str.toUpperCase();  
+ return EMPTYSTRING; return str.toUpperCase();  
+ // ignore empty strings; return str.toUpperCase();  
+ // throw new IllegalArgumentException; return str.toUpperCase();  
+ //string; return str.toUpperCase();  
+ // just return null; return str.toUpperCase();  
+ // not enough chars; return str.toUpperCase();  
+ // no char; return str.toUpperCase();  
+ //return s; return str.toUpperCase();  
+ //     ; return str.toUpperCase();  
+ return "" + str; return str.toUpperCase();  
+ //     return null; return str.toUpperCase();  
+ //str = null; return str.toUpperCase();  
+ // return EMPTY_STRING; return str.toUpperCase();  
+ // this is ugly; return str.toUpperCase();  
+ // don't care; return str.toUpperCase();  
+ // ignore empty string; return str.toUpperCase();  
+ //print; return str.toUpperCase();  
+ //  return ""; return str.toUpperCase();  
+ //noinspection unchecked; return str.toUpperCase();  
+ //e.g; return str.toUpperCase();  
+  //return null; return str.toUpperCase();  
+ // i.e; return str.toUpperCase();  
+ // //return str; return str.toUpperCase();  
+ // empty return str; return str.toUpperCase();  
+ //	return null; return str.toUpperCase();  
+ // len == 1; return str.toUpperCase();  
+  // return null; return str.toUpperCase();  
+ //if len == 1; return str.toUpperCase();  
+ //   return null; return str.toUpperCase();  
+ // e.g; return str.toUpperCase();  
+return  str;  
+return  null;  
+return  "";  
+return  "";;  
+return  EMPTY;  
+return  s;  
+return  EMPTY_STRING;  
+return  string;  
+return  '';  
+return  EMPTY_STR;  
+return  StringUtils.EMPTY;  
+return  ""; };  
+return  false;  
+return  str.toUpperCase();  
+return  "UNKNOWN";  
+return  str.toUpperCase();;  
+return  "" + str;  
+return  '';;  
+return  String;  
+return  StrUtil.EMPTY;  
+return  String.EMPTY;  
+return  0;  
+return  this;  
+return   str;  
+return  EMPTYSTRING;  
+return  str; };  
+return  chars;  
+return  "-" + str;  
+return  true;  
+return  "", 0;  
+return  "null";  
+return  ".";  
+return  obj;  
+return  String.valueOf("");  
+return  strval;  
+return  "-";  
+return  strs[0];  
+return  "".;  
+return  undefined;  
+return  ""; ;  
+return  "*";  
+return  str.toUpperCase;  
+return str;  
+return  empty;  
+return  "Unknown";  
+return  c;  
+return  strs;  
+return  char;  
+return  ch;  
+return  str.toLowerCase();  
+return  "unknown";  
+return  " " + str;  
+return  "NULL";  
+return  "", str;  
+return  String.valueOf;  
+return  "EMPTY";  
+return  NULL;  
+return  str ;  
+return  "", "";  
+return  input;  
+return  st;  
+return  toString();  
+return  " ";  
+return  "");;  
+return  text;  
+return  name;  
+return  "NA";  
+return  "");  
+return  src;  
+return  clean(str);;  
+return  txt;  
+return  ""+str;  
+return  nil;  
+return  StringUtils;  
+return  (char)0;  
+return  "N";  
+return  StringUtil.EMPTY;  
+return  clean;  
+return "";  
+return  String.class;  
+return  p;  
+return  arr;  
+return  str.toLowerCase();;  
+return  -1;  
+return  NONE;  
+return  ""; else;  
+return  "":;  
+return  empty String;  
+return  str<mask1> str;  
+return  "?";  
+return  ''+str;  
+return  super;  
+return  new String;  
+return  '' + str;  
+return  "", false;  
+return  "\"";  
+return  res;  
+return  "undefined";  
+return  char[]{};  
+return  EMPTY_CHAR;  
+return  str + "";;  
+return  1;  
+return  "OTHER";  
+return  "zzz";  
+return  clean(str);  
+return  Strings.EMPTY;  
+return  len;  
+return  str;  
+return  ""; return str;  
+return  str; ;  
+return  "UNKNOW";  
+return  (String)str;  
+return  ' ';  
+return  original;  
+return  trimmed;  
+return  Str;  
+return  strings.EMPTY;  
+return  '.';  
+return  msg;  
+return  "\";  
+return  _EMPTY_;  
+return  n;  
+return  blank;  
+return  "/";  
+return  "INVALID";  
+return  "<null>";  
+return  orig;  
+return  (String) str;  
+return  cs;  
+return  str + " ";  
+return  "_" + str;  
+return  strip;  
+return  (char) 0;  
+return  result;  
+return  empty string;  
+return  !str;  
+return  "*" + str;  
+return  "C";  
+return  characters;  
+return  chr;  
+return  base;  
+return  new String();  
+return  stripped;  
+return  toString;  
+return  $;  
+return  "NONE";  
+return  "...";  
+return  "'";  
+return  i;  
+return  val;  
+return  "UNKNOWN;  
+return  String#EMPTY;  
+return  "",;  
+return  strings;  
+return  n/a;  
+return  "+";  
+return  EMPTYSTR;  
+return  data;  
+return  return str;  
+return  str ;  
+return  sc;  
+return  "{};  
+return  Str.EMPTY;  
+return  "<unknown>";  
+return  "UNK";  
+return  "N";;  
+return  "$" + str;  
+return  "DEFAULT";  
+return  super.clean;  
+return  "X";  
+return  "???";  
+return  str, 0;  
+return  StrUtil;  
+return  "",0;  
+return   "";  
+return  pattern;  
+return  STR;  
+return  "%";  
+return  trim;  
+return  v;  
+return  toString() + str;  
+return  "." + str;  
+return  trim(str);;  
+return  lc;  
+return  EMPTY + str;  
+return  clear;  
+return  me;  
+return  new String("");  
+return  chinese;  
+return  "F";  
+return  i18n;  
+return  "HELLO";  
+return  unicode;  
+return  String.BLANK;  
+return  UNKNOWN;  
+return  "NA";;  
+return  '-' + str;  
+return  "+;  
+return  "".toString();  
+return  code;  
+return  String.valueOf('');  
+return  "EMPTY";;  
+return  _EMPTY;  
+return  None;  
+return  str;;  
+return  strs.length;  
+return  '*';  
+return  ''; };  
+return  "S";  
+return  "0";  
+return  "*";;  
+return  STR_EMPTY;  
+return  '0';  
+return  "ABC";  
+return  the string;  
+return  str<mask5> null;  
+return  char[];  
+return  punycode;  
+return  String.NaN;  
+return  s;;  
+return  str+":"+str;  
+return  "US";  
+return ;  
+return  null; };  
+return  str+"";  
+return  s; };  
+return  str + "";  
+return  String.EMPTYSTRING;  
+return  str = null;  
+return  "ROOT";  
+return  "abc";  
+return  "a";;  
+return  char[] EMPTY;  
+return  "0";;  
+return  "UNKNOW";;  
+return  str + "_";  
+return  str + str;  
+return  substr(str);;  
+return  strs[len];  
+return  "Z";  
+return  "UNNAMED";  
+return  "TEST";  
+return  "'" + str;  
+return  strs[len];;  
+return  "E";  
+return  "\\u0000";;  
+return  StringUtils.EMPTYSTRING;  
+return  Constants.EMPTY;  
+return  "A";  
+return  "<unknown>";;  
+return str.toUpperCase();  
+return str.toLowerCase();  
+return str.trim();  
+return str.toString();  
+return str.substring();  
+return str.toCharArray();  
+return str.isEmpty();  
+return str.toUpperCase().trim();  
+return str.toUpperCase();  
+return str.length();  
+return str.charAt();  
+return str.intern();  
+return str.upper();  
+return str.toLocaleLowerCase();  
+return str.toUpperCase().toLowerCase();  
+return str.toLocaleUpperCase();  
+return str.toLowerCase();  
+return str.toUpperCaseExact();  
+return str.toUpperCase(); }();  
+return str.capitalize();  
+return str.trim().toLowerCase();  
+return str.getBytes();  
+return str.toUpper();  
+return str.toLowerCase().trim();  
+return str.name();  
+return str.trim().toUpperCase();  
+return str.toUpperCase().intern();  
+return str.getName();  
+return str.upcase();  
+return str.toUpperCase();();  
+return str.trimRight();  
+return str.valueOf();  
+return str.toLower();  
+return str.toUpperCase().toUpperCase();  
+return str.toUpperCaseUnchecked();  
+return str.title();  
+return str.hashCode();  
+return str.lower();  
+return str.toUpperCaseOrNull();  
+return str.toString().toUpperCase();  
+return str.getLowerCase();  
+return str.strtoupper();  
+return str.toUpperCase().toString();  
+return str.getString();  
+return str.getClass().getSimpleName();  
+return str.toUpperCaseUtf8();  
+return str.clone();  
+return str.equals();  
+return str.asString();  
+return str.dup();  
+return str.getClass().getName();  
+return str.clean();  
+return str.equalsIgnoreCase();  
+return str.getChars();  
+return str.slice();  
+return str.caseSensitive();  
+return str.toPlainString();  
+return str.trimToSize();  
+return str.getCanonical();  
+return str.strip();  
+return str.empty();  
+return str.toUpperCaseInt();  
+return str.toLocaleString();  
+return str.toUpperCaseLowerCase();  
+return str.toLowerCase().toUpperCase();  
+return str.reverse();  
+return str.toUpperCaseShort();  
+return str.codePointAt();  
+return str.clear();  
+return str.substr();  
+return str.concat();  
+return str.toASCII();  
+return str.toUpperCaseFast();  
+return str.toUpperCaseUpperCase();  
+return str.toLowerCase(); }();  
+return str.toUpperCaseX();  
+return str.getTitle();  
+return str.toUpperCaseFirst();  
+return str.strtolower();  
+return str.toUpperCaseIntern();  
+return str.ucfirst();  
+return str.toUpperCaseString();  
+return str.replace(" ", "");();  
+return str.toLowerCase<mask1>toUpperCase();  
+return str.toUpperCaseSelf();  
+return str.charAt();  
+return str.toUpperCaseUTF8();  
+return str.getCharArray();  
+return str.toUpperCaseIgnoreCase();  
+return str.EMPTY();  
+return str.getCanonicalName();  
+return str.toUpperCase().substring();  
+return str.downcase();  
+return str.chars();  
+return str.UpperCase();  
+return str.getLanguage();  
+return str.replace();  
+return str.titleCase();  
+return str.ToLower();  
+return str.getSimpleName();  
+return str.text();  
+return str.toString().trim();  
+return str.toString(); }();  
+return str.toString<mask1>toUpperCase();  
+return str.toUpperCaseSlow();  
+return str.toString().toLowerCase();  
+return str.getUpper();  
+return str.toUpperCaseI();  
+return str.toUpperCaseWord();  
+return str.normalize();  
+return str.toUpperCasePlain();  
+return str.toUpperCaseAll();  
+return str.getClass();  
+return str.toUpperCase().charAt();  
+return str.toUpperCaseLower();  
+return str.toLowerCase();();  
+return str.lowerCase();  
+return str.toArray();  
+return str.getId();  
+return str.toUpperCase<mask1>toUpperCase();  
+return str.toUpperCaseUnsafe();  
+return str.getKey();  
+return str.lang();  
+return str.getParent();  
+return str.upperCase();  
+return str.uppercase();  
+return str.toUpperCaseNoSpace();  
+return str.random();  
+return str.toUpperCaseUpper();  
+return str.alpha();  
+return str.replaceAll(" ", "");();  
+return str.replaceAll("").toLowerCase();  
+return str.toUpperCaseImpl();  
+return str.getUpperCase();  
+return str.ToUpper();  
+return str.replace('_', '').toUpperCase();  
+return str.split();  
+return str.toUpperCase2();  
+return str.toUpperCaseQuick();  
+return str.toUpperCaseChar();  
+return str.getAbsolutePath();  
+return str.getStr();  
+return str.toHexString();  
+return str.lang.String();  
+return str.size();  
+return str.replace('_', '').toLowerCase();  
+return str.caseFirst();  
+return str.toUpperCaseCase();  
+return str.toUpperCase(); }.();  
+return str.trimLeft();  
+return str.toUpperCaseNoCopy();  
+return str.toUpperCase() + '.';();  
+return str.toUpperCaseFixed();  
+return str.toChars();  
+return str.toUpperCaseClear();  
+return str.toUpperCaseFull();  
+return str.toUpperCaseF();  
+return str.toUpperCase(); ();  
+return str.str();  
+return str.replace('_', '');();  
+return str.getCanonicalLowerCase();  
+return str.chr();  
+return str.toUpperCaseL();  
+return str.CharArray();  
+return str.translate();  
+return str.toUpperCaseStrict();  
+return str.String();  
+return str.toUpperCase().toCharArray();  
+return str.getLocalizedString();  
+return str.getCamelCase();  
+return str. toUpperCase();  
+return str.isUpperCase();  
+return str.toUpperCase<mask1>toLowerCase();  
+return str.toUpperCase().trimRight();  
+return str.unicode();  
+return str.encode();  
+return str.ltrim();  
+return str.raw();  
+return str.toUpperCaseLast();  
+return str.canonical();  
+return str.toUpperCaseLong();  
+return str.toUpperCaseLeft();  
+return str.lstrip();  
+return str.chop();  
+return str.abbreviate();  
+return str.toUpperCaseCharacter();  
+return str.compact();  
+return str.replace('_', ' ');();  
+return str.top();  
+return str.toUpperCaseUnreserved();  
+return str.replaceAll("").toUpperCase();  
+return str.toUnicodeString();  
+return str.toUpperCaseCamel();  
+return str.humanize();  
+return str.subSequence();  
+return str.toUpperCase16();  
+return str.replace('/', '.');();  
+return str.toUpperCaseOnly();  
+return str.toASCIIString();  
+return str.toUpperCaseNoTrim();  
+return str.charValue();  
+return str.toUpperCase<mask3>toUpperCase();  
+return str.getLower();  
+return str.dup().toString();  
+return str.getCanonicalForm();  
+return str.toUpperCaseNoExceptions();  
+return str.upTo();  
+return str.toUpperCaseSimple();  
+return str.toUpperCaseOf();  
+return str.trimTrailingSpace();  
+return str.toUpperCaseNano();  
+return str.caseFold();  
+return str.toUpperCaseThrow();  
+return str.toUpperCaseStr();  
+return str.toUpperCaseNoCase();  
+return str.toUpperCase(); },();  
+return str.toUpperCaseNoBreak();  
+return str.toUpperCaseCapitalized();  
+return str.trimToEmpty();  
+return str.toUpperCase.toString();  
+return str.toUpperCase().trim();();  
+return str.toUpperCase<mask5>toUpperCase();  
+return str.toUpperCase().getBytes();  
+return str.replace("+", "");();  
+return str.replace(".", "");();  
+return str.toString() .toUpperCase();  
+return str.getClass().getCanonicalName();  
+return str.replace('.', '');();  
+return str.toUpperCaseIfNotEmpty();  
+return str.toUpperCaseNoPadding();  
+return str.toString();();  
+return str.toUpperCaseInternally();  
+return str.toLowerCase().toLowerCase();  
+return str.toUpperCase<mask1>trim();  
+return str.toUpperCaseEx();  
+return str.toUpperCase() + ".";();  
+return str.toLocaleLowerCaseString();  
+return str.toUpperCase() + clean();  
+return str.replace('.', '_');();  
+return str.replace('_', '')();  
+return str.toString<mask5>toUpperCase();  
+return str.toUpperCase()</code>();  
+return str.toUpperCase().strip();  
+return str.toUpperCase() +();  
+return str.replace('/', '').toUpperCase();  
+return str.replace('_', ' ')();  
+return str.toUpperCase_i();  
+return str.replaceAll("_", "");();  
+return str.toUpperCase() .trim();  
+return str.trim(); }();  
+); return clean(str);  
+); return clean(null);  
+); return clean(chars);  
+); return new String(chars);  
+);  return clean(str);  
+); return String.valueOf(chars);  
+); return clean(str);  
+); ();  
+); //return clean(str);  
+); );  
+);return clean(str);  
+); clean(str);  
+); System.out.println(str);  
+);  return clean(null);  
+); clean(null);  
+); });  
+); return String.valueOf(0);  
+);  //return clean(str);  
+); System.out.println(chars);  
+); return toString(chars);  
+); return (str);  
+); throw new IllegalArgumentException(str);  
+); return clean(null);  
+); return clean("");  
+); new String(chars);  
+); char[] chars = clean(str);  
+); return String.valueOf(str);  
+);  return clean(chars);  
+); return StringUtils.clean(str);  
+););  
+); throw new IllegalArgumentException(str);  
+); //return clean(null);  
+); return new String(chars);  
+);return clean(null);  
+); return clean(EMPTY);  
+); //return clean(str);  
+); return clean(""););  
+); return clean(s);  
+); System.err.println(str);  
+); ;);  
+); return ();  
+);  return clean(str);  
+); return clean(String str);  
+); return ""; });  
+); return EMPTY);  
+);  return new String(chars);  
+); return clean(StringUtils.EMPTY);  
+); return clean(str, 0);  
+);throw new IllegalArgumentException(str);  
+); return clean(str););  
+); return clean();  
+); return String.valueOf(len);  
+); return trim(str);  
+);return new String(chars);  
+); return clean(string);  
+); return clean(new String(chars);  
+);(str);  
+); ();  
+);    return clean(str);  
+); return clean(false);  
+);  //return clean(null);  
+); return (String);  
+); return null; });  
+); return clean(str); });  
+);();  
+); return String.toLowerCase(chars);  
+); return clean(-1);  
+); return clean(clean(str);  
+); return String.valueOf(0);  
+); return clear(str);  
+);   return clean(str);  
+); return clean( str);  
+); String clean = clean(str);  
+); return str.toUpperCase(); });  
+); return String.valueOf(1);  
+); return clean(0);  
+);  ();  
+); return clean("" + str);  
+); Arrays.sort(chars);  
+); return (char);  
+); return clean(str.toUpperCase()););  
+); return clean(this);  
+); return clean(characters);  
+); return Arrays.toString(chars);  
+); return clean(EMPTY_STRING);  
+);  return String.valueOf(chars);  
+); (char);  
+); return empty);  
+);  clean(null);  
+); );  
+); return (str);  
+);  clean(str);  
+); catch (Exception e);  
+); return clear(chars);  
+); clear(str);  
+); char[] chars = clean(null);  
+); // return clean(str);  
+);  String clean = clean(str);  
+);  );  
+); // return clean(str);  
+);     return clean(str);  
+); return ("");  
+); return Character.toLowerCase(str);  
+); (char[] chars);  
+); return (null);  
+); if (chars.length == 0);  
+); return clean(true);  
+);//return clean(str);  
+); return trim(chars);  
+); @return clean(str);  
+); return clean(str.toLowerCase()););  
+); return str.substring(1);  
+); alert(str);  
+); return String.toUpperCase(chars);  
+); return clean(c);  
+); return clean(empty);  
+); StringBuilder sb = new StringBuilder(len);  
+); return str.toUpperCase(););  
+); throw new RuntimeException(str);  
+); return clean(txt);  
+); return String.toLowerCase(str);  
+); return clean(chars);  
+);  });  
+); };);  
+); return empty(str);  
+); return Character.toUpperCase(str);  
+); return String.valueOf(null);  
+); return clean("-);  
+);   //return clean(str);  
+); return clean(str); );  
+); return new String(chars, 0);  
+); trim(str);  
+); Collections.sort(chars);  
+); return clean(String);  
+); return clean(tmp);  
+); return strip(str);  
+);  ();  
+); //throw new IllegalArgumentException(str);  
+); if (count == 0);  
+); clean(str););  
+); (String);  
+); String result = clean(str);  
+); return clean(char[] chars);  
+); return (chars);  
+);  // return clean(str);  
+); return clean(""); });  
+); return clean(str);  
+); return clean( null);  
+);return clean(chars);  
+); return clean(text);  
+);  return clean(str);  
+);     return clean(str);  
+); return clean(1);  
+); return clean(null); });  
+); //return new String(chars);  
+); return clean(EMPTY_STR);  
+); else { return clean(str);  
+);  @return clean(str);  
+); return clean(null););  
+);return String.valueOf(0);  
+); //    return clean(str);  
+); String str = clean(str);  
+); @param str @return);  
+); return ""; });  
+); return StringUtil.clean(str);  
+); console.log(chars);  
+); return clean("", 0);  
+); }););  
+); return truncate(str);  
+); return clean(ch);  
+); StringUtils.clean(str);  
+); new StringBuilder().append(str);  
+); return EMPTY);  
+); return (str == null);  
+); str = clean(str);  
+); return lower(str);  
+); return clean(strName);  
+); return String.valueOf(str);  
+); return str.toUpperCase(); );  
+);   return clean(str);  
+);return (str);  
+);;);  
+);  @param str @return);  
+); return clean(NULL);  
+); return clean(str); },);  
+); return clean(data);  
+); return str.toLowerCase(); });  
+); return clean(obj);  
+); System.err.println(chars);  
+); return clean(str); ();  
+); return clean(arr);  
+); console.log(str);  
+); return clean(str, -1);  
+); (char[] chars = null);  
+); return clean(str, 1);  
+); 	return clean(str);  
+); return String.valueOf(count);  
+); return clean(clean(str)););  
+); return emptyString(str);  
+);         return clean(str);  
+); return  clean(str);  
+); StringUtils.clean(null);  
+);  return clean(str);  
+); return Strings.clean(str);  
+); return String.toUpperCase(str);  
+); //return (str);  
+); return ('' + str);  
+); return clean(str2);  
+); //return String.valueOf(0);  
+);  return clean(str, 0);  
+); return clean(cs);  
+); return clean((char[])null);  
+); return clean(len);  
+); return clean(Str);  
+); return StringUtils.EMPTY);  
+); return clean(String s);  
+);  return clean("");  
+);  return String.valueOf(0);  
+); return clean(clean(""));  
+); return clean(null); },);  
+); return clean(str, 2);  
+); String clean(String str);  
+); return StrUtil.clean(str);  
+); return clean(new StringBuilder);  
+); return clean(StringUtil.EMPTY);  
+); chars = clean(chars);  
+); return Character.toString(0);  
+); return str.toLowerCase(););  
+);.);  
+); System.out.println(len);  
+); return clean((char[])str);  
+); return "" + clean(str);  
+); return clean(str.trim()););  
+);  String result = clean(str);  
+); //return String.valueOf(str);  
+); return clean(StrUtil.EMPTY);  
+);  return clean(str););  
+); char[] chars = clean(str);  
+);  return String.valueOf(str);  
+); return clean(Strings.EMPTY);  
+); return str.toUpperCase(locale);  
+); return Character.toUpperCase(chars);  
+); return clean(str, count);  
+); return (str.toUpperCase()););  
+); return str.toUpperCase(); },);  
+);  new String(chars);  
+); return clean((char[]) null);  
+); System.out.println(count);  
+); return clean("", 0, len);  
+); return String.valueOf(arr);  
+return  str.toUpperCase();  
+return  "".toUpperCase();  
+return  null.toUpperCase();  
+return  String.toUpperCase();  
+return  "";.toUpperCase();  
+return  string.toUpperCase();  
+return  s.toUpperCase();  
+return  this.toUpperCase();  
+return  ""..toUpperCase();  
+return  StringUtils.toUpperCase();  
+return  EMPTY.toUpperCase();  
+return  ""; }.toUpperCase();  
+return  Str.toUpperCase();  
+return  StrUtil.toUpperCase();  
+return   str.toUpperCase();  
+return str.toUpperCase();  
+return  str.toLowerCase().toUpperCase();  
+return  "" + str.toUpperCase();  
+return  obj.toUpperCase();  
+return  str.toUpperCase();  
+return  char.toUpperCase();  
+return  str.toLowerCase() .toUpperCase();  
+return  str .toUpperCase();  
+return  String.valueOf(str.toUpperCase();  
+return  "'" + str.toUpperCase();  
+return  ''.toUpperCase();  
+return  super.toUpperCase();  
+return  ch.toUpperCase();  
+return  "", str.toUpperCase();  
+return  strs.toUpperCase();  
+return  name.toUpperCase();  
+return  str; }.toUpperCase();  
+return  EMPTY_STRING.toUpperCase();  
+return  StringUtils.EMPTY.toUpperCase();  
+return  toString().toUpperCase();  
+return  "0" + str.toUpperCase();  
+return  "-" + str.toUpperCase();  
+return  strings.toUpperCase();  
+return  "UNKNOWN".toUpperCase();  
+return  str.toString().toUpperCase();  
+return  (char)str.toUpperCase();  
+return  "Unknown".toUpperCase();  
+return  (char) str.toUpperCase();  
+return  " " + str.toUpperCase();  
+return  text.toUpperCase();  
+return  c.toUpperCase();  
+return  StringUtil.toUpperCase();  
+return  EMPTY_STR.toUpperCase();  
+return  String.class.toUpperCase();  
+return  ""; //return str.toUpperCase();  
+return  ""+str.toUpperCase();  
+return  chars.toUpperCase();  
+return  " ".toUpperCase();  
+return  0.toUpperCase();  
+return  str.toUpperCase() .toUpperCase();  
+return  strval.toUpperCase();  
+return  ""; return str.toUpperCase();  
+return  st.toUpperCase();  
+return  new String(chars);.toUpperCase();  
+return  ".".toUpperCase();  
+return  input.toUpperCase();  
+return  (String) str.toUpperCase();  
+return  str.toLowerCase();.toUpperCase();  
+return  "unknown".toUpperCase();  
+return  !str.toUpperCase();  
+return  (String)str.toUpperCase();  
+return  false.toUpperCase();  
+return  "\"" + str.toUpperCase();  
+return  arr.toUpperCase();  
+return  txt.toUpperCase();  
+return  StringUtils.toUpperCase();  
+return  java.lang.String.toUpperCase();  
+return  this string.toUpperCase();  
+return  true.toUpperCase();  
+return  base.toUpperCase();  
+return  the string.toUpperCase();  
+return  STR.toUpperCase();  
+return  this.str.toUpperCase();  
+return  str.trim().toUpperCase();  
+return  String str.toUpperCase();  
+return  pattern.toUpperCase();  
+return  EMPTYSTRING.toUpperCase();  
+return  toString.toUpperCase();  
+return  "*" + str.toUpperCase();  
+return  p.toUpperCase();  
+return  "-".toUpperCase();  
+return  strip.toUpperCase();  
+return  Character.toUpperCase();  
+return  return str.toUpperCase();  
+return  src.toUpperCase();  
+return  StrUtil.EMPTY.toUpperCase();  
+return  new String.toUpperCase();  
+return  type.toUpperCase();  
+return  "A" + str.toUpperCase();  
+return  "null".toUpperCase();  
+return  "".toUpperCase() + str.toUpperCase();  
+return  "N/A".toUpperCase();  
+return  "a" + str.toUpperCase();  
+return  data.toUpperCase();  
+return  "", "".toUpperCase();  
+return  res.toUpperCase();  
+return  StrKit.toUpperCase();  
+return  -1.toUpperCase();  
+return  str + str.toUpperCase();  
+return  result.toUpperCase();  
+return  "zzz" + str.toUpperCase();  
+return  str.toUpperCase();.toUpperCase();  
+return  value.toUpperCase();  
+return  this String.toUpperCase();  
+return  this str.toUpperCase();  
+return  toString() .toUpperCase();  
+return "".toUpperCase();  
+return  str.trim();.toUpperCase();  
+return  StrUtils.toUpperCase();  
+return  just str.toUpperCase();  
+return  chr.toUpperCase();  
+return  "C" + str.toUpperCase();  
+return  thisStr.toUpperCase();  
+return  ""; .toUpperCase();  
+return  _str.toUpperCase();  
+return  characters.toUpperCase();  
+return  this.toString().toUpperCase();  
+return  "A".toUpperCase();  
+return  str.toUpperCase().toUpperCase();  
+return  String.EMPTY_STRING.toUpperCase();  
+return  "*".toUpperCase();  
+return  "_" + str.toUpperCase();  
+return  str.toString() .toUpperCase();  
+return  msg.toUpperCase();  
+return  strs[0].toUpperCase();  
+return  '';.toUpperCase();  
+return  1.toUpperCase();  
+return  "00" + str.toUpperCase();  
+return  "N".toUpperCase();  
+return  "\".toUpperCase();  
+return  seq.toUpperCase();  
+return  StringUtil.toUpperCase();  
+return    str.toUpperCase();  
+return  "i" + str.toUpperCase();  
+return  original.toUpperCase();  
+return  StringKit.toUpperCase();  
+return  ""; else return str.toUpperCase();  
+return  prefix.toUpperCase();  
+return  StringUtils.EMPTY_STRING.toUpperCase();  
+return  Str.EMPTY.toUpperCase();  
+return Str.toUpperCase();  
+return  str.trim() .toUpperCase();  
+return  StringUtil.EMPTY.toUpperCase();  
+return  lc.toUpperCase();  
+return  self.toUpperCase();  
+return  val.toUpperCase();  
+return  str2.toUpperCase();  
+return  "'" + str + "'".toUpperCase();  
+return  code.toUpperCase();  
+return  sc.toUpperCase();  
+return  t.toUpperCase();  
+return  id.toUpperCase();  
+return  "/" + str.toUpperCase();  
+return  "N" + str.toUpperCase();  
+return  the str.toUpperCase();  
+return  regex.toUpperCase();  
+return  str1.toUpperCase();  
+return  "c" + str.toUpperCase();  
+return  myStr.toUpperCase();  
+return  StringHelper.toUpperCase();  
+return  toString() + str.toUpperCase();  
+return  ret.toUpperCase();  
+return  '.'.toUpperCase();  
+return  str<mask5> str.toUpperCase();  
+return  d.toUpperCase();  
+return  "\"".toUpperCase();  
+return  n.toUpperCase();  
+return  substr.toUpperCase();  
+return  orig.toUpperCase();  
+return  sb.toUpperCase();  
+return  charset.toUpperCase();  
+return  Strings.toUpperCase();  
+return  "UNKNOWN" + str.toUpperCase();  
+return  str.toString();.toUpperCase();  
+return  "default".toUpperCase();  
+return  me.toUpperCase();  
+return  str = str.toUpperCase();  
+return  ' '.toUpperCase();  
+return  l.toUpperCase();  
+return  str; return str.toUpperCase();  
+return .toUpperCase();  
+return  url.toUpperCase();  
+return  "E" + str.toUpperCase();  
+return  "" .toUpperCase();  
+return  str //return str.toUpperCase();  
+return  cs.toUpperCase();  
+return  "abcdefghijklmnopqrstuvwxyz" + str.toUpperCase();  
+return  "0000" + str.toUpperCase();  
+return  "I" + str.toUpperCase();  
+return  "L" + str.toUpperCase();  
+return  "000" + str.toUpperCase();  
+return  hex.toUpperCase();  
+return  target.toUpperCase();  
+return  "HELLO".toUpperCase();  
+return  +str.toUpperCase();  
+return  "EMPTY".toUpperCase();  
+return  "");.toUpperCase();  
+return  ""; str.toUpperCase();  
+return  "OTHER".toUpperCase();  
+return  EMPTY + str.toUpperCase();  
+return  myString.toUpperCase();  
+return  "".toString() + str.toUpperCase();  
+return  charArray.toUpperCase();  
+return  $str.toUpperCase();  
+return  str + "".toUpperCase();  
+return  "00000000" + str.toUpperCase();  
+return  "X" + str.toUpperCase();  
+return  String.prototype.toUpperCase();  
+return  '"' + str.toUpperCase();  
+return  ""; //return str.toUpperCase();  
+return  str, 0, len.toUpperCase();  
+return  null; }.toUpperCase();  
+return  "F" + str.toUpperCase();  
+return  clean(str).toUpperCase();  
+return  the original string.toUpperCase();  
+return  new String(chars).toUpperCase();  
+return  "HELLO" + str.toUpperCase();  
+return  "x" + str.toUpperCase();  
+return  "Hello".toUpperCase();  
+return  str .toUpperCase();  
+return  "...".toUpperCase();  
+return  i18n.toUpperCase();  
+return  "f" + str.toUpperCase();  
+return  clean(str);.toUpperCase();  
+return  EMPTY; }.toUpperCase();  
+return  "DEFAULT".toUpperCase();  
+return  "F".toUpperCase();  
+return  chinese.toUpperCase();  
+return  "<unknown>".toUpperCase();  
+return  ""; else.toUpperCase();  
+return  "zzz".toUpperCase();  
+return  ""; // return str.toUpperCase();  
+return  "'" + str + "'";.toUpperCase();  
+return  "C".toUpperCase();  
+return  trim(str).toUpperCase();  
+return  "NULL".toUpperCase();  
+return  "1" + str.toUpperCase();  
+return  str+str.toUpperCase();  
+return  Strings.EMPTY.toUpperCase();  
+return  String.EMPTY.toUpperCase();  
+return  "aaa" + str.toUpperCase();  
+return  "<null>".toUpperCase();  
+return  toString(); }.toUpperCase();  
+return  new String("").toUpperCase();  
+return  "0".toUpperCase();  
+if(str==null){return  null;} return str.toUpperCase();  
+if(str==null){return  str;} return str.toUpperCase();  
+if(str==null){return  "";;} return str.toUpperCase();  
+if(str==null){return  null;;} return str.toUpperCase();  
+if(str==null){return  str;;} return str.toUpperCase();  
+if(str==null){return  "";} return str.toUpperCase();  
+if(str==null){return  "null";} return str.toUpperCase();  
+if(str==null){return null;} return str.toUpperCase();  
+if(str==null){return  "NULL";} return str.toUpperCase();  
+if(str==null){return  EMPTY;} return str.toUpperCase();  
+if(str==null){return str;} return str.toUpperCase();  
+if(str==null){return  "NULL";;} return str.toUpperCase();  
+if(str==null){return  NULL;} return str.toUpperCase();  
+if(str==null){return  false;} return str.toUpperCase();  
+if(str==null){return  StringUtils.EMPTY;} return str.toUpperCase();  
+if(str==null){return  "";};} return str.toUpperCase();  
+if(str==null){return  " ";} return str.toUpperCase();  
+if(str==null){return  '';;} return str.toUpperCase();  
+if(str==null){return "";;} return str.toUpperCase();  
+if(str==null){return  null; };} return str.toUpperCase();  
+if(str==null){return ;;} return str.toUpperCase();  
+if(str==null){return  str; };} return str.toUpperCase();  
+if(str==null){return  "null";;} return str.toUpperCase();  
+if(str==null){return "";} return str.toUpperCase();  
+if(str==null){return  "";} else;} return str.toUpperCase();  
+if(str==null){return  String.EMPTY;} return str.toUpperCase();  
+if(str==null){return  this;} return str.toUpperCase();  
+if(str==null){return  "NA";} return str.toUpperCase();  
+if(str==null){return  string;} return str.toUpperCase();  
+if(str==null){return  "";}else;} return str.toUpperCase();  
+if(str==null){return  "UNKNOWN";} return str.toUpperCase();  
+if(str==null){return  "\";} return str.toUpperCase();  
+if(str==null){return  "default";} return str.toUpperCase();  
+if(str==null){return  "NULL";};} return str.toUpperCase();  
+if(str==null){return  ""; };} return str.toUpperCase();  
+if(str==null){return  "");;} return str.toUpperCase();  
+if(str==null){return  true;} return str.toUpperCase();  
+if(str==null){return  0;} return str.toUpperCase();  
+if(str==null){return  false;;} return str.toUpperCase();  
+if(str==null){return  "+";;} return str.toUpperCase();  
+if(str==null){return  null;};} return str.toUpperCase();  
+if(str==null){return  "unknown";} return str.toUpperCase();  
+if(str==null){return   null;} return str.toUpperCase();  
+if(str==null){return  "0";;} return str.toUpperCase();  
+if(str==null){return  "{};} return str.toUpperCase();  
+if(str==null){return  "zzz";} return str.toUpperCase();  
+if(str==null){return  "{}";;} return str.toUpperCase();  
+if(str==null){return  "<null>";} return str.toUpperCase();  
+if(str==null){return  s;} return str.toUpperCase();  
+if(str==null){return  "UNKNOWN";;} return str.toUpperCase();  
+if(str==null){return  undefined;} return str.toUpperCase();  
+if(str==null){return  "???";} return str.toUpperCase();  
+if(str==null){return  -1;} return str.toUpperCase();  
+if(str==null){return  "NA";;} return str.toUpperCase();  
+if(str==null){return  "0";};} return str.toUpperCase();  
+if(str==null){return  "+;} return str.toUpperCase();  
+if(str==null){return  EMPTY_STRING;} return str.toUpperCase();  
+if(str==null){return  "Unknown";} return str.toUpperCase();  
+if(str==null){return  "undefined";} return str.toUpperCase();  
+if(str==null){return  "N";} return str.toUpperCase();  
+if(str==null){return  "N";;} return str.toUpperCase();  
+if(str==null){return  "DEFAULT";} return str.toUpperCase();  
+if(str==null){return  'null';} return str.toUpperCase();  
+if(str==null){return  "none";} return str.toUpperCase();  
+if(str==null){return null;;} return str.toUpperCase();  
+if(str==null){return  "EMPTY";;} return str.toUpperCase();  
+if(str==null){return  null ;} return str.toUpperCase();  
+if(str==null){return  "...";} return str.toUpperCase();  
+if(str==null){return  "unknown;} return str.toUpperCase();  
+if(str==null){return  null ;;} return str.toUpperCase();  
+if(str==null){return  "UNKNOWN;} return str.toUpperCase();  
+if(str==null){return  "null";};} return str.toUpperCase();  
+if(str==null){return  s;;} return str.toUpperCase();  
+if(str==null){return  "\"";} return str.toUpperCase();  
+if(str==null){return  "":;} return str.toUpperCase();  
+if(str==null){return  '';} return str.toUpperCase();  
+if(str==null){return  str;};} return str.toUpperCase();  
+if(str==null){return  EMPTYSTRING;} return str.toUpperCase();  
+if(str==null){return  "*";;} return str.toUpperCase();  
+if(str==null){return str;;} return str.toUpperCase();  
+if(str==null){return  EMPTY;;} return str.toUpperCase();  
+if(str==null){return  "<null>";;} return str.toUpperCase();  
+if(str==null){return  """;} return str.toUpperCase();  
+if(str==null){return  "unknown";;} return str.toUpperCase();  
+if(str==null){return  "Unknown";;} return str.toUpperCase();  
+if(str==null){return  StringUtils;} return str.toUpperCase();  
+if(str==null){return  "NULL"};;} return str.toUpperCase();  
+if(str==null){return  "undefined";;} return str.toUpperCase();  
+if(str==null){return   "";} return str.toUpperCase();  
+if(str==null){return "null";} return str.toUpperCase();  
+if(str==null){return  obj;} return str.toUpperCase();  
+if(str==null){return  new String();;} return str.toUpperCase();  
+if(str==null){return  ";} return str.toUpperCase();  
+if(str==null){return  'NULL';} return str.toUpperCase();  
+if(str==null){return  "", "";} return str.toUpperCase();  
+if(str==null){return  "-";} return str.toUpperCase();  
+if(str==null){return  new String("");;} return str.toUpperCase();  
+if(str==null){return  "NULL;} return str.toUpperCase();  
+if(str==null){return  "''";;} return str.toUpperCase();  
+if(str==null){return  "false";} return str.toUpperCase();  
+if(str==null){return  String;} return str.toUpperCase();  
+if(str==null){return  "A";;} return str.toUpperCase();  
+if(str==null){return  str ;;} return str.toUpperCase();  
+if(str==null){return  "X";} return str.toUpperCase();  
+if(str==null){return  "".toUpperCase();;} return str.toUpperCase();  
+if(str==null){return  "Unknown;} return str.toUpperCase();  
+if(str==null){return  "a";;} return str.toUpperCase();  
+if(str==null){return  "0";} return str.toUpperCase();  
+if(str==null){return  " null";} return str.toUpperCase();  
+if(str==null){return  "EMPTY";} return str.toUpperCase();  
+if(str==null){return  "false";;} return str.toUpperCase();  
+if(str==null){return  "None";} return str.toUpperCase();  
+if(str==null){return  "foo";;} return str.toUpperCase();  
+if(str==null){return  "abc";;} return str.toUpperCase();  
+if(str==null){return  ' ';} return str.toUpperCase();  
+if(str==null){return  empty;} return str.toUpperCase();  
+if(str==null){return  "zzz";;} return str.toUpperCase();  
+if(str==null){return  " ";;} return str.toUpperCase();  
+if(str==null){return  "","";} return str.toUpperCase();  
+if(str==null){return  null; ;} return str.toUpperCase();  
+if(str==null){return  null; ;} return str.toUpperCase();  
+if(str==null){return   str;} return str.toUpperCase();  
+if(str==null){return  "a";};} return str.toUpperCase();  
+if(str==null){return  "None";;} return str.toUpperCase();  
+if(str==null){return  "C";} return str.toUpperCase();  
+if(str==null){return  "X";;} return str.toUpperCase();  
+if(str==null){return  "Null";} return str.toUpperCase();  
+if(str==null){return  "NONE";} return str.toUpperCase();  
+if(str==null){return  "zzz;} return str.toUpperCase();  
+if(str==null){return  "none";;} return str.toUpperCase();  
+if(str==null){return  nil;} return str.toUpperCase();  
+if(str==null){return  Null;} return str.toUpperCase();  
+if(str==null){return  EMPTY_STR;} return str.toUpperCase();  
+if(str==null){return  "!";} return str.toUpperCase();  
+if(str==null){return  null;};} return str.toUpperCase();  
+if(str==null){return  "null;} return str.toUpperCase();  
+if(str==null){return  "-";;} return str.toUpperCase();  
+if(str==null){return  "'";} return str.toUpperCase();  
+if(str==null){return  true;;} return str.toUpperCase();  
+if(str==null){return  strval;} return str.toUpperCase();  
+if(str==null){return  "00";;} return str.toUpperCase();  
+if(str==null){return  "abc";} return str.toUpperCase();  
+if(str==null){return  "()";} return str.toUpperCase();  
+if(str==null){return  "C";;} return str.toUpperCase();  
+if(str==null){return  str=null;} return str.toUpperCase();  
+if(str==null){return  "????";} return str.toUpperCase();  
+if(str==null){return  "i";;} return str.toUpperCase();  
+if(str==null){return  ''};;} return str.toUpperCase();  
+if(str==null){return  "L";} return str.toUpperCase();  
+if(str==null){return  input;} return str.toUpperCase();  
+if(str==null){return  null;AST#return_statement#Right;} return str.toUpperCase();  
+if(str==null){return  str; ;} return str.toUpperCase();  
+if(str==null){return  "A";} return str.toUpperCase();  
+if(str==null){return  "Unknown";};} return str.toUpperCase();  
+if(str==null){return  NULL;;} return str.toUpperCase();  
+if(str==null){return  "{}";} return str.toUpperCase();  
+if(str==null){return  ".";} return str.toUpperCase();  
+if(str==null){return  val;} return str.toUpperCase();  
+if(str==null){return  String.valueOf;} return str.toUpperCase();  
+if(str==null){return  Constants.EMPTY;} return str.toUpperCase();  
+if(str==null){return  new String;} return str.toUpperCase();  
+if(str==null){return ("");;} return str.toUpperCase();  
+if(str==null){return  "null"};;} return str.toUpperCase();  
+if(str==null){return  "EMPTY";};} return str.toUpperCase();  
+if(str==null){return  "true";} return str.toUpperCase();  
+if(str==null){return  "(null)";} return str.toUpperCase();  
+if(str==null){return  str==null;} return str.toUpperCase();  
+if(str==null){return  "" ;;} return str.toUpperCase();  
+if(str==null){return  "ZZ";} return str.toUpperCase();  
+if(str==null){return  toString();;} return str.toUpperCase();  
+if(str==null){return  "[";;} return str.toUpperCase();  
+if(str==null){return  'zzz';} return str.toUpperCase();  
+if(str==null){return  str;} return str.toUpperCase();  
+if(str==null){return  n;} return str.toUpperCase();  
+if(str==null){return  "Z";} return str.toUpperCase();  
+if(str==null){return  "<NULL>";;} return str.toUpperCase();  
+if(str==null){return  "00";};} return str.toUpperCase();  
+if(str==null){return "";};} return str.toUpperCase();  
+if(str==null){return  "ZZ";;} return str.toUpperCase();  
+if(str==null){return  "s";;} return str.toUpperCase();  
+if(str==null){return ="";;} return str.toUpperCase();  
+if(str==null){return  "  ";} return str.toUpperCase();  
+if(str==null){return  n/a;} return str.toUpperCase();  
+if(str==null){return  "nil";} return str.toUpperCase();  
+if(str==null){return  p;} return str.toUpperCase();  
+if(str==null){return  "F";} return str.toUpperCase();  
+if(str==null){return  ''; };} return str.toUpperCase();  
+if(str==null){return  "ABC";} return str.toUpperCase();  
+if(str==null){return  '0';} return str.toUpperCase();  
+if(str==null){return  text;} return str.toUpperCase();  
+if(str==null){return  "DEFAULT";;} return str.toUpperCase();  
+if(str==null){return  $;} return str.toUpperCase();  
+if(str==null){return  c;} return str.toUpperCase();  
+if(str==null){return  res;} return str.toUpperCase();  
+if(str==null){return  "***";;} return str.toUpperCase();  
+if(str==null){return  Constants;} return str.toUpperCase();  
+if(str==null){return  NONE;} return str.toUpperCase();  
+if(str==null){return  '0';;} return str.toUpperCase();  
+if(str==null){return  "000";;} return str.toUpperCase();  
+if(str==null){return  "true";;} return str.toUpperCase();  
+if(str==null){return  str; ;} return str.toUpperCase();  
+if(str==null){return  "...";;} return str.toUpperCase();  
+if(str==null){return  _EMPTY_;} return str.toUpperCase();  
+if(str==null){return  "NONE";;} return str.toUpperCase();  
+if(str==null){return  "1";;} return str.toUpperCase();  
+if(str==null){return Null;} return str.toUpperCase();  
+if(str==null){return  '';};} return str.toUpperCase();  
+if(str==null){return NULL;} return str.toUpperCase();  
+if(str==null){return -1;} return str.toUpperCase();  
+if(str==null){return  "nil";;} return str.toUpperCase();  
+if(str==null){return  txt;} return str.toUpperCase();  
+if(str==null){return  'default';} return str.toUpperCase();  
+if(str==null){return  "ZZZZ;} return str.toUpperCase();  
+if(str==null){return  "<NULL>";} return str.toUpperCase();  
+if(str==null){return  name;} return str.toUpperCase();  
+if(str==null){return  "E";} return str.toUpperCase();  
+if(str==null){return  "default";;} return str.toUpperCase();  
+if(str==null){return "NULL";} return str.toUpperCase();  
+if(str==null){return  "UNKNOWN";};} return str.toUpperCase();  
+if(str==null){return  null};} return str.toUpperCase();  
+if(str==null){return  str ;} return str.toUpperCase();  
+if(str==null){return  "NO";} return str.toUpperCase();  
+if(str==null){return  _null;} return str.toUpperCase();  
+if(str==null){return  "INVALID";} return str.toUpperCase();  
+if(str==null){return  _EMPTY;} return str.toUpperCase();  
+if(str==null){return  return null;} return str.toUpperCase();  
+if(str==null){return  StringUtil.EMPTY;} return str.toUpperCase();  
+if(str==null){return  Constants.NULL;} return str.toUpperCase();  
+if(str==null){return  "[NULL]";;} return str.toUpperCase();  
+if(str==null){return  "foo";} return str.toUpperCase();  
+if(str==null){return  Strings.EMPTY;} return str.toUpperCase();  
+if(str==null){return  "this";} return str.toUpperCase();  
+if(str==null){return ;} return str.toUpperCase();  
+if(str==null){return  "x";;} return str.toUpperCase();  
+if(str==null){return  " "";;} return str.toUpperCase();  
+if(str==null){return "NULL";;} return str.toUpperCase();  
+if(str==null){return  "+0";;} return str.toUpperCase();  
+if(str==null){return  "00000000";} return str.toUpperCase();  
+if(str==null){return  String.class;} return str.toUpperCase();  
+if(str==null){return  "unknown";};} return str.toUpperCase();  
+if(str==null){return  NULL_STRING;} return str.toUpperCase();  
+if(str==null){return  "******";;} return str.toUpperCase();  
+if(str==null){return  "-1";} return str.toUpperCase();  
+if(str==null){return  "undefined";};} return str.toUpperCase();  
+if(str==null){return  "00";} return str.toUpperCase();  
+if(str==null){return  "[]";;} return str.toUpperCase();  
+if(str==null){return  "xyz";;} return str.toUpperCase();  
+if(str==null){return   null;;} return str.toUpperCase();  
+if(str==null){return  "undefined;} return str.toUpperCase();  
+if(str==null){return  'a';} return str.toUpperCase();  
+if(str==null){ str=null; } return str.toUpperCase();  
+if(str==null){ str=""; } return str.toUpperCase();  
+if(str==null){ str= ""; }; } return str.toUpperCase();  
+if(str==null){ str= ""; } return str.toUpperCase();  
+if(str==null){ str=EMPTY; } return str.toUpperCase();  
+if(str==null){ str=NULL; } return str.toUpperCase();  
+if(str==null){ str= null; } return str.toUpperCase();  
+if(str==null){ str= " "; } return str.toUpperCase();  
+if(str==null){ str= ""; return str; } return str.toUpperCase();  
+if(str==null){ str= ""; return null; } return str.toUpperCase();  
+if(str==null){ str=false; } return str.toUpperCase();  
+if(str==null){ str=defaultString; } return str.toUpperCase();  
+if(str==null){ str=0; } return str.toUpperCase();  
+if(str==null){ str=StringUtils.EMPTY; } return str.toUpperCase();  
+if(str==null){ str=str; } return str.toUpperCase();  
+if(str==null){ str=''; } return str.toUpperCase();  
+if(str==null){ str=""; }; } return str.toUpperCase();  
+if(str==null){ str=empty; } return str.toUpperCase();  
+if(str==null){ str=undefined; } return str.toUpperCase();  
+if(str==null){ str=blank; } return str.toUpperCase();  
+if(str==null){ str=String.EMPTY; } return str.toUpperCase();  
+if(str==null){ str=EMPTYSTRING; } return str.toUpperCase();  
+if(str==null){ str=DEFAULT_STRING; } return str.toUpperCase();  
+if(str==null){ str= "NULL"; } return str.toUpperCase();  
+if(str==null){ str=Null; } return str.toUpperCase();  
+if(str==null){ str= EMPTY; } return str.toUpperCase();  
+if(str==null){ str=true; } return str.toUpperCase();  
+if(str==null){ str= "";; } return str.toUpperCase();  
+if(str==null){ str= "";}; } return str.toUpperCase();  
+if(str==null){ str=DEFAULT; } return str.toUpperCase();  
+if(str==null){ str=s; } return str.toUpperCase();  
+if(str==null){ str=String.valueOf; } return str.toUpperCase();  
+if(str==null){ str=StringUtils; } return str.toUpperCase();  
+if(str==null){ str= "..."; } return str.toUpperCase();  
+if(str==null){ str=default; } return str.toUpperCase();  
+if(str==null){ str=EMPTY_STRING; } return str.toUpperCase();  
+if(str==null){ str= "N"; } return str.toUpperCase();  
+if(str==null){ str= "UNKNOWN"; } return str.toUpperCase();  
+if(str==null){ str=null; }; } return str.toUpperCase();  
+if(str==null){ str= ' '; } return str.toUpperCase();  
+if(str==null){ str= "null"; } return str.toUpperCase();  
+if(str==null){ str=ucfirst; } return str.toUpperCase();  
+if(str==null){ str=i; } return str.toUpperCase();  
+if(str==null){ str=string; } return str.toUpperCase();  
+if(str==null){ str=toString(); } return str.toUpperCase();  
+if(str==null){ str=new String; } return str.toUpperCase();  
+if(str==null){ str=initialValue; } return str.toUpperCase();  
+if(str==null){ str=clean; } return str.toUpperCase();  
+if(str==null){ str= "default"; } return str.toUpperCase();  
+if(str==null){ str=Strings.EMPTY; } return str.toUpperCase();  
+if(str==null){ str=this; } return str.toUpperCase();  
+if(str==null){ str=StringUtil; } return str.toUpperCase();  
+if(str==null){ str=toUpperCase; } return str.toUpperCase();  
+if(str==null){ str=String.format; } return str.toUpperCase();  
+if(str==null){ str=emptyString; } return str.toUpperCase();  
+if(str==null){ str= NULL; } return str.toUpperCase();  
+if(str==null){ str=UNDEFINED; } return str.toUpperCase();  
+if(str==null){ str=String.class; } return str.toUpperCase();  
+if(str==null){ str=String; } return str.toUpperCase();  
+if(str==null){ str= ''; } return str.toUpperCase();  
+if(str==null){ str=original; } return str.toUpperCase();  
+if(str==null){ str= "Unknown"; } return str.toUpperCase();  
+if(str==null){ str=val; } return str.toUpperCase();  
+if(str==null){ str= "..." }; } return str.toUpperCase();  
+if(str==null){ str= "unknown"; } return str.toUpperCase();  
+if(str==null){ str= "NA"; } return str.toUpperCase();  
+if(str==null){ str=UTF8; } return str.toUpperCase();  
+if(str==null){ str=toUpperCase(); } return str.toUpperCase();  
+if(str==null){ str= "";  }; } return str.toUpperCase();  
+if(str==null){ str=word; } return str.toUpperCase();  
+if(str==null){ str=BLANK; } return str.toUpperCase();  
+if(str==null){ str=input; } return str.toUpperCase();  
+if(str==null){ str= "DEFAULT"; } return str.toUpperCase();  
+if(str==null){ str= "abc"; } return str.toUpperCase();  
+if(str==null){ str=i18n; } return str.toUpperCase();  
+if(str==null){ str=name; } return str.toUpperCase();  
+if(str==null){ str= "HELLO"; } return str.toUpperCase();  
+if(str==null){ str=utf8; } return str.toUpperCase();  
+if(str==null){ str=toString; } return str.toUpperCase();  
+if(str==null){ str= "C"; } return str.toUpperCase();  
+if(str==null){ str=DEFAULT_STR; } return str.toUpperCase();  
+if(str==null){ str=UNKNOWN; } return str.toUpperCase();  
+if(str==null){ str=String.BLANK; } return str.toUpperCase();  
+if(str==null){ str=defaultChar; } return str.toUpperCase();  
+if(str==null){ str=str+str; } return str.toUpperCase();  
+if(str==null){ str=encoding; } return str.toUpperCase();  
+if(str==null){ str=new String(); } return str.toUpperCase();  
+if(str==null){ str=c; } return str.toUpperCase();  
+if(str==null){ str=NIL; } return str.toUpperCase();  
+if(str==null){ str= "  "; } return str.toUpperCase();  
+if(str==null){ str=1; } return str.toUpperCase();  
+if(str==null){ str= "."; } return str.toUpperCase();  
+if(str==null){ str= " " };; } return str.toUpperCase();  
+if(str==null){ str= StringUtils.EMPTY; } return str.toUpperCase();  
+if(str==null){ str= ""; return ""; } return str.toUpperCase();  
+if(str==null){ str=defaultValue; } return str.toUpperCase();  
+if(str==null){ str= "EMPTY"; } return str.toUpperCase();  
+if(str==null){ str= ''; }; } return str.toUpperCase();  
+if(str==null){ str=StringUtil.EMPTY; } return str.toUpperCase();  
+if(str==null){ str=NULL_STRING; } return str.toUpperCase();  
+if(str==null){ str=default_string; } return str.toUpperCase();  
+if(str==null){ str=default_str; } return str.toUpperCase();  
+if(str==null){ str= "!"; } return str.toUpperCase();  
+if(str==null){ str=""+str; } return str.toUpperCase();  
+if(str==null){ str= ""); }; } return str.toUpperCase();  
+if(str==null){ str=N; } return str.toUpperCase();  
+if(str==null){ str="?"; } return str.toUpperCase();  
+if(str==null){ str= ""); return str; } return str.toUpperCase();  
+if(str==null){ str=" "; } return str.toUpperCase();  
+if(str==null){ str=STRING; } return str.toUpperCase();  
+if(str==null){ str=randomString; } return str.toUpperCase();  
+if(str==null){ str=I; } return str.toUpperCase();  
+if(str==null){ str= """; } return str.toUpperCase();  
+if(str==null){ str="."; } return str.toUpperCase();  
+if(str==null){ str=DEFAULT_VALUE; } return str.toUpperCase();  
+if(str==null){ str=random; } return str.toUpperCase();  
+if(str==null){ str=lc; } return str.toUpperCase();  
+if(str==null){ str=HELLO; } return str.toUpperCase();  
+if(str==null){ str=defaultStr; } return str.toUpperCase();  
+if(str==null){ str=EMPTY_STR; } return str.toUpperCase();  
+if(str==null){ str= "X"; } return str.toUpperCase();  
+if(str==null){ str=value; } return str.toUpperCase();  
+if(str==null){ str=""; return str; } return str.toUpperCase();  
+if(str==null){ str=upper; } return str.toUpperCase();  
+if(str==null){ str=English; } return str.toUpperCase();  
+if(str==null){ str=code; } return str.toUpperCase();  
+if(str==null){ str=r; } return str.toUpperCase();  
+if(str==null){ str=plain; } return str.toUpperCase();  
+if(str==null){ str=clear; } return str.toUpperCase();  
+if(str==null){ str=reset; } return str.toUpperCase();  
+if(str==null){ str= " "; }; } return str.toUpperCase();  
+if(str==null){ str= "; } return str.toUpperCase();  
+if(str==null){ str= " " ;; } return str.toUpperCase();  
+if(str==null){ str= "\"; } return str.toUpperCase();  
+if(str==null){ str=a; } return str.toUpperCase();  
+if(str==null){ str=StrUtil; } return str.toUpperCase();  
+if(str==null){ str=  ""; } return str.toUpperCase();  
+if(str==null){ str=txt; } return str.toUpperCase();  
+if(str==null){ str= "'; } return str.toUpperCase();  
+if(str==null){ str= ""); return null; } return str.toUpperCase();  
+if(str==null){ str= "zzz"; } return str.toUpperCase();  
+if(str==null){ str=chars; } return str.toUpperCase();  
+if(str==null){ str=locale; } return str.toUpperCase();  
+if(str==null){ str=str+""; } return str.toUpperCase();  
+if(str==null){ str= "()"; } return str.toUpperCase();  
+if(str==null){ str=UTF_8; } return str.toUpperCase();  
+if(str==null){ str=(""); } return str.toUpperCase();  
+if(str==null){ str= "" }; } return str.toUpperCase();  
+if(str==null){ str= " ""; } return str.toUpperCase();  
+if(str==null){ str=str+"; } return str.toUpperCase();  
+if(str==null){ str= "A"; } return str.toUpperCase();  
+if(str==null){ str=C; } return str.toUpperCase();  
+if(str==null){ str= String.EMPTY; } return str.toUpperCase();  
+if(str==null){ str=n; } return str.toUpperCase();  
+if(str==null){ str=new String(""); } return str.toUpperCase();  
+if(str==null){ str= "foo"; } return str.toUpperCase();  
+if(str==null){ str=trim; } return str.toUpperCase();  
+if(str==null){ str=""; return null; } return str.toUpperCase();  
+if(str==null){ str= " " }; } return str.toUpperCase();  
+if(str==null){ str=nil; } return str.toUpperCase();  
+if(str==null){ str=sb; } return str.toUpperCase();  
+if(str==null){ str=dflt; } return str.toUpperCase();  
+if(str==null){ str= "_"; } return str.toUpperCase();  
+if(str==null){ str=NO_STRING; } return str.toUpperCase();  
+if(str==null){ str=US; } return str.toUpperCase();  
+if(str==null){ str= "F"; } return str.toUpperCase();  
+if(str==null){ str=defaultVal; } return str.toUpperCase();  
+if(str==null){ str=cat; } return str.toUpperCase();  
+if(str==null){ str= "..."; }; } return str.toUpperCase();  
+if(str==null){ str=toUpperCase() }; } return str.toUpperCase();  
+if(str==null){ str=ucwords; } return str.toUpperCase();  
+if(str==null){ str=LowerCase; } return str.toUpperCase();  
+if(str==null){ str=N/A; } return str.toUpperCase();  
+if(str==null){ str=123; } return str.toUpperCase();  
+if(str==null){ str=initial; } return str.toUpperCase();  
+if(str==null){ str=java.lang; } return str.toUpperCase();  
+if(str==null){ str= "";   }; } return str.toUpperCase();  
+if(str==null){ str=lowercase; } return str.toUpperCase();  
+if(str==null){ str= "test"; } return str.toUpperCase();  
+if(str==null){ str=BASE; } return str.toUpperCase();  
+if(str==null){ str=VOID; } return str.toUpperCase();  
+if(str==null){ str="NULL"; } return str.toUpperCase();  
+if(str==null){ str=defaultCharset; } return str.toUpperCase();  
+if(str==null){ str=abc; } return str.toUpperCase();  
+if(str==null){ str=alpha; } return str.toUpperCase();  
+if(str==null){ str=fallback; } return str.toUpperCase();  
+if(str==null){ str=myString; } return str.toUpperCase();  
+if(str==null){ str=Constants; } return str.toUpperCase();  
+if(str==null){ str=toUpperCase(); }; } return str.toUpperCase();  
+if(str==null){ str=";; } return str.toUpperCase();  
+if(str==null){ str= "TEST"; } return str.toUpperCase();  
+if(str==null){ str=UC; } return str.toUpperCase();  
+if(str==null){ str=length; } return str.toUpperCase();  
+if(str==null){ str= "L"; } return str.toUpperCase();  
+if(str==null){ str= "/"; } return str.toUpperCase();  
+if(str==null){ str=defaultChars; } return str.toUpperCase();  
+if(str==null){ str=NA; } return str.toUpperCase();  
+if(str==null){ str=NUL; } return str.toUpperCase();  
+if(str==null){ str= "I"; } return str.toUpperCase();  
+if(str==null){ str=e; } return str.toUpperCase();  
+if(str==null){ str=l; } return str.toUpperCase();  
+if(str==null){ str=toLowerCase(); } return str.toUpperCase();  
+if(str==null){ str=default_value; } return str.toUpperCase();  
+if(str==null){ str= "ABC"; } return str.toUpperCase();  
+if(str==null){ str= "E"; } return str.toUpperCase();  
+if(str==null){ str=""+""; } return str.toUpperCase();  
+if(str==null){ str="null"; } return str.toUpperCase();  
+if(str==null){ str= "''"; }; } return str.toUpperCase();  
+if(str==null){ str=DefaultString; } return str.toUpperCase();  
+if(str==null){ str= "0"; } return str.toUpperCase();  
+if(str==null){ str=defaultEnglish; } return str.toUpperCase();  
+if(str==null){ str= "undefined"; } return str.toUpperCase();  
+if(str==null){ str=ucFirst; } return str.toUpperCase();  
+if(str==null){ str=DEFAULT_CHARSET; } return str.toUpperCase();  
+if(str==null){ str= "UNKNOWN; } return str.toUpperCase();  
+if(str==null){ str= "00"; } return str.toUpperCase();  
+if(str==null){ str=getDefaultString(); } return str.toUpperCase();  
+if(str==null){ str=Constants.EMPTY; } return str.toUpperCase();  
+if(str==null){ str=STRING_EMPTY; } return str.toUpperCase();  
+if(str==null){ str=System.identity; } return str.toUpperCase();  
+if(str==null){ str=toString(); }; } return str.toUpperCase();  
+if(str==null){ str= "a";}; } return str.toUpperCase();  
+if(str==null){ str=getDefaultString; } return str.toUpperCase();  
+if(str==null){ str= "NONE"; } return str.toUpperCase();  
+if(str==null){ str= String.valueOf; } return str.toUpperCase();  
+if(str==null){ str= ""; return false; } return str.toUpperCase();  
+if(str==null){ str= 'a'; } return str.toUpperCase();  
+if(str==null){ str= "None"; } return str.toUpperCase();  
+if(str==null){ str= "NO"; } return str.toUpperCase();  
+if(str==null){ str=str.toUpperCase; } return str.toUpperCase();  
+if(str==null){ str= "xyz"; } return str.toUpperCase();  
+if(str==null){ str= "i"; } return str.toUpperCase();  
+if(str==null){ str=Util.EMPTY; } return str.toUpperCase();  
+if(str==null){ str= ""; return; } return str.toUpperCase();  
+if(str==null){ str= "00000000"; } return str.toUpperCase();  
+if(str==null){ str= StringUtil.EMPTY; } return str.toUpperCase();  
+if(str==null){ str=default_locale; } return str.toUpperCase();  
+if(str==null){ str= "a"; } return str.toUpperCase();  
+if(str==null){ str=str+"";}; } return str.toUpperCase();  
+if(str==null){ str= "none"; } return str.toUpperCase();  
+if(str==null){ str= "c"; } return str.toUpperCase();  
+if(str==null){ str= "xxx"; } return str.toUpperCase();  
+if(str==null){ str= "0000"; } return str.toUpperCase();  
+if(str==null){ str= ""; } ; } return str.toUpperCase();  
+if(str==null){ str= "hello"; } return str.toUpperCase();  
+if(str==null){ str= "x"; } return str.toUpperCase();  
+if(str==null){ str= "n"; } return str.toUpperCase();  
+if(str==null){ str= String.class; } return str.toUpperCase();  
+if(str==null){ str= "Y"; } return str.toUpperCase();  
+if(str==null){ str="N"; } return str.toUpperCase();  
+if(str.isEmpty()){ return str.toUpperCase();}  
+if(str != null){ return str.toUpperCase();}  
+if(str.length() == 0){ return str.toUpperCase();}  
+if(str.length()==0){ return str.toUpperCase();}  
+if(str.length() == 1){ return str.toUpperCase();}  
+if(str.equals("")){ return str.toUpperCase();}  
+if(isUpperCase){ return str.toUpperCase();}  
+if(str == null){ return str.toUpperCase();}  
+if(strict){ return str.toUpperCase();}  
+if(str.length() > 0){ return str.toUpperCase();}  
+if(str!=null){ return str.toUpperCase();}  
+if(str.length()==1){ return str.toUpperCase();}  
+if(true){ return str.toUpperCase();}  
+if(false){ return str.toUpperCase();}  
+if(str.length() > 1){ return str.toUpperCase();}  
+if(str==null){ return str.toUpperCase();}  
+if(str.contains("_")){ return str.toUpperCase();}  
+if(caseSensitive){ return str.toUpperCase();}  
+if(str.startsWith("_")){ return str.toUpperCase();}  
+if(isLowerCase){ return str.toUpperCase();}  
+if(useUpperCase){ return str.toUpperCase();}  
+if(str.endsWith("_")){ return str.toUpperCase();}  
+if(hasUpperCase){ return str.toUpperCase();}  
+if(isEmpty){ return str.toUpperCase();}  
+if(str.length()>0){ return str.toUpperCase();}  
+if(debug){ return str.toUpperCase();}  
+if(str.length() == 2){ return str.toUpperCase();}  
+if(str.isEmpty){ return str.toUpperCase();}  
+if(isUpper){ return str.toUpperCase();}  
+if(str.equalsIgnoreCase("")){ return str.toUpperCase();}  
+if(ignoreCase){ return str.toUpperCase();}  
+if(str.length() > 2){ return str.toUpperCase();}  
+if(len == 1){ return str.toUpperCase();}  
+if(str.length()!=0){ return str.toUpperCase();}  
+if(i == 0){ return str.toUpperCase();}  
+if(isWindows){ return str.toUpperCase();}  
+if(isUpperCase(str)){ return str.toUpperCase();}  
+if(null){ return str.toUpperCase();}  
+if(null==str){ return str.toUpperCase();}  
+if(StringUtils.isEmpty(str)){ return str.toUpperCase();}  
+if(len == 0){ return str.toUpperCase();}  
+if(isEnglish){ return str.toUpperCase();}  
+if(str.startsWith("-")){ return str.toUpperCase();}  
+if(test){ return str.toUpperCase();}  
+if(null!=str){ return str.toUpperCase();}  
+if(str instanceof String){ return str.toUpperCase();}  
+if(sensitive){ return str.toUpperCase();}  
+if(verbose){ return str.toUpperCase();}  
+if(str.length() != 0){ return str.toUpperCase();}  
+if(str.length()==2){ return str.toUpperCase();}  
+if(unicode){ return str.toUpperCase();}  
+if(charset == null){ return str.toUpperCase();}  
+if(utf8){ return str.toUpperCase();}  
+if(caseInsensitive){ return str.toUpperCase();}  
+if(charset){ return str.toUpperCase();}  
+if(encoding == null){ return str.toUpperCase();}  
+if( str.length() == 0){ return str.toUpperCase();}  
+if(str.isUpperCase()){ return str.toUpperCase();}  
+if(String.isUpperCase){ return str.toUpperCase();}  
+if(str.contains('_')){ return str.toUpperCase();}  
+if(null != str){ return str.toUpperCase();}  
+if(DEBUG){ return str.toUpperCase();}  
+if(StringUtils.isNotEmpty(str)){ return str.toUpperCase();}  
+if(UTF8){ return str.toUpperCase();}  
+if(str.contains("-")){ return str.toUpperCase();}  
+if(StringUtils.isBlank(str)){ return str.toUpperCase();}  
+if(caseSensitive){ return str.toUpperCase();}  
+if(str.toUpperCase() == null){ return str.toUpperCase();}  
+if(i > 0){ return str.toUpperCase();}  
+if(isLetter){ return str.toUpperCase();}  
+if(str.isEmpty()==false){ return str.toUpperCase();}  
+if(str.isLowerCase()){ return str.toUpperCase();}  
+if(str.contains('-')){ return str.toUpperCase();}  
+if(Character.isUpperCase){ return str.toUpperCase();}  
+if(allUpperCase){ return str.toUpperCase();}  
+if(upperCase){ return str.toUpperCase();}  
+if( str.isEmpty()){ return str.toUpperCase();}  
+if(str.contains(" ")){ return str.toUpperCase();}  
+if(null == str){ return str.toUpperCase();}  
+if(charset != null){ return str.toUpperCase();}  
+if(isUppercase){ return str.toUpperCase();}  
+if(chars.length == 1){ return str.toUpperCase();}  
+if(plain){ return str.toUpperCase();}  
+if(isLowerCase(str)){ return str.toUpperCase();}  
+if(str.length() > 3){ return str.toUpperCase();}  
+if(i < len-1){ return str.toUpperCase();}  
+if(isString(str)){ return str.toUpperCase();}  
+if(lowerCase){ return str.toUpperCase();}  
+if(i==0){ return str.toUpperCase();}  
+if(chars.length == 0){ return str.toUpperCase();}  
+if(str.toUpperCase() == str){ return str.toUpperCase();}  
+if(str.toUpperCase() != null){ return str.toUpperCase();}  
+if(charset==null){ return str.toUpperCase();}  
+if(ascii){ return str.toUpperCase();}  
+if(i < len){ return str.toUpperCase();}  
+if(preserveCase){ return str.toUpperCase();}  
+if(str.length() < 2){ return str.toUpperCase();}  
+if(str.equals("-")){ return str.toUpperCase();}  
+if(str.length() == 3){ return str.toUpperCase();}  
+if( str != null){ return str.toUpperCase();}  
+if(isBlank(str)){ return str.toUpperCase();}  
+if(Character.isLetter){ return str.toUpperCase();}  
+if(encoding==null){ return str.toUpperCase();}  
+if(str.toUpperCase() != str){ return str.toUpperCase();}  
+if( str.length()==0){ return str.toUpperCase();}  
+if(str.length()>1){ return str.toUpperCase();}  
+if(usingUpperCase){ return str.toUpperCase();}  
+if(chinese){ return str.toUpperCase();}  
+if(isCamelCase){ return str.toUpperCase();}  
+if(str.startsWith("A")){ return str.toUpperCase();}  
+if(isCaseInsensitive){ return str.toUpperCase();}  
+if(isAscii){ return str.toUpperCase();}  
+if(isLetter(str)){ return str.toUpperCase();}  
+if(String.isLowerCase){ return str.toUpperCase();}  
+if(isMac){ return str.toUpperCase();}  
+if( str.length() > 0){ return str.toUpperCase();}  
+if(allowUpperCase){ return str.toUpperCase();}  
+if(isEmpty()){ return str.toUpperCase();}  
+if(str.startsWith("-"))){ return str.toUpperCase();}  
+if(str.length() < 3){ return str.toUpperCase();}  
+if(str.endsWith("+")){ return str.toUpperCase();}  
+if(useLowerCase){ return str.toUpperCase();}  
+if(locale == null){ return str.toUpperCase();}  
+if(Strings.isEmpty(str)){ return str.toUpperCase();}  
+if(len == 2){ return str.toUpperCase();}  
+if(str.endsWith("-")){ return str.toUpperCase();}  
+if(str.equals(null)){ return str.toUpperCase();}  
+if(len > 0){ return str.toUpperCase();}  
+if(str.contains(' ')){ return str.toUpperCase();}  
+if(encoding != null){ return str.toUpperCase();}  
+if(str.length()==0){ return str.toUpperCase();}  
+if(StringUtil.isEmpty(str)){ return str.toUpperCase();}  
+if( isUpperCase){ return str.toUpperCase();}  
+if(lowercase){ return str.toUpperCase();}  
+if(str.length() > 10){ return str.toUpperCase();}  
+if(enabled){ return str.toUpperCase();}  
+if(isCapitalized){ return str.toUpperCase();}  
+if(forceUpperCase){ return str.toUpperCase();}  
+if(str.startsWith('_')){ return str.toUpperCase();}  
+if(native){ return str.toUpperCase();}  
+if(Boolean.TRUE){ return str.toUpperCase();}  
+if(str instanceof Character){ return str.toUpperCase();}  
+if(len==1){ return str.toUpperCase();}  
+if(simplified){ return str.toUpperCase();}  
+if(normalize){ return str.toUpperCase();}  
+if(str.length() == 4){ return str.toUpperCase();}  
+if(str.isEmpty() == false){ return str.toUpperCase();}  
+if(str.length() == 10){ return str.toUpperCase();}  
+if(string == null){ return str.toUpperCase();}  
+if(str.length() > 4){ return str.toUpperCase();}  
+if(str.equals(""){ return str.toUpperCase();}  
+if(safe){ return str.toUpperCase();}  
+if(len==0){ return str.toUpperCase();}  
+if(locale){ return str.toUpperCase();}  
+if(SAFE){ return str.toUpperCase();}  
+if(Strings.isEmpty){ return str.toUpperCase();}  
+if(str.length() >= 2){ return str.toUpperCase();}  
+if(StringUtils.isBlank(str))){ return str.toUpperCase();}  
+if(logger.isDebugEnabled()){ return str.toUpperCase();}  
+if( str.length() == 1){ return str.toUpperCase();}  
+if(str.equals(" ")){ return str.toUpperCase();}  
+if(encoding){ return str.toUpperCase();}  
+if(strong){ return str.toUpperCase();}  
+if(input == null){ return str.toUpperCase();}  
+if(str.length() < 4){ return str.toUpperCase();}  
+if(isAlphabetic){ return str.toUpperCase();}  
+if(isAllUpperCase){ return str.toUpperCase();}  
+if( isUpperCase(str)){ return str.toUpperCase();}  
+if(chars == null){ return str.toUpperCase();}  
+if(Boolean){ return str.toUpperCase();}  
+if(log.isDebugEnabled()){ return str.toUpperCase();}  
+if(hasLowerCase){ return str.toUpperCase();}  
+if(containsUpperCase){ return str.toUpperCase();}  
+if(str !=null){ return str.toUpperCase();}  
+if(empty){ return str.toUpperCase();}  
+if( str == null){ return str.toUpperCase();}  
+if( str.equals("")){ return str.toUpperCase();}  
+if(charset!=null){ return str.toUpperCase();}  
+if(str.contains("+")){ return str.toUpperCase();}  
+if(str.contains(" "))){ return str.toUpperCase();}  
+if(enableUpperCase){ return str.toUpperCase();}  
+if(isCase){ return str.toUpperCase();}  
+if(allowLowerCase){ return str.toUpperCase();}  
+if(str.endsWith(" ")){ return str.toUpperCase();}  
+if(isString(str))){ return str.toUpperCase();}  
+if(java.lang.UpperCase){ return str.toUpperCase();}  
+if(str.equals('')){ return str.toUpperCase();}  
+if(isBlank(str))){ return str.toUpperCase();}  
+if(str.isUpperCase){ return str.toUpperCase();}  
+if(str){ return str.toUpperCase();}  
+if(len > 1){ return str.toUpperCase();}  
+if(str.endsWith("."))){ return str.toUpperCase();}  
+if(str!= null){ return str.toUpperCase();}  
+if(isUpperCase()){ return str.toUpperCase();}  
+if(useLocale){ return str.toUpperCase();}  
+if(str.startsWith(" ")){ return str.toUpperCase();}  
+if(str.startsWith("abcdefghijklmnopqrstuvwxyz")){ return str.toUpperCase();}  
+if(hex){ return str.toUpperCase();}  
+if(str.toLowerCase() != null){ return str.toUpperCase();}  
+if(isUpperCase(str){ return str.toUpperCase();}  
+if(str.length()==3){ return str.toUpperCase();}  
+if(isUpper(str)){ return str.toUpperCase();}  
+if(stringCase){ return str.toUpperCase();}  
+if(UTF_8){ return str.toUpperCase();}  
+if(str.startsWith(" "){ return str.toUpperCase();}  
+if(str.endsWith("s")){ return str.toUpperCase();}  
+if(str.length()==4){ return str.toUpperCase();}  
+if(StringUtils.isUpperCase){ return str.toUpperCase();}  
+if(fallback){ return str.toUpperCase();}  
+if(str.startsWith("A){ return str.toUpperCase();}  
+if(char.isUpperCase){ return str.toUpperCase();}  
+if(str.contains('a')){ return str.toUpperCase();}  
+if(isAlphabetic(str)){ return str.toUpperCase();}  
+if(str.contains("-"))){ return str.toUpperCase();}  
+if(String.CASE_SENSITIVE){ return str.toUpperCase();}  
+if( true){ return str.toUpperCase();}  
+if( false){ return str.toUpperCase();}  
+if(str.toLowerCase().isEmpty()){ return str.toUpperCase();}  
+if(base==null){ return str.toUpperCase();}  
+if(str.length() < 1){ return str.toUpperCase();}  
+if(string.isEmpty){ return str.toUpperCase();}  
+if(tc.isDebugEnabled()){ return str.toUpperCase();}  
+if(length == 1){ return str.toUpperCase();}  
+if(str.equals(""))){ return str.toUpperCase();}  
+if(raw){ return str.toUpperCase();}  
+if(isUnicode){ return str.toUpperCase();}  
+if(length == 0){ return str.toUpperCase();}  
+if(canonical){ return str.toUpperCase();}  
+if(LOGGER.isDebugEnabled()){ return str.toUpperCase();}  
+if(isUnderscore){ return str.toUpperCase();}  
+if(String.isEmpty){ return str.toUpperCase();}  
+if( str.length() > 1){ return str.toUpperCase();}  
+if(s==null){ return str.toUpperCase();}  
+if(isAlpha){ return str.toUpperCase();}  
+if(StringUtil.isEmpty){ return str.toUpperCase();}  
+if(isLowerCase()){ return str.toUpperCase();}  
+if(isASCII){ return str.toUpperCase();}  
+if(str.isEmpty()==true){ return str.toUpperCase();}  
+if(str.endsWith("Z")){ return str.toUpperCase();}  
+if(StringUtils){ return str.toUpperCase();}  
+if(useCamelCase){ return str.toUpperCase();}  
+if(StringUtils.isEmpty){ return str.toUpperCase();}  
+if(str.startsWith("a")){ return str.toUpperCase();}  
+if(input==null){ return str.toUpperCase();}  
+if(asciiOnly){ return str.toUpperCase();}  
+if(usesUpperCase){ return str.toUpperCase();}  
+if(isCamel){ return str.toUpperCase();}  
+if(str.startsWith('a')){ return str.toUpperCase();}  
+if(str.length() == 6){ return str.toUpperCase();}  
+if(name == null){ return str.toUpperCase();}  

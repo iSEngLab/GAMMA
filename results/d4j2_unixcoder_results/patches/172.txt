@@ -1,0 +1,2500 @@
+ return am;  
+ assert am != null;  
+ continue;  
+ //return am;  
+ assert true;  
+ --;  
+ ++count;  
+ ++argCount;  
+ assert am.isStatic();  
+ check;  
+ ...;  
+ break;  
+ next;  
+ //continue;  
+ return null;  
+ assert false;  
+ ++i;  
+ am = am;  
+ ++index;  
+ return am.getAnnotated;  
+ // return am;  
+ Method am = am;  
+ return am.getMethod();  
+ assert am instanceof Method;  
+ //    continue;  
+ import;  
+ null;  
+ m = am;  
+ try;  
+ ++x;  
+ assert am!=null;  
+ Method method = am;  
+ ++_count;  
+ m;  
+ ++_argCount;  
+ assert am.isStatic;  
+ return am;  
+ Method m = am;  
+ return am.getMethod;  
+ ++mCount;  
+ return am.method;  
+ assert null != am;  
+ method;  
+ am = am.getAnnotation;  
+ assert null;  
+ do;  
+ a = am;  
+ ++;  
+ print am;  
+ //    return am;  
+ ++position;  
+ ;  
+ Null;  
+ ++depth;  
+ dummy;  
+ noinspection unchecked;  
+ String methodName;  
+ found;  
+ assert am instanceof FactoryMethod;  
+ pass;  
+ method = am;  
+ // continue;  
+ assert !am.isStatic;  
+ Annotation am = am;  
+ //return am;  
+ final Method am = am;  
+ continue<mask1> return am;  
+ index ++;  
+ ++n;  
+ print;  
+ String name;  
+ ++_counter;  
+ ++pos;  
+ assert am.isPublic;  
+ ++age;  
+ //  return am;  
+ param;  
+ Assert;  
+ start;  
+ rm = am;  
+ // return am;  
+ ++counter;  
+ am.isStatic = true;  
+ checkAccess;  
+ assert am != this;  
+ top;  
+ Return am;  
+ Method m = null;  
+ end;  
+ RETURN;  
+ pm = am;  
+ skip;  
+ return am.getAnnotation;  
+ tmp = am;  
+ abstract;  
+ AbstractMethod am = am;  
+ ++len;  
+ assert am != am;  
+ RETURN am;  
+ ++m;  
+ assert am;  
+ ++argTypes;  
+ ++numArgs;  
+ nextToken;  
+ main;  
+ ++found;  
+ 1;  
+ tag;  
+ assert null == am;  
+ am = am.method;  
+ art = am;  
+ yield am;  
+ im = am;  
+ ++size;  
+ AST#return_statement#Leftreturn am;  
+ currentMethod = am;  
+ current = am;  
+ am = am.getMethod;  
+ ++_index;  
+ returnType;  
+ ++argIndex;  
+ index++;  
+  return am;  
+ int index = 0;  
+ assert am instanceof AbstractMethod;  
+ am = am.target;  
+ assert not null;  
+ am.isStatic = false;  
+ unknown;  
+ returns am;  
+ pm;  
+ class A;  
+  return am;  
+ AsmMethod am = am;  
+ name;  
+ am.setAccessible(true;  
+ ++usage;  
+ ..;  
+ result = am;  
+ assert am == null;  
+ Method m;  
+ String msg = null;  
+  return am;  
+ ++type;  
+ p;  
+ //	continue;  
+ private;  
+ ++argcount;  
+ //noinspection unchecked;  
+ head;  
+ checkNotNull(am);  
+ outer:;  
+ ++_methodCount;  
+ ++pm;  
+ ++args;  
+ return am;  
+ ac = am;  
+ return Am;  
+ ++ _count;  
+ ++k;  
+ assert m != null;  
+ delete am;  
+ a;  
+ im;  
+ /*return am;  
+ method am;  
+ String className;  
+ ++actualArgCount;  
+ method am = am;  
+ final Method m = am;  
+ Method found = null;  
+ ++typeCount;  
+ //        continue;  
+ assert am is not null;  
+ /* return am;  
+ assert am == am;  
+ am = am.owner;  
+ final Method method = am;  
+ import static;  
+ acc = am;  
+ //  continue;  
+ argCount++;  
+ //    break;  
+ am.returnType = null;  
+ check<mask1> return am;  
+ //import;  
+ return am.target;  
+ arrived;  
+ ++actualArgType;  
+ assert am.isSynthetic;  
+ null<mask1> return am;  
+ ... return am;  
+ ...;  
+ var m;  
+ return am.annotated;  
+ continue;  
+ returnType = am.returnType;  
+ ++mIndex;  
+ System.out.println;  
+ ++ _argCount;  
+ ++foundFactoryMethodCount;  
+ Method meth = am;  
+ return am.obj;  
+ _method = am;  
+ System.out;  
+ } return am;  
+ assert actualArgType != null;  
+ ++usageCount;  
+ <mask1> ;  
+ ++am.argCount;  
+ assert am.isConstructor;  
+ var am = am;  
+ //        return am;  
+ Method method = null;  
+ assert_false;  
+ throw new UnsupportedOperationException;  
+ type actualArg;  
+ int idx = 0;  
+ String type = null;  
+ am = am.value;  
+ Annotation amAnnotation = am;  
+ type actualArgType;  
+ Object arg = null;  
+ isFactoryMethod = true;  
+ return am.param;  
+ private Method am;  
+ ++currentMethod;  
+ assert am!= null;  
+ assert am.isFinal;  
+ argTypes = null;  
+ ++currentMethodCount;  
+ assertNotNull(am);  
+ return am.arg;  
+ ++foundFactoryMethod;  
+ return am._method;  
+ name = am.name;  
+ ++_argIndex;  
+ ++this.argCount;  
+ am = am._method;  
+ Object am = am;  
+ am = am.returnType;  
+ am.arg = 0;  
+ assert am instanceof ClassMethod;  
+ void main() throws Exception;  
+ assert am instanceof InterfaceMethod;  
+ assert am instanceof Field;  
+ int argCount = 0;  
+ type expArgTypes;  
+ className = am.getClassName;  
+ <mask1> return am;  
+ return am; if (isFactoryMethod(am)) {  
+ continue; if (isFactoryMethod(am)) {  
+ return am; if (isFactoryMethod(am)) {  
+ continue; if (isFactoryMethod(am)) {  
+ assert am != null; if (isFactoryMethod(am)) {  
+ //return am; if (isFactoryMethod(am)) {  
+ am = am; if (isFactoryMethod(am)) {  
+ break; if (isFactoryMethod(am)) {  
+ //continue; if (isFactoryMethod(am)) {  
+ break; if (isFactoryMethod(am)) {  
+ //return am; if (isFactoryMethod(am)) {  
+ check; if (isFactoryMethod(am)) {  
+ ; if (isFactoryMethod(am)) {  
+ am; if (isFactoryMethod(am)) {  
+ return null; if (isFactoryMethod(am)) {  
+ ...; if (isFactoryMethod(am)) {  
+ try; if (isFactoryMethod(am)) {  
+ // return am; if (isFactoryMethod(am)) {  
+ next; if (isFactoryMethod(am)) {  
+ //    continue; if (isFactoryMethod(am)) {  
+ ...; if (isFactoryMethod(am)) {  
+ }; if (isFactoryMethod(am)) {  
+ null; if (isFactoryMethod(am)) {  
+  return am; if (isFactoryMethod(am)) {  
+ ++argCount; if (isFactoryMethod(am)) {  
+return am; if (isFactoryMethod(am)) {  
+ // return am; if (isFactoryMethod(am)) {  
+ ++; if (isFactoryMethod(am)) {  
+...; if (isFactoryMethod(am)) {  
+ assert true; if (isFactoryMethod(am)) {  
+ --; if (isFactoryMethod(am)) {  
+ m; if (isFactoryMethod(am)) {  
+ ++count; if (isFactoryMethod(am)) {  
+ method; if (isFactoryMethod(am)) {  
+ Method am = am; if (isFactoryMethod(am)) {  
+   return am; if (isFactoryMethod(am)) {  
+ } return null; if (isFactoryMethod(am)) {  
+ Method am; if (isFactoryMethod(am)) {  
+ break }; if (isFactoryMethod(am)) {  
+continue; if (isFactoryMethod(am)) {  
+ //noinspection unchecked; if (isFactoryMethod(am)) {  
+ // continue; if (isFactoryMethod(am)) {  
+ ... }; if (isFactoryMethod(am)) {  
+ ++i; if (isFactoryMethod(am)) {  
+ ++i; if (isFactoryMethod(am)) {  
+ //    return am; if (isFactoryMethod(am)) {  
+ do; if (isFactoryMethod(am)) {  
+ <mask1> ; if (isFactoryMethod(am)) {  
+ assert am != null; if (isFactoryMethod(am)) {  
+ //; if (isFactoryMethod(am)) {  
+ pm; if (isFactoryMethod(am)) {  
+ next; if (isFactoryMethod(am)) {  
+ return am.getMethod; if (isFactoryMethod(am)) {  
+ final Method am; if (isFactoryMethod(am)) {  
+ a; if (isFactoryMethod(am)) {  
+ //TODO; if (isFactoryMethod(am)) {  
+ found; if (isFactoryMethod(am)) {  
+ Method m; if (isFactoryMethod(am)) {  
+; if (isFactoryMethod(am)) {  
+ //  return am; if (isFactoryMethod(am)) {  
+ continue }; if (isFactoryMethod(am)) {  
+ ++x; if (isFactoryMethod(am)) {  
+ String name; if (isFactoryMethod(am)) {  
+ assert false; if (isFactoryMethod(am)) {  
+ //am; if (isFactoryMethod(am)) {  
+ ++index; if (isFactoryMethod(am)) {  
+ for; if (isFactoryMethod(am)) {  
+ pass; if (isFactoryMethod(am)) {  
+ String methodName; if (isFactoryMethod(am)) {  
+  //return am; if (isFactoryMethod(am)) {  
+ // NOP; if (isFactoryMethod(am)) {  
+ } return am; if (isFactoryMethod(am)) {  
+ return am.method; if (isFactoryMethod(am)) {  
+ //  continue; if (isFactoryMethod(am)) {  
+ null; if (isFactoryMethod(am)) {  
+  return am; if (isFactoryMethod(am)) {  
+ }; if (isFactoryMethod(am)) {  
+ return am; if (isFactoryMethod(am)) {  
+     return am; if (isFactoryMethod(am)) {  
+ a = am; if (isFactoryMethod(am)) {  
+ assert null; if (isFactoryMethod(am)) {  
+ assert am instanceof Method; if (isFactoryMethod(am)) {  
+ it; if (isFactoryMethod(am)) {  
+ return Am; if (isFactoryMethod(am)) {  
+ //TODO; if (isFactoryMethod(am)) {  
+ // XXX; if (isFactoryMethod(am)) {  
+ class; if (isFactoryMethod(am)) {  
+//return am; if (isFactoryMethod(am)) {  
+ Method m = null; if (isFactoryMethod(am)) {  
+ // continue; if (isFactoryMethod(am)) {  
+ method am; if (isFactoryMethod(am)) {  
+ Method method = am; if (isFactoryMethod(am)) {  
+ //for; if (isFactoryMethod(am)) {  
+ // method; if (isFactoryMethod(am)) {  
+ assert am; if (isFactoryMethod(am)) {  
+         return am; if (isFactoryMethod(am)) {  
+ //method; if (isFactoryMethod(am)) {  
+ assert am!=null; if (isFactoryMethod(am)) {  
+ ++argCount; if (isFactoryMethod(am)) {  
+  // return am; if (isFactoryMethod(am)) {  
+ } return null; if (isFactoryMethod(am)) {  
+ // Method am; if (isFactoryMethod(am)) {  
+    return am; if (isFactoryMethod(am)) {  
+ } return am; if (isFactoryMethod(am)) {  
+ // 	continue; if (isFactoryMethod(am)) {  
+ if; if (isFactoryMethod(am)) {  
+ dummy; if (isFactoryMethod(am)) {  
+ //    break; if (isFactoryMethod(am)) {  
+} return null; if (isFactoryMethod(am)) {  
+ return am.getAnnotation; if (isFactoryMethod(am)) {  
+ //continue; if (isFactoryMethod(am)) {  
+ assert am.isStatic; if (isFactoryMethod(am)) {  
+ // found; if (isFactoryMethod(am)) {  
+ // ...; if (isFactoryMethod(am)) {  
+ // try; if (isFactoryMethod(am)) {  
+ Null; if (isFactoryMethod(am)) {  
+..; if (isFactoryMethod(am)) {  
+ ++count; if (isFactoryMethod(am)) {  
+ //nothing; if (isFactoryMethod(am)) {  
+ //	continue; if (isFactoryMethod(am)) {  
+ //if; if (isFactoryMethod(am)) {  
+ break } return am; if (isFactoryMethod(am)) {  
+ match; if (isFactoryMethod(am)) {  
+ Object am; if (isFactoryMethod(am)) {  
+ main; if (isFactoryMethod(am)) {  
+ // if; if (isFactoryMethod(am)) {  
+ <mask2> ; if (isFactoryMethod(am)) {  
+}; if (isFactoryMethod(am)) {  
+ found; if (isFactoryMethod(am)) {  
+ // Yes; if (isFactoryMethod(am)) {  
+ Annotation am; if (isFactoryMethod(am)) {  
+ 1; if (isFactoryMethod(am)) {  
+ proceed; if (isFactoryMethod(am)) {  
+ try; if (isFactoryMethod(am)) {  
+             return am; if (isFactoryMethod(am)) {  
+ import; if (isFactoryMethod(am)) {  
+ ..; if (isFactoryMethod(am)) {  
+ assert null != am; if (isFactoryMethod(am)) {  
+ // am; if (isFactoryMethod(am)) {  
+ param; if (isFactoryMethod(am)) {  
+ //try; if (isFactoryMethod(am)) {  
+ ++age; if (isFactoryMethod(am)) {  
+ Return am; if (isFactoryMethod(am)) {  
+ abstract; if (isFactoryMethod(am)) {  
+ //public Method am; if (isFactoryMethod(am)) {  
+ //NOSONAR; if (isFactoryMethod(am)) {  
+ ac; if (isFactoryMethod(am)) {  
+ Method m = am; if (isFactoryMethod(am)) {  
+ //XXX; if (isFactoryMethod(am)) {  
+ //  return am; if (isFactoryMethod(am)) {  
+ RETURN; if (isFactoryMethod(am)) {  
+} return am; if (isFactoryMethod(am)) {  
+ <mask1> return am; if (isFactoryMethod(am)) {  
+ index ++; if (isFactoryMethod(am)) {  
+ // NOPMD; if (isFactoryMethod(am)) {  
+ //NOPMD; if (isFactoryMethod(am)) {  
+ skip; if (isFactoryMethod(am)) {  
+ //}; if (isFactoryMethod(am)) {  
+ Method method; if (isFactoryMethod(am)) {  
+ index++; if (isFactoryMethod(am)) {  
+ <mask3>}; if (isFactoryMethod(am)) {  
+ top; if (isFactoryMethod(am)) {  
+ ... } return null; if (isFactoryMethod(am)) {  
+ switch; if (isFactoryMethod(am)) {  
+ } return null; if (isFactoryMethod(am)) {  
+ // NOSONAR; if (isFactoryMethod(am)) {  
+ // public Method am; if (isFactoryMethod(am)) {  
+ ++mCount; if (isFactoryMethod(am)) {  
+break; if (isFactoryMethod(am)) {  
+ Method am = null; if (isFactoryMethod(am)) {  
+ test; if (isFactoryMethod(am)) {  
+ // TODO; if (isFactoryMethod(am)) {  
+ //noinspection unchecked; if (isFactoryMethod(am)) {  
+ //p; if (isFactoryMethod(am)) {  
+ //...; if (isFactoryMethod(am)) {  
+ //else; if (isFactoryMethod(am)) {  
+ // null; if (isFactoryMethod(am)) {  
+ tag; if (isFactoryMethod(am)) {  
+ --; if (isFactoryMethod(am)) {  
+ else; if (isFactoryMethod(am)) {  
+ continue } return null; if (isFactoryMethod(am)) {  
+ Annotation am = am; if (isFactoryMethod(am)) {  
+ returns am; if (isFactoryMethod(am)) {  
+....; if (isFactoryMethod(am)) {  
+ //s; if (isFactoryMethod(am)) {  
+ yield am; if (isFactoryMethod(am)) {  
+  return am; if (isFactoryMethod(am)) {  
+ //type; if (isFactoryMethod(am)) {  
+ this; if (isFactoryMethod(am)) {  
+ pm = am; if (isFactoryMethod(am)) {  
+ ++argTypes; if (isFactoryMethod(am)) {  
+ RETURN am; if (isFactoryMethod(am)) {  
+ rm; if (isFactoryMethod(am)) {  
+ ++_argCount; if (isFactoryMethod(am)) {  
+ obj; if (isFactoryMethod(am)) {  
+ Method method = null; if (isFactoryMethod(am)) {  
+ ... } return am; if (isFactoryMethod(am)) {  
+ //class; if (isFactoryMethod(am)) {  
+ ++counter; if (isFactoryMethod(am)) {  
+ continue<mask1> }; if (isFactoryMethod(am)) {  
+ name; if (isFactoryMethod(am)) {  
+ // ok; if (isFactoryMethod(am)) {  
+ continue<mask1> continue; if (isFactoryMethod(am)) {  
+ code; if (isFactoryMethod(am)) {  
+ final Method m; if (isFactoryMethod(am)) {  
+ return null; if (isFactoryMethod(am)) {  
+ Assert; if (isFactoryMethod(am)) {  
+ noinspection unchecked; if (isFactoryMethod(am)) {  
+ break; }; if (isFactoryMethod(am)) {  
+ //System.out; if (isFactoryMethod(am)) {  
+ // FIXME; if (isFactoryMethod(am)) {  
+ //a; if (isFactoryMethod(am)) {  
+ vm; if (isFactoryMethod(am)) {  
+ // xxx; if (isFactoryMethod(am)) {  
+ private; if (isFactoryMethod(am)) {  
+ print am; if (isFactoryMethod(am)) {  
+ m = am; if (isFactoryMethod(am)) {  
+ //this; if (isFactoryMethod(am)) {  
+ verify; if (isFactoryMethod(am)) {  
+ break } return null; if (isFactoryMethod(am)) {  
+ class A; if (isFactoryMethod(am)) {  
+ return true; if (isFactoryMethod(am)) {  
+ ++m; if (isFactoryMethod(am)) {  
+  return am; if (isFactoryMethod(am)) {  
+ //it; if (isFactoryMethod(am)) {  
+ ++found; if (isFactoryMethod(am)) {  
+ nextToken; if (isFactoryMethod(am)) {  
+ Method am = am; if (isFactoryMethod(am)) {  
+ public Method am; if (isFactoryMethod(am)) {  
+ ++depth; if (isFactoryMethod(am)) {  
+ className; if (isFactoryMethod(am)) {  
+ assert am.isStatic(); if (isFactoryMethod(am)) {  
+ String className; if (isFactoryMethod(am)) {  
+ Class<?> actualArgType; if (isFactoryMethod(am)) {  
+ //        continue; if (isFactoryMethod(am)) {  
+ private Method am; if (isFactoryMethod(am)) {  
+ am = null; if (isFactoryMethod(am)) {  
+ ++argIndex; if (isFactoryMethod(am)) {  
+ System.out; if (isFactoryMethod(am)) {  
+ Object arg = null; if (isFactoryMethod(am)) {  
+ //   continue; if (isFactoryMethod(am)) {  
+ currentMethod = am; if (isFactoryMethod(am)) {  
+ ++_count; if (isFactoryMethod(am)) {  
+ //noSONAR; if (isFactoryMethod(am)) {  
+ _method = am; if (isFactoryMethod(am)) {  
+ Object am = am; if (isFactoryMethod(am)) {  
+ Object arg; if (isFactoryMethod(am)) {  
+ // CHECKSTYLE:OFF; if (isFactoryMethod(am)) {  
+ //   return am; if (isFactoryMethod(am)) {  
+ //     continue; if (isFactoryMethod(am)) {  
+if (isFactoryMethod(am)) {  
+if (isStaticMethod(am)) {  
+if (hasFactoryMethod(am)) {  
+if (isFunction(am)) {  
+if (isAFactoryMethod(am)) {  
+if (isMethod(am)) {  
+if (isTypeFactoryMethod(am)) {  
+if (isFunctionMethod(am)) {  
+if (isInstance(am)) {  
+if (isSameMethod(am)) {  
+if (isSameType(am)) {  
+if (isType(am)) {  
+if (isStatic(am)) {  
+if (isValidFactoryMethod(am)) {  
+if (isAbstractMethod(am)) {  
+if (isObjectMethod(am)) {  
+if (isValidMethod(am)) {  
+if (isInFactoryMethod(am)) {  
+if (isMethodCall(am)) {  
+if (isConstructorMethod(am)) {  
+if (isTypeMethod(am)) {  
+if (findFactoryMethod(am)) {  
+if (isInstanceOf(am)) {  
+if (isTypeSignature(am)) {  
+if (isClassMethod(am)) {  
+if (isInterfaceMethod(am)) {  
+if (isOpenMethod(am)) {  
+if (containsFactoryMethod(am)) {  
+if (isTypeAssignable(am)) {  
+if ( isFactoryMethod(am)) {  
+if (getFactoryMethod(am)) {  
+if (hasMethod(am)) {  
+if (isCallableMethod(am)) {  
+if (isfactoryMethod(am)) {  
+if (isInstanceMethod(am)) {  
+if (isTypeInterface(am)) {  
+if (checkFactoryMethod(am)) {  
+if (isSupportedMethod(am)) {  
+if (isTypeGeneric(am)) {  
+if (isAssignableFrom(am)) {  
+if (isInstanceMethod(am)) {  
+if (Modifier.isStatic(am)) {  
+if (isGenericMethod(am)) {  
+if (isConstructor(am)) {  
+if (isFulfilledMethod(am)) {  
+if (IsFactoryMethod(am)) {  
+if (isTypeConstructor(am)) {  
+if (isDefaultMethod(am)) {  
+if (isPublicMethod(am)) {  
+if (isDirectMethod(am)) {  
+if (isSupported(am)) {  
+if (isSameClass(am)) {  
+if (isForeignMethod(am)) {  
+if (isCreateMethod(am)) {  
+if (isArrayMethod(am)) {  
+if (isStaticMethod(am)) {  
+if (isConcreteMethod(am)) {  
+if (isSetMethod(am)) {  
+if (isFacadeMethod(am)) {  
+if (isFunctionCall(am)) {  
+if (isGetMethod(am)) {  
+if (isTypeAllowed(am)) {  
+if (isFulfilled(am)) {  
+if (matchesFactoryMethod(am)) {  
+if (isFinderMethod(am)) {  
+if (isSetterMethod(am)) {  
+if (isFFactoryMethod(am)) {  
+if (isAllowed(am)) {  
+if (isNotFactoryMethod(am)) {  
+if (isNamedMethod(am)) {  
+if (isGetterMethod(am)) {  
+if (isCreatorMethod(am)) {  
+if (matches(am)) {  
+if (implementsInterface(am)) {  
+if (isProducerMethod(am)) {  
+if (isTypeAnnotated(am)) {  
+if (isCreatedMethod(am)) {  
+if (isAMethod(am)) {  
+if (isTypeOf(am)) {  
+if (isAnnotatedMethod(am)) {  
+if (isSingletonMethod(am)) {  
+if (isLocalMethod(am)) {  
+if (isWrapperMethod(am)) {  
+if (isVisible(am)) {  
+if (isBeanMethod(am)) {  
+if (isServiceMethod(am)) {  
+if (isPrivateMethod(am)) {  
+if (isAnonymousMethod(am)) {  
+if (isTypeInterfaceMethod(am)) {  
+if (isAttributeMethod(am)) {  
+if (isProviderMethod(am)) {  
+if (isFileMethod(am)) {  
+if (isSimpleMethod(am)) {  
+if (isBuilderMethod(am)) {  
+if (isInstanceOf(am)) {  
+if (isField(am)) {  
+if (isSameSignature(am)) {  
+if (Objects.equals(am)) {  
+if (isVarArgsMethod(am)) {  
+if (isAllowedMethod(am)) {  
+if (isTypeGenericMethod(am)) {  
+if (isFunctionType(am)) {  
+if (isStringMethod(am)) {  
+if (areFactoryMethod(am)) {  
+if (isExecutableMethod(am)) {  
+if (isTypeMethodCall(am)) {  
+if (isSameConstructor(am)) {  
+if (existsFactoryMethod(am)) {  
+if (isWindowMethod(am)) {  
+if (isAfactoryMethod(am)) {  
+if (isTypeSafe(am)) {  
+if (isSameFactoryMethod(am)) {  
+if (isExecutable(am)) {  
+if (isTypeArgument(am)) {  
+if (isAnnotated(am)) {  
+if (isTypeInstance(am)) {  
+if (isStaticMethodCall(am)) {  
+if (areArgumentsMatch(am)) {  
+if (isTypeAny(am)) {  
+if (isCustomMethod(am)) {  
+if (isTypeSignatureMethod(am)) {  
+if (isGeneratorMethod(am)) {  
+if (isTypeVariable(am)) {  
+if (isTypeSetter(am)) {  
+if (isFinalMethod(am)) {  
+if (isPresent(am)) {  
+if (isArray(am)) {  
+if (isTypeCorrect(am)) {  
+if (isConstantMethod(am)) {  
+if (supportsFactoryMethod(am)) {  
+if (isExternalMethod(am)) {  
+if (instanceOf(am)) {  
+if (isFeatureMethod(am)) {  
+if (isManagerMethod(am)) {  
+if (isValid(am)) {  
+if (isVarArgs(am)) {  
+if (isObject(am)) {  
+if (isApiMethod(am)) {  
+if (isTypeAdapterMethod(am)) {  
+if (isMethodAnnotated(am)) {  
+if (isTypeField(am)) {  
+if (isFieldMethod(am)) {  
+if (areFactoryMethods(am)) {  
+if (checkType(am)) {  
+if (isaFactoryMethod(am)) {  
+if (isInvokeMethod(am)) {  
+if (isValidMethodCall(am)) {  
+if (isRemoteMethod(am)) {  
+if (isAbstract(am)) {  
+if (isEntityMethod(am)) {  
+if (isFunctionalMethod(am)) {  
+if (isInterceptorMethod(am)) {  
+if (isObjectFactoryMethod(am)) {  
+if (canInstantiate(am)) {  
+if (isSameModifier(am)) {  
+if (isEnabled(am)) {  
+if (isFactoryClass(am)) {  
+if (isSingleMethod(am)) {  
+if (getMethodSignature(am)) {  
+if (isProxyMethod(am)) {  
+if (isObjectFactoryMethod(am)) {  
+if (isProcessorMethod(am)) {  
+if (isTypeMatch(am)) {  
+if (isFactMethod(am)) {  
+if (isSupplierMethod(am)) {  
+if (isTypeChecked(am)) {  
+if (getIsFactoryMethod(am)) {  
+if (isTypeSupported(am)) {  
+if (isBoundMethod(am)) {  
+if (matchesMethod(am)) {  
+if (isEqual(am)) {  
+if (isReflectionMethod(am)) {  
+if (isSameInterface(am)) {  
+if (isEqualMethod(am)) {  
+if (shouldBeFactoryMethod(am)) {  
+if (isCollectionMethod(am)) {  
+if (hasField(am)) {  
+if (isTypeReference(am)) {  
+if (usesFactoryMethod(am)) {  
+if (isInstanceOf(am)) {  
+if (isDataMethod(am)) {  
+if (createFactoryMethod(am)) {  
+if (isFactoryMethodImpl(am)) {  
+if (isTypeParameter(am)) {  
+if (isTypedMethod(am)) {  
+if (isWrappedMethod(am)) {  
+if (isCallerMethod(am)) {  
+if (equals(am)) {  
+if (isTypeAnnotation(am)) {  
+if (isInjectionMethod(am)) {  
+if (isFakeMethod(am)) {  
+if (isTypeGetter(am)) {  
+if (isNull(am)) {  
+if (isTypeof(am)) {  
+if (isTypeClass(am)) {  
+if (hasClassMethod(am)) {  
+if (isCoreMethod(am)) {  
+if (canInvoke(am)) {  
+if (isInternalMethod(am)) {  
+if (isPropertyMethod(am)) {  
+if (isTypeAssignableTo(am)) {  
+if (hasArgument(am)) {  
+if (isTypeFinal(am)) {  
+if (isTypeParameterized(am)) {  
+if (hasAbstractMethod(am)) {  
+if (isExpressionMethod(am)) {  
+if (isInvocationMethod(am)) {  
+if (isMemberMethod(am)) {  
+if (isNotAbstractMethod(am)) {  
+if (isInterface(am)) {  
+if (isTypeBound(am)) {  
+if (isStaticMember(am)) {  
+if (isTypeVariableMethod(am)) {  
+if (areArgumentsEqual(am)) {  
+if (isMethodAbstract(am)) {  
+if (isFunction(am)) {  
+if (isSameArg(am)) {  
+if (isTypeAdapter(am)) {  
+if (isMethodAccessible(am)) {  
+if (isTypeOfMethodCall(am)) {  
+if (isSpringMethod(am)) {  
+if (isExistMethod(am)) {  
+if (isTypeAnnotationPresent(am)) {  
+if (isTypeReferenceMethod(am)) {  
+if (isMatchingMethod(am)) {  
+if (isFooMethod(am)) {  
+if (isTypeClassMethod(am)) {  
+if (shouldInvoke(am)) {  
+if (areTypesEqual(am)) {  
+if (factoryMethod(am)) {  
+if (isSyntheticMethod(am)) {  
+if (isTypeInstanceMethod(am)) {  
+if (isTraitMethod(am)) {  
+if (isFunctionMethod(am)) {  
+if (isTypeCheck(am)) {  
+if (hasArg(am)) {  
+if (isGetter(am)) {  
+if (areArgumentsOfType(am)) {  
+if (isMethodMatch(am)) {  
+if (isTypeInjection(am)) {  
+if (isSignatureMethod(am)) {  
+if (isTypeInClass(am)) {  
+if (isSetter(am)) {  
+if (isCreatable(am)) {  
+if (isBoxed(am)) {  
+if (isUsingFactory(am)) {  
+if (isTypeInFactory(am)) {  
+if (isAliased(am)) {  
+if (isTypeFromFactory(am)) {  
+if ((am)) {  
+if (isFactoryMethod(am)) {  
+if (isFactoryMethod(am.getAnnotated)) {  
+if (isFactoryMethod(am<mask1>am)) {  
+if (isFactoryMethod(am, true)) {  
+if (isFactoryMethod(am.getMethod)) {  
+if (isFactoryMethod(am.getAnnotated())) {  
+if (isFactoryMethod(am, false)) {  
+if (isFactoryMethod(am<mask1>am);)) {  
+if (isFactoryMethod(ami)) {  
+if (isFactoryMethod(am.getExecutable)) {  
+if (isFactoryMethod( am)) {  
+if (isFactoryMethod(am, expArgTypes)) {  
+if (isFactoryMethod(am.getMethod())) {  
+if (isFactoryMethod(am<mask1>am))) {  
+if (isFactoryMethod(am, null)) {  
+if (isFactoryMethod(am.getAnnotation)) {  
+if (isFactoryMethod(ar)) {  
+if (isFactoryMethod(amp)) {  
+if (isFactoryMethod(amap)) {  
+if (isFactoryMethod(a)) {  
+if (isFactoryMethod(am<mask14> })) {  
+if (isFactoryMethod(am, argTypes)) {  
+if (isFactoryMethod(am<mask9>am)) {  
+if (isFactoryMethod(m)) {  
+if (isFactoryMethod(arg)) {  
+if (isFactoryMethod(am<mask3> })) {  
+if (isFactoryMethod(av)) {  
+if (isFactoryMethod(am.getName)) {  
+if (isFactoryMethod(am<mask2>am))) {  
+if (isFactoryMethod(amqpMethod)) {  
+if (isFactoryMethod(AM)) {  
+if (isFactoryMethod(ame)) {  
+if (isFactoryMethod(am, 0)) {  
+if (isFactoryMethod(am,true)) {  
+if (isFactoryMethod(amin)) {  
+if (isFactoryMethod(avm)) {  
+if (isFactoryMethod(am2)) {  
+if (isFactoryMethod(am<mask2>am);)) {  
+if (isFactoryMethod(um)) {  
+if (isFactoryMethod(am<mask3>})) {  
+if (isFactoryMethod(pm)) {  
+if (isFactoryMethod(am._method)) {  
+if (isFactoryMethod(am.getMethodName)) {  
+if (isFactoryMethod(alMethod)) {  
+if (isFactoryMethod(am.getConstructor)) {  
+if (isFactoryMethod(iam)) {  
+if (isFactoryMethod(am.getJavaMember)) {  
+if (isFactoryMethod(av<mask1>am)) {  
+if (isFactoryMethod(ampl)) {  
+if (isFactoryMethod(am )) {  
+if (isFactoryMethod(am->am)) {  
+if (isFactoryMethod(amqp)) {  
+if (isFactoryMethod(am,false)) {  
+if (isFactoryMethod(mainMethod)) {  
+if (isFactoryMethod(apm)) {  
+if (isFactoryMethod(om)) {  
+if (isFactoryMethod(ak)) {  
+if (isFactoryMethod(am<mask1>am.getMethod)) {  
+if (isFactoryMethod(am<mask1>am) {)) {  
+if (isFactoryMethod(am<mask14>})) {  
+if (isFactoryMethod(ac)) {  
+if (isFactoryMethod(am, _classInfo)) {  
+if (isFactoryMethod(am<mask14> })) {  
+if (isFactoryMethod(am, args)) {  
+if (isFactoryMethod(af)) {  
+if (isFactoryMethod(adp)) {  
+if (isFactoryMethod(aim)) {  
+if (isFactoryMethod(am, 1)) {  
+if (isFactoryMethod(am.method)) {  
+if (isFactoryMethod(am.getExecutable())) {  
+if (isFactoryMethod(am.getGenericReturnType)) {  
+if (isFactoryMethod(am<mask5>})) {  
+if (isFactoryMethod(am,expArgTypes)) {  
+if (isFactoryMethod(am<mask10>am)) {  
+if (isFactoryMethod(am.getAnno)) {  
+if (isFactoryMethod(am<mask5> })) {  
+if (isFactoryMethod(AM<mask1>am)) {  
+if (isFactoryMethod(am<mask3> })) {  
+if (isFactoryMethod(am.getAbstractMethod)) {  
+if (isFactoryMethod(apm)) {  
+if (isFactoryMethod(am.getSignature)) {  
+if (isFactoryMethod(sam)) {  
+if (isFactoryMethod(arm)) {  
+if (isFactoryMethod(am<mask1>am, false)) {  
+if (isFactoryMethod(am<mask1>am.getReturnType)) {  
+if (isFactoryMethod(am.getDeclaringClass)) {  
+if (isFactoryMethod(am<mask1>am) ;)) {  
+if (isFactoryMethod(am.getReturnType)) {  
+if (isFactoryMethod(ao)) {  
+if (isFactoryMethod(am<mask1>am.getName)) {  
+if (isFactoryMethod(aa)) {  
+if (isFactoryMethod(ampm)) {  
+if (isFactoryMethod(am<mask1>am, true)) {  
+if (isFactoryMethod(am.getMethodSig)) {  
+if (isFactoryMethod(iv)) {  
+if (isFactoryMethod(am.getMethod() )) {  
+if (isFactoryMethod(im)) {  
+if (isFactoryMethod(Am)) {  
+if (isFactoryMethod(am<mask14>} })) {  
+if (isFactoryMethod(am.getMethod(), true)) {  
+if (isFactoryMethod(ams)) {  
+if (isFactoryMethod(am<mask14>} )) {  
+if (isFactoryMethod(cm)) {  
+if (isFactoryMethod(am, 2)) {  
+if (isFactoryMethod(aml)) {  
+if (isFactoryMethod(dam)) {  
+if (isFactoryMethod(am.getMethod().getName)) {  
+if (isFactoryMethod(om<mask1>am)) {  
+if (isFactoryMethod(aw)) {  
+if (isFactoryMethod(ap)) {  
+if (isFactoryMethod(am<mask14> )) {  
+if (isFactoryMethod(am.getAnnotatedMethod)) {  
+if (isFactoryMethod(am<mask1>am.getAnnotation)) {  
+if (isFactoryMethod(am.getDeclaredMethod)) {  
+if (isFactoryMethod(this)) {  
+if (isFactoryMethod(am )) {  
+if (isFactoryMethod(am);)) {  
+if (isFactoryMethod(amenode)) {  
+if (isFactoryMethod(am<mask14> } })) {  
+if (isFactoryMethod(am, ...)) {  
+if (isFactoryMethod(am<mask12> })) {  
+if (isFactoryMethod(ad)) {  
+if (isFactoryMethod(am1)) {  
+if (isFactoryMethod(am.getMethodSignature)) {  
+if (isFactoryMethod(am<mask1> am)) {  
+if (isFactoryMethod(av<mask1>av)) {  
+if (isFactoryMethod(alm)) {  
+if (isFactoryMethod(amazon)) {  
+if (isFactoryMethod(am, types)) {  
+if (isFactoryMethod(am.getOwner)) {  
+if (isFactoryMethod(amplify)) {  
+if (isFactoryMethod(ap<mask1>am)) {  
+if (isFactoryMethod(am, paramTypes)) {  
+if (isFactoryMethod(am.getMethod().getAnnotation)) {  
+if (isFactoryMethod(am<mask5> })) {  
+if (isFactoryMethod(ym)) {  
+if (isFactoryMethod(am.getMethodType)) {  
+if (isFactoryMethod(am<mask1>am){)) {  
+if (isFactoryMethod(am.getMethod<mask1>am)) {  
+if (isFactoryMethod(ham)) {  
+if (isFactoryMethod(avMethod)) {  
+if (isFactoryMethod(am<mask12> )) {  
+if (isFactoryMethod(am.getMethodDescriptor)) {  
+if (isFactoryMethod(main)) {  
+if (isFactoryMethod(am.getMethod(), false)) {  
+if (isFactoryMethod(true)) {  
+if (isFactoryMethod(am, m)) {  
+if (isFactoryMethod(asm)) {  
+if (isFactoryMethod(am.getMethod() )) {  
+if (isFactoryMethod(am.getWrappedMethod)) {  
+if (isFactoryMethod(al)) {  
+if (isFactoryMethod(am.getAnnotatedClass)) {  
+if (isFactoryMethod(Am.class)) {  
+if (isFactoryMethod(am.getThis)) {  
+if (isFactoryMethod(ag)) {  
+if (isFactoryMethod(asMethod(am)) {  
+if (isFactoryMethod(ama)) {  
+if (isFactoryMethod(mm)) {  
+if (isFactoryMethod(rm)) {  
+if (isFactoryMethod(itm)) {  
+if (isFactoryMethod(am=am)) {  
+if (isFactoryMethod(arg0)) {  
+if (isFactoryMethod(art)) {  
+if (isFactoryMethod(am: am)) {  
+if (isFactoryMethod(aparameter)) {  
+if (isFactoryMethod(im<mask1>am)) {  
+if (isFactoryMethod(am,0)) {  
+if (isFactoryMethod(am.getMethod(0)) {  
+if (isFactoryMethod(am<mask1>am) )) {  
+if (isFactoryMethod(am.getMethod<mask1> am)) {  
+if (isFactoryMethod(am.getAbstract)) {  
+if (isFactoryMethod(am.getThisMethod)) {  
+if (isFactoryMethod(am.getAnnotated());)) {  
+if (isFactoryMethod(am.getDirectMethod)) {  
+if (isFactoryMethod(am   )) {  
+if (isFactoryMethod(am<mask1>ami)) {  
+if (isFactoryMethod(amd)) {  
+if (isFactoryMethod(am, 3)) {  
+if (isFactoryMethod(am.getMethod());)) {  
+if (isFactoryMethod(am<mask14> } )) {  
+if (isFactoryMethod(akm)) {  
+if (isFactoryMethod(am, type)) {  
+if (isFactoryMethod(av, am)) {  
+if (isFactoryMethod(am<mask14>  })) {  
+if (isFactoryMethod(am.getOwnMethod)) {  
+if (isFactoryMethod(am <mask1>am)) {  
+if (isFactoryMethod(am.getRawMethod)) {  
+if (isFactoryMethod(AM, am)) {  
+if (isFactoryMethod(alm)) {  
+if (isFactoryMethod(ab)) {  
+if (isFactoryMethod(am.getMethodAnnotated)) {  
+if (isFactoryMethod(am.getType)) {  
+if (isFactoryMethod(amplifier)) {  
+if (isFactoryMethod(em)) {  
+if (isFactoryMethod(aj)) {  
+if (isFactoryMethod(am instanceof Method)) {  
+if (isFactoryMethod(mp)) {  
+if (isFactoryMethod(apim)) {  
+if (isFactoryMethod(am, params)) {  
+if (isFactoryMethod(adapter)) {  
+if (isFactoryMethod(am<mask12>})) {  
+if (isFactoryMethod(    am)) {  
+if (isFactoryMethod(this, am)) {  
+if (isFactoryMethod(am<mask3>} )) {  
+if (isFactoryMethod(am.getClazz)) {  
+if (isFactoryMethod(am.getObject)) {  
+if (isFactoryMethod(am.getDescriptor)) {  
+if (isFactoryMethod(amps)) {  
+if (isFactoryMethod(asMethod)) {  
+if (isFactoryMethod(am.getDeclaringClass())) {  
+if (isFactoryMethod(item)) {  
+if (isFactoryMethod(am).equals(true)) {  
+if (isFactoryMethod(am<mask3> } )) {  
+if (isFactoryMethod(am<mask12> })) {  
+if (isFactoryMethod(am<mask14>    })) {  
+if (isFactoryMethod(al<mask1>am)) {  
+if (isFactoryMethod(ram)) {  
+if (isFactoryMethod(am0)) {  
+if (isFactoryMethod(am<mask1>am2)) {  
+if (isFactoryMethod(am.getValue)) {  
+if (isFactoryMethod(am<mask1>am )) {  
+if (isFactoryMethod(am.getAnnotated();)) {  
+if (isFactoryMethod(avym)) {  
+if (isFactoryMethod(am<mask5>)) {  
+if (isFactoryMethod(Am.class, am)) {  
+if (isFactoryMethod(am<mask1>am);})) {  
+if (isFactoryMethod(alam)) {  
+if (isFactoryMethod(am::getAnnotated)) {  
+if (isFactoryMethod(am.getMethodInfo)) {  
+if (isFactoryMethod(am<mask1>am,)) {  
+if (isFactoryMethod(am.getMember)) {  
+if (isFactoryMethod(am.getMutable)) {  
+if (isFactoryMethod(11)) {  
+if (isFactoryMethod(am.getOriginalMethod)) {  
+if (isFactoryMethod(as(am)) {  
+if (isFactoryMethod(am, _argTypes)) {  
+if (isFactoryMethod(am.getAnnotationClass)) {  
+if (isFactoryMethod(am, 10)) {  
+if (isFactoryMethod(am<mask1>am);//)) {  
+if (isFactoryMethod(am.getFirstArgument)) {  
+if (isFactoryMethod(AM_METHOD)) {  
+if (isFactoryMethod(remoter)) {  
+if (isFactoryMethod(am,null)) {  
+if (isFactoryMethod(am.getBody)) {  
+if (isFactoryMethod(arg1)) {  
+if (isFactoryMethod(acm)) {  
+if (isFactoryMethod(rem)) {  
+if (isFactoryMethod(argType)) {  
+if (isFactoryMethod(am, this)) {  
+if (isFactoryMethod(amem)) {  
+if (isFactoryMethod(am, true)) {  
+if (isFactoryMethod(am, false)) {  
+if (isFactoryMethod(am, expArgTypes)) {  
+if (isFactoryMethod(am, null)) {  
+if (isFactoryMethod(am, 0)) {  
+if (isFactoryMethod(am, argTypes)) {  
+if (isFactoryMethod(am,expArgTypes)) {  
+if (isFactoryMethod(am,true)) {  
+if (isFactoryMethod(am, 1)) {  
+if (isFactoryMethod(am, args)) {  
+if (isFactoryMethod(am,false)) {  
+if (isFactoryMethod(am, _classInfo)) {  
+if (isFactoryMethod(am, 2)) {  
+if (isFactoryMethod(am, argTypes<mask1> true)) {  
+if (isFactoryMethod(am, types)) {  
+if (isFactoryMethod(am, ...)) {  
+if (isFactoryMethod(am, expArgTypeTypes)) {  
+if (isFactoryMethod(am, type)) {  
+if (isFactoryMethod(am, 3)) {  
+if (isFactoryMethod(am, paramTypes)) {  
+if (isFactoryMethod(am, args<mask1> args)) {  
+if (isFactoryMethod(am, argTypes<mask1> false)) {  
+if (isFactoryMethod(am, _args)) {  
+if (isFactoryMethod(am, expArgs)) {  
+if (isFactoryMethod(am, params<mask1> params)) {  
+if (isFactoryMethod(am, params)) {  
+if (isFactoryMethod(am, m)) {  
+if (isFactoryMethod(am,0)) {  
+if (isFactoryMethod(am, -1)) {  
+if (isFactoryMethod(am, 5)) {  
+if (isFactoryMethod(am, this)) {  
+if (isFactoryMethod(am, _argTypes)) {  
+if (isFactoryMethod(am, classInfo)) {  
+if (isFactoryMethod(am, clazz)) {  
+if (isFactoryMethod(am, 10)) {  
+if (isFactoryMethod(am, true<mask1> true)) {  
+if (isFactoryMethod(am, 0<mask1> 0)) {  
+if (isFactoryMethod(am, "")) {  
+if (isFactoryMethod(am, imp)) {  
+if (isFactoryMethod(am, false, false)) {  
+if (isFactoryMethod(am, arguments<mask1> arguments)) {  
+if (isFactoryMethod(am,null)) {  
+if (isFactoryMethod(am, expArgType)) {  
+if (isFactoryMethod(am, false, true)) {  
+if (isFactoryMethod(am, log)) {  
+if (isFactoryMethod(am, exArgs)) {  
+if (isFactoryMethod(am, x)) {  
+if (isFactoryMethod(am, mode)) {  
+if (isFactoryMethod(am, expressionType)) {  
+if (isFactoryMethod(am, _type)) {  
+if (isFactoryMethod(am, expArgTypes)) {  
+if (isFactoryMethod(am, expArgsTypes)) {  
+if (isFactoryMethod(am, p)) {  
+if (isFactoryMethod(am, typeArgs)) {  
+if (isFactoryMethod(am, 4)) {  
+if (isFactoryMethod(am, argtypes)) {  
+if (isFactoryMethod(am, "*")) {  
+if (isFactoryMethod(am, true, true)) {  
+if (isFactoryMethod(am, conf)) {  
+if (isFactoryMethod(am, expressionTypes)) {  
+if (isFactoryMethod(am, exTypes)) {  
+if (isFactoryMethod(am, parameterTypes)) {  
+if (isFactoryMethod(am, exargTypes)) {  
+if (isFactoryMethod(am, null, null)) {  
+if (isFactoryMethod(am, true, false)) {  
+if (isFactoryMethod(am, types<mask1> types)) {  
+if (isFactoryMethod(am, false<mask1> false)) {  
+if (isFactoryMethod(am, classes)) {  
+if (isFactoryMethod(am, expr)) {  
+if (isFactoryMethod(am,2)) {  
+if (isFactoryMethod(am, exArgTypes)) {  
+if (isFactoryMethod(am, String.class)) {  
+if (isFactoryMethod(am, name)) {  
+if (isFactoryMethod(am, 20)) {  
+if (isFactoryMethod(am, nil)) {  
+if (isFactoryMethod(am, type<mask1> type)) {  
+if (isFactoryMethod(am,1)) {  
+if (isFactoryMethod(am, acls)) {  
+if (isFactoryMethod(am, 0, 0)) {  
+if (isFactoryMethod(am, Type.class)) {  
+if (isFactoryMethod(am, arguments)) {  
+if (isFactoryMethod(am, argType)) {  
+if (isFactoryMethod(am, false<mask1> true)) {  
+if (isFactoryMethod(am, Object.class)) {  
+if (isFactoryMethod(am, argClasses)) {  
+if (isFactoryMethod(am, true )) {  
+if (isFactoryMethod(am, expectedType)) {  
+if (isFactoryMethod(am,...)) {  
+if (isFactoryMethod(am,  true)) {  
+if (isFactoryMethod(am, null, false)) {  
+if (isFactoryMethod(am, expectedArgs)) {  
+if (isFactoryMethod(am, *expArgTypes)) {  
+if (isFactoryMethod(am, typeClass)) {  
+if (isFactoryMethod(am, env)) {  
+if (isFactoryMethod(am, expressions)) {  
+if (isFactoryMethod(am, Array.class)) {  
+if (isFactoryMethod(am, Arrays.class)) {  
+if (isFactoryMethod(am,  false)) {  
+if (isFactoryMethod(am, signature)) {  
+if (isFactoryMethod(am, _returnType)) {  
+if (isFactoryMethod(am, expectedArgTypes)) {  
+if (isFactoryMethod(am, "", false)) {  
+if (isFactoryMethod(am, 100)) {  
+if (isFactoryMethod(am, testClass)) {  
+if (isFactoryMethod(am, typeArguments)) {  
+if (isFactoryMethod(am, "*?")) {  
+if (isFactoryMethod(am, "", true)) {  
+if (isFactoryMethod(am, null, true)) {  
+if (isFactoryMethod(am, pType)) {  
+if (isFactoryMethod(am, exType)) {  
+if (isFactoryMethod(am, Expression.class)) {  
+if (isFactoryMethod(am, exptype)) {  
+if (isFactoryMethod(am, args<mask1> true)) {  
+if (isFactoryMethod(am, Class.class)) {  
+if (isFactoryMethod(am, argTypes<mask1> null)) {  
+if (isFactoryMethod(am, _methodInfo)) {  
+if (isFactoryMethod(am, msg)) {  
+if (isFactoryMethod(am, exampleClass)) {  
+if (isFactoryMethod(am, imType)) {  
+if (isFactoryMethod(am, cls)) {  
+if (isFactoryMethod(am, typeArgTypes)) {  
+if (isFactoryMethod(am, _imp)) {  
+if (isFactoryMethod(am, 200)) {  
+if (isFactoryMethod(am, mType)) {  
+if (isFactoryMethod(am, "*/*")) {  
+if (isFactoryMethod(am, null<mask1> null)) {  
+if (isFactoryMethod(am, false )) {  
+if (isFactoryMethod(am, foo)) {  
+if (isFactoryMethod(am, xp)) {  
+if (isFactoryMethod(am, "create")) {  
+if (isFactoryMethod(am, req)) {  
+if (isFactoryMethod(am, "*/*" )) {  
+if (isFactoryMethod(am, className)) {  
+if (isFactoryMethod(am, objectType<mask1> objectType)) {  
+if (isFactoryMethod(am, mtype)) {  
+if (isFactoryMethod(am, logger)) {  
+if (isFactoryMethod(am, exArgsTypes)) {  
+if (isFactoryMethod(am, depth)) {  
+if (isFactoryMethod(am, config)) {  
+if (isFactoryMethod(am, xpArgTypes)) {  
+if (isFactoryMethod(am, test)) {  
+if (isFactoryMethod(am, im<mask1> im)) {  
+if (isFactoryMethod(am, Types)) {  
+if (isFactoryMethod(am, exampleType)) {  
+if (isFactoryMethod(am, false, null)) {  
+if (isFactoryMethod(am, _types)) {  
+if (isFactoryMethod(am, _baseClass)) {  
+if (isFactoryMethod(am, 1<mask1> 1)) {  
+if (isFactoryMethod(am, aClass)) {  
+if (isFactoryMethod(am, _clazz)) {  
+if (isFactoryMethod(am, strict)) {  
+if (isFactoryMethod(am, typeSignature)) {  
+if (isFactoryMethod(am, (Class<?>) null)) {  
+if (isFactoryMethod(am,3)) {  
+if (isFactoryMethod(am, app)) {  
+if (isFactoryMethod(am, arguments<mask1> true)) {  
+if (isFactoryMethod(am, true<mask1> false)) {  
+if (isFactoryMethod(am,args)) {  
+if (isFactoryMethod(am, _argType)) {  
+if (isFactoryMethod(am, _argClass)) {  
+if (isFactoryMethod(am, _context)) {  
+if (isFactoryMethod(am, obj)) {  
+if (isFactoryMethod(am,...expArgTypes)) {  
+if (isFactoryMethod(am, "[]")) {  
+if (isFactoryMethod(am, Constants.class)) {  
+if (isFactoryMethod(am, argTypes0)) {  
+if (isFactoryMethod(am, mp)) {  
+if (isFactoryMethod(am, argTypes.length)) {  
+if (isFactoryMethod(am, argsType)) {  
+if (isFactoryMethod(am, "*")) {  
+if (isFactoryMethod(am, int.class)) {  
+if (isFactoryMethod(am, generics)) {  
+if (isFactoryMethod(am, 1000)) {  
+if (isFactoryMethod(am, expTypes)) {  
+if (isFactoryMethod(am, _argClasses)) {  
+if (isFactoryMethod(am, Constants)) {  
+if (isFactoryMethod(am,argTypes)) {  
+if (isFactoryMethod(am, Method.class)) {  
+if (isFactoryMethod(am, cl)) {  
+if (isFactoryMethod(am, args<mask1> false)) {  
+if (isFactoryMethod(am, _params)) {  
+if (isFactoryMethod(am,paramType)) {  
+if (isFactoryMethod(am, ec)) {  
+if (isFactoryMethod(am, _typeClass)) {  
+if (isFactoryMethod(am, _factoryClass)) {  
+if (isFactoryMethod(am, mTypes)) {  
+if (isFactoryMethod(am, baseClass)) {  
+if (isFactoryMethod(am, argsTypes)) {  
+if (isFactoryMethod(am, expectedArgType)) {  
+if (isFactoryMethod(am, _className)) {  
+if (isFactoryMethod(am, typeInfo)) {  
+if (isFactoryMethod(am, actualArgType)) {  
+if (isFactoryMethod(am, sourceClass)) {  
+if (isFactoryMethod(am, List.class)) {  
+if (isFactoryMethod(am, exprType)) {  
+if (isFactoryMethod(am, expArgType<mask1> true)) {  
+if (isFactoryMethod(am, _argCount)) {  
+if (isFactoryMethod(am,ExpArgType.class)) {  
+if (isFactoryMethod(am, "*".length)) {  
+if (isFactoryMethod(am, _package)) {  
+if (isFactoryMethod(am, paramTypes<mask1> true)) {  
+if (isFactoryMethod(am, "factoryMethod")) {  
+if (isFactoryMethod(am, expType)) {  
+if (isFactoryMethod(am, boolean.class)) {  
+if (isFactoryMethod(am, beanType)) {  
+if (isFactoryMethod(am, _paramTypes)) {  
+if (isFactoryMethod(am, _typeInfo)) {  
+if (isFactoryMethod(am, "find")) {  
+if (isFactoryMethod(am, arguments<mask1> false)) {  
+if (isFactoryMethod(am, argTypes, false)) {  
+if (isFactoryMethod(am, _cls)) {  
+if (isFactoryMethod(am, argTypes, true)) {  
+if (isFactoryMethod(am, typeArgumentTypes)) {  
+if (isFactoryMethod(am, extArgs)) {  
+if (isFactoryMethod(am, argTypes<mask1> 0)) {  
+if (isFactoryMethod(am, "*="+true)) {  
+if (isFactoryMethod(am, defaultArgTypes)) {  
+if (isFactoryMethod(am, "get")) {  
+if (isFactoryMethod(am, _argNames)) {  
+if (isFactoryMethod(am, _factoryType)) {  
+if (isFactoryMethod(am, _argInfo)) {  
+if (isFactoryMethod(am, _arguments)) {  
+if (isFactoryMethod(am, argumentTypes)) {  
+if (isFactoryMethod(am, _log)) {  
+if (isFactoryMethod(am, params<mask1> true)) {  
+if (isFactoryMethod(am, 0<mask1> 1)) {  
+if (isFactoryMethod(am, "**")) {  
+if (isFactoryMethod(am, 0, 1)) {  
+if (isFactoryMethod(am, argTypesAllowed)) {  
+if (isFactoryMethod(am,_classInfo)) {  
+if (isFactoryMethod(am, expArgTypes...)) {  
+if (isFactoryMethod(am, _expArgTypes)) {  
+if (isFactoryMethod(am, 0<mask1> true)) {  
+if (isFactoryMethod(am, "newInstance")) {  
+if (isFactoryMethod(am, Boolean.class)) {  
+if (isFactoryMethod(am, argTypes...)) {  
+if (isFactoryMethod(am, _argName)) {  
+if (isFactoryMethod(am, _interfaceInfo)) {  
+if (isFactoryMethod(am, typeCheck)) {  
+if (isFactoryMethod(am, "*" )) {  
+if (isFactoryMethod(am, 1, 2)) {  
+if (isFactoryMethod(am, _argtypes)) {  
+if (isFactoryMethod(am, clazz<mask1> clazz)) {  
+if (isFactoryMethod(am, argTypes<mask1> types)) {  
+if (isFactoryMethod(am, _typeMap)) {  
+if (isFactoryMethod(am, tmpArgTypes)) {  
+if (isFactoryMethod(am, _argTypeMap)) {  
+if (isFactoryMethod(am, argTypesRequired)) {  
+if (isFactoryMethod(am, argTypes<mask1> args)) {  
+if (isFactoryMethod(am, paramTypes<mask1> false)) {  
+if (isFactoryMethod(am,am)) {  
+if (isFactoryMethod(this,am)) {  
+if (isFactoryMethod(false,am)) {  
+if (isFactoryMethod(true,am)) {  
+if (isFactoryMethod(null,am)) {  
+if (isFactoryMethod(m,am)) {  
+if (isFactoryMethod(type,am)) {  
+if (isFactoryMethod(x,am)) {  
+if (isFactoryMethod(classInfo,am)) {  
+if (isFactoryMethod(a,am)) {  
+if (isFactoryMethod(0,am)) {  
+if (isFactoryMethod(argTypes,am)) {  
+if (isFactoryMethod(pm,am)) {  
+if (isFactoryMethod(method,am)) {  
+if (isFactoryMethod(arg,am)) {  
+if (isFactoryMethod(args,am)) {  
+if (isFactoryMethod(argType,am)) {  
+if (isFactoryMethod(paramType,am)) {  
+if (isFactoryMethod(expArgTypes,am)) {  
+if (isFactoryMethod(clazz,am)) {  
+if (isFactoryMethod(abstract,am)) {  
+if (isFactoryMethod(1,am)) {  
+if (isFactoryMethod(act,am)) {  
+if (isFactoryMethod(2,am)) {  
+if (isFactoryMethod(av,am)) {  
+if (isFactoryMethod(factoryMethod,am)) {  
+if (isFactoryMethod(types,am)) {  
+if (isFactoryMethod(cls,am)) {  
+if (isFactoryMethod(alias,am)) {  
+if (isFactoryMethod(name,am)) {  
+if (isFactoryMethod(obj,am)) {  
+if (isFactoryMethod(im,am)) {  
+if (isFactoryMethod(mock,am)) {  
+if (isFactoryMethod(ia,am)) {  
+if (isFactoryMethod(bean,am)) {  
+if (isFactoryMethod(MethodType,am)) {  
+if (isFactoryMethod(actualArgType,am)) {  
+if (isFactoryMethod(abstractMethod,am)) {  
+if (isFactoryMethod(iface,am)) {  
+if (isFactoryMethod(env,am)) {  
+if (isFactoryMethod(msg,am)) {  
+if (isFactoryMethod(base,am)) {  
+if (isFactoryMethod(p,am)) {  
+if (isFactoryMethod(Type,am)) {  
+if (isFactoryMethod(arg0,am)) {  
+if (isFactoryMethod(imp,am)) {  
+if (isFactoryMethod(t,am)) {  
+if (isFactoryMethod(iv,am)) {  
+if (isFactoryMethod(3,am)) {  
+if (isFactoryMethod(c,am)) {  
+if (isFactoryMethod(klass,am)) {  
+if (isFactoryMethod(root,am)) {  
+if (isFactoryMethod(ac,am)) {  
+if (isFactoryMethod(factory,am)) {  
+if (isFactoryMethod(target,am)) {  
+if (isFactoryMethod(cf,am)) {  
+if (isFactoryMethod(ax,am)) {  
+if (isFactoryMethod(adp,am)) {  
+if (isFactoryMethod(TypeUtil,am)) {  
+if (isFactoryMethod(wsdl,am)) {  
+if (isFactoryMethod(expr,am)) {  
+if (isFactoryMethod(fake,am)) {  
+if (isFactoryMethod(typeInfo,am)) {  
+if (isFactoryMethod(11,am)) {  
+if (isFactoryMethod(caller,am)) {  
+if (isFactoryMethod(source,am)) {  
+if (isFactoryMethod(context,am)) {  
+if (isFactoryMethod(params,am)) {  
+if (isFactoryMethod(class,am)) {  
+if (isFactoryMethod(foo,am)) {  
+if (isFactoryMethod(ap,am)) {  
+if (isFactoryMethod(Class.class,am)) {  
+if (isFactoryMethod(mt,am)) {  
+if (isFactoryMethod(sf,am)) {  
+if (isFactoryMethod(fm,am)) {  
+if (isFactoryMethod(10,am)) {  
+if (isFactoryMethod(em,am)) {  
+if (isFactoryMethod(tc,am)) {  
+if (isFactoryMethod(mainMethod,am)) {  
+if (isFactoryMethod(cm,am)) {  
+if (isFactoryMethod(methods,am)) {  
+if (isFactoryMethod(self,am)) {  
+if (isFactoryMethod(X,am)) {  
+if (isFactoryMethod(bob,am)) {  
+if (isFactoryMethod(expArgType,am)) {  
+if (isFactoryMethod(st,am)) {  
+if (isFactoryMethod(conf,am)) {  
+if (isFactoryMethod(mm,am)) {  
+if (isFactoryMethod(abstractType,am)) {  
+if (isFactoryMethod(exptype,am)) {  
+if (isFactoryMethod(ar,am)) {  
+if (isFactoryMethod(amp,am)) {  
+if (isFactoryMethod(_classInfo,am)) {  
+if (isFactoryMethod(className,am)) {  
+if (isFactoryMethod(prototype,am)) {  
+if (isFactoryMethod(api,am)) {  
+if (isFactoryMethod(mp,am)) {  
+if (isFactoryMethod(factoryClass,am)) {  
+if (isFactoryMethod(s,am)) {  
+if (isFactoryMethod(baseClass,am)) {  
+if (isFactoryMethod(sa,am)) {  
+if (isFactoryMethod(test,am)) {  
+if (isFactoryMethod(com,am)) {  
+if (isFactoryMethod(instance,am)) {  
+if (isFactoryMethod(app,am)) {  
+if (isFactoryMethod(i,am)) {  
+if (isFactoryMethod(f,am)) {  
+if (isFactoryMethod(manager,am)) {  
+if (isFactoryMethod(tm,am)) {  
+if (isFactoryMethod(argClass,am)) {  
+if (isFactoryMethod(parent,am)) {  
+if (isFactoryMethod(mi,am)) {  
+if (isFactoryMethod(superClass,am)) {  
+if (isFactoryMethod(Class<?>[],am)) {  
+if (isFactoryMethod(log,am)) {  
+if (isFactoryMethod(nil,am)) {  
+if (isFactoryMethod(spy,am)) {  
+if (isFactoryMethod(ctx,am)) {  
+if (isFactoryMethod(ao,am)) {  
+if (isFactoryMethod(pool,am)) {  
+if (isFactoryMethod(amqp,am)) {  
+if (isFactoryMethod(sig,am)) {  
+if (isFactoryMethod(cw,am)) {  
+if (isFactoryMethod(asm,am)) {  
+if (isFactoryMethod(sp,am)) {  
+if (isFactoryMethod(methodName,am)) {  
+if (isFactoryMethod(owner,am)) {  
+if (isFactoryMethod(argName,am)) {  
+if (isFactoryMethod(ClassInfo,am)) {  
+if (isFactoryMethod(cp,am)) {  
+if (isFactoryMethod(ami,am)) {  
+if (isFactoryMethod(Class,am)) {  
+if (isFactoryMethod(arg1,am)) {  
+if (isFactoryMethod(main,am)) {  
+if (isFactoryMethod(Object.class,am)) {  
+if (isFactoryMethod(adapter,am)) {  
+if (isFactoryMethod(elem,am)) {  
+if (isFactoryMethod(abstractClass,am)) {  
+if (isFactoryMethod(k,am)) {  
+if (isFactoryMethod(aclass,am)) {  
+if (isFactoryMethod(om,am)) {  
+if (isFactoryMethod(ab,am)) {  
+if (isFactoryMethod(bc,am)) {  
+if (isFactoryMethod(AM,am)) {  
+if (isFactoryMethod(ag,am)) {  
+if (isFactoryMethod(Method.class,am)) {  
+if (isFactoryMethod(b,am)) {  
+if (isFactoryMethod(model,am)) {  
+if (isFactoryMethod(am.getName,am)) {  
+if (isFactoryMethod(typeRef,am)) {  
+if (isFactoryMethod(aClass,am)) {  
+if (isFactoryMethod(att,am)) {  
+if (isFactoryMethod(mode,am)) {  
+if (isFactoryMethod(arm,am)) {  
+if (isFactoryMethod(fakeMethod,am)) {  
+if (isFactoryMethod(logger,am)) {  
+if (isFactoryMethod(it,am)) {  
+if (isFactoryMethod(objectType,am)) {  
+if (isFactoryMethod(attr,am)) {  
+if (isFactoryMethod(e,am)) {  
+if (isFactoryMethod(xm,am)) {  
+if (isFactoryMethod(src,am)) {  
+if (isFactoryMethod(tag,am)) {  
+if (isFactoryMethod(reflect,am)) {  
+if (isFactoryMethod(pc,am)) {  
+if (isFactoryMethod(Type.class,am)) {  
+if (isFactoryMethod(tp,am)) {  
+if (isFactoryMethod(methodInfo,am)) {  
+if (isFactoryMethod(TYPE,am)) {  
+if (isFactoryMethod(expected,am)) {  
+if (isFactoryMethod(A,am)) {  
+if (isFactoryMethod(argtypes,am)) {  
+if (isFactoryMethod(inv,am)) {  
+if (isFactoryMethod(acls,am)) {  
+if (isFactoryMethod(tx,am)) {  
+if (isFactoryMethod(Object,am)) {  
+if (isFactoryMethod(ca,am)) {  
+if (isFactoryMethod(anno,am)) {  
+if (isFactoryMethod(getType,am)) {  
+if (isFactoryMethod(typeDescriptor,am)) {  
+if (isFactoryMethod(cx,am)) {  
+if (isFactoryMethod(sc,am)) {  
+if (isFactoryMethod(inst,am)) {  
+if (isFactoryMethod(aux,am)) {  
+if (isFactoryMethod(aa,am)) {  
+if (isFactoryMethod(ClassUtils,am)) {  
+if (isFactoryMethod(ame,am)) {  
+if (isFactoryMethod(classname,am)) {  
+if (isFactoryMethod(adt,am)) {  
+if (isFactoryMethod(ctxt,am)) {  
+if (isFactoryMethod(param,am)) {  
+if (isFactoryMethod(am.getAnnotation,am)) {  
+if (isFactoryMethod(emf,am)) {  
+if (isFactoryMethod(50,am)) {  
+if (isFactoryMethod(exArgs,am)) {  
+if (isFactoryMethod(fqcn,am)) {  
+if (isFactoryMethod(methodRef,am)) {  
+if (isFactoryMethod(ext,am)) {  
+if (isFactoryMethod(tmp,am)) {  
+if (isFactoryMethod(ai,am)) {  
+if (isFactoryMethod(cfm,am)) {  
+if (isFactoryMethod("",am)) {  
+if (isFactoryMethod(5,am)) {  
+if (isFactoryMethod(cl,am)) {  
+if (isFactoryMethod(sourceClass,am)) {  
+if (isFactoryMethod(xxx,am)) {  
+if (isFactoryMethod(avroClass,am)) {  
+if (isFactoryMethod(index,am)) {  
+if (isFactoryMethod(field,am)) {  
+if (isFactoryMethod(apm,am)) {  
+if (isFactoryMethod(abstractMethodType,am)) {  
+if (isFactoryMethod(ClassUtil,am)) {  
+if (isFactoryMethod(v,am)) {  
+if (isFactoryMethod(gov,am)) {  
+if (isFactoryMethod(ev,am)) {  
+if (isFactoryMethod(TypeUtils,am)) {  
+if (isFactoryMethod(methodType,am)) {  
+if (isFactoryMethod(avro,am)) {  
+if (isFactoryMethod(config,am)) {  
+if (isFactoryMethod(item,am)) {  
+if (isFactoryMethod(ref,am)) {  
+if (isFactoryMethod(event,am)) {  
+if (isFactoryMethod(shared,am)) {  
+if (isFactoryMethod(value,am)) {  
+if (isFactoryMethod(typeClass,am)) {  
+if (isFactoryMethod(ad,am)) {  
+if (isFactoryMethod(mainClass,am)) {  
+if (isFactoryMethod(cam,am)) {  
+if (isFactoryMethod(arguments,am)) {  
+if (isFactoryMethod(provider,am)) {  
+if (isFactoryMethod(real,am)) {  
+if (isFactoryMethod(interfaceClass,am)) {  
+if (isFactoryMethod(mType,am)) {  
+if (isFactoryMethod(atype,am)) {  
+if (isFactoryMethod(checkType,am)) {  
+if (isFactoryMethod(MethodType.class,am)) {  
+if (isFactoryMethod(ct,am)) {  
+if (isFactoryMethod(xsd,am)) {  
+if (isFactoryMethod(Mockito,am)) {  
+if (isFactoryMethod(am.getReturnType,am)) {  
+if (isFactoryMethod(am.getClassName,am)) {  
+if (isFactoryMethod(TypeDescription,am)) {  
+if (isFactoryMethod(abstractFactoryMethod,am)) {  
+if (isFactoryMethod(false,false,am)) {  
+if (isFactoryMethod(Class<?>,am)) {  
+if (isFactoryMethod(null,null,am)) {  
+if (isFactoryMethod(am.clazz,am)) {  
+if (isFactoryMethod(Class.forName,am)) {  
+if (isFactoryMethod(false,true,am)) {  
+if (isFactoryMethod(am.name,am)) {  
+if (isFactoryMethod(am)) {  
+if (isFactoryMethod(am.getAnnotated)) {  
+if (isFactoryMethod(am<mask1>am)) {  
+if (isFactoryMethod(am, true)) {  
+if (isFactoryMethod(am.getMethod)) {  
+if (isFactoryMethod(am.getAnnotated())) {  
+if (isFactoryMethod(am, false)) {  
+if (isFactoryMethod(am<mask1>am);)) {  
+if (isFactoryMethod(ami)) {  
+if (isFactoryMethod(am.getExecutable)) {  
+if (isFactoryMethod( am)) {  
+if (isFactoryMethod(am, expArgTypes)) {  
+if (isFactoryMethod(am.getMethod())) {  
+if (isFactoryMethod(am<mask1>am))) {  
+if (isFactoryMethod(am, null)) {  
+if (isFactoryMethod(am.getAnnotation)) {  
+if (isFactoryMethod(ar)) {  
+if (isFactoryMethod(amp)) {  
+if (isFactoryMethod(amap)) {  
+if (isFactoryMethod(a)) {  
+if (isFactoryMethod(am<mask14> })) {  
+if (isFactoryMethod(am, argTypes)) {  
+if (isFactoryMethod(am<mask9>am)) {  
+if (isFactoryMethod(m)) {  
+if (isFactoryMethod(arg)) {  
+if (isFactoryMethod(am<mask3> })) {  
+if (isFactoryMethod(av)) {  
+if (isFactoryMethod(am.getName)) {  
+if (isFactoryMethod(am<mask2>am))) {  
+if (isFactoryMethod(amqpMethod)) {  
+if (isFactoryMethod(AM)) {  
+if (isFactoryMethod(ame)) {  
+if (isFactoryMethod(am, 0)) {  
+if (isFactoryMethod(am,true)) {  
+if (isFactoryMethod(amin)) {  
+if (isFactoryMethod(avm)) {  
+if (isFactoryMethod(am2)) {  
+if (isFactoryMethod(am<mask2>am);)) {  
+if (isFactoryMethod(um)) {  
+if (isFactoryMethod(am<mask3>})) {  
+if (isFactoryMethod(pm)) {  
+if (isFactoryMethod(am._method)) {  
+if (isFactoryMethod(am.getMethodName)) {  
+if (isFactoryMethod(alMethod)) {  
+if (isFactoryMethod(am.getConstructor)) {  
+if (isFactoryMethod(iam)) {  
+if (isFactoryMethod(am.getJavaMember)) {  
+if (isFactoryMethod(av<mask1>am)) {  
+if (isFactoryMethod(ampl)) {  
+if (isFactoryMethod(am )) {  
+if (isFactoryMethod(am->am)) {  
+if (isFactoryMethod(amqp)) {  
+if (isFactoryMethod(am,false)) {  
+if (isFactoryMethod(mainMethod)) {  
+if (isFactoryMethod(apm)) {  
+if (isFactoryMethod(om)) {  
+if (isFactoryMethod(ak)) {  
+if (isFactoryMethod(am<mask1>am.getMethod)) {  
+if (isFactoryMethod(am<mask1>am) {)) {  
+if (isFactoryMethod(am<mask14>})) {  
+if (isFactoryMethod(ac)) {  
+if (isFactoryMethod(am, _classInfo)) {  
+if (isFactoryMethod(am<mask14> })) {  
+if (isFactoryMethod(am, args)) {  
+if (isFactoryMethod(af)) {  
+if (isFactoryMethod(adp)) {  
+if (isFactoryMethod(aim)) {  
+if (isFactoryMethod(am, 1)) {  
+if (isFactoryMethod(am.method)) {  
+if (isFactoryMethod(am.getExecutable())) {  
+if (isFactoryMethod(am.getGenericReturnType)) {  
+if (isFactoryMethod(am<mask5>})) {  
+if (isFactoryMethod(am,expArgTypes)) {  
+if (isFactoryMethod(am<mask10>am)) {  
+if (isFactoryMethod(am.getAnno)) {  
+if (isFactoryMethod(am<mask5> })) {  
+if (isFactoryMethod(AM<mask1>am)) {  
+if (isFactoryMethod(am<mask3> })) {  
+if (isFactoryMethod(am.getAbstractMethod)) {  
+if (isFactoryMethod(apm)) {  
+if (isFactoryMethod(am.getSignature)) {  
+if (isFactoryMethod(sam)) {  
+if (isFactoryMethod(arm)) {  
+if (isFactoryMethod(am<mask1>am, false)) {  
+if (isFactoryMethod(am<mask1>am.getReturnType)) {  
+if (isFactoryMethod(am.getDeclaringClass)) {  
+if (isFactoryMethod(am<mask1>am) ;)) {  
+if (isFactoryMethod(am.getReturnType)) {  
+if (isFactoryMethod(ao)) {  
+if (isFactoryMethod(am<mask1>am.getName)) {  
+if (isFactoryMethod(aa)) {  
+if (isFactoryMethod(ampm)) {  
+if (isFactoryMethod(am<mask1>am, true)) {  
+if (isFactoryMethod(am.getMethodSig)) {  
+if (isFactoryMethod(iv)) {  
+if (isFactoryMethod(am.getMethod() )) {  
+if (isFactoryMethod(im)) {  
+if (isFactoryMethod(Am)) {  
+if (isFactoryMethod(am<mask14>} })) {  
+if (isFactoryMethod(am.getMethod(), true)) {  
+if (isFactoryMethod(ams)) {  
+if (isFactoryMethod(am<mask14>} )) {  
+if (isFactoryMethod(cm)) {  
+if (isFactoryMethod(am, 2)) {  
+if (isFactoryMethod(aml)) {  
+if (isFactoryMethod(dam)) {  
+if (isFactoryMethod(am.getMethod().getName)) {  
+if (isFactoryMethod(om<mask1>am)) {  
+if (isFactoryMethod(aw)) {  
+if (isFactoryMethod(ap)) {  
+if (isFactoryMethod(am<mask14> )) {  
+if (isFactoryMethod(am.getAnnotatedMethod)) {  
+if (isFactoryMethod(am<mask1>am.getAnnotation)) {  
+if (isFactoryMethod(am.getDeclaredMethod)) {  
+if (isFactoryMethod(this)) {  
+if (isFactoryMethod(am )) {  
+if (isFactoryMethod(am);)) {  
+if (isFactoryMethod(amenode)) {  
+if (isFactoryMethod(am<mask14> } })) {  
+if (isFactoryMethod(am, ...)) {  
+if (isFactoryMethod(am<mask12> })) {  
+if (isFactoryMethod(ad)) {  
+if (isFactoryMethod(am1)) {  
+if (isFactoryMethod(am.getMethodSignature)) {  
+if (isFactoryMethod(am<mask1> am)) {  
+if (isFactoryMethod(av<mask1>av)) {  
+if (isFactoryMethod(alm)) {  
+if (isFactoryMethod(amazon)) {  
+if (isFactoryMethod(am, types)) {  
+if (isFactoryMethod(am.getOwner)) {  
+if (isFactoryMethod(amplify)) {  
+if (isFactoryMethod(ap<mask1>am)) {  
+if (isFactoryMethod(am, paramTypes)) {  
+if (isFactoryMethod(am.getMethod().getAnnotation)) {  
+if (isFactoryMethod(am<mask5> })) {  
+if (isFactoryMethod(ym)) {  
+if (isFactoryMethod(am.getMethodType)) {  
+if (isFactoryMethod(am<mask1>am){)) {  
+if (isFactoryMethod(am.getMethod<mask1>am)) {  
+if (isFactoryMethod(ham)) {  
+if (isFactoryMethod(avMethod)) {  
+if (isFactoryMethod(am<mask12> )) {  
+if (isFactoryMethod(am.getMethodDescriptor)) {  
+if (isFactoryMethod(main)) {  
+if (isFactoryMethod(am.getMethod(), false)) {  
+if (isFactoryMethod(true)) {  
+if (isFactoryMethod(am, m)) {  
+if (isFactoryMethod(asm)) {  
+if (isFactoryMethod(am.getMethod() )) {  
+if (isFactoryMethod(am.getWrappedMethod)) {  
+if (isFactoryMethod(al)) {  
+if (isFactoryMethod(am.getAnnotatedClass)) {  
+if (isFactoryMethod(Am.class)) {  
+if (isFactoryMethod(am.getThis)) {  
+if (isFactoryMethod(ag)) {  
+if (isFactoryMethod(asMethod(am)) {  
+if (isFactoryMethod(ama)) {  
+if (isFactoryMethod(mm)) {  
+if (isFactoryMethod(rm)) {  
+if (isFactoryMethod(itm)) {  
+if (isFactoryMethod(am=am)) {  
+if (isFactoryMethod(arg0)) {  
+if (isFactoryMethod(art)) {  
+if (isFactoryMethod(am: am)) {  
+if (isFactoryMethod(aparameter)) {  
+if (isFactoryMethod(im<mask1>am)) {  
+if (isFactoryMethod(am,0)) {  
+if (isFactoryMethod(am.getMethod(0)) {  
+if (isFactoryMethod(am<mask1>am) )) {  
+if (isFactoryMethod(am.getMethod<mask1> am)) {  
+if (isFactoryMethod(am.getAbstract)) {  
+if (isFactoryMethod(am.getThisMethod)) {  
+if (isFactoryMethod(am.getAnnotated());)) {  
+if (isFactoryMethod(am.getDirectMethod)) {  
+if (isFactoryMethod(am   )) {  
+if (isFactoryMethod(am<mask1>ami)) {  
+if (isFactoryMethod(amd)) {  
+if (isFactoryMethod(am, 3)) {  
+if (isFactoryMethod(am.getMethod());)) {  
+if (isFactoryMethod(am<mask14> } )) {  
+if (isFactoryMethod(akm)) {  
+if (isFactoryMethod(am, type)) {  
+if (isFactoryMethod(av, am)) {  
+if (isFactoryMethod(am<mask14>  })) {  
+if (isFactoryMethod(am.getOwnMethod)) {  
+if (isFactoryMethod(am <mask1>am)) {  
+if (isFactoryMethod(am.getRawMethod)) {  
+if (isFactoryMethod(AM, am)) {  
+if (isFactoryMethod(alm)) {  
+if (isFactoryMethod(ab)) {  
+if (isFactoryMethod(am.getMethodAnnotated)) {  
+if (isFactoryMethod(am.getType)) {  
+if (isFactoryMethod(amplifier)) {  
+if (isFactoryMethod(em)) {  
+if (isFactoryMethod(aj)) {  
+if (isFactoryMethod(am instanceof Method)) {  
+if (isFactoryMethod(mp)) {  
+if (isFactoryMethod(apim)) {  
+if (isFactoryMethod(am, params)) {  
+if (isFactoryMethod(adapter)) {  
+if (isFactoryMethod(am<mask12>})) {  
+if (isFactoryMethod(    am)) {  
+if (isFactoryMethod(this, am)) {  
+if (isFactoryMethod(am<mask3>} )) {  
+if (isFactoryMethod(am.getClazz)) {  
+if (isFactoryMethod(am.getObject)) {  
+if (isFactoryMethod(am.getDescriptor)) {  
+if (isFactoryMethod(amps)) {  
+if (isFactoryMethod(asMethod)) {  
+if (isFactoryMethod(am.getDeclaringClass())) {  
+if (isFactoryMethod(item)) {  
+if (isFactoryMethod(am).equals(true)) {  
+if (isFactoryMethod(am<mask3> } )) {  
+if (isFactoryMethod(am<mask12> })) {  
+if (isFactoryMethod(am<mask14>    })) {  
+if (isFactoryMethod(al<mask1>am)) {  
+if (isFactoryMethod(ram)) {  
+if (isFactoryMethod(am0)) {  
+if (isFactoryMethod(am<mask1>am2)) {  
+if (isFactoryMethod(am.getValue)) {  
+if (isFactoryMethod(am<mask1>am )) {  
+if (isFactoryMethod(am.getAnnotated();)) {  
+if (isFactoryMethod(avym)) {  
+if (isFactoryMethod(am<mask5>)) {  
+if (isFactoryMethod(Am.class, am)) {  
+if (isFactoryMethod(am<mask1>am);})) {  
+if (isFactoryMethod(alam)) {  
+if (isFactoryMethod(am::getAnnotated)) {  
+if (isFactoryMethod(am.getMethodInfo)) {  
+if (isFactoryMethod(am<mask1>am,)) {  
+if (isFactoryMethod(am.getMember)) {  
+if (isFactoryMethod(am.getMutable)) {  
+if (isFactoryMethod(11)) {  
+if (isFactoryMethod(am.getOriginalMethod)) {  
+if (isFactoryMethod(as(am)) {  
+if (isFactoryMethod(am, _argTypes)) {  
+if (isFactoryMethod(am.getAnnotationClass)) {  
+if (isFactoryMethod(am, 10)) {  
+if (isFactoryMethod(am<mask1>am);//)) {  
+if (isFactoryMethod(am.getFirstArgument)) {  
+if (isFactoryMethod(AM_METHOD)) {  
+if (isFactoryMethod(remoter)) {  
+if (isFactoryMethod(am,null)) {  
+if (isFactoryMethod(am.getBody)) {  
+if (isFactoryMethod(arg1)) {  
+if (isFactoryMethod(acm)) {  
+if (isFactoryMethod(rem)) {  
+if (isFactoryMethod(argType)) {  
+if (isFactoryMethod(am, this)) {  
+if (isFactoryMethod(amem)) {  
+if(am==null){return  null; } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } else {;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1> null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} return null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else { break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} return am;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else { return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>};;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} else {;} if (isFactoryMethod(am)) {  
+if(am==null){return  null} continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>};} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else { continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>; } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else {return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else {continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} continue;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2> null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; }  return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> am;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;}else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else { break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} return am;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;}  return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } continue;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } //return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>} return am;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> am;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else { return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else { break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;}};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else { return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>};;} if (isFactoryMethod(am)) {  
+if(am==null){return null<mask1> null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2> null; };} if (isFactoryMethod(am)) {  
+if(am==null){return null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; }else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else { continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else {break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null} else {return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> am;;} if (isFactoryMethod(am)) {  
+if(am==null){return null<mask1> null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;}};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} ...;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} //return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } ...;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2> null;} ;} if (isFactoryMethod(am)) {  
+if(am==null){return ; } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null ;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;}};} if (isFactoryMethod(am)) {  
+if(am==null){return null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null};;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} Method am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1> null; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;}else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2>} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null}else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else{return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} return am;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} else {;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else { continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else;} if (isFactoryMethod(am)) {  
+if(am==null){return null<mask1> null};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} //continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } return am;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } //continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask3>};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else{return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } return null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } Method am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask2> am;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} next;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;}  return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} //;} if (isFactoryMethod(am)) {  
+if(am==null){return  null} } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else{return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2> am; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; }  ;} if (isFactoryMethod(am)) {  
+if(am==null){return null; } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask2> null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>} else {return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1> };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } try;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> };} if (isFactoryMethod(am)) {  
+if(am==null){return ;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1> null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } //;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;  } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} try;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null} break;} if (isFactoryMethod(am)) {  
+if(am==null){return null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} return null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> am; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } //else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} ++;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2> am;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else { continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } next;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask2> am;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } ++;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2> null;};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>} else { return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask2> am; } };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} //return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask2> am; };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else{return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} continue;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;}  return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } };} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1> null};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> false;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2>;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {...;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} else {;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask2> null;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null } continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } //;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} return am; ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} };} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else { break;} if (isFactoryMethod(am)) {  
+if(am==null){return  null} else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2>;} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  nil;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else{continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } else { ...;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else {continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} } else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;}else{return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} // else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else{break;} if (isFactoryMethod(am)) {  
+if(am==null){return  am; } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask2> am; } };} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null; } // };} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} //else;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;}  ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null;} continue;;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1>;} return am;;} if (isFactoryMethod(am)) {  
+if(am==null){return  am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} ...;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask2> null;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null<mask2>; } ;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1> null; } return;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;<mask1> } return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null;} else{continue;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} else { return am;} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask3> };} if (isFactoryMethod(am)) {  
+if(am==null){return null};} if (isFactoryMethod(am)) {  
+if(am==null){return  null<mask1>;} else {return am;} if (isFactoryMethod(am)) {  
+if(am==null){ am=null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=this; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFactoryMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null }; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=defaultMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=newInstance; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=mainMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=emptyMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=rootMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Object.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=factoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new Method() {}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new Method() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=undefinedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getDefaultMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=method; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=methods; } if (isFactoryMethod(am)) {  
+if(am==null){ am=buildMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new Method(); } if (isFactoryMethod(am)) {  
+if(am==null){ am=NULL; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>null; }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getFactoryMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=pm; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>null;}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=nil; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getDefaultMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null } else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=anyMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createMethod<mask1>createMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getMethod<mask1>getMethod(); }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFactoryMethod<mask1>null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null } return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null} return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Method.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFirstMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getRootMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null; } else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=initMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null; } return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findMethod<mask1>findMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=parent; } if (isFactoryMethod(am)) {  
+if(am==null){ am=false; } if (isFactoryMethod(am)) {  
+if(am==null){ am=unknownMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null} break; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=EMPTY; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findAnonymousMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=void; } if (isFactoryMethod(am)) {  
+if(am==null){ am=noop; } if (isFactoryMethod(am)) {  
+if(am==null){ am=FactoryMethod.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=NullMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Object; } if (isFactoryMethod(am)) {  
+if(am==null){ am=AnonymousMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=originalMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=anonymousMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>findFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Null; } if (isFactoryMethod(am)) {  
+if(am==null){ am= this; } if (isFactoryMethod(am)) {  
+if(am==null){ am=bean; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null<mask1>null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getMethod<mask1>getMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= findFactoryMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>null;} ; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new AnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=baseMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=m; } if (isFactoryMethod(am)) {  
+if(am==null){ am=super; } if (isFactoryMethod(am)) {  
+if(am==null){ am=0; } if (isFactoryMethod(am)) {  
+if(am==null){ am=a; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findAbstractMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=AbstractMethod.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=firstMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null } else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=arg; } if (isFactoryMethod(am)) {  
+if(am==null){ am=EmptyMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=currentMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null} else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=methodInfo; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new AnnotatedMethod(); } if (isFactoryMethod(am)) {  
+if(am==null){ am=getNullMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=AbstractMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=newAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=targetMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=makeMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=nullAST#assignment_expression#Right break; } if (isFactoryMethod(am)) {  
+if(am==null){ am=root; } if (isFactoryMethod(am)) {  
+if(am==null){ am=dummyMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=this<mask1>this; } if (isFactoryMethod(am)) {  
+if(am==null){ am=EMPTY_METHOD; } if (isFactoryMethod(am)) {  
+if(am==null){ am=newAnnotatedMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;}else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=abstractMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=newInstance<mask1>newInstance; } if (isFactoryMethod(am)) {  
+if(am==null){ am=buildMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null } return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=buildAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=find<mask1>findFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=..; } if (isFactoryMethod(am)) {  
+if(am==null){ am=NULL_METHOD; } if (isFactoryMethod(am)) {  
+if(am==null){ am=buildMethod<mask1>buildMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getBaseMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=publicMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getRootMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getBaseMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=finderMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} else { break; } if (isFactoryMethod(am)) {  
+if(am==null){ am= getDefaultMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=constructorMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null } else { break; } if (isFactoryMethod(am)) {  
+if(am==null){ am= super; } if (isFactoryMethod(am)) {  
+if(am==null){ am=buildFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createAnnotatedMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=otherMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null; }; } if (isFactoryMethod(am)) {  
+if(am==null){ am={}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=fallbackMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getAnnotated() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new Method<mask1>null;}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=first; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null<mask1> null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=NullAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findDefaultMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=nextMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null<mask1>null;}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=owner; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFactoryMethod<mask2>null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=constructor; } if (isFactoryMethod(am)) {  
+if(am==null){ am=target; } if (isFactoryMethod(am)) {  
+if(am==null){ am=staticMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=_method; } if (isFactoryMethod(am)) {  
+if(am==null){ am=classInfo; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findDirectMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=defaultFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=lookupMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=RootMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getDefaultMethod() } else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=_classInfo; } if (isFactoryMethod(am)) {  
+if(am==null){ am=finder; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new Method<mask1>new Method; } if (isFactoryMethod(am)) {  
+if(am==null){ am=noopMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=EmptyAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=newInstanceMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new staticMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=next; } if (isFactoryMethod(am)) {  
+if(am==null){ am=nullAST#assignment_expression#Right return null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getAnonymousMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= method; } if (isFactoryMethod(am)) {  
+if(am==null){ am=undefined; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findAnonymousMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=processMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findCallerMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=openMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null } return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null; return null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getAnonymousMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=AnnotatedMethod.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=sourceMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= findFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=empty; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFirstMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getFactoryMethod<mask1>null; } if (isFactoryMethod(am)) {  
+if(am==null){ am=UNDEFINED; } if (isFactoryMethod(am)) {  
+if(am==null){ am=FactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findOrCreateMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=System.in; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} else{ break; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getCallerMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=DefaultMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=default; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getNullMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=nullAST#ternary_expression#Right; } if (isFactoryMethod(am)) {  
+if(am==null){ am=beans; } if (isFactoryMethod(am)) {  
+if(am==null){ am=MainMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null;}; } if (isFactoryMethod(am)) {  
+if(am==null){ am= new Method() {}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=type; } if (isFactoryMethod(am)) {  
+if(am==null){ am=System; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new DefaultAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>null;} else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createMock; } if (isFactoryMethod(am)) {  
+if(am==null){ am=globalMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Collections.emptyList() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=rawMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new NullAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= factoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=args; } if (isFactoryMethod(am)) {  
+if(am==null){ am=UndefinedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFactoryMethod<mask3> }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=noneMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=parentMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=newInstance() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Void.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=defaultAnnotatedMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null<mask1>null; }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=methods.get; } if (isFactoryMethod(am)) {  
+if(am==null){ am=EmptyMethod<mask1>EmptyMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>this; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Object<mask1>Object.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getMethod() } else; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null } else { break; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getMethod(); } return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am= null<mask1> null; }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=DEFAULT_METHOD; } if (isFactoryMethod(am)) {  
+if(am==null){ am=inspectMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getClassInfo() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getNextMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findAnnotatedMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} break; } if (isFactoryMethod(am)) {  
+if(am==null){ am=factoryMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask1>Method.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=FactoryMethod.INSTANCE; } if (isFactoryMethod(am)) {  
+if(am==null){ am=factoryMethod<mask1>null;}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} else; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null;} else return am; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getEmptyMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=null<mask2>findFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new AnnotatedMethodImpl; } if (isFactoryMethod(am)) {  
+if(am==null){ am=om<mask1>om; } if (isFactoryMethod(am)) {  
+if(am==null){ am=System.identityMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new MethodAdapter() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findFacadeMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=new Method(){}}; } if (isFactoryMethod(am)) {  
+if(am==null){ am=findStaticMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=Collections.emptySet; } if (isFactoryMethod(am)) {  
+if(am==null){ am= findMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=BeanMethod.class; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getJavaMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=getCallerMethod() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=am.getAnnotation() }; } if (isFactoryMethod(am)) {  
+if(am==null){ am=java.lang.Object; } if (isFactoryMethod(am)) {  
+if(am==null){ am=guessFactoryMethod; } if (isFactoryMethod(am)) {  
+if(am==null){ am=createFactoryMethod() }; } if (isFactoryMethod(am)) {  
+if(am!=null){ if (isFactoryMethod(am)) {}  
+if(am != null){ if (isFactoryMethod(am)) {}  
+if(am.isStatic()){ if (isFactoryMethod(am)) {}  
+if(am.isStatic){ if (isFactoryMethod(am)) {}  
+if(am instanceof Method){ if (isFactoryMethod(am)) {}  
+if(isFactoryMethod(am)){ if (isFactoryMethod(am)) {}  
+if(am!= null){ if (isFactoryMethod(am)) {}  
+if(am.isFactoryMethod()){ if (isFactoryMethod(am)) {}  
+if(am.isPublic()){ if (isFactoryMethod(am)) {}  
+if(am.isSynthetic()){ if (isFactoryMethod(am)) {}  
+if(true){ if (isFactoryMethod(am)) {}  
+if(am instanceof AnnotatedMethod){ if (isFactoryMethod(am)) {}  
+if(am){ if (isFactoryMethod(am)) {}  
+if( am != null){ if (isFactoryMethod(am)) {}  
+if(am.isInterface()){ if (isFactoryMethod(am)) {}  
+if(am.isPrivate()){ if (isFactoryMethod(am)) {}  
+if(false){ if (isFactoryMethod(am)) {}  
+if(am.isConstructor()){ if (isFactoryMethod(am)) {}  
+if(am instanceof FactoryMethod){ if (isFactoryMethod(am)) {}  
+if(am.isFactory()){ if (isFactoryMethod(am)) {}  
+if(am.isAbstract()){ if (isFactoryMethod(am)) {}  
+if(am instanceof AbstractMethod){ if (isFactoryMethod(am)) {}  
+if(am==null){ if (isFactoryMethod(am)) {}  
+if(am instanceof ClassMethod){ if (isFactoryMethod(am)) {}  
+if(am.isPublic){ if (isFactoryMethod(am)) {}  
+if(null != am){ if (isFactoryMethod(am)) {}  
+if(am.isStaticMethod()){ if (isFactoryMethod(am)) {}  
+if(am instanceof InterfaceMethod){ if (isFactoryMethod(am)) {}  
+if( !am.isStatic()){ if (isFactoryMethod(am)) {}  
+if(am.isFinal()){ if (isFactoryMethod(am)) {}  
+if(null!=am){ if (isFactoryMethod(am)) {}  
+if(am instanceof ConstructorMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof Constructor){ if (isFactoryMethod(am)) {}  
+if(am instanceof Field){ if (isFactoryMethod(am)) {}  
+if( am!=null){ if (isFactoryMethod(am)) {}  
+if(am.isSynthetic){ if (isFactoryMethod(am)) {}  
+if( am.isStatic()){ if (isFactoryMethod(am)) {}  
+if(am == null){ if (isFactoryMethod(am)) {}  
+if(am instanceof staticMethod){ if (isFactoryMethod(am)) {}  
+if(am.getAnnotated()==null){ if (isFactoryMethod(am)) {}  
+if(am.isStatic() == false){ if (isFactoryMethod(am)) {}  
+if(am.isStatic()){ if (isFactoryMethod(am)) {}  
+if(am instanceof FactoryMethod<mask1>am){ if (isFactoryMethod(am)) {}  
+if(am.isArray()){ if (isFactoryMethod(am)) {}  
+if(isFactoryMethod(am){ if (isFactoryMethod(am)) {}  
+if(am instanceof StaticMethod){ if (isFactoryMethod(am)) {}  
+if(am.isFactoryMethod){ if (isFactoryMethod(am)) {}  
+if(null==am){ if (isFactoryMethod(am)) {}  
+if(am.isAnnotated()){ if (isFactoryMethod(am)) {}  
+if(null == am){ if (isFactoryMethod(am)) {}  
+if(am.isConstructor){ if (isFactoryMethod(am)) {}  
+if(am instanceof AFactoryMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof FieldMethod){ if (isFactoryMethod(am)) {}  
+if(am.hasArgTypes()){ if (isFactoryMethod(am)) {}  
+if(am.isRequired()){ if (isFactoryMethod(am)) {}  
+if(am.isAccessible()){ if (isFactoryMethod(am)) {}  
+if(am.getMethod() != null){ if (isFactoryMethod(am)) {}  
+if(am instanceof ParameterizedType){ if (isFactoryMethod(am)) {}  
+if(am !=null){ if (isFactoryMethod(am)) {}  
+if(am instanceof ParameterizedMethod){ if (isFactoryMethod(am)) {}  
+if(containsFactoryMethod(am)){ if (isFactoryMethod(am)) {}  
+if(am!=nil){ if (isFactoryMethod(am)) {}  
+if(am.isVarArgs()){ if (isFactoryMethod(am)) {}  
+if(am.getParameterCount()>0){ if (isFactoryMethod(am)) {}  
+if(am.isMethod()){ if (isFactoryMethod(am)) {}  
+if(am.isExecutable()){ if (isFactoryMethod(am)) {}  
+if( ! am.isStatic()){ if (isFactoryMethod(am)) {}  
+if(am instanceof MethodInfo){ if (isFactoryMethod(am)) {}  
+if(am instanceof AnnotationMethod){ if (isFactoryMethod(am)) {}  
+if(exists(am)){ if (isFactoryMethod(am)) {}  
+if( isFactoryMethod(am)){ if (isFactoryMethod(am)) {}  
+if(am.isStaticMethod){ if (isFactoryMethod(am)) {}  
+if(argTypes != null){ if (isFactoryMethod(am)) {}  
+if(am.getReturnType() != null){ if (isFactoryMethod(am)) {}  
+if(am instanceof MemberMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof DynamicMethod){ if (isFactoryMethod(am)) {}  
+if(am.isStatic()==false){ if (isFactoryMethod(am)) {}  
+if(am.getAnnotated()!=null){ if (isFactoryMethod(am)) {}  
+if(am.isAnonymous()){ if (isFactoryMethod(am)) {}  
+if(am.getParameterCount()==0){ if (isFactoryMethod(am)) {}  
+if(am instanceof FactMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof StubMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof WrapperMethod){ if (isFactoryMethod(am)) {}  
+if(argTypes){ if (isFactoryMethod(am)) {}  
+if(am instanceof InvocationMethod){ if (isFactoryMethod(am)) {}  
+if(am.isStatic() == true){ if (isFactoryMethod(am)) {}  
+if(am!=this){ if (isFactoryMethod(am)) {}  
+if(am.isFinal){ if (isFactoryMethod(am)) {}  
+if(am.isType){ if (isFactoryMethod(am)) {}  
+if(am.isDefault){ if (isFactoryMethod(am)) {}  
+if(am.getClass() != null){ if (isFactoryMethod(am)) {}  
+if(am instanceof GenericMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof MethodMethod){ if (isFactoryMethod(am)) {}  
+if( am.isFactoryMethod()){ if (isFactoryMethod(am)) {}  
+if(am.isVisible()){ if (isFactoryMethod(am)) {}  
+if(am instanceof MethodAnnotation){ if (isFactoryMethod(am)) {}  
+if(log.isDebugEnabled()){ if (isFactoryMethod(am)) {}  
+if(pm){ if (isFactoryMethod(am)) {}  
+if(am instanceof SimpleMethod){ if (isFactoryMethod(am)) {}  
+if(notNull(am)){ if (isFactoryMethod(am)) {}  
+if(am.getName() != null){ if (isFactoryMethod(am)) {}  
+if(am.isAbstract){ if (isFactoryMethod(am)) {}  
+if(am.isValid()){ if (isFactoryMethod(am)) {}  
+if(am instanceof DirectMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof InnerMethod){ if (isFactoryMethod(am)) {}  
+if(am.isPublicMethod()){ if (isFactoryMethod(am)) {}  
+if(am.isConstant()){ if (isFactoryMethod(am)) {}  
+if(am.isStatic() != false){ if (isFactoryMethod(am)) {}  
+if(am instanceof Modifier){ if (isFactoryMethod(am)) {}  
+if(am.isArray){ if (isFactoryMethod(am)) {}  
+if(am.isField()){ if (isFactoryMethod(am)) {}  
+if(am.isBridge()){ if (isFactoryMethod(am)) {}  
+if(am instanceof ConstructMethod){ if (isFactoryMethod(am)) {}  
+if(am.hasReturnType()){ if (isFactoryMethod(am)) {}  
+if(am.isStatic){ if (isFactoryMethod(am)) {}  
+if(hasFactoryMethod(am)){ if (isFactoryMethod(am)) {}  
+if( am.isSynthetic()){ if (isFactoryMethod(am)) {}  
+if( am.isPublic()){ if (isFactoryMethod(am)) {}  
+if(am.isTypeInterface()){ if (isFactoryMethod(am)) {}  
+if(am instanceof FunctionalMethod){ if (isFactoryMethod(am)) {}  
+if(am.isMethod){ if (isFactoryMethod(am)) {}  
+if( am instanceof Method){ if (isFactoryMethod(am)) {}  
+if(isFactoryMethod(am))){ if (isFactoryMethod(am)) {}  
+if(am.isInterface){ if (isFactoryMethod(am)) {}  
+if(am instanceof FactoryMethod<mask1> am){ if (isFactoryMethod(am)) {}  
+if(am instanceof Member){ if (isFactoryMethod(am)) {}  
+if(am.isPrivate){ if (isFactoryMethod(am)) {}  
+if(am.isStatic(true)){ if (isFactoryMethod(am)) {}  
+if(am.getAnnotated()){ if (isFactoryMethod(am)) {}  
+if(am.getIsStatic()){ if (isFactoryMethod(am)) {}  
+if(am instanceof AbstractAnnotatedMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof MethodType){ if (isFactoryMethod(am)) {}  
+if(am instanceof ExecutableMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof WrappedMethod){ if (isFactoryMethod(am)) {}  
+if(am.isSingleton()){ if (isFactoryMethod(am)) {}  
+if(argTypes!=null){ if (isFactoryMethod(am)) {}  
+if(av==null){ if (isFactoryMethod(am)) {}  
+if(am instanceof TypeMethod){ if (isFactoryMethod(am)) {}  
+if(am.isInvoke()){ if (isFactoryMethod(am)) {}  
+if(am instanceof Variable){ if (isFactoryMethod(am)) {}  
+if(am instanceof Stub){ if (isFactoryMethod(am)) {}  
+if( !am.isSynthetic()){ if (isFactoryMethod(am)) {}  
+if( am.isStatic){ if (isFactoryMethod(am)) {}  
+if(am.isGetter()){ if (isFactoryMethod(am)) {}  
+if(am.isStatic(0)){ if (isFactoryMethod(am)) {}  
+if(am.getParameters().isEmpty()){ if (isFactoryMethod(am)) {}  
+if(log){ if (isFactoryMethod(am)) {}  
+if(am.isStatic(false)){ if (isFactoryMethod(am)) {}  
+if(am.isDefault()){ if (isFactoryMethod(am)) {}  
+if(am instanceof ReflectionMethod){ if (isFactoryMethod(am)) {}  
+if( am!= null){ if (isFactoryMethod(am)) {}  
+if(verbose){ if (isFactoryMethod(am)) {}  
+if(am.isBound()){ if (isFactoryMethod(am)) {}  
+if(am instanceof InvokeMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof AssociationMethod){ if (isFactoryMethod(am)) {}  
+if(am.getParameterCount()==1){ if (isFactoryMethod(am)) {}  
+if(am instanceof StaticMethod<mask1>am){ if (isFactoryMethod(am)) {}  
+if(am instanceof BeanMethod){ if (isFactoryMethod(am)) {}  
+if(av == null){ if (isFactoryMethod(am)) {}  
+if(am.isFacade()){ if (isFactoryMethod(am)) {}  
+if(am instanceof factoryMethod){ if (isFactoryMethod(am)) {}  
+if(am.getArguments() != null){ if (isFactoryMethod(am)) {}  
+if(trace){ if (isFactoryMethod(am)) {}  
+if(am.isFacadeMethod()){ if (isFactoryMethod(am)) {}  
+if(am instanceof InstanceMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof Return){ if (isFactoryMethod(am)) {}  
+if(am.isProtected()){ if (isFactoryMethod(am)) {}  
+if(am.getArguments()==null){ if (isFactoryMethod(am)) {}  
+if(am instanceof MethodMeta){ if (isFactoryMethod(am)) {}  
+if( true){ if (isFactoryMethod(am)) {}  
+if(am instanceof FunctionMethod){ if (isFactoryMethod(am)) {}  
+if(am is not null){ if (isFactoryMethod(am)) {}  
+if(am.isGenerated()){ if (isFactoryMethod(am)) {}  
+if(am!=null ){ if (isFactoryMethod(am)) {}  
+if(am instanceof ProviderMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof InternalMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof BaseMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof ProxyMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof CachedMethod){ if (isFactoryMethod(am)) {}  
+if(am.getDeclaringClass()==this){ if (isFactoryMethod(am)) {}  
+if(am.hasSignature()){ if (isFactoryMethod(am)) {}  
+if(a!=null){ if (isFactoryMethod(am)) {}  
+if(am.getArguments()!=null){ if (isFactoryMethod(am)) {}  
+if( am.isFactory()){ if (isFactoryMethod(am)) {}  
+if( am.isInterface()){ if (isFactoryMethod(am)) {}  
+if(am.hasArg()){ if (isFactoryMethod(am)) {}  
+if(foundFactoryMethod(am)){ if (isFactoryMethod(am)) {}  
+if(am instanceof Wrapper){ if (isFactoryMethod(am)) {}  
+if(am instanceof AbstractFactoryMethod){ if (isFactoryMethod(am)) {}  
+if(am.isTypeSignature()){ if (isFactoryMethod(am)) {}  
+if(am.getArguments().isEmpty()){ if (isFactoryMethod(am)) {}  
+if(am instanceof AttributeMethod){ if (isFactoryMethod(am)) {}  
+if(am.isAccessible){ if (isFactoryMethod(am)) {}  
+if(logger.isDebugEnabled()){ if (isFactoryMethod(am)) {}  
+if(am instanceof AbstractMethod<mask1>am){ if (isFactoryMethod(am)) {}  
+if(DEBUG){ if (isFactoryMethod(am)) {}  
+if( am.isPrivate()){ if (isFactoryMethod(am)) {}  
+if(am instanceof MethodInterface){ if (isFactoryMethod(am)) {}  
+if(am.getAbstract()){ if (isFactoryMethod(am)) {}  
+if(am is factoryMethod){ if (isFactoryMethod(am)) {}  
+if(am.hasGenericSignature()){ if (isFactoryMethod(am)) {}  
+if(found){ if (isFactoryMethod(am)) {}  
+if(am.isStatic()==true){ if (isFactoryMethod(am)) {}  
+if(Boolean){ if (isFactoryMethod(am)) {}  
+if(am instanceof FactoredMethod){ if (isFactoryMethod(am)) {}  
+if(am.isGeneric()){ if (isFactoryMethod(am)) {}  
+if(am.getType().isArray()){ if (isFactoryMethod(am)) {}  
+if(am.canInvoke()){ if (isFactoryMethod(am)) {}  
+if(am.isSetter()){ if (isFactoryMethod(am)) {}  
+if(am instanceof PrivateMethod){ if (isFactoryMethod(am)) {}  
+if(am instanceof MethodSignature){ if (isFactoryMethod(am)) {}  
+if(isInterface(am)){ if (isFactoryMethod(am)) {}  
+if(am.getMethod() == null){ if (isFactoryMethod(am)) {}  
+if( am){ if (isFactoryMethod(am)) {}  
+if(am instanceof TypedMethod){ if (isFactoryMethod(am)) {}  
+if(isValidMethod(am)){ if (isFactoryMethod(am)) {}  
+if(debug){ if (isFactoryMethod(am)) {}  
+if(am instanceof AliasedMethod){ if (isFactoryMethod(am)) {}  
+if(am.isCtor()){ if (isFactoryMethod(am)) {}  
+if(isPublicMethod(am)){ if (isFactoryMethod(am)) {}  
+if(am instanceof RefMethod){ if (isFactoryMethod(am)) {}  
+if(apm){ if (isFactoryMethod(am)) {}  
+if(existsFactoryMethod(am)){ if (isFactoryMethod(am)) {}  
+if(am.getDeclaringClass()!=null){ if (isFactoryMethod(am)) {}  
+if(am instanceof LocalMethod){ if (isFactoryMethod(am)) {}  
+if(am.getType() != null){ if (isFactoryMethod(am)) {}  
+if(am.hasArgs()){ if (isFactoryMethod(am)) {}  
+if(am.isStaticCall()){ if (isFactoryMethod(am)) {}  
+if(amp){ if (isFactoryMethod(am)) {}  
+if(am.isInherited()){ if (isFactoryMethod(am)) {}  
+if(am.isInstantiable()){ if (isFactoryMethod(am)) {}  
+if(am.isInvokeable()){ if (isFactoryMethod(am)) {}  
+if(defined){ if (isFactoryMethod(am)) {}  
+if(abstract){ if (isFactoryMethod(am)) {}  
+if(am.isFactoryMethod())){ if (isFactoryMethod(am)) {}  
+if(am instanceof AimMethod){ if (isFactoryMethod(am)) {}  
+if(am.isStatic() === false){ if (isFactoryMethod(am)) {}  
+if(am.getReturnType() == null){ if (isFactoryMethod(am)) {}  
+if(am.isStaticMethod()){ if (isFactoryMethod(am)) {}  
+if(null){ if (isFactoryMethod(am)) {}  
+if(am.isStaticMethod()==false){ if (isFactoryMethod(am)) {}  
+if(ame){ if (isFactoryMethod(am)) {}  
+if(am.hasGenericArg()){ if (isFactoryMethod(am)) {}  
+if(am instanceof SimpleMethod<mask1>am){ if (isFactoryMethod(am)) {}  
+if(am.isFactory<mask1>am){ if (isFactoryMethod(am)) {}  
+if(m){ if (isFactoryMethod(am)) {}  
+if(strict){ if (isFactoryMethod(am)) {}  
+if(am.isVarArgs()==false){ if (isFactoryMethod(am)) {}  
+if(am.getClass() == null){ if (isFactoryMethod(am)) {}  
+if(am.isStatic(false){ if (isFactoryMethod(am)) {}  

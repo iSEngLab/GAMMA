@@ -1,0 +1,2250 @@
+ return element == this;  
+ return true;  
+ return element != null;  
+ return this == element;  
+ return element;  
+ return super.equals(element);  
+  return true;  
+ return element.equals(this);;  
+ return element == this; ;  
+ return element == element;  
+  return element == this;  
+ return super.equals(element);;  
+ return element==this;  
+ return element == this; };  
+ return element instanceof Element;  
+ return false;  
+ return element.hashCode() == hashCode;  
+ return element == null;  
+ return element.equals(this);  
+  return element != null;  
+ return !element;  
+ return element.getClass() == elementType;  
+ return element == super;  
+ return element.getClass() == getClass;  
+ return element != null; ;  
+ return element.getValue() == value;  
+ return element == owner;  
+ return element.getName() == name;  
+ return element.getElement() == this;  
+ return super == element;  
+ return element.getId() == id;  
+ return getElement() == element;  
+  return this == element;  
+ return element != this;  
+ return element.equals(element);;  
+ return element.getParent() == this;  
+ return element == this;;  
+ return element == o;  
+ return element == m;  
+ return element.getClass() == clazz;  
+ return element == parent;  
+ return element != null; };  
+ return element == document;  
+ return element.element == this;  
+ return element.getIndex() == index;  
+ return element.id == id;  
+ return element.getType() == elementType;  
+ return element.getClass() == type;  
+ return this == element; ;  
+  return element;  
+ return element == root;  
+ return element.equals;  
+ return element.parent == this;  
+ return element!=null;  
+ return element == doc;  
+ return element != null && element;  
+ return element.value == value;  
+ return element.getType() == type;  
+ return element == this;  
+ return element == this.element;  
+ return (element == this); ;  
+ return this != element;  
+ return element == object;  
+ return null != element;  
+ return element.name == name;  
+ return element.getClass() == class;  
+ return element.hashCode == hashCode;  
+ return element == obj;  
+ return element.getClass() == this;  
+ return element.getElement()==this;  
+ return element == self;  
+ return element.type == type;  
+ return element.getName() == getName;  
+ return !!element;  
+ return element == myself;  
+ return element == child;  
+ return element.hashCode() == hash;  
+ return element == value;  
+ return element == c;  
+ return element.getParent()==this;  
+ return !element.isEmpty();  
+ return element.getClass() == element;  
+ return element==this; ;  
+ return object == element;  
+ return parent == element;  
+ return element.size() == size;  
+ return this.equals(element);  
+         return element == this;  
+ return element.equals(element);  
+ return element == head;  
+ return this == element; };  
+ return element == this && true;  
+ return element == node;  
+ return TRUE;  
+ return element.type == elementType;  
+         return true;  
+ return element.size() == 0;  
+ return element.getClass()==clazz;  
+ return element is this;  
+ return element.equals(o);;  
+ return element.isEqual(this);;  
+  return false;  
+ return element == type;  
+  return element == element;  
+ return element.equals(); ;  
+ return element.toString() == this;  
+ return element == e;  
+  return element == null;  
+ return element == current;  
+ //return element == this;  
+ return element.equals(); };  
+ return equals(element); ;  
+ return element.isEmpty() == false;  
+ return element equals this;  
+ return element.element != null;  
+ return (element != null); ;  
+ return element.getNode() == this;  
+ return !element.isEmpty;  
+ return element == element; ;  
+ //return true;  
+ return element.size() == 1;  
+ return match;  
+ return element.owner == this;  
+ return element.getRoot() == this;  
+ return equals(element); };  
+         return element != null;  
+ return element.parent() == this;  
+ return isEqual(element); ;  
+ return null == element;  
+ return true;  
+ return element == elem;  
+ return element.name() == name;  
+ return element.super;  
+ return super != element;  
+ return (element == this);;  
+ return element.element == element;  
+ return element.hashCode() == 0;  
+ return element == element; };  
+ return element.id() == id;  
+ return node == element;  
+ return element.getClass() == o;  
+ return element == v;  
+ return element.value() == value;  
+ return class == element;  
+ return element == elementType;  
+ return equality;  
+ return getElement()==element;  
+ return element.isEqual(this);  
+ return elem == element;  
+ return element == result;  
+ return element.elementType == elementType;  
+ return element != null;  
+ return element.isElement;  
+ return this==element;  
+ return element == field;  
+ return element.class == getClass();  
+ return super;  
+  return element==this;  
+ return element.hashCode()==hashCode;  
+ return compare(element) == 0;  
+ return element.equals(super);  
+ return element == el;  
+ return element == myElement;  
+ return element == target;  
+ return element.isElement() == true;  
+ return element==this; };  
+ return element == getElement;  
+ return element.getSize() == size;  
+ return element.equals(o);  
+ return element.equals(super);;  
+ return element.getValue() == this;  
+ return element == getElement(); ;  
+ return element.getElement() == element;  
+ return element == x;  
+ return element == s;  
+ return equal(element); ;  
+ return element.getX() == this;  
+  return element instanceof Element;  
+ return getElement().equals(element);;  
+ return equal(element); };  
+ return element = this;  
+ return type == element;  
+ return this == element;  
+ return base == element;  
+ return this.equals(element);;  
+ return value == element;  
+ return element.object == this;  
+ return e == element;  
+ return element == baseElement;  
+ return element.getKind() == Kind;  
+ return element.isSelected() == true;  
+ return element.parentNode == this;  
+ return element.getClass() == cls;  
+ return element.isValid() && element;  
+  return element == this; ;  
+ return element.getContent() == content;  
+ return element ;  
+ return !element.getClass().equals;  
+  return element == o;  
+ return element.getContent() == this;  
+ return equals(element) == true;  
+ return element.getSize() == 0;  
+ return element.isElement() && element;  
+ return element.isValid;  
+ return element.index == index;  
+ return element.getOwner() == this;  
+ return (element != null);;  
+ return element.getClass() == CLASS;  
+ return element;  
+ return element.this == this;  
+ return element.isInstance(this);;  
+ return (this == element); ;  
+ return element.getType() == element;  
+ return !element.isEmpty(); ;  
+ return equal;  
+ return element.isSelected(); ;  
+ return element.getIndex() == 0;  
+  return true;  
+ return element.getDocument() == this;  
+ return (getElement() == element);  
+ return element.getTarget() == this;  
+ return element.getClass() == c;  
+ return Element.class == element;  
+ return element.isElement(); ;  
+ return element.getId() == this;  
+ return element.tag == tag;  
+ return element.getID() == id;  
+ return element == getElement(); };  
+ return element.getTag() == tag;  
+ return element.target == this;  
+ return getElement().equals(element);  
+ return !element.equals;  
+ return element.clazz() == clazz;  
+ return element == this && !element;  
+ return ((Element) element).equals;  
+ return element.getObject() == this;  
+ return element.elem == this;  
+ return element.toString() == toString;  
+ return element.toString() == name;  
+ return element.left == this;  
+ return element.getClass().equals;  
+ return element.length() == 0;  
+ return element.type != null;  
+ return element.nodeType == 1;  
+ return element.getContext() == this;  
+ return element.getClass() == getType;  
+ return element != null && !element;  
+ return element.equals(self);;  
+ return element.name == getName();  
+ return element.booleanValue() == true;  
+ this = element; return this == o;   
+ o = element; return this == o;   
+ return element == this; return this == o;   
+ this.parent = element; return this == o;   
+ return element != null; return this == o;   
+ element.parent = this; return this == o;   
+ this.super = element; return this == o;   
+ this.element = element; return this == o;   
+ ; return this == o;   
+ this.next = element; return this == o;   
+ Element this = element; return this == o;   
+ return this == element; return this == o;   
+ super.element = element; return this == o;   
+ super.setElement(element); return this == o;   
+ return super.equals(element); return this == o;   
+ assert element != null; return this == o;   
+ parent = element; return this == o;   
+ super.add(element); return this == o;   
+ return element == element; return this == o;   
+ this = element; return this == o;   
+ return true; return this == o;   
+ this = (Element) element; return this == o;   
+ o = (Element) element; return this == o;   
+ //return element == this; return this == o;   
+ element.parent = parent; return this == o;   
+  this = element; return this == o;   
+ element = this; return this == o;   
+ element; return this == o;   
+ this; return this == o;   
+ Element result = element; return this == o;   
+ return element == this; return this == o;   
+ element.setParent(this); return this == o;   
+ Element thisElement = element; return this == o;   
+ //return element == o; return this == o;   
+ m = element; return this == o;   
+ return element == null; return this == o;   
+ Element super = element; return this == o;   
+ Element o = (Element) element; return this == o;   
+ this.previous = element; return this == o;   
+ ; return this == o;   
+ elem = element; return this == o;   
+ this == element; return this == o;   
+ super; return this == o;   
+ obj = element; return this == o;   
+ object = element; return this == o;   
+ Element old = element; return this == o;   
+ Element o = (Element) this; return this == o;   
+ super = element; return this == o;   
+ o = element; return this == o;   
+ e; return this == o;   
+ element.setParent(this) ; return this == o;   
+ element = super; return this == o;   
+ node = element; return this == o;   
+; return this == o;   
+ super.equals(element);; return this == o;   
+ element.setParent(this);; return this == o;   
+ return element == o; return this == o;   
+ super.set(element); return this == o;   
+ Element other = (Element) this; return this == o;   
+ assert element == o; return this == o;   
+ System.out.println(element; return this == o;   
+ //return true; return this == o;   
+ assert element == this; return this == o;   
+ return element; return this == o;   
+ this.parent = element.parent; return this == o;   
+ //return element != null; return this == o;   
+ element.value = value; return this == o;   
+ Element super = (Element) super; return this == o;   
+  return element == this; return this == o;   
+ elements = element; return this == o;   
+ return element==this; return this == o;   
+ current = element; return this == o;   
+ Element this = (Element) element; return this == o;   
+ this.object = element; return this == o;   
+ return element instanceof Element; return this == o;   
+ return element.hashCode() == hashCode; return this == o;   
+  o = element; return this == o;   
+ value = element; return this == o;   
+ currentElement = element; return this == o;   
+ Element super = super; return this == o;   
+ return element != null; return this == o;   
+ element = (Element) super; return this == o;   
+ //this = element; return this == o;   
+ this.clazz = element.clazz; return this == o;   
+ _super = element; return this == o;   
+ element.hashCode = hashCode; return this == o;   
+ root = element; return this == o;   
+ Element e = element; return this == o;   
+ element.super = this; return this == o;   
+ this = o; return this == o;   
+ Element e = (Element) element; return this == o;   
+ e.g; return this == o;   
+ field = element; return this == o;   
+ this.value = element; return this == o;   
+ Element newElement = element; return this == o;   
+ Element o = element; return this == o;   
+ this.prev = element; return this == o;   
+ element.setParent(this) ; return this == o;   
+ this &= element; return this == o;   
+ element.parent = this; return this == o;   
+  returns true; return this == o;   
+ @return true if this == o; return this == o;   
+ this.setParent(element); return this == o;   
+ this._super = element; return this == o;   
+  ; return this == o;   
+ e = element; return this == o;   
+  return element != null; return this == o;   
+ element.object = this; return this == o;   
+ return element == super; return this == o;   
+ this |= element; return this == o;   
+ head = element; return this == o;   
+ element = (Element) this; return this == o;   
+ this.set(element); return this == o;   
+  return element == this; return this == o;   
+ return element.equals(this); return this == o;   
+ instance = element; return this == o;   
+ this.parentNode = element; return this == o;   
+ result = element; return this == o;   
+ Element current = element; return this == o;   
+ Element self = (Element) this; return this == o;   
+ this.right = element; return this == o;   
+ if (!element) return false; return this == o;   
+ element.previous = this; return this == o;   
+ addElement(element); return true; return this == o;   
+ element.super = super; return this == o;   
+ return element.getClass() == elementType; return this == o;   
+ this.elem = element; return this == o;   
+ this = element; return this == o;   
+   this = element; return this == o;   
+ element.parentNode = this; return this == o;   
+ o = this; return this == o;   
+ super.remove(element); return this == o;   
+ this.class = element.getClass; return this == o;   
+ el = element; return this == o;   
+ setElement(element); return this == o;   
+ this.setElement(element); return this == o;   
+ elements = null; return this == o;   
+ Element e = (Element) this; return this == o;   
+ Element old = this; return this == o;   
+  Returns true if this == o; return this == o;   
+ super.add(element);; return this == o;   
+ Element superElement = element; return this == o;   
+ node = element; return this == o;   
+ return !element; return this == o;   
+ this =&gt; element; return this == o;   
+ Element that = element; return this == o;   
+ super.setElement(element);; return this == o;   
+ element.setOwner(this); return this == o;   
+ super.add(element) ; return this == o;   
+ this.parent = element; return this == o;   
+ Object result = element; return this == o;   
+ Element other = (Element) super; return this == o;   
+ element.previous = element; return this == o;   
+ this.parentElement = element; return this == o;   
+ element.parent = element; return this == o;   
+ Element x = element; return this == o;   
+ o = super; return this == o;   
+ elements[i] = element; return this == o;   
+ @return true; return this == o;   
+ element.element = this; return this == o;   
+ assert element == null; return this == o;   
+ Element other = (Element) o; return this == o;   
+ this.child = element; return this == o;   
+ this.hashCode = element.hashCode; return this == o;   
+ this element = element; return this == o;   
+ Element superElement = super; return this == o;   
+ this.value = element.value; return this == o;   
+ Element parent = (Element) element; return this == o;   
+ element.owner = this; return this == o;   
+ }; return this == o;   
+ element.setParent(parent); return this == o;   
+ //return element == null; return this == o;   
+ instance; return this == o;   
+ super.addElement(element); return this == o;   
+ return element.getClass() == getClass; return this == o;   
+ Element parent = element; return this == o;   
+ return element.getClass() == clazz; return this == o;   
+ size = element.size; return this == o;   
+ Element oldElement = element; return this == o;   
+ return element.hashCode == hashCode; return this == o;   
+ element.hashCode() = hashCode; return this == o;   
+ return element.parent == this; return this == o;   
+ this.clazz = element.getClass; return this == o;   
+ this.add(element); return this == o;   
+ this.p = element; return this == o;   
+ this.elements = element.elements; return this == o;   
+  Element this = element; return this == o;   
+ Element o = (Element) o; return this == o;   
+ element.next = this; return this == o;   
+ Element o1 = element; return this == o;   
+ Element child = (Element) element; return this == o;   
+ super.set(element);; return this == o;   
+ //return element == element; return this == o;   
+ super.set(element, true; return this == o;   
+ this.elements = element; return this == o;   
+ this = element.element; return this == o;   
+ // return element == this; return this == o;   
+ int hashCode = element.hashCode; return this == o;   
+ Element self = (Element) element; return this == o;   
+ return element.getClass() == type; return this == o;   
+ super.addElement(element);; return this == o;   
+  Returns true if this equals o; return this == o;   
+ Element e = (Element) super; return this == o;   
+ super.set(element; return this == o;   
+ this.set(element; return this == o;   
+ this.setParent(element) ; return this == o;   
+ Element element = (Element) this; return this == o;   
+ Element thisElement = this; return this == o;   
+ super.set(element) ; return this == o;   
+ super.update(element); return this == o;   
+ this.class = element.class; return this == o;   
+ int hashCode = element.hashCode();; return this == o;   
+ addElement(element); return true; return this == o;   
+ element.setOwner(this);; return this == o;   
+ Element instance = (Element) this; return this == o;   
+ Element super = (Element) element; return this == o;   
+   ; return this == o;   
+ element.next = element; return this == o;   
+ Element element2 = element; return this == o;   
+ this.clazz = element; return this == o;   
+ this.class = element; return this == o;   
+ return element.getName() == name; return this == o;   
+ hashCode = element.hashCode; return this == o;   
+ element.setParent(this); return this == o;   
+ Node node = (Node) element; return this == o;   
+ o = element.getElement; return this == o;   
+ this.setParent(element);; return this == o;   
+ return element.getParent() == this; return this == o;   
+ this.type = element.type; return this == o;   
+ setElement(element; return this == o;   
+ Object value = element; return this == o;   
+ element.type = type; return this == o;   
+ Element that = (Element) this; return this == o;   
+ super.equals(element); ; return this == o;   
+ element.clear();; return this == o;   
+ Element o2 = element; return this == o;   
+ Element object = (Element) this; return this == o;   
+ Element o = (Element) super; return this == o;   
+ super.add(element) ; return this == o;   
+ this.parentNode = element.parentNode; return this == o;   
+ Element el = (Element) element; return this == o;   
+ this = (Element)element; return this == o;   
+ super(element) = element; return this == o;   
+ setElement(element); return true; return this == o;   
+ @return true if this equals o; return this == o;   
+ element.setParent(parent);; return this == o;   
+ this.set(element) ; return this == o;   
+ element = (Element) element; return this == o;   
+ Element this = (Element) this; return this == o;   
+ element.setDelegate(this);; return this == o;   
+return  element == this;  
+return  element != null;  
+return  this == element;  
+return  true;  
+return  super.equals(element) == true;  
+return  super.equals(element);  
+return  super.equals(element) && true;  
+return  super.equals(element) || element;  
+return  element == element;  
+return  super.equals(element); ;  
+return  super.equals(element) && element;  
+return  element instanceof Element;  
+return  super.equals(element) == false;  
+return  element==this;  
+return  false;  
+return  element.getClass() == getClass();  
+return  element.equals(this); ;  
+return  super.equals(element);;  
+return  element.hashCode() == hashCode();  
+return  super.equals(element) || true;  
+return  element.hashCode() == hashCode;  
+return  super.equals(element); };  
+return  element == super;  
+return  getElement() == element;  
+return  element.equals(this) == true;  
+return  super.equals(element) || false;  
+return  element.equals(this);;  
+return  element == m;  
+return  element == this || element == o;  
+return  element == null;  
+return  element.getParent() == this;  
+return  super == element;  
+return  element != this;  
+return  super.equals(element) ;  
+return  element.getValue() == value;  
+return  element.equals(this); };  
+return  element.getElement() == this;  
+return  element == owner;  
+return  element == parent;  
+return  !element;  
+return  element.equals(this) && true;  
+return  element.parent == this;  
+return  element;  
+return  element.equals(this) || element;  
+return  element.element == this;  
+return  element.getClass().equals(getClass());  
+return  this != element;  
+return  element == this && element != null;  
+return  element == document;  
+return  element == doc;  
+return  element.getClass() == elementType;  
+return  element.equals(this);  
+return  element.value == value;  
+return  element.id == id;  
+return  element == root;  
+return  element!=null;  
+return  element.getType() == elementType;  
+return  null != element;  
+return  element.hashCode == hashCode;  
+return  element == obj;  
+return  element.getId() == id;  
+return  element.type == type;  
+return  element.getName() == name;  
+return  element.getClass() == getClass;  
+return  element.equals;  
+return  element.getName().equals(getName());  
+return  element.equals(this) == false;  
+return  element.getIndex() == index;  
+return  element == object;  
+return  element == value;  
+return  element.name == name;  
+return  element == o;  
+return  element.type == elementType;  
+return  element == self;  
+return  this.equals(element) == true;  
+return  element.getType() == type;  
+return  element == c;  
+return  element == child;  
+return  element == head;  
+return  element == type;  
+return  object == element;  
+return  super.equals( element );  
+return  parent == element;  
+return  equals(element) == true;  
+return  element == myself;  
+return  element.getElement()==this;  
+return  element.getParent()==this;  
+return  this.equals(element);  
+return  element.toString().equals(toString());  
+return  this.equals(element) && true;  
+return  element == node;  
+return  element.getName().equals(name);  
+return  element.size() == size;  
+return  element == e;  
+return  element == this; };  
+return  super.equals(element) && false;  
+return  element == current;  
+return  element.equals(element); ;  
+return  element.getClass() == clazz;  
+return  element == this.element;  
+return  element.element != null;  
+return  element == getElement;  
+return  element.getName() == getName;  
+return  element.hashCode() == hash;  
+return  super.equals(element) != false;  
+return  element.getName() == getName();  
+return  element.size() == 0;  
+return  element.equals(this) || false;  
+return  getElement()==element;  
+return  element != null && element != null;  
+return  element.super;  
+return  compare(element) == 0;  
+return  element.getClass().equals(clazz);  
+return  element.getClass() == type;  
+return  super != element;  
+return  null == element;  
+return  element == this && element == o;  
+return  element.owner == this;  
+return  node == element;  
+return  !element.isEmpty();  
+return  element == el;  
+return  element.hashCode() == hashCode() ;  
+return  super.equals(element) return true;  
+return  element.equals(this) && element;  
+return  element.equals(this) || true;  
+return  element == v;  
+return  element != null && element == this;  
+return  element != null && element != this;  
+return  element.hashCode() == this.hashCode;  
+return  element.size() == 1;  
+return  element.parent() == this;  
+return  super.equals(element) === true;  
+return  this==element;  
+return  element.getClass() == class;  
+return  getClass() == element.getClass();  
+return  element.equals(element); };  
+return  false == element;  
+return  element.elementType == elementType;  
+return  this.equals(element); ;  
+return  element == elem;  
+return  match;  
+return  elem == element;  
+return  element.super == this;  
+return  !element.equals(this);  
+return  element.equals(this) == element;  
+return  element == this; ;  
+return  base == element;  
+return  element is this;  
+return  element.equals(element) == true;  
+return  (element == this); ;  
+return  element.element == element;  
+return  element.isEmpty() == false;  
+return  element.getClass()==clazz;  
+return  !!element;  
+return  element.class == getClass();  
+return  element.getRoot() == this;  
+return  element.id == this.id;  
+return  element.equals(super) == true;  
+return  class == element;  
+return  element == elementType;  
+return  element == s;  
+return  element.type == this.type;  
+return  element ;  
+return  element.equals(this) != false;  
+return  super.equals(element) || super;  
+return  element == target;  
+return  this instanceof Element;  
+return  element.name() == name;  
+return  !super.equals(element);  
+return  this.equals(element) == false;  
+return  element.equals(element);;  
+return  super.equals(element.getElement());  
+return  element == x;  
+return  element.getClass() == this.getClass;  
+return  element == myElement;  
+return  element.value == this.value;  
+return  element == result;  
+return  equals(element); };  
+return  getElement().equals(element);  
+return  element.isSelected() == true;  
+return  o == element;  
+return  element == field;  
+return  element.getClass()==this.getClass();  
+return  !element.isEmpty;  
+return  getElement().equals(element); ;  
+return  equals(element); ;  
+return  element.hashCode() == 0;  
+return  element.value() == value;  
+return  element.getSize() == size;  
+return  element.equals(this) == this;  
+return  value == element;  
+return  (element == this) && true;  
+return  element == container;  
+return  element == instance;  
+return  this.equals(element) || false;  
+return  element.getNode() == this;  
+return  isEqual(element) == true;  
+return  type == element;  
+return  element == data;  
+return  element equals this;  
+return  !this.equals(element);  
+return  class == element.getClass();  
+return  element.getOwnerElement() == this;  
+return  element.isElement() == true;  
+return  e == element;  
+return  element == baseElement;  
+return  element.hashCode()==hashCode;  
+return  TRUE;  
+return  equals(element) == false;  
+return  element.index == index;  
+return  element.parentNode == this;  
+return  m == element;  
+return  super.equals(element) ^ element;  
+return  (element == this);;  
+return  element.id() == id;  
+return  equal(element) == true;  
+return  element.name == this.name;  
+return  this == element || element == o;  
+return  element.equals(element);  
+return  element.getClass() == getClass() ;  
+return  this.equals(element) || element;  
+return  element == this || element == null;  
+return  element.toString().equals(getClass());  
+return  element.compareTo(this) == 0;  
+return  element.class == this.getClass();  
+return  element.name.equals(name);  
+return  element.getClass().isInstance(this);  
+return  element.getContent() == content;  
+return  element == null || element == this;  
+return  element.equals(o); ;  
+return  (this == element) && true;  
+return  element != null && this == element;  
+return  element == this;;  
+return  element.getId() == getId();  
+return  element.tag == tag;  
+return  element.getOwner() == this;  
+return  element.isEqual(this); ;  
+return  element.getClass() == getType();  
+return  element.getElement() == element;  
+return  element.getChildCount() == 1;  
+return  this.equals(element) || true;  
+return  super.equals(element) && super;  
+return  element.object == this;  
+return  element.parent != this;  
+return  element.this == this;  
+return  element.equals(super.getElement());  
+return  element.getParent() == parent;  
+return  element.content == content;  
+return  element.elem == this;  
+return  element == this && element != o;  
+return this == o && element != null;   
+return this == o && element == this;   
+return this == o; };   
+return this == o.getElement;   
+return this == o || element == null;   
+return this == o && element == element;   
+return this == o || element != null;   
+return this == o || element == o;   
+return this == o && element == null;   
+return this == o || element == this;   
+return this == o.element;   
+return this == o; ;   
+return this == o.getClass() && element == this;   
+return this == o || element.equals(o);   
+return this == o && element;   
+return this == o.getElement() && element == this;   
+return this == o.getElement() && element != null;   
+return this == o.getElement();   
+return this == o || element == element;   
+return this == o && element.equals(element);   
+return this == o.getElement() || element == null;   
+return this == o.getClass() && element == o;   
+return this == o;;   
+return this == o.getElement()==element;   
+return this == o.getClass() || element == o;   
+return this == o ;   
+return this == o && element instanceof Element;   
+return this == o.getElement() || element == o;   
+return this == oElement;   
+return this == o || super.equals(element);   
+return this == o.getClass() && element == element;   
+return this == o.getElement(); };   
+return this == o.getClass() && element != null;   
+return this == o.getElement() && element == null;   
+return this == o || element.equals(element);   
+return this == o && element == o;   
+return this == o;   
+return this == o || element instanceof Element;   
+return this == o.getElement() == element;   
+return this == o || element.equals(o);;   
+return this == o.getElement() && element == element;   
+return this == o.getClass() && element == null;   
+return this == o || this == element;   
+return this == o.getElement() || element != null;   
+return this == o.getElement() && element == o;   
+return this == o.getClass() == element;   
+return this == o && element.equals(element);;   
+return this == o.getClass() || element == null;   
+return this == o instanceof Element;   
+return this == o && element.equals(this);   
+return this == o.getElement(); ;   
+return this == o && element == super;   
+return this == o.getElement();;   
+return this == o = element;   
+return this == o && element.getClass() == getClass;   
+return this == o.getClass()==element;   
+return this == o.getElement() || element == this;   
+return this == o == element;   
+return this == o && element.getClass() == elementType;   
+return this == o.getClass() && element;   
+return this == o && element.equals;   
+return this == o.getClass() || element != null;   
+return this == o.getParent() && element == this;   
+return this == o && element.getClass() == clazz;   
+return this == o ? true : false;   
+return this == o.getElement() ;   
+return this == o + element;   
+return this == o.getClass() || element == this;   
+return this == o && element==this;   
+return this == o || element.equals;   
+return this == o.elem;   
+return this == o || element;   
+return this == o && element.getClass() == class;   
+return this == o || element.equals(this);   
+return this == o && element.equals(o);   
+return this == o.getElement() && element;   
+return this == o && element!=null;   
+return this == o.getClass().equals(element);   
+return this == o; return true;   
+return this == o._element;   
+return this == o2;   
+return this == o || element.equals(element);;   
+return this == o || element == super;   
+return this == o.getParent() || element == o;   
+return this == o.getParent() && element == o;   
+return this == o.getClass;   
+return this == o && element.equals(this);;   
+return this == o && element.getClass() == c;   
+return this == o && super.equals(element);   
+return this == o.e;   
+return this == o.equals(element);   
+return this == o && element.hashCode() == hashCode;   
+return this == o.el;   
+return this == o.getParent;   
+return this == o.getClass();   
+return this == o.asElement;   
+return this == o.super;   
+return this == o && element.getClass() == type;   
+return this == o.getElement() && element instanceof Element;   
+return this == o && element == parent;   
+return this == o.getParent() == element;   
+return this == o.valueOf;   
+return this == o || super.equals(element);;   
+return this == o.getParent();   
+return this == o.getValue;   
+return this == o.equals(element); };   
+return this == o.getElement() ? true : false;   
+return this == o) return true;   
+return this == o.getParent() && element != null;   
+return this == o && element.getClass()==clazz;   
+return this == o.getElement() || this == element;   
+return this == o.getElement() != element;   
+return this == o.getClass()==element.getClass();   
+return this == o || this.equals(element);   
+return this == o && (element != null);   
+return this == o && element == getElement;   
+return this == o};   
+return this == o.getElement() || element instanceof Element;   
+return this == o || element != o;   
+return this == o && element == e;   
+return this == o.equals(element);;   
+return this == o || element != this;   
+return this == o.getClass() && element instanceof Element;   
+return this == o.class;   
+return this == o.getClass() ? true : false;   
+return this == o, element;   
+return this == o.getDeclaringClass() == element;   
+return this == o && element.equals(o);;   
+return this == o; //return true;   
+return this == o & element;   
+return this == o && element.getParent() == this;   
+return this == o && element == this.element;   
+return this == o.getClass() || this == element;   
+return this == o || element.getClass() == getClass;   
+return this == o.getClass(); };   
+return this == o && element == object;   
+return this == o.equals(element); ;   
+return this == o && element.getValue() == value;   
+return this == o && element != this;   
+return this == o.Element;   
+return this == o && element == m;   
+return this == o.parent;   
+return this == o || element.getClass() == class;   
+return this == o.getParent() || element == null;   
+return this == o or element == o;   
+return this == o;  return true;   
+return this == o.getClass() || element instanceof Element;   
+return this == o.getParent() || element != null;   
+return this == o && element == child;   
+return this == o.clazz;   
+return this == o.getParent()==element;   
+return this == o.getClass() && this == element;   
+return this == o.getClass() && element.equals;   
+return this == o);;   
+return this == o.toElement;   
+return this == o.getElement() != null;   
+return this == oParent;   
+return this == o && element==element;   
+return this == o && element = element;   
+return this == o.hashCode() == element.hashCode;   
+return this == o && super.equals(element);;   
+return this == o.clone;   
+return this == o.elements;   
+return this == o && element==null;   
+return this == o.getElement() && element.equals;   
+return this == o && element.getElement()==this;   
+return this == o.getClass() == element.getClass;   
+return this == o.getClass();;   
+return this == o;  };   
+return this == oElem;   
+return this == o.atom;   
+return this == o.getParent() || element == this;   
+return this == o && element == c;   
+return this == o.getParent() && element == null;   
+return this == o && element.size() == size;   
+return this == o && getElement() == element;   
+return this == o && element.getClass() == CLASS;   
+return this == o;   };   
+return this == o.toString() && element != null;   
+return this == o != element;   
+return this == o || element.getClass() == clazz;   
+return this == o.equals(element) && true;   
+return this == o };   
+return this == o && element.isEmpty() == false;   
+return this == o.getElement() || element == element;   
+return this == o/element;   
+return this == oType;   
+return this == o || element == e;   
+return this == o; },;   
+return this == o && element == owner;   
+return this == o || element.getClass() == o;   
+return this == o || element.getClass() == c;   
+return this == o && element.getParent()==this;   
+return this == o.getComponentType() == element;   
+return this == o); };   
+return this == o.getParent() && element == element;   
+return this == o && element.getIndex() == index;   
+return this == o.clone();;   
+return this == o.getElement().getElement;   
+return this == o+element;   
+return this == o return true;   
+return this == o.getElement() || element.equals;   
+return this == o and element == element;   
+return this == o || (element != null);   
+return this == o.getClass() || element == element;   
+return this == o && element == self;   
+return this == o.getClass().isInstance(element);   
+return this == o || this != element;   
+return this == o && element.parent == this;   
+return this == o && element.getElement() == this;   
+return this == o; //return false;   
+return this == o; return true;   
+return this == o.getElement() && this == element;   
+return this == o; //return true;   
+return this == o && element.getClass() != null;   
+return this == o.getClass().equals(element);;   
+return this == o ^ element;   
+return this == o;  returns true;   
+return this == o || getElement() == element;   
+return this == o and element != null;   
+return this == o-element;   
+return this == o || element == o.getElement;   
+return this == o.getElement() || element;   
+return this == o && element.getClass() == null;   
+return this == o && element.getType() == elementType;   
+return this == o.getOwnerElement();   
+return this == o && element.hashCode() == 0;   
+return this == o || o == element;   
+return this == o || this instanceof Element;   
+return this == o && this == element;   
+return this == o && element == root;   
+return this == o.getElement()== element;   
+return this == o.getClass() || element;   
+return this == o.x;   
+return this == o.owner;   
+return this == o.getValue() && element != null;   
+return this == o || element.hashCode() == hashCode;   
+return this == o.elm;   
+return this == o.getElement(); return true;   
+return this == o_element;   
+return this == o && (element instanceof Element);   
+return this == o.cast() == element;   
+return this == o && element.hashCode == hashCode;   
+return this == o.toString() && element == this;   
+return this == o * element;   
+return this == o && element.getClass() == cls;   
+return this == o.getClass().getComponentType();   
+return this == o && element.element == this;   
+return this == o && element.getType() == type;   
+return this == o || element.getClass() == elementType;   
+return this == o && element != null;   
+return this == o && element == this;   
+return this == o; };   
+return this == o.getElement;   
+return this == o || element == null;   
+return this == o && element == element;   
+return this == o || element != null;   
+return this == o || element == o;   
+return this == o && element == null;   
+return this == o || element == this;   
+return this == o.element;   
+return this == o; ;   
+return this == o.getClass() && element == this;   
+return this == o || element.equals(o);   
+return this == o && element;   
+return this == o.getElement() && element == this;   
+return this == o.getElement() && element != null;   
+return this == o.getElement();   
+return this == o || element == element;   
+return this == o && element.equals(element);   
+return this == o.getElement() || element == null;   
+return this == o.getClass() && element == o;   
+return this == o;;   
+return this == o.getElement()==element;   
+return this == o.getClass() || element == o;   
+return this == o ;   
+return this == o && element instanceof Element;   
+return this == o.getElement() || element == o;   
+return this == oElement;   
+return this == o || super.equals(element);   
+return this == o.getClass() && element == element;   
+return this == o.getElement(); };   
+return this == o.getClass() && element != null;   
+return this == o.getElement() && element == null;   
+return this == o || element.equals(element);   
+return this == o && element == o;   
+return this == o;   
+return this == o || element instanceof Element;   
+return this == o.getElement() == element;   
+return this == o || element.equals(o);;   
+return this == o.getElement() && element == element;   
+return this == o.getClass() && element == null;   
+return this == o || this == element;   
+return this == o.getElement() || element != null;   
+return this == o.getElement() && element == o;   
+return this == o.getClass() == element;   
+return this == o && element.equals(element);;   
+return this == o.getClass() || element == null;   
+return this == o instanceof Element;   
+return this == o && element.equals(this);   
+return this == o.getElement(); ;   
+return this == o && element == super;   
+return this == o.getElement();;   
+return this == o = element;   
+return this == o && element.getClass() == getClass;   
+return this == o.getClass()==element;   
+return this == o.getElement() || element == this;   
+return this == o == element;   
+return this == o && element.getClass() == elementType;   
+return this == o.getClass() && element;   
+return this == o && element.equals;   
+return this == o.getClass() || element != null;   
+return this == o.getParent() && element == this;   
+return this == o && element.getClass() == clazz;   
+return this == o ? true : false;   
+return this == o.getElement() ;   
+return this == o + element;   
+return this == o.getClass() || element == this;   
+return this == o && element==this;   
+return this == o || element.equals;   
+return this == o.elem;   
+return this == o || element;   
+return this == o && element.getClass() == class;   
+return this == o || element.equals(this);   
+return this == o && element.equals(o);   
+return this == o.getElement() && element;   
+return this == o && element!=null;   
+return this == o.getClass().equals(element);   
+return this == o; return true;   
+return this == o._element;   
+return this == o2;   
+return this == o || element.equals(element);;   
+return this == o || element == super;   
+return this == o.getParent() || element == o;   
+return this == o.getParent() && element == o;   
+return this == o.getClass;   
+return this == o && element.equals(this);;   
+return this == o && element.getClass() == c;   
+return this == o && super.equals(element);   
+return this == o.e;   
+return this == o.equals(element);   
+return this == o && element.hashCode() == hashCode;   
+return this == o.el;   
+return this == o.getParent;   
+return this == o.getClass();   
+return this == o.asElement;   
+return this == o.super;   
+return this == o && element.getClass() == type;   
+return this == o.getElement() && element instanceof Element;   
+return this == o && element == parent;   
+return this == o.getParent() == element;   
+return this == o.valueOf;   
+return this == o || super.equals(element);;   
+return this == o.getParent();   
+return this == o.getValue;   
+return this == o.equals(element); };   
+return this == o.getElement() ? true : false;   
+return this == o) return true;   
+return this == o.getParent() && element != null;   
+return this == o && element.getClass()==clazz;   
+return this == o.getElement() || this == element;   
+return this == o.getElement() != element;   
+return this == o.getClass()==element.getClass();   
+return this == o || this.equals(element);   
+return this == o && (element != null);   
+return this == o && element == getElement;   
+return this == o};   
+return this == o.getElement() || element instanceof Element;   
+return this == o || element != o;   
+return this == o && element == e;   
+return this == o.equals(element);;   
+return this == o || element != this;   
+return this == o.getClass() && element instanceof Element;   
+return this == o.class;   
+return this == o.getClass() ? true : false;   
+return this == o, element;   
+return this == o.getDeclaringClass() == element;   
+return this == o && element.equals(o);;   
+return this == o; //return true;   
+return this == o & element;   
+return this == o && element.getParent() == this;   
+return this == o && element == this.element;   
+return this == o.getClass() || this == element;   
+return this == o || element.getClass() == getClass;   
+return this == o.getClass(); };   
+return this == o && element == object;   
+return this == o.equals(element); ;   
+return this == o && element.getValue() == value;   
+return this == o && element != this;   
+return this == o.Element;   
+return this == o && element == m;   
+return this == o.parent;   
+return this == o || element.getClass() == class;   
+return this == o.getParent() || element == null;   
+return this == o or element == o;   
+return this == o;  return true;   
+return this == o.getClass() || element instanceof Element;   
+return this == o.getParent() || element != null;   
+return this == o && element == child;   
+return this == o.clazz;   
+return this == o.getParent()==element;   
+return this == o.getClass() && this == element;   
+return this == o.getClass() && element.equals;   
+return this == o);;   
+return this == o.toElement;   
+return this == o.getElement() != null;   
+return this == oParent;   
+return this == o && element==element;   
+return this == o && element = element;   
+return this == o.hashCode() == element.hashCode;   
+return this == o && super.equals(element);;   
+return this == o.clone;   
+return this == o.elements;   
+return this == o && element==null;   
+return this == o.getElement() && element.equals;   
+return this == o && element.getElement()==this;   
+return this == o.getClass() == element.getClass;   
+return this == o.getClass();;   
+return this == o;  };   
+return this == oElem;   
+return this == o.atom;   
+return this == o.getParent() || element == this;   
+return this == o && element == c;   
+return this == o.getParent() && element == null;   
+return this == o && element.size() == size;   
+return this == o && getElement() == element;   
+return this == o && element.getClass() == CLASS;   
+return this == o;   };   
+return this == o.toString() && element != null;   
+return this == o != element;   
+return this == o || element.getClass() == clazz;   
+return this == o.equals(element) && true;   
+return this == o };   
+return this == o && element.isEmpty() == false;   
+return this == o.getElement() || element == element;   
+return this == o/element;   
+return this == oType;   
+return this == o || element == e;   
+return this == o; },;   
+return this == o && element == owner;   
+return this == o || element.getClass() == o;   
+return this == o || element.getClass() == c;   
+return this == o && element.getParent()==this;   
+return this == o.getComponentType() == element;   
+return this == o); };   
+return this == o.getParent() && element == element;   
+return this == o && element.getIndex() == index;   
+return this == o.clone();;   
+return this == o.getElement().getElement;   
+return this == o+element;   
+return this == o return true;   
+return this == o.getElement() || element.equals;   
+return this == o and element == element;   
+return this == o || (element != null);   
+return this == o.getClass() || element == element;   
+return this == o && element == self;   
+return this == o.getClass().isInstance(element);   
+return this == o || this != element;   
+return this == o && element.parent == this;   
+return this == o && element.getElement() == this;   
+return this == o; //return false;   
+return this == o; return true;   
+return this == o.getElement() && this == element;   
+return this == o; //return true;   
+return this == o && element.getClass() != null;   
+return this == o.getClass().equals(element);;   
+return this == o ^ element;   
+return this == o;  returns true;   
+return this == o || getElement() == element;   
+return this == o and element != null;   
+return this == o-element;   
+return this == o || element == o.getElement;   
+return this == o.getElement() || element;   
+return this == o && element.getClass() == null;   
+return this == o && element.getType() == elementType;   
+return this == o.getOwnerElement();   
+return this == o && element.hashCode() == 0;   
+return this == o || o == element;   
+return this == o || this instanceof Element;   
+return this == o && this == element;   
+return this == o && element == root;   
+return this == o.getElement()== element;   
+return this == o.getClass() || element;   
+return this == o.x;   
+return this == o.owner;   
+return this == o.getValue() && element != null;   
+return this == o || element.hashCode() == hashCode;   
+return this == o.elm;   
+return this == o.getElement(); return true;   
+return this == o_element;   
+return this == o && (element instanceof Element);   
+return this == o.cast() == element;   
+return this == o && element.hashCode == hashCode;   
+return this == o.toString() && element == this;   
+return this == o * element;   
+return this == o && element.getClass() == cls;   
+return this == o.getClass().getComponentType();   
+return this == o && element.element == this;   
+return this == o && element.getType() == type;   
+return this == o || element.getClass() == elementType;   
+return this ==  element;   
+return this ==  element; };   
+return this ==  (Element) element;   
+return this ==  element && element != null;   
+return this ==  element; ;   
+return this ==  element || element == o;   
+return this ==  element;;   
+return this ==  element && true;   
+return this ==  o;   
+return this ==  element || element == null;   
+return this ==  element ;   
+return this ==  element.element;   
+return this ==  element.getElement;   
+return this ==  element || element != null;   
+return this ==  element || element instanceof Element;   
+return this ==  element || o == element;   
+return this ==  element || element == this;   
+return this ==  element.parent;   
+return this ==  element;  };   
+return this ==  element.getElement();   
+return this ==  element.value;   
+return this ==  element.obj;   
+return this ==  (Element)element;   
+return this ==  object;   
+return this ==  element ? true : false;   
+return this ==  element && false;   
+return this ==  element && o == element;   
+return this ==  element || this == element;   
+return this ==  element.getValue;   
+return this ==  element && element == o;   
+return this ==  element.el;   
+return this ==  element && element == this;   
+return this ==  element.object;   
+return this ==  element.e;   
+return this ==  element) return true;   
+return this ==  e;   
+return this ==  super;   
+return this ==  element.content;   
+return this ==  element || this == o;   
+return this ==  element.owner;   
+return this ==  element || element == element;   
+return this ==  element.getValue();   
+return this ==  element || element == super;   
+return this ==  element.getParent();   
+return this ==  element.super;   
+return this ==  element.m;   
+return this ==  element != null;   
+return this ==  element.x;   
+return this ==  element.o;   
+return this ==  element, true;   
+return this ==  Element;   
+return this ==  element.target;   
+return this ==  element.node;   
+return this ==  element && element instanceof Element;   
+return this ==  element.elem;   
+return this ==  element || element != o;   
+return this ==  elem;   
+return this ==  element.getParent;   
+return this ==  element.clazz;   
+return this ==  element ;   
+return this ==  element.root;   
+return this ==  element == o;   
+return this ==  element.parentNode;   
+return this ==  element || element.equals;   
+return this ==  o && element != null;   
+return this == element;   
+return this ==  element || o instanceof Element;   
+return this ==  parent;   
+return this ==  element && element.equals;   
+return this ==  element; return true;   
+return this ==  element.prototype;   
+return this ==  element; return false;   
+return this ==  element.data;   
+return this ==  null || element == o;   
+return this ==  value;   
+return this ==  node;   
+return this ==  o && element == this;   
+return this ==  element.getOwnerElement();   
+return this ==  element; } ;   
+return this ==  element && match;   
+return this ==  element.elements;   
+return this ==  element.type;   
+return this ==  element.container;   
+return this ==   element;   
+return this ==  this;   
+return this ==  element.elementType;   
+return this ==  o.getElement;   
+return this ==  element.getData;   
+return this ==  element.getClass();   
+return this ==  o && element == element;   
+return this ==  element && o != null;   
+return this ==  element.this;   
+return this ==  element.name;   
+return this ==  element.id;   
+return this ==  element._element;   
+return this ==  element.getNode();   
+return this ==  element || this != element;   
+return this ==  element.dom;   
+return this ==  element.document;   
+return this ==  element && element == null;   
+return this ==  element.getRoot;   
+return this ==  element.child;   
+return this ==  element.v;   
+return this ==  element.head;   
+return this ==  element.p;   
+return this ==  element || object == element;   
+return this ==  child;   
+return this ==  element._super;   
+return this ==  element && this != element;   
+return this ==  element.getInstance;   
+return this ==  sub;   
+return this ==  element); };   
+return this ==  element.instance;   
+return this ==  element && element == element;   
+return this ==  element || parent == element;   
+return this ==  element.getContent;   
+return this ==  element && this != o;   
+return this ==  element || element != this;   
+return this ==  element.getObject;   
+return this ==  o || element == null;   
+return this ==  element.next;   
+return this ==  element.atom;   
+return this ==  element.clone;   
+return this ==  element.c;   
+return this ==  this && element == o;   
+return this ==  root;   
+return this ==  entity;   
+return this ==  element.getElement() ;   
+return this ==  element.delegate;   
+return this ==  element.getComponent;   
+return this ==  element; },;   
+return this ==  element.getTarget;   
+return this ==  element.asElement;   
+return this ==  element.elm;   
+return this ==  element.left;   
+return this ==  super.element;   
+return this ==  element1;   
+return this ==  element || super == element;   
+return this ==  element.list;   
+return this ==  element && null != element;   
+return this ==  element);;   
+return this ==  instance;   
+return this ==  element && this != null;   
+return this ==  element.class;   
+return this ==  Element.this;   
+return this ==  o && element;   
+return this ==  (Element) o;   
+return this ==  element;   
+return this ==  element.getOwnerElement;   
+return this ==  this.element;   
+return this ==  element.self;   
+return this ==  newElement;   
+return this ==  element; };   
+return this ==  o || element != null;   
+return this ==  o || element == this;   
+return this ==  element.val;   
+return this ==  element.right;   
+return this ==  element || this instanceof Element;   
+return this ==  element.doc;   
+return this ==  element and true;   
+return this ==  element.getRoot();   
+return this ==  element.getRootElement;   
+return this ==  element.getClass;   
+return this ==  element or element == o;   
+return this ==  null || element == this;   
+return this ==  element.getElement(); ;   
+return this ==  element.item;   
+return this ==  element.tag;   
+return this ==  element.field;   
+return this ==  elementOrNull;   
+return this ==  element;  };   
+return this ==  element == null;   
+return this ==  element;   };   
+return this ==  element.actual;   
+return this ==  element };   
+return this ==  element && this == element;   
+return this ==  o || element == o;   
+return this ==  element.getHead();   
+return this ==  element.asElement();   
+return this ==  element && element == super;   
+return this ==  element.getTarget();   
+return this ==  element  ;   
+return this ==  m;   
+return this ==  element; //return true;   
+return this ==  element && object == element;   
+return this ==  element && this == o;   
+return this ==  el;   
+return this ==  elements;   
+return this ==  element.getData();   
+return this ==  element or o == element;   
+return this ==  element && element != this;   
+return this ==  element;  };   
+return this ==  element.getContent();   
+return this ==  element && o == this;   
+return this ==  element.getParentElement();   
+return this ==  element.getRootElement();   
+return this ==  element.toElement;   
+return this ==  o && element == null;   
+return this ==  element.toString();   
+return this ==  element && element != o;   
+return this ==  element.getElement()==o;   
+return this ==  element.getType();   
+return this ==  element.getHead;   
+return this ==  element || o == null;   
+return this ==  element || !element;   
+return this ==  element.getElement();;   
+return this ==  document;   
+return this ==  element || class == element;   
+return this ==  element || element == parent;   
+return this ==  element.getSelf();   
+return this ==  argument;   
+return this ==  $;   
+return this ==  item;   
+return this ==  ELEMENT;   
+return this ==  attribute;   
+return this ==  reference;   
+return this ==  other;   
+return this ==  type;   
+return this ==  entry;   
+return this ==  getElement;   
+return this ==  that;   
+return this ==  tag;   
+return this ==  base;   
+return this ==  elementType;   
+return this ==  container;   
+return this ==  O;   
+return this ==  x;   
+return this ==  wrapper;   
+return this ==  a;   
+return this ==  elt;   
+return this ==  null;   
+return this ==  p;   
+return this ==  expression;   
+return this ==  data;   
+return this ==  t;   
+return this ==  obj;   
+return this ==  address;   
+return this ==  owner;   
+return this ==  to;   
+return this ==  definition;   
+return this ==  field;   
+return this ==  template;   
+return this ==  s;   
+return this ==  result;   
+return this ==  match;   
+return this ==  b;   
+return this ==  box;   
+return this ==  option;   
+return this ==  array;   
+return this ==  one;   
+if(o==null){return  false;;} return this == o;   
+if(o==null){return  false;} return this == o;   
+if(o==null){return  true;;} return this == o;   
+if(o==null){return  true;} return this == o;   
+if(o==null){return  element==null;;} return this == o;   
+if(o==null){return  element==null;} return this == o;   
+if(o==null){return  false; ;} return this == o;   
+if(o==null){return  element!=null;;} return this == o;   
+if(o==null){return  element == null;;} return this == o;   
+if(o==null){return  element!=null;} return this == o;   
+if(o==null){return  element == null;} return this == o;   
+if(o==null){return  element != null;;} return this == o;   
+if(o==null){return  !element;} return this == o;   
+if(o==null){return false;} return this == o;   
+if(o==null){return  true; ;} return this == o;   
+if(o==null){return  null==element;} return this == o;   
+if(o==null){return  element != null;} return this == o;   
+if(o==null){return  false; };} return this == o;   
+if(o==null){return  null;} return this == o;   
+if(o==null){return  super.equals(element);;} return this == o;   
+if(o==null){return false;;} return this == o;   
+if(o==null){return  null==element;;} return this == o;   
+if(o==null){return  false;  ;} return this == o;   
+if(o==null){return  this==element;} return this == o;   
+if(o==null){return  false; ;} return this == o;   
+if(o==null){return  null == element;} return this == o;   
+if(o==null){return  true;} else{return false;} return this == o;   
+if(o==null){return  false; } return true;} return this == o;   
+if(o==null){return  false;} return true;} return this == o;   
+if(o==null){return  true;} else {return false;} return this == o;   
+if(o==null){return  false; };} return this == o;   
+if(o==null){return  this==element;;} return this == o;   
+if(o==null){return  null!=element;} return this == o;   
+if(o==null){return true;} return this == o;   
+if(o==null){return  o==null;} return this == o;   
+if(o==null){return  element.isEmpty();;} return this == o;   
+if(o==null){return  false;} else{return true;} return this == o;   
+if(o==null){return  null != element;} return this == o;   
+if(o==null){return  false;}};} return this == o;   
+if(o==null){return  false ;;} return this == o;   
+if(o==null){return  this == element;} return this == o;   
+if(o==null){return  false; } else { return true;} return this == o;   
+if(o==null){return  !element.isEmpty();;} return this == o;   
+if(o==null){return  true; };} return this == o;   
+if(o==null){return  !element.equals(element);;} return this == o;   
+if(o==null){return  o==null;;} return this == o;   
+if(o==null){return  null;;} return this == o;   
+if(o==null){return  false;} else {return true;} return this == o;   
+if(o==null){return  true;} return false;} return this == o;   
+if(o==null){return  null == element;;} return this == o;   
+if(o==null){return  !element.equals(this);;} return this == o;   
+if(o==null){return  o==element;} return this == o;   
+if(o==null){return  element==null; ;} return this == o;   
+if(o==null){return  true;} else { return false;} return this == o;   
+if(o==null){return true;;} return this == o;   
+if(o==null){return  !element;;} return this == o;   
+if(o==null){return  -1;} return this == o;   
+if(o==null){return  true;} else{return false;} return this == o;   
+if(o==null){return  true; ;} return this == o;   
+if(o==null){return  true;  ;} return this == o;   
+if(o==null){return  false;  };} return this == o;   
+if(o==null){return  this == element;;} return this == o;   
+if(o==null){return  null!=element;;} return this == o;   
+if(o==null){return  false;} return true;} return this == o;   
+if(o==null){return  !(element==null);;} return this == o;   
+if(o==null){return  !element.equals(o);;} return this == o;   
+if(o==null){return  true;}else{return false;} return this == o;   
+if(o==null){return  true;} return false;} return this == o;   
+if(o==null){return  (element==null);;} return this == o;   
+if(o==null){return  false;};} return this == o;   
+if(o==null){return  null != element;;} return this == o;   
+if(o==null){return  false;} else { return true;} return this == o;   
+if(o==null){return  !super.equals(element);;} return this == o;   
+if(o==null){return  super.equals(element);} else;} return this == o;   
+if(o==null){return  !element.equals();;} return this == o;   
+if(o==null){return  true;};} return this == o;   
+if(o==null){return  super.equals(element);};} return this == o;   
+if(o==null){return  element==this;} return this == o;   
+if(o==null){return  false false;} return this == o;   
+if(o==null){return  false ;} return this == o;   
+if(o==null){return  false;} return true;} return this == o;   
+if(o==null){return  true;} else {return false;} return this == o;   
+if(o==null){return  !this.equals(element);;} return this == o;   
+if(o==null){return  true} else{return false;} return this == o;   
+if(o==null){return  false; } else{ return true;} return this == o;   
+if(o==null){return  false};;} return this == o;   
+if(o==null){return  false; } else{return true;} return this == o;   
+if(o==null){return  false; } else { return true;} return this == o;   
+if(o==null){return  element == null; ;} return this == o;   
+if(o==null){return  o==element;;} return this == o;   
+if(o==null){return  true;} else return false;} return this == o;   
+if(o==null){return  element==this;;} return this == o;   
+if(o==null){return  false;} else {return true;} return this == o;   
+if(o==null){return  true; } else { return false;} return this == o;   
+if(o==null){return  false;} return super.equals(element;} return this == o;   
+if(o==null){return  element==null; };} return this == o;   
+if(o==null){return  false; } else {return true;} return this == o;   
+if(o==null){return  false;} else {return true;} return this == o;   
+if(o==null){return  o!=null;} return this == o;   
+if(o==null){return  false;  ;} return this == o;   
+if(o==null){return   false;} return this == o;   
+if(o==null){return  element instanceof Element;} return this == o;   
+if(o==null){return  element.equals(this);;} return this == o;   
+if(o==null){return  true} else {return false;} return this == o;   
+if(o==null){return  o!=null;;} return this == o;   
+if(o==null){return  !(element instanceof Element);;} return this == o;   
+if(o==null){return  false;} else{return true;} return this == o;   
+if(o==null){return  true};} return this == o;   
+if(o==null){return  true; };} return this == o;   
+if(o==null){return  element;} return this == o;   
+if(o==null){return  !element.equals(null);;} return this == o;   
+if(o==null){return  false} return true;} return this == o;   
+if(o==null){return  false;} else { return true;} return this == o;   
+if(o==null){return  !(element!=null);;} return this == o;   
+if(o==null){return  -1;;} return this == o;   
+if(o==null){return  element.equals(null);};} return this == o;   
+if(o==null){return  false;} else {return true;;} return this == o;   
+if(o==null){return  (element!=null);;} return this == o;   
+if(o==null){return  true;}};} return this == o;   
+if(o==null){return  true;} else{return true;} return this == o;   
+if(o==null){return  false; } else return true;} return this == o;   
+if(o==null){return  true;} return super.equals(element;} return this == o;   
+if(o==null){return !element;} return this == o;   
+if(o==null){return  element!=null; ;} return this == o;   
+if(o==null){return  true;} return true;} return this == o;   
+if(o==null){return  true;} else return false;} return this == o;   
+if(o==null){return  false;} return element.equals(o;} return this == o;   
+if(o==null){return  element.getClass()==null;} return this == o;   
+if(o==null){return  false;};} return this == o;   
+if(o==null){return  false;} else{return true;} return this == o;   
+if(o==null){return  false;}else{return true;} return this == o;   
+if(o==null){return  o == null;} return this == o;   
+if(o==null){return  this != element;} return this == o;   
+if(o==null){return  true;  };} return this == o;   
+if(o==null){return  false;} return element == o;} return this == o;   
+if(o==null){return  true};;} return this == o;   
+if(o==null){return  FALSE;} return this == o;   
+if(o==null){return  Boolean.FALSE;} return this == o;   
+if(o==null){return  element != null; ;} return this == o;   
+if(o==null){return  this!=element;} return this == o;   
+if(o==null){return  false} else{return true;} return this == o;   
+if(o==null){return  true} else return false;} return this == o;   
+if(o==null){return  element==null;} return true;} return this == o;   
+if(o==null){return  true;} else { return false;} return this == o;   
+if(o==null){return  true; } return false;} return this == o;   
+if(o==null){return  false;};;} return this == o;   
+if(o==null){return  element==null?false:true;} return this == o;   
+if(o==null){return  this==null;} return this == o;   
+if(o==null){return  false; } else return true;} return this == o;   
+if(o==null){return  true}else{return false;} return this == o;   
+if(o==null){return  !equals(element);;} return this == o;   
+if(o==null){return  element.equals(o);};} return this == o;   
+if(o==null){return  false;AST#return_statement#Right;} return this == o;   
+if(o==null){return  !element.isNull();;} return this == o;   
+if(o==null){return  false; } return element == o;} return this == o;   
+if(o==null){return  false;} else { return true;} return this == o;   
+if(o==null){return  false ;} return this == o;   
+if(o==null){return  true ;;} return this == o;   
+if(o==null){return  false;} return this == element;} return this == o;   
+if(o==null){return  true;} else{ return false;} return this == o;   
+if(o==null){return  true; } else{return false;} return this == o;   
+if(o==null){return  false; } return true;;} return this == o;   
+if(o==null){return  element.equals(o);;} return this == o;   
+if(o==null){return  false};} return this == o;   
+if(o==null){return  false; } else {return true;} return this == o;   
+if(o==null){return  false;} return element == o;} return this == o;   
+if(o==null){return  o instanceof Element;} return this == o;   
+if(o==null){return  false;} else return true;} return this == o;   
+if(o==null){return  false;}else{return true;} return this == o;   
+if(o==null){return  false true;} return this == o;   
+if(o==null){return  false;} else return true;} return this == o;   
+if(o==null){return  !element.isElement();;} return this == o;   
+if(o==null){return  false; } return false;} return this == o;   
+if(o==null){return  o==this;} return this == o;   
+if(o==null){return  false;} else return true;} return this == o;   
+if(o==null){return  element==null; } return true;} return this == o;   
+if(o==null){return  element==null;}else{return true;} return this == o;   
+if(o==null){return  false;} else{ return true;} return this == o;   
+if(o==null){return  false;} return false;} return this == o;   
+if(o==null){return  TRUE;} return this == o;   
+if(o==null){return  true} else{return false;} return this == o;   
+if(o==null){return  false} else {return true;} return this == o;   
+if(o==null){return  return false;;} return this == o;   
+if(o==null){return  false;  } return true;} return this == o;   
+if(o==null){return  o == null;;} return this == o;   
+if(o==null){return  false;   };} return this == o;   
+if(o==null){return  true} return false;} return this == o;   
+if(o==null){return  true;} return element == o;} return this == o;   
+if(o==null){return  TRUE;;} return this == o;   
+if(o==null){return  is(element);;} return this == o;   
+if(o==null){return  element.equals(null);;} return this == o;   
+if(o==null){return  element==null;} else {return true;} return this == o;   
+if(o==null){return  element=null;} return this == o;   
+if(o==null){return  element.isNull();;} return this == o;   
+if(o==null){return  true;} return element.equals(o;} return this == o;   
+if(o==null){return  true; } else{ return false;} return this == o;   
+if(o==null){return  super == element;} return this == o;   
+if(o==null){return  !element.isEmpty;} return this == o;   
+if(o==null){return  !element.equals;} return this == o;   
+if(o==null){return  element;;} return this == o;   
+if(o==null){return  false; }else{return true;} return this == o;   
+if(o==null){return  this==null;;} return this == o;   
+if(o==null){return  false; } else {return true;;} return this == o;   
+if(o==null){return  false; } else { return true;} return this == o;   
+if(o==null){return  false;} else { return true;} return this == o;   
+if(o==null){return  true; } else { return false;} return this == o;   
+if(o==null){return  !element.equals(o);};} return this == o;   
+if(o==null){return  element == null; };} return this == o;   
+if(o==null){return  super == element;;} return this == o;   
+if(o==null){return  false; }else{ return true;} return this == o;   
+if(o==null){return  getElement()==null;} return this == o;   
+if(o==null){return  o == element;} return this == o;   
+if(o==null){return  false;} return this == element;} return this == o;   
+if(o==null){return  true; } else {return false;} return this == o;   
+if(o==null){return  this != element;;} return this == o;   
+if(o==null){return  false; } //return true;} return this == o;   
+if(o==null){return  element.getClass()==null;;} return this == o;   
+if(o==null){return  false;    ;} return this == o;   
+if(o==null){return  ! element;} return this == o;   
+if(o==null){return  true;} return this == element;} return this == o;   
+if(o==null){return  true;} return element == o;} return this == o;   
+if(o==null){return ;;} return this == o;   
+if(o==null){return  false;   ;} return this == o;   
+if(o==null){return  true;} else { return false;} return this == o;   
+if(o==null){return  false; } return element.equals;} return this == o;   
+if(o==null){return  0;;} return this == o;   
+if(o==null){return  true ;} return this == o;   
+if(o==null){return  element==null;} else{return true;} return this == o;   
+if(o==null){return  false;} else{return true;} return this == o;   
+if(o==null){return  true;} else {return false;} return this == o;   
+if(o==null){return  false;} return element == this;} return this == o;   
+if(o==null){return  FALSE;;} return this == o;   
+if(o==null){return  element.isEmpty;} return this == o;   
+if(o==null){return  !element.equals(null);};} return this == o;   
+if(o==null){return  false; } else { return false;} return this == o;   
+if(o==null){return  element==null;} return true;} return this == o;   
+if(o==null){return  element.equals(null);} else;} return this == o;   
+if(o==null){return  !element.equals(element);};} return this == o;   
+if(o==null){return  false;} else { return true;;} return this == o;   
+if(o==null){return  super.equals(element);} return this == o;   
+if(o==null){return  false;  } else { return true;} return this == o;   
+if(o==null){return  isEmpty();;} return this == o;   
+if(o==null){return  false; } return this == element;} return this == o;   
+if(o==null){return  true;} else {return false;;} return this == o;   
+if(o==null){return  false; } else return true;;} return this == o;   
+if(o==null){return  true false;} return this == o;   
+if(o==null){return  element==null;} return false;} return this == o;   
+if(o==null){return  false; } else { return true;;} return this == o;   
+if(o==null){return  true;}else{return false;} return this == o;   
+if(o==null){return  true;} else{return false;} return this == o;   
+if(o==null){ o=element; } return this == o;   
+if(o==null){ o= element; } return this == o;   
+if(o==null){ o=null; } return this == o;   
+if(o==null){ o=new Element(); o=element; } return this == o;   
+if(o==null){ o=this; } return this == o;   
+if(o==null){ o=super; } return this == o;   
+if(o==null){ o=new Element; } return this == o;   
+if(o==null){ o=newElement; } return this == o;   
+if(o==null){ o=new Element(); return true; } return this == o;   
+if(o==null){ o=element; return true; } return this == o;   
+if(o==null){ o=new Element(); return false; } return this == o;   
+if(o==null){ o=new Element(element); return true; } return this == o;   
+if(o==null){ o=element; return false; } return this == o;   
+if(o==null){ o=new Element(); o = element; } return this == o;   
+if(o==null){ o=new Element(); }; } return this == o;   
+if(o==null){ o=new Element(element); }; } return this == o;   
+if(o==null){ o=element; o=element; } return this == o;   
+if(o==null){ o=Element.NULL; } return this == o;   
+if(o==null){ o=getElement; } return this == o;   
+if(o==null){ o= super; } return this == o;   
+if(o==null){ o=new Element(); return element; } return this == o;   
+if(o==null){ o=document; } return this == o;   
+if(o==null){ o=new Element(this); return true; } return this == o;   
+if(o==null){ o=null; return false; } return this == o;   
+if(o==null){ o= null; } return this == o;   
+if(o==null){ o=new Element(); } return true; } return this == o;   
+if(o==null){ o=new Element(); return element==null; } return this == o;   
+if(o==null){ o=new Element() return false; } return this == o;   
+if(o==null){ o=new Element(); this=element; } return this == o;   
+if(o==null){ o=new Element(this); }; } return this == o;   
+if(o==null){ o=new Element(); return element==o; } return this == o;   
+if(o==null){ o=new Element(); } return this == o;   
+if(o==null){ o=null; o=element; } return this == o;   
+if(o==null){ o=parent; } return this == o;   
+if(o==null){ o= this; } return this == o;   
+if(o==null){ o=node; } return this == o;   
+if(o==null){ o=e; } return this == o;   
+if(o==null){ o=Element; } return this == o;   
+if(o==null){ o=getElement(); return true; } return this == o;   
+if(o==null){ o=this; o=element; } return this == o;   
+if(o==null){ o=new Element(); } return element; } return this == o;   
+if(o==null){ o=new Element(element); return false; } return this == o;   
+if(o==null){ o=new Element(); return element == o; } return this == o;   
+if(o==null){ o=new ElementImpl; } return this == o;   
+if(o==null){ o=getElement(); o=element; } return this == o;   
+if(o==null){ o=new Element(); return element!=null; } return this == o;   
+if(o==null){ o=new Element() return true; } return this == o;   
+if(o==null){ o=new Element(); element=element; } return this == o;   
+if(o==null){ o=null; return true; } return this == o;   
+if(o==null){ o=this; return true; } return this == o;   
+if(o==null){ o= new Element(); o= element; } return this == o;   
+if(o==null){ o=getElement(); return false; } return this == o;   
+if(o==null){ o=element; }; } return this == o;   
+if(o==null){ o=NULL; } return this == o;   
+if(o==null){ o=element; } return true; } return this == o;   
+if(o==null){ o=new Element(); o=null; } return this == o;   
+if(o==null){ o=new Element(); return !element; } return this == o;   
+if(o==null){ o=new Element(); } return true; } return this == o;   
+if(o==null){ o=new Element(); return element==this; } return this == o;   
+if(o==null){ o=root; } return this == o;   
+if(o==null){ o=element; o=null; } return this == o;   
+if(o==null){ o=new Element() return element; } return this == o;   
+if(o==null){ o=new Element(); return o==element; } return this == o;   
+if(o==null){ o=new Element(); this = element; } return this == o;   
+if(o==null){ o=new Element(); } return element; } return this == o;   
+if(o==null){ o=this; return false; } return this == o;   
+if(o==null){ o=new Element(); return element != null; } return this == o;   
+if(o==null){ o=new Element();o=element; } return this == o;   
+if(o==null){ o= element; return true; } return this == o;   
+if(o==null){ o=new Element(this); return false; } return this == o;   
+if(o==null){ o=nullElement; } return this == o;   
+if(o==null){ o=new Element(){ }};; } return this == o;   
+if(o==null){ o=new Element(){ }; } return this == o;   
+if(o==null){ o=element; this=element; } return this == o;   
+if(o==null){ o=base; } return this == o;   
+if(o==null){ o=Element.class; } return this == o;   
+if(o==null){ o=child; } return this == o;   
+if(o==null){ o=Element.this; } return this == o;   
+if(o==null){ o=new Element(); } return false; } return this == o;   
+if(o==null){ o=new Element(); element; } return this == o;   
+if(o==null){ o=new ElementImpl(); o=element; } return this == o;   
+if(o==null){ o=element; } return true; } return this == o;   
+if(o==null){ o=new Element(); element=null; } return this == o;   
+if(o==null){ o=newElement(); o=element; } return this == o;   
+if(o==null){ o=element.element; } return this == o;   
+if(o==null){ o= element; } return this == o;   
+if(o==null){ o=new Element(element);}; } return this == o;   
+if(o==null){ o= new Element(); o=element; } return this == o;   
+if(o==null){ o=element.getElement; } return this == o;   
+if(o==null){ o=ELEMENT; } return this == o;   
+if(o==null){ o=new Element(){}}; } return this == o;   
+if(o==null){ o= new Element(); return true; } return this == o;   
+if(o==null){ o=super.getElement; } return this == o;   
+if(o==null){ o=new Element(); } return false; } return this == o;   
+if(o==null){ o=getElement(); return element==null; } return this == o;   
+if(o==null){ o=addElement; } return this == o;   
+if(o==null){ o=new Element(); return this==element; } return this == o;   
+if(o==null){ o=new Element(); element = element; } return this == o;   
+if(o==null){ o=null; element=null; } return this == o;   
+if(o==null){ o=new Element(){ return false; }; } return this == o;   
+if(o==null){ o=new Element(null); return true; } return this == o;   
+if(o==null){ o=new element; } return this == o;   
+if(o==null){ o=elementType; } return this == o;   
+if(o==null){ o=object; } return this == o;   
+if(o==null){ o=new Element(this); return element; } return this == o;   
+if(o==null){ o=getElement(); return element!=null; } return this == o;   
+if(o==null){ o=elem; } return this == o;   
+if(o==null){ o= new Element(); return false; } return this == o;   
+if(o==null){ o=clone; } return this == o;   
+if(o==null){ o=this; this=element; } return this == o;   
+if(o==null){ o=super.element; } return this == o;   
+if(o==null){ o=new Element(); return element == null; } return this == o;   
+if(o==null){ o=baseElement; } return this == o;   
+if(o==null){ o=element; element=null; } return this == o;   
+if(o==null){ o=undefined; } return this == o;   
+if(o==null){ o=sub; } return this == o;   
+if(o==null){ o=new Element(); element=o; } return this == o;   
+if(o==null){ o=Element.EMPTY; } return this == o;   
+if(o==null){ o=getElement(); return element; } return this == o;   
+if(o==null){ o= element; return false; } return this == o;   
+if(o==null){ o=super; o=element; } return this == o;   
+if(o==null){ o=Element.INSTANCE; } return this == o;   
+if(o==null){ o=element.next; } return this == o;   
+if(o==null){ o=el; } return this == o;   
+if(o==null){ o=new Element(){ }; return true; } return this == o;   
+if(o==null){ o=new Element(); return element.equals; } return this == o;   
+if(o==null){ o= new Element(); o = element; } return this == o;   
+if(o==null){ o=new Element();; } return this == o;   
+if(o==null){ o=self; } return this == o;   
+if(o==null){ o=element; } return false; } return this == o;   
+if(o==null){ o=new Element(); o=this; } return this == o;   
+if(o==null){ o=null; this=element; } return this == o;   
+if(o==null){ o=EMPTY; } return this == o;   
+if(o==null){ o=new Element();  return true; } return this == o;   
+if(o==null){ o=new Element(); o!=null; } return this == o;   
+if(o==null){ o=element; o = element; } return this == o;   
+if(o==null){ o=other; } return this == o;   
+if(o==null){ o=Element.ROOT; } return this == o;   
+if(o==null){ o=element;  return true; } return this == o;   
+if(o==null){ o=element; } return false; } return this == o;   
+if(o==null){ o=new Element(); o= element; } return this == o;   
+if(o==null){ o=new Element(); o=new Element; } return this == o;   
+if(o==null){ o=new Element() }; } return this == o;   
+if(o==null){ o=super; return true; } return this == o;   
+if(o==null){ o=element.clone; } return this == o;   
+if(o==null){ o=defaultElement; } return this == o;   
+if(o==null){ o=new Element();  }; } return this == o;   
+if(o==null){ o=createElement; } return this == o;   
+if(o==null){ o= Element.NULL; } return this == o;   
+if(o==null){ o=elements; } return this == o;   
+if(o==null){ o=new ElementImpl(); return true; } return this == o;   
+if(o==null){ o=void; } return this == o;   
+if(o==null){ o=new Element(); this; } return this == o;   
+if(o==null){ o=new Element(); object = element; } return this == o;   
+if(o==null){ o=getElement(); }; } return this == o;   
+if(o==null){ o=element; return o==element; } return this == o;   
+if(o==null){ o=empty; } return this == o;   
+if(o==null){ o=getElement(); return !element; } return this == o;   
+if(o==null){ o=new Element(null); }; } return this == o;   
+if(o==null){ o=new Element(){}};; } return this == o;   
+if(o==null){ o=element; } else return false; } return this == o;   
+if(o==null){ o=type; } return this == o;   
+if(o==null){ o=new Element();  return false; } return this == o;   
+if(o==null){ o=new ElementImpl(element); }; } return this == o;   
+if(o==null){ o= new Element(); }; } return this == o;   
+if(o==null){ o=a; } return this == o;   
+if(o==null){ o=0; } return this == o;   
+if(o==null){ o=new Element(); return element == this; } return this == o;   
+if(o==null){ o=getElement(); return element != null; } return this == o;   
+if(o==null){ o=getElement(); } return true; } return this == o;   
+if(o==null){ o=class; } return this == o;   
+if(o==null){ o=new Node; } return this == o;   
+if(o==null){ o=new Element(){ }; return element; } return this == o;   
+if(o==null){ o=next; } return this == o;   
+if(o==null){ o=element; return !element; } return this == o;   
+if(o==null){ o=getElement(); return o==element; } return this == o;   
+if(o==null){ o=m; } return this == o;   
+if(o==null){ o=new EmptyElement; } return this == o;   
+if(o==null){ o=Element.NONE; } return this == o;   
+if(o==null){ o=new Element(); return this == element; } return this == o;   
+if(o==null){ o=null; return element==null; } return this == o;   
+if(o==null){ o=element.parent; } return this == o;   
+if(o==null){ o=newElement(); return true; } return this == o;   
+if(o==null){ o=element; } else { return false; } return this == o;   
+if(o==null){ o=Null; } return this == o;   
+if(o==null){ o=this; element=element; } return this == o;   
+if(o==null){ o=element; this = element; } return this == o;   
+if(o==null){ o=init; } return this == o;   
+if(o==null){ o=element; } return this==element; } return this == o;   
+if(o==null){ o=create; } return this == o;   
+if(o==null){ o=element; o=this; } return this == o;   
+if(o==null){ o=new Element( element ); return true; } return this == o;   
+if(o==null){ o=new Element(); } return super; } return this == o;   
+if(o==null){ o=getElement(); return element==o; } return this == o;   
+if(o==null){ o=original; } return this == o;   
+if(o==null){ o=new Root; } return this == o;   
+if(o==null){ o=new Element(); o==element; } return this == o;   
+if(o==null){ o=value; } return this == o;   
+if(o==null){ o=reference; } return this == o;   
+if(o==null){ o=null; o=null; } return this == o;   
+if(o==null){ o=Object.class; } return this == o;   
+if(o==null){ o=new Element(){}; return true; } return this == o;   
+if(o==null){ o=new Element();} return element; } return this == o;   
+if(o==null){ o=element1; } return this == o;   
+if(o==null){ o= element; }; } return this == o;   
+if(o==null){ o=clazz; } return this == o;   
+if(o==null){ o=super.clone; } return this == o;   
+if(o==null){ o=constructor; } return this == o;   
+if(o==null){ o=new Element(){; } return this == o;   
+if(o==null){ o=new Element(); o = null; } return this == o;   
+if(o==null){ o=getPrototype; } return this == o;   
+if(o==null){ o=null; }; } return this == o;   
+if(o==null){ o=new Element(null); return false; } return this == o;   
+if(o==null){ o=element; } return o==element; } return this == o;   
+if(o==null){ o=new Element() } return element; } return this == o;   
+if(o==null){ o=ElementImpl; } return this == o;   
+if(o==null){ o=new Element(this); element; } return this == o;   
+if(o==null){ o= new Element(element); return true; } return this == o;   
+if(o==null){ o=page; } return this == o;   
+if(o==null){ o=new Element( element ); }; } return this == o;   
+if(o==null){ o=emptyElement; } return this == o;   
+if(o==null){ o=prototype; } return this == o;   
+if(o==null){ o=element; } return element == o; } return this == o;   
+if(o==null){ o= EMPTY; } return this == o;   
+if(o==null){ o=element; } return this == element; } return this == o;   
+if(o==null){ o=element; } return element; } return this == o;   
+if(o==null){ o=NewElement; } return this == o;   
+if(o==null){ o=new Document; } return this == o;   
+if(o==null){ o=new String; } return this == o;   
+if(o==null){ o= new Element; } return this == o;   
+if(o==null){ o=element; } return this == o; } return this == o;   
+if(o==null){ o= newElement; } return this == o;   
+if(o==null){ o=anotherElement; } return this == o;   
+if(o==null){ o=new Element(element); return element; } return this == o;   
+if(o==null){ o=p; } return this == o;   
+if(o==null){ o=newNode; } return this == o;   
+if(o==null){ o=new Label; } return this == o;   
+if(o==null){ o=elt; } return this == o;   
+if(o==null){ o=doc; } return this == o;   
+if(o==null){ o=new Element(); element=new Element; } return this == o;   
+if(o==null){ o=NullElement; } return this == o;   
+if(o==null){ o=new Element();} return element; } return this == o;   
+if(o==null){ o=box; } return this == o;   
+if(o==null){ o=copy; } return this == o;   
+if(o==null){ o=getElement(); } return this == o;   
+if(o==null){ o=null;}; } return this == o;   
+if(o==null){ o=x; } return this == o;   
+if(o==null){ o=inner; } return this == o;   
+if(o==null){ o=id; } return this == o;   
+if(o==null){ o=instance; } return this == o;   
+if(element != null){ return this == o; }  
+if(element == this){ return this == o; }  
+if(element!=null){ return this == o; }  
+if(element == null){ return this == o; }  
+if(element){ return this == o; }  
+if(element instanceof Element){ return this == o; }  
+if(element==null){ return this == o; }  
+if(element==this){ return this == o; }  
+if(super.equals(element){ return this == o; }  
+if(this == element){ return this == o; }  
+if(this != element){ return this == o; }  
+if( element != null){ return this == o; }  
+if(equals(element){ return this == o; }  
+if(element != this){ return this == o; }  
+if(element.equals(this){ return this == o; }  
+if(element == element){ return this == o; }  
+if(o instanceof Element){ return this == o; }  
+if(element.equals(o){ return this == o; }  
+if(this==element){ return this == o; }  
+if(element == super){ return this == o; }  
+if(element!=this){ return this == o; }  
+if(element.equals(this)){ return this == o; }  
+if(element.equals){ return this == o; }  
+if(super == element){ return this == o; }  
+if(super.equals(element)){ return this == o; }  
+if( element == this){ return this == o; }  
+if(this.equals(element){ return this == o; }  
+if(element == o){ return this == o; }  
+if(super != element){ return this == o; }  
+if(element.equals(o)){ return this == o; }  
+if(this!=element){ return this == o; }  
+if(element.getClass()==clazz){ return this == o; }  
+if(o == element){ return this == o; }  
+if(element.getClass() == elementType){ return this == o; }  
+if(o != null){ return this == o; }  
+if(getElement()==null){ return this == o; }  
+if(equals(element)){ return this == o; }  
+if(o==element){ return this == o; }  
+if( element != this){ return this == o; }  
+if(element.getParent()==this){ return this == o; }  
+if(this instanceof Element){ return this == o; }  
+if(element == parent){ return this == o; }  
+if(super==element){ return this == o; }  
+if(element!= null){ return this == o; }  
+if( element){ return this == o; }  
+if(element.isElement){ return this == o; }  
+if(element.equals(element){ return this == o; }  
+if(element.getClass() == getClass){ return this == o; }  
+if(o != element){ return this == o; }  
+if(getElement()==element){ return this == o; }  
+if(element==o){ return this == o; }  
+if(element.equals(super){ return this == o; }  
+if( element == null){ return this == o; }  
+if(class == element){ return this == o; }  
+if(element instanceof Variable){ return this == o; }  
+if(null != element){ return this == o; }  
+if(o!=null){ return this == o; }  
+if(element.isEmpty){ return this == o; }  
+if(element != o){ return this == o; }  
+if(o!=element){ return this == o; }  
+if(element.getParent()==null){ return this == o; }  
+if(element.getClass() != getClass){ return this == o; }  
+if(element.getClass() == type){ return this == o; }  
+if(o.equals(element){ return this == o; }  
+if(element.hashCode() == hashCode){ return this == o; }  
+if(element.getElement()==this){ return this == o; }  
+if(element != element){ return this == o; }  
+if(null!=element){ return this == o; }  
+if( this == element){ return this == o; }  
+if(class != element){ return this == o; }  
+if( super.equals(element)){ return this == o; }  
+if(element == obj){ return this == o; }  
+if(element == m){ return this == o; }  
+if(true){ return this == o; }  
+if( element instanceof Element){ return this == o; }  
+if(object == element){ return this == o; }  
+if(isEqual(element){ return this == o; }  
+if( element!=null){ return this == o; }  
+if(element.getElement()==null){ return this == o; }  
+if(element == doc){ return this == o; }  
+if(parent != element){ return this == o; }  
+if(isElement(element){ return this == o; }  
+if(element == c){ return this == o; }  
+if( super == element){ return this == o; }  
+if(element.isEmpty()){ return this == o; }  
+if(super!=element){ return this == o; }  
+if(element.equals(element)){ return this == o; }  
+if(element == root){ return this == o; }  
+if(element.getClass() == element){ return this == o; }  
+if(element==element){ return this == o; }  
+if(elementType == element){ return this == o; }  
+if(element == type){ return this == o; }  
+if(element == child){ return this == o; }  
+if(element.getClass()==element){ return this == o; }  
+if(equal(element){ return this == o; }  
+if(super){ return this == o; }  
+if(element == owner){ return this == o; }  
+if(this != null){ return this == o; }  
+if(class != element.getClass()){ return this == o; }  
+if(elements != null){ return this == o; }  
+if(isInstance(element){ return this == o; }  
+if(this == o){ return this == o; }  
+if(element.getClass()==this){ return this == o; }  
+if(getClass()==element){ return this == o; }  
+if(getElement() == element){ return this == o; }  
+if(isSameType(element){ return this == o; }  
+if(element == object){ return this == o; }  
+if(element == self){ return this == o; }  
+if(element.isElement()==false){ return this == o; }  
+if(element.getClass() == class){ return this == o; }  
+if(element is null){ return this == o; }  
+if(element == document){ return this == o; }  
+if(element.getClass() != elementType){ return this == o; }  
+if(isElement){ return this == o; }  
+if(element instanceof Attribute){ return this == o; }  
+if(parent == element){ return this == o; }  
+if(this== element){ return this == o; }  
+if(element.isElement()){ return this == o; }  
+if( this != element){ return this == o; }  
+if( element.equals(o)){ return this == o; }  
+if( element == element){ return this == o; }  
+if(element.getClass() == clazz){ return this == o; }  
+if(isPrimitive){ return this == o; }  
+if(element instanceof String){ return this == o; }  
+if(element.getClass()==o){ return this == o; }  
+if(element.equals(super)){ return this == o; }  
+if( super != element){ return this == o; }  
+if(element.getParent() != null){ return this == o; }  
+if(element == el){ return this == o; }  
+if(element == current){ return this == o; }  
+if(element == getElement){ return this == o; }  
+if(getElement() != null){ return this == o; }  
+if(element != super){ return this == o; }  
+if(element.super){ return this == o; }  
+if(element == myself){ return this == o; }  
+if(object != element){ return this == o; }  
+if(element.getClass()==class){ return this == o; }  
+if(element is this){ return this == o; }  
+if(getElement()!=null){ return this == o; }  
+if(isEmpty){ return this == o; }  
+if(element instanceof Class){ return this == o; }  
+if(element!=o){ return this == o; }  
+if(element==super){ return this == o; }  
+if(element == node){ return this == o; }  
+if(super instanceof Element){ return this == o; }  
+if( element == super){ return this == o; }  
+if(this==o){ return this == o; }  
+if(type == element){ return this == o; }  
+if(this != o){ return this == o; }  
+if(element instanceof Tag){ return this == o; }  
+if(getClass() == element){ return this == o; }  
+if(element.isValid()==false){ return this == o; }  
+if(element == instance){ return this == o; }  
+if(object != null){ return this == o; }  
+if(element == value){ return this == o; }  
+if(class == element.getClass()){ return this == o; }  
+if(element.isPrimitive){ return this == o; }  
+if(element.getClass()==type){ return this == o; }  
+if( element.equals(this)){ return this == o; }  
+if(element == e){ return this == o; }  
+if(element instanceof Document){ return this == o; }  
+if(element.isSelected){ return this == o; }  
+if(element.getValue()==null){ return this == o; }  
+if(class != element.getClass){ return this == o; }  
+if(super.equals( element){ return this == o; }  
+if(parent != null){ return this == o; }  
+if(element == other){ return this == o; }  
+if(null==element){ return this == o; }  
+if( element==null){ return this == o; }  
+if(element instanceof Node){ return this == o; }  
+if(element.getClass() != type){ return this == o; }  
+if(field != null){ return this == o; }  
+if(element.isSelected()==false){ return this == o; }  
+if(contains(element){ return this == o; }  
+if(element.isElement()==true){ return this == o; }  
+if(null == element){ return this == o; }  
+if(false){ return this == o; }  
+if( element == o){ return this == o; }  
+if(null){ return this == o; }  
+if(elements == null){ return this == o; }  
+if(element != obj){ return this == o; }  
+if(element.getType() == elementType){ return this == o; }  
+if(clazz == element){ return this == o; }  
+if(element.getClass() == null){ return this == o; }  
+if(value == element){ return this == o; }  
+if(element== null){ return this == o; }  
+if(this.equals(element)){ return this == o; }  
+if(elem != null){ return this == o; }  
+if(element instanceof Container){ return this == o; }  
+if(isElement(element)){ return this == o; }  
+if(isSameElement(element){ return this == o; }  
+if(element instanceof Primitive){ return this == o; }  
+if(element instanceof Object){ return this == o; }  
+if(super != null){ return this == o; }  
+if(elementType != element){ return this == o; }  
+if(equals( element){ return this == o; }  
+if(element.getClass() == Element){ return this == o; }  
+if(element.getType() == type){ return this == o; }  
+if(element.size() == 0){ return this == o; }  
+if(element.getType()==type){ return this == o; }  
+if(equals(element) == false){ return this == o; }  
+if(element.getName() == getName){ return this == o; }  
+if(element.getElement()==o){ return this == o; }  
+if(element.equals(other){ return this == o; }  
+if(element.getClass()==null){ return this == o; }  
+if(element.getClass()==elementType){ return this == o; }  
+if(element.getElement()!=null){ return this == o; }  
+if(element.getClass() == CLASS){ return this == o; }  
+if(equals){ return this == o; }  
+if(element.element != null){ return this == o; }  
+if(element.getParent() == null){ return this == o; }  
+if(element.equals(parent){ return this == o; }  
+if(equals(element)==false){ return this == o; }  
+if(element.equals(self){ return this == o; }  
+if(element.isEqual(this){ return this == o; }  
+if(element.hashCode() == 0){ return this == o; }  
+if(o.getClass()==element){ return this == o; }  
+if(clazz == element.getClass()){ return this == o; }  
+if(element.hashCode() == hash){ return this == o; }  
+if(isIdentical(element){ return this == o; }  
+if(element.getClass()!=null){ return this == o; }  
+if(element.getParent() == this){ return this == o; }  
+if(element.size() == size){ return this == o; }  
+if(getClass() == element.getClass){ return this == o; }  
+if(element.getClass() != null){ return this == o; }  
+if(element.getContent()==null){ return this == o; }  
+if(element.getNode()==this){ return this == o; }  
+if(element.getNode()==null){ return this == o; }  
+if(element.getName() == name){ return this == o; }  
+if(element.getClass() != clazz){ return this == o; }  
+if(this){ return this == o; }  
+if(element.isPrimitive()){ return this == o; }  
+if(element.isSelected()){ return this == o; }  
+if(DEBUG){ return this == o; }  
+if(element.equals(child){ return this == o; }  
+if(element.type == type){ return this == o; }  
+if( super.equals( element )){ return this == o; }  
+if(element.getClass()==getClass()){ return this == o; }  
+if(element.getClass()!=clazz){ return this == o; }  
+if(element.getClass()){ return this == o; }  
+if(element.size() == 1){ return this == o; }  
+if(element.getId() == id){ return this == o; }  
+if(getClass()==element.getClass()){ return this == o; }  
+if(element.getValue() != null){ return this == o; }  
+if(match){ return this == o; }  
+if(element.parent == this){ return this == o; }  
+if(element.getClass() == cls){ return this == o; }  
+if(element.isElement()==null){ return this == o; }  
+if(element.hasClass()){ return this == o; }  
+if(element.equals(e){ return this == o; }  

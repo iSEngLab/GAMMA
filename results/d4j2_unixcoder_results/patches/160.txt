@@ -1,0 +1,2250 @@
+ return current;  
+ lastChar = current;  
+ //return current;  
+ current = '\n' + current;  
+  return current;  
+ lineCount++; return current;  
+ char lastChar = current;  
+  return current;  
+ assert current != -1;  
+ nextChar = current;  
+ // return current;  
+ lastLine = current;  
+ lineCount += current;  
+ this.current = current;  
+ write(current); return current;  
+ bytesRead += current;  
+ return current != -1;  
+ streamCounter++; return current;  
+ return current + 1;  
+ lastChar += current;  
+ currentLine = lineCounter;  
+ lineCounter++; return current;  
+ read(); return current;  
+ currentLine++; return current;  
+ } else { return current;  
+ currentLine = current;  
+ assert current == -1;  
+ assert current >= 0;  
+ lastByte = current;  
+ ++lineNumber;  
+ lineCount += 1;  
+ previousChar = current;  
+ current++; return current;  
+ ;  
+ unread(current); return current;  
+ lineCounter = 0;  
+ //    return current;  
+ int lastChar = current;  
+ if (current == '\\') return current;  
+ current <<= 1;  
+ return current & 0xff;  
+ //	return current;  
+ ++lineCounter;  
+ if (current) return current;  
+ return current == -1;  
+ readLine(); return current;  
+ lineStart = lineCounter;  
+ currentLine += current;  
+ if (current != '') return current;  
+ characterCounter++; return current;  
+ return current & 0xFF;  
+ fileCounter++; return current;  
+ return current << 1;  
+ assert current == '\n': current;  
+ if (current != '\\') return current;  
+ lastLine++; return current;  
+ current = (char)current;  
+ if (!current) return -1;  
+ position += current;  
+ this.lastChar = current;  
+ return current; };  
+ ch = current;  
+ lastLine = current;  
+ lineCounter += 1;  
+ line = lineCounter;  
+ streamCounter += 1;  
+ line = current;  
+ if (current != '.') return current;  
+ if (current != '/') return current;  
+ --lineCounter;  
+ } else { return current;  
+ lineCounter += current;  
+ lineChar = current;  
+ try { return current;  
+ lineCount--; return current;  
+ nextChar += current;  
+ buffer += current;  
+ current = '\r' + current;  
+ if (current == '') return 0;  
+ this.lineCounter = lineCounter;  
+ prevChar = current;  
+ assert current == 0;  
+ //		return current;  
+ streamCounter += current;  
+ assert current == '\n;  
+ buffer[lineCounter] = current;  
+ cursor += current;  
+ firstChar = current;  
+ lineChar += current;  
+ //        return current;  
+ if (current == '/') return current;  
+ pos += current;  
+ current = (char) current;  
+ lineCounter--; return current;  
+ lineOffset += current;  
+  return current;  
+ lineCounter = 1;  
+ };  
+ current = current;  
+ char c = current;  
+ readLine(); return current;  
+ current = "\n" + current;  
+ character = current;  
+ assert current > 0;  
+ //lastChar = current;  
+ last = current;  
+ return current + lineCounter;  
+ this.line = lineCounter;  
+ currentValue = current;  
+ this.currentLine = current;  
+ lastChar = (char)current;  
+ lineCount = lineCount + 1;  
+ count += current;  
+ current <<= 1; return current;  
+ char currentChar = current;  
+ lineDelimiter = current;  
+ current += '\n;  
+ this.currentLine = lineCounter;  
+ current = nextChar;  
+ } return current;  
+ lastLine += current;  
+ current = lineCounter;  
+ lastLine = lineCounter;  
+ current = ' ' + current;  
+ if (current == '') return current;  
+ //      return current;  
+ lastRead = current;  
+ newline = current == '\n';  
+ characterCounter += current;  
+ lines++; return current;  
+ break;  
+ current += current;  
+ //     return current;  
+ lineNumber++; return current;  
+ //  return current;  
+ super.close(); return current;  
+ append(current); return current;  
+ readChar = current;  
+ line++; return current;  
+  lastChar = current;  
+  lastChar = current;  
+   return current;  
+ if (current == ',') return current;  
+ lastChar = (char) current;  
+ if (current == '.') return current;  
+ currentLine = 0;  
+ lineBuffer.append(current);  
+ lastChar |= current;  
+ lineCounter = lineCounter + 1;  
+ firstLine = current;  
+ lastLineCounter++; return current;  
+ lineLength += current;  
+ index += current;  
+ lineStart = current;  
+ //            return current;  
+ current = current + '\n';  
+ if (current != '>') return current;  
+ line += current;  
+ read(current); return current;  
+ AST#return_statement#Leftreturn current;  
+ return current ? 1 : 0;  
+ println(current); return current;  
+ newlineCounter++; return current;  
+ lineStart += current;  
+ assert current > -1;  
+ if (current == '-') return current;  
+ checkError(); return current;  
+ lastChar++; return current;  
+ firstLine++; return current;  
+ returns current;  
+ hasNext = true;  
+ char c = (char)current;  
+ char current = (char)current;  
+ lineIndex++; return current;  
+ char c = (char) current;  
+ nextToken = current;  
+ this.currentChar = current;  
+ lastChar = current + 1;  
+ lastError = current;  
+ if (current != '-') return current;  
+ count++; return current;  
+ check(current); return current;  
+ text += current;  
+ return current >> 1;  
+ readLine(current); return current;  
+ char current = (char) current;  
+ this.lastLine = current;  
+ emit(current); return current;  
+ else { return -1;  
+ //System.out.println current;  
+ super.read(); return current;  
+ bytesRead = current;  
+ //echo current;  
+  return current;  
+ lastByte = current & 0xff;  
+ lineNo++; return current;  
+ if (current != '#') return current;  
+ cursor++; return current;  
+ char lastChar = lastChar;  
+ if (current == ':') return current;  
+ char current = current;  
+ position++; return current;  
+ lineTotal += current;  
+ return current - '\n';  
+ buffer[bufferCounter] = current;  
+ lastLine += current;  
+ @return current;  
+ if (current == '>') return current;  
+ //lineCounter++; return current;  
+ if (current != ',') return current;  
+ lineNum++; return current;  
+ char nextChar = current;  
+ lastByte = (byte) current;  
+ if (current != ':') return current;  
+ switch (current) { default;  
+ if (current != '=') return current;  
+ current = (int)current;  
+ lastChar = current & 0xff;  
+ current += '\n';  
+ if (current == '.') return 0;  
+ if (!current) return 0;  
+ int newChar = current;  
+ lineStart = lineCounter - 1;  
+ lineBuffer.add(current);  
+ } else { current = current;  
+ current -= '\n';  
+ lineReader.unread(current);  
+ newline = current == '\n;  
+ if (current == '=') return current;  
+ if (current == '/') return 0;  
+ lineCounter = lineCounter - 1;  
+ lineCount = lineCount + current;  
+ int nextChar = current;  
+ return current + '\n';  
+ //System.out.println;  
+ current = current & 0xff;  
+ //assert current == '\n';  
+ lastByte = (byte)current;  
+ return current ? 1 : -1;  
+ current += '\n' + current;  
+ current = (int) current;  
+ if (current == '#') return current;  
+ lastChar = lastChar + current;  
+ System.out.print(current;  
+ return (current & 0xff);  
+ if (current == '\\') return 0;  
+ current = current != -1;  
+ lastChar = current & 0xFF;  
+ lastCRLF = current == CRLF;  
+ while (current != -1);  
+ return current; if (current == '\n') {   
+ lastChar = current; if (current == '\n') {   
+ } return current; if (current == '\n') {   
+ int lastChar = -1; if (current == '\n') {   
+ int lastChar = current; if (current == '\n') {   
+ //return current; if (current == '\n') {   
+ int lastChar = 0; if (current == '\n') {   
+ }; if (current == '\n') {   
+ lineCounter++; return current; if (current == '\n') {   
+  return current; if (current == '\n') {   
+ } }; if (current == '\n') {   
+ int lastChar = lastChar; if (current == '\n') {   
+ ++lineCounter; if (current == '\n') {   
+ assert current != -1; if (current == '\n') {   
+ ; if (current == '\n') {   
+ } lastChar = current; if (current == '\n') {   
+  return current; if (current == '\n') {   
+ char lastChar = lastChar; if (current == '\n') {   
+ lineCounter += 1; if (current == '\n') {   
+ char lastChar = current; if (current == '\n') {   
+ lineCounter = 0; if (current == '\n') {   
+ return current + 1; if (current == '\n') {   
+ return current; }; if (current == '\n') {   
+ lastChar += current; if (current == '\n') {   
+ return lastChar; if (current == '\n') {   
+ read(); return current; if (current == '\n') {   
+ return current; if (current == '\n') {   
+ char lastChar = '\n'; if (current == '\n') {   
+ assert current >= 0; if (current == '\n') {   
+ nextChar = current; if (current == '\n') {   
+ // return current; if (current == '\n') {   
+ current = '\n' + current; if (current == '\n') {   
+  lastChar = current; if (current == '\n') {   
+ --lineCounter; if (current == '\n') {   
+ lineCounter++;; if (current == '\n') {   
+ ++lineNumber; if (current == '\n') {   
+ current = lastChar; if (current == '\n') {   
+ char lastChar = -1; if (current == '\n') {   
+ this.current = current; if (current == '\n') {   
+ String lastChar = null; if (current == '\n') {   
+ int lastChar = lineCounter; if (current == '\n') {   
+ lastChar = lastChar + current; if (current == '\n') {   
+ } int lastChar = 0; if (current == '\n') {   
+ //    return current; if (current == '\n') {   
+ char lastChar = 0; if (current == '\n') {   
+ assert current == -1; if (current == '\n') {   
+  return current; if (current == '\n') {   
+  } return current; if (current == '\n') {   
+ } ; if (current == '\n') {   
+ lastChar = lineCounter; if (current == '\n') {   
+ current <<= 1; if (current == '\n') {   
+ lastLine = current; if (current == '\n') {   
+ lineCounter = 1; if (current == '\n') {   
+ } return current; if (current == '\n') {   
+ lastChar = lastChar; if (current == '\n') {   
+ }  return current; if (current == '\n') {   
+ write(current); return current; if (current == '\n') {   
+ } return lastChar; if (current == '\n') {   
+ this.lineCounter = lineCounter; if (current == '\n') {   
+ while (current != -1); if (current == '\n') {   
+ } //return current; if (current == '\n') {   
+ previousChar = current; if (current == '\n') {   
+ lastChar = -1; if (current == '\n') {   
+ lineCounter--; return current; if (current == '\n') {   
+ lastChar = 0; if (current == '\n') {   
+   return current; if (current == '\n') {   
+ lineCounter++; if (current == '\n') {   
+ characterCounter++; return current; if (current == '\n') {   
+ bytesRead += current; if (current == '\n') {   
+ this.lastChar = current; if (current == '\n') {   
+ } else; if (current == '\n') {   
+ return current; } }; if (current == '\n') {   
+ read(); } return current; if (current == '\n') {   
+    return current; if (current == '\n') {   
+ current = current; if (current == '\n') {   
+ unread(current); return current; if (current == '\n') {   
+ current = lineCounter; if (current == '\n') {   
+  lastChar = current; if (current == '\n') {   
+ lastChar = current + 1; if (current == '\n') {   
+ return current != -1; if (current == '\n') {   
+ assert current > 0; if (current == '\n') {   
+ } int lastChar = current; if (current == '\n') {   
+ readLine(); return current; if (current == '\n') {   
+ //	return current; if (current == '\n') {   
+ lastByte = current; if (current == '\n') {   
+ streamCounter++; return current; if (current == '\n') {   
+ } } return current; if (current == '\n') {   
+ int lastChar = '\n'; if (current == '\n') {   
+ int lineCounter = 0; if (current == '\n') {   
+ } } return lastChar; if (current == '\n') {   
+ this.lineCounter = 0; if (current == '\n') {   
+ current = nextChar; if (current == '\n') {   
+ int lastChar; if (current == '\n') {   
+ lineCounter++; return current; if (current == '\n') {   
+ this.lineCounter += 1; if (current == '\n') {   
+ int lastChar = current + 1; if (current == '\n') {   
+  }; if (current == '\n') {   
+ try { return current; if (current == '\n') {   
+ lastChar = lastChar + 1; if (current == '\n') {   
+ read(); return current; if (current == '\n') {   
+ lineCounter++;  return current; if (current == '\n') {   
+ String lastChar = lastChar; if (current == '\n') {   
+     return current; if (current == '\n') {   
+ @return current; if (current == '\n') {   
+ char lastChar = null; if (current == '\n') {   
+ return current & 0xff; if (current == '\n') {   
+ currentLine++; return current; if (current == '\n') {   
+ char lastChar; if (current == '\n') {   
+ //} return current; if (current == '\n') {   
+ }  return current; if (current == '\n') {   
+  return current; if (current == '\n') {   
+ return current; } ; if (current == '\n') {   
+  int lastChar = -1; if (current == '\n') {   
+ -- lineCounter; if (current == '\n') {   
+ return current & 0xFF; if (current == '\n') {   
+ thisChar = current; if (current == '\n') {   
+ assert current > -1; if (current == '\n') {   
+ super.close(); return current; if (current == '\n') {   
+ prevChar = current; if (current == '\n') {   
+ } lastChar = 0; if (current == '\n') {   
+ } } else; if (current == '\n') {   
+ int lastChar = null; if (current == '\n') {   
+   return current; if (current == '\n') {   
+ position += current; if (current == '\n') {   
+ --; if (current == '\n') {   
+ this.lineCounter = 1; if (current == '\n') {   
+ firstChar = current; if (current == '\n') {   
+ current = (char)current; if (current == '\n') {   
+ //        return current; if (current == '\n') {   
+  } }; if (current == '\n') {   
+ } lastChar = lastChar; if (current == '\n') {   
+ } lastChar = -1; if (current == '\n') {   
+ return nextChar; if (current == '\n') {   
+ AST#return_statement#Leftreturn current; if (current == '\n') {   
+ } } else; if (current == '\n') {   
+ return lineCounter; if (current == '\n') {   
+ lastLineCounter++; return current; if (current == '\n') {   
+ int lastChar = --lineCounter; if (current == '\n') {   
+ return current == -1; if (current == '\n') {   
+ lastChar = lastChar - 1; if (current == '\n') {   
+ return lastChar = current; if (current == '\n') {   
+ char current = lastChar; if (current == '\n') {   
+ ch = current; if (current == '\n') {   
+ current = current + '\n'; if (current == '\n') {   
+ current = current + 1; if (current == '\n') {   
+ lineCounter -= 1; if (current == '\n') {   
+ assert current == 0; if (current == '\n') {   
+  int lastChar = 0; if (current == '\n') {   
+ buffer += current; if (current == '\n') {   
+    } return current; if (current == '\n') {   
+ nextChar += current; if (current == '\n') {   
+ } int lastChar; if (current == '\n') {   
+ current = super.read(); if (current == '\n') {   
+ if (current != -1); if (current == '\n') {   
+ end; if (current == '\n') {   
+ return current << 1; if (current == '\n') {   
+ return current + lineCounter; if (current == '\n') {   
+      return current; if (current == '\n') {   
+ current = '\r' + current; if (current == '\n') {   
+ lineCounter += current; if (current == '\n') {   
+ int lastChar = last; if (current == '\n') {   
+ //  return current; if (current == '\n') {   
+ } String lastChar = null; if (current == '\n') {   
+ return lastChar + current; if (current == '\n') {   
+ index += current; if (current == '\n') {   
+ //lineCounter++; return current; if (current == '\n') {   
+ } //else; if (current == '\n') {   
+ ++ lineNumber; if (current == '\n') {   
+ } end; if (current == '\n') {   
+ current += lastChar; if (current == '\n') {   
+  } return current; if (current == '\n') {   
+ char lastChar = '\n; if (current == '\n') {   
+ } lastChar += current; if (current == '\n') {   
+ lastChar++; return current; if (current == '\n') {   
+  return current; if (current == '\n') {   
+ int lastChar = 1; if (current == '\n') {   
+ read(current); return current; if (current == '\n') {   
+ this.currentChar = current; if (current == '\n') {   
+   return current; if (current == '\n') {   
+ current++; return current; if (current == '\n') {   
+ //System.out.println current; if (current == '\n') {   
+   } return current; if (current == '\n') {   
+ cursor += current; if (current == '\n') {   
+ lastLine = lineCounter; if (current == '\n') {   
+ } }  return current; if (current == '\n') {   
+ //System.out.println; if (current == '\n') {   
+ lineCounter++; }; if (current == '\n') {   
+ lastChar = current - 1; if (current == '\n') {   
+ readLine(); return current; if (current == '\n') {   
+ ++lastChar; if (current == '\n') {   
+ ++ lineCounter; if (current == '\n') {   
+ //lastChar = current; if (current == '\n') {   
+    }; if (current == '\n') {   
+ lineCount++; return current; if (current == '\n') {   
+ //      return current; if (current == '\n') {   
+ --lineNumber; if (current == '\n') {   
+ super.read(); return current; if (current == '\n') {   
+ char lastChar = lineCounter; if (current == '\n') {   
+ //		return current; if (current == '\n') {   
+ lastLine++; return current; if (current == '\n') {   
+ updateLineCounter(); return current; if (current == '\n') {   
+ lastChar <<= 1; if (current == '\n') {   
+ readChar = current; if (current == '\n') {   
+ } } int lastChar; if (current == '\n') {   
+ } } //return current; if (current == '\n') {   
+ ++current; if (current == '\n') {   
+ //     return current; if (current == '\n') {   
+ currentValue = current; if (current == '\n') {   
+ current += '\n'; if (current == '\n') {   
+ int lineCounter = 1; if (current == '\n') {   
+ readLine(); } return current; if (current == '\n') {   
+ } } else {; if (current == '\n') {   
+ current = (char) current; if (current == '\n') {   
+ fileCounter++; return current; if (current == '\n') {   
+ int lastChar = read; if (current == '\n') {   
+ lastChar = lastChar || current; if (current == '\n') {   
+ nextToken = current; if (current == '\n') {   
+ current += lineCounter; if (current == '\n') {   
+  lineCounter++; return current; if (current == '\n') {   
+ lastChar = null; if (current == '\n') {   
+ pos += current; if (current == '\n') {   
+  ++lineCounter; if (current == '\n') {   
+ lineCounter = lineCounter + 1; if (current == '\n') {   
+ currentLine = current; if (current == '\n') {   
+ this.lineCounter++;; if (current == '\n') {   
+ byte lastChar = lastChar; if (current == '\n') {   
+ String lastChar = current; if (current == '\n') {   
+ readLine(current); return current; if (current == '\n') {   
+ lastChar = --current; if (current == '\n') {   
+  int lastChar = current; if (current == '\n') {   
+ current = current - 1; if (current == '\n') {   
+ } lastChar; if (current == '\n') {   
+  int lastChar = -1; if (current == '\n') {   
+ lastChar = nextChar; if (current == '\n') {   
+ int lastChar = current - 1; if (current == '\n') {   
+ lastChar |= current; if (current == '\n') {   
+ final int lastChar = lastChar; if (current == '\n') {   
+ current <<= 1; return current; if (current == '\n') {   
+ char lastChar = ch; if (current == '\n') {   
+ }  lastChar = current; if (current == '\n') {   
+ int lastChar = previousChar; if (current == '\n') {   
+ resetLineCounter(); return current; if (current == '\n') {   
+ newlineCounter++; return current; if (current == '\n') {   
+ if (current) return current; if (current == '\n') {   
+ int lastChar = lastLine; if (current == '\n') {   
+ lastChar = lineCounter - 1; if (current == '\n') {   
+  } lastChar = current; if (current == '\n') {   
+ } lastChar = lineCounter; if (current == '\n') {   
+ current -= '\n'; if (current == '\n') {   
+ current = (int)current; if (current == '\n') {   
+if (current  != -1 && current != '\r '\n') {   
+if (current  == '\n') {   
+if (current  != '\n' && current != ~ '\n') {   
+if (current  != '\n') {   
+if (current  == '\r' || current == ~ '\n') {   
+if (current  == '\n' || current == ~ '\n') {   
+if (current  != -1 && current != '\n '\n') {   
+if (current  == '\r' || current == '\n') {   
+if (current  ==  '\n') {   
+if (current  != '\r' && current != ~ '\n') {   
+if (current  == ~ '\n') {   
+if (current  == '\r' || current ==  '\n') {   
+if (current  == '\r' || current == b '\n') {   
+if (current  == \ '\n') {   
+if (current  != -1 && current != '\n') {   
+if (current  != -1 && current != ~ '\n') {   
+if (current  == ' '\n') {   
+if (current  == '\r' || current ==  '\n') {   
+if (current  == '\r' || current == \ '\n') {   
+if (current  != ~ '\n') {   
+if (current  != - '\n') {   
+if (current  == '\n' || current == b '\n') {   
+if (current  == '\n' || current == '\ '\n') {   
+if (current  != ' '\n') {   
+if (current  == '\n' || current ==  '\n') {   
+if (current  == - '\n') {   
+if (current  == b '\n') {   
+if (current  !=  '\n') {   
+if (current  == '\n' || current == '\n') {   
+if (current  == -1 && current != - '\n') {   
+if (current  == -1 && current != '\n') {   
+if (current  == '\n' || current == \ '\n') {   
+if (current  != -1 && current != - '\n') {   
+if (current  == '\r' || current == u '\n') {   
+if (current  == '\n' || current == u '\n') {   
+if (current  != '\n' && current != '\ '\n') {   
+if (current  != -1 && current != b '\n') {   
+if (current  == -1 || current == '\r '\n') {   
+if (current  == -1 && current != ~ '\n') {   
+if (current  != \ '\n') {   
+if (current  != '\r' && current != '\n') {   
+if (current  == '\r' && current != ~ '\n') {   
+if (current  != -1 && current != '\t '\n') {   
+if (current  == '\n' || current == + '\n') {   
+if (current  ==  '\n') {   
+if (current  != -1 && current != ' '\n') {   
+if (current  == '\n' || current == - '\n') {   
+if (current  != -1 && current == '\r '\n') {   
+if (current  == u '\n') {   
+if (current  == '\n' || current ==  '\n') {   
+if (current  != '\n' && current != '\n') {   
+if (current  != b '\n') {   
+if (current  == '\r' || current == + '\n') {   
+if (current  == '\r' || current == - '\n') {   
+if (current  == '\r' || current == // '\n') {   
+if (current  == + '\n') {   
+if (current  != '\n' && current != b '\n') {   
+if (current  != '\n' && current != - '\n') {   
+if (current  == -1 || current == '\n') {   
+if (current  == '\r' || current == '\ '\n') {   
+if (current  != -1 && current !=  '\n') {   
+if (current  != -1 && current != '\ '\n') {   
+if (current  == '\r' || current == r '\n') {   
+if (current  == (char) '\n') {   
+if (current  == '\n' && current != ~ '\n') {   
+if (current  != '\r' && current !=  '\n') {   
+if (current  == -1 && current != '\r '\n') {   
+if (current  != -1 && current == '\n') {   
+if (current  != '\r' && current != b '\n') {   
+if (current  == 0 || current == '\r '\n') {   
+if (current  != '\r' && current !=  '\n') {   
+if (current  == '\t' || current == ~ '\n') {   
+if (current == '\n') {   
+if (current  == '\r' || current == ' '\n') {   
+if (current  == -1 && current == '\n') {   
+if (current  == c '\n') {   
+if (current  != -1 && current != '\u '\n') {   
+if (current  !=  '\n') {   
+if (current  != -1 && current == '\n '\n') {   
+if (current  != -1 && current != + '\n') {   
+if (current  == '\n' || current == // '\n') {   
+if (current  != '\n' && current !=  '\n') {   
+if (current  == -1 && lastChar != - '\n') {   
+if (current  != '\t' && current != ~ '\n') {   
+if (current  == '\ '\n') {   
+if (current  != '\ '\n') {   
+if (current  == '\n' || current == ' '\n') {   
+if (current  != '\n' && current != + '\n') {   
+if (current  != '\n' && current != \ '\n') {   
+if (current  == -1 && current != '\n '\n') {   
+if (current  != -1 && current !=  '\n') {   
+if (current  != -1 && current != \ '\n') {   
+if (current  == // '\n') {   
+if (current  != '\n '\n') {   
+if (current  == -1 && lastChar == - '\n') {   
+if (current  == \n '\n') {   
+if (current  == -1 || current != '\n') {   
+if (current  == 0 && current != '\n') {   
+if (current  != -1 && current != "\n '\n') {   
+if (current  == '\n' || current == "\ '\n') {   
+if (current  == '\t' || current ==  '\n') {   
+if (current  == '\r '\n') {   
+if (current  != '\0' && current != ~ '\n') {   
+if (current  == '\n' || current == r '\n') {   
+if (current  != 0 && current != '\r '\n') {   
+if (current != '\n') {   
+if (current  != 0 && current != '\n '\n') {   
+if (current  != '\r' && current != \ '\n') {   
+if (current  == -1 || current == ~ '\n') {   
+if (current  != + '\n') {   
+if (current  != c '\n') {   
+if (current  == '\r' && current != '\n') {   
+if (current  == '\n '\n') {   
+if (current  != (char) '\n') {   
+if (current  != -1 && current == ~ '\n') {   
+if (current  != -1 && current!= '\n') {   
+if (current  == ! '\n') {   
+if (current  == '\r' || current == l '\n') {   
+if (current  != -1 && current != '. '\n') {   
+if (current  != '\n' && current != ' '\n') {   
+if (current  == '\r' || current == f '\n') {   
+if (current  != '\n' && current != u '\n') {   
+if (current  == \r '\n') {   
+if (current  == -1 && lastChar == ~ '\n') {   
+if (current  != -1 && current != "\r '\n') {   
+if (current  == 0 && current != ~ '\n') {   
+if (current  != -1 '\n') {   
+if (current  != '\r' && current != ' '\n') {   
+if (current  != -1 && current != c '\n') {   
+if (current  == '\r' || current == "\ '\n') {   
+if (current  != -1 && current != "\ '\n') {   
+if (current  != '\n' || current == ~ '\n') {   
+if (current  == -1 || current == b '\n') {   
+if (current  == -1 && current == '\r '\n') {   
+if (current  == -1 || current != '\r '\n') {   
+if (current  == -1 && lastChar != ~ '\n') {   
+if (current  == 0 || current == '\n') {   
+if (current  == '\r'||current == '\n') {   
+if (current  == '\r' || current == n '\n') {   
+if (current  == & '\n') {   
+if (current  != -1 && current != u '\n') {   
+if (current  == -1 && current != b '\n') {   
+if (current  == == '\n') {   
+if (current  == '\\ '\n') {   
+if (current  != -1 && current != \n '\n') {   
+if (current  == '\n' || current == l '\n') {   
+if (current  == -1 || current == '\n '\n') {   
+if (current  >= '\n') {   
+if (current  == '. '\n') {   
+if (current  != -1 && current!=' '\n') {   
+if (current  != 0 && current != '\n') {   
+if (current  == > '\n') {   
+if (current  == '\t' || current == '\n') {   
+if (current  == '\r' && current != - '\n') {   
+if (current  != -1 || current == '\r '\n') {   
+if (current  == '\r' && current != b '\n') {   
+if (current  != -1 && current == b '\n') {   
+if (current  == '+ '\n') {   
+if (current  != '\n' && current !=  '\n') {   
+if (current  != -1 && current !=   '\n') {   
+if (current  == -1 && lastChar != '\n') {   
+if (current  == '\t' || current == \ '\n') {   
+if (current  == -1 && current != \ '\n') {   
+if (current  == 0x '\n') {   
+if (current  == "\n" || current == ~ '\n') {   
+if (current  == -1 && current !=  '\n') {   
+if (current  == '\r' && lastChar != '\n') {   
+if (current  == '\r' && current !=  '\n') {   
+if (current  == '\n' || current == f '\n') {   
+if (current  == 	 '\n') {   
+if (current  == '@ '\n') {   
+if (current  == "\ '\n') {   
+if (current  >= '\n' && current != ~ '\n') {   
+if (current  == '\n' || current != ~ '\n') {   
+if (current  == ^ '\n') {   
+if (current  == '\r' || current == '\\ '\n') {   
+if (current  == < '\n') {   
+if (current  == '\0' || current == '\ '\n') {   
+if (current  == -1 && current == ~ '\n') {   
+if (current  == '\r' || current == == '\n') {   
+if (current  != 0 && current != ~ '\n') {   
+if (current  == -1 || current == \ '\n') {   
+if (current  == '\n' || current == == '\n') {   
+if (current  == '\r\n '\n') {   
+if (current  != '\0' && current != '\ '\n') {   
+if (current  == 0 && current != - '\n') {   
+if (current  > '\n' && current != ~ '\n') {   
+if (current  == -1 && current !=  '\n') {   
+if (current  == \n || current == '\r '\n') {   
+if (current  == '\n' && lastChar != '\n') {   
+if (current  != -1 && current != ~ '\n') {   
+if (current  != '\r' || current != ~ '\n') {   
+if (current  == '\t' || current == b '\n') {   
+if (current  != -1 && current != '\0 '\n') {   
+if (current  != -1 && current ==  '\n') {   
+if (current  != -1) return current;  '\n') {   
+if (current  != '\r' && current != - '\n') {   
+if (current  == -1 && lineCounter != - '\n') {   
+if (current  == 0 && lastChar != ~ '\n') {   
+if (current  == 0 && lastChar != '\n') {   
+if (current  == -1 && lastChar == '\n') {   
+if (current  != '\n' || current != ~ '\n') {   
+if (current  == '\n' && current != - '\n') {   
+if (current  != '\r' && current != + '\n') {   
+if (current  == '\n' || current == '\\ '\n') {   
+if (current  ==	 '\n') {   
+if (current  == 'n '\n') {   
+if (current  == '\0' || current == ~ '\n') {   
+if (current  == -1) current = '\n '\n') {   
+if (current  != u '\n') {   
+if (current  == 0 || current == '\n '\n') {   
+if (current  ==   '\n') {   
+if (current  == -1 && current != + '\n') {   
+if (current  != -1 && lastChar != ~ '\n') {   
+if (current  != -1 && current != '\\ '\n') {   
+if (current  == 'u '\n') {   
+if (current  == '\n' || current == c '\n') {   
+if (current  != -1 && current != ! '\n') {   
+if (current  == '\r' || current == t '\n') {   
+if (current  == '\n' || current == ^ '\n') {   
+if (current  != -1 && current == \ '\n') {   
+if (current  == 0 || current == ~ '\n') {   
+if (current  == '\r' || current == ++ '\n') {   
+if (current  != -1 && lastChar != - '\n') {   
+if (current  !=   '\n') {   
+if (current  =='\r' || current == '\n') {   
+if (current  >= ' '\n') {   
+if (current  !='\n' && current != '\n') {   
+if (current  == '\n' && current != '\n') {   
+if (current  != 	 '\n') {   
+if (current  == '\t' || current == u '\n') {   
+if (current  == != '\n') {   
+if (current  == -1 && lastChar ==  '\n') {   
+if (current  == \r || current == \n '\n') {   
+if (current ==' '\n') {   
+if (current  != '\r '\n') {   
+if (current  != '\r\n '\n') {   
+if (current  != -1 && current != '\x '\n') {   
+if (current  == '\r' || current == 0 '\n') {   
+if (current  == -1 && lastChar == b '\n') {   
+if (current  == \u0000 '\n') {   
+if (current  != -1 && current != \r '\n') {   
+if (current  == 0 && lastChar == '\n') {   
+if (current  == '\n' || current != b '\n') {   
+if (current  != '\n') return current;  '\n') {   
+if (current  == (byte) '\n') {   
+if (current  == 0 && lastChar == '\r '\n') {   
+if (current  == ? '\n') {   
+if (current  == '\n' || current !=  '\n') {   
+if (current  == -1 && ! '\n') {   
+if (current == '\n' || current == -1) {   
+if (current == '\n' && lineCounter > 0) {   
+if (current == '\n' && lineCounter < MAX_LINES) {   
+if (current == '\n' || current == '\r') {   
+if (current == '\n' && lineCounter < maxLineLength) {   
+if (current == '\n' && lastChar != -1) {   
+if (current == '\n' || current == '\r' || current == 0) {   
+if (current == '\n' && lineCounter != 0) {   
+if (current == '\n' && lastChar == -1) {   
+if (current == '\n' || current == 0) {   
+if (current == '\n' && lineCounter > 1) {   
+if (current == '\n' || current == '\r' || current == '/') {   
+if (current == '\n' || current == '\r' || current == '-') {   
+if (current == '\n' && lineCounter != 1) {   
+if (current == '\n' && current != -1) {   
+if (current == '\n' && lineCounter == 1) {   
+if (current == '\n' || current == EOF) {   
+if (current == '\n' || current == '\r' || current ==) {   
+if (current == '\n' && lineCounter < lineCount) {   
+if (current == '\n' && lineCounter < 10) {   
+if (current == '\n' && lineCounter < MAX_LINE_COUNT) {   
+if (current == '\n' && lineCounter < maxLine) {   
+if (current == '\n' || current == '\r' || current == '*') {   
+if (current == '\n' && lineCounter == 0) {   
+if (current == '\n' && lineCounter < maxLineCount) {   
+if (current == '\n' && lineCounter < maxLines) {   
+if (current == '\n' || current == '\r' || current == '\\') {   
+if (current == '\n' && lineCounter < limit) {   
+if (current == '\n' && lineCounter < MAX_LINE_NUMBER) {   
+if (current == '\n' && lineCounter < maxLineCounter) {   
+if (current == '\n' || current == '\r' && lineCounter) {   
+if (current == '\n' && lineCounter < lineLimit) {   
+if (current == '\n' || current == '\r' || lineCounter) {   
+if (current == '\n' && lineCounter < lines) {   
+if (current == '\n' || current == '\r' || current == eof) {   
+if (current == '\n' && lineCounter < LINE_COUNT) {   
+if (current == '\n' || current == '\r) {   
+if (current == '\n' || current == '\r' || current == ',') {   
+if (current == '\n' && lineCounter < 100) {   
+if (current == '\n' && lineCounter < 80) {   
+if (current == '\n' && lineCounter < 2) {   
+if (current == '\n' && lineCounter < 3) {   
+if (current == '\n' ) {   
+if (current == '\n' || current == '\r' || current == '#') {   
+if (current == '\n' && lastChar == 0) {   
+if (current == '\n' && lineCounter < 5) {   
+if (current == '\n' && lineNumber > 0) {   
+if (current == '\n' && lineCounter < 20) {   
+if (current == '\n' || current == '\r' || current == '"') {   
+if (current == '\n' && lineCounter <= maxLineLength) {   
+if (current == '\n' && !lineCounter) {   
+if (current == '\n' && lineCounter < maxLineNumber) {   
+if (current == '\n' || current == '\r' || lastChar) {   
+if (current == '\n' && lineCounter % 2 == 0) {   
+if (current == '\n' || current == '\r' || current == EOF) {   
+if (current == '\n' || current != -1) {   
+if (current == '\n' && lineCounter < 4) {   
+if (current == '\n' && lineCounter < max) {   
+if (current == '\n' && lineCounter <= MAX_LINES) {   
+if (current == '\n' && lastChar != 0) {   
+if (current == '\n' && lineCounter < 50) {   
+if (current == '\n' && lineCounter != -1) {   
+if (current == '\n' || current == '\r' || current == '@') {   
+if (current == '\n' && lineCounter < LINE_NUMBER) {   
+if (current == '\n' || current == '\r' || current) {   
+if (current == '\n' && lineCounter < numLines) {   
+if (current == '\n' || current == '\r' ) {   
+if (current == '\n' && !lastChar) {   
+if (current == '\n' && lineCounter < 1) {   
+if (current == '\n' && lineCounter == 2) {   
+if (current == '\n' || current == eof) {   
+if (current == '\n' && lineCounter < LINES) {   
+if (current == '\n' || current == '\r' || current == '=') {   
+if (current == '\n' && lineCounter < 8) {   
+if (current == '\n' || current == '\r' || current == '(') {   
+if (current == '\n' && lineCounter < lastChar) {   
+if (current == '\n' && lineCounter < totalLines) {   
+if (current == '\n' || current == '\r' || current == '<') {   
+if (current == '\n' || current == '\r' || current > 0) {   
+if (current == '\n' && lineCounter == lineCount) {   
+if (current == '\n' || current == ' ') {   
+if (current == '\n' || current == '\r\n') {   
+if (current == '\n' || current == '\r' || current == CR) {   
+if (current == '\n' && lineCounter < count) {   
+if (current == '\n' && lastChar > 0) {   
+if (current == '\n' || current == '\r' - 1) {   
+if (current == '\n' || current == '\r' || current == '\") {   
+if (current == '\n' || lastChar == -1) {   
+if (current == '\n' || current == 1) {   
+if (current == '\n' && lineCounter % 100 == 0) {   
+if (current == '\n' && lineCounter < 1024) {   
+if (current == '\n' && lineCounter > 2) {   
+if (current == '\n' && --lineCounter == 0) {   
+if (current == '\n' || current == '\r' || eof) {   
+if (current == '\n' && lineCounter < maxNumLines) {   
+if (current == '\n' || current == '\r' || current == ':') {   
+if (current == '\n' && lineCounter < 256) {   
+if (current == '\n' && lineCounter != lineCount) {   
+if (current == '\n' && lineCounter < MAXLINES) {   
+if (current == '\n' && lineCounter == MAX_LINES) {   
+if (current == '\n' || current == '\r' || current == '.') {   
+if (current == '\n' && lineCounter != 2) {   
+if (current == '\n' && lineCounter < MAX) {   
+if (current == '\n' || current == '\r' || current == '?') {   
+if (current == '\n' || current == lastChar) {   
+if (current == '\n' || current == '\r' || current == null) {   
+if (current == '\n' && lineCounter < 1000) {   
+if (current == '\n' && lineCounter < 200) {   
+if (current == '\n' && lineCounter < 30) {   
+if (current == '\n' && lineCounter < size) {   
+if (current == '\n' || current == '\n\r') {   
+if (current == '\n' && lineCounter < lineLength) {   
+if (current == '\n' && lineNumber >= 0) {   
+if (current == '\n' && lineCounter <= maxLine) {   
+if (current == '\n' && lineCounter == lineLimit) {   
+if (current == '\n' && lastChar > -1) {   
+if (current == '\n' || current == CR) {   
+if (current == '\n' && lineCounter < LINE_SIZE) {   
+if (current == '\n' || current == '\r' || current == CRLF) {   
+if (current == '\n' && lastChar == '\n' + 1) {   
+if (current == '\n' && lineCounter < 25) {   
+if (current == '\n' && lineCounter < lineNumber) {   
+if (current == '\n' && lineCounter < maxNumberOfLines) {   
+if (current == '\n' && lastChar == '\n') {   
+if (current == '\n' && !lineCounter > 0) {   
+if (current == '\n' && lineCounter < linesPerFile) {   
+if (current == '\n' && lastChar >= 0) {   
+if (current == '\n' && lineCounter < 6) {   
+if (current == '\n' && lineCounter < numberOfLines) {   
+if (current == '\n' || current == '\r' && lastChar) {   
+if (current == '\n' && lineCounter % 10 == 0) {   
+if (current == '\n' && lineCounter < 10000) {   
+if (current == '\n' || current == '\r' || current == 1) {   
+if (current == '\n' && lastChar != '\n' - 1) {   
+if (current == '\n' && lineCounter < lineSize) {   
+if (current == '\n' || current != '\r') {   
+if (current == '\n'  || current == '\r' ) {   
+if (current == '\n' && !firstLine) {   
+if (current == '\n' && lineCounter < LINE_LIMIT) {   
+if (current == '\n' && lineCounter < linesPerLine) {   
+if (current == '\n' && lineCounter == 10) {   
+if (current == '\n' && lineCounter < lineMax) {   
+if (current == '\n' && lineCounter < maxLineNum) {   
+if (current == '\n' && lineCounter % 1000 == 0) {   
+if (current == '\n' + lastChar) {   
+if (current == '\n' && lineCounter < maxLength) {   
+if (current == '\n' && lineCounter != lastChar) {   
+if (current == '\n' && !lineCounter > 1) {   
+if (current == '\n' && lineCounter < 16) {   
+if (current == '\n' && lastChar == '\n' - 1) {   
+if (current == '\n' || lastChar == 0) {   
+if (current == '\n' && lineCounter < 32) {   
+if (current == '\n' && lastChar < 0) {   
+if (current == '\n' && lineCounter <= MAX_LINE_COUNT) {   
+if (current == '\n' && lineCounter < bufferSize) {   
+if (current == '\n' || current == '\r' || current == '!') {   
+if (current == '\n' && lineCounter < totalLineLength) {   
+if (current == '\n' && lineCounter >= 1) {   
+if (current == '\n' || current > 0) {   
+if (current == '\n' && lineCounter < MAX_LINE_LENGTH) {   
+if (current == '\n' && lineCounter < LINE_CNT) {   
+if (current == '\n' || current == null) {   
+if (current == '\n' || current == '\r' || current != 0) {   
+if (current == '\n' && lineCounter < 9) {   
+if (current == '\n' || current < 0) {   
+if (current == '\n' && lastChar == '\r') {   
+if (current == '\n' && lineCounter == 3) {   
+if (current == '\n' || current >= 0) {   
+if (current == '\n' && lineCounter != lineLimit) {   
+if (current == '\n' && lineCounter <= 10) {   
+if (current == '\n' && lineCounter < maxLineBreak) {   
+if (current == '\n' && !lineCounter == 1) {   
+if (current == '\n' && lineCounter > 10) {   
+if (current == '\n' && lineCounter <= maxLines) {   
+if (current == '\n' || current == '\r' || current == false) {   
+if (current == '\n' && lineCounter <= MAX_LINE_NUMBER) {   
+if (current == '\n' && lineNumber > 1) {   
+if (current == '\n' && lineNumber == 0) {   
+if (current == '\n' && lineCounter < MAX_LINE) {   
+if (current == '\n' || current == '\r' || current == '\') {   
+if (current == '\n' && current != 0) {   
+if (current == '\n' && lineCounter < maxLinesPerLine) {   
+if (current == '\n' || current == '\r' + lineCounter) {   
+if (current == '\n' && lineCounter <= maxLineCount) {   
+if (current == '\n' && lineCounter < MAX_NUMBER_LINES) {   
+if (current == '\n' && lineCounter < total) {   
+if (current == '\n' && !newLine) {   
+if (current == '\n' || current == '\r' || current == LF) {   
+if (current == '\n' && ++lineCounter < MAX_LINES) {   
+if (current == '\n' && lineCounter < 79) {   
+if (current == '\n' || current == '\r' + '\n) {   
+if (current == '\n' && lineCounter < LINE_NUMBER_LIMIT) {   
+if (current == '\n' || current == '\r' || current >= 0) {   
+if (current == '\n' && read() == -1) {   
+if (current == '\n' || current == false) {   
+if (current == '\n' || current == lineBreak) {   
+if (current == '\n' && lastChar != '\n' + 1) {   
+if (current == '\n' || current == '\r' || current == ';') {   
+if (current == '\n' && lineCounter < NUM_LINES) {   
+if (current == '\n' && lineCounter == lastChar) {   
+if (current == '\n' && lineCounter >= MAX_LINES) {   
+if (current == '\n' && lineCounter <= lineLimit) {   
+if (current == '\n' && lineCounter <= maxLineCounter) {   
+if (current == '\n' || current == '\r' || current == '[') {   
+if (current == '\n' && lineCounter >= maxLineLength) {   
+if (current == '\n' && lineCounter < lineTotal) {   
+if (current == '\n' || current == '\n\n') {   
+if (current == '\n' || current == '\r' ) {   
+if (current == '\n' && lineCounter >= 0) {   
+if (current == '\n' && lineCounter <= lineCount) {   
+if (current == '\n' || current == '\r' || current == '\'') {   
+if (current == '\n' && lineCounter < 76) {   
+if (current == '\n' && lineCounter < MAX_LINE_LINES) {   
+if (current == '\n' || current >= '\r') {   
+if (current == '\n' && lineCounter < lineThreshold) {   
+if (current == '\n' && lineCounter < N) {   
+if (current == '\n' && lineCounter == MAX_LINE_COUNT) {   
+if (current == '\n' || current == '\r' || current == '') {   
+if (current == '\n' && lineCounter < MAX_LINE_CNT) {   
+if (current == '\n' && lineCounter < lastLineNumber) {   
+if (current == '\n' && lineCounter < lineNum) {   
+if (current == '\n' && lastChar != lastChar) {   
+if (current == '\n' && lineCounter == maxLineLength) {   
+if (current == '\n' && lineCounter == lines) {   
+if (current == '\n' && lineCounter < LINE_LENGTH) {   
+if (current == '\n' && lineCounter < n) {   
+if (current == '\n' && lineNumber != -1) {   
+if (current == '\n' && isNewLine) {   
+if (current == '\n' + lineCounter) {   
+if (current == '\n' && lineCounter == 80) {   
+if (current == '\n' && ++lineCounter == 1) {   
+if (current == '\n' && lineCounter % 10000 == 0) {   
+if (current == '\n' && lineCounter < lastLine) {   
+if (current == '\n' || lastChar != -1) {   
+if (current == '\n'  || current == -1) {   
+if (current == '\n' && lineCounter <= 1) {   
+if (current == '\n' || !current) {   
+if (current == '\n' && lineCounter < 512) {   
+if (current == '\n' && lineCounter != MAX_LINES) {   
+if (current == '\n' && lineCounter >= 2) {   
+if (current == '\n' && lineCounter < BUFFER_SIZE) {   
+if (current == '\n' && lineCounter < 15) {   
+if (current == '\n' && lineCounter > 3) {   
+if (current == '\n' && lineCounter <= max) {   
+if (current == '\n' && lineNumber >= 1) {   
+if (current == '\n' && current >= 0) {   
+if (current == '\n' && lineCounter < 75) {   
+if (current == '\n' || current == '\r' || current < 0) {   
+if (current == '\n' && lineCounter % 2 == 1) {   
+if (current == '\n' && lineNumber) {   
+if (current == '\n' || current == -1) {   
+if (current == '\n' && lineCounter > 0) {   
+if (current == '\n' && lineCounter < MAX_LINES) {   
+if (current == '\n' || current == '\r') {   
+if (current == '\n' && lineCounter < maxLineLength) {   
+if (current == '\n' && lastChar != -1) {   
+if (current == '\n' || current == '\r' || current == 0) {   
+if (current == '\n' && lineCounter != 0) {   
+if (current == '\n' && lastChar == -1) {   
+if (current == '\n' || current == 0) {   
+if (current == '\n' && lineCounter > 1) {   
+if (current == '\n' || current == '\r' || current == '/') {   
+if (current == '\n' || current == '\r' || current == '-') {   
+if (current == '\n' && lineCounter != 1) {   
+if (current == '\n' && current != -1) {   
+if (current == '\n' && lineCounter == 1) {   
+if (current == '\n' || current == EOF) {   
+if (current == '\n' || current == '\r' || current ==) {   
+if (current == '\n' && lineCounter < lineCount) {   
+if (current == '\n' && lineCounter < 10) {   
+if (current == '\n' && lineCounter < MAX_LINE_COUNT) {   
+if (current == '\n' && lineCounter < maxLine) {   
+if (current == '\n' || current == '\r' || current == '*') {   
+if (current == '\n' && lineCounter == 0) {   
+if (current == '\n' && lineCounter < maxLineCount) {   
+if (current == '\n' && lineCounter < maxLines) {   
+if (current == '\n' || current == '\r' || current == '\\') {   
+if (current == '\n' && lineCounter < limit) {   
+if (current == '\n' && lineCounter < MAX_LINE_NUMBER) {   
+if (current == '\n' && lineCounter < maxLineCounter) {   
+if (current == '\n' || current == '\r' && lineCounter) {   
+if (current == '\n' && lineCounter < lineLimit) {   
+if (current == '\n' || current == '\r' || lineCounter) {   
+if (current == '\n' && lineCounter < lines) {   
+if (current == '\n' || current == '\r' || current == eof) {   
+if (current == '\n' && lineCounter < LINE_COUNT) {   
+if (current == '\n' || current == '\r) {   
+if (current == '\n' || current == '\r' || current == ',') {   
+if (current == '\n' && lineCounter < 100) {   
+if (current == '\n' && lineCounter < 80) {   
+if (current == '\n' && lineCounter < 2) {   
+if (current == '\n' && lineCounter < 3) {   
+if (current == '\n' ) {   
+if (current == '\n' || current == '\r' || current == '#') {   
+if (current == '\n' && lastChar == 0) {   
+if (current == '\n' && lineCounter < 5) {   
+if (current == '\n' && lineNumber > 0) {   
+if (current == '\n' && lineCounter < 20) {   
+if (current == '\n' || current == '\r' || current == '"') {   
+if (current == '\n' && lineCounter <= maxLineLength) {   
+if (current == '\n' && !lineCounter) {   
+if (current == '\n' && lineCounter < maxLineNumber) {   
+if (current == '\n' || current == '\r' || lastChar) {   
+if (current == '\n' && lineCounter % 2 == 0) {   
+if (current == '\n' || current == '\r' || current == EOF) {   
+if (current == '\n' || current != -1) {   
+if (current == '\n' && lineCounter < 4) {   
+if (current == '\n' && lineCounter < max) {   
+if (current == '\n' && lineCounter <= MAX_LINES) {   
+if (current == '\n' && lastChar != 0) {   
+if (current == '\n' && lineCounter < 50) {   
+if (current == '\n' && lineCounter != -1) {   
+if (current == '\n' || current == '\r' || current == '@') {   
+if (current == '\n' && lineCounter < LINE_NUMBER) {   
+if (current == '\n' || current == '\r' || current) {   
+if (current == '\n' && lineCounter < numLines) {   
+if (current == '\n' || current == '\r' ) {   
+if (current == '\n' && !lastChar) {   
+if (current == '\n' && lineCounter < 1) {   
+if (current == '\n' && lineCounter == 2) {   
+if (current == '\n' || current == eof) {   
+if (current == '\n' && lineCounter < LINES) {   
+if (current == '\n' || current == '\r' || current == '=') {   
+if (current == '\n' && lineCounter < 8) {   
+if (current == '\n' || current == '\r' || current == '(') {   
+if (current == '\n' && lineCounter < lastChar) {   
+if (current == '\n' && lineCounter < totalLines) {   
+if (current == '\n' || current == '\r' || current == '<') {   
+if (current == '\n' || current == '\r' || current > 0) {   
+if (current == '\n' && lineCounter == lineCount) {   
+if (current == '\n' || current == ' ') {   
+if (current == '\n' || current == '\r\n') {   
+if (current == '\n' || current == '\r' || current == CR) {   
+if (current == '\n' && lineCounter < count) {   
+if (current == '\n' && lastChar > 0) {   
+if (current == '\n' || current == '\r' - 1) {   
+if (current == '\n' || current == '\r' || current == '\") {   
+if (current == '\n' || lastChar == -1) {   
+if (current == '\n' || current == 1) {   
+if (current == '\n' && lineCounter % 100 == 0) {   
+if (current == '\n' && lineCounter < 1024) {   
+if (current == '\n' && lineCounter > 2) {   
+if (current == '\n' && --lineCounter == 0) {   
+if (current == '\n' || current == '\r' || eof) {   
+if (current == '\n' && lineCounter < maxNumLines) {   
+if (current == '\n' || current == '\r' || current == ':') {   
+if (current == '\n' && lineCounter < 256) {   
+if (current == '\n' && lineCounter != lineCount) {   
+if (current == '\n' && lineCounter < MAXLINES) {   
+if (current == '\n' && lineCounter == MAX_LINES) {   
+if (current == '\n' || current == '\r' || current == '.') {   
+if (current == '\n' && lineCounter != 2) {   
+if (current == '\n' && lineCounter < MAX) {   
+if (current == '\n' || current == '\r' || current == '?') {   
+if (current == '\n' || current == lastChar) {   
+if (current == '\n' || current == '\r' || current == null) {   
+if (current == '\n' && lineCounter < 1000) {   
+if (current == '\n' && lineCounter < 200) {   
+if (current == '\n' && lineCounter < 30) {   
+if (current == '\n' && lineCounter < size) {   
+if (current == '\n' || current == '\n\r') {   
+if (current == '\n' && lineCounter < lineLength) {   
+if (current == '\n' && lineNumber >= 0) {   
+if (current == '\n' && lineCounter <= maxLine) {   
+if (current == '\n' && lineCounter == lineLimit) {   
+if (current == '\n' && lastChar > -1) {   
+if (current == '\n' || current == CR) {   
+if (current == '\n' && lineCounter < LINE_SIZE) {   
+if (current == '\n' || current == '\r' || current == CRLF) {   
+if (current == '\n' && lastChar == '\n' + 1) {   
+if (current == '\n' && lineCounter < 25) {   
+if (current == '\n' && lineCounter < lineNumber) {   
+if (current == '\n' && lineCounter < maxNumberOfLines) {   
+if (current == '\n' && lastChar == '\n') {   
+if (current == '\n' && !lineCounter > 0) {   
+if (current == '\n' && lineCounter < linesPerFile) {   
+if (current == '\n' && lastChar >= 0) {   
+if (current == '\n' && lineCounter < 6) {   
+if (current == '\n' && lineCounter < numberOfLines) {   
+if (current == '\n' || current == '\r' && lastChar) {   
+if (current == '\n' && lineCounter % 10 == 0) {   
+if (current == '\n' && lineCounter < 10000) {   
+if (current == '\n' || current == '\r' || current == 1) {   
+if (current == '\n' && lastChar != '\n' - 1) {   
+if (current == '\n' && lineCounter < lineSize) {   
+if (current == '\n' || current != '\r') {   
+if (current == '\n'  || current == '\r' ) {   
+if (current == '\n' && !firstLine) {   
+if (current == '\n' && lineCounter < LINE_LIMIT) {   
+if (current == '\n' && lineCounter < linesPerLine) {   
+if (current == '\n' && lineCounter == 10) {   
+if (current == '\n' && lineCounter < lineMax) {   
+if (current == '\n' && lineCounter < maxLineNum) {   
+if (current == '\n' && lineCounter % 1000 == 0) {   
+if (current == '\n' + lastChar) {   
+if (current == '\n' && lineCounter < maxLength) {   
+if (current == '\n' && lineCounter != lastChar) {   
+if (current == '\n' && !lineCounter > 1) {   
+if (current == '\n' && lineCounter < 16) {   
+if (current == '\n' && lastChar == '\n' - 1) {   
+if (current == '\n' || lastChar == 0) {   
+if (current == '\n' && lineCounter < 32) {   
+if (current == '\n' && lastChar < 0) {   
+if (current == '\n' && lineCounter <= MAX_LINE_COUNT) {   
+if (current == '\n' && lineCounter < bufferSize) {   
+if (current == '\n' || current == '\r' || current == '!') {   
+if (current == '\n' && lineCounter < totalLineLength) {   
+if (current == '\n' && lineCounter >= 1) {   
+if (current == '\n' || current > 0) {   
+if (current == '\n' && lineCounter < MAX_LINE_LENGTH) {   
+if (current == '\n' && lineCounter < LINE_CNT) {   
+if (current == '\n' || current == null) {   
+if (current == '\n' || current == '\r' || current != 0) {   
+if (current == '\n' && lineCounter < 9) {   
+if (current == '\n' || current < 0) {   
+if (current == '\n' && lastChar == '\r') {   
+if (current == '\n' && lineCounter == 3) {   
+if (current == '\n' || current >= 0) {   
+if (current == '\n' && lineCounter != lineLimit) {   
+if (current == '\n' && lineCounter <= 10) {   
+if (current == '\n' && lineCounter < maxLineBreak) {   
+if (current == '\n' && !lineCounter == 1) {   
+if (current == '\n' && lineCounter > 10) {   
+if (current == '\n' && lineCounter <= maxLines) {   
+if (current == '\n' || current == '\r' || current == false) {   
+if (current == '\n' && lineCounter <= MAX_LINE_NUMBER) {   
+if (current == '\n' && lineNumber > 1) {   
+if (current == '\n' && lineNumber == 0) {   
+if (current == '\n' && lineCounter < MAX_LINE) {   
+if (current == '\n' || current == '\r' || current == '\') {   
+if (current == '\n' && current != 0) {   
+if (current == '\n' && lineCounter < maxLinesPerLine) {   
+if (current == '\n' || current == '\r' + lineCounter) {   
+if (current == '\n' && lineCounter <= maxLineCount) {   
+if (current == '\n' && lineCounter < MAX_NUMBER_LINES) {   
+if (current == '\n' && lineCounter < total) {   
+if (current == '\n' && !newLine) {   
+if (current == '\n' || current == '\r' || current == LF) {   
+if (current == '\n' && ++lineCounter < MAX_LINES) {   
+if (current == '\n' && lineCounter < 79) {   
+if (current == '\n' || current == '\r' + '\n) {   
+if (current == '\n' && lineCounter < LINE_NUMBER_LIMIT) {   
+if (current == '\n' || current == '\r' || current >= 0) {   
+if (current == '\n' && read() == -1) {   
+if (current == '\n' || current == false) {   
+if (current == '\n' || current == lineBreak) {   
+if (current == '\n' && lastChar != '\n' + 1) {   
+if (current == '\n' || current == '\r' || current == ';') {   
+if (current == '\n' && lineCounter < NUM_LINES) {   
+if (current == '\n' && lineCounter == lastChar) {   
+if (current == '\n' && lineCounter >= MAX_LINES) {   
+if (current == '\n' && lineCounter <= lineLimit) {   
+if (current == '\n' && lineCounter <= maxLineCounter) {   
+if (current == '\n' || current == '\r' || current == '[') {   
+if (current == '\n' && lineCounter >= maxLineLength) {   
+if (current == '\n' && lineCounter < lineTotal) {   
+if (current == '\n' || current == '\n\n') {   
+if (current == '\n' || current == '\r' ) {   
+if (current == '\n' && lineCounter >= 0) {   
+if (current == '\n' && lineCounter <= lineCount) {   
+if (current == '\n' || current == '\r' || current == '\'') {   
+if (current == '\n' && lineCounter < 76) {   
+if (current == '\n' && lineCounter < MAX_LINE_LINES) {   
+if (current == '\n' || current >= '\r') {   
+if (current == '\n' && lineCounter < lineThreshold) {   
+if (current == '\n' && lineCounter < N) {   
+if (current == '\n' && lineCounter == MAX_LINE_COUNT) {   
+if (current == '\n' || current == '\r' || current == '') {   
+if (current == '\n' && lineCounter < MAX_LINE_CNT) {   
+if (current == '\n' && lineCounter < lastLineNumber) {   
+if (current == '\n' && lineCounter < lineNum) {   
+if (current == '\n' && lastChar != lastChar) {   
+if (current == '\n' && lineCounter == maxLineLength) {   
+if (current == '\n' && lineCounter == lines) {   
+if (current == '\n' && lineCounter < LINE_LENGTH) {   
+if (current == '\n' && lineCounter < n) {   
+if (current == '\n' && lineNumber != -1) {   
+if (current == '\n' && isNewLine) {   
+if (current == '\n' + lineCounter) {   
+if (current == '\n' && lineCounter == 80) {   
+if (current == '\n' && ++lineCounter == 1) {   
+if (current == '\n' && lineCounter % 10000 == 0) {   
+if (current == '\n' && lineCounter < lastLine) {   
+if (current == '\n' || lastChar != -1) {   
+if (current == '\n'  || current == -1) {   
+if (current == '\n' && lineCounter <= 1) {   
+if (current == '\n' || !current) {   
+if (current == '\n' && lineCounter < 512) {   
+if (current == '\n' && lineCounter != MAX_LINES) {   
+if (current == '\n' && lineCounter >= 2) {   
+if (current == '\n' && lineCounter < BUFFER_SIZE) {   
+if (current == '\n' && lineCounter < 15) {   
+if (current == '\n' && lineCounter > 3) {   
+if (current == '\n' && lineCounter <= max) {   
+if (current == '\n' && lineNumber >= 1) {   
+if (current == '\n' && current >= 0) {   
+if (current == '\n' && lineCounter < 75) {   
+if (current == '\n' || current == '\r' || current < 0) {   
+if (current == '\n' && lineCounter % 2 == 1) {   
+if (current == '\n' && lineNumber) {   
+if (current == '\n') {   
+if (current != -1 && current == '\n') {   
+if (current=='\r' || current == '\n') {   
+if (current!= -1 && current == '\n') {   
+if (current!='\n' && current == '\n') {   
+if (current!='\r' && current == '\n') {   
+if (current=='\n' || current == '\n') {   
+if (current == '\r' || current == '\n') {   
+if (current<mask1>current == '\n') {   
+if (current!='' && current == '\n') {   
+if (current!=0 && current == '\n') {   
+if (current!=EOF && current == '\n') {   
+if (current  == '\n') {   
+if (current== '\r' || current == '\n') {   
+if (current>0 && current == '\n') {   
+if (lastChar == '\n') {   
+if (current == -1 && current == '\n') {   
+if (current=='\r'||current == '\n') {   
+if ( current == '\n') {   
+if (current == -1 || current == '\n') {   
+if (current!=-1 && current == '\n') {   
+if (current>=0 && current == '\n') {   
+if (current > 0 && current == '\n') {   
+if (current == '\n' || current == '\n') {   
+if (current==0 || current == '\n') {   
+if (current >= 0 && current == '\n') {   
+if (current != '\n' && current == '\n') {   
+if (current== -1 || current == '\n') {   
+if (current== -1 && current == '\n') {   
+if (current=='\r' && current == '\n') {   
+if (current != EOF && current == '\n') {   
+if (current!='\r'&&current == '\n') {   
+if (current==0 && current == '\n') {   
+if (current != '\r' && current == '\n') {   
+if (current!='\n' || current == '\n') {   
+if (current<0 || current == '\n') {   
+if (current+1 == '\n') {   
+if (current!='\r' || current == '\n') {   
+if (current!= '\n' && current == '\n') {   
+if (current!='\n'&&current == '\n') {   
+if (current == -1 && lastChar == '\n') {   
+if (current == 0 || current == '\n') {   
+if (current== '\n' || current == '\n') {   
+if (current != 0 && current == '\n') {   
+if (current. == '\n') {   
+if (current   == '\n') {   
+if (current!= '\r' && current == '\n') {   
+if (current > -1 && current == '\n') {   
+if (current  == '\n') {   
+if (current==0 && lastChar == '\n') {   
+if (current!= EOF && current == '\n') {   
+if (current!=' ' && current == '\n') {   
+if (current<0 && current == '\n') {   
+if (current=='\n'||current == '\n') {   
+if (current != -1 && current == '\n') {   
+if (current!=EOF || current == '\n') {   
+if (current==EOF || current == '\n') {   
+if (current	 == '\n') {   
+if (current != -1 || current == '\n') {   
+if (current!='\r' && current == '\n') {   
+if (current!=0&&current == '\n') {   
+if (current=='\r'|| current == '\n') {   
+if (current < 0 || current == '\n') {   
+if (current!= 0 && current == '\n') {   
+if (current == ' ' || current == '\n') {   
+if (current!=-1 && current == '\n') {   
+if (current not == '\n') {   
+if (current && current == '\n') {   
+if (current=='\r' || current == '\n') {   
+if (current!='0' && current == '\n') {   
+if (current <> -1 && current == '\n') {   
+if (current == '\r' && current == '\n') {   
+if (current=='\t' || current == '\n') {   
+if (current!=' ' && current == '\n') {   
+if (current!='\n' && current == '\n') {   
+if ( current != -1 && current == '\n') {   
+if (nextChar == '\n') {   
+if (current== -1 && lastChar == '\n') {   
+if (current    == '\n') {   
+if (current!= ' ' && current == '\n') {   
+if (current!= -1&&current == '\n') {   
+if (current=='\n' && current == '\n') {   
+if (lastChar != -1 && current == '\n') {   
+if (current<mask2>current == '\n') {   
+if (read() == '\n') {   
+if (current== ' ' || current == '\n') {   
+if (current== '\r' && current == '\n') {   
+if (current&1 == '\n') {   
+if (current!='\0' && current == '\n') {   
+if (current!=null && current == '\n') {   
+if (current != ' ' && current == '\n') {   
+if (current!='\t' && current == '\n') {   
+if (current != -1  && current == '\n') {   
+if (current < 0 && current == '\n') {   
+if (current!=current && current == '\n') {   
+if (current!= -1 == '\n') {   
+if (current == 0 && current == '\n') {   
+if (current!=lastChar && current == '\n') {   
+if (current== 0 || current == '\n') {   
+if (current != EOF || current == '\n') {   
+if (current      == '\n') {   
+if (current>0&&current == '\n') {   
+if (current&0x80 == '\n') {   
+if (current == 0 && lastChar == '\n') {   
+if (current=='' || current == '\n') {   
+if (current== '\r'||current == '\n') {   
+if (current!='\r'||current == '\n') {   
+if (current[0] == '\n') {   
+if (current-1 == '\n') {   
+if (current' == '\n') {   
+if (current==-1 || current == '\n') {   
+if (current > '\n' && current == '\n') {   
+if (current == '\r'||current == '\n') {   
+if (current!= -1&current == '\n') {   
+if (current == EOF || current == '\n') {   
+if (current=='\r' ||current == '\n') {   
+if (current<0||current == '\n') {   
+if (current==0||current == '\n') {   
+if (current!=''\n' && current == '\n') {   
+if (current!=' == '\n') {   
+if (current =='\r' || current == '\n') {   
+if (current!= == '\n') {   
+if (current==-1 && current == '\n') {   
+if (current==null || current == '\n') {   
+if (current!=0 == '\n') {   
+if (current==' ' || current == '\n') {   
+if (current==current || current == '\n') {   
+if (current     == '\n') {   
+if (current != -1 == '\n') {   
+if (current ! == '\n') {   
+if (current!=EOF&&current == '\n') {   
+if (current == current || current == '\n') {   
+if (current == -1 && lineCounter == '\n') {   
+if (current!=1 && current == '\n') {   
+if (current != -1 && lastChar == '\n') {   
+if (current=='\n' || current == '\n') {   
+if (current > '\r' && current == '\n') {   
+if (current!='\n' == '\n') {   
+if (this.current == '\n') {   
+if (current       == '\n') {   
+if (current & 0x80 == '\n') {   
+if (current >= '\r' && current == '\n') {   
+if (current.charAt(0) == '\n') {   
+if (current=='\n'|| current == '\n') {   
+if (current!= -1 && current == '\n') {   
+if (current!=  EOF && current == '\n') {   
+if (current++ == '\n') {   
+if (current=='\0' || current == '\n') {   
+if (current != '\n' || current == '\n') {   
+if (current-lastChar == '\n') {   
+if (current!=EOF && current == '\n') {   
+if (previousChar == '\n') {   
+if (current != '\r' || current == '\n') {   
+if (current==0 && lineCounter == '\n') {   
+if (current!='\r' == '\n') {   
+if (current== EOF || current == '\n') {   
+if (current!='-1' && current == '\n') {   
+if (current == '\t' || current == '\n') {   
+if (current=='\r' == '\n') {   
+if (current!='\\' && current == '\n') {   
+if (current!=eof && current == '\n') {   
+if (current_ == '\n') {   
+if (current!='EOF' && current == '\n') {   
+if (current==-1 || current == '\n') {   
+if (current==lastChar || current == '\n') {   
+if (current>=0&&current == '\n') {   
+if (current!= EOF || current == '\n') {   
+if (current > 0 || current == '\n') {   
+if (current != -1 and current == '\n') {   
+if (current!= -1 || current == '\n') {   
+if (current!=0 || current == '\n') {   
+if (current!=''&&current == '\n') {   
+if (current is not EOF && current == '\n') {   
+if (current<=0 || current == '\n') {   
+if (current!='\n'&& current == '\n') {   
+if ( current == '\r' || current == '\n') {   
+if (current == -1  || current == '\n') {   
+if (current!='\r'&& current == '\n') {   
+if (current!='' && current == '\n') {   
+if (current=='\n' ||current == '\n') {   
+if (current and current == '\n') {   
+if (current==' ' || current == '\n') {   
+if (current& == '\n') {   
+if (current!='' || current == '\n') {   
+if (current<=0 && current == '\n') {   
+if (current=='\r' or current == '\n') {   
+if (current=='\r'||current == '\n') {   
+if ( current == '\n') {   
+if (current  != -1 && current == '\n') {   
+if (current== 0 && current == '\n') {   
+if (current== current || current == '\n') {   
+if (current is not -1 && current == '\n') {   
+if (current!='\r'|| current == '\n') {   
+if (current!='\n'||current == '\n') {   
+if (current!=current&&current == '\n') {   
+if (current        == '\n') {   
+if (current!=-1&&current == '\n') {   
+if (current==1 || current == '\n') {   
+if (current< == '\n') {   
+if (current >= '\n' && current == '\n') {   
+if (current =='\n' || current == '\n') {   
+if (currentLine == '\n') {   
+if (current!='' == '\n') {   
+if (current!= '\r' || current == '\n') {   
+if (current !='\n' && current == '\n') {   
+if (current==-1 && current == '\n') {   
+if (current = super.read() == '\n') {   
+if (getCurrentChar() == '\n') {   
+if (current > '\r' || current == '\n') {   
+if (current| == '\n') {   
+if (firstChar == '\n') {   
+if (current!='' && current == '\n') {   
+if (current=='\t'||current == '\n') {   
+if (current != -1 &&  current == '\n') {   
+if (lastChar!= -1 && current == '\n') {   
+if (curChar == '\n') {   
+if (current== -1 && lineCounter == '\n') {   
+if (current > '\n' || current == '\n') {   
+if (current > ' ' && current == '\n') {   
+if (current&&current == '\n') {   
+if (current==EOF && lastChar == '\n') {   
+if (current==current||current == '\n') {   
+if (current!= EOF && current == '\n') {   
+if (current!= '\n' || current == '\n') {   
+if (c == '\n') {   
+if (current!=EOF||current == '\n') {   
+if (current <> '\n' && current == '\n') {   
+if (current=='\r'&&current == '\n') {   
+if (current!='1' && current == '\n') {   
+if (current!='' && lastChar == '\n') {   
+if (current == '\n' && current == '\n') {   
+if (current + 1 == '\n') {   
+if (current != -1 & current == '\n') {   
+if (current|0 == '\n') {   
+if (current>=0 == '\n') {   
+if (current() == '\n') {   
+if (current == '\r'|| current == '\n') {   
+if (current != -1 && current  == '\n') {   
+if (current<? == '\n') {   
+if (current! == '\n') {   
+if (current // == '\n') {   
+if ( current  == '\n') {   
+if (current!='\n' &&current == '\n') {   
+if (current!='' && current!='' == '\n') {   
+if (current== '\r'|| current == '\n') {   
+if (current\ == '\n') {   
+if (current==' == '\n') {   
+if (current!='\n'|| current == '\n') {   
+if (current == 0 && lineCounter == '\n') {   
+if (current> == '\n') {   
+if(current==null){return  -1;} if (current == '\n') {   
+if(current==null){return  -1;;} if (current == '\n') {   
+if(current==null){return  0;} if (current == '\n') {   
+if(current==null){return  null;} if (current == '\n') {   
+if(current==null){return -1;} if (current == '\n') {   
+if(current==null){return  null;;} if (current == '\n') {   
+if(current==null){return  EOF;} if (current == '\n') {   
+if(current==null){return  0;;} if (current == '\n') {   
+if(current==null){return ;;} if (current == '\n') {   
+if(current==null){return ; } return current;} if (current == '\n') {   
+if(current==null){return  current;} if (current == '\n') {   
+if(current==null){return -1;;} if (current == '\n') {   
+if(current==null){return  1;} if (current == '\n') {   
+if(current==null){return  null;} return current;} if (current == '\n') {   
+if(current==null){return  current;;} if (current == '\n') {   
+if(current==null){return  null;} return current;} if (current == '\n') {   
+if(current==null){return  0;} return current;} if (current == '\n') {   
+if(current==null){return  lastChar;} if (current == '\n') {   
+if(current==null){return  -1; };} if (current == '\n') {   
+if(current==null){return 0;} if (current == '\n') {   
+if(current==null){return  null; } return current;} if (current == '\n') {   
+if(current==null){return  -1 ;;} if (current == '\n') {   
+if(current==null){return  false;} if (current == '\n') {   
+if(current==null){return  0; } return current;} if (current == '\n') {   
+if(current==null){return  -1; ;} if (current == '\n') {   
+if(current==null){return  null;} return current;} if (current == '\n') {   
+if(current==null){return  EOF;;} if (current == '\n') {   
+if(current==null){return  false;;} if (current == '\n') {   
+if(current==null){return null;} if (current == '\n') {   
+if(current==null){return  1;;} if (current == '\n') {   
+if(current==null){return  next;} if (current == '\n') {   
+if(current==null){return ;} return current;} if (current == '\n') {   
+if(current==null){return  super.read();;} if (current == '\n') {   
+if(current==null){return } return current;} if (current == '\n') {   
+if(current==null){return  ' ';;} if (current == '\n') {   
+if(current==null){return  -1;} return current;} if (current == '\n') {   
+if(current==null){return  null; };} if (current == '\n') {   
+if(current==null){return  -1;};} if (current == '\n') {   
+if(current==null){return  nextChar;} if (current == '\n') {   
+if(current==null){return  end;} if (current == '\n') {   
+if(current==null){return  '\n;} if (current == '\n') {   
+if(current==null){return  super.read();} if (current == '\n') {   
+if(current==null){return  -2;} if (current == '\n') {   
+if(current==null){return ;} return current;} if (current == '\n') {   
+if(current==null){return  '';;} if (current == '\n') {   
+if(current==null){return  0;}return current;} if (current == '\n') {   
+if(current==null){return  Integer.MAX_VALUE;} if (current == '\n') {   
+if(current==null){return  null;}return current;} if (current == '\n') {   
+if(current==null){return  0;} return current;} if (current == '\n') {   
+if(current==null){return ; } return current;} if (current == '\n') {   
+if(current==null){return } return current;} if (current == '\n') {   
+if(current==null){return ;} return current;} if (current == '\n') {   
+if(current==null){return  '\n';;} if (current == '\n') {   
+if(current==null){return  null} return current;} if (current == '\n') {   
+if(current==null){return  -1L;} if (current == '\n') {   
+if(current==null){return 0;;} if (current == '\n') {   
+if(current==null){return  eof;} if (current == '\n') {   
+if(current==null){return  lastChar;;} if (current == '\n') {   
+if(current==null){return  0; };} if (current == '\n') {   
+if(current==null){return '\n;} if (current == '\n') {   
+if(current==null){return AST#unary_expression#Left-1AST#unary_expression#Right;} if (current == '\n') {   
+if(current==null){return  0; ;} if (current == '\n') {   
+if(current==null){return  -1} return current;} if (current == '\n') {   
+if(current==null){return ; };} if (current == '\n') {   
+if(current==null){return  "";;} if (current == '\n') {   
+if(current==null){return  ' ';} if (current == '\n') {   
+if(current==null){return  ;} if (current == '\n') {   
+if(current==null){return ;} return current;} if (current == '\n') {   
+if(current==null){return  NULL;} if (current == '\n') {   
+if(current==null){return  Integer.MIN_VALUE;} if (current == '\n') {   
+if(current==null){return  -1 ;} if (current == '\n') {   
+if(current==null){return EOF;} if (current == '\n') {   
+if(current==null){return   } return current;} if (current == '\n') {   
+if(current==null){return  0;} return current;} if (current == '\n') {   
+if(current==null){return  -1; } ;} if (current == '\n') {   
+if(current==null){return  -1;  ;} if (current == '\n') {   
+if(current==null){return  -1;} };} if (current == '\n') {   
+if(current==null){return  ;;} if (current == '\n') {   
+if(current==null){return 1;} if (current == '\n') {   
+if(current==null){return  read();;} if (current == '\n') {   
+if(current==null){return  defaultChar;} if (current == '\n') {   
+if(current==null){return  next();;} if (current == '\n') {   
+if(current==null){return   0;} if (current == '\n') {   
+if(current==null){return  null;}return current;} if (current == '\n') {   
+if(current==null){return  -1;  };} if (current == '\n') {   
+if(current==null){return  false;} return current;} if (current == '\n') {   
+if(current==null){return }; return current;} if (current == '\n') {   
+if(current==null){return  -1; ;} if (current == '\n') {   
+if(current==null){return  null; ;} if (current == '\n') {   
+if(current==null){return  -1;} ;} if (current == '\n') {   
+if(current==null){return  lineCounter;} if (current == '\n') {   
+if(current==null){return  -1; } ;} if (current == '\n') {   
+if(current==null){return }; return current;} if (current == '\n') {   
+if(current==null){return  return -1;} if (current == '\n') {   
+if(current==null){return  null; }return current;} if (current == '\n') {   
+if(current==null){return  current;} return current;} if (current == '\n') {   
+if(current==null){return  } return current;} if (current == '\n') {   
+if(current==null){return  -2;;} if (current == '\n') {   
+if(current==null){return  EMPTY;} if (current == '\n') {   
+if(current==null){return  current;} return current;} if (current == '\n') {   
+if(current==null){return  super.read;} if (current == '\n') {   
+if(current==null){return  -1; } else;} if (current == '\n') {   
+if(current==null){return  this;} if (current == '\n') {   
+if(current==null){return   null;} if (current == '\n') {   
+if(current==null){return }return current;} if (current == '\n') {   
+if(current==null){return  '\n';} if (current == '\n') {   
+if(current==null){return  DONE;} if (current == '\n') {   
+if(current==null){return  -1;} else;} if (current == '\n') {   
+if(current==null){return  0} return current;} if (current == '\n') {   
+if(current==null){return ;}return current;} if (current == '\n') {   
+if(current==null){return null;;} if (current == '\n') {   
+if(current==null){return  '\0';;} if (current == '\n') {   
+if(current==null){return  firstChar;} if (current == '\n') {   
+if(current==null){return  0; }return current;} if (current == '\n') {   
+if(current==null){return  EOF; } return current;} if (current == '\n') {   
+if(current==null){return  null;};} if (current == '\n') {   
+if(current==null){return  ' ';} return current;} if (current == '\n') {   
+if(current==null){return  -1}; return current;} if (current == '\n') {   
+if(current==null){return  EOF;} return current;} if (current == '\n') {   
+if(current==null){return  false;} return current;} if (current == '\n') {   
+if(current==null){return  current; } return current;} if (current == '\n') {   
+if(current==null){return  -1; } };} if (current == '\n') {   
+if(current==null){return  -11;} if (current == '\n') {   
+if(current==null){return  false;} return current;} if (current == '\n') {   
+if(current==null){return };;} if (current == '\n') {   
+if(current==null){return  - 1;} if (current == '\n') {   
+if(current==null){return  -1l;} if (current == '\n') {   
+if(current==null){return  next;;} if (current == '\n') {   
+if(current==null){return  -1;} ;} if (current == '\n') {   
+if(current==null){return  zero;} if (current == '\n') {   
+if(current==null){return  0 ;;} if (current == '\n') {   
+if(current==null){return };return current;} if (current == '\n') {   
+if(current==null){return  END;} if (current == '\n') {   
+if(current==null){return (0);;} if (current == '\n') {   
+if(current==null){return  '';} return current;} if (current == '\n') {   
+if(current==null){return  null;  };} if (current == '\n') {   
+if(current==null){return  null} return current;} if (current == '\n') {   
+if(current==null){return  '';} if (current == '\n') {   
+if(current==null){return -(1);;} if (current == '\n') {   
+if(current==null){return  endOfLine;} if (current == '\n') {   
+if(current==null){return  null ;;} if (current == '\n') {   
+if(current==null){return  read();} if (current == '\n') {   
+if(current==null){return  nextChar;;} if (current == '\n') {   
+if(current==null){return  1;} return current;} if (current == '\n') {   
+if(current==null){return  0;};} if (current == '\n') {   
+if(current==null){return 1;;} if (current == '\n') {   
+if(current==null){return ';;} if (current == '\n') {   
+if(current==null){return   } return current;} if (current == '\n') {   
+if(current==null){return ;};} if (current == '\n') {   
+if(current==null){return  ' '; } return current;} if (current == '\n') {   
+if(current==null){return  '';} return current;} if (current == '\n') {   
+if(current==null){return  -1}return current;} if (current == '\n') {   
+if(current==null){return  current;} return current;} if (current == '\n') {   
+if(current==null){return  super;} if (current == '\n') {   
+if(current==null){return  ;} return current;} if (current == '\n') {   
+if(current==null){return  input;} if (current == '\n') {   
+if(current==null){return  -1 ;} if (current == '\n') {   
+if(current==null){return  false; } return current;} if (current == '\n') {   
+if(current==null){return '\n';;} if (current == '\n') {   
+if(current==null){return  EOS;} if (current == '\n') {   
+if(current==null){return  nextLine;} if (current == '\n') {   
+if(current==null){return  '\0;} if (current == '\n') {   
+if(current==null){return  null; } else;} if (current == '\n') {   
+if(current==null){return  null;} };} if (current == '\n') {   
+if(current==null){return ; } ;} if (current == '\n') {   
+if(current==null){return  initialChar;} if (current == '\n') {   
+if(current==null){return  null; } ;} if (current == '\n') {   
+if(current==null){return  -1  ;} if (current == '\n') {   
+if(current==null){return  true;} if (current == '\n') {   
+if(current==null){return  "";} return current;} if (current == '\n') {   
+if(current==null){return  -1; };} if (current == '\n') {   
+if(current==null){return  null; } };} if (current == '\n') {   
+if(current==null){return  char;} if (current == '\n') {   
+if(current==null){return >-1;} if (current == '\n') {   
+if(current==null){return  0;  ;} if (current == '\n') {   
+if(current==null){return  -1;}};} if (current == '\n') {   
+if(current==null){return  "";} if (current == '\n') {   
+if(current==null){return  read;} if (current == '\n') {   
+if(current==null){return 0;} return current;} if (current == '\n') {   
+if(current==null){return  } return current;} if (current == '\n') {   
+if(current==null){return  1; } return current;} if (current == '\n') {   
+if(current==null){return   -1;} if (current == '\n') {   
+if(current==null){return  -1;}return current;} if (current == '\n') {   
+if(current==null){return  endChar;} if (current == '\n') {   
+if(current==null){return  "";} return current;} if (current == '\n') {   
+if(current==null){return  0; ;} if (current == '\n') {   
+if(current==null){return  n;} if (current == '\n') {   
+if(current==null){return  0} return current;} if (current == '\n') {   
+if(current==null){return  -1;AST#return_statement#Right;} if (current == '\n') {   
+if(current==null){return   false;} if (current == '\n') {   
+if(current==null){return  void;} if (current == '\n') {   
+if(current==null){return  return -1;;} if (current == '\n') {   
+if(current==null){return  null;};} if (current == '\n') {   
+if(current==null){return  \n;} if (current == '\n') {   
+if(current==null){return [];;} if (current == '\n') {   
+if(current==null){return  null; } ;} if (current == '\n') {   
+if(current==null){return  int;} if (current == '\n') {   
+if(current==null){return false;} if (current == '\n') {   
+if(current==null){return  0L;} if (current == '\n') {   
+if(current==null){return  null; } };} if (current == '\n') {   
+if(current==null){return  error;} if (current == '\n') {   
+if(current==null){return -1; ;} if (current == '\n') {   
+if(current==null){return  0;}return current;} if (current == '\n') {   
+if(current==null){return  -1;   };} if (current == '\n') {   
+if(current==null){return }  return current;} if (current == '\n') {   
+if(current==null){return  null}return current;} if (current == '\n') {   
+if(current==null){return -1;} return current;} if (current == '\n') {   
+if(current==null){return  -1;    ;} if (current == '\n') {   
+if(current==null){return  null } return current;} if (current == '\n') {   
+if(current==null){return  true;;} if (current == '\n') {   
+if(current==null){return null;} return current;} if (current == '\n') {   
+if(current==null){return  (0);;} if (current == '\n') {   
+if(current==null){return ; } };} if (current == '\n') {   
+if(current==null){return ; } else return current;} if (current == '\n') {   
+if(current==null){return  '0';;} if (current == '\n') {   
+if(current==null){return  EOF; };} if (current == '\n') {   
+if(current==null){return  lineCounter;;} if (current == '\n') {   
+if(current==null){return ;}  return current;} if (current == '\n') {   
+if(current==null){return  nil;} if (current == '\n') {   
+if(current==null){return  -1};return current;} if (current == '\n') {   
+if(current==null){return '\0;} if (current == '\n') {   
+if(current==null){return  EOL;} if (current == '\n') {   
+if(current==null){return  null;} };} if (current == '\n') {   
+if(current==null){return  0;} };} if (current == '\n') {   
+if(current==null){return  value;} if (current == '\n') {   
+if(current==null){return 0; } return current;} if (current == '\n') {   
+if(current==null){return ; }return current;} if (current == '\n') {   
+if(current==null){return  -1;}else;} if (current == '\n') {   
+if(current==null){return  0;  };} if (current == '\n') {   
+if(current==null){return  first;} if (current == '\n') {   
+if(current==null){return  n;;} if (current == '\n') {   
+if(current==null){return  END_OF_FILE;} if (current == '\n') {   
+if(current==null){return  read();} return current;} if (current == '\n') {   
+if(current==null){return } else { return current;} if (current == '\n') {   
+if(current==null){return  ' ';}return current;} if (current == '\n') {   
+if(current==null){return '';} if (current == '\n') {   
+if(current==null){return   EOF;} if (current == '\n') {   
+if(current==null){return -1; };} if (current == '\n') {   
+if(current==null){return  2;} if (current == '\n') {   
+if(current==null){return  null;}  return current;} if (current == '\n') {   
+if(current==null){return  +1;} if (current == '\n') {   
+if(current==null){return  0; } };} if (current == '\n') {   
+if(current==null){return  initial;} if (current == '\n') {   
+if(current==null){return  terminator;} if (current == '\n') {   
+if(current==null){return current;} if (current == '\n') {   
+if(current==null){return  ;} return current;} if (current == '\n') {   
+if(current==null){return  -1000;} if (current == '\n') {   
+if(current==null){return  -3;} if (current == '\n') {   
+if(current==null){return  undefined;} if (current == '\n') {   
+if(current==null){return  buffer;} if (current == '\n') {   
+if(current==null){ current=0; } if (current == '\n') {   
+if(current==null){ current= -1; } if (current == '\n') {   
+if(current==null){ current= 0; } if (current == '\n') {   
+if(current==null){ current=EOF; } if (current == '\n') {   
+if(current==null){ current=0; } return current; } if (current == '\n') {   
+if(current==null){ current=1; } if (current == '\n') {   
+if(current==null){ current='\n; } if (current == '\n') {   
+if(current==null){ current=eof; } if (current == '\n') {   
+if(current==null){ current=0;} return current; } if (current == '\n') {   
+if(current==null){ current=nextChar; } if (current == '\n') {   
+if(current==null){ current='\n'; } if (current == '\n') {   
+if(current==null){ current=AST#unary_expression#Left-1AST#unary_expression#Right; } if (current == '\n') {   
+if(current==null){ current=next; } if (current == '\n') {   
+if(current==null){ current=null; } if (current == '\n') {   
+if(current==null){ current=';; } if (current == '\n') {   
+if(current==null){ current=Integer.MAX_VALUE; } if (current == '\n') {   
+if(current==null){ current=0} return current; } if (current == '\n') {   
+if(current==null){ current= EOF; } if (current == '\n') {   
+if(current==null){ current=lastChar; } if (current == '\n') {   
+if(current==null){ current=""; } if (current == '\n') {   
+if(current==null){ current=super.read; } if (current == '\n') {   
+if(current==null){ current=Integer.MIN_VALUE; } if (current == '\n') {   
+if(current==null){ current=delimiter; } if (current == '\n') {   
+if(current==null){ current=';'} return current; } if (current == '\n') {   
+if(current==null){ current=''; } if (current == '\n') {   
+if(current==null){ current=-1; } if (current == '\n') {   
+if(current==null){ current= ' '; } if (current == '\n') {   
+if(current==null){ current=defaultChar; } if (current == '\n') {   
+if(current==null){ current=1; } return current; } if (current == '\n') {   
+if(current==null){ current=lineCounter; } if (current == '\n') {   
+if(current==null){ current= ' ' } return current; } if (current == '\n') {   
+if(current==null){ current=INITIAL; } if (current == '\n') {   
+if(current==null){ current=0;} return current; } if (current == '\n') {   
+if(current==null){ current= '\n; } if (current == '\n') {   
+if(current==null){ current= '\n'; } if (current == '\n') {   
+if(current==null){ current= nextChar; } if (current == '\n') {   
+if(current==null){ current= ''; } return current; } if (current == '\n') {   
+if(current==null){ current= ""; } return current; } if (current == '\n') {   
+if(current==null){ current='\r; } if (current == '\n') {   
+if(current==null){ current=length; } if (current == '\n') {   
+if(current==null){ current='\n'} return current; } if (current == '\n') {   
+if(current==null){ current=false; } if (current == '\n') {   
+if(current==null){ current= 1; } if (current == '\n') {   
+if(current==null){ current=buffer; } if (current == '\n') {   
+if(current==null){ current=';'} return current; } if (current == '\n') {   
+if(current==null){ current=current; } if (current == '\n') {   
+if(current==null){ current=0; return 0; } if (current == '\n') {   
+if(current==null){ current=read; } if (current == '\n') {   
+if(current==null){ current=read(); } return current; } if (current == '\n') {   
+if(current==null){ current=super; } if (current == '\n') {   
+if(current==null){ current='\r'; } if (current == '\n') {   
+if(current==null){ current= 0; } return current; } if (current == '\n') {   
+if(current==null){ current=initialValue; } if (current == '\n') {   
+if(current==null){ current='; } return current; } if (current == '\n') {   
+if(current==null){ current=0 } return current; } if (current == '\n') {   
+if(current==null){ current= next; } if (current == '\n') {   
+if(current==null){ current=0xFF; } if (current == '\n') {   
+if(current==null){ current=2; } if (current == '\n') {   
+if(current==null){ current=0x00; } if (current == '\n') {   
+if(current==null){ current='\0; } if (current == '\n') {   
+if(current==null){ current=INITIAL_CHAR; } if (current == '\n') {   
+if(current==null){ current=ch; } if (current == '\n') {   
+if(current==null){ current=0;} return current; } if (current == '\n') {   
+if(current==null){ current=firstLine; } if (current == '\n') {   
+if(current==null){ current=read() } return current; } if (current == '\n') {   
+if(current==null){ current= ' '; } return current; } if (current == '\n') {   
+if(current==null){ current=charCount; } if (current == '\n') {   
+if(current==null){ current=1000; } if (current == '\n') {   
+if(current==null){ current= eof; } if (current == '\n') {   
+if(current==null){ current=input; } if (current == '\n') {   
+if(current==null){ current=DEFAULT_CHAR; } if (current == '\n') {   
+if(current==null){ current=255; } if (current == '\n') {   
+if(current==null){ current=0xfffd; } if (current == '\n') {   
+if(current==null){ current=0xff; } if (current == '\n') {   
+if(current==null){ current=null; } return current; } if (current == '\n') {   
+if(current==null){ current=0; }; } if (current == '\n') {   
+if(current==null){ current=0; }return current; } if (current == '\n') {   
+if(current==null){ current=endChar; } if (current == '\n') {   
+if(current==null){ current=firstChar; } if (current == '\n') {   
+if(current==null){ current=' '; } if (current == '\n') {   
+if(current==null){ current=end; } if (current == '\n') {   
+if(current==null){ current=0; return current; } if (current == '\n') {   
+if(current==null){ current=EOF; } return current; } if (current == '\n') {   
+if(current==null){ current=DEFAULT; } if (current == '\n') {   
+if(current==null){ current=} return current; } if (current == '\n') {   
+if(current==null){ current=0} return current; } if (current == '\n') {   
+if(current==null){ current=char; } if (current == '\n') {   
+if(current==null){ current=0L; } if (current == '\n') {   
+if(current==null){ current= '\n' }; } if (current == '\n') {   
+if(current==null){ current=data; } if (current == '\n') {   
+if(current==null){ current=0 ; } return current; } if (current == '\n') {   
+if(current==null){ current=cbuf; } if (current == '\n') {   
+if(current==null){ current= ''}; return current; } if (current == '\n') {   
+if(current==null){ current=initialChar; } if (current == '\n') {   
+if(current==null){ current=super.read() }; } if (current == '\n') {   
+if(current==null){ current=c; } if (current == '\n') {   
+if(current==null){ current=character; } if (current == '\n') {   
+if(current==null){ current='\r\n; } if (current == '\n') {   
+if(current==null){ current=10; } if (current == '\n') {   
+if(current==null){ current=}; return current; } if (current == '\n') {   
+if(current==null){ current=0AST#assignment_expression#Right } return current; } if (current == '\n') {   
+if(current==null){ current='\n' }; } if (current == '\n') {   
+if(current==null){ current= 0 } return current; } if (current == '\n') {   
+if(current==null){ current=CRLF; } if (current == '\n') {   
+if(current==null){ current=END; } if (current == '\n') {   
+if(current==null){ current=EOL; } if (current == '\n') {   
+if(current==null){ current='' } return current; } if (current == '\n') {   
+if(current==null){ current=String.valueOf; } if (current == '\n') {   
+if(current==null){ current=newline; } if (current == '\n') {   
+if(current==null){ current=null;} return current; } if (current == '\n') {   
+if(current==null){ current=254; } if (current == '\n') {   
+if(current==null){ current= ''; } if (current == '\n') {   
+if(current==null){ current=value; } if (current == '\n') {   
+if(current==null){ current='\0'; } if (current == '\n') {   
+if(current==null){ current=SKIP; } if (current == '\n') {   
+if(current==null){ current=cursor; } if (current == '\n') {   
+if(current==null){ current=';'}; } if (current == '\n') {   
+if(current==null){ current= '}; } if (current == '\n') {   
+if(current==null){ current=1024; } if (current == '\n') {   
+if(current==null){ current=peekChar; } if (current == '\n') {   
+if(current==null){ current=EMPTY; } if (current == '\n') {   
+if(current==null){ current=  0; } if (current == '\n') {   
+if(current==null){ current=io.EOF; } if (current == '\n') {   
+if(current==null){ current=originalChar; } if (current == '\n') {   
+if(current==null){ current='}; } if (current == '\n') {   
+if(current==null){ current= } return current; } if (current == '\n') {   
+if(current==null){ current= -1 } return current; } if (current == '\n') {   
+if(current==null){ current=0  } return current; } if (current == '\n') {   
+if(current==null){ current=','; } if (current == '\n') {   
+if(current==null){ current= lastChar; } if (current == '\n') {   
+if(current==null){ current=0xFFFF; } if (current == '\n') {   
+if(current==null){ current= null; } if (current == '\n') {   
+if(current==null){ current=0;}return current; } if (current == '\n') {   
+if(current==null){ current= ENTER; } if (current == '\n') {   
+if(current==null){ current= char; } if (current == '\n') {   
+if(current==null){ current=separator; } if (current == '\n') {   
+if(current==null){ current=0; return null; } if (current == '\n') {   
+if(current==null){ current=count; } if (current == '\n') {   
+if(current==null){ current='\n' return current; } if (current == '\n') {   
+if(current==null){ current=code; } if (current == '\n') {   
+if(current==null){ current=0; return -1; } if (current == '\n') {   
+if(current==null){ current=super.read(); } if (current == '\n') {   
+if(current==null){ current=true; } if (current == '\n') {   
+if(current==null){ current= super; } if (current == '\n') {   
+if(current==null){ current=NONE; } if (current == '\n') {   
+if(current==null){ current= lineCounter; } if (current == '\n') {   
+if(current==null){ current=endOfLine; } if (current == '\n') {   
+if(current==null){ current=startChar; } if (current == '\n') {   
+if(current==null){ current='; } return current; } if (current == '\n') {   
+if(current==null){ current=0;}; } if (current == '\n') {   
+if(current==null){ current=';} return current; } if (current == '\n') {   
+if(current==null){ current=text; } if (current == '\n') {   
+if(current==null){ current=0; } }; } if (current == '\n') {   
+if(current==null){ current= end; } if (current == '\n') {   
+if(current==null){ current= Integer.MAX_VALUE; } if (current == '\n') {   
+if(current==null){ current= 0;} return current; } if (current == '\n') {   
+if(current==null){ current=IO.EOF; } if (current == '\n') {   
+if(current==null){ current= '.'; } return current; } if (current == '\n') {   
+if(current==null){ current=eof; } return current; } if (current == '\n') {   
+if(current==null){ current=; } return current; } if (current == '\n') {   
+if(current==null){ current=buffer.length; } if (current == '\n') {   
+if(current==null){ current=127; } if (current == '\n') {   
+if(current==null){ current=C; } if (current == '\n') {   
+if(current==null){ current=n; } if (current == '\n') {   
+if(current==null){ current=getNextChar; } if (current == '\n') {   
+if(current==null){ current= super.read; } if (current == '\n') {   
+if(current==null){ current=NULL; } if (current == '\n') {   
+if(current==null){ current=begin; } if (current == '\n') {   
+if(current==null){ current=INITIAL_VALUE; } if (current == '\n') {   
+if(current==null){ current= Integer.MIN_VALUE; } if (current == '\n') {   
+if(current==null){ current=;} return current; } if (current == '\n') {   
+if(current==null){ current=0; } else; } if (current == '\n') {   
+if(current==null){ current=8; } if (current == '\n') {   
+if(current==null){ current=3; } if (current == '\n') {   
+if(current==null){ current=0}return current; } if (current == '\n') {   
+if(current==null){ current= '' } return current; } if (current == '\n') {   
+if(current==null){ current= read() } return current; } if (current == '\n') {   
+if(current==null){ current=EndOfLine; } if (current == '\n') {   
+if(current==null){ current=Integer; } if (current == '\n') {   
+if(current==null){ current=0AST#assignment_expression#Right return 0; } if (current == '\n') {   
+if(current==null){ current=EndOfFile; } if (current == '\n') {   
+if(current==null){ current=this; } if (current == '\n') {   
+if(current==null){ current=0;}  return current; } if (current == '\n') {   
+if(current==null){ current=0l; } if (current == '\n') {   
+if(current==null){ current=str; } if (current == '\n') {   
+if(current==null){ current=initial; } if (current == '\n') {   
+if(current==null){ current=max; } if (current == '\n') {   
+if(current==null){ current=32; } if (current == '\n') {   
+if(current==null){ current=CR; } if (current == '\n') {   
+if(current==null){ current=eofChar; } if (current == '\n') {   
+if(current==null){ current=previousChar; } if (current == '\n') {   
+if(current==null){ current=current+1; } if (current == '\n') {   
+if(current==null){ current=index; } if (current == '\n') {   
+if(current==null){ current=start; } if (current == '\n') {   
+if(current==null){ current=64; } if (current == '\n') {   
+if(current==null){ current=oldChar; } if (current == '\n') {   
+if(current==null){ current= defaultChar; } if (current == '\n') {   
+if(current==null){ current=0 } return current; } if (current == '\n') {   
+if(current==null){ current=nextLine; } if (current == '\n') {   
+if(current==null){ current=';' } return current; } if (current == '\n') {   
+if(current==null){ current=0; return; } if (current == '\n') {   
+if(current==null){ current= ""; } return current; } if (current == '\n') {   
+if(current==null){ current= current; } if (current == '\n') {   
+if(current==null){ current=0x0000; } if (current == '\n') {   
+if(current==null){ current=super.read(); }; } if (current == '\n') {   
+if(current==null){ current=break; } if (current == '\n') {   
+if(current==null){ current=line; } if (current == '\n') {   
+if(current==null){ current=cbuf.length; } if (current == '\n') {   
+if(current==null){ current=buf; } if (current == '\n') {   
+if(current==null){ current='\u0000; } if (current == '\n') {   
+if(current==null){ current=';'; } return current; } if (current == '\n') {   
+if(current==null){ current=STRING; } if (current == '\n') {   
+if(current==null){ current=0AST#assignment_expression#Right} return current; } if (current == '\n') {   
+if(current==null){ current=readInt(); } return current; } if (current == '\n') {   
+if(current==null){ current=UTF8; } if (current == '\n') {   
+if(current==null){ current=next char; } if (current == '\n') {   
+if(current==null){ current=String; } if (current == '\n') {   
+if(current==null){ current=i; } if (current == '\n') {   
+if(current==null){ current= ' ' return current; } if (current == '\n') {   
+if(current==null){ current=''} return current; } if (current == '\n') {   
+if(current==null){ current='\n'; return current; } if (current == '\n') {   
+if(current==null){ current=read();} return current; } if (current == '\n') {   
+if(current==null){ current=b; } if (current == '\n') {   
+if(current==null){ current= read; } if (current == '\n') {   
+if(current==null){ current= super.read() }; } if (current == '\n') {   
+if(current==null){ current= ""; } if (current == '\n') {   
+if(current==null){ current=  EOF; } if (current == '\n') {   
+if(current==null){ current=limit; } if (current == '\n') {   
+if(current==null){ current=0 ;} return current; } if (current == '\n') {   
+if(current==null){ current=pos; } if (current == '\n') {   
+if(current==null){ current=readInt();} return current; } if (current == '\n') {   
+if(current==null){ current=16; } if (current == '\n') {   
+if(current==null){ current=original; } if (current == '\n') {   
+if(current==null){ current=prevChar; } if (current == '\n') {   
+if(current==null){ current= ''; } return current; } if (current == '\n') {   
+if(current==null){ current=undefined; } if (current == '\n') {   
+if(current==null){ current=100; } if (current == '\n') {   
+if(current==null){ current=NORMAL; } if (current == '\n') {   
+if(current==null){ current=byte; } if (current == '\n') {   
+if(current==null){ current=next(); } return current; } if (current == '\n') {   
+if(current==null){ current=stdin; } if (current == '\n') {   
+if(current==null){ current= ' '} return current; } if (current == '\n') {   
+if(current==null){ current=nextchar; } if (current == '\n') {   
+if(current==null){ current= read(); } return current; } if (current == '\n') {   
+if(current==null){ current=0AST#assignment_expression#Right return current; } if (current == '\n') {   
+if(current==null){ current=AST#unary_op_expression#Left-1AST#unary_expression#Right; } if (current == '\n') {   
+if(current==null){ current=';'}return current; } if (current == '\n') {   
+if(current==null){ current= ' ' }; } if (current == '\n') {   
+if(current==null){ current=0}; return current; } if (current == '\n') {   
+if(current==null){ current= '\r; } if (current == '\n') {   
+if(current != -1){ if (current == '\n') { }  
+if(current >= 0){ if (current == '\n') { }  
+if(current > 0){ if (current == '\n') { }  
+if(current < 0){ if (current == '\n') { }  
+if(current == -1){ if (current == '\n') { }  
+if(current > -1){ if (current == '\n') { }  
+if( current != -1){ if (current == '\n') { }  
+if(current != EOF){ if (current == '\n') { }  
+if(lastChar != -1){ if (current == '\n') { }  
+if(current != 0){ if (current == '\n') { }  
+if(lineCounter > 0){ if (current == '\n') { }  
+if(current){ if (current == '\n') { }  
+if(lastChar == -1){ if (current == '\n') { }  
+if(lineCounter == 0){ if (current == '\n') { }  
+if(current>0){ if (current == '\n') { }  
+if(current!= -1){ if (current == '\n') { }  
+if(current!=0){ if (current == '\n') { }  
+if(current != '\n'){ if (current == '\n') { }  
+if(lineCounter > 1){ if (current == '\n') { }  
+if(current <= 0){ if (current == '\n') { }  
+if(null != current){ if (current == '\n') { }  
+if(current>=0){ if (current == '\n') { }  
+if(lineCounter != 0){ if (current == '\n') { }  
+if(current >= '\n'){ if (current == '\n') { }  
+if(lineCounter == 1){ if (current == '\n') { }  
+if(current!='\n'){ if (current == '\n') { }  
+if( current >= 0){ if (current == '\n') { }  
+if(current!=-1){ if (current == '\n') { }  
+if(current!=-1){ if (current == '\n') { }  
+if(current == 0){ if (current == '\n') { }  
+if(current!=EOF){ if (current == '\n') { }  
+if(current >=0){ if (current == '\n') { }  
+if(current<0){ if (current == '\n') { }  
+if(current > '\n'){ if (current == '\n') { }  
+if(false){ if (current == '\n') { }  
+if(lineCounter != 1){ if (current == '\n') { }  
+if(lastChar != 0){ if (current == '\n') { }  
+if( current > 0){ if (current == '\n') { }  
+if(current!='\n){ if (current == '\n') { }  
+if(lineCounter < 10){ if (current == '\n') { }  
+if( lineCounter > 0){ if (current == '\n') { }  
+if(current != '\n){ if (current == '\n') { }  
+if(nextChar != -1){ if (current == '\n') { }  
+if(true){ if (current == '\n') { }  
+if(current >= '\n){ if (current == '\n') { }  
+if(null!=current){ if (current == '\n') { }  
+if(current != END){ if (current == '\n') { }  
+if(lastChar < 0){ if (current == '\n') { }  
+if(current != lastChar){ if (current == '\n') { }  
+if( current == -1){ if (current == '\n') { }  
+if( current != EOF){ if (current == '\n') { }  
+if(nextChar == -1){ if (current == '\n') { }  
+if(current >= -1){ if (current == '\n') { }  
+if(lineCounter < 3){ if (current == '\n') { }  
+if(0 != current){ if (current == '\n') { }  
+if(lastChar != current){ if (current == '\n') { }  
+if(lineCounter>0){ if (current == '\n') { }  
+if(DEBUG){ if (current == '\n') { }  
+if(lineCounter < maxLineLength){ if (current == '\n') { }  
+if(current >= ' '){ if (current == '\n') { }  
+if(current==0){ if (current == '\n') { }  
+if(lastChar > 0){ if (current == '\n') { }  
+if( current < 0){ if (current == '\n') { }  
+if(current == '\n'){ if (current == '\n') { }  
+if(lineCounter < 2){ if (current == '\n') { }  
+if(lineCounter < maxLines){ if (current == '\n') { }  
+if(lineCounter < limit){ if (current == '\n') { }  
+if(null == current){ if (current == '\n') { }  
+if(lineCounter < lineCount){ if (current == '\n') { }  
+if(lastChar == 0){ if (current == '\n') { }  
+if(current < -1){ if (current == '\n') { }  
+if(lineCounter == lineCount){ if (current == '\n') { }  
+if(current != ' '){ if (current == '\n') { }  
+if(lastChar >= 0){ if (current == '\n') { }  
+if(current >= 1){ if (current == '\n') { }  
+if(lineCounter < lines){ if (current == '\n') { }  
+if(lineCounter){ if (current == '\n') { }  
+if(lineCounter >= 0){ if (current == '\n') { }  
+if(0 <= current){ if (current == '\n') { }  
+if(eof){ if (current == '\n') { }  
+if(lastChar != EOF){ if (current == '\n') { }  
+if(current == EOF){ if (current == '\n') { }  
+if( current != 0){ if (current == '\n') { }  
+if(lineCounter >= 1){ if (current == '\n') { }  
+if(current > ' '){ if (current == '\n') { }  
+if(debug){ if (current == '\n') { }  
+if(lineCounter < maxLine){ if (current == '\n') { }  
+if(lineCounter > 2){ if (current == '\n') { }  
+if(currentLine >= 0){ if (current == '\n') { }  
+if(current != -1 ){ if (current == '\n') { }  
+if( lineCounter == 0){ if (current == '\n') { }  
+if(currentLine == -1){ if (current == '\n') { }  
+if(current <> -1){ if (current == '\n') { }  
+if( lastChar != -1){ if (current == '\n') { }  
+if(lineCounter==0){ if (current == '\n') { }  
+if(lineCounter < 5){ if (current == '\n') { }  
+if(0 < current){ if (current == '\n') { }  
+if(lineCounter < lineLimit){ if (current == '\n') { }  
+if(current != DONE){ if (current == '\n') { }  
+if(lineCounter < 4){ if (current == '\n') { }  
+if( lineCounter > 1){ if (current == '\n') { }  
+if(lineCounter != -1){ if (current == '\n') { }  
+if(lineCounter < 1){ if (current == '\n') { }  
+if(current == '\n){ if (current == '\n') { }  
+if(isNewLine){ if (current == '\n') { }  
+if(current == '\r'){ if (current == '\n') { }  
+if(lineCounter == lineLimit){ if (current == '\n') { }  
+if(currentLine > 0){ if (current == '\n') { }  
+if(current > '\n){ if (current == '\n') { }  
+if(read() != -1){ if (current == '\n') { }  
+if(lineCounter < 100){ if (current == '\n') { }  
+if( current > -1){ if (current == '\n') { }  
+if(lineCounter == 2){ if (current == '\n') { }  
+if(current!='){ if (current == '\n') { }  
+if(lineCounter > 10){ if (current == '\n') { }  
+if(isEof){ if (current == '\n') { }  
+if(first){ if (current == '\n') { }  
+if(current < 1){ if (current == '\n') { }  
+if(current <= '\n'){ if (current == '\n') { }  
+if( lastChar == -1){ if (current == '\n') { }  
+if(read() == -1){ if (current == '\n') { }  
+if( current != '\n'){ if (current == '\n') { }  
+if(current !='\n'){ if (current == '\n') { }  
+if(lineCounter >= 2){ if (current == '\n') { }  
+if(lineCounter != lineCount){ if (current == '\n') { }  
+if(currentLine != -1){ if (current == '\n') { }  
+if(lineCounter < 20){ if (current == '\n') { }  
+if(lastChar!=0){ if (current == '\n') { }  
+if(lineCounter == 10){ if (current == '\n') { }  
+if(current != EOF_CHAR){ if (current == '\n') { }  
+if(lastChar > -1){ if (current == '\n') { }  
+if(lineCounter < 1024){ if (current == '\n') { }  
+if(lineCounter >= lineCount){ if (current == '\n') { }  
+if(lineCounter >= lines){ if (current == '\n') { }  
+if(current!=''){ if (current == '\n') { }  
+if(valid){ if (current == '\n') { }  
+if(isEOF){ if (current == '\n') { }  
+if(isClosed){ if (current == '\n') { }  
+if(lineCounter <= 1){ if (current == '\n') { }  
+if(lineCounter < 8){ if (current == '\n') { }  
+if(current > lastChar){ if (current == '\n') { }  
+if(null==current){ if (current == '\n') { }  
+if(lineCounter < 256){ if (current == '\n') { }  
+if(previousChar != -1){ if (current == '\n') { }  
+if(current !=EOF){ if (current == '\n') { }  
+if(LOG){ if (current == '\n') { }  
+if(current != '\r'){ if (current == '\n') { }  
+if(lineCounter >= lineLimit){ if (current == '\n') { }  
+if(lineCounter < max){ if (current == '\n') { }  
+if(lastLine != -1){ if (current == '\n') { }  
+if( lineCounter == 1){ if (current == '\n') { }  
+if(current==-1){ if (current == '\n') { }  
+if(lineCounter == lines){ if (current == '\n') { }  
+if(current == '\r){ if (current == '\n') { }  
+if(lineCounter >= 10){ if (current == '\n') { }  
+if(lastChar == EOF){ if (current == '\n') { }  
+if(lineCounter <= 0){ if (current == '\n') { }  
+if(lastChar){ if (current == '\n') { }  
+if(lineCounter > 3){ if (current == '\n') { }  
+if(hasNext){ if (current == '\n') { }  
+if(current !=  EOF){ if (current == '\n') { }  
+if(lineCounter == 3){ if (current == '\n') { }  
+if(lineCounter < 50){ if (current == '\n') { }  
+if(lineCounter >= maxLineLength){ if (current == '\n') { }  
+if(current >= '\r'){ if (current == '\n') { }  
+if(lastChar==0){ if (current == '\n') { }  
+if(lineCounter >= limit){ if (current == '\n') { }  
+if(lineCounter < 80){ if (current == '\n') { }  
+if(current <0){ if (current == '\n') { }  
+if(current <= -1){ if (current == '\n') { }  
+if(current=='\n){ if (current == '\n') { }  
+if(current != -1 ){ if (current == '\n') { }  
+if(lastChar != lastChar){ if (current == '\n') { }  
+if(current < '\n'){ if (current == '\n') { }  
+if(lineCounter<10){ if (current == '\n') { }  
+if(current !=-1){ if (current == '\n') { }  
+if(lineCounter != lineLimit){ if (current == '\n') { }  
+if(current != current){ if (current == '\n') { }  
+if(currentLine <= 0){ if (current == '\n') { }  
+if(current >= '0'){ if (current == '\n') { }  
+if(lineCounter < LINES){ if (current == '\n') { }  
+if(lineCounter >= 3){ if (current == '\n') { }  
+if(isEndOfFile){ if (current == '\n') { }  
+if(checkEOF){ if (current == '\n') { }  
+if(currentPosition == -1){ if (current == '\n') { }  
+if(trace){ if (current == '\n') { }  
+if( !eof){ if (current == '\n') { }  
+if(closed){ if (current == '\n') { }  
+if(buffer != null){ if (current == '\n') { }  
+if(lineCounter != lastChar){ if (current == '\n') { }  
+if(currentLineCounter == 0){ if (current == '\n') { }  
+if(lineCounter <= maxLineLength){ if (current == '\n') { }  
+if(current!=lastChar){ if (current == '\n') { }  
+if(next == -1){ if (current == '\n') { }  
+if(lastLine == -1){ if (current == '\n') { }  
+if(next != -1){ if (current == '\n') { }  
+if(continuation){ if (current == '\n') { }  
+if(current != 1){ if (current == '\n') { }  
+if(lineCounter >= maxLines){ if (current == '\n') { }  
+if(current== -1){ if (current == '\n') { }  
+if(currentLineCounter > 0){ if (current == '\n') { }  
+if( current != -1 ){ if (current == '\n') { }  
+if(isLineBreak){ if (current == '\n') { }  
+if(current >0){ if (current == '\n') { }  
+if(lastChar<0){ if (current == '\n') { }  
+if(lineCounter != 2){ if (current == '\n') { }  
+if(lineCounter > lineLimit){ if (current == '\n') { }  
+if( lineCounter != 0){ if (current == '\n') { }  
+if(current <= ' '){ if (current == '\n') { }  
+if(current != -2){ if (current == '\n') { }  
+if(lineCounter < 1000){ if (current == '\n') { }  
+if(hasNext){ if (current == '\n') { }  
+if(current!='\r'){ if (current == '\n') { }  
+if( current){ if (current == '\n') { }  
+if(0 == current){ if (current == '\n') { }  
+if(current < ' '){ if (current == '\n') { }  
+if(current != Character.EOF){ if (current == '\n') { }  
+if(current is not -1){ if (current == '\n') { }  
+if(isEmpty){ if (current == '\n') { }  
+if(lineCounter>1){ if (current == '\n') { }  
+if(current <= '\n){ if (current == '\n') { }  
+if(current != eof){ if (current == '\n') { }  
+if(current != null){ if (current == '\n') { }  
+if(lineCounter<3){ if (current == '\n') { }  
+if(lineCounter==1){ if (current == '\n') { }  
+if(current >  0){ if (current == '\n') { }  
+if( null != current){ if (current == '\n') { }  
+if(current=='\n'){ if (current == '\n') { }  
+if(lineCounter == 100){ if (current == '\n') { }  
+if(currentLine){ if (current == '\n') { }  
+if(lineCounter < 16){ if (current == '\n') { }  
+if(lineCounter < 6){ if (current == '\n') { }  
+if(lineCounter <= 10){ if (current == '\n') { }  
+if(lineCounter < numLines){ if (current == '\n') { }  
+if(lineCounter >= maxLine){ if (current == '\n') { }  
+if( !current){ if (current == '\n') { }  
+if(current is not EOF){ if (current == '\n') { }  
+if(firstLine){ if (current == '\n') { }  
+if(open){ if (current == '\n') { }  
+if(current <= '\r'){ if (current == '\n') { }  
+if(lineCounter < lastChar){ if (current == '\n') { }  
+if(current!='\r){ if (current == '\n') { }  
+if( !EOF){ if (current == '\n') { }  
+if(lineCounter > maxLineLength){ if (current == '\n') { }  
+if(lineCounter < count){ if (current == '\n') { }  
+if(current != -1L){ if (current == '\n') { }  
+if(lineCounter == maxLineLength){ if (current == '\n') { }  
+if(lineCounter < MAXLINES){ if (current == '\n') { }  
+if(present){ if (current == '\n') { }  
+if(lineCounter == lastChar){ if (current == '\n') { }  

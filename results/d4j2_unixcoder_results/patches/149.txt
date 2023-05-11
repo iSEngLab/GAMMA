@@ -1,0 +1,500 @@
+ return this.value;  
+ return this;  
+ return this.value == null;  
+ return Boolean.TRUE;  
+ return value;  
+ return result;  
+ return context;  
+ return args.length == 2;  
+ return this.value != null;  
+ return args[0].evaluate;  
+ return value != null;  
+ return context != null;  
+         return this.value;  
+ return context == null;  
+         return value;  
+         return Boolean.TRUE;  
+ return args[0] instanceof Boolean;  
+ return true;  
+ 	return value;  
+ 	return this.value;  
+         return this.value == null;  
+ 	return Boolean.TRUE;  
+ return value == null;  
+ 	return this.value == null;  
+         return result;  
+ return this instanceof Boolean;  
+ return arguments.length == 2;  
+ return _value;  
+         return this.value != null;  
+         return context;  
+ return compute(context) != null;  
+ return args[0].isConstant;  
+ 	return context;  
+ return args[1] instanceof Boolean;  
+ 	return result;  
+ return args[2] != null;  
+ 	return this.value != null;  
+ return context.result;  
+ return this == null;  
+         return value != null;  
+         return this;  
+ return context.isConstant;  
+     return value;  
+ return args[0].value;  
+     return this.value;  
+ return args[2] == null;  
+         return args.length == 2;  
+ 	return value != null;  
+ return context.value;  
+ return isEmpty;  
+ return this.result;  
+ 	return this;  
+ return this.value instanceof Boolean;  
+ 	return args.length == 2;  
+     return Boolean.TRUE;  
+ return this.isConstant;  
+ return null;  
+         return args[0].evaluate;  
+     return this.value == null;  
+ return args[0].evaluateBoolean;  
+ return args[0].computeValue;  
+         return context == null;  
+ 	return context == null;  
+ return args[1].evaluate;  
+         return value == null;  
+ return args[1] != null;  
+ return this.evaluate;  
+ return isTrue;  
+ return this != null;  
+ 	return context != null;  
+ 	return args[0].evaluate;  
+         return context != null;  
+ return this.evaluate(context);  
+;  
+     return result;  
+ return isBoolean;  
+ 	return value == null;  
+         return this.result;  
+ return _value == null;  
+ return condition;  
+ return evaluate(context) != null;  
+ return false;  
+         return args[0].value;  
+ return compute(context) == null;  
+ return args[0].evaluate();  
+ return args[2] instanceof Boolean;  
+     return this.value != null;  
+ return args[1] == null;  
+     return context;  
+         return arguments.length == 2;  
+ return this.equals(context);  
+ return result == null;  
+ return !isEmpty;  
+ return eval;  
+ return arguments[0].evaluate;  
+ 	return args[0].value;  
+ return value instanceof Boolean;  
+ 	return arguments.length == 2;  
+ return args[0] != null;  
+ return this.value.booleanValue();  
+ return args[0].isConstant();  
+     return value != null;  
+ 	return this.result;  
+ return _value != null;  
+ return this.computed;  
+     return this;  
+ return result != null;  
+         return _value;  
+         return this.evaluate;  
+ return context instanceof Boolean;  
+ return args.length > 2;  
+ ;  
+ return args[2].evaluate;  
+         return true;  
+ return context == this;  
+ return this.value() == null;  
+ return args[1].isConstant;  
+ 	return true;  
+ return this._value;  
+     return args.length == 2;  
+ return computed;  
+ return isSuccess;  
+ return args[0] == null;  
+ return isSet;  
+         return isTrue;  
+ 	return this.evaluate;  
+ return !isConstant;  
+ return context.success;  
+ return v;  
+ return context.isLocal;  
+         return context.result;  
+         return this.value instanceof Boolean;  
+ return args[0].evaluateExpression;  
+         return args[0].isConstant;  
+ 	return this.value instanceof Boolean;  
+ 	return isTrue;  
+         return context.isConstant;  
+ return arguments[0] instanceof Boolean;  
+ return getValue(context) != null;  
+     return value == null;  
+ 	return _value;  
+         return this instanceof Boolean;  
+ return context.isArray;  
+     return context == null;  
+ 	return context.isConstant;  
+ return args[0].isBoolean;  
+ 	return this instanceof Boolean;  
+ 	return args[0].isConstant;  
+     return args[0].evaluate;  
+ return;  
+ 	return context.result;  
+         return this.isConstant;  
+         return isBoolean;  
+ return this.value.booleanValue;  
+ return this.result == null;  
+ return context.isComplete;  
+ return this.compute(context);  
+ 	return this.isConstant;  
+ return evaluate(context) == null;  
+ return this.getValue() == null;  
+ return this.booleanValue;  
+ return context.args[0];  
+     return this.result;  
+ return this.value==null;  
+ return context.isComputing;  
+         return result == null;  
+ return args[2] == true;  
+         return context instanceof Boolean;  
+ return this.isBoolean;  
+ 	return context instanceof Boolean;  
+ return getValue(context) == null;  
+ return context.isSuccess;  
+         return _value == null;  
+ return args[0] == Boolean;  
+ };  
+ return null != args[0];  
+         return arguments[0].evaluate;  
+         return args[1].evaluate;  
+     return args[0].value;  
+ return this.value() != null;  
+ return context.isResolved;  
+ return args[2] == 0;  
+ return args[0].evaluateValue;  
+     return arguments.length == 2;  
+ return args[0].getValue();  
+ return context.evalBoolean;  
+ 	return args[1].evaluate;  
+ return this.value == 0;  
+ return compute(args[0]);  
+ return arguments.length > 2;  
+ return args[0].value();  
+ return args[2] == 1;  
+ return args.length == 3;  
+         return context.value;  
+ return args[1].value;  
+ return this.isSuccess;  
+         return this.computed;  
+ 	return arguments[0].evaluate;  
+ return args[0].booleanValue;  
+ return args[1] == Boolean;  
+ return this.computeValue;  
+         return this.result == null;  
+ return !this.value;  
+ return this.value == true;  
+     return this.evaluate;  
+ return this.getValue(context);  
+ return args[0].result;  
+ return evaluate(context) instanceof Boolean;  
+ 	return context.value;  
+ return evaluate(context) == Boolean;  
+ return compute(context) == Boolean;  
+ return this.val == null;  
+         return args[2].evaluate;  
+ 	return this.result == null;  
+ return args[2].isConstant;  
+ return evaluate(context) == true;  
+     return this.value instanceof Boolean;  
+ return Boolean.TRUE != null;  
+ return values[0] == null;  
+   return this.value;  
+ return compute(context) instanceof Boolean;  
+ return context.args[1];  
+ return get(context) != null;  
+ return args[0].evalBoolean;  
+ 	return args[2].evaluate;  
+ return context.isReturnTrue;  
+     return args[0].isConstant;  
+ return args[2] == Boolean;  
+   return this.value == null;  
+ return args[0].constant;  
+ return args[1].isConstant();  
+ return args[1] == true;  
+ return arguments[0].isConstant;  
+ return arguments[0].evaluateBoolean;  
+  	return args[2];  
+ return args[1].evaluate();  
+  	return this.value;  
+ return getValue(context).booleanValue;  
+         return args[1].isConstant;  
+ return arguments[0].evaluate();  
+ return args[0].bool;  
+         return args[0].result;  
+         return args[1].value;  
+ return this.value() == this;  
+ return context.evaluate(this);  
+  	return args[1];  
+ return args[0].booleanValue();  
+ 	return args[1].isConstant;  
+ return getValue(context).booleanValue();  
+ return evaluate(context).value;  
+ ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return Boolean.TRUE; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return false; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ context = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Context ctx = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return Boolean; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object result = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ boolean result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ ...; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ this.context = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ global; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int i; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ boolean result = false; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         context = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return Boolean.FALSE; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ e; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ }; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return false; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ object; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ assert context != null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ ctx = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     context = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+  ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ assert true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int i = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ arguments; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+  ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return _value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int index = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return Boolean; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object result = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ double result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ // return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ check; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object ret; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ // return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int n; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return new Boolean; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	context = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ it; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ E; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+   ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return ctx; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ final Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 1; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return newValue; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object value = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int result = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ run; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ TODO; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+    ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ ctx; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int count = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ assert ctx != null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     assert true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int n = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ variables; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+  ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String s; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ retval; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ boolean result = false; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return results; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return void; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ assert this != null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ // return true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ v; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ ret; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Boolean result = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ boolean result = true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ try; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Context context = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int index; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ scope; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ retVal; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Context ctx; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Context c = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return evaluate; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+        ; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	global; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return data; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ this = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     ++count; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return boolean; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //TODO; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Boolean result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ result = true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ var result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return context.value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String value = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String str; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object ret = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int i=0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return eval; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int idx = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     return true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ double value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this._value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ boolean b; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //    return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ // return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ double x; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+      return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //System.out; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int i = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String result = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ double d; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         assert true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String name; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ args = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         ++count; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ throw new UnsupportedOperationException; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //    return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ context = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int count; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ long result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ args = args; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ this.context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ result = result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ assert null != args; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+   return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object retval; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int len; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+    return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         //; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+      return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //noinspection unchecked; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return context.result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Context ctx = this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.x; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ System.out; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         evaluate = true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return context.context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+       context = context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object retVal = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String str = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object result=null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     return context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int n = 1; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return new Boolean(); return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     boolean result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ String s = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         //return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return context.obj; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int arity = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         result = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.obj; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ checkNotNull(context); return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.val; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     result = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //    return true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object[] args; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ var args = arguments; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         final Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	result = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object val = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return computeValue; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ assert null != context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int n = 2; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     //return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ this.value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ double result = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         //return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int pos = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int[] args; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	args = null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ // return context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return context.object; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.data; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     //return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return context.node; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ final Object value; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //        return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     result = true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object result = this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int i = 1; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //final Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ int size = 0; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         result = true; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //return new Boolean; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //        return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+     final Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ args[0]; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ checkNotNull(context);; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+         evaluateArgs; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ this.result; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //	return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ //	return null; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	//return this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object result = false; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.context; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ return this.v; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ Object value = this; return compute(args[0].computeValue(context), args[1].computeValue(context))    
+ 	final Object result; return compute(args[0].computeValue(context), args[1].computeValue(context))    

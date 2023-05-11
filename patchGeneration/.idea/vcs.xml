@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/defects4j-repair" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/Codec18_buggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/Compress12_buggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/Compress14_buggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/Gson17_buggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/JacksonCore11_buggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/JacksonDatabind35_buggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/Jsoup17_buggy" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+if(axis==null){ throw new IllegalArgumentException(); } return this.domainAxes.indexOf(axis);

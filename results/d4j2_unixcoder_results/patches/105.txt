@@ -1,0 +1,2000 @@
+ return attr.getValue();;  
+ return attr.getValue(); };  
+ return attr.getValue(); ;  
+ return attr.getNamespaceURI();;  
+ uri;  
+ return attr;  
+return attr.getValue();;  
+ return attr.getName();;  
+ return uri;  
+ return attr.getValue();  
+ return attr.getValue();;  
+ };  
+ return attr.getName(); };  
+ URI;  
+ return attr.getLocalName();;  
+ return attr.getNodeValue();;  
+ uri = attr.getValue();;  
+ return attr.getValue(); },;  
+ return attr.getPrefix();;  
+ return attr.getValue;  
+ return attr.getKey();;  
+ //return attr.getValue();;  
+ return attr.getValue(); };  
+ return null;  
+ return attr.getNamespaceURI();  
+ return attr.getName(); ;  
+ return attr.getNamespaceURI;  
+ return attr.getNodeName();;  
+ return attr.getURI();;  
+ return attr.getValue().trim();;  
+ return attr.getNamespaceURI(); ;  
+ return attr.getKey(); };  
+ uri = attr.getNamespaceURI();;  
+ return uri;;  
+ return attr.getLocalName();  
+return attr;  
+ null;  
+ String uri = attr.getValue();;  
+ return attr.getName();  
+ return attr.getKey(); ;  
+ //return attr.getValue(); ;  
+uri = attr.getValue();;  
+ namespace;  
+ ;  
+ return attr.getNodeValue(); ;  
+ return attribute.getValue();;  
+ return attr.getNamespace();;  
+ node;  
+ URI uri = attr.getValue();;  
+ return "";  
+ Uri;  
+ return attr.getLocalName(); ;  
+ return attr.getLocalName;  
+ uri = null;  
+ URI uri;  
+return attr.getValue(); ;  
+ returns null;  
+ uri;  
+return attr.getValue(); };  
+  };  
+ return attr.getValue().toString();;  
+return attr.getValue();  
+ return attr.getPrefix(); ;  
+ //$NON-NLS-1$;  
+ return uri; };  
+ return attr.getAttribute(qname);;  
+ return attr.getValue();  
+ String uri;  
+ return attr.getPrefix(); };  
+ // return attr.getValue();;  
+return uri;  
+  return attr.getValue();;  
+ return attr.getNodeName();  
+ return attr.getKey();  
+ return attr.getPrefix;  
+  return attr.getValue();;  
+ return attr.getString();;  
+ return attr.getXSLName();;  
+ element;  
+return attr.getNamespaceURI();;  
+ prefix;  
+return attr.getValue;  
+;  
+uri;  
+ return attr.getValue().toUpperCase();;  
+ qname;  
+ return attr;  
+ uri;;  
+ return attr.getValue().toLowerCase();;  
+ --;  
+ return attr.getAttribute("uri");;  
+ return attr.getNodeName(); ;  
+ namespaceURI;  
+ ...;  
+ path;  
+ namespace uri;  
+ return attr.getType();;  
+ return attr.getValue();  };  
+ return attr.getValue();;  
+ return "";;  
+ return attr.getValue(); };;  
+ @param node @return;  
+ return attribute;  
+ ++;  
+ return attr.getNamespaceURI();;  
+ return attr.getValue;;  
+ return prefix;  
+ URI uri;;  
+ return qname;  
+ URI uri = null;  
+ return attr.getXPath();;  
+ return attr.getValue().intern();;  
+ 	return attr.getValue();;  
+ return attr.getValue(); });  
+ //TODO;  
+ continue;  
+ URI namespace;  
+ return attr.getID();;  
+return attr.getName();;  
+ //return attr;  
+ return attr.getURI(); ;  
+ String uri = null;  
+ return attr.getString(); };  
+ TODO;  
+ xmlns;  
+ return attr;;  
+ return attr.getName();;  
+ namespaceURI;  
+ return attribute.getValue(); };  
+ return attr.getAttribute();;  
+ return attr.getUri();;  
+	return attr.getValue();;  
+ //return attr.getName();;  
+ else;  
+ return attr.getNodeValue();  
+ return attr.getName(); },;  
+ String uri;;  
+ return attr.getValue();  ;  
+ return attr.getValue(); //;  
+ return node.getNamespaceURI();;  
+ return attr.getKey;  
+ return attr.getName;  
+ return attr.getAttribute().getValue();;  
+ return attr.getLocalPart();;  
+ return attr.getNamespaceURI() ;  
+ //return attr.getNamespaceURI();;  
+ //return uri;  
+ return (String) attr;  
+  @param node @return;  
+ name;  
+ return attr.getPrefix();  
+ URI attr;  
+ node.getNamespaceURI();;  
+return attr.getNodeValue();;  
+ //return attr.getValue();;  
+ node = node.getParentNode();;  
+ return attr.getNamespaceURI(); };  
+ /*package;  
+  return uri;  
+ //return attr.getValue();  
+ return xpath;  
+ return attr.getRawValue();;  
+ node.getParentNode();;  
+ return attr.getNamespace(); };  
+ namespace URI;  
+ return attr.getValue() ;  
+ return attr.getXSLToken();;  
+ URI attr = attr.getValue();;  
+ return attr.getQName();;  
+ return attr.getKey().getValue();;  
+ return attr.getPrefix().getValue();;  
+ uri = attr.getNodeValue();;  
+ return attrs.getValue();;  
+ uri = attr.getValue();  
+ return attr ;  
+ return attr.getAttribute("xmlns");;  
+ endElement;  
+ return attr.getPrefix() + uri;  
+ uri = attr.getName();;  
+ URI value;  
+ return uri; ;  
+ nodeName;  
+ return attr.getValue(); });;  
+ URI attribute;  
+ //return attr.getValue();;  
+ return attr.getValue();  ;  
+ attr.getValue();;  
+ return attr.getURI();  
+ uri = null; return uri;  
+ return attr.getValue;  
+ @return;  
+ return attr.getPrefixedURI();;  
+ return attr.getNameSpaceURI();;  
+ return xml;  
+ ns;  
+ return uri;  
+ return attr.getId();;  
+ return attr.getValue();  ;  
+ return attr.getPath();;  
+ return attr.getNamespaceURI();  
+uri = attr.getNamespaceURI();;  
+ return attr.getAttributeNS;  
+ return attr.getValue(node);;  
+ param node;  
+ element.getNamespaceURI();;  
+ return attr.getName(); };  
+return attr.getNamespaceURI();  
+ value;  
+ or;  
+ return attr.getValue();};  
+ localName;  
+ return attr.getAttributeValue();;  
+ URI prefix;  
+ return attr.getText();;  
+ return attr.getValue(); };  
+ return attr.toString();;  
+ $NON-NLS-1$;  
+ return attr.getID(); };  
+ return attr.getUri(); };  
+ string uri;  
+   return attr.getValue();;  
+ 	return attr.getValue(); ;  
+ uri = attr.getValue();;  
+ return attr.getAttribute("prefix");;  
+ return attr.getNameSpace();;  
+ {;  
+ uri = attr;  
+ // return attr.getValue();;  
+ return attr; };  
+ {@inheritDoc};  
+ @param node;  
+return attr.getLocalName();;  
+ Return uri;  
+ return attr.getNodeName;  
+ return value;  
+ return element.getNamespaceURI();;  
+ namespace prefix;  
+  @return;  
+ return URI;  
+return attr.getNamespaceURI;  
+ uri = attr.getNamespaceURI();  
+ return attr.getValue();   ;  
+ return attr.getString(); ;  
+  return null;  
+ ..;  
+ return;  
+ return attr != null;  
+AST#return_statement#Leftreturn attr.getValue();;  
+ return getAttributeNS;  
+URI uri;  
+ return uri; return attr.getValue();  
+ //return uri; return attr.getValue();  
+ return null; return attr.getValue();  
+ ; return attr.getValue();  
+; return attr.getValue();  
+ //return uri; return attr.getValue();  
+ //TODO; return attr.getValue();  
+ uri = null; return attr.getValue();  
+ String uri = null; return attr.getValue();  
+ uri; return attr.getValue();  
+ // TODO; return attr.getValue();  
+ // return uri; return attr.getValue();  
+ URI; return attr.getValue();  
+ uri; return attr.getValue();  
+ ; return attr.getValue();  
+ //TODO; return attr.getValue();  
+ //return null; return attr.getValue();  
+ namespace; return attr.getValue();  
+ String uri; return attr.getValue();  
+ URI uri = null; return attr.getValue();  
+ return prefix; return attr.getValue();  
+ }; return attr.getValue();  
+ prefix; return attr.getValue();  
+ // return uri; return attr.getValue();  
+ --; return attr.getValue();  
+ element; return attr.getValue();  
+ // do nothing; return attr.getValue();  
+ //; return attr.getValue();  
+//return uri; return attr.getValue();  
+ // return null; return attr.getValue();  
+ return uri; return attr.getValue();  
+ // FIXME; return attr.getValue();  
+ //return null; return attr.getValue();  
+ //; return attr.getValue();  
+ ++; return attr.getValue();  
+ URI uri; return attr.getValue();  
+ namespace uri; return attr.getValue();  
+ // element; return attr.getValue();  
+ // ok; return attr.getValue();  
+ // NOSONAR; return attr.getValue();  
+ null; return attr.getValue();  
+ //return prefix; return attr.getValue();  
+ TODO; return attr.getValue();  
+ Uri; return attr.getValue();  
+ return ""; return attr.getValue();  
+ node; return attr.getValue();  
+ String uri; return attr.getValue();  
+ // NOPMD; return attr.getValue();  
+ //noinspection ConstantConditions; return attr.getValue();  
+ --; return attr.getValue();  
+ /*package; return attr.getValue();  
+ // attribute; return attr.getValue();  
+ // found; return attr.getValue();  
+ //NOSONAR; return attr.getValue();  
+ //package; return attr.getValue();  
+ // uri; return attr.getValue();  
+ //continue; return attr.getValue();  
+ // prefix; return attr.getValue();  
+// return uri; return attr.getValue();  
+ null; return attr.getValue();  
+ // URI; return attr.getValue();  
+ return namespace; return attr.getValue();  
+ // return null; return attr.getValue();  
+ internal; return attr.getValue();  
+ //do nothing; return attr.getValue();  
+ //NS; return attr.getValue();  
+ //return uri; return attr.getValue();  
+   return uri; return attr.getValue();  
+ qname; return attr.getValue();  
+ xmlns; return attr.getValue();  
+ // continue; return attr.getValue();  
+ element; return attr.getValue();  
+ @param node; return attr.getValue();  
+ ...; return attr.getValue();  
+ //noinspection unchecked; return attr.getValue();  
+ //uri; return attr.getValue();  
+ namespace prefix; return attr.getValue();  
+  //return uri; return attr.getValue();  
+ //URI; return attr.getValue();  
+ try; return attr.getValue();  
+ // TODO; return attr.getValue();  
+ return attr; return attr.getValue();  
+ namespaceURI; return attr.getValue();  
+ QName; return attr.getValue();  
+ // ignored; return attr.getValue();  
+ ns; return attr.getValue();  
+ // }; return attr.getValue();  
+ // Do nothing; return attr.getValue();  
+ //FIXME; return attr.getValue();  
+ //...; return attr.getValue();  
+ //return attr; return attr.getValue();  
+ // namespace; return attr.getValue();  
+ // ...; return attr.getValue();  
+ NS; return attr.getValue();  
+ /*package; return attr.getValue();  
+ path; return attr.getValue();  
+ //import; return attr.getValue();  
+ uri = prefix; return attr.getValue();  
+ //prefix; return attr.getValue();  
+ global; return attr.getValue();  
+ return qname; return attr.getValue();  
+ namespace URI; return attr.getValue();  
+ // node; return attr.getValue();  
+ //ns; return attr.getValue();  
+uri; return attr.getValue();  
+ //element; return attr.getValue();  
+ // return attr; return attr.getValue();  
+ namespace; return attr.getValue();  
+ //return attr; return attr.getValue();  
+ //IGNORE; return attr.getValue();  
+ //prefix; return attr.getValue();  
+ @return; return attr.getValue();  
+ prefix; return attr.getValue();  
+ //package; return attr.getValue();  
+ //node; return attr.getValue();  
+ Internal; return attr.getValue();  
+ // shortcut; return attr.getValue();  
+ uri = uri; return attr.getValue();  
+ // todo; return attr.getValue();  
+ //found; return attr.getValue();  
+//; return attr.getValue();  
+ ++i; return attr.getValue();  
+ //return namespace; return attr.getValue();  
+ //todo; return attr.getValue();  
+ URI namespace; return attr.getValue();  
+ //return prefix; return attr.getValue();  
+ // XXX; return attr.getValue();  
+ // Yes; return attr.getValue();  
+ else; return attr.getValue();  
+ // attributes; return attr.getValue();  
+ // done; return attr.getValue();  
+ //recursion; return attr.getValue();  
+ uri =; return attr.getValue();  
+ tag; return attr.getValue();  
+ string uri; return attr.getValue();  
+ // ns; return attr.getValue();  
+ namespaceURI; return attr.getValue();  
+ //xmlns; return attr.getValue();  
+ // returns null; return attr.getValue();  
+ ///; return attr.getValue();  
+ // NS; return attr.getValue();  
+ import; return attr.getValue();  
+ // return prefix; return attr.getValue();  
+ return attr; return attr.getValue();  
+ internal method; return attr.getValue();  
+ //non-Javadoc; return attr.getValue();  
+ // do something; return attr.getValue();  
+ //element; return attr.getValue();  
+String uri; return attr.getValue();  
+ String uri = null; return attr.getValue();  
+ // override; return attr.getValue();  
+ // return namespace; return attr.getValue();  
+ // NOP; return attr.getValue();  
+ internal use only; return attr.getValue();  
+ import String; return attr.getValue();  
+ Node node = node; return attr.getValue();  
+ returns null; return attr.getValue();  
+ return namespaceURI; return attr.getValue();  
+ // CHECKSTYLE:OFF; return attr.getValue();  
+ return prefix + uri; return attr.getValue();  
+ uri = attr; return attr.getValue();  
+ //return; return attr.getValue();  
+ uri = attr; return attr.getValue();  
+ //	return uri; return attr.getValue();  
+  // return uri; return attr.getValue();  
+ // attribute value; return attr.getValue();  
+ //no-op; return attr.getValue();  
+ //return namespace; return attr.getValue();  
+ // N.B; return attr.getValue();  
+ URI prefix; return attr.getValue();  
+ //@Override; return attr.getValue();  
+ prefix = null; return attr.getValue();  
+  //TODO; return attr.getValue();  
+ import Element; return attr.getValue();  
+ //do something; return attr.getValue();  
+ local name; return attr.getValue();  
+ URI attr; return attr.getValue();  
+  // TODO; return attr.getValue();  
+ URI attr = attr; return attr.getValue();  
+ //namespace; return attr.getValue();  
+ //TODO doc; return attr.getValue();  
+ @return uri; return attr.getValue();  
+ //return qname; return attr.getValue();  
+ getNamespaceURI; return attr.getValue();  
+  @param node; return attr.getValue();  
+ //return namespaceURI; return attr.getValue();  
+ String uri;; return attr.getValue();  
+ //TODO remove; return attr.getValue();  
+ //@Override; return attr.getValue();  
+ string uri = null; return attr.getValue();  
+ import static; return attr.getValue();  
+ String uri = uri; return attr.getValue();  
+ return attr.getValue();; return attr.getValue();  
+ // return prefix; return attr.getValue();  
+ //return ""; return attr.getValue();  
+ uri = ""; return attr.getValue();  
+ N.B; return attr.getValue();  
+ Element node = node; return attr.getValue();  
+String uri = null; return attr.getValue();  
+ /*package; return attr.getValue();  
+ uri = "";; return attr.getValue();  
+ URI uri = uri; return attr.getValue();  
+ Element element = null; return attr.getValue();  
+ // FIXME; return attr.getValue();  
+ // //; return attr.getValue();  
+ // //return uri; return attr.getValue();  
+ uri = namespace; return attr.getValue();  
+ // prefix; return attr.getValue();  
+ node = attr; return attr.getValue();  
+ return element; return attr.getValue();  
+  @return; return attr.getValue();  
+ String uri =; return attr.getValue();  
+ return attr.getNamespaceURI; return attr.getValue();  
+ URI uri;; return attr.getValue();  
+ Element element = node; return attr.getValue();  
+ try {; return attr.getValue();  
+ Document doc = null; return attr.getValue();  
+ return node; return attr.getValue();  
+ return attr.getValue(); return attr.getValue();  
+ //TODO: test; return attr.getValue();  
+ //    return uri; return attr.getValue();  
+ Element node; return attr.getValue();  
+ // return namespace uri; return attr.getValue();  
+ final String uri; return attr.getValue();  
+ //noinspection unchecked; return attr.getValue();  
+ Namespace uri = null; return attr.getValue();  
+ Element attr = attr; return attr.getValue();  
+ //TODO remove; return attr.getValue();  
+ //  return uri; return attr.getValue();  
+ //TODO: remove; return attr.getValue();  
+ //TODO:; return attr.getValue();  
+ uri = node; return attr.getValue();  
+ //TODO; return attr.getValue();  
+ // Do not use; return attr.getValue();  
+ String uri = "";; return attr.getValue();  
+ String uri = attr; return attr.getValue();  
+ Element attr = node; return attr.getValue();  
+ URI uri =; return attr.getValue();  
+  //return null; return attr.getValue();  
+ return attr.getName(); return attr.getValue();  
+ Element node = null; return attr.getValue();  
+ // return attr; return attr.getValue();  
+ //import String; return attr.getValue();  
+ // //return null; return attr.getValue();  
+ // TODO: test; return attr.getValue();  
+ // Return null; return attr.getValue();  
+ //TODO: refactor; return attr.getValue();  
+ uri = element; return attr.getValue();  
+ Element attr = null; return attr.getValue();  
+ // return namespace; return attr.getValue();  
+return  attr.getValue();;  
+return attr.getValue();;  
+return  uri;  
+return  attr.getValue();  
+return attr;  
+return  attr;  
+return uri;  
+return  attr.getNamespaceURI();;  
+return  attr.getNamespaceURI();  
+return  attr.getValue;  
+return attr.getValue();  
+return  attr.getName();;  
+return attr.getNamespaceURI();;  
+return  attr.getKey();;  
+return  attr.getNamespaceURI;  
+return attr.getName();;  
+return attr.getNamespaceURI();  
+return  attr.getValue(); ;  
+return attr.getValue;  
+return  attr.getNodeValue();;  
+return attr.getNamespaceURI;  
+return  qname;  
+return  attr.getLocalName();  
+return attr.getKey();;  
+return  attr.getNodeName();  
+return attr.getValue(); ;  
+return qname;  
+return  attr.getName();  
+return  attr.getPrefix();;  
+return attr.getNodeValue();;  
+return  attr.getLocalName();;  
+return  attr.getKey();  
+return  attr.getNodeName();;  
+return  uri;;  
+return  attr.getURI();;  
+return attr.getNodeName();;  
+return  attr.getNodeValue();  
+return attr.getLocalName();;  
+return attr.getLocalName();  
+return attr.getPrefix();;  
+return  attr.getLocalName;  
+return  attr.getKey;  
+return  null;  
+return attr.getNodeName();  
+return  attr.getURI();  
+return attr.getURI();;  
+return attr.getKey();  
+return  attr.getAttributeNS;  
+return attr.getName();  
+return  attr.getPrefix;  
+return  attr.getValue(); };  
+return  attr.getValue();};  
+return  attr.getName;  
+return  attribute value;  
+return  "";  
+return attr.getKey;  
+return  attr.getNodeName;  
+return  attr.getPrefix();  
+return attr.getNodeValue();  
+return  attribute;  
+return  attr.getXPath();  
+return attr.getLocalName;  
+return  attr.getNamespace();;  
+return null;  
+return  xpath;  
+return URI;  
+return  attr.getString();;  
+return  attr.getUri();;  
+return attr.getAttributeNS;  
+return "";  
+return  prefix;  
+return attr;;  
+return attr.getPrefix;  
+return  attr.getValue;;  
+return attr.getName;  
+return attr.getValue();};  
+return  (String) attr;  
+return  attribute uri;  
+return  attr.getURI;  
+return attr.getURI();  
+return attr.getValue(); };  
+return  attrName;  
+return  attr.getValue().intern;  
+return  attr.getID();;  
+return attr.getNodeName;  
+return xmlns;  
+return uri;;  
+return  attr.getKeyName();  
+return   attr.getValue();;  
+return   uri;  
+return attr.getNamespace();;  
+return  URI;  
+return (String) attr;  
+return  attrname;  
+return  "";;  
+return  attr.getValue() ;  
+return  attr.getPath();;  
+return attr.getPrefix();  
+return  attr;;  
+return  attr.getName(); ;  
+return  attr.getAttribute();;  
+return String uri;  
+return  attr.getType();  
+return node;  
+return  attr.getId();;  
+return  attr.getQName();;  
+return attr.getString();;  
+return  node.getNamespaceURI();  
+return xpath;  
+return  attr.getNodeValue;  
+return  attr.getType();;  
+return  attr.getLocalPart();;  
+return namespaceURI;  
+return attr.getUri();;  
+return  attr.getXPath();;  
+return  attr ;  
+return  node;  
+return attr.getValue;;  
+return attr.getXPath();  
+return  attr.getXpath();  
+return attr.getAttribute();;  
+return  attr.getText();;  
+return  attr.getNameSpace();;  
+return  namespace;  
+return  String uri;  
+return  true;  
+return  attr.getRawValue();;  
+return attr.$;  
+return attr.getType();;  
+return  namespaceURI;  
+return  elem;  
+return xml;  
+return  attr.getKeyName();;  
+return prefix;  
+return  attr.getValue() ;;  
+return  attr.getKey(); ;  
+return  attr.toString();;  
+return  localName;  
+return attr.getID();;  
+return attr.getName(); ;  
+return  attr.getV();;  
+return  attr.getAttribute;  
+return  attr.getData();;  
+return attr ;  
+return  attr.getAttributeValue();;  
+return  value;  
+return attr.getNameSpace();;  
+return  qualifiedName;  
+return attr.getPath();;  
+return    uri;  
+return  attr.getValue().;  
+return  attr.getUri();  
+return  qname;;  
+return  QName;  
+return attr.getURI;  
+return attr.getValue() ;  
+return val;  
+return attr.getId();;  
+return  attr<mask5> uri;  
+return  attr.getLocalPart();  
+return  };  
+return  xml;  
+return  uri.;  
+return  uri || null;  
+return attr.getKeyName();  
+return  attr.getNode();;  
+return attr.getKeyName();;  
+return  attr.getXSL();  
+return attribute;  
+return attr.getValue().intern;  
+return  attribute namespace;  
+return  attr.$;  
+return Uri;  
+return  attr.getNodePath();;  
+return  node.getNamespaceURI;  
+return attr.toString();;  
+return  attr.getNamespaceUri();;  
+return qn;  
+return  attr.getQName();  
+return attr's value;  
+return  attr.getAttributeName();  
+return  attr.getNameSpace();  
+return  uri ;  
+return ;  
+return attr != null;  
+return  attr.getTarget();;  
+return  attr.getXSLName;  
+return  attr's value;  
+return  name;  
+return  attrs;  
+return prop;  
+return attr.getLocalPart();;  
+return  attr.value;  
+return  attr->value;  
+return  val;  
+return  url;  
+return url;  
+return attr.getAttribute;  
+return  xmlns;  
+return localName;  
+return  attribute URI;  
+return ns;  
+return   attr;  
+return  getAttributeNS;  
+return  string;  
+return  ns;  
+return  uri;  
+return  prop;  
+return value;  
+return  arg;  
+return attr->value;  
+return attrib;  
+return     uri;  
+return attribute value;  
+return elem;  
+return  attr != null;  
+return  namespace uri;  
+return attrs;  
+return name;  
+return  attr.getNamespace;  
+return ;;  
+return 	uri;  
+return  ;  
+return  attribute name;  
+return  ":";  
+return true;  
+return  uriString;  
+return  att;  
+return  "/";  
+return attrValue;  
+return string;  
+return element;  
+return  "&";  
+return  uri uri;  
+return attrname;  
+return  attributeNS;  
+return  "#";  
+return  element;  
+return  URI;  
+return attrNS;  
+return  elemName;  
+return Attr attr;  
+return ATTR;  
+return attr value;  
+return .;  
+return  nodeName;  
+return  html;  
+return QName;  
+return Attr;  
+return !!;  
+return attr.getValue();  
+return attr.getNamespaceURI();  
+return attr.getNodeValue();  
+return attr.getLocalName();  
+return attr.getNodeName();  
+return attr.getName();  
+return attr.getValue();();  
+return attr.getPrefix();  
+return attr.getAttribute();  
+return attr.getURI();  
+return attr.getNamespace();  
+return attr.getKey();  
+return attr.getValue().trim();  
+return attr.getString();  
+return attr.getLocalPart();  
+return attr.getAttributeNS();  
+return attr.getTextContent();  
+return attr.getText();  
+return attr.toString();  
+return attr.getData();  
+return attr.getLocalNamespace();  
+return attr.getLocalPrefix();  
+return attr.getNamespaceUri();  
+return attr.getValue()();  
+return attr.getNodePath();  
+return attr.getNodePrefix();  
+return attr.getXPath();  
+return attr.getValue().toUpperCase();  
+return attr.getLocalNamespaceURI();  
+return attr.getNodeValue();();  
+return attr.getStringValue();  
+return attr.getValue().toLowerCase();  
+return attr.getValue<mask5>getValue();  
+return attr.getValue().toString();  
+return attr.getValue().intern();  
+return attr.getType();  
+return attr.value();  
+return attr.getNamespaceURI();();  
+return attr.getNodeType();  
+return attr.getOwnerNamespace();  
+return attr.getXSLName();  
+return attr.getAttributeNodeNS();  
+return attr.getPrefixedURI();  
+return attr.getXpath();  
+return attr.getAttributeValue();  
+return attr.getUri();  
+return attr.getID();  
+return attr.getDefaultValue();  
+return attr.getValueURI();  
+return attr.getXSLToken();  
+return attr.getRawValue();  
+return attr.getURL();  
+return attr.getValueAsString();  
+return attr.getNodeText();  
+return attr.getAttributeNode();  
+return attr.getNamespacePrefix();  
+return attr.getValueString();  
+return attr.getValue(); ();  
+return attr.lookup();  
+return attr.getValue2();  
+return attr. getValue();  
+return attr.getDefaultNamespaceURI();  
+return attr.getPrefix()();  
+return attr.lookupNamespace();  
+return attr.getNamespaceURI()();  
+return attr.getNodeData();  
+return attr.getLocal();  
+return attr.stringValue();  
+return attr.getData();();  
+return attr.getValues();  
+return attr.getNodeValue()();  
+return attr.getXPath()();  
+return attr.getAttrValue();  
+return attr.getPrefix();();  
+return attr.getPath();  
+return attr.getKeyValue();  
+return attr.prefix();  
+return attr.getXSLNAMESPACE();  
+return attr.getScheme();  
+return attr.getLocalURI();  
+return attr.getLocation();  
+return attr.toURI();  
+return attr.getAttrName();  
+return attr.getOwnerDocument();  
+return attr.getAttrNS();  
+return attr.getNodeDomain();  
+return attr.getAttributeURI();  
+return attr.getText();();  
+return attr.getTextValue();  
+return attr.getString();();  
+return attr.getContent();  
+return attr.getOwnerDocumentURI();  
+return attr.getSymbol();  
+return attr.getInstance();  
+return attr.getPrefixedName();  
+return attr.getNameSpace();  
+return attr.getNodeNamespaceURI();  
+return attr.getXSI();  
+return attr.getXSLNamespace();  
+return attr.getDefaultPrefix();  
+return attr.getIndex();  
+return attr.getDataURI();  
+return attr.getAttributeValue();  
+return attr.getKeyName();  
+return attr.getAttributeNamespace();  
+return attr.getAttributePrefix();  
+return attr.getXPathPrefix();  
+return attr.getNodeNamespace();  
+return attr.getXPathString();  
+return attr.getPrefixed();  
+return attr.getRawNamespaceURI();  
+return attr.getRawName();  
+return attr.getValueAsURI();  
+return attr.lookupNamespaceURI();  
+return attr.getFirstValue();  
+return attr.getNameValue();  
+return attr.getXSLNS();  
+return attr.nodeValue();  
+return attr.getXAttributeName();  
+return attr.getId();  
+return attr.getAttributeName();  
+return attr.getNamespaceValue();  
+return attr.getUniquePrefix();  
+return attr.asString();  
+return attr.getPrefix().getValue();  
+return attr.getValueIntern();  
+return attr.getXSLPrefix();  
+return attr.getValueText();  
+return attr.getXPathValue();  
+return attr.toString();();  
+return attr.getTarget();  
+return attr.getNameSpaceURI();  
+return attr.getXSLString();  
+return attr.getUserValue();  
+return attr.getString()();  
+return attr.getValue();}();  
+return attr.getNamespaceID();  
+return attr.getValueOrNull();  
+return attr.getXsdName();  
+return attr.lookupName();  
+return attr.getValueNS();  
+return attr.getTargetNamespace();  
+return attr.getLocalname();  
+return attr.setValue();  
+return attr.getXSIValue();  
+return attr.getXSD();  
+return attr.getUserNamespace();  
+return attr.Value();  
+return attr.lookupURI();  
+return attr.getValueAsXML();  
+return attr.getNamespace();();  
+return attr.getValueValue();  
+return attr.getNamespace URI();  
+return attr.getXSIName();  
+return attr.getToken();  
+return attr.getNamespaceURL();  
+return attr.getProperty();  
+return attr.getLocalPrefix()();  
+return attr.getValue1();  
+return attr.getXSLValue();  
+return attr.getElementValue();  
+return attr.getValue().getValue();  
+return attr.getPropertyValue();  
+return attr.getLabel();  
+return attr.getValue(); }();  
+return attr.getXURI();  
+return attr.getXSL()();  
+return attr.getXSL();  
+return attr.getQualifiedName();  
+return attr.getSpaceURI();  
+return attr.clone();  
+return attr.normalize();  
+return attr.getValueEscaped();  
+return attr.getNodeLocalName();  
+return attr.lookupPrefix();  
+return attr.getValueXML();  
+return attr.getXPATH();  
+return attr.getXSIPrefix();  
+return attr.getVName();  
+return attr.getNodeString();  
+return attr.getValuePrefix();  
+return attr.getAttributeLocalName();  
+return attr.getNodePrefix()();  
+return attr.getVNamespaceURI();  
+return attr.getValueX();  
+return attr.getNamespaceString();  
+return attr.getDefaultNamespace();  
+return attr.getTokenValue();  
+return attr.getValue.();  
+return attr.getNode().getValue();  
+return attr.getClassName();  
+return attr.getXSDName();  
+return attr.getRawURI();  
+return attr.getValueForPrefix();  
+return attr.getVfsURI();  
+return attr.getXsdString();  
+return attr.getValueEx();  
+return attr.isDefined();  
+return attr.getAttrURI();  
+return attr.getNode();  
+return attr.name();  
+return attr.getAbsolutePath();  
+return attr.getVSI();  
+return attr.getNodeId();  
+return attr.getXpathValue();  
+return attr.getXPathAttributeName();  
+return attr.getXsdValue();  
+return attr.getName();();  
+return attr.getNamespace()();  
+return attr.getQName();  
+return attr.getSimpleName();  
+return attr.getPrefix();  
+return attr.attributeValue();  
+return attr.getSchemaURI();  
+return attr.getOwnerName();  
+return attr.getValueStr();  
+return attr.getAttributeNamespaceURI();  
+return attr.getXSLText();  
+return attr.getPrefixValue();  
+return attr.getNodeLocation();  
+return attr.getText().trim();  
+return attr.getConstantValue();  
+return attr.getNodeNS();  
+return attr.getInstanceValue();  
+return attr.getPrefixedUri();  
+return attr.getXSIURI();  
+return attr.getNamespaceURI();  
+return attr.getUserNS();  
+return attr.getValueExact();  
+return attr.getXPathAttribute();  
+return attr.getNode();();  
+return attr.getLocalID();  
+return attr.toNamespaceURI();  
+return attr.getLocalSpace();  
+return attr.getValueType();  
+return attr.getValueOrDefault();  
+return attr.getAttrNamespace();  
+return attr.getLocalId();  
+return attr.getNodeURI();  
+return attr.getRaw();  
+return attr.getPrefixURI();  
+return attr.getVPrefix();  
+return attr.getValueAttribute();  
+return attr.getValue().stringValue();  
+return attr.getValueUtf8();  
+return attr.getXsdURI();  
+return attr.getPrefixedPrefix();  
+return attr.getValue().asString();  
+return attr.getStringValue();();  
+return attr.getXPathContext();  
+return  attr.getValue();  
+return attr.getValue();  
+return  attribute.getValue();  
+return  (String) attr.getValue();  
+return  uri.getValue();  
+return   attr.getValue();  
+return  attr.getValue();  
+return  node.getValue();  
+return  attr<mask5> attr.getValue();  
+return  prop.getValue();  
+return  attr .getValue();  
+return    attr.getValue();  
+return  uri + attr.getValue();  
+return  uri = attr.getValue();  
+return (String) attr.getValue();  
+return  xpath.getValue();  
+return  (String)attr.getValue();  
+return  attribute attr.getValue();  
+return  attrName.getValue();  
+return  elem.getValue();  
+return     attr.getValue();  
+return  uri;.getValue();  
+return  att.getValue();  
+return  qname.getValue();  
+return  attrs.getValue();  
+return  aNode.getValue();  
+return  this.getValue();  
+return  attr.getName();.getValue();  
+return  attr && attr.getValue();  
+return  attrib.getValue();  
+return  attrname.getValue();  
+return  !attr.getValue();  
+return  return attr.getValue();  
+return  element.getValue();  
+return  arg.getValue();  
+return Attr.getValue();  
+return  ((Element) attr.getValue();  
+return  return attr.getValue();  
+return  val.getValue();  
+return  attr = attr.getValue();  
+return  xml.getValue();  
+return  url.getValue();  
+return  name.getValue();  
+return  "" + attr.getValue();  
+return  attr .getValue();  
+return  attr attr.getValue();  
+return 	attr.getValue();  
+return            attr.getValue();  
+return  null;.getValue();  
+return (String)attr.getValue();  
+return  expr.getValue();  
+return  !!attr.getValue();  
+return  value.getValue();  
+return  attr;.getValue();  
+return  attr.getValue();.getValue();  
+return  attr.getName().getValue();  
+return  prefix + attr.getValue();  
+return  tag.getValue();  
+return  html.getValue();  
+return  _attr.getValue();  
+return  attributes.getValue();  
+return  "";.getValue();  
+return .getValue();  
+return  func.getValue();  
+return  true;.getValue();  
+return  this attr.getValue();  
+return  !! attr.getValue();  
+return  xattr.getValue();  
+return  info.getValue();  
+return  Attr.getValue();  
+return  helper.getValue();  
+return  getAttributeNS.getValue();  
+return  attribs.getValue();  
+return  id.getValue();  
+return  the attr.getValue();  
+return AST#method_invocation#Leftattr.getValue();  
+return  prefix.getValue();  
+return  ((Attr) attr.getValue();  
+return  (attr.getValue();  
+return  //return attr.getValue();  
+return  null; }.getValue();  
+return  uri+attr.getValue();  
+return  this.attr.getValue();  
+return  text.getValue();  
+return  //return attr.getValue();  
+return  char.getValue();  
+return  "".getValue();  
+return  * attr.getValue();  
+return  key.getValue();  
+return  param.getValue();  
+return  attr return attr.getValue();  
+return  attribute value.getValue();  
+return Attr attr.getValue();  
+return  ":" + attr.getValue();  
+return        attr.getValue();  
+return  = attr.getValue();  
+return  path.getValue();  
+return  orig.getValue();  
+return  item.getValue();  
+return  uri += attr.getValue();  
+return  uri; }.getValue();  
+return  null; }.getValue();  
+return  ""+attr.getValue();  
+return  entry.getValue();  
+return  uri of attr.getValue();  
+return  string attr.getValue();  
+return  elemName.getValue();  
+return  data.getValue();  
+return  null if attr.getValue();  
+return  (String)(attr.getValue();  
+return  el.getValue();  
+return  attribute uri.getValue();  
+return  attr.getPrefix();.getValue();  
+return  alias.getValue();  
+return  getAttribute.getValue();  
+return  str.getValue();  
+return             attr.getValue();  
+return  type.getValue();  
+return ;.getValue();  
+return  utils.getValue();  
+return  elemnt.getValue();  
+return  attr, attr.getValue();  
+return  queue.getValue();  
+return  node.getValue();  
+return  flag.getValue();  
+return  handler.getValue();  
+return  uri && attr.getValue();  
+return !attr.getValue();  
+return  action.getValue();  
+return      attr.getValue();  
+return  uri=attr.getValue();  
+return  uri || attr.getValue();  
+return  (URI) attr.getValue();  
+return  annoying.getValue();  
+return  null.getValue();  
+return  attr; }.getValue();  
+return  config.getValue();  
+return  int attr.getValue();  
+return  attr and attr.getValue();  
+return  ! attr.getValue();  
+return  acl.getValue();  
+return .getValue();  
+return  String attr.getValue();  
+return  attr -> attr.getValue();  
+return  src.getValue();  
+return  (QName) attr.getValue();  
+return         attr.getValue();  
+return  token.getValue();  
+return  (Attr) attr.getValue();  
+return  //attr.getValue();  
+return  (string) attr.getValue();  
+return  getAttribute(attr).getValue();  
+return  ""; }.getValue();  
+return  attr<mask1> attr.getValue();  
+return  attr ? attr.getValue();  
+return  style.getValue();  
+return  xml namespace.getValue();  
+return  + attr.getValue();  
+return  ATTR.getValue();  
+return  el.namespaceURI.getValue();  
+return  pos.getValue();  
+return  env.getValue();  
+return    return attr.getValue();  
+return  the attribute.getValue();  
+return  as String.getValue();  
+return  subnode.getValue();  
+return  namespace.getValue();  
+return  *attr.getValue();  
+return  (Element) attr.getValue();  
+return  qName.getValue();  
+return  ret.getValue();  
+return  (char) attr.getValue();  
+return  }.getValue();  
+return  attribute node.getValue();  
+return           attr.getValue();  
+return  spec.getValue();  
+return ..getValue();  
+return  ((Element)attr.getValue();  
+return  xmlns.getValue();  
+return  acc.getValue();  
+return  true; }.getValue();  
+return  attr<mask6> attr.getValue();  
+return  ( String ) attr.getValue();  
+return  (attr) attr.getValue();  
+return  qname;.getValue();  
+return  aAttr.getValue();  
+return  self.getValue();  
+return  uri attr.getValue();  
+return  attr).getValue();  
+return  attr);.getValue();  
+return  qualifiedName.getValue();  
+return  -.getValue();  
+return  an attribute.getValue();  
+return  symbol.getValue();  
+return  val;.getValue();  
+return  (uri) attr.getValue();  
+return  schema.getValue();  
+return  xpath xpath.getValue();  
+return  attribute attribute.getValue();  
+return  charset.getValue();  
+return  attr  .getValue();  
+return  "." + attr.getValue();  
+return  atom.getValue();  
+return  exp.getValue();  
+return  element.getValue();  
+return  $attr.getValue();  
+return  entity.getValue();  
+return  this attribute.getValue();  
+return  uriAttr.getValue();  
+return  $(attr).getValue();  
+return  uri return attr.getValue();  
+return  (String)$attr.getValue();  
+return  true if attr.getValue();  
+return  attribute..getValue();  
+return  uri(attr).getValue();  
+return  attribute.getValue();.getValue();  
+return  null;}.getValue();  
+return  xmlNS.getValue();  
+return  uri; attr.getValue();  
+return  (attr<mask5> attr.getValue();  
+return  @return attr.getValue();  
+return  return attr.getValue();  
+return  xml:lang.getValue();  
+return  el<mask1> attr.getValue();  
+return  Attr attr.getValue();  
+return  uri attr.getValue();  
+return  html5.getValue();  
+return  attriute.getValue();  
+return  -1.getValue();  
+return  attribute<mask1> attr.getValue();  
+return  ((Attr)attr.getValue();  
+return  annoted attr.getValue();  
+return  attr  attr.getValue();  
+return  attr + attr.getValue();  
+return  attr  }.getValue();  
+return  "xml".getValue();  
+return (attr.getValue();  
+return  attr->attr.getValue();  
+return  attr }.getValue();  
+return  attr.getPrefix.getValue();  
+return  attr //return attr.getValue();  
+return  getAttribute(attr);.getValue();  
+return  @param node.getValue();  
+return  attr.getKey();.getValue();  
+return  (String)_attr.getValue();  
+return  uri+":"+attr.getValue();  
+return  xml:namespace.getValue();  
+return  attr.getValue().getValue();  
+return    return attr.getValue();  
+return  (prefix) attr.getValue();  
+if(attr==null){return  null;} return attr.getValue();  
+if(attr==null){return  null;;} return attr.getValue();  
+if(attr==null){return null;} return attr.getValue();  
+if(attr==null){return  "";;} return attr.getValue();  
+if(attr==null){return  uri;} return attr.getValue();  
+if(attr==null){return  null; };} return attr.getValue();  
+if(attr==null){return ;;} return attr.getValue();  
+if(attr==null){return  false;} return attr.getValue();  
+if(attr==null){return  "";} return attr.getValue();  
+if(attr==null){return  "";};} return attr.getValue();  
+if(attr==null){return  null;};} return attr.getValue();  
+if(attr==null){return  prefix;} return attr.getValue();  
+if(attr==null){return  "xmlns";} return attr.getValue();  
+if(attr==null){return  namespace;} return attr.getValue();  
+if(attr==null){return  null; ;} return attr.getValue();  
+if(attr==null){return  null;};} return attr.getValue();  
+if(attr==null){return  NULL;} return attr.getValue();  
+if(attr==null){return  ns;} return attr.getValue();  
+if(attr==null){return  node;} return attr.getValue();  
+if(attr==null){return  qname;} return attr.getValue();  
+if(attr==null){return  false;;} return attr.getValue();  
+if(attr==null){return null;;} return attr.getValue();  
+if(attr==null){return  true;} return attr.getValue();  
+if(attr==null){return  '';;} return attr.getValue();  
+if(attr==null){return  null;} return attr.getValue();  
+if(attr==null){return  xmlns;} return attr.getValue();  
+if(attr==null){return  undefined;} return attr.getValue();  
+if(attr==null){return  null ;;} return attr.getValue();  
+if(attr==null){return  uri;;} return attr.getValue();  
+if(attr==null){return  ""; };} return attr.getValue();  
+if(attr==null){return  String;} return attr.getValue();  
+if(attr==null){return  URI;} return attr.getValue();  
+if(attr==null){return  nil;} return attr.getValue();  
+if(attr==null){return  return null;} return attr.getValue();  
+if(attr==null){return  null ;} return attr.getValue();  
+if(attr==null){return  localName;} return attr.getValue();  
+if(attr==null){return   null;} return attr.getValue();  
+if(attr==null){return  "xml";} return attr.getValue();  
+if(attr==null){return  "xml";;} return attr.getValue();  
+if(attr==null){return  "urn:";} return attr.getValue();  
+if(attr==null){return ; };} return attr.getValue();  
+if(attr==null){return  "xmlns:";} return attr.getValue();  
+if(attr==null){return  xml;} return attr.getValue();  
+if(attr==null){return  "/";} return attr.getValue();  
+if(attr==null){return  "xmlns";;} return attr.getValue();  
+if(attr==null){return  "null";} return attr.getValue();  
+if(attr==null){return "";;} return attr.getValue();  
+if(attr==null){return  null; ;} return attr.getValue();  
+if(attr==null){return  null<mask5> null;} return attr.getValue();  
+if(attr==null){return  -1;} return attr.getValue();  
+if(attr==null){return  null};} return attr.getValue();  
+if(attr==null){return  None;} return attr.getValue();  
+if(attr==null){return };;} return attr.getValue();  
+if(attr==null){return uri;} return attr.getValue();  
+if(attr==null){return };} return attr.getValue();  
+if(attr==null){return  "default";} return attr.getValue();  
+if(attr==null){return  "<unknown>";;} return attr.getValue();  
+if(attr==null){return  "<";} return attr.getValue();  
+if(attr==null){return  url;} return attr.getValue();  
+if(attr==null){return  "*";;} return attr.getValue();  
+if(attr==null){return  this;} return attr.getValue();  
+if(attr==null){return  "<null>";;} return attr.getValue();  
+if(attr==null){return  "urn";} return attr.getValue();  
+if(attr==null){return  null;AST#return_statement#Right;} return attr.getValue();  
+if(attr==null){return  namespaceURI;} return attr.getValue();  
+if(attr==null){return "";} return attr.getValue();  
+if(attr==null){return  "+";;} return attr.getValue();  
+if(attr==null){return  null ;} return attr.getValue();  
+if(attr==null){return  "unknown";} return attr.getValue();  
+if(attr==null){return  defaultNamespace;} return attr.getValue();  
+if(attr==null){return  XMLNS;} return attr.getValue();  
+if(attr==null){return ;};} return attr.getValue();  
+if(attr==null){return  ;;} return attr.getValue();  
+if(attr==null){return  ""},;} return attr.getValue();  
+if(attr==null){return  XML;} return attr.getValue();  
+if(attr==null){return  attr;} return attr.getValue();  
+if(attr==null){return  return null;;} return attr.getValue();  
+if(attr==null){return ;} return attr.getValue();  
+if(attr==null){return  element;} return attr.getValue();  
+if(attr==null){return  "http://";} return attr.getValue();  
+if(attr==null){return  tag;} return attr.getValue();  
+if(attr==null){return  "/";;} return attr.getValue();  
+if(attr==null){return  prefix;;} return attr.getValue();  
+if(attr==null){return  EMPTY;} return attr.getValue();  
+if(attr==null){return  name;} return attr.getValue();  
+if(attr==null){return  true;;} return attr.getValue();  
+if(attr==null){return  <null>;} return attr.getValue();  
+if(attr==null){return  '?';;} return attr.getValue();  
+if(attr==null){return namespaceURI;} return attr.getValue();  
+if(attr==null){return  namespaceUri;} return attr.getValue();  
+if(attr==null){return  href;} return attr.getValue();  
+if(attr==null){return  {@code null;} return attr.getValue();  
+if(attr==null){return false;} return attr.getValue();  
+if(attr==null){return  'xmlns';} return attr.getValue();  
+if(attr==null){return  null.;} return attr.getValue();  
+if(attr==null){return ;};} return attr.getValue();  
+if(attr==null){return  "http";} return attr.getValue();  
+if(attr==null){return "";};} return attr.getValue();  
+if(attr==null){return  schema;} return attr.getValue();  
+if(attr==null){return  src;} return attr.getValue();  
+if(attr==null){return  null;  ;} return attr.getValue();  
+if(attr==null){return  value;} return attr.getValue();  
+if(attr==null){return  '#';;} return attr.getValue();  
+if(attr==null){return  false; };} return attr.getValue();  
+if(attr==null){return  "root";} return attr.getValue();  
+if(attr==null){return  "#";} return attr.getValue();  
+if(attr==null){return  nodeName;} return attr.getValue();  
+if(attr==null){return  "", "";} return attr.getValue();  
+if(attr==null){return  uri;} return attr.getValue();  
+if(attr==null){return  defaultNS;} return attr.getValue();  
+if(attr==null){return  "<unknown>";} return attr.getValue();  
+if(attr==null){return  "CDATA";} return attr.getValue();  
+if(attr==null){return  QName;} return attr.getValue();  
+if(attr==null){return ";;} return attr.getValue();  
+if(attr==null){return  "?";;} return attr.getValue();  
+if(attr==null){return  Null;} return attr.getValue();  
+if(attr==null){return  '';};} return attr.getValue();  
+if(attr==null){return  0;} return attr.getValue();  
+if(attr==null){return  prefix+uri;} return attr.getValue();  
+if(attr==null){return  doc;} return attr.getValue();  
+if(attr==null){return ns;} return attr.getValue();  
+if(attr==null){return  "undefined";} return attr.getValue();  
+if(attr==null){return  qName;} return attr.getValue();  
+if(attr==null){return  """;} return attr.getValue();  
+if(attr==null){return  "+;} return attr.getValue();  
+if(attr==null){return  string;} return attr.getValue();  
+if(attr==null){return  String.class;} return attr.getValue();  
+if(attr==null){return  "html";} return attr.getValue();  
+if(attr==null){return  $;} return attr.getValue();  
+if(attr==null){return  "#";;} return attr.getValue();  
+if(attr==null){return  undef;} return attr.getValue();  
+if(attr==null){return  StringUtils.EMPTY;} return attr.getValue();  
+if(attr==null){return  ns;;} return attr.getValue();  
+if(attr==null){return  qualifiedName;} return attr.getValue();  
+if(attr==null){return  "");;} return attr.getValue();  
+if(attr==null){return  val;} return attr.getValue();  
+if(attr==null){return -1;} return attr.getValue();  
+if(attr==null){return  '';} return attr.getValue();  
+if(attr==null){return  ";;} return attr.getValue();  
+if(attr==null){return  "urn";;} return attr.getValue();  
+if(attr==null){return ;";} return attr.getValue();  
+if(attr==null){return  tag name;} return attr.getValue();  
+if(attr==null){return  defaultValue;} return attr.getValue();  
+if(attr==null){return  };} return attr.getValue();  
+if(attr==null){return  xpath;} return attr.getValue();  
+if(attr==null){return  getNamespaceURI;} return attr.getValue();  
+if(attr==null){return Uri;} return attr.getValue();  
+if(attr==null){return  "<null>";} return attr.getValue();  
+if(attr==null){return ; ;} return attr.getValue();  
+if(attr==null){return  Namespace;} return attr.getValue();  
+if(attr==null){return  '/';;} return attr.getValue();  
+if(attr==null){return  null;  ;} return attr.getValue();  
+if(attr==null){return  null; //};} return attr.getValue();  
+if(attr==null){return  nul;} return attr.getValue();  
+if(attr==null){return  nullAST#return_statement#Right;} return attr.getValue();  
+if(attr==null){return  ":";} return attr.getValue();  
+if(attr==null){return  QNAME;} return attr.getValue();  
+if(attr==null){return 	null;} return attr.getValue();  
+if(attr==null){return  "<NULL>";;} return attr.getValue();  
+if(attr==null){return  null};;} return attr.getValue();  
+if(attr==null){return  root;} return attr.getValue();  
+if(attr==null){return  "{}";;} return attr.getValue();  
+if(attr==null){return  "/xml";;} return attr.getValue();  
+if(attr==null){return  ""; ;} return attr.getValue();  
+if(attr==null){return  new String;} return attr.getValue();  
+if(attr==null){return  "/;} return attr.getValue();  
+if(attr==null){return NS;} return attr.getValue();  
+if(attr==null){return None;} return attr.getValue();  
+if(attr==null){return  local;} return attr.getValue();  
+if(attr==null){return NULL;} return attr.getValue();  
+if(attr==null){return  "CDATA";;} return attr.getValue();  
+if(attr==null){return  type;} return attr.getValue();  
+if(attr==null){return  default;} return attr.getValue();  
+if(attr==null){return  UNDEFINED;} return attr.getValue();  
+if(attr==null){return ="";;} return attr.getValue();  
+if(attr==null){return  "xmlns;} return attr.getValue();  
+if(attr==null){return  ""};} return attr.getValue();  
+if(attr==null){return  n;} return attr.getValue();  
+if(attr==null){return  tag namespace;} return attr.getValue();  
+if(attr==null){return  null };} return attr.getValue();  
+if(attr==null){return URI;} return attr.getValue();  
+if(attr==null){return  u;} return attr.getValue();  
+if(attr==null){return ();;} return attr.getValue();  
+if(attr==null){return  NS;} return attr.getValue();  
+if(attr==null){return  ''; };} return attr.getValue();  
+if(attr==null){return  null<mask6> null;} return attr.getValue();  
+if(attr==null){return  id;} return attr.getValue();  
+if(attr==null){return  X;} return attr.getValue();  
+if(attr==null){return  attrs;} return attr.getValue();  
+if(attr==null){return />;} return attr.getValue();  
+if(attr==null){return /;} return attr.getValue();  
+if(attr==null){return  "html";;} return attr.getValue();  
+if(attr==null){return  "urn;} return attr.getValue();  
+if(attr==null){return ;}};} return attr.getValue();  
+if(attr==null){return  x;} return attr.getValue();  
+if(attr==null){return  unknown;} return attr.getValue();  
+if(attr==null){return  "unknown;} return attr.getValue();  
+if(attr==null){return  location;} return attr.getValue();  
+if(attr==null){return  empty;} return attr.getValue();  
+if(attr==null){return  prefix + uri;} return attr.getValue();  
+if(attr==null){return  XSLT;} return attr.getValue();  
+if(attr==null){return ; };} return attr.getValue();  
+if(attr==null){return  namespace;;} return attr.getValue();  
+if(attr==null){return  "<undefined>";;} return attr.getValue();  
+if(attr==null){return  namespacePrefix;} return attr.getValue();  
+if(attr==null){return  "namespace";} return attr.getValue();  
+if(attr==null){return null; };} return attr.getValue();  
+if(attr==null){return  null|uri;} return attr.getValue();  
+if(attr==null){return  "default";;} return attr.getValue();  
+if(attr==null){return  <null;} return attr.getValue();  
+if(attr==null){return  "/";;} return attr.getValue();  
+if(attr==null){return  "None";} return attr.getValue();  
+if(attr==null){return  EMPTY_STRING;} return attr.getValue();  
+if(attr==null){return  "Unknown";} return attr.getValue();  
+if(attr==null){return  null ;};} return attr.getValue();  
+if(attr==null){return ?null;} return attr.getValue();  
+if(attr==null){return  null<mask1> null;} return attr.getValue();  
+if(attr==null){return  "//";} return attr.getValue();  
+if(attr==null){return  new String();;} return attr.getValue();  
+if(attr==null){return  (null);} return attr.getValue();  
+if(attr==null){return  DEFAULT_NS;} return attr.getValue();  
+if(attr==null){return  XSD;} return attr.getValue();  
+if(attr==null){return <null>;} return attr.getValue();  
+if(attr==null){return  "(null)";} return attr.getValue();  
+if(attr==null){return  "none";} return attr.getValue();  
+if(attr==null){return  ""; };} return attr.getValue();  
+if(attr==null){return  "<html>";;} return attr.getValue();  
+if(attr==null){return  "*";};} return attr.getValue();  
+if(attr==null){return  null };} return attr.getValue();  
+if(attr==null){return  null:;} return attr.getValue();  
+if(attr==null){return  "/unknown";;} return attr.getValue();  
+if(attr==null){return  System.identity;} return attr.getValue();  
+if(attr==null){return  "unknown";;} return attr.getValue();  
+if(attr==null){return  "xml;} return attr.getValue();  
+if(attr==null){return  "http;} return attr.getValue();  
+if(attr==null){return  null, null;} return attr.getValue();  
+if(attr==null){return  the default namespace;} return attr.getValue();  
+if(attr==null){return  "null";;} return attr.getValue();  
+if(attr==null){return  null; }//;} return attr.getValue();  
+if(attr==null){return  "http:";} return attr.getValue();  
+if(attr==null){return <null;} return attr.getValue();  
+if(attr==null){return  null;;} return attr.getValue();  
+if(attr==null){return  this.namespaceURI;} return attr.getValue();  
+if(attr==null){return  false; ;} return attr.getValue();  
+if(attr==null){return  <null/>;} return attr.getValue();  
+if(attr==null){return  '#default';} return attr.getValue();  
+if(attr==null){return null;};} return attr.getValue();  
+if(attr==null){return   null;;} return attr.getValue();  
+if(attr==null){return  &nbsp;;} return attr.getValue();  
+if(attr==null){return  "xmlns;";} return attr.getValue();  
+if(attr==null){ attr=null; } return attr.getValue();  
+if(attr==null){ attr= null; } return attr.getValue();  
+if(attr==null){ attr=node; } return attr.getValue();  
+if(attr==null){ attr=attr; } return attr.getValue();  
+if(attr==null){ attr=element; } return attr.getValue();  
+if(attr==null){ attr=NULL; } return attr.getValue();  
+if(attr==null){ attr=Element; } return attr.getValue();  
+if(attr==null){ attr= element; } return attr.getValue();  
+if(attr==null){ attr=ns; } return attr.getValue();  
+if(attr==null){ attr=new Attr; } return attr.getValue();  
+if(attr==null){ attr=elem; } return attr.getValue();  
+if(attr==null){ attr=new Attr("xmlns");; } return attr.getValue();  
+if(attr==null){ attr=getElementNS; } return attr.getValue();  
+if(attr==null){ attr=xml; } return attr.getValue();  
+if(attr==null){ attr= node; } return attr.getValue();  
+if(attr==null){ attr=new Attr();; } return attr.getValue();  
+if(attr==null){ attr=new Attribute; } return attr.getValue();  
+if(attr==null){ attr=new Attr(); return uri; } return attr.getValue();  
+if(attr==null){ attr=new Attribute();; } return attr.getValue();  
+if(attr==null){ attr=new Attr(qname);; } return attr.getValue();  
+if(attr==null){ attr=document; } return attr.getValue();  
+if(attr==null){ attr=defaultAttr; } return attr.getValue();  
+if(attr==null){ attr=new Attr() {; } return attr.getValue();  
+if(attr==null){ attr=new Attr("xmlns"); } return attr.getValue();  
+if(attr==null){ attr=new String; } return attr.getValue();  
+if(attr==null){ attr=uri; } return attr.getValue();  
+if(attr==null){ attr=attrs; } return attr.getValue();  
+if(attr==null){ attr=newAttr; } return attr.getValue();  
+if(attr==null){ attr=namespace; } return attr.getValue();  
+if(attr==null){ attr= attr; } return attr.getValue();  
+if(attr==null){ attr=this; } return attr.getValue();  
+if(attr==null){ attr=getElement; } return attr.getValue();  
+if(attr==null){ attr=el; } return attr.getValue();  
+if(attr==null){ attr=new Attr("xmlns; } return attr.getValue();  
+if(attr==null){ attr=getAttributeNS; } return attr.getValue();  
+if(attr==null){ attr=nil; } return attr.getValue();  
+if(attr==null){ attr=new Attr(); attr; } return attr.getValue();  
+if(attr==null){ attr=newNode; } return attr.getValue();  
+if(attr==null){ attr=new Attr(); return attr; } return attr.getValue();  
+if(attr==null){ attr=XML; } return attr.getValue();  
+if(attr==null){ attr=new Attribute("xmlns");; } return attr.getValue();  
+if(attr==null){ attr=aNode; } return attr.getValue();  
+if(attr==null){ attr=Node; } return attr.getValue();  
+if(attr==null){ attr=new Element; } return attr.getValue();  
+if(attr==null){ attr=Null; } return attr.getValue();  
+if(attr==null){ attr=attribute; } return attr.getValue();  
+if(attr==null){ attr=Attribute; } return attr.getValue();  
+if(attr==null){ attr=null; }; } return attr.getValue();  
+if(attr==null){ attr=createElementNS; } return attr.getValue();  
+if(attr==null){ attr=tag; } return attr.getValue();  
+if(attr==null){ attr=doc; } return attr.getValue();  
+if(attr==null){ attr=new Attr(null);; } return attr.getValue();  
+if(attr==null){ attr=xmlns; } return attr.getValue();  
+if(attr==null){ attr=new Attributes; } return attr.getValue();  
+if(attr==null){ attr=nodeName; } return attr.getValue();  
+if(attr==null){ attr=qname; } return attr.getValue();  
+if(attr==null){ attr=Attr; } return attr.getValue();  
+if(attr==null){ attr=new AttributeImpl; } return attr.getValue();  
+if(attr==null){ attr=false; } return attr.getValue();  
+if(attr==null){ attr=ATTR; } return attr.getValue();  
+if(attr==null){ attr=root; } return attr.getValue();  
+if(attr==null){ attr=new AttrImpl; } return attr.getValue();  
+if(attr==null){ attr=URI; } return attr.getValue();  
+if(attr==null){ attr=0; } return attr.getValue();  
+if(attr==null){ attr=value; } return attr.getValue();  
+if(attr==null){ attr=createElement; } return attr.getValue();  
+if(attr==null){ attr=getElement(node);; } return attr.getValue();  
+if(attr==null){ attr=getElement(node); } return attr.getValue();  
+if(attr==null){ attr=null; return null; } return attr.getValue();  
+if(attr==null){ attr=new String();; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(qname);; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(); return uri; } return attr.getValue();  
+if(attr==null){ attr=getAttribute; } return attr.getValue();  
+if(attr==null){ attr=parent; } return attr.getValue();  
+if(attr==null){ attr=new Attributes();; } return attr.getValue();  
+if(attr==null){ attr= Element; } return attr.getValue();  
+if(attr==null){ attr=defaultNamespace; } return attr.getValue();  
+if(attr==null){ attr=Node.ELEMENT_NODE; } return attr.getValue();  
+if(attr==null){ attr=QName; } return attr.getValue();  
+if(attr==null){ attr=attributes; } return attr.getValue();  
+if(attr==null){ attr=new Attr("uri");; } return attr.getValue();  
+if(attr==null){ attr=XMLNS; } return attr.getValue();  
+if(attr==null){ attr=Node.ATTRIBUTE_NODE; } return attr.getValue();  
+if(attr==null){ attr=new String() {; } return attr.getValue();  
+if(attr==null){ attr=NS; } return attr.getValue();  
+if(attr==null){ attr=undefined; } return attr.getValue();  
+if(attr==null){ attr=defaultNS; } return attr.getValue();  
+if(attr==null){ attr=Empty; } return attr.getValue();  
+if(attr==null){ attr=getNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr=String; } return attr.getValue();  
+if(attr==null){ attr=new Attr(); return null; } return attr.getValue();  
+if(attr==null){ attr=empty; } return attr.getValue();  
+if(attr==null){ attr=new Attr() {};; } return attr.getValue();  
+if(attr==null){ attr=true; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(null);; } return attr.getValue();  
+if(attr==null){ attr=attr.getNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr= elem; } return attr.getValue();  
+if(attr==null){ attr=createAttr; } return attr.getValue();  
+if(attr==null){ attr=new Attr(); }; } return attr.getValue();  
+if(attr==null){ attr=attrName; } return attr.getValue();  
+if(attr==null){ attr= new Attr() {; } return attr.getValue();  
+if(attr==null){ attr=getNodeName; } return attr.getValue();  
+if(attr==null){ attr=document.createElementNS; } return attr.getValue();  
+if(attr==null){ attr=elt; } return attr.getValue();  
+if(attr==null){ attr=createAttribute; } return attr.getValue();  
+if(attr==null){ attr=new Element();; } return attr.getValue();  
+if(attr==null){ attr=""; } return attr.getValue();  
+if(attr==null){ attr=rootNode; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(); return attr; } return attr.getValue();  
+if(attr==null){ attr=node.getNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr=n; } return attr.getValue();  
+if(attr==null){ attr=localName; } return attr.getValue();  
+if(attr==null){ attr=tagName; } return attr.getValue();  
+if(attr==null){ attr=new Attribute() {; } return attr.getValue();  
+if(attr==null){ attr=name; } return attr.getValue();  
+if(attr==null){ attr= new Attr("xmlns"); } return attr.getValue();  
+if(attr==null){ attr=UNDEFINED; } return attr.getValue();  
+if(attr==null){ attr=Locator; } return attr.getValue();  
+if(attr==null){ attr=e; } return attr.getValue();  
+if(attr==null){ attr=None; } return attr.getValue();  
+if(attr==null){ attr= getAttributeNS; } return attr.getValue();  
+if(attr==null){ attr=init; } return attr.getValue();  
+if(attr==null){ attr=DEFAULT; } return attr.getValue();  
+if(attr==null){ attr=Object; } return attr.getValue();  
+if(attr==null){ attr=EMPTY; } return attr.getValue();  
+if(attr==null){ attr=NODE; } return attr.getValue();  
+if(attr==null){ attr=new Attribute("xmlns"); } return attr.getValue();  
+if(attr==null){ attr=XmlNode; } return attr.getValue();  
+if(attr==null){ attr=default; } return attr.getValue();  
+if(attr==null){ attr= getAttribute; } return attr.getValue();  
+if(attr==null){ attr=firstChild; } return attr.getValue();  
+if(attr==null){ attr=Uri; } return attr.getValue();  
+if(attr==null){ attr=new Attr("xmlns:");; } return attr.getValue();  
+if(attr==null){ attr=ele; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(node);; } return attr.getValue();  
+if(attr==null){ attr=defaultAttribute; } return attr.getValue();  
+if(attr==null){ attr=u; } return attr.getValue();  
+if(attr==null){ attr=DEFAULT_NS; } return attr.getValue();  
+if(attr==null){ attr=getDefaultNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr= NULL; } return attr.getValue();  
+if(attr==null){ attr=Void; } return attr.getValue();  
+if(attr==null){ attr=new Attr().getValue();; } return attr.getValue();  
+if(attr==null){ attr= null; } return attr.getValue();  
+if(attr==null){ attr=new Attribute("xmlns; } return attr.getValue();  
+if(attr==null){ attr=new AttributesImpl; } return attr.getValue();  
+if(attr==null){ attr=new attr; } return attr.getValue();  
+if(attr==null){ attr= attribute; } return attr.getValue();  
+if(attr==null){ attr=new AttributeImpl() {; } return attr.getValue();  
+if(attr==null){ attr=x; } return attr.getValue();  
+if(attr==null){ attr=getElementNS(); } return attr.getValue();  
+if(attr==null){ attr=el;; } return attr.getValue();  
+if(attr==null){ attr= uri; } return attr.getValue();  
+if(attr==null){ attr=Undefined; } return attr.getValue();  
+if(attr==null){ attr=new String(); return uri; } return attr.getValue();  
+if(attr==null){ attr=Node.NULL; } return attr.getValue();  
+if(attr==null){ attr=String.class; } return attr.getValue();  
+if(attr==null){ attr=xpath; } return attr.getValue();  
+if(attr==null){ attr=namespaceURI; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(); attr; } return attr.getValue();  
+if(attr==null){ attr=removeAttr; } return attr.getValue();  
+if(attr==null){ attr=DefaultAttr; } return attr.getValue();  
+if(attr==null){ attr=startElement; } return attr.getValue();  
+if(attr==null){ attr=prefix; } return attr.getValue();  
+if(attr==null){ attr=Attributes; } return attr.getValue();  
+if(attr==null){ attr=getAttrNS; } return attr.getValue();  
+if(attr==null){ attr=getElementNS(node); } return attr.getValue();  
+if(attr==null){ attr=1; } return attr.getValue();  
+if(attr==null){ attr=getElementAttributeNS; } return attr.getValue();  
+if(attr==null){ attr=Document; } return attr.getValue();  
+if(attr==null){ attr=new Attr() {}; } return attr.getValue();  
+if(attr==null){ attr=new Attr(uri);; } return attr.getValue();  
+if(attr==null){ attr=attrib; } return attr.getValue();  
+if(attr==null){ attr=nz; } return attr.getValue();  
+if(attr==null){ attr=nodeType; } return attr.getValue();  
+if(attr==null){ attr=getDefaultNamespace; } return attr.getValue();  
+if(attr==null){ attr=new Attr("prefix");; } return attr.getValue();  
+if(attr==null){ attr=getURI; } return attr.getValue();  
+if(attr==null){ attr=new Attr(name);; } return attr.getValue();  
+if(attr==null){ attr=ELEMENT_NODE; } return attr.getValue();  
+if(attr==null){ attr=schema; } return attr.getValue();  
+if(attr==null){ attr=Util; } return attr.getValue();  
+if(attr==null){ attr=defaultValue; } return attr.getValue();  
+if(attr==null){ attr=null;; } return attr.getValue();  
+if(attr==null){ attr=getElement(node); }; } return attr.getValue();  
+if(attr==null){ attr=NULL_ATTRIBUTE; } return attr.getValue();  
+if(attr==null){ attr=element.getNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr=attributeName; } return attr.getValue();  
+if(attr==null){ attr=  null; } return attr.getValue();  
+if(attr==null){ attr=new Element() {; } return attr.getValue();  
+if(attr==null){ attr=next; } return attr.getValue();  
+if(attr==null){ attr=env; } return attr.getValue();  
+if(attr==null){ attr=fallback; } return attr.getValue();  
+if(attr==null){ attr=New; } return attr.getValue();  
+if(attr==null){ attr= getNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr=new Attr(attr);; } return attr.getValue();  
+if(attr==null){ attr=getEmptyElement; } return attr.getValue();  
+if(attr==null){ attr=new Element(); return uri; } return attr.getValue();  
+if(attr==null){ attr=attr.getNodeName; } return attr.getValue();  
+if(attr==null){ attr=attr.getNodeName(); } return attr.getValue();  
+if(attr==null){ attr=getNodeNS; } return attr.getValue();  
+if(attr==null){ attr=new Attr(){; } return attr.getValue();  
+if(attr==null){ attr=xmlNS; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(attr);; } return attr.getValue();  
+if(attr==null){ attr=r; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(name);; } return attr.getValue();  
+if(attr==null){ attr=getElementNS(node);; } return attr.getValue();  
+if(attr==null){ attr=new Attributes() {; } return attr.getValue();  
+if(attr==null){ attr= EMPTY; } return attr.getValue();  
+if(attr==null){ attr=getNodeNamespace; } return attr.getValue();  
+if(attr==null){ attr=X; } return attr.getValue();  
+if(attr==null){ attr=new Attr("", "");; } return attr.getValue();  
+if(attr==null){ attr=NodeImpl; } return attr.getValue();  
+if(attr==null){ attr=new AttrImpl() {; } return attr.getValue();  
+if(attr==null){ attr=new Attr(qname); } return attr.getValue();  
+if(attr==null){ attr=; } return attr.getValue();  
+if(attr==null){ attr=getDefaultNS; } return attr.getValue();  
+if(attr==null){ attr=new Element(node);; } return attr.getValue();  
+if(attr==null){ attr=createElementNS; } return attr.getValue();  
+if(attr==null){ attr=getElementName; } return attr.getValue();  
+if(attr==null){ attr= new Attr(qname);; } return attr.getValue();  
+if(attr==null){ attr=new Element(){; } return attr.getValue();  
+if(attr==null){ attr=new Attribute("uri");; } return attr.getValue();  
+if(attr==null){ attr=new Attr(); } return attr.getValue();  
+if(attr==null){ attr=new Attr("");; } return attr.getValue();  
+if(attr==null){ attr=getAttributeNodeNS; } return attr.getValue();  
+if(attr==null){ attr=attr.getValue(); }; } return attr.getValue();  
+if(attr==null){ attr=DEFAULT_NAMESPACE; } return attr.getValue();  
+if(attr==null){ attr=new Attribute(uri);; } return attr.getValue();  
+if(attr==null){ attr=new Attr(node);; } return attr.getValue();  
+if(attr==null){ attr=new Empty; } return attr.getValue();  
+if(attr==null){ attr=Node.getNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr=Element.class; } return attr.getValue();  
+if(attr==null){ attr=XmlUtil; } return attr.getValue();  
+if(attr==null){ attr=XML_NS; } return attr.getValue();  
+if(attr==null){ attr=new ElementAttribute();; } return attr.getValue();  
+if(attr==null){ attr=document.documentElement; } return attr.getValue();  
+if(attr==null){ attr=getElementURI; } return attr.getValue();  
+if(attr==null){ attr=getElementAttribute; } return attr.getValue();  
+if(attr==null){ attr=new Attrs; } return attr.getValue();  
+if(attr==null){ attr=new NamedNodeMap; } return attr.getValue();  
+if(attr==null){ attr=getElementNamespace; } return attr.getValue();  
+if(attr==null){ attr= new Attr("xmlns");; } return attr.getValue();  
+if(attr==null){ attr=getQName(node); } return attr.getValue();  
+if(attr==null){ attr=new Node(); return uri; } return attr.getValue();  
+if(attr==null){ attr=new Node();; } return attr.getValue();  
+if(attr==null){ attr=new Attributes(node);; } return attr.getValue();  
+if(attr==null){ attr=XmlUtils; } return attr.getValue();  
+if(attr==null){ attr=attr; }; } return attr.getValue();  
+if(attr==null){ attr=getElement().getNamespaceURI; } return attr.getValue();  
+if(attr==null){ attr=new Attr("namespace"); } return attr.getValue();  
+if(attr.getValue() != null){ return attr.getValue();}  
+if(attr != null){ return attr.getValue();}  
+if(attr.isDefined()){ return attr.getValue();}  
+if(attr instanceof Attr){ return attr.getValue();}  
+if(attr.getValue()!=null){ return attr.getValue();}  
+if(attr.hasValue()){ return attr.getValue();}  
+if(attr.isNamespaceAware()){ return attr.getValue();}  
+if(attr.isVisible()){ return attr.getValue();}  
+if(uri != null){ return attr.getValue();}  
+if(attr.getValue() == null){ return attr.getValue();}  
+if(attr!=null){ return attr.getValue();}  
+if(attr.isValid()){ return attr.getValue();}  
+if(attr.getValue()==null){ return attr.getValue();}  
+if(attr.isNamespaceAware){ return attr.getValue();}  
+if(attr.getValue()!=null){ return attr.getValue();}  
+if(hasAttr){ return attr.getValue();}  
+if(hasAttribute){ return attr.getValue();}  
+if(attr.isNamespaceURI()){ return attr.getValue();}  
+if(attr.getValue()){ return attr.getValue();}  
+if(attr.hasValue){ return attr.getValue();}  
+if(uri == null){ return attr.getValue();}  
+if(null != attr){ return attr.getValue();}  
+if(attr.hasAttribute){ return attr.getValue();}  
+if(true){ return attr.getValue();}  
+if(attribute != null){ return attr.getValue();}  
+if(attr.isSet()){ return attr.getValue();}  
+if(attr instanceof Element){ return attr.getValue();}  
+if(attr instanceof NamespaceNode){ return attr.getValue();}  
+if(attr.hasNamespace()){ return attr.getValue();}  
+if(attr.hasPrefix){ return attr.getValue();}  
+if(node != null){ return attr.getValue();}  
+if(attr.getValue != null){ return attr.getValue();}  
+if(attr == null){ return attr.getValue();}  
+if(attr.exists()){ return attr.getValue();}  
+if(attr.isValid){ return attr.getValue();}  
+if(attr instanceof Attribute){ return attr.getValue();}  
+if(attr.isEnabled()){ return attr.getValue();}  
+if(attr.isVisible){ return attr.getValue();}  
+if( attr.getValue() != null){ return attr.getValue();}  
+if(attr.getPrefix() != null){ return attr.getValue();}  
+if(attr.hasValue()){ return attr.getValue();}  
+if(attr.hasPrefix()){ return attr.getValue();}  
+if(DEBUG){ return attr.getValue();}  
+if( attr != null){ return attr.getValue();}  
+if(attr.getValue() != ""){ return attr.getValue();}  
+if(attr.getValue() instanceof String){ return attr.getValue();}  
+if(attr.isRequired()){ return attr.getValue();}  
+if(attr.isSelected()){ return attr.getValue();}  
+if(attr instanceof NamespaceAttribute){ return attr.getValue();}  
+if(qname != null){ return attr.getValue();}  
+if(node instanceof Element){ return attr.getValue();}  
+if(prefix != null){ return attr.getValue();}  
+if(attr.getValue().isEmpty()){ return attr.getValue();}  
+if(hasAttr(attr)){ return attr.getValue();}  
+if(attr.getNamespaceURI != null){ return attr.getValue();}  
+if(attr.hasAttributeNS){ return attr.getValue();}  
+if(attr.hasNamespace){ return attr.getValue();}  
+if(attr.isEmpty()){ return attr.getValue();}  
+if(false){ return attr.getValue();}  
+if(attr.getName() != null){ return attr.getValue();}  
+if(attr.getNamespaceURI()==null){ return attr.getValue();}  
+if(attrs != null){ return attr.getValue();}  
+if(attr.isDefined(node)){ return attr.getValue();}  
+if(element != null){ return attr.getValue();}  
+if(attr.isVisible(node)){ return attr.getValue();}  
+if(attr.isDefined() == true){ return attr.getValue();}  
+if(uri!=null){ return attr.getValue();}  
+if(hasNamespace){ return attr.getValue();}  
+if(value != null){ return attr.getValue();}  
+if(attr.hasValue() == true){ return attr.getValue();}  
+if(attr.isPrefix()){ return attr.getValue();}  
+if(attr.hasValue()==false){ return attr.getValue();}  
+if(attr.isVisible() == true){ return attr.getValue();}  
+if(hasAttribute(attr)){ return attr.getValue();}  
+if(null != attr.getValue()){ return attr.getValue();}  
+if(attr.hasValue()==true){ return attr.getValue();}  
+if(attr.getIsNamespaceAware()){ return attr.getValue();}  
+if(attr.getAttribute() != null){ return attr.getValue();}  
+if(hasPrefix(attr)){ return attr.getValue();}  
+if(attr.hasValue(node)){ return attr.getValue();}  
+if(attr.getNodeValue()!=null){ return attr.getValue();}  
+if(attr.isPublic()){ return attr.getValue();}  
+if(namespaceURI != null){ return attr.getValue();}  
+if(null!=attr){ return attr.getValue();}  
+if(attr instanceof NamedNodeMap){ return attr.getValue();}  
+if(attr.getNamespaceURI()!=null){ return attr.getValue();}  
+if(ns != null){ return attr.getValue();}  
+if(attr.isVisible()==false){ return attr.getValue();}  
+if(attr.hasAttribute(qname)){ return attr.getValue();}  
+if(hasAttrNS){ return attr.getValue();}  
+if(attr.getValue()!= null){ return attr.getValue();}  
+if(attr.isDefined){ return attr.getValue();}  
+if(attr.isVisible()==true){ return attr.getValue();}  
+if(xpath){ return attr.getValue();}  
+if(attr.getName() == null){ return attr.getValue();}  
+if(namespaceURI){ return attr.getValue();}  
+if(attr.hasNamespaceURI()){ return attr.getValue();}  
+if(xml){ return attr.getValue();}  
+if(attr.isDefined() != false){ return attr.getValue();}  
+if(isPrefix(attr)){ return attr.getValue();}  
+if(attr.hasAttribute()){ return attr.getValue();}  
+if(attr instanceof Node){ return attr.getValue();}  
+if(attr instanceof QName){ return attr.getValue();}  
+if(attr instanceof String){ return attr.getValue();}  
+if(attr.isDefined())){ return attr.getValue();}  
+if(attr.hasAttributes()){ return attr.getValue();}  
+if(attr.isNamespaceAttribute()){ return attr.getValue();}  
+if(attr.isValidNS()){ return attr.getValue();}  
+if(isNamespaceAttribute(attr)){ return attr.getValue();}  
+if(attr.getNamespace() != null){ return attr.getValue();}  
+if(attrib != null){ return attr.getValue();}  
+if(uri){ return attr.getValue();}  
+if(isNamespace(attr)){ return attr.getValue();}  
+if(debug){ return attr.getValue();}  
+if(attr.isPrefixValid()){ return attr.getValue();}  
+if(namespaceURI == null){ return attr.getValue();}  
+if(attr.isNamespaceURI){ return attr.getValue();}  
+if(attr.isOptional()){ return attr.getValue();}  
+if(aNode != null){ return attr.getValue();}  
+if(attr.value != null){ return attr.getValue();}  
+if(attr.getPrefix() == null){ return attr.getValue();}  
+if(attr.getValue().equals("")){ return attr.getValue();}  
+if(attr.getNamespaceURI == null){ return attr.getValue();}  
+if(attr.prefix != null){ return attr.getValue();}  
+if(attr.hasName()){ return attr.getValue();}  
+if(isNamespaceURI(attr)){ return attr.getValue();}  
+if(attr.isDefined()==true){ return attr.getValue();}  
+if(attr.isNamespaceEnabled()){ return attr.getValue();}  
+if(attr.isVisible() != null){ return attr.getValue();}  
+if(xmlns){ return attr.getValue();}  
+if(attr.isNamespaceRequired()){ return attr.getValue();}  
+if(node instanceof Attr){ return attr.getValue();}  
+if(!!){ return attr.getValue();}  
+if(attr.getNode() != null){ return attr.getValue();}  
+if(uri==null){ return attr.getValue();}  
+if( attr.hasValue()){ return attr.getValue();}  
+if(attr.isVisible() == false){ return attr.getValue();}  
+if(attr.isString()){ return attr.getValue();}  
+if(hasPrefix){ return attr.getValue();}  
+if(attr!= null){ return attr.getValue();}  
+if(attr.isValid()==true){ return attr.getValue();}  
+if(hasNamespace(attr)){ return attr.getValue();}  
+if( attr instanceof Attr){ return attr.getValue();}  
+if(attr.isAbsolute()){ return attr.getValue();}  
+if( attr.isDefined()){ return attr.getValue();}  
+if(attr instanceof Tag){ return attr.getValue();}  
+if(element instanceof Element){ return attr.getValue();}  
+if(attr instanceof Attributes){ return attr.getValue();}  
+if(attr.getAttribute != null){ return attr.getValue();}  
+if(attr.getNodeValue()==null){ return attr.getValue();}  
+if(attr.isVisible() != false){ return attr.getValue();}  
+if(attr.getValue!=null){ return attr.getValue();}  
+if(attribute == null){ return attr.getValue();}  
+if(attr.isNamespaceDecl()){ return attr.getValue();}  
+if(hasAttributeNS){ return attr.getValue();}  
+if(attributes != null){ return attr.getValue();}  
+if(attr.isDefined() != null){ return attr.getValue();}  
+if(attr.getNamespaceURI()){ return attr.getValue();}  
+if(attr.hasValue() == false){ return attr.getValue();}  
+if(attr instanceof Namespace){ return attr.getValue();}  
+if(attr.isValid() == true){ return attr.getValue();}  
+if(isDefined(attr)){ return attr.getValue();}  
+if(attr.hasKey()){ return attr.getValue();}  
+if(attr.hasNamespaceURI){ return attr.getValue();}  
+if(attr.isValid()==false){ return attr.getValue();}  
+if(attr.getKey() != null){ return attr.getValue();}  
+if(attr.exists){ return attr.getValue();}  
+if(attr.getValue == null){ return attr.getValue();}  
+if(attr.notNull()){ return attr.getValue();}  
+if(attr.getNodeType()!=null){ return attr.getValue();}  
+if(attr.hasChildren()){ return attr.getValue();}  
+if(attr.isVisible())){ return attr.getValue();}  
+if(attr.getValue){ return attr.getValue();}  
+if(attr.hasSpace()){ return attr.getValue();}  
+if(attr.isURI()){ return attr.getValue();}  
+if(localName){ return attr.getValue();}  
+if(prefix){ return attr.getValue();}  
+if(getAttr(attr) != null){ return attr.getValue();}  
+if(localName == null){ return attr.getValue();}  
+if(attr.isNamespacePrefix()){ return attr.getValue();}  
+if(attrs){ return attr.getValue();}  
+if(attr instanceof NameNode){ return attr.getValue();}  
+if(attr.getNamespaceURI){ return attr.getValue();}  
+if(attr.isNullValue()){ return attr.getValue();}  
+if(attr.isPresent()){ return attr.getValue();}  
+if(attr.hasValue() != false){ return attr.getValue();}  
+if(hasAttr != null){ return attr.getValue();}  
+if(attr.isDefaultValueAvailable()){ return attr.getValue();}  
+if(attr !=null){ return attr.getValue();}  
+if(usePrefix){ return attr.getValue();}  
+if(log.isDebugEnabled()){ return attr.getValue();}  
+if(attr.isDefined() == false){ return attr.getValue();}  
+if(attr.isEmpty){ return attr.getValue();}  
+if( attr.isVisible()){ return attr.getValue();}  
+if(attr.isNamespace){ return attr.getValue();}  
+if(attr.isDefined()==false){ return attr.getValue();}  
+if(attribute){ return attr.getValue();}  
+if(attr.getKey() == null){ return attr.getValue();}  
+if(useNamespace){ return attr.getValue();}  
+if(isNamespaceAttribute){ return attr.getValue();}  
+if(attr.isValidNamespaceURI()){ return attr.getValue();}  
+if(null == uri){ return attr.getValue();}  
+if(attr.getPrefix()==null){ return attr.getValue();}  
+if(attr.getValue()==""){ return attr.getValue();}  
+if(prefix == null){ return attr.getValue();}  
+if(localName != null){ return attr.getValue();}  
+if(attr.isSpace()){ return attr.getValue();}  
+if(attr.isNull()){ return attr.getValue();}  
+if(attrName != null){ return attr.getValue();}  
+if(attr.getValue()==null){ return attr.getValue();}  
+if(attr.getValue()!=""){ return attr.getValue();}  
+if(attr.isValid())){ return attr.getValue();}  
+if(attr.isPrefixSet()){ return attr.getValue();}  
+if(attr.hasDefault()){ return attr.getValue();}  
+if(attr){ return attr.getValue();}  
+if(qualified){ return attr.getValue();}  
+if(attr.isTrue()){ return attr.getValue();}  
+if(attr.isPrefix){ return attr.getValue();}  
+if(xmlns != null){ return attr.getValue();}  
+if(attr.hasValue){ return attr.getValue();}  
+if(hasAttributes){ return attr.getValue();}  
+if(attributeExists){ return attr.getValue();}  
+if(attr is not null){ return attr.getValue();}  
+if(attr.getNodeValue()){ return attr.getValue();}  
+if(attr instanceof TagAttribute){ return attr.getValue();}  
+if(attr.isElement()){ return attr.getValue();}  
+if(ns){ return attr.getValue();}  
+if(node == null){ return attr.getValue();}  
+if(val != null){ return attr.getValue();}  
+if(attr.hasAttribute("xmlns")){ return attr.getValue();}  
+if(attr.hasValue() != null){ return attr.getValue();}  
+if(attr.isSelected){ return attr.getValue();}  
+if(attr.isNamespaceURI())){ return attr.getValue();}  
+if(node.hasAttribute){ return attr.getValue();}  
+if(attr instanceof Document){ return attr.getValue();}  
+if(isValid(attr)){ return attr.getValue();}  
+if(attribute!=null){ return attr.getValue();}  
+if(attr.isPrefixAllowed()){ return attr.getValue();}  
+if(attr.isValidating()){ return attr.getValue();}  
+if(isValidNS){ return attr.getValue();}  
+if(attr.isEnabled()==true){ return attr.getValue();}  
+if(name != null){ return attr.getValue();}  
+if(attr.isDirectory()){ return attr.getValue();}  
+if(attr.isRequired){ return attr.getValue();}  
+if(attr.getValue()>0){ return attr.getValue();}  
+if(ns!=null){ return attr.getValue();}  
+if(attr instanceof TextNode){ return attr.getValue();}  
+if(ATTR_NAMESPACE){ return attr.getValue();}  
+if(attr.isVisible()){){ return attr.getValue();}  
+if(isNamespaceURI){ return attr.getValue();}  

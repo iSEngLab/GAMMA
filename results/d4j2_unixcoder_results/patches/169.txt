@@ -1,0 +1,500 @@
+;  
+ };  
+     return this;  
+ ;  
+ else { buffer = null;  
+  };  
+ //end setInitialBuffer;  
+     return buffer;  
+  };  
+ };  
+ return this;  
+ return buffer;  
+      return this;  
+ //};  
+ //;  
+ // };  
+ // };  
+ //return this;  
+ 	return this;  
+     return null;  
+ // end setInitialBuffer;  
+     return pos;  
+ return null;  
+  ;  
+ //return buffer;  
+ //*/;  
+     };  
+     return readPos;  
+ //*/;  
+ buffer = null;  
+ return pos;  
+   };  
+ // private;  
+ else { return null;  
+         return this;  
+      return buffer;  
+      return this;  
+void setInitialBuffer() { buffer = null;  
+ 	return buffer;  
+ //return;  
+ //end setInitialBuffer();  
+ else { buffer = null; pos = 0;  
+     return;  
+ //end;  
+void setInitialBuffer(byte[] out) {;  
+ //end setBuffer;  
+ */;  
+ end;  
+ // end;  
+          return this;  
+ //end setInitialBuffer;  
+public void setInitialBuffer() { buffer = null;  
+ else { buffer = null; } return this;  
+public void reset() { buffer = null;  
+ //return null;  
+ else { this.buffer = null;  
+ //};  
+ ///////////;  
+ //#ifdef JAVA4;  
+void setInitialBuffer() {     buffer = null;  
+ return readPos;  
+ //#ifdef JAVA6;  
+ buffer = null; pos = 0;  
+private void initBuffer() {     buffer = null;  
+ //$NON-NLS-1$;  
+ func;  
+ 	return null;  
+ buffer = null; readPos = 0;  
+ readPos = 0;  
+void resetBuffer() { buffer = null;  
+public void resetBuffer() { buffer = null;  
+  	return this;  
+ //buffer = null;  
+void setInitialBuffer(byte[] out) { return;  
+ return;  
+ if (buffer != null) { buffer;  
+ //#endif;  
+ return this;  
+ //void resetBuffer;  
+ ////////////////////////////////;  
+private void initBuffer() {         buffer = null;  
+          return this;  
+ // End;  
+     return true;  
+      return buffer;  
+void setBuffer(byte[] buffer) {;  
+      return null;  
+ //;  
+     this.pos = 0;  
+     buffer = null;  
+ ;;  
+    };  
+void setInitialBuffer(byte[] buffer) {;  
+ //TODO;  
+public void reset() {     pos = 0;  
+void setInitialBuffer() {     buffer;  
+ else { buffer = null; } return null;  
+ else buffer = null;  
+     return self;  
+          return this;  
+ //byte[] buffer = null;  
+public void reset() {     buffer = null;  
+   return this;  
+ //return pos;  
+         return buffer;  
+ method;  
+ //if (buffer != null) buffer;  
+     else { buffer = null;  
+     this.buffer = null;  
+ /*package*/;  
+ // end setBuffer;  
+     return buf;  
+ int len = buffer.length;  
+ int len = buffer.length; return len;  
+ //    return this;  
+ // end setInitialBuffer();  
+      return pos;  
+public void reset() {         buffer = null;  
+ 	return pos;  
+  //return this;  
+ if (buffer != null) { return buffer;  
+public void reset() {         pos = 0;  
+ ;  
+void resetBuffer() {     buffer = null;  
+     return this.buffer;  
+      return readPos;  
+ //if (buffer == null) return;  
+ byte[] buffer = null;  
+ else { buffer = null; } return;  
+     this.readPos = 0;  
+void setInitialBuffer(byte[] buffer) { return;  
+ //if (buffer != null) return buffer;  
+void setInitialBuffer() {         buffer = null;  
+      pos = 0;  
+ //void resetBuffer() { resetBuffer;  
+ //void clearBuffer;  
+ else { buffer = null; } return true;  
+     this.outAvail = outAvail;  
+public void reset() { pos = 0;  
+ /*package*/ /*package*/;  
+private void initBuffer() { buffer = null;  
+void setInitialBuffer() {     return;  
+void setInitialBuffer() {     pos = 0;  
+     pos = 0;  
+      buffer = null;  
+void reset() { buffer = null;  
+public void resetBuffer() {     buffer = null;  
+void setInitialBuffer() { return;  
+ int size = buffer.length;  
+void setBuffer() { buffer = null;  
+public byte[] getBuffer() {     return buffer;  
+      this.pos = 0;  
+public int size() {         return size;  
+void setBuffer(byte[] buffer) { buffer;  
+   public void reset() { reset;  
+ int length = buffer.length;  
+private void setInitialBuffer() { buffer = null;  
+   public int size() { return size;  
+public int size() {     return size;  
+void setBuffer(byte[] out) {;  
+void setBuffer(ByteBuffer buffer) { buffer;  
+public void setBuffer() { buffer = null;  
+void setInitialBuffer() {         buffer;  
+ int length = buffer.length; return length;  
+void setInitialBuffer() { 	buffer;  
+     this.pos = pos;  
+public byte[] getBuffer() {         return buffer;  
+ int pos = readPos;  
+void setInitialBuffer(byte[] buffer) { buffer;  
+public int length() {     return length;  
+ else { buffer = null; return false;  
+private void initBuffer() {     pos = 0;  
+void reset() {     buffer = null;  
+public void resetBuffer() {         buffer = null;  
+ //int readPos = readPos;  
+private void resetBuffer() { buffer = null;  
+void reset() {     pos = 0;  
+public void initBuffer() {     buffer = null;  
+     this.buffer = buffer;  
+ else { buffer = null; } return false;  
+      this.buffer = null;  
+public void setBuffer() {         buffer = null;  
+public int length() {         return length;  
+ //int pos = readPos;  
+ if (buffer == null) { return;  
+void initBuffer() {     buffer = null;  
+public void setInitialBuffer() { return;  
+void setInitialBuffer(byte[] out);  
+public void setBuffer() {     buffer = null;  
+   private void setInitialBuffer() {;  
+void setBuffer() {     buffer = null;  
+public void reset() { this.buffer = null;  
+     this.initialBuffer = buffer;  
+void setBuffer(byte[] buffer) { return;  
+      this.readPos = 0;  
+ else { buffer = null; } return pos;  
+ //byte[] buffer = buffer;  
+ else { buffer = EMPTY_BUFFER;  
+void setInitialBuffer(ByteBuffer buffer) {;  
+void setInitialBuffer(ByteBuffer buffer) { buffer;  
+public void reset() { 		reset;  
+private void initBuffer() {         pos = 0;  
+public void initBuffer() {         buffer = null;  
+   public int length() { return length;  
+void clearBuffer() {     buffer = null;  
+void setInitialBuffer(byte []buffer) {;  
+private void setBuffer() {         buffer = null;  
+void setInitialBuffer() { 	buffer = null;  
+void setInitialBuffer() {     pos;  
+ //void clearBuffer() { clearBuffer;  
+   public void setInitialBuffer() {;  
+void setInitialBuffer(byte[] in) {;  
+public void init() {     buffer = null;  
+public int size() { 	return size;  
+ //void resetBuffer() { buffer = null;  
+public byte[] getBuffer() { return buffer;  
+ if (buffer != null) return buffer;  
+private void resetBuffer() {     buffer = null;  
+private void setBuffer() {     buffer = null;  
+ if (buffer == null) { return null;  
+private void initBuffer() { 		buffer;  
+void setInitialBuffer() {     return buffer;  
+private void resetBuffer() {         buffer = null;  
+@Override   public void reset() { reset;  
+ if (buffer == null) { buffer = null;  
+public int length() { 	return length;  
+void setInitialBuffer(byte[] buffer);  
+ else { buffer = new byte[0]; };  
+void setInitialBuffer()     {;  
+private void initBuffer() { 	buffer = null;  
+public void reset() { 		buffer = null;  
+void setInitialBuffer(byte []buffer) { return;  
+ //if (buffer == null) return null;  
+   public void setBuffer() { buffer;  
+void setInitialBuffer(ByteBuffer buffer) { return;  
+ //void setBuffer(byte[] buffer) {;  
+@Override   public int read() throws IOException;  
+void setInitialBuffer(InputStream in) { return;  
+ else { buffer = null; } return 0;  
+public byte[] getBuffer() { 	return buffer;  
+public void reset() { 		pos = 0;  
+   private void initBuffer() {;  
+ if (buffer != null) { return;  
+void setInitialBuffer(Buffer buffer) { return;  
+void setInitialBuffer(Buffer buffer) {;  
+@Override   public int length() { return length;  
+public int size() { 		return size;  
+void setInitialBuffer() {     reset;  
+public void clearBuffer() {     buffer = null;  
+ //if (buffer == null) { return;  
+func; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+  ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ func; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ */; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ private; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ }; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void reset() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+   ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ else; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function () {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ // private; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ // }; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ /**; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ;; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+protected; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+AST#function_declaration#Left; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ /*; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+AST#program#Left; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ method; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void clear; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ {{{; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void reset(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function(){; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ functions; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+protected void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ TODO; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ static; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+@Override; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ methods; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //*/; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ...; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void init() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ int pos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ // public; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void clearBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function () { }; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void initBuffer() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ----------------------------------------------------------------------------; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+//; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ --; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ helpers; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ package; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ /*; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public synchronized void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void update; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+int; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ class; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ call; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ////////////////////////////////////////////////////////////////////////////////; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void seek; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+  ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ byte[] buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void rewind; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void setInitialBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ int; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void readBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void resetBuffer() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+          private; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ /*package; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public int read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function(out) {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+protected void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+  	; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ /; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function ( ) {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ////////////////////////////////////////////////////////////////////////////; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //{; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void write; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void updateBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ /* private; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+   /**; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ exported; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void reset() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //private; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+////; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+  */; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function (); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void readBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void resetInput; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void initOut; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+    ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void updateBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void setReadPos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+/*; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+AST#function_declaration#Leftfuncinit() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void initOut; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void reset(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ /*package; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ or; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ struct; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void init(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ private void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+         ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void updateBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function() { }; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ***; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void main; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function() { ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+func init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ private void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+  //; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void close; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ struct buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //package; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void readBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ *; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void main; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ void read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void initOut; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void resetPos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function (out) {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //return; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+*/; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ///////////////////////////////////////////////////////////////////////////; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void clearBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ////; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void init() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+   /*package; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ ,; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setInitialBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void clear; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void copy; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+   ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void clear() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void clear; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+long; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function initBuffer() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ import; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void initOut; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ implementation; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ private void buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ implementations; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ int readPos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public int length; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setReadPos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ long; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void initializeBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void initialize; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void growBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void resetInput; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void setBuffer() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+protected void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void initializeBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void reset() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+    ; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+void init() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void initializeBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function() { //; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function () { //; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static int pos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public synchronized void setBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+protected void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void clearBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void updateBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void reset() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public static void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public static void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+static void setInitialBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function init() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void growBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void clearBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+function() { 	; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setPos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void init(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public int readPos; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setByteBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static int read; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setBuffers; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setOutput; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void resetPosition; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void allocateBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void resetBuffer(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public synchronized void init; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public static byte[] buffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private void initBuffer(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void reset(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void initBuffer(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ //void resetBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public static void init(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setInput; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+protected void initOut; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void copyBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public final void reset; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void flush() {; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+private static void initBuffer; void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+public void setBuffer(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   
+ public void resetBuffer(); void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } }   

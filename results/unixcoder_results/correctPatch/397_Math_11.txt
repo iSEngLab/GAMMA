@@ -1,0 +1,1 @@
+return FastMath.pow(2 * FastMath.PI, -dim / 2.0) * FastMath.pow(covarianceMatrixDeterminant, -0.5) * getExponentTerm(vals);

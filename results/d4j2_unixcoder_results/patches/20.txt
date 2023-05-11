@@ -1,0 +1,500 @@
+ return mappedChar;  
+ return mappedChar;  
+ return 1;  
+ return 1;  
+ ++index;  
+ return firstCode;  
+ return 0;  
+ return firstCode;  
+ ++;  
+ --;  
+  return mappedChar;  
+   return mappedChar;  
+ // return mappedChar;  
+ //return mappedChar;  
+ //return mappedChar;  
+ return 0;  
+ return mappedCode;  
+ ++ index;  
+ ++index;  
+ ;  
+ index -= 1;  
+ mappedChar = mappedChar;  
+     return mappedChar;  
+ ;  
+return mappedChar;  
+ index--;;  
+ return mappedCode;  
+ return char;  
+ mappedChar = 0;  
+ ++ index;  
+ index -= 2;  
+ mappedChar = 0;  
+ --index;  
+ --;  
+ return 2;  
+ };  
+  ++index;  
+         return mappedChar;  
+ ...;  
+    return mappedChar;  
+ return -1;  
+ -- index;  
+ return mappedChar + 1;  
+ index--;  
+    ++index;  
+ return 4;  
+ return mappingCode;  
+ mappedChar = 1;  
+;  
+  // return mappedChar;  
+ return char;  
+ 1;  
+ // return mappedChar;  
+ return index;  
+             return mappedChar;  
+ code;  
+  //return mappedChar;  
+  return 1;  
+ index--;;  
+   ++index;  
+ -1;  
+ mappedChar = 1;  
+ // return 1;  
+ mappingCode;  
+ index += 2;  
+ return '';  
+ mapped;  
+++index;  
+ };  
+ ++i;  
+ return 2;  
+   return 1;  
+ index += 3;  
+ index --;  
+ map;  
+ return mappedChar;  
+ return mappingCode;  
+ //return 1;  
+ ;  
+ 0;  
+ ...;  
+ return nextCode;  
+ return null;  
+ return 4;  
+ found;  
+ index++;;  
+ index -= 1;  
+ return nextCode;  
+ 0;  
+ 	return mappedChar;  
+return 1;  
+ mappedChar;  
+          return mappedChar;  
+ // return firstCode;  
+ //return 1;  
+ firstCode = 0;  
+ return mappedChar - 1;  
+ break;  
+ return 3;  
+ //    return 1;  
+ } else { return 0;  
+ -1;  
+ mappedCode;  
+ continue;  
+ ++;  
+ index -= 3;  
+      return mappedChar;  
+ mappedChar = null;  
+  return firstCode;  
+ return lastCode;  
+ index += 1;  
+ mappedChar = firstCode;  
+      ++index;  
+      return mappedChar;  
+ end;  
+ firstCode = mappedChar;  
+ mappings;  
+ return lastCode;  
+ mappedChar = null;  
+ //return firstCode;  
+   return firstCode;  
+ return -1;  
+        ++index;  
+ //return firstCode;  
+       return mappedChar;  
+ return ch;  
+          ++index;  
+ index -= 2;  
+ return 7;  
+ mapped;  
+ continue;  
+++ index;  
+ index--;  
+ return hwChar;  
+ return 6;  
+ lastChar = mappedChar;  
+ // return 0;  
+ return 255;  
+ return 10;  
+     return 1;  
+ mapped = mappedChar;  
+ mappings;  
+  return mappedChar;  
+--;  
+	        return mappedChar;  
+ return hwChar;  
+ char mappedChar;  
+ };  
+ Mapped code;  
+	return mappedChar;  
+ map 0;  
+ mappedChar += 1;  
+ mappingCode = 0;  
+ mappingCode = 1;  
+  return 0;  
+ index --;  
+ return code;  
+ code;  
+ prefix;  
+ return index - 1;  
+ try;  
+ return ++;  
+  };  
+ mapped = mappedCode;  
+   };  
+ return index;  
+ firstCode = 0;  
+ found;  
+ mappedChar++;;  
+ return '';  
+...;  
+ index = 2;  
+ 	;  
+ break;  
+ return null;  
+ internal;  
+ ++ ++;  
+ //;  
+ return map;  
+  return mappedChar;  
+ //return 0;  
+ checked;  
+      ++index;  
+ return lastChar;  
+ //    ++index;  
+ int mapped = 1;  
+ return mapCode;  
+ return lastChar;  
+ mappedChar <<= 1;  
+ 	        return mappedChar;  
+ return this.mappingCode;  
+ mappedCode = mappedChar;  
+ // return mappedCode;  
+ ++mappingCode;  
+ code = mappedChar;  
+ return preHWChar;  
+ // return 1;  
+ --mapping code;  
+ code = 1;  
+ mappedChar++;  
+ return index + 1;  
+ mapped = true;  
+  // return 1;  
+ @return mappedChar;  
+   // return mappedChar;  
+ next char;  
+ mapped char = mappedChar;  
+ return nextChar;  
+ mapping code;  
+ --mappingCode;  
+ mapped code;  
+ return ch;  
+ return FIRST_CODE;  
+ assert true;  
+ @return mapped code;  
+ return mappedChar; };  
+ mapped = false;  
+ mapped = 1;  
+ return 1;  
+ mappedCode = 0;  
+ index = 1;  
+ return firstCode;  
+ //code;  
+ --mapping;  
+ return mappedCharacter;  
+ //return mappedCode;  
+ int mapped = 0;  
+ return mapCode;  
+ mappedChar = '';  
+ int mapped = 1;  
+ index += 4;  
+ code = 0;  
+ //return 0;  
+ mappedCode = 1;  
+ mappedCode = mappedCode;  
+ return lastMappingCode;  
+ return mappedChar << 1;  
+ } else { return 1;  
+ mappedChar = '';  
+ mappedChar *= 2;  
+ //mappedChar = 0;  
+ mapped = mappedChar;  
+ mappedChar = mappedCode;  
+ mapped = mappedCode;  
+ int mappedCode;  
+ //    return 0;  
+ firstCode = 1;  
+ char mapped = 0;  
+ hwChar = 0;  
+ // mappedChar = 0;  
+ return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar; }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++ index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++i; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar + 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappingCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 2; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+  return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return ''; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ continue; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ...; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+return 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return -1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ break; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 0<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 4; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return null; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar } }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return firstCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+return 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mappedCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar ; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mapped = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar<mask5>}; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ char mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // return 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar<mask3> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int firstCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // return 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 3; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ String mappedChar = null; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+  return 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //return 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar<mask1> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 1<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar - 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+   return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ char firstCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+++ index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mappedCode = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //return 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ <mask5>}; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ... }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 1; }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+  ++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar ; }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 7; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ next char; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ index -= 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+return mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ for; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+  return 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mapped = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //code; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // return mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return code; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ firstCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ } }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+...; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return index<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mapped = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ null; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ --; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++index<mask5> ++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+code; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ final int mapped = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+..; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++index<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++mappingCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ <mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+}; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedChar = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ final int mapped = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mappedChar = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 10; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ -1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 6; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ try; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++pos; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return char 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ assert true; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ final char mapped = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //return mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return false; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar || 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ var mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ prefix; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar}; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ index --; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ returns 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 0 }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 0; }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ -- index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return true; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+     return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedCharacter; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int i = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int firstCode = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ var firstCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ --index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ m ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return index - 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return char<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ /; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // continue; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ code = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //continue; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+    ++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ initialize; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mapped char; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ <mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // ...; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int index = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ String mapped = null; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ char mappedCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar<mask14> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ } else; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 255; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ import; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar } ; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 1 + mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++ index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mapCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++mapIndex; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return index + 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++xx; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+      ++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++count; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar + 2; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ char mapped = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ var mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ map; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ); final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+    return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ xxx; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //  return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //mapping code; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+code 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ true; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ char mappedChar = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ var mappedCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar != 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++idx; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return hwChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //index -= 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ code = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return ++mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+return mappedChar<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ index--; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+  }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // code; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ index -= 2; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+         return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ var mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar<mask18> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+   ++index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 8; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // found; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return map<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedChar = ''; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++ ++ index; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedCode + 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ index -= 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ //map; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ final int index = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar ); final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++ ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return nextCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedChar = null; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ final int index = 2; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+	return mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ lastChar = mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedCode ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int i = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ String mappedChar = ''; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ this.mapped = true; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ assert mappedChar != null; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ var firstCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int index = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+  return mappedCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int mappingCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ String firstCode = null; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedCode = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // mapping code; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return '0' }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ final char mapped = 1; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ // mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+  <mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return this.mappingCode; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ returns mappedChar; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ ++<mask5> ++; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ int code = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+char mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedCode<mask5> }; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ String mappedChar = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ final int index = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar } else; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ mappedCode = 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   
+ return mappedChar : 0; final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) {   

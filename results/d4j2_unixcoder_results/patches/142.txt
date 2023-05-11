@@ -1,0 +1,2500 @@
+ file = null;  
+ else { file = null;  
+ else { file = null;  
+ linkFlag = LF_DIR;  
+ return false;  
+ else;  
+ ;  
+ this.file = null;  
+ //return false;  
+ linkFlag = LF;  
+ else;  
+ this.isDirectory = false;  
+ linkFlag = 0;  
+ File file = file;  
+ linkFlag = LF_FILE;  
+ File file = null;  
+ else return false;  
+ linkFlag = LF_LINK;  
+ file = new File;  
+ else return false;  
+ addFile;  
+ this.isFile = false;  
+ };  
+ assert false;  
+ this.isDir = false;  
+ file = this;  
+ else return false;  
+ File file = this;  
+ this.isDirectory = true;  
+ file=null;  
+ //else;  
+ File file = getFile;  
+ this.directory = false;  
+ fileName = null;  
+ else file = null;  
+ this = false;  
+ //else return false;  
+ else { linkFlag = 0;  
+ File f = file;  
+ this.directory = true;  
+ this.linkFlag = 0;  
+  file = null;  
+ filename = null;  
+ linkFlag = LF_NORMAL;  
+ //file = null;  
+ linkFlag = LF_NONE;  
+ default: return false;  
+;  
+ file;  
+ else { linkFlag = LF;  
+ System.out.println;  
+ this.isDir = true;  
+ isFile = false;  
+else;  
+ file = dir;  
+ //    file = null;  
+ ++;  
+ linkFlag = CR;  
+ addFile = false;  
+ recurse;  
+ name = null;  
+ linkFlag = lf_dir;  
+ File link = file;  
+ File file = new File;  
+ else return false;  
+ //    return false;  
+ false;  
+ File f = null;  
+ file != null;  
+ this.isFile = true;  
+ exists = false;  
+ else file = null;  
+ // return false;  
+ //System.out.println;  
+ this;  
+ linkFlag = LF_ONLY;  
+ file = parent;  
+ //	file = null;  
+ else  return false;  
+ this.exists = false;  
+ File file = fileRef;  
+ throw new IOException;  
+ symlinkFlag = LF_DIR;  
+ unlink;  
+ println;  
+ throw new IllegalStateException;  
+ linkFlag = LF_HIDDEN;  
+ symlinkFlag = 0;  
+ e.g;  
+ otherwise;  
+ else { file = new File;  
+ --;  
+  return false;  
+ this.file = file;  
+ directory = false;  
+ this.isFile() = false;  
+ } else { file;  
+ //		return false;  
+  return false;  
+ file is null;  
+ addFile = true;  
+ //    else return false;  
+ createFile = false;  
+ linkFlag = LF_OTHER;  
+ linkFlag = LF_OUT;  
+ throw new UnsupportedOperationException;  
+ else  return false;  
+ linkFlag = LF_DEFAULT;  
+ //else return false;  
+ boolean isLink = false;  
+ error;  
+ getFile = null;  
+ linkFlag = lf;  
+ filename;  
+ if (isDirectory()) return false;  
+ //        file = null;  
+ File dir = file;  
+ fileList = null;  
+ linkFlag = LF_OPEN;  
+ file = file.getParentFile;  
+ i;  
+ default;  
+ linkFlag = 1;  
+ File link = null;  
+ file == null;  
+ log.warn;  
+ file = directory;  
+ f = null;  
+ ++count;  
+ files = null;  
+ dirFlag = LF_DIR;  
+ linkFlag = -1;  
+ else { file;  
+ assert true;  
+ isDirectory = false;  
+ System.err.println;  
+ File linkFile = file;  
+ file = file;  
+ boolean exists = false;  
+ linkFlag = LF_NEW;  
+ file = fileName;  
+ else{ file = null;  
+ //TODO;  
+  file = null;  
+ LF_DIR = false;  
+ linkFlag = LF_FIRST;  
+ createFile;  
+ this.linkFlag = false;  
+ saveDirectory;  
+ //        return false;  
+ default: false;  
+ file = path;  
+ null;  
+ //	else return false;  
+ try;  
+ linkFlag = LF_END;  
+ ;  
+ links = false;  
+ // else;  
+ file = super;  
+ isDir = false;  
+ symlinkFlag = LF_LINK;  
+ if (isFile()) return false;  
+ break;  
+ @Override;  
+ String name = getName;  
+ this.isDirectory() = false;  
+ linkFlag = LF_SAME;  
+ file = root;  
+ debug;  
+ this.directoryFlag = true;  
+ getFile().isDirectory() = false;  
+ writeNull;  
+ linkFlag |= LF_DIR;  
+ else { //return false;  
+ //	return false;  
+ file = File;  
+ linkFlag = LF_SINGLE;  
+ this.linkFlag = LF;  
+ File file = this.file;  
+ if (isDirectory) return false;  
+ file = NULL;  
+ else { return false;  
+ directoryFlag = LF_DIR;  
+ if (linkFlag == LF;  
+ int flags = 0;  
+ this.directoryFlag = false;  
+ File f = this;  
+ else { addFile;  
+ Otherwise;  
+ furthermore;  
+ File file = fileObj;  
+ currentFile = null;  
+ filePermission = 0;  
+ flush;  
+ file is a directory;  
+ this._file = null;  
+ file = getFile;  
+ file is not null;  
+ linkFlag = CR_LF;  
+ addFileFlag = LF_DIR;  
+  else { file = null;  
+ else { file = this;  
+ this.isdir = false;  
+ linkFlag = LF_EXT;  
+ File f = new File;  
+ default: return false;  
+ linkFlag = CR_DIR;  
+ String path = getName;  
+ File f = getFile;  
+ linkFlag = LinkFlag;  
+ this.symlinkFlag = false;  
+ //      file = null;  
+ else { file = this;  
+ fileFlag = LF_FILE;  
+ else { file.mkdirs;  
+ linkFlag = LF_EMPTY;  
+ linkFlag = lf_DIR;  
+ linkFlag = LF_UNKNOWN;  
+ File linkFile = null;  
+ if (!isFile()) return false;  
+ file = getParentFile;  
+ final File file = file;  
+ linkFlag = LF_SYMLINK;  
+ linkFlag = LF_REG;  
+ file = new File(name;  
+ File file = fileFile;  
+ linkFlag = LF_FORWARD;  
+ internalLinkFlag = 0;  
+ linkFlag = LF_DONT;  
+ linkFlag = LF_ALWAYS;  
+ else { file.mkdirs;  
+ File parent = file;  
+ file = File.class;  
+ linkFlag = LF_START;  
+ fileFlag = LF_DIR;  
+ linkFlag = LF_NEXT;  
+ linkFlag = LF_DIRECT;  
+ linkFlag = LF_ALL;  
+ //System.err.println;  
+ linkFlag = F_LINK;  
+ else { File file = file;  
+ if (isDir) return false;  
+ this.dir = true;  
+ m_linkFlag = 0;  
+ File file = File;  
+ file = File.separatorChar;  
+ file = File.createTempFile;  
+ linkFlag = LF_NO;  
+ linkFlag = LF_SUB;  
+ }; if (getName().endsWith("/")) {   
+ return false; }; if (getName().endsWith("/")) {   
+ } return false; if (getName().endsWith("/")) {   
+ } ; if (getName().endsWith("/")) {   
+ } else; if (getName().endsWith("/")) {   
+ } }; if (getName().endsWith("/")) {   
+ return false; }; if (getName().endsWith("/")) {   
+ } return true; if (getName().endsWith("/")) {   
+ } else; if (getName().endsWith("/")) {   
+ return false; if (getName().endsWith("/")) {   
+ else return false; }; if (getName().endsWith("/")) {   
+ else; if (getName().endsWith("/")) {   
+ } //else; if (getName().endsWith("/")) {   
+ return true; if (getName().endsWith("/")) {   
+ } }; if (getName().endsWith("/")) {   
+ }; if (getName().endsWith("/")) {   
+ } } ; if (getName().endsWith("/")) {   
+ } return false; if (getName().endsWith("/")) {   
+ } } else; if (getName().endsWith("/")) {   
+ } else {; if (getName().endsWith("/")) {   
+ return false; }; if (getName().endsWith("/")) {   
+ } return null; if (getName().endsWith("/")) {   
+ } //return false; if (getName().endsWith("/")) {   
+ return false; } ; if (getName().endsWith("/")) {   
+ return true; }; if (getName().endsWith("/")) {   
+  }; if (getName().endsWith("/")) {   
+ } ; if (getName().endsWith("/")) {   
+ } else return false; if (getName().endsWith("/")) {   
+ return false<mask1> }; if (getName().endsWith("/")) {   
+ }else; if (getName().endsWith("/")) {   
+ } else  ; if (getName().endsWith("/")) {   
+ else return false; }; if (getName().endsWith("/")) {   
+  }; if (getName().endsWith("/")) {   
+ } //else; if (getName().endsWith("/")) {   
+ else; if (getName().endsWith("/")) {   
+ } //}; if (getName().endsWith("/")) {   
+ } //if; if (getName().endsWith("/")) {   
+ } else return false; if (getName().endsWith("/")) {   
+ return null; if (getName().endsWith("/")) {   
+ }  }; if (getName().endsWith("/")) {   
+ return false; } }; if (getName().endsWith("/")) {   
+ return false;  }; if (getName().endsWith("/")) {   
+ }  return false; if (getName().endsWith("/")) {   
+ } // }; if (getName().endsWith("/")) {   
+ ; if (getName().endsWith("/")) {   
+  }; if (getName().endsWith("/")) {   
+ //}; if (getName().endsWith("/")) {   
+ else  return false; if (getName().endsWith("/")) {   
+ try; if (getName().endsWith("/")) {   
+ } //return true; if (getName().endsWith("/")) {   
+ //}; if (getName().endsWith("/")) {   
+ } } else {; if (getName().endsWith("/")) {   
+ } return false; if (getName().endsWith("/")) {   
+ } } else; if (getName().endsWith("/")) {   
+ };; if (getName().endsWith("/")) {   
+ } return true; if (getName().endsWith("/")) {   
+   }; if (getName().endsWith("/")) {   
+ } // else; if (getName().endsWith("/")) {   
+ } this; if (getName().endsWith("/")) {   
+ } // }; if (getName().endsWith("/")) {   
+ } //if; if (getName().endsWith("/")) {   
+ // }; if (getName().endsWith("/")) {   
+ } else return false; if (getName().endsWith("/")) {   
+ } }; if (getName().endsWith("/")) {   
+ }  return false; if (getName().endsWith("/")) {   
+ } // if; if (getName().endsWith("/")) {   
+ }  }; if (getName().endsWith("/")) {   
+ } else {; if (getName().endsWith("/")) {   
+ else return false; }; if (getName().endsWith("/")) {   
+ // }; if (getName().endsWith("/")) {   
+ } //}; if (getName().endsWith("/")) {   
+ }  ; if (getName().endsWith("/")) {   
+ return null; }; if (getName().endsWith("/")) {   
+ return false; }}; if (getName().endsWith("/")) {   
+ file = null; if (getName().endsWith("/")) {   
+ } else ; if (getName().endsWith("/")) {   
+ return false;  }; if (getName().endsWith("/")) {   
+ }  }; if (getName().endsWith("/")) {   
+ } // else; if (getName().endsWith("/")) {   
+ } returns false; if (getName().endsWith("/")) {   
+ } //} else; if (getName().endsWith("/")) {   
+ } }); if (getName().endsWith("/")) {   
+ } else return true; if (getName().endsWith("/")) {   
+  }; if (getName().endsWith("/")) {   
+ }; }; if (getName().endsWith("/")) {   
+ } default; if (getName().endsWith("/")) {   
+ else return false; if (getName().endsWith("/")) {   
+ return false;  }; if (getName().endsWith("/")) {   
+ } } ; if (getName().endsWith("/")) {   
+  } return false; if (getName().endsWith("/")) {   
+ return false;   }; if (getName().endsWith("/")) {   
+ }  return true; if (getName().endsWith("/")) {   
+ else return false; if (getName().endsWith("/")) {   
+ } else { ; if (getName().endsWith("/")) {   
+ } AST#if_statement#Right; if (getName().endsWith("/")) {   
+ return false; } ; if (getName().endsWith("/")) {   
+ return false; };; if (getName().endsWith("/")) {   
+ }  return false; if (getName().endsWith("/")) {   
+ return file == null; if (getName().endsWith("/")) {   
+ else  return false; if (getName().endsWith("/")) {   
+ }}; if (getName().endsWith("/")) {   
+ } return super; if (getName().endsWith("/")) {   
+ } try; if (getName().endsWith("/")) {   
+ } }else; if (getName().endsWith("/")) {   
+ return file != null; if (getName().endsWith("/")) {   
+ }  }; if (getName().endsWith("/")) {   
+ //return false; }; if (getName().endsWith("/")) {   
+    }; if (getName().endsWith("/")) {   
+ return false; } else; if (getName().endsWith("/")) {   
+ }  return false; if (getName().endsWith("/")) {   
+ return false;}; if (getName().endsWith("/")) {   
+ } */; if (getName().endsWith("/")) {   
+ return false }; if (getName().endsWith("/")) {   
+ } ); if (getName().endsWith("/")) {   
+  return false; }; if (getName().endsWith("/")) {   
+ return false; }*/; if (getName().endsWith("/")) {   
+  } }; if (getName().endsWith("/")) {   
+ return true; }; if (getName().endsWith("/")) {   
+ throw new IOException; if (getName().endsWith("/")) {   
+ } else ; if (getName().endsWith("/")) {   
+ return false; }; if (getName().endsWith("/")) {   
+ }   }; if (getName().endsWith("/")) {   
+ }   }; if (getName().endsWith("/")) {   
+ },; if (getName().endsWith("/")) {   
+ } };; if (getName().endsWith("/")) {   
+ }  return true; if (getName().endsWith("/")) {   
+ } else return true; if (getName().endsWith("/")) {   
+ return false; //}; if (getName().endsWith("/")) {   
+ } file = null; if (getName().endsWith("/")) {   
+ default; if (getName().endsWith("/")) {   
+ else return false; if (getName().endsWith("/")) {   
+ } //; if (getName().endsWith("/")) {   
+ } import; if (getName().endsWith("/")) {   
+ } returns true; if (getName().endsWith("/")) {   
+ }, }; if (getName().endsWith("/")) {   
+ } // } else; if (getName().endsWith("/")) {   
+ else return false; if (getName().endsWith("/")) {   
+ else return false; } }; if (getName().endsWith("/")) {   
+ }  else; if (getName().endsWith("/")) {   
+ } else  ; if (getName().endsWith("/")) {   
+ } });; if (getName().endsWith("/")) {   
+ } } else; if (getName().endsWith("/")) {   
+ } return isDirectory; if (getName().endsWith("/")) {   
+ }    }; if (getName().endsWith("/")) {   
+  } else; if (getName().endsWith("/")) {   
+ }); if (getName().endsWith("/")) {   
+ } endif; if (getName().endsWith("/")) {   
+else; if (getName().endsWith("/")) {   
+ } null; if (getName().endsWith("/")) {   
+   } else; if (getName().endsWith("/")) {   
+ return false; //}; if (getName().endsWith("/")) {   
+ //} return false; if (getName().endsWith("/")) {   
+ } else {}; if (getName().endsWith("/")) {   
+ } } ; if (getName().endsWith("/")) {   
+ } //}; if (getName().endsWith("/")) {   
+ }return false; if (getName().endsWith("/")) {   
+ } ; if (getName().endsWith("/")) {   
+ } else {  ; if (getName().endsWith("/")) {   
+ }*/; if (getName().endsWith("/")) {   
+ } ///; if (getName().endsWith("/")) {   
+ //else; if (getName().endsWith("/")) {   
+ } /*else; if (getName().endsWith("/")) {   
+ return false;   }; if (getName().endsWith("/")) {   
+ } }  ; if (getName().endsWith("/")) {   
+ } return file; if (getName().endsWith("/")) {   
+ }  ; if (getName().endsWith("/")) {   
+ }  ; if (getName().endsWith("/")) {   
+  return false; if (getName().endsWith("/")) {   
+ } end; if (getName().endsWith("/")) {   
+ } else; if (getName().endsWith("/")) {   
+ } return directory; if (getName().endsWith("/")) {   
+ } return dir; if (getName().endsWith("/")) {   
+ } */; if (getName().endsWith("/")) {   
+ }*/ }; if (getName().endsWith("/")) {   
+     }; if (getName().endsWith("/")) {   
+ } super; if (getName().endsWith("/")) {   
+ } },; if (getName().endsWith("/")) {   
+ return false; }; }; if (getName().endsWith("/")) {   
+ 	}; if (getName().endsWith("/")) {   
+ for; if (getName().endsWith("/")) {   
+ } //else ; if (getName().endsWith("/")) {   
+ } }*/; if (getName().endsWith("/")) {   
+ }  } else; if (getName().endsWith("/")) {   
+ }  ; if (getName().endsWith("/")) {   
+ return false<mask1> }; if (getName().endsWith("/")) {   
+ } break; if (getName().endsWith("/")) {   
+ } else return true; if (getName().endsWith("/")) {   
+ } return true; if (getName().endsWith("/")) {   
+ } // return false; if (getName().endsWith("/")) {   
+ }; }; if (getName().endsWith("/")) {   
+ } finally; if (getName().endsWith("/")) {   
+ } return this; if (getName().endsWith("/")) {   
+         }; if (getName().endsWith("/")) {   
+ } for; if (getName().endsWith("/")) {   
+ } internal; if (getName().endsWith("/")) {   
+  } return false; if (getName().endsWith("/")) {   
+  } ; if (getName().endsWith("/")) {   
+    }; if (getName().endsWith("/")) {   
+ //} else; if (getName().endsWith("/")) {   
+ else return false; }; if (getName().endsWith("/")) {   
+  } ; if (getName().endsWith("/")) {   
+ } <mask1> ; if (getName().endsWith("/")) {   
+ }  }; if (getName().endsWith("/")) {   
+ } break; if (getName().endsWith("/")) {   
+ else return true; }; if (getName().endsWith("/")) {   
+ } }  ; if (getName().endsWith("/")) {   
+  } else; if (getName().endsWith("/")) {   
+ } return linkFlag; if (getName().endsWith("/")) {   
+   }; if (getName().endsWith("/")) {   
+  return false; }; if (getName().endsWith("/")) {   
+   } return false; if (getName().endsWith("/")) {   
+ } if; if (getName().endsWith("/")) {   
+ } return; if (getName().endsWith("/")) {   
+ //} ; if (getName().endsWith("/")) {   
+ } file; if (getName().endsWith("/")) {   
+  } return false; if (getName().endsWith("/")) {   
+ } }  ; if (getName().endsWith("/")) {   
+ }}; if (getName().endsWith("/")) {   
+ return false; } ; if (getName().endsWith("/")) {   
+ } Otherwise; if (getName().endsWith("/")) {   
+   } ; if (getName().endsWith("/")) {   
+ } //}; if (getName().endsWith("/")) {   
+  return false; }; if (getName().endsWith("/")) {   
+ } Return false; if (getName().endsWith("/")) {   
+ }   ; if (getName().endsWith("/")) {   
+ } else    return false; if (getName().endsWith("/")) {   
+ return false; // }; if (getName().endsWith("/")) {   
+ } else { return false; if (getName().endsWith("/")) {   
+ } next; if (getName().endsWith("/")) {   
+ } d; if (getName().endsWith("/")) {   
+ }//if; if (getName().endsWith("/")) {   
+ } //} ; if (getName().endsWith("/")) {   
+  //}; if (getName().endsWith("/")) {   
+ } 	; if (getName().endsWith("/")) {   
+  } else; if (getName().endsWith("/")) {   
+ }//else; if (getName().endsWith("/")) {   
+ // else; if (getName().endsWith("/")) {   
+ } if; if (getName().endsWith("/")) {   
+ } ;; if (getName().endsWith("/")) {   
+ } return null; if (getName().endsWith("/")) {   
+ else  ; if (getName().endsWith("/")) {   
+ } } else; if (getName().endsWith("/")) {   
+ //else return false; if (getName().endsWith("/")) {   
+ } ++; if (getName().endsWith("/")) {   
+ //  }; if (getName().endsWith("/")) {   
+ } else ; if (getName().endsWith("/")) {   
+ } finally; if (getName().endsWith("/")) {   
+ } i; if (getName().endsWith("/")) {   
+ } <mask2> ; if (getName().endsWith("/")) {   
+ } )}; if (getName().endsWith("/")) {   
+if (getName().endsWith("/")) {   
+if (getFile().endsWith("/")) {   
+if (name().endsWith("/")) {   
+if (getPath().endsWith("/")) {   
+if (getLinkFlag().endsWith("/")) {   
+if (getLink().endsWith("/")) {   
+if (getUrl().endsWith("/")) {   
+if (getParentName().endsWith("/")) {   
+if (getTail().endsWith("/")) {   
+if (getParentPath().endsWith("/")) {   
+if (getType().endsWith("/")) {   
+if (toString().endsWith("/")) {   
+if (fileName().endsWith("/")) {   
+if (getLinkName().endsWith("/")) {   
+if (getRelativePath().endsWith("/")) {   
+if (getFilePath().endsWith("/")) {   
+if (isDirectory().endsWith("/")) {   
+if (getLocation().endsWith("/")) {   
+if (getDirectory().endsWith("/")) {   
+if (getFullPath().endsWith("/")) {   
+if (getVersion().endsWith("/")) {   
+if (getAbsolutePath().endsWith("/")) {   
+if (getString().endsWith("/")) {   
+if (getParent().endsWith("/")) {   
+if (getFileName().endsWith("/")) {   
+if (isFile().endsWith("/")) {   
+if (getFilename().endsWith("/")) {   
+if (getValue().endsWith("/")) {   
+if (getParentFile().endsWith("/")) {   
+if (getShortName().endsWith("/")) {   
+if (getLinkFlags().endsWith("/")) {   
+if (getId().endsWith("/")) {   
+if (getDir().endsWith("/")) {   
+if (getFile().getName().endsWith("/")) {   
+if (path().endsWith("/")) {   
+if (getFullName().endsWith("/")) {   
+if (getFileName().endsWith("/")) {   
+if (getBaseName().endsWith("/")) {   
+if (getFileExtension().endsWith("/")) {   
+if (file.getName().endsWith("/")) {   
+if (getClass().endsWith("/")) {   
+if (getURL().endsWith("/")) {   
+if (getDestination().endsWith("/")) {   
+if ( getName().endsWith("/")) {   
+if (filePath().endsWith("/")) {   
+if (getContent().endsWith("/")) {   
+if (getLinkPath().endsWith("/")) {   
+if (isDir().endsWith("/")) {   
+if (getOwner().endsWith("/")) {   
+if (getScheme().endsWith("/")) {   
+if (getFilePath().endsWith("/")) {   
+if (getTitle().endsWith("/")) {   
+if (getTarget().endsWith("/")) {   
+if (getNextName().endsWith("/")) {   
+if (getIndex().endsWith("/")) {   
+if (filename().endsWith("/")) {   
+if (getURI().endsWith("/")) {   
+if (getParentFileName().endsWith("/")) {   
+if (getRootName().endsWith("/")) {   
+if (getDescription().endsWith("/")) {   
+if (getTargetPath().endsWith("/")) {   
+if (getPosition().endsWith("/")) {   
+if (getPrefix().endsWith("/")) {   
+if (newName().endsWith("/")) {   
+if (getUri().endsWith("/")) {   
+if (getProjectName().endsWith("/")) {   
+if (getKey().endsWith("/")) {   
+if (name.toLowerCase().endsWith("/")) {   
+if (getAbsoluteName().endsWith("/")) {   
+if (getName().toLowerCase().endsWith("/")) {   
+if (getText().endsWith("/")) {   
+if (getNode().endsWith("/")) {   
+if (getLabel().endsWith("/")) {   
+if (getCanonicalName().endsWith("/")) {   
+if (getTailName().endsWith("/")) {   
+if (getPackage().endsWith("/")) {   
+if (getSuffix().endsWith("/")) {   
+if (getRemotePath().endsWith("/")) {   
+if (linkFlag().endsWith("/")) {   
+if (getTag().endsWith("/")) {   
+if (getChildName().endsWith("/")) {   
+if (getDirName().endsWith("/")) {   
+if (getSize().endsWith("/")) {   
+if (getParentDir().endsWith("/")) {   
+if (getID().endsWith("/")) {   
+if (getLinkType().endsWith("/")) {   
+if (getUniqueName().endsWith("/")) {   
+if (getDisplayName().endsWith("/")) {   
+if (getProtocol().endsWith("/")) {   
+if (getFile().getAbsolutePath().endsWith("/")) {   
+if (getCanonicalPath().endsWith("/")) {   
+if (getRealPath().endsWith("/")) {   
+if (getUrlPath().endsWith("/")) {   
+if (getData().endsWith("/")) {   
+if (GetName().endsWith("/")) {   
+if (getNodeName().endsWith("/")) {   
+if (setName().endsWith("/")) {   
+if (getRootPath().endsWith("/")) {   
+if (Name().endsWith("/")) {   
+if (getMessage().endsWith("/")) {   
+if (getPageName().endsWith("/")) {   
+if (getParentDirectory().endsWith("/")) {   
+if (parent.getName().endsWith("/")) {   
+if (getRemoteName().endsWith("/")) {   
+if (getExt().endsWith("/")) {   
+if (getLocalPath().endsWith("/")) {   
+if (getAlias().endsWith("/")) {   
+if (getRoot().endsWith("/")) {   
+if (getRelativeName().endsWith("/")) {   
+if (getAbsolutePath().endsWith("/")) {   
+if (isLink().endsWith("/")) {   
+if (getProperty().endsWith("/")) {   
+if (getPathName().endsWith("/")) {   
+if (getTargetName().endsWith("/")) {   
+if (this.getName().endsWith("/")) {   
+if (file.getAbsolutePath().endsWith("/")) {   
+if (getDestinationPath().endsWith("/")) {   
+if (getNameFile().endsWith("/")) {   
+if (getLastName().endsWith("/")) {   
+if (readlink().endsWith("/")) {   
+if (getHost().endsWith("/")) {   
+if (getLocalName().endsWith("/")) {   
+if (getAddress().endsWith("/")) {   
+if (getChar().endsWith("/")) {   
+if (basename().endsWith("/")) {   
+if (fullName().endsWith("/")) {   
+if (getFilename().endsWith("/")) {   
+if (getDescriptor().endsWith("/")) {   
+if (getExtension().endsWith("/")) {   
+if (getLineNumber().endsWith("/")) {   
+if (getTailFile().endsWith("/")) {   
+if (getLine().endsWith("/")) {   
+if (getCode().endsWith("/")) {   
+if (getDirectoryName().endsWith("/")) {   
+if (getTargetFile().endsWith("/")) {   
+if (getScript().endsWith("/")) {   
+if (file.getPath().endsWith("/")) {   
+if (getAttribute().endsWith("/")) {   
+if (getParentFolder().endsWith("/")) {   
+if (getNamespace().endsWith("/")) {   
+if (getComment().endsWith("/")) {   
+if (getNameAsString().endsWith("/")) {   
+if (getSite().endsWith("/")) {   
+if (getPage().endsWith("/")) {   
+if (getSeparator().endsWith("/")) {   
+if (getRel().endsWith("/")) {   
+if (getQualifiedName().endsWith("/")) {   
+if (getLanguage().endsWith("/")) {   
+if (getLinkTarget().endsWith("/")) {   
+if (url().endsWith("/")) {   
+if (getFolder().endsWith("/")) {   
+if (getHead().endsWith("/")) {   
+if (getEntryName().endsWith("/")) {   
+if (getRemote().endsWith("/")) {   
+if (nextLink().endsWith("/")) {   
+if (getClass().getName().endsWith("/")) {   
+if (getNumber().endsWith("/")) {   
+if (getGroup().endsWith("/")) {   
+if (getSrc().endsWith("/")) {   
+if (getSubPath().endsWith("/")) {   
+if (getTailLine().endsWith("/")) {   
+if (getLinkTag().endsWith("/")) {   
+if (getClassPath().endsWith("/")) {   
+if (getDirectoryPath().endsWith("/")) {   
+if (getRef().endsWith("/")) {   
+if (getContentType().endsWith("/")) {   
+if (file().endsWith("/")) {   
+if (getTypeName().endsWith("/")) {   
+if (getRawName().endsWith("/")) {   
+if (getFname().endsWith("/")) {   
+if (getResource().endsWith("/")) {   
+if (getSubName().endsWith("/")) {   
+if (getBasePath().endsWith("/")) {   
+if (getDefaultName().endsWith("/")) {   
+if (getPackageName().endsWith("/")) {   
+if (getParent().getName().endsWith("/")) {   
+if (getOptions().endsWith("/")) {   
+if (getScriptName().endsWith("/")) {   
+if (getNameWithoutExtension().endsWith("/")) {   
+if (getDataFileName().endsWith("/")) {   
+if (linkname().endsWith("/")) {   
+if (getLink().toString().endsWith("/")) {   
+if (localName().endsWith("/")) {   
+if (getPattern().endsWith("/")) {   
+if (getLinkValue().endsWith("/")) {   
+if (getSource().endsWith("/")) {   
+if (dirName().endsWith("/")) {   
+if (parentName().endsWith("/")) {   
+if (getAbsolute().endsWith("/")) {   
+if (getFileLine().endsWith("/")) {   
+if (getAbsoluteFileName().endsWith("/")) {   
+if (getDestinationName().endsWith("/")) {   
+if (getLinkDescriptor().endsWith("/")) {   
+if (getCurrentPath().endsWith("/")) {   
+if (getProject().endsWith("/")) {   
+if (getLinkFile().endsWith("/")) {   
+if (getLinkIndex().endsWith("/")) {   
+if (getDest().endsWith("/")) {   
+if (pathname().endsWith("/")) {   
+if (getLinkOption().endsWith("/")) {   
+if (getStatus().endsWith("/")) {   
+if (getNextPath().endsWith("/")) {   
+if (getDataPath().endsWith("/")) {   
+if (getFileDir().endsWith("/")) {   
+if (getLinkDir().endsWith("/")) {   
+if (getMountPoint().endsWith("/")) {   
+if (getLastPath().endsWith("/")) {   
+if (getNext().endsWith("/")) {   
+if (getName2().endsWith("/")) {   
+if (getMainFile().endsWith("/")) {   
+if (getDestPath().endsWith("/")) {   
+if (getRealName().endsWith("/")) {   
+if (getRootDir().endsWith("/")) {   
+if (getAttributes().endsWith("/")) {   
+if (getChildren().endsWith("/")) {   
+if (getProperties().endsWith("/")) {   
+if (getLinkInfo().endsWith("/")) {   
+if (getSimpleName().endsWith("/")) {   
+if (getHash().endsWith("/")) {   
+if (getName().trim().endsWith("/")) {   
+if (getFileDescriptor().endsWith("/")) {   
+if (getPackagePath().endsWith("/")) {   
+if (getSubname().endsWith("/")) {   
+if (getElement().endsWith("/")) {   
+if (getWriter().endsWith("/")) {   
+if (getUsername().endsWith("/")) {   
+if (getNextLine().endsWith("/")) {   
+if (getCurrentName().endsWith("/")) {   
+if (getUrlName().endsWith("/")) {   
+if (getDirectoryName().endsWith("/")) {   
+if (getLink().getName().endsWith("/")) {   
+if (getReference().endsWith("/")) {   
+if (getLinkDestination().endsWith("/")) {   
+if (getDirPath().endsWith("/")) {   
+if (getLength().endsWith("/")) {   
+if (getOrigin().endsWith("/")) {   
+if (getFolderName().endsWith("/")) {   
+if (isSymbolicLink().endsWith("/")) {   
+if (getRelPath().endsWith("/")) {   
+if (getFile().getPath().endsWith("/")) {   
+if (getDestName().endsWith("/")) {   
+if (name.trim().endsWith("/")) {   
+if (getLinkLine().endsWith("/")) {   
+if (getDirName().endsWith("/")) {   
+if (getLinkHeader().endsWith("/")) {   
+if (getRelative().endsWith("/")) {   
+if (getLink().endsWith("/")) {   
+if (getTailPath().endsWith("/")) {   
+if (getCompleteName().endsWith("/")) {   
+if (path.toString().endsWith("/")) {   
+if (getName().endsWith("/")) {   
+if (getName().startsWith("/")) {   
+if (getName().equals("/")) {   
+if (getName().contains("/")) {   
+if (getName().charAt("/")) {   
+if (getName().charAt(0) ==("/")) {   
+if (getName().equalsIgnoreCase("/")) {   
+if (getName().toLowerCase().endsWith("/")) {   
+if (getName().indexOf("/")) {   
+if (getName().lastIndexOf("/")) {   
+if (getName().matches("/")) {   
+if (getName().endsWith("/")) {   
+if (getName().length() >("/")) {   
+if (getName().isEmpty("/")) {   
+if (getName().charAt(0) !=("/")) {   
+if (getName().startsWith("/")) {   
+if (getName().endsWith("("/")) {   
+if (getName().toUpperCase().endsWith("/")) {   
+if (getName().endsWith("\\("/")) {   
+if (getName().trim().endsWith("/")) {   
+if (getName().includes("/")) {   
+if (getName().match("/")) {   
+if (getName().append("/")) {   
+if (getName().endswith("/")) {   
+if (getName().startsWith("("/")) {   
+if (getName().toLowerCase().startsWith("/")) {   
+if (getName().endsWith(":("/")) {   
+if (getName().length() ==("/")) {   
+if (getName().endsWith(".("/")) {   
+if (getName().endsWith("_("/")) {   
+if (getName().concat("/")) {   
+if (getName().startswith("/")) {   
+if (getName().endsWith(("/")) {   
+if (getName().endsWith("\\").endsWith("/")) {   
+if (getName().charAt(0).equals("/")) {   
+if (getName().endsWith("*("/")) {   
+if (getName().hasTrailing("/")) {   
+if (getName().endsWith("+("/")) {   
+if (getName().toString().endsWith("/")) {   
+if (getName().indexOf(":("/")) {   
+if (getName().endsWith("-("/")) {   
+if (getName().charAt(1) ==("/")) {   
+if (getName().endsWith("\("/")) {   
+if (getName().endsWith("..("/")) {   
+if (getName().length() >=("/")) {   
+if (getName().trim().startsWith("/")) {   
+if (getName().compareTo("/")) {   
+if (getName().startsWith("_("/")) {   
+if (getName().ends("/")) {   
+if (getName().startsWith("\\("/")) {   
+if (getName().HasSuffix("/")) {   
+if (getName().startsWith(".("/")) {   
+if (getName().length("/")) {   
+if (getName().is("/")) {   
+if (getName().begins("/")) {   
+if (getName().endsWith("**("/")) {   
+if (getName().length()==("/")) {   
+if (getName().endsWith("$("/")) {   
+if (getName().startsWith("file("/")) {   
+if (getName().endsWith(".");("/")) {   
+if (getName().startsWith("-("/")) {   
+if (getName().endsWithIgnoreCase("/")) {   
+if (getName().toLowerCase().contains("/")) {   
+if (getName().endsWith("!("/")) {   
+if (getName().regionMatches("/")) {   
+if (getName().toUpperCase().startsWith("/")) {   
+if (getName().end("/")) {   
+if (getName().endendsWith("/")) {   
+if (getName().endsWith("..("/")) {   
+if (getName().startsWith(":("/")) {   
+if (getName().isSuffix("/")) {   
+if (getName().endsWith("\n("/")) {   
+if (getName().length() <=("/")) {   
+if (getName().beginsWith("/")) {   
+if (getName().startsWith("/")) {   
+if (getName().startsWith("//("/")) {   
+if (getName().startsWith("file://("/")) {   
+if (getName().indexOf("("/")) {   
+if (getName().endsWith("./("/")) {   
+if (getName().prepend("/")) {   
+if (getName().startsWith("+("/")) {   
+if (getName().count("/")) {   
+if (getName().remove("/")) {   
+if (getName().length() <("/")) {   
+if (getName().isDot("/")) {   
+if (getName().before("/")) {   
+if (getName().startsWith("\\").endsWith("/")) {   
+if (getName().endsWithFile("/")) {   
+if (getName().endsWith("/("/")) {   
+if (getName().length() > 2("/")) {   
+if (getName().EndsWith("/")) {   
+if (getName().startsWith("*("/")) {   
+if (getName().endsWith("//("/")) {   
+if (getName().substring(-1) ==("/")) {   
+if (getName().substring(1).endsWith("/")) {   
+if (getName().startsWith("./("/")) {   
+if (getName().endsWith("?("/")) {   
+if (getName().startsWith("..("/")) {   
+if (getName().equal("/")) {   
+if (getName().startsWith("@("/")) {   
+if (getName().begin("/")) {   
+if (getName().length() !=("/")) {   
+if (getName().find("/")) {   
+if (getName().starts("/")) {   
+if (getName().getEndsWith("/")) {   
+if (getName().replace("/")) {   
+if (getName().charAt(0).endsWith("/")) {   
+if (getName().endsWith("*").endsWith("/")) {   
+if (getName().endsWith ("/")) {   
+if (getName().include("/")) {   
+if (getName().beginsWith("/")) {   
+if (getName().endsWith("~("/")) {   
+if (getName().length()>("/")) {   
+if (getName().isDirectory("/")) {   
+if (getName().startsWith(("/")) {   
+if (getName().startsWith("$("/")) {   
+if (getName().endsWith('\\("/")) {   
+if (getName().toLowerCase().equals("/")) {   
+if (getName().charAt(0).is("/")) {   
+if (getName().equals(".("/")) {   
+if (getName().equals("..("/")) {   
+if (getName().codePointAt("/")) {   
+if (getName().trim().equals("/")) {   
+if (getName().get("/")) {   
+if (getName().charAt(0) >=("/")) {   
+if (getName().endsWithTrailing("/")) {   
+if (getName().isPrefix("/")) {   
+if (getName().charAt(i) ==("/")) {   
+if (getName().endsWith("|("/")) {   
+if (getName().equals("\\("/")) {   
+if (getName().eql("/")) {   
+if (getName().equals("*("/")) {   
+if (getName().suffix("/")) {   
+if (getName().substring(-1).endsWith("/")) {   
+if (getName().length() > getLength("/")) {   
+if (getName().len("/")) {   
+if (getName().endsWith("@("/")) {   
+if (getName().charAt(0)==("/")) {   
+if (getName().startsWith("\("/")) {   
+if (getName().endsWith('("/")) {   
+if (getName().startswith("/")) {   
+if (getName().endsWith("\\").startsWith("/")) {   
+if (getName().startsWith("~("/")) {   
+if (getName().charAt(0) >("/")) {   
+if (getName().endsWith('.("/")) {   
+if (getName().length() > 1("/")) {   
+if (getName().toString().startsWith("/")) {   
+if (getName().startsWithIgnoreCase("/")) {   
+if (getName().isLast("/")) {   
+if (getName().charAt(0).startsWith("/")) {   
+if (getName().charAt(lastIndex) ==("/")) {   
+if (getName().startsWith("\"("/")) {   
+if (getName().endsWith("index.html("/")) {   
+if (getName().endsWith("\\..("/")) {   
+if (getName().length() > strlen("/")) {   
+if (getName().endsWithln("/")) {   
+if (getName().equals("\\").endsWith("/")) {   
+if (getName().HasPrefix("/")) {   
+if (getName().add("/")) {   
+if (getName().compareToIgnoreCase("/")) {   
+if (getName().length() > len("/")) {   
+if (getName().endsWith("\\").equals("/")) {   
+if (getName().equals(":("/")) {   
+if (getName().startWith("/")) {   
+if (getName().startsWith("http("/")) {   
+if (getName().startsWith("~/("/")) {   
+if (getName().endsWith('_("/")) {   
+if (getName().getName().endsWith("/")) {   
+if (getName().startsWith("!("/")) {   
+if (getName().lower().endsWith("/")) {   
+if (getName().contains(":("/")) {   
+if (getName().eql("/")) {   
+if (getName().endsWith("_link("/")) {   
+if (getName().startsWith(".").endsWith("/")) {   
+if (getName().endsWith("'("/")) {   
+if (getName().endsWith("..").endsWith("/")) {   
+if (getName().endsWith_("/")) {   
+if (getName().endsWithCharacter("/")) {   
+if (getName().replaceLast("/")) {   
+if (getName().isTail("/")) {   
+if (getName().getPrefix().endsWith("/")) {   
+if (getName().length() > length("/")) {   
+if (getName().separatorChar ==("/")) {   
+if (getName().toUpperCase().contains("/")) {   
+if (getName().endsWith("index("/")) {   
+if (getName().length() == strlen("/")) {   
+if (getName().slice(-1) ==("/")) {   
+if (getName().endsWith("\"("/")) {   
+if (getName().after("/")) {   
+if (getName().endsWith("%("/")) {   
+if (getName().substr(-1) ==("/")) {   
+if (getName().trim().toLowerCase().endsWith("/")) {   
+if (getName().endsWith".("/")) {   
+if (getName().endsWith("\\")).endsWith("/")) {   
+if (getName().endsWith('\\',("/")) {   
+if (getName().hasTrailingSeparator("/")) {   
+if (getName().charAt(1) !=("/")) {   
+if (getName().trailing("/")) {   
+if (getName().endWith("/")) {   
+if (getName().endsWith ("/")) {   
+if (getName().toLowerCase().endsWith("/")) {   
+if (getName().endsWith("--("/")) {   
+if (getName().stripTrailing("/")) {   
+if (getName().indexOf("..("/")) {   
+if (getName().endsWith("file("/")) {   
+if (getName().replaceAll("/")) {   
+if (getName().substring().endsWith("/")) {   
+if (getName().codePointBefore("/")) {   
+if (getName().charAt(1).equals("/")) {   
+if (getName().endsWith("\\..").endsWith("/")) {   
+if (getName().startsWith("'("/")) {   
+if (getName().length >("/")) {   
+if (getName().length() == 0("/")) {   
+if (getName().endsWith(".").endsWith("/")) {   
+if (getName().prefixsWith("/")) {   
+if (getName().exists("/")) {   
+if (getName().endsWith(";("/")) {   
+if (getName().prefix("/")) {   
+if (getName().isFile("/")) {   
+if (getName().chomp("/")) {   
+if (getName().charAt("/")) {   
+if (getName().charAt(2) ==("/")) {   
+if (getName().endsWith("\\")}("/")) {   
+if (getName().isAbsolute("/")) {   
+if (getName().endsWith("\\")+("/")) {   
+if (getName().endsWith("\\");("/")) {   
+if (getName().startsWith("link("/")) {   
+if (getName().charAt(count) ==("/")) {   
+if (getName().endsWith('\\').endsWith("/")) {   
+if (getName().length() > 3("/")) {   
+if (getName().endsWith(".log("/")) {   
+if (getName().startsWith("..("/")) {   
+if (getName().charAt(0) <=("/")) {   
+if (getName().endsWith() +("/")) {   
+if (getName().charAt(n) ==("/")) {   
+if (getName().startsWith("file:("/")) {   
+if (getName().substring(1).startsWith("/")) {   
+if (getName().endsWith("./").endsWith("/")) {   
+if (getName().toCharArray().contains("/")) {   
+if (getName().endsWith(".git("/")) {   
+if (getName().endsWith("\n").endsWith("/")) {   
+if (getName().charAt(0)=='("/")) {   
+if (getName().endsWith(".jar("/")) {   
+if (getName().toCharArray().startsWith("/")) {   
+if (getName().length() > 6("/")) {   
+if (getName().endsWith(".lnk("/")) {   
+if (getName().endsWith(File.separator("/")) {   
+if (getName().endsWith("\\")).startsWith("/")) {   
+if (getName().endsWith("\\d("/")) {   
+if (getName().charAt(0) <("/")) {   
+).endsWith("/")) { } else if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((name).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().endsWith("/")) {   
+).endsWith("/")) { } else if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().trim().endsWith("/")) {   
+).endsWith("/")) { } else if ((fileName).endsWith("/")) {   
+).endsWith("/")) { } if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if ((name).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().substring(0).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().charAt(0).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if ((linkFlag & LF_DIR).endsWith("/")) {   
+).endsWith("/")) { } } else if ((name).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().trim().toLowerCase().endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(true).endsWith("/")) {   
+).endsWith("/")) { } if ((name).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } if (getName().endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() != null).endsWith("/")) {   
+).endsWith("/")) { } else if ((linkFlag).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if (!(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toUpperCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().trim()).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(0).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().endsWith("/")) {   
+).endsWith("/")) { } if (getName().substring(0).endsWith("/")) {   
+).endsWith("/")) { } if (getName().charAt(0).endsWith("/")) {   
+).endsWith("/")) { } }).endsWith("/")) {   
+).endsWith("/")) { } if (getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } else if ((file).endsWith("/")) {   
+).endsWith("/")) { } else if ((getFile()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(linkFlag).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().trim().endsWith("/")) {   
+).endsWith("/")) { } else if (getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() == null).endsWith("/")) {   
+).endsWith("/")) { } else if ((getFile().getName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + linkFlag).endsWith("/")) {   
+).endsWith("/")) { } } if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().trim().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName().toLowerCase().endsWith("/")) {   
+).endsWith("/")) { } else if (getName().endsWith("/")) {   
+).endsWith("/")) { } else if ((getFile() != null).endsWith("/")) {   
+).endsWith("/")) { } else if (getName()).endsWith("/")) {   
+).endsWith("/")) { }).endsWith("/")) {   
+).endsWith("/")) { } if (getName(linkFlag).endsWith("/")) {   
+).endsWith("/")) { } if (getName().trim().endsWith("/")) {   
+).endsWith("/")) { } else if (getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if ((fileName).endsWith("/")) {   
+).endsWith("/")) { } else if (name).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName(false).endsWith("/")) {   
+).endsWith("/")) { } if (getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if ((path).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().trim().toLowerCase().endsWith("/")) {   
+).endsWith("/")) { } else if ((linkFlag & LF_FILE).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName(false).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName().trim()).endsWith("/")) {   
+).endsWith("/")) { } else if ((filePath).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if ((file != null).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toLowerCase(locale).endsWith("/")) {   
+).endsWith("/")) { } else if ((getNameAsString()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().trim()).endsWith("/")) {   
+).endsWith("/")) { } } if (getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + "/").endsWith("/")) {   
+).endsWith("/")) { } if (getName().trim().toLowerCase().endsWith("/")) {   
+).endsWith("/")) { } } else if ((fileName).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName() != null).endsWith("/")) {   
+).endsWith("/")) { } else if (linkFlag).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toLowerCase().trim()).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().trim().endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().charAt(0).endsWith("/")) {   
+).endsWith("/")) { } if ((fileName).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().trimToSize().endsWith("/")) {   
+).endsWith("/")) { } else if ((toString()).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName(0).endsWith("/")) {   
+).endsWith("/")) { } else if ((linkFlag).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toString()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().substring(0).endsWith("/")) {   
+).endsWith("/")) { } if (getName().toUpperCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if (getName() ).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() != null).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().trim().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } else if ((name != null).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName() ().endsWith("/")) {   
+).endsWith("/")) { } else if (getFile(getName).endsWith("/")) {   
+).endsWith("/")) { } } else if (!(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getPath().endsWith("/")) {   
+).endsWith("/")) { } } else if (getName().trim().endsWith("/")) {   
+).endsWith("/")) { } if (getName(0).endsWith("/")) {   
+).endsWith("/")) { } if (getName().toLowerCase(Locale.ROOT).endsWith("/")) {   
+).endsWith("/")) { } else if (getParentPath(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if ((this).endsWith("/")) {   
+).endsWith("/")) { } }else if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + fileName).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(0).endsWith("/")) {   
+).endsWith("/")) { } else if ((getFile() == null).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName(0).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName().endsWith("/")) {   
+).endsWith("/")) { } else if ((getFile().getAbsolutePath()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().endsWith("/")).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().substring(0).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().endsWith("/") || getName).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase().trim()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().charAt(0).endsWith("/")) {   
+).endsWith("/")) { } } else if ((linkFlag).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName()).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName().trim()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(null).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().endsWith("/")) {   
+).endsWith("/")) { } if (!getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } } if ((name).endsWith("/")) {   
+).endsWith("/")) { } else if ((name == null).endsWith("/")) {   
+).endsWith("/")) { } else if (((File).endsWith("/")) {   
+).endsWith("/")) { } else if (getName() + getName(false).endsWith("/")) {   
+).endsWith("/")) { } if (getName()).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName().endsWith("/")) {   
+).endsWith("/")) { } else if (getPath().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if ((linkFlag & LF).endsWith("/")) {   
+).endsWith("/")) { } else if (!(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName().trim()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getFile().getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toUpperCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } } if (getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if ((file == null).endsWith("/")) {   
+).endsWith("/")) { } if ((linkFlag & LF_DIR).endsWith("/")) {   
+).endsWith("/")) { } if (!(getName()).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile(name).endsWith("/")) {   
+).endsWith("/")) { } } else if ((name).endsWith("/")) {   
+).endsWith("/")) { } else if ((getPath()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().endsWith("/")).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() == null).endsWith("/")) {   
+).endsWith("/")) { } if ((getName().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getNameAsString()).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().trimToSize().endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(1).endsWith("/")) {   
+).endsWith("/")) { } else if (getPath().trim().endsWith("/")) {   
+).endsWith("/")) { } else if (getParentName(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().endsWith("/")) {   
+).endsWith("/")) { } else if (getName() + getName(true).endsWith("/")) {   
+).endsWith("/")) { } if ((linkFlag).endsWith("/")) {   
+).endsWith("/")) { } else if (getNameAST#argument_list#Left().endsWith("/")) {   
+).endsWith("/")) { } else if (((String) getName).endsWith("/")) {   
+).endsWith("/")) { }else if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName() == null).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase() + "/").endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } else if (((String)getName).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(linkFlag).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName().toLowerCase().endsWith("/")) {   
+).endsWith("/")) { } else if (((file).endsWith("/")) {   
+).endsWith("/")) { } else if ((filename).endsWith("/")) {   
+).endsWith("/")) { } else if ((getLinkFlag() & LF).endsWith("/")) {   
+).endsWith("/")) { } if ((getName() != null).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (((String).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getPathName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().length() - 1).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + NL).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if (!(getName().endsWith("/")) {   
+).endsWith("/")) { } } else if ((getFile()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + File.separator).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName(true).endsWith("/")) {   
+).endsWith("/")) { } if ((getName().endsWith("/")) {   
+).endsWith("/")) { } else if ((getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if (getName(file).endsWith("/")) {   
+).endsWith("/")) { } else if (getName()).endsWith("/")) {   
+).endsWith("/")) { } else { if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if ((getLinkFlag() & LinkFlag).endsWith("/")) {   
+).endsWith("/")) { } else if ((getFile()).endsWith("/")) {   
+).endsWith("/")) { }else if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toLowerCase(LocaleData).endsWith("/")) {   
+).endsWith("/")) { }  if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } if (getFile().getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if (((File) getFile).endsWith("/")) {   
+).endsWith("/")) { } else if (getName() ().endsWith("/")) {   
+).endsWith("/")) { } else if ((getName(linkFlag).endsWith("/")) {   
+).endsWith("/")) { } } else if (!getName().trim().endsWith("/")) {   
+).endsWith("/")) { } else if ((isFile() || isDirectory()).endsWith("/")) {   
+).endsWith("/")) { } } if ((getName().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } if (getName().endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() << 1).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName(0).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + getFileExtension()).endsWith("/")) {   
+).endsWith("/")) { } if (getFile(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().trim().endsWith("/")) {   
+).endsWith("/")) { } } else if (getFile().getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName(null).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().trim().endsWith("/")) {   
+).endsWith("/")) { } } else if ((getFile().getName()).endsWith("/")) {   
+).endsWith("/")) { } if ((getName() + linkFlag).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toLowerCase().trim().endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toLowerCase() ).endsWith("/")) {   
+).endsWith("/")) { }  if ((getName()).endsWith("/")) {   
+).endsWith("/")) { } } else if ((linkFlag & LF).endsWith("/")) {   
+).endsWith("/")) { } else if (getParentPath(getName).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName(true).endsWith("/")) {   
+).endsWith("/")) { } else if (getPath().substring(0).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName()).toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName().toString()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + getSuffix()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase() + NL).endsWith("/")) {   
+).endsWith("/")) { } if (getName().toLowerCase().trim()).endsWith("/")) {   
+).endsWith("/")) { } } if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().substring(0).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName() + fileName).endsWith("/")) {   
+).endsWith("/")) { } if (getName().trimToSize().endsWith("/")) {   
+).endsWith("/")) { } if (getFile().getName(true).endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName() + "/").endsWith("/")) {   
+).endsWith("/")) { } } else if ((getName().endsWith("/")).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toLowerCase(locale).endsWith("/")) {   
+).endsWith("/")) { }  if (getName().toLowerCase(Locale).endsWith("/")) {   
+).endsWith("/")) { } } if (getName().toLowerCase().endsWith("/")) {   
+).endsWith("/")) { } if ((getName().trim()).endsWith("/")) {   
+).endsWith("/")) { } } else if (getName(null).endsWith("/")) {   
+).endsWith("/")) { } if (getFile().getName() ().endsWith("/")) {   
+).endsWith("/")) { } if ((getFile().getName()).endsWith("/")) {   
+).endsWith("/")) { } else if (getName().toString().trim()).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName() ).endsWith("/")) {   
+).endsWith("/")) { } else if (getFile().getName(false).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + fileExtension).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName() + linkFlag).endsWith("/")) {   
+).endsWith("/")) { } if (getParentPath(getName()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().toString()).endsWith("/")) {   
+).endsWith("/")) { } if ((linkFlag & LF_FILE).endsWith("/")) {   
+).endsWith("/")) { } if ((getName().trim().toLowerCase()).endsWith("/")) {   
+).endsWith("/")) { } else if ((getName().trim().length()).endsWith("/")) {   
+).endsWith("/")) { } if ((name).endsWith("/")) {   
+).endsWith("/")) { } } else if (!getName().toLowerCase().endsWith("/")) {   
+).endsWith("/")) { } else if (!getName().toUpperCase(Locale).endsWith("/")) {   
+if (getName().endsWith(CR)) {   
+if (getName().endsWith(File.separator)) {   
+if (getName().endsWith(LF)) {   
+if (getName().endsWith(separator)) {   
+if (getName().endsWith(SLASH)) {   
+if (getName().endsWith(sep)) {   
+if (getName().endsWith(slashSeparator)) {   
+if (getName().endsWith(NL)) {   
+if (getName().endsWith(SEPARATOR)) {   
+if (getName().endsWith(slash)) {   
+if (getName().endsWith(fileExtension)) {   
+if (getName().endsWith(fileName)) {   
+if (getName().endsWith(fileSeparator)) {   
+if (getName().endsWith(pathSeparator)) {   
+if (getName().endsWith(EXT)) {   
+if (getName().endsWith(PATH_SEPARATOR)) {   
+if (getName().endsWith(DS)) {   
+if (getName().endsWith(ext)) {   
+if (getName().endsWith(FILE)) {   
+if (getName().endsWith(EOL)) {   
+if (getName().endsWith(linkFlag)) {   
+if (getName().endsWith(FILE_SUFFIX)) {   
+if (getName().endsWith(fileSuffix)) {   
+if (getName().endsWith(LF_FILE)) {   
+if (getName().endsWith(NEWLINE)) {   
+if (getName().endsWith(FILE_EXT)) {   
+if (getName().endsWith(RC)) {   
+if (getName().endsWith(name)) {   
+if (getName().endsWith(Separator)) {   
+if (getName().endsWith(path)) {   
+if (getName().endsWith(FTP_SUFFIX)) {   
+if (getName().endsWith(SEP)) {   
+if (getName().endsWith(NEW)) {   
+if (getName().endsWith(LS)) {   
+if (getName().endsWith(COLON)) {   
+if (getName().endsWith(fileExt)) {   
+if (getName().endsWith(LINK_SUFFIX)) {   
+if (getName().endsWith(nameSeparator)) {   
+if (getName().endsWith(R)) {   
+if (getName().endsWith(FTP_EXT)) {   
+if (getName().endsWith(SUFFIX)) {   
+if (getName().endsWith(FTP_FILE)) {   
+if (getName().endsWith(Path.SEPARATOR)) {   
+if (getName().endsWith(DOT)) {   
+if (getName().endsWith(nl)) {   
+if (getName().endsWith(PATH_SEP)) {   
+if (getName().endsWith(CRLF)) {   
+if (getName().endsWith(FILE_EXTENSION)) {   
+if (getName().endsWith(CR_LF)) {   
+if (getName().endsWith(filename)) {   
+if (getName().endsWith(C)) {   
+if (getName().endsWith(filePath)) {   
+if (getName().endsWith(LF_SUFFIX)) {   
+if (getName().endsWith(delimiter)) {   
+if (getName().endsWith(FORWARD_SLASH)) {   
+if (getName().endsWith(CLOSE)) {   
+if (getName().endsWith(nameSuffix)) {   
+if (getName().endsWith(lineSeparator)) {   
+if (getName().endsWith(linkSuffix)) {   
+if (getName().endsWith(FTP_DIR)) {   
+if (getName().endsWith(pathSuffix)) {   
+if (getName().endsWith(suffix)) {   
+if (getName().endsWith(LINK)) {   
+if (getName().endsWith(LF_EXT)) {   
+if (getName().endsWith(LF_DIR)) {   
+if (getName().endsWith(P)) {   
+if (getName().endsWith(L)) {   
+if (getName().endsWith(LF_NAME)) {   
+if (getName().endsWith(Files.separator)) {   
+if (getName().endsWith(FTP)) {   
+if (getName().endsWith(SLASH_CHAR)) {   
+if (getName().endsWith(FTP_SEPARATOR)) {   
+if (getName().endsWith(COMMENT)) {   
+if (getName().endsWith(fileSep)) {   
+if (getName().endsWith(HEAD)) {   
+if (getName().endsWith(ln)) {   
+if (getName().endsWith(SPACE)) {   
+if (getName().endsWith(file)) {   
+if (getName().endsWith(CS)) {   
+if (getName().endsWith(SP)) {   
+if (getName().endsWith(OP)) {   
+if (getName().endsWith(HIDDEN)) {   
+if (getName().endsWith(DELIMITER)) {   
+if (getName().endsWith(FTP_SEP)) {   
+if (getName().endsWith(URL_SEPARATOR)) {   
+if (getName().endsWith(separatorChar)) {   
+if (getName().endsWith(EXTENSION)) {   
+if (getName().endsWith(PARENT)) {   
+if (getName().endsWith(SL)) {   
+if (getName().endsWith(FTP_CLOSE)) {   
+if (getName().endsWith(OPEN)) {   
+if (getName().endsWith(OTHER)) {   
+if (getName().endsWith(AT)) {   
+if (getName().endsWith(rel)) {   
+if (getName().endsWith(pathSep)) {   
+if (getName().endsWith(N)) {   
+if (getName().endsWith(FTP_FOLDER)) {   
+if (getName().endsWith(URL)) {   
+if (getName().endsWith(ID)) {   
+if (getName().endsWith(FOOTER)) {   
+if (getName().endsWith(pattern)) {   
+if (getName().endsWith(FILESUFFIX)) {   
+if (getName().endsWith("")) {   
+if (getName().endsWith(LINK_EXT)) {   
+if (getName().endsWith(LS_EXT)) {   
+if (getName().endsWith(delim)) {   
+if (getName().endsWith(LF_SLASH)) {   
+if (getName().endsWith(NEW_LINE)) {   
+if (getName().endsWith(NORMAL)) {   
+if (getName().endsWith(nameDelimiter)) {   
+if (getName().endsWith(DIR_SUFFIX)) {   
+if (getName().endsWith(EOF)) {   
+if (getName().endsWith(R_SLASH)) {   
+if (getName().endsWith(p)) {   
+if (getName().endsWith(LF_CHAR)) {   
+if (getName().endsWith(O)) {   
+if (getName().endsWith(EQUALS)) {   
+if (getName().endsWith(DIR)) {   
+if (getName().endsWith(TMP)) {   
+if (getName().endsWith(LINE_SEPARATOR)) {   
+if (getName().endsWith(STOP)) {   
+if (getName().endsWith(pathDelimiter)) {   
+if (getName().endsWith(FILE_SEPARATOR)) {   
+if (getName().endsWith(LINUX_EXT)) {   
+if (getName().endsWith(regex)) {   
+if (getName().endsWith(directorySuffix)) {   
+if (getName().endsWith(ldelim)) {   
+if (getName().endsWith(r)) {   
+if (getName().endsWith(TAB)) {   
+if (getName().endsWith(LD)) {   
+if (getName().endsWith(S)) {   
+if (getName().endsWith(directorySeparator)) {   
+if (getName().endsWith(LBRACE)) {   
+if (getName().endsWith(":")) {   
+if (getName().endsWith(CR_FILE)) {   
+if (getName().endsWith(POSTFIX)) {   
+if (getName().endsWith(QUOTE)) {   
+if (getName().endsWith(FTP2)) {   
+if (getName().endsWith(NUL)) {   
+if (getName().endsWith(DELETED)) {   
+if (getName().endsWith(PATH)) {   
+if (getName().endsWith(LFD)) {   
+if (getName().endsWith(RC_EXT)) {   
+if (getName().endsWith(Ext)) {   
+if (getName().endsWith(FOLDERS)) {   
+if (getName().endsWith(SC)) {   
+if (getName().endsWith(CSLASH)) {   
+if (getName().endsWith(UNDERSCORE)) {   
+if (getName().endsWith(LINK_SEPARATOR)) {   
+if (getName().endsWith(LF_END)) {   
+if (getName().endsWith(fileNameSuffix)) {   
+if (getName().endsWith(LINUX)) {   
+if (getName().endsWith(lf)) {   
+if (getName().endsWith(WINDOWS)) {   
+if (getName().endsWith(URL_EXT)) {   
+if (getName().endsWith(TRAILER)) {   
+if (getName().endsWith(END)) {   
+if (getName().endsWith(STAR)) {   
+if (getName().endsWith(NEW_PATH)) {   
+if (getName().endsWith(SN)) {   
+if (getName().endsWith(FORWARD)) {   
+if (getName().endsWith(Dir)) {   
+if (getName().endsWith(HIDDEN_SUFFIX)) {   
+if (getName().endsWith(slashChar)) {   
+if (getName().endsWith(RC_DIR)) {   
+if (getName().endsWith(symlinkFlag)) {   
+if (getName().endsWith(UTF8)) {   
+if (getName().endsWith(LINEEND)) {   
+if (getName().endsWith(UNIX_SEPARATOR)) {   
+if (getName().endsWith(parentName)) {   
+if (getName().endsWith(SPLASH)) {   
+if (getName().endsWith(OS_SEP)) {   
+if (getName().endsWith(FTP_PROTOCOL)) {   
+if (getName().endsWith(newLine)) {   
+if (getName().endsWith(NB)) {   
+if (getName().endsWith(LS_SUFFIX)) {   
+if (getName().endsWith(LSPACE)) {   
+if (getName().endsWith(DIRECTORY_SUFFIX)) {   
+if (getName().endsWith(fi)) {   
+if (getName().endsWith(crlf)) {   
+if (getName().endsWith(SPLIT)) {   
+if (getName().endsWith(DELIM)) {   
+if (getName().endsWith(symlinkSeparator)) {   
+if (getName().endsWith(prefix)) {   
+if (getName().endsWith(Q)) {   
+if (getName().endsWith(NEW_NAME)) {   
+if (getName().endsWith(DASH)) {   
+if (getName().endsWith(dir)) {   
+if (getName().endsWith(forwardSlash)) {   
+if (getName().endsWith(dirSuffix)) {   
+if (getName().endsWith(anchor)) {   
+if (getName().endsWith(DIRECTORY)) {   
+if (getName().endsWith(DELETED_SUFFIX)) {   
+if (getName().endsWith(LF_SEPARATOR)) {   
+if (getName().endsWith(DirSeparator)) {   
+if (getName().endsWith(R_FILE)) {   
+if (getName().endsWith(NAME_SEPARATOR)) {   
+if (getName().endsWith(FOLDER)) {   
+if (getName().endsWith(FileSeparator)) {   
+if (getName().endsWith(dirSeparator)) {   
+if (getName().endsWith(LS_DIR)) {   
+if (getName().endsWith(RC_FILE)) {   
+if (getName().endsWith(FTP_PATH)) {   
+if (getName().endsWith(FTP_NAME)) {   
+if (getName().endsWith(EXT_DIR)) {   
+if (getName().endsWith(LEND)) {   
+if (getName().endsWith(WINDOWS_SEPARATOR)) {   
+if (getName().endsWith(FTP_DIRECTORY)) {   
+if (getName().endsWith(FTP_EXTENSION)) {   
+if (getName().endsWith(FILE_NAME)) {   
+if (getName().endsWith(Constants.LF)) {   
+if (getName().endsWith(NEW_DIR)) {   
+if (getName().endsWith(getFileExtension)) {   
+if (getName().endsWith(OS_SEPARATOR)) {   
+if (getName().endsWith(FS_EXT)) {   
+if (getName().endsWith(RC_SUFFIX)) {   
+if (getName().endsWith(CR_DIR)) {   
+if (getName().endsWith(NEW_DIRECTORY)) {   
+if (getName().endsWith(LS_FILE)) {   
+if (getName().endsWith(C_SLASH)) {   
+if (getName().endsWith(NEW_FILE)) {   
+if (getName().endsWith(LD_EXT)) {   
+if (getName().endsWith(LENDER)) {   
+if (getName().endsWith(L_SLASH)) {   
+if (getName().endsWith(FTP_CRLF)) {   
+if (getName().endsWith(UTF_8)) {   
+if (getName().endsWith(IO_EXT)) {   
+if (getName().endsWith(this.name)) {   
+if (getName().endsWith(DOLLAR)) {   
+if (getName().endsWith(NEW_FOLDER)) {   
+if (getName().endsWith(CR_SLASH)) {   
+if (getName().endsWith(REFS)) {   
+if (getName().endsWith(TMP_DIR)) {   
+if (getName().endsWith(LFN)) {   
+if (getName().endsWith(FOLDER_SUFFIX)) {   
+if (getName().endsWith(Pattern.quote)) {   
+if (getName().endsWith(CR_CHAR)) {   
+if (getName().endsWith(Character.separator)) {   
+if (getName().endsWith(OS_EOL)) {   
+if (getName().endsWith(L_SEPARATOR)) {   
+if (getName().endsWith(EXT_FILE)) {   
+if (getName().endsWith(URL_SUFFIX)) {   
+if (getName().endsWith(OS_EXT)) {   
+if (getName().endsWith(LinkFlag)) {   
+if (getName().endsWith(SPLIT_CHAR)) {   
+if (getName().endsWith(IO_SEP)) {   
+if (getName().endsWith(FTP_PREFIX)) {   
+if (getName().endsWith(URLEscape)) {   
+if (getName().endsWith(FileExt)) {   
+if (getName().endsWith(NAME_SUFFIX)) {   
+if (getName().endsWith("/", true)) {   
+if (getName().endsWith("/", 1)) {   
+if (getName().endsWith("/", 2)) {   
+if (getName().endsWith("/", false)) {   
+if (getName().endsWith("/", 0)) {   
+if (getName().endsWith("/", -1)) {   
+if (getName().endsWith("/", 3)) {   
+if (getName().endsWith("/",1)) {   
+if (getName().endsWith("/", linkFlag)) {   
+if (getName().endsWith("/",2)) {   
+if (getName().endsWith("/", TRUE)) {   
+if (getName().endsWith("/", 8)) {   
+if (getName().endsWith("/", 4)) {   
+if (getName().endsWith("/", lf)) {   
+if (getName().endsWith("/", 10)) {   
+if (getName().endsWith("/", 5)) {   
+if (getName().endsWith("/",true)) {   
+if (getName().endsWith("/", 6)) {   
+if (getName().endsWith("/",false)) {   
+if (getName().endsWith("/", separator)) {   
+if (getName().endsWith("/", null)) {   
+if (getName().endsWith("/", 7)) {   
+if (getName().endsWith("/", LF_DIR)) {   
+if (getName().endsWith("/", +1)) {   
+if (getName().endsWith("/", 100)) {   
+if (getName().endsWith("/", FALSE)) {   
+if (getName().endsWith("/", "/")) {   
+if (getName().endsWith("/",0)) {   
+if (getName().endsWith("/", 1024)) {   
+if (getName().endsWith("/", 13)) {   
+if (getName().endsWith("/", line)) {   
+if (getName().endsWith("/", 30)) {   
+if (getName().endsWith("/", file)) {   
+if (getName().endsWith("/", /)) {   
+if (getName().endsWith("/", 4096)) {   
+if (getName().endsWith("/", sep)) {   
+if (getName().endsWith("/", 32)) {   
+if (getName().endsWith("/", count)) {   
+if (getName().endsWith("/", 16)) {   
+if (getName().endsWith("/", !linkFlag)) {   
+if (getName().endsWith("/", l)) {   
+if (getName().endsWith("/", L)) {   
+if (getName().endsWith("/", 0, 1)) {   
+if (getName().endsWith("/", start)) {   
+if (getName().endsWith("/", 8192)) {   
+if (getName().endsWith("/", forwardSlash)) {   
+if (getName().endsWith("/", 9)) {   
+if (getName().endsWith("/", LF)) {   
+if (getName().endsWith("/", length)) {   
+if (getName().endsWith("/", doubleSlash)) {   
+if (getName().endsWith("/", 12)) {   
+if (getName().endsWith("/", i)) {   
+if (getName().endsWith("/", 1000)) {   
+if (getName().endsWith("/",3)) {   
+if (getName().endsWith("/", 1, 2)) {   
+if (getName().endsWith("/", EXT)) {   
+if (getName().endsWith("/", 1, 1)) {   
+if (getName().endsWith("/", lastSlash)) {   
+if (getName().endsWith("/", endSlash)) {   
+if (getName().endsWith("/", this)) {   
+if (getName().endsWith("/", 0, 2)) {   
+if (getName().endsWith("/", too)) {   
+if (getName().endsWith("/", fileName)) {   
+if (getName().endsWith("/", LF_FILE)) {   
+if (getName().endsWith("/", 80)) {   
+if (getName().endsWith("/", lfFlag)) {   
+if (getName().endsWith("/", "\\")) {   
+if (getName().endsWith("/", fi)) {   
+if (getName().endsWith("/", f)) {   
+if (getName().endsWith("/",5)) {   
+if (getName().endsWith("/", True)) {   
+if (getName().endsWith("/", "")) {   
+if (getName().endsWith("/", "=")) {   
+if (getName().endsWith("/", P)) {   
+if (getName().endsWith("/", 200)) {   
+if (getName().endsWith("/", end)) {   
+if (getName().endsWith("/", false, true)) {   
+if (getName().endsWith("/", fileExtension)) {   
+if (getName().endsWith("/", CRLF)) {   
+if (getName().endsWith("/", File.separator)) {   
+if (getName().endsWith("/", LinkFlag)) {   
+if (getName().endsWith("/",-1)) {   
+if (getName().endsWith("/", CR)) {   
+if (getName().endsWith("/",  false)) {   
+if (getName().endsWith("/", fileCount)) {   
+if (getName().endsWith("/", charCount)) {   
+if (getName().endsWith("/", EXTENSION)) {   
+if (getName().endsWith("/", endsWithSlash)) {   
+if (getName().endsWith("/", E)) {   
+if (getName().endsWith("/", 0777)) {   
+if (getName().endsWith("/", C)) {   
+if (getName().endsWith("/", FILE_EXT)) {   
+if (getName().endsWith("/", 15)) {   
+if (getName().endsWith("/", len)) {   
+if (getName().endsWith("/", N)) {   
+if (getName().endsWith("/", slash)) {   
+if (getName().endsWith("/", -2)) {   
+if (getName().endsWith("/", linkFlag)) {   
+if (getName().endsWith("/", two)) {   
+if (getName().endsWith("/", ftp)) {   
+if (getName().endsWith("/", index)) {   
+if (getName().endsWith("/", ext)) {   
+if (getName().endsWith("/", trailingSlash)) {   
+if (getName().endsWith("/", fileIndex)) {   
+if (getName().endsWith("/", LF_EXT)) {   
+if (getName().endsWith("/",4)) {   
+if (getName().endsWith("/", FILE_EXTENSION)) {   
+if (getName().endsWith("/", e)) {   
+if (getName().endsWith("/", NL)) {   
+if (getName().endsWith("/", flags)) {   
+if (getName().endsWith("/", $)) {   
+if (getName().endsWith("/", F)) {   
+if (getName().endsWith("/", firstSlash)) {   
+if (getName().endsWith("/", pos)) {   
+if (getName().endsWith("/", False)) {   
+if (getName().endsWith("/", false, false)) {   
+if (getName().endsWith("/", true, true)) {   
+if (getName().endsWith("/", 14)) {   
+if (getName().endsWith("/", LF_END)) {   
+if (getName().endsWith("/", D)) {   
+if (getName().endsWith("/", error)) {   
+if (getName().endsWith("/",linkFlag)) {   
+if (getName().endsWith("/", filename)) {   
+if (getName().endsWith("/",LF_DIR)) {   
+if (getName().endsWith("/", 128)) {   
+if (getName().endsWith("/", $1)) {   
+if (getName().endsWith("/", RD)) {   
+if (getName().endsWith("/", EOL)) {   
+if (getName().endsWith("/", 2 )) {   
+if (getName().endsWith("/", 11)) {   
+if (getName().endsWith("/",10)) {   
+if (getName().endsWith("/", linkFlags)) {   
+if (getName().endsWith("/", 50)) {   
+if (getName().endsWith("/", 47)) {   
+if (getName().endsWith("/", O)) {   
+if (getName().endsWith("/", flag)) {   
+if (getName().endsWith("/", int)) {   
+if (getName().endsWith("/", separatorChar)) {   
+if (getName().endsWith("/",8)) {   
+if (getName().endsWith("/", ok)) {   
+if (getName().endsWith("/", name)) {   
+if (getName().endsWith("/", 20)) {   
+if (getName().endsWith("/", fileSeparator)) {   
+if (getName().endsWith("/", now)) {   
+if (getName().endsWith("/", eof)) {   
+if (getName().endsWith("/", strictSlash)) {   
+if (getName().endsWith("/", 17)) {   
+if (getName().endsWith("/", IOException.class)) {   
+if (getName().endsWith("/",  true)) {   
+if (getName().endsWith("/", 64)) {   
+if (getName().endsWith("/",L)) {   
+if (getName().endsWith("/", LF_SLASH)) {   
+if (getName().endsWith("/", n)) {   
+if (getName().endsWith("/", 2048)) {   
+if (getName().endsWith("/", ++depth)) {   
+if (getName().endsWith("/", lastChar)) {   
+if (getName().endsWith("/", 500)) {   
+if (getName().endsWith("/", fd)) {   
+if (getName().endsWith("/", 2, 2)) {   
+if (getName().endsWith("/", separatorIndex)) {   
+if (getName().endsWith("/", empty)) {   
+if (getName().endsWith("/", true, false)) {   
+if (getName().endsWith("/", delimiter)) {   
+if (getName().endsWith("/", EOF)) {   
+if (getName().endsWith("/", '/')) {   
+if (getName().endsWith("/", p)) {   
+if (getName().endsWith("/", limit)) {   
+if (getName().endsWith("/", mode)) {   
+if (getName().endsWith("/", lineSeparator)) {   
+if (getName().endsWith("/", verbose)) {   
+if (getName().endsWith("/", comment)) {   
+if (getName().endsWith("/", strict)) {   
+if (getName().endsWith("/", SLASH)) {   
+if (getName().endsWith("/", fl)) {   
+if (getName().endsWith("/", fileExt)) {   
+if (getName().endsWith("/", symlinkFlag)) {   
+if (getName().endsWith("/", lineNum)) {   
+if (getName().endsWith("/", 1, 3)) {   
+if (getName().endsWith("/", ls)) {   
+if (getName().endsWith("/", r)) {   
+if (getName().endsWith("/", 0, 0)) {   
+if (getName().endsWith("/", lineSep)) {   
+if (getName().endsWith("/", "+1)) {   
+if (getName().endsWith("/", FILE)) {   
+if (getName().endsWith("/", PE)) {   
+if (getName().endsWith("/", HT)) {   
+if (getName().endsWith("/", lf2)) {   
+if (getName().endsWith("/", boolean.class)) {   
+if (getName().endsWith("/", 0, 3)) {   
+if (getName().endsWith("/", 2, 3)) {   
+if (getName().endsWith("/", slashCount)) {   
+if (getName().endsWith("/", F_EXT)) {   
+if (getName().endsWith("/", lastSeparator)) {   
+if (getName().endsWith("/", notSlash)) {   
+if (getName().endsWith("/", File::isDirectory)) {   
+if (getName().endsWith("/", FILE_SUFFIX)) {   
+if (getName().endsWith("/", 1, 0)) {   
+if (getName().endsWith("/", LN)) {   
+if (getName().endsWith("/", FTP2)) {   
+if (getName().endsWith("/", LENDER)) {   
+if (getName().endsWith("/", LF_CHAR)) {   
+if (getName().endsWith("/", Posix)) {   
+if (getName().endsWith("/", 0, length)) {   
+if (getName().endsWith("/", "-1)) {   
+if (getName().endsWith("/", BUFFER_SIZE)) {   
+if (getName().endsWith("/", F_DIR)) {   
+if (getName().endsWith("/", FOLDERS)) {   
+if (getName().endsWith("/", BUF_SIZE)) {   
+if (getName().endsWith("/", !slash)) {   
+if (getName().endsWith("/", FOLDER)) {   
+if (getName().endsWith("/", MAX_LENGTH)) {   
+if (getName().endsWith("/", LOG_DIR)) {   
+if (getName().endsWith("/", 0, 8)) {   
+if (getName().endsWith("/", F_DOT)) {   
+if (getName().endsWith("/", 0, 4)) {   
+if (getName().endsWith("/", OLD)) {   
+if (getName().endsWith("/", F_LINK)) {   
+if (getName().endsWith("/", EXT_DIR)) {   
+if (getName().endsWith("/",1,1)) {   
+if (getName().endsWith("/", CRLF_DIR)) {   
+if (getName().endsWith("/", L_SLASH)) {   
+if (getName().endsWith("/", FTP_DIR)) {   
+if (getName().endsWith("/", LF_DOT)) {   
+if (getName().endsWith("/", LF_SUB)) {   
+if (getName().endsWith("/", IO_SEP)) {   
+if (getName().endsWith("/", F_PATH)) {   
+if (getName().endsWith("/", LEND)) {   
+if (getName().endsWith("/", os.separator)) {   
+if (getName().endsWith("/", LF_SEPARATOR)) {   
+if (getName().endsWith("/", L_DIR)) {   
+if (getName().endsWith("/", !file)) {   
+if (getName().endsWith("/", FTP_EXT)) {   
+if (getName().endsWith("/", strlen(name)) {   
+if (getName().endsWith("/", 0, 10)) {   
+if (getName().endsWith("/", boolean.FALSE)) {   
+if (getName().endsWith("/", 1, true)) {   
+if (getName().endsWith("/",1,2)) {   
+if (getName().endsWith("/", F_FILE)) {   
+if (getName().endsWith("/", FILE_SEPARATOR)) {   
+if (getName().endsWith("/", 2+2)) {   
+if (getName().endsWith("/", 0, 6)) {   
+if (getName().endsWith("/", MAX_PATH)) {   
+if (getName().endsWith("/", "-1")) {   
+if (getName().endsWith("/", LFS)) {   
+if (getName().endsWith("/", L_SEPARATOR)) {   
+if (getName().endsWith("/", CF_DIR)) {   
+if (getName().endsWith("/", false, 0)) {   
+if (getName().endsWith("/", EXTENSIONS)) {   
+if (getName().endsWith("/", ?1)) {   
+if (getName().endsWith("/", PE_DIR)) {   
+if (getName().endsWith(File.separator,"/")) {   
+if (getName().endsWith(separator,"/")) {   
+if (getName().endsWith(name,"/")) {   
+if (getName().endsWith("","/")) {   
+if (getName().endsWith(path,"/")) {   
+if (getName().endsWith(NL,"/")) {   
+if (getName().endsWith(URL,"/")) {   
+if (getName().endsWith(pathSeparator,"/")) {   
+if (getName().endsWith(sep,"/")) {   
+if (getName().endsWith(CR,"/")) {   
+if (getName().endsWith(fileName,"/")) {   
+if (getName().endsWith(SLASH,"/")) {   
+if (getName().endsWith(nl,"/")) {   
+if (getName().endsWith(SEPARATOR,"/")) {   
+if (getName().endsWith(linkFlag,"/")) {   
+if (getName().endsWith(file,"/")) {   
+if (getName().endsWith(C,"/")) {   
+if (getName().endsWith(slash,"/")) {   
+if (getName().endsWith(PATH_SEPARATOR,"/")) {   
+if (getName().endsWith(L,"/")) {   
+if (getName().endsWith(EOL,"/")) {   
+if (getName().endsWith(File,"/")) {   
+if (getName().endsWith(filePath,"/")) {   
+if (getName().endsWith(slashSeparator,"/")) {   
+if (getName().endsWith(Separator,"/")) {   
+if (getName().endsWith(fileSeparator,"/")) {   
+if (getName().endsWith(LF,"/")) {   
+if (getName().endsWith(":","/")) {   
+if (getName().endsWith(",","/")) {   
+if (getName().endsWith(delimiter,"/")) {   
+if (getName().endsWith(null,"/")) {   
+if (getName().endsWith(fileExtension,"/")) {   
+if (getName().endsWith(N,"/")) {   
+if (getName().endsWith(Dir,"/")) {   
+if (getName().endsWith(NEWLINE,"/")) {   
+if (getName().endsWith(filename,"/")) {   
+if (getName().endsWith(DELIMITER,"/")) {   
+if (getName().endsWith(FTP,"/")) {   
+if (getName().endsWith(R,"/")) {   
+if (getName().endsWith(System,"/")) {   
+if (getName().endsWith(LD,"/")) {   
+if (getName().endsWith(Files.separator,"/")) {   
+if (getName().endsWith(separatorChar,"/")) {   
+if (getName().endsWith(Path.SEPARATOR,"/")) {   
+if (getName().endsWith(URL_SEPARATOR,"/")) {   
+if (getName().endsWith(FILE_SEPARATOR,"/")) {   
+if (getName().endsWith(dir,"/")) {   
+if (getName().endsWith(LS,"/")) {   
+if (getName().endsWith(ls,"/")) {   
+if (getName().endsWith(StringUtil,"/")) {   
+if (getName().endsWith(Pattern,"/")) {   
+if (getName().endsWith(FILE,"/")) {   
+if (getName().endsWith(SEP,"/")) {   
+if (getName().endsWith(OS,"/")) {   
+if (getName().endsWith(filepath,"/")) {   
+if (getName().endsWith(url,"/")) {   
+if (getName().endsWith(ln,"/")) {   
+if (getName().endsWith(PATH_SEP,"/")) {   
+if (getName().endsWith(pathDelimiter,"/")) {   
+if (getName().endsWith(SPACE,"/")) {   
+if (getName().endsWith(this,"/")) {   
+if (getName().endsWith(OTHER,"/")) {   
+if (getName().endsWith(prefix,"/")) {   
+if (getName().endsWith(COMMENT,"/")) {   
+if (getName().endsWith(DS,"/")) {   
+if (getName().endsWith(NEW,"/")) {   
+if (getName().endsWith(FILE_SUFFIX,"/")) {   
+if (getName().endsWith(Directory,"/")) {   
+if (getName().endsWith(".","/")) {   
+if (getName().endsWith(LinkFlag,"/")) {   
+if (getName().endsWith(StringUtil.SLASH,"/")) {   
+if (getName().endsWith(parent,"/")) {   
+if (getName().endsWith(Pattern.quote,"/")) {   
+if (getName().endsWith(directorySeparator,"/")) {   
+if (getName().endsWith(0,"/")) {   
+if (getName().endsWith(getFileSeparator,"/")) {   
+if (getName().endsWith(PARENT,"/")) {   
+if (getName().endsWith(SLASH_CHAR,"/")) {   
+if (getName().endsWith(CS,"/")) {   
+if (getName().endsWith(RC,"/")) {   
+if (getName().endsWith(CRLF,"/")) {   
+if (getName().endsWith(COLON,"/")) {   
+if (getName().endsWith(FILE_EXT,"/")) {   
+if (getName().endsWith(new File,"/")) {   
+if (getName().endsWith(S,"/")) {   
+if (getName().endsWith(Path,"/")) {   
+if (getName().endsWith(P,"/")) {   
+if (getName().endsWith(IL,"/")) {   
+if (getName().endsWith(lineSeparator,"/")) {   
+if (getName().endsWith(fileSuffix,"/")) {   
+if (getName().endsWith(separators,"/")) {   
+if (getName().endsWith(LFD,"/")) {   
+if (getName().endsWith(HEAD,"/")) {   
+if (getName().endsWith(pathSep,"/")) {   
+if (getName().endsWith(relativePath,"/")) {   
+if (getName().endsWith(LBR,"/")) {   
+if (getName().endsWith(StringUtils.SLASH,"/")) {   
+if (getName().endsWith(PATH,"/")) {   
+if (getName().endsWith(DIRECTORY_SEPARATOR,"/")) {   
+if (getName().endsWith(STRING_SEPARATOR,"/")) {   
+if (getName().endsWith(parentName,"/")) {   
+if (getName().endsWith(FILE_EXTENSION,"/")) {   
+if (getName().endsWith(suffix,"/")) {   
+if (getName().endsWith(getFileExtension,"/")) {   
+if (getName().endsWith(reader,"/")) {   
+if (getName().endsWith(dirName,"/")) {   
+if (getName().endsWith(nameSeparator,"/")) {   
+if (getName().endsWith(ext,"/")) {   
+if (getName().endsWith(Char,"/")) {   
+if (getName().endsWith(substring,"/")) {   
+if (getName().endsWith(UNIX_SEPARATOR,"/")) {   
+if (getName().endsWith(dirSeparator,"/")) {   
+if (getName().endsWith(PathUtils,"/")) {   
+if (getName().endsWith(DEFAULT_NAME,"/")) {   
+if (getName().endsWith(defaultName,"/")) {   
+if (getName().endsWith(String,"/")) {   
+if (getName().endsWith(PROTOCOL,"/")) {   
+if (getName().endsWith(delim,"/")) {   
+if (getName().endsWith(URI,"/")) {   
+if (getName().endsWith(DirectorySeparator,"/")) {   
+if (getName().endsWith(DIR,"/")) {   
+if (getName().endsWith(NEW_LINE,"/")) {   
+if (getName().endsWith(dirSep,"/")) {   
+if (getName().endsWith( "\\","/")) {   
+if (getName().endsWith(DEFAULT_SEP,"/")) {   
+if (getName().endsWith(LF_DIR,"/")) {   
+if (getName().endsWith(EQUALS,"/")) {   
+if (getName().endsWith( "/","/")) {   
+if (getName().endsWith(Folder,"/")) {   
+if (getName().endsWith(DEFAULT_SEPARATOR,"/")) {   
+if (getName().endsWith(trim,"/")) {   
+if (getName().endsWith(pathname,"/")) {   
+if (getName().endsWith(regex,"/")) {   
+if (getName().endsWith(pattern,"/")) {   
+if (getName().endsWith(base,"/")) {   
+if (getName().endsWith(l,"/")) {   
+if (getName().endsWith(r,"/")) {   
+if (getName().endsWith(NUL,"/")) {   
+if (getName().endsWith(DEFAULT_DIR,"/")) {   
+if (getName().endsWith(os.sep,"/")) {   
+if (getName().endsWith(fileExt,"/")) {   
+if (getName().endsWith(parentPath,"/")) {   
+if (getName().endsWith(EOL_CHAR,"/")) {   
+if (getName().endsWith(Delimiter,"/")) {   
+if (getName().endsWith(CR_LF,"/")) {   
+if (getName().endsWith(System.getProperty,"/")) {   
+if (getName().endsWith(basePath,"/")) {   
+if (getName().endsWith(HIDDEN,"/")) {   
+if (getName().endsWith(File::getName,"/")) {   
+if (getName().endsWith(FileExt,"/")) {   
+if (getName().endsWith(basename,"/")) {   
+if (getName().endsWith(filter,"/")) {   
+if (getName().endsWith(QuotedString,"/")) {   
+if (getName().endsWith(FileUtils,"/")) {   
+if (getName().endsWith(SEPARATOR_CHAR,"/")) {   
+if (getName().endsWith(LINUX,"/")) {   
+if (getName().endsWith(char,"/")) {   
+if (getName().endsWith(false,"/")) {   
+if (getName().endsWith(STRING,"/")) {   
+if (getName().endsWith(String.valueOf,"/")) {   
+if (getName().endsWith(SN,"/")) {   
+if (getName().endsWith(FILE_NAME,"/")) {   
+if (getName().endsWith(DOT,"/")) {   
+if (getName().endsWith(getFileExtension(),"/")) {   
+if (getName().endsWith(POSTFIX,"/")) {   
+if (getName().endsWith(newLine,"/")) {   
+if (getName().endsWith(2,"/")) {   
+if (getName().endsWith(OPEN,"/")) {   
+if (getName().endsWith(directory,"/")) {   
+if (getName().endsWith(options,"/")) {   
+if (getName().endsWith(CR_,"/")) {   
+if (getName().endsWith(FileName,"/")) {   
+if (getName().endsWith(pathSuffix,"/")) {   
+if (getName().endsWith(BACKSLASH,"/")) {   
+if (getName().endsWith(os,"/")) {   
+if (getName().endsWith(baseDir,"/")) {   
+if (getName().endsWith(Q,"/")) {   
+if (getName().endsWith(JK,"/")) {   
+if (getName().endsWith(SUFFIX,"/")) {   
+if (getName().endsWith(LINUX_SEPARATOR,"/")) {   
+if (getName().endsWith(DEFAULT_PATH,"/")) {   
+if (getName().endsWith(EXT,"/")) {   
+if (getName().endsWith(text,"/")) {   
+if (getName().endsWith(Name,"/")) {   
+if (getName().endsWith(U,"/")) {   
+if (getName().endsWith(OTHER_DIR,"/")) {   
+if (getName().endsWith(DirSeparator,"/")) {   
+if (getName().endsWith(str,"/")) {   
+if (getName().endsWith(stringDelimiter,"/")) {   
+if (getName().endsWith(CURL,"/")) {   
+if (getName().endsWith(uri,"/")) {   
+if (getName().endsWith(LINE_SEPARATOR,"/")) {   
+if (getName().endsWith(file.name,"/")) {   
+if (getName().endsWith(NEW_PATH,"/")) {   
+if (getName().endsWith(index,"/")) {   
+if (getName().endsWith(symlinkSeparator,"/")) {   
+if (getName().endsWith(getSeparator,"/")) {   
+if (getName().endsWith(lslash,"/")) {   
+if (getName().endsWith(fileSep,"/")) {   
+if (getName().endsWith( File.separator,"/")) {   
+if (getName().endsWith(LF_SLASH,"/")) {   
+if (getName().endsWith(FS_SEPARATOR,"/")) {   
+if (getName().endsWith(SystemUtil,"/")) {   
+if (getName().endsWith(Path.separator,"/")) {   
+if (getName().endsWith(DEFAULT_DIRECTORY,"/")) {   
+if (getName().endsWith(FILE_SEP,"/")) {   
+if (getName().endsWith(OTHER_NAME,"/")) {   
+if (getName().endsWith(DIRECTORY_SUFFIX,"/")) {   
+if (getName().endsWith(FileExtension,"/")) {   
+if (getName().endsWith(NAME_SEPARATOR,"/")) {   
+if (getName().endsWith(os.separator,"/")) {   
+if (getName().endsWith(DEFAULT_FILE,"/")) {   
+if (getName().endsWith(URLE,"/")) {   
+if (getName().endsWith(fs.separator,"/")) {   
+if (getName().endsWith(DIR_SUFFIX,"/")) {   
+if (getName().endsWith(getFileSuffix,"/")) {   
+if (getName().endsWith(Constant.SLASH,"/")) {   
+if (getName().endsWith(Character.toString,"/")) {   
+if (getName().endsWith(PARENT_DIR,"/")) {   
+if (getName().endsWith(FTP_SEP,"/")) {   
+if (getName().endsWith(NEWLINE_CHAR,"/")) {   
+if (getName().endsWith(DEFAULT_SUFFIX,"/")) {   
+if (getName().endsWith(FTP_SEPARATOR,"/")) {   
+if (getName().endsWith(NEW_DIR,"/")) {   
+if (getName().endsWith(DIR_SEPARATOR,"/")) {   
+if (getName().endsWith(NL_CHAR,"/")) {   
+if (getName().endsWith(FileSystem.SEPARATOR,"/")) {   
+if (getName().endsWith(Filesystem.SEPARATOR,"/")) {   
+if (getName().endsWith(Char.SLASH,"/")) {   
+if (getName().endsWith(FTP_PROTOCOL,"/")) {   
+if (getName().endsWith(UnixPath,"/")) {   
+if (getName().endsWith(FILE_PATH,"/")) {   
+if (getName().endsWith(getFileSeparator(),"/")) {   
+if (getName().endsWith(NEW_SLASH,"/")) {   
+if (getName().endsWith(LF_FILE,"/")) {   
+if (getName().endsWith(Constants.SLASH,"/")) {   
+if (getName().endsWith(DEFAULT_FILENAME,"/")) {   
+if (getName().endsWith(StringUtil.NL,"/")) {   
+if (getName().endsWith(URL.SEPARATOR,"/")) {   
+if (getName().endsWith(URLEscape,"/")) {   
+if (getName().endsWith(OS_SEPARATOR,"/")) {   
+if (getName().endsWith(HIDDEN_SUFFIX,"/")) {   
+if (getName().endsWith(StringUtil.LF,"/")) {   
+if (getName().endsWith(WINDOWS_SEPARATOR,"/")) {   
+if (getName().endsWith(OTHER_PATH,"/")) {   
+if (getName().endsWith(Directory.SEPARATOR,"/")) {   
+if (getName().endsWith(DEFAULT_EXTENSION,"/")) {   
+if (getName().endsWith(NEW_NAME,"/")) {   
+if (getName().endsWith(URL_SLASH,"/")) {   
+if (getName().endsWith(CFG_DIR,"/")) {   
+if (getName().endsWith(CR)) {   
+if (getName().endsWith(File.separator)) {   
+if (getName().endsWith(LF)) {   
+if (getName().endsWith(separator)) {   
+if (getName().endsWith(SLASH)) {   
+if (getName().endsWith(sep)) {   
+if (getName().endsWith(slashSeparator)) {   
+if (getName().endsWith(NL)) {   
+if (getName().endsWith(SEPARATOR)) {   
+if (getName().endsWith(slash)) {   
+if (getName().endsWith(fileExtension)) {   
+if (getName().endsWith(fileName)) {   
+if (getName().endsWith(fileSeparator)) {   
+if (getName().endsWith(pathSeparator)) {   
+if (getName().endsWith(EXT)) {   
+if (getName().endsWith(PATH_SEPARATOR)) {   
+if (getName().endsWith(DS)) {   
+if (getName().endsWith(ext)) {   
+if (getName().endsWith(FILE)) {   
+if (getName().endsWith(EOL)) {   
+if (getName().endsWith(linkFlag)) {   
+if (getName().endsWith(FILE_SUFFIX)) {   
+if (getName().endsWith(fileSuffix)) {   
+if (getName().endsWith(LF_FILE)) {   
+if (getName().endsWith(NEWLINE)) {   
+if (getName().endsWith(FILE_EXT)) {   
+if (getName().endsWith(RC)) {   
+if (getName().endsWith(name)) {   
+if (getName().endsWith(Separator)) {   
+if (getName().endsWith(path)) {   
+if (getName().endsWith(FTP_SUFFIX)) {   
+if (getName().endsWith(SEP)) {   
+if (getName().endsWith(NEW)) {   
+if (getName().endsWith(LS)) {   
+if (getName().endsWith(COLON)) {   
+if (getName().endsWith(fileExt)) {   
+if (getName().endsWith(LINK_SUFFIX)) {   
+if (getName().endsWith(nameSeparator)) {   
+if (getName().endsWith(R)) {   
+if (getName().endsWith(FTP_EXT)) {   
+if (getName().endsWith(SUFFIX)) {   
+if (getName().endsWith(FTP_FILE)) {   
+if (getName().endsWith(Path.SEPARATOR)) {   
+if (getName().endsWith(DOT)) {   
+if (getName().endsWith(nl)) {   
+if (getName().endsWith(PATH_SEP)) {   
+if (getName().endsWith(CRLF)) {   
+if (getName().endsWith(FILE_EXTENSION)) {   
+if (getName().endsWith(CR_LF)) {   
+if (getName().endsWith(filename)) {   
+if (getName().endsWith(C)) {   
+if (getName().endsWith(filePath)) {   
+if (getName().endsWith(LF_SUFFIX)) {   
+if (getName().endsWith(delimiter)) {   
+if (getName().endsWith(FORWARD_SLASH)) {   
+if (getName().endsWith(CLOSE)) {   
+if (getName().endsWith(nameSuffix)) {   
+if (getName().endsWith(lineSeparator)) {   
+if (getName().endsWith(linkSuffix)) {   
+if (getName().endsWith(FTP_DIR)) {   
+if (getName().endsWith(pathSuffix)) {   
+if (getName().endsWith(suffix)) {   
+if (getName().endsWith(LINK)) {   
+if (getName().endsWith(LF_EXT)) {   
+if (getName().endsWith(LF_DIR)) {   
+if (getName().endsWith(P)) {   
+if (getName().endsWith(L)) {   
+if (getName().endsWith(LF_NAME)) {   
+if (getName().endsWith(Files.separator)) {   
+if (getName().endsWith(FTP)) {   
+if (getName().endsWith(SLASH_CHAR)) {   
+if (getName().endsWith(FTP_SEPARATOR)) {   
+if (getName().endsWith(COMMENT)) {   
+if (getName().endsWith(fileSep)) {   
+if (getName().endsWith(HEAD)) {   
+if (getName().endsWith(ln)) {   
+if (getName().endsWith(SPACE)) {   
+if (getName().endsWith(file)) {   
+if (getName().endsWith(CS)) {   
+if (getName().endsWith(SP)) {   
+if (getName().endsWith(OP)) {   
+if (getName().endsWith(HIDDEN)) {   
+if (getName().endsWith(DELIMITER)) {   
+if (getName().endsWith(FTP_SEP)) {   
+if (getName().endsWith(URL_SEPARATOR)) {   
+if (getName().endsWith(separatorChar)) {   
+if (getName().endsWith(EXTENSION)) {   
+if (getName().endsWith(PARENT)) {   
+if (getName().endsWith(SL)) {   
+if (getName().endsWith(FTP_CLOSE)) {   
+if (getName().endsWith(OPEN)) {   
+if (getName().endsWith(OTHER)) {   
+if (getName().endsWith(AT)) {   
+if (getName().endsWith(rel)) {   
+if (getName().endsWith(pathSep)) {   
+if (getName().endsWith(N)) {   
+if (getName().endsWith(FTP_FOLDER)) {   
+if (getName().endsWith(URL)) {   
+if (getName().endsWith(ID)) {   
+if (getName().endsWith(FOOTER)) {   
+if (getName().endsWith(pattern)) {   
+if (getName().endsWith(FILESUFFIX)) {   
+if (getName().endsWith("")) {   
+if (getName().endsWith(LINK_EXT)) {   
+if (getName().endsWith(LS_EXT)) {   
+if (getName().endsWith(delim)) {   
+if (getName().endsWith(LF_SLASH)) {   
+if (getName().endsWith(NEW_LINE)) {   
+if (getName().endsWith(NORMAL)) {   
+if (getName().endsWith(nameDelimiter)) {   
+if (getName().endsWith(DIR_SUFFIX)) {   
+if (getName().endsWith(EOF)) {   
+if (getName().endsWith(R_SLASH)) {   
+if (getName().endsWith(p)) {   
+if (getName().endsWith(LF_CHAR)) {   
+if (getName().endsWith(O)) {   
+if (getName().endsWith(EQUALS)) {   
+if (getName().endsWith(DIR)) {   
+if (getName().endsWith(TMP)) {   
+if (getName().endsWith(LINE_SEPARATOR)) {   
+if (getName().endsWith(STOP)) {   
+if (getName().endsWith(pathDelimiter)) {   
+if (getName().endsWith(FILE_SEPARATOR)) {   
+if (getName().endsWith(LINUX_EXT)) {   
+if (getName().endsWith(regex)) {   
+if (getName().endsWith(directorySuffix)) {   
+if (getName().endsWith(ldelim)) {   
+if (getName().endsWith(r)) {   
+if (getName().endsWith(TAB)) {   
+if (getName().endsWith(LD)) {   
+if (getName().endsWith(S)) {   
+if (getName().endsWith(directorySeparator)) {   
+if (getName().endsWith(LBRACE)) {   
+if (getName().endsWith(":")) {   
+if (getName().endsWith(CR_FILE)) {   
+if (getName().endsWith(POSTFIX)) {   
+if (getName().endsWith(QUOTE)) {   
+if (getName().endsWith(FTP2)) {   
+if (getName().endsWith(NUL)) {   
+if (getName().endsWith(DELETED)) {   
+if (getName().endsWith(PATH)) {   
+if (getName().endsWith(LFD)) {   
+if (getName().endsWith(RC_EXT)) {   
+if (getName().endsWith(Ext)) {   
+if (getName().endsWith(FOLDERS)) {   
+if (getName().endsWith(SC)) {   
+if (getName().endsWith(CSLASH)) {   
+if (getName().endsWith(UNDERSCORE)) {   
+if (getName().endsWith(LINK_SEPARATOR)) {   
+if (getName().endsWith(LF_END)) {   
+if (getName().endsWith(fileNameSuffix)) {   
+if (getName().endsWith(LINUX)) {   
+if (getName().endsWith(lf)) {   
+if (getName().endsWith(WINDOWS)) {   
+if (getName().endsWith(URL_EXT)) {   
+if (getName().endsWith(TRAILER)) {   
+if (getName().endsWith(END)) {   
+if (getName().endsWith(STAR)) {   
+if (getName().endsWith(NEW_PATH)) {   
+if (getName().endsWith(SN)) {   
+if (getName().endsWith(FORWARD)) {   
+if (getName().endsWith(Dir)) {   
+if (getName().endsWith(HIDDEN_SUFFIX)) {   
+if (getName().endsWith(slashChar)) {   
+if (getName().endsWith(RC_DIR)) {   
+if (getName().endsWith(symlinkFlag)) {   
+if (getName().endsWith(UTF8)) {   
+if (getName().endsWith(LINEEND)) {   
+if (getName().endsWith(UNIX_SEPARATOR)) {   
+if (getName().endsWith(parentName)) {   
+if (getName().endsWith(SPLASH)) {   
+if (getName().endsWith(OS_SEP)) {   
+if (getName().endsWith(FTP_PROTOCOL)) {   
+if (getName().endsWith(newLine)) {   
+if (getName().endsWith(NB)) {   
+if (getName().endsWith(LS_SUFFIX)) {   
+if (getName().endsWith(LSPACE)) {   
+if (getName().endsWith(DIRECTORY_SUFFIX)) {   
+if (getName().endsWith(fi)) {   
+if (getName().endsWith(crlf)) {   
+if (getName().endsWith(SPLIT)) {   
+if (getName().endsWith(DELIM)) {   
+if (getName().endsWith(symlinkSeparator)) {   
+if (getName().endsWith(prefix)) {   
+if (getName().endsWith(Q)) {   
+if (getName().endsWith(NEW_NAME)) {   
+if (getName().endsWith(DASH)) {   
+if (getName().endsWith(dir)) {   
+if (getName().endsWith(forwardSlash)) {   
+if (getName().endsWith(dirSuffix)) {   
+if (getName().endsWith(anchor)) {   
+if (getName().endsWith(DIRECTORY)) {   
+if (getName().endsWith(DELETED_SUFFIX)) {   
+if (getName().endsWith(LF_SEPARATOR)) {   
+if (getName().endsWith(DirSeparator)) {   
+if (getName().endsWith(R_FILE)) {   
+if (getName().endsWith(NAME_SEPARATOR)) {   
+if (getName().endsWith(FOLDER)) {   
+if (getName().endsWith(FileSeparator)) {   
+if (getName().endsWith(dirSeparator)) {   
+if (getName().endsWith(LS_DIR)) {   
+if (getName().endsWith(RC_FILE)) {   
+if (getName().endsWith(FTP_PATH)) {   
+if (getName().endsWith(FTP_NAME)) {   
+if (getName().endsWith(EXT_DIR)) {   
+if (getName().endsWith(LEND)) {   
+if (getName().endsWith(WINDOWS_SEPARATOR)) {   
+if (getName().endsWith(FTP_DIRECTORY)) {   
+if (getName().endsWith(FTP_EXTENSION)) {   
+if (getName().endsWith(FILE_NAME)) {   
+if (getName().endsWith(Constants.LF)) {   
+if (getName().endsWith(NEW_DIR)) {   
+if (getName().endsWith(getFileExtension)) {   
+if (getName().endsWith(OS_SEPARATOR)) {   
+if (getName().endsWith(FS_EXT)) {   
+if (getName().endsWith(RC_SUFFIX)) {   
+if (getName().endsWith(CR_DIR)) {   
+if (getName().endsWith(NEW_DIRECTORY)) {   
+if (getName().endsWith(LS_FILE)) {   
+if (getName().endsWith(C_SLASH)) {   
+if (getName().endsWith(NEW_FILE)) {   
+if (getName().endsWith(LD_EXT)) {   
+if (getName().endsWith(LENDER)) {   
+if (getName().endsWith(L_SLASH)) {   
+if (getName().endsWith(FTP_CRLF)) {   
+if (getName().endsWith(UTF_8)) {   
+if (getName().endsWith(IO_EXT)) {   
+if (getName().endsWith(this.name)) {   
+if (getName().endsWith(DOLLAR)) {   
+if (getName().endsWith(NEW_FOLDER)) {   
+if (getName().endsWith(CR_SLASH)) {   
+if (getName().endsWith(REFS)) {   
+if (getName().endsWith(TMP_DIR)) {   
+if (getName().endsWith(LFN)) {   
+if (getName().endsWith(FOLDER_SUFFIX)) {   
+if (getName().endsWith(Pattern.quote)) {   
+if (getName().endsWith(CR_CHAR)) {   
+if (getName().endsWith(Character.separator)) {   
+if (getName().endsWith(OS_EOL)) {   
+if (getName().endsWith(L_SEPARATOR)) {   
+if (getName().endsWith(EXT_FILE)) {   
+if (getName().endsWith(URL_SUFFIX)) {   
+if (getName().endsWith(OS_EXT)) {   
+if (getName().endsWith(LinkFlag)) {   
+if (getName().endsWith(SPLIT_CHAR)) {   
+if (getName().endsWith(IO_SEP)) {   
+if (getName().endsWith(FTP_PREFIX)) {   
+if (getName().endsWith(URLEscape)) {   
+if (getName().endsWith(FileExt)) {   
+if (getName().endsWith(NAME_SUFFIX)) {   
+if(linkFlag){ if (getName().endsWith("/")) { }  
+if(file != null){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag != 0){ if (getName().endsWith("/")) { }  
+if(linkFlag == CR_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == 0){ if (getName().endsWith("/")) { }  
+if(name != null){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_LINK){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF){ if (getName().endsWith("/")) { }  
+if(file == null){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag > 0){ if (getName().endsWith("/")) { }  
+if(file!=null){ if (getName().endsWith("/")) { }  
+if(isFile){ if (getName().endsWith("/")) { }  
+if(isDirectory){ if (getName().endsWith("/")) { }  
+if(verbose){ if (getName().endsWith("/")) { }  
+if(linkFlag == CR){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_LINK){ if (getName().endsWith("/")) { }  
+if(linkFlag==LF_FILE){ if (getName().endsWith("/")) { }  
+if(parent != null){ if (getName().endsWith("/")) { }  
+if(isFile()){ if (getName().endsWith("/")) { }  
+if(isDirectory()){ if (getName().endsWith("/")) { }  
+if(linkFlag == CR_FILE){ if (getName().endsWith("/")) { }  
+if(file==null){ if (getName().endsWith("/")) { }  
+if(linkFlag==LF){ if (getName().endsWith("/")) { }  
+if(isLink){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_NONE){ if (getName().endsWith("/")) { }  
+if(symlinkFlag){ if (getName().endsWith("/")) { }  
+if(isDir){ if (getName().endsWith("/")) { }  
+if(linkFlag!=0){ if (getName().endsWith("/")) { }  
+if(directory){ if (getName().endsWith("/")) { }  
+if(linkFlag==LF_LINK){ if (getName().endsWith("/")) { }  
+if(directoryFlag){ if (getName().endsWith("/")) { }  
+if(dirFlag){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag >= 0){ if (getName().endsWith("/")) { }  
+if(fileName != null){ if (getName().endsWith("/")) { }  
+if(linkFlag != -1){ if (getName().endsWith("/")) { }  
+if(debug){ if (getName().endsWith("/")) { }  
+if(linkFlag==0){ if (getName().endsWith("/")) { }  
+if(name == null){ if (getName().endsWith("/")) { }  
+if(linkFlag==CR_DIR){ if (getName().endsWith("/")) { }  
+if(name!=null){ if (getName().endsWith("/")) { }  
+if(filename != null){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_DIR){ if (getName().endsWith("/")) { }  
+if(isLink()){ if (getName().endsWith("/")) { }  
+if(linkFlag == 1){ if (getName().endsWith("/")) { }  
+if(parent){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_NORMAL){ if (getName().endsWith("/")) { }  
+if(linkFlag == CR_LF){ if (getName().endsWith("/")) { }  
+if(recurse){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_ONLY){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_NONE){ if (getName().endsWith("/")) { }  
+if(recursive){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_SELF){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF){ if (getName().endsWith("/")) { }  
+if(linkFlag == CRLF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_HEAD){ if (getName().endsWith("/")) { }  
+if(isLinkFlag){ if (getName().endsWith("/")) { }  
+if(linkFlag < 0){ if (getName().endsWith("/")) { }  
+if(exists){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_OPEN){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_NORMAL){ if (getName().endsWith("/")) { }  
+if(linkFlag == -1){ if (getName().endsWith("/")) { }  
+if(linkFlag == EOF){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_SLASH){ if (getName().endsWith("/")) { }  
+if(name.endsWith("/")){ if (getName().endsWith("/")) { }  
+if(linkFlag == TRUE){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_SYMLINK){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_EXT){ if (getName().endsWith("/")) { }  
+if(nlink > 0){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_EMPTY){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_END){ if (getName().endsWith("/")) { }  
+if(linkFlag == NL_DIR){ if (getName().endsWith("/")) { }  
+if(false){ if (getName().endsWith("/")) { }  
+if(isSymbolicLink){ if (getName().endsWith("/")) { }  
+if(isLeaf){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_TEXT){ if (getName().endsWith("/")) { }  
+if(name.endsWith("/"))){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_NAME){ if (getName().endsWith("/")) { }  
+if(file){ if (getName().endsWith("/")) { }  
+if(linkFlag == CRLF_FILE){ if (getName().endsWith("/")) { }  
+if(child){ if (getName().endsWith("/")) { }  
+if(linkFlag==CR){ if (getName().endsWith("/")) { }  
+if(linkFlag == NO_LINK){ if (getName().endsWith("/")) { }  
+if(linkFlag != CR_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag != null){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_OTHER){ if (getName().endsWith("/")) { }  
+if(linkFlag!=LF_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag == AC){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_ONLY){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_FILES){ if (getName().endsWith("/")) { }  
+if(linkFlag == F_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == HT_DIR){ if (getName().endsWith("/")) { }  
+if(isDir()){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_NEW){ if (getName().endsWith("/")) { }  
+if(linkFlag == R_DIR){ if (getName().endsWith("/")) { }  
+if(folderFlag){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_DEFAULT){ if (getName().endsWith("/")) { }  
+if(parent == null){ if (getName().endsWith("/")) { }  
+if(isSymlink){ if (getName().endsWith("/")) { }  
+if(linkFlag == HT){ if (getName().endsWith("/")) { }  
+if(dirFlag == LF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == PL){ if (getName().endsWith("/")) { }  
+if(unlinkFlag){ if (getName().endsWith("/")) { }  
+if(linkFlag == PL_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == HT_LINK){ if (getName().endsWith("/")) { }  
+if(directoryFlag == LF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == BR_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag>0){ if (getName().endsWith("/")) { }  
+if(linkFlag==NL_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_HIDDEN){ if (getName().endsWith("/")) { }  
+if(isdir){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_HIDDEN){ if (getName().endsWith("/")) { }  
+if(links){ if (getName().endsWith("/")) { }  
+if(isHidden){ if (getName().endsWith("/")) { }  
+if(isRecursive){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_LNK){ if (getName().endsWith("/")) { }  
+if(linkFlag == READ){ if (getName().endsWith("/")) { }  
+if(linkFlag != EOF){ if (getName().endsWith("/")) { }  
+if(linkFlag == O_DIR){ if (getName().endsWith("/")) { }  
+if(local){ if (getName().endsWith("/")) { }  
+if(linkFlag == SPACE){ if (getName().endsWith("/")) { }  
+if(linkFlag == lf){ if (getName().endsWith("/")) { }  
+if( file != null){ if (getName().endsWith("/")) { }  
+if(filter){ if (getName().endsWith("/")) { }  
+if(LinkFlag){ if (getName().endsWith("/")) { }  
+if(linkFlag == F_LINK){ if (getName().endsWith("/")) { }  
+if(path != null){ if (getName().endsWith("/")) { }  
+if(linkFlag==EOF){ if (getName().endsWith("/")) { }  
+if(linkFlag == NEW){ if (getName().endsWith("/")) { }  
+if(linkFlag == CRLF){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_FIFO){ if (getName().endsWith("/")) { }  
+if(linkFlag == PR_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == RC_DIR){ if (getName().endsWith("/")) { }  
+if(followSymlinks){ if (getName().endsWith("/")) { }  
+if(linkFlag > 1){ if (getName().endsWith("/")) { }  
+if(parent!=null){ if (getName().endsWith("/")) { }  
+if(linkFlag == F_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_DOT){ if (getName().endsWith("/")) { }  
+if(isFolder){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_AUTO){ if (getName().endsWith("/")) { }  
+if(true){ if (getName().endsWith("/")) { }  
+if(nextLink != null){ if (getName().endsWith("/")) { }  
+if(linkFlag == OTHER){ if (getName().endsWith("/")) { }  
+if(linkFlag==-1){ if (getName().endsWith("/")) { }  
+if(linkFlag != 1){ if (getName().endsWith("/")) { }  
+if(separator != null){ if (getName().endsWith("/")) { }  
+if(file!= null){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_IF){ if (getName().endsWith("/")) { }  
+if(strict){ if (getName().endsWith("/")) { }  
+if(linkFlag == READ_ONLY){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_END){ if (getName().endsWith("/")) { }  
+if(linkFlag == 2){ if (getName().endsWith("/")) { }  
+if(linkFlag & LF_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_LF){ if (getName().endsWith("/")) { }  
+if(linkFlag == NUL){ if (getName().endsWith("/")) { }  
+if(linked){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_AUTO){ if (getName().endsWith("/")) { }  
+if(null){ if (getName().endsWith("/")) { }  
+if(linkFlag == FTP){ if (getName().endsWith("/")) { }  
+if(linkFlag == F){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_EMPTY){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_KEEP){ if (getName().endsWith("/")) { }  
+if(linkFlag == NULL){ if (getName().endsWith("/")) { }  
+if(linkFlag==NULL){ if (getName().endsWith("/")) { }  
+if(linkFlag == SP_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == O){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_NEWLINE){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_EXT){ if (getName().endsWith("/")) { }  
+if(linkFlag == L){ if (getName().endsWith("/")) { }  
+if(symlink){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_DEFAULT){ if (getName().endsWith("/")) { }  
+if(folder){ if (getName().endsWith("/")) { }  
+if(isSymlink()){ if (getName().endsWith("/")) { }  
+if(parentDirectory){ if (getName().endsWith("/")) { }  
+if(prefix){ if (getName().endsWith("/")) { }  
+if(isDirectory()==false){ if (getName().endsWith("/")) { }  
+if(linkFlag == R_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_FIRST){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_ALL){ if (getName().endsWith("/")) { }  
+if(isDirectory){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_NULL){ if (getName().endsWith("/")) { }  
+if(log.isDebugEnabled()){ if (getName().endsWith("/")) { }  
+if(DEBUG){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_CLOSE){ if (getName().endsWith("/")) { }  
+if(commentFlag == LF_COMMENT){ if (getName().endsWith("/")) { }  
+if(linkFlag == EMPTY){ if (getName().endsWith("/")) { }  
+if(linkFlag == PS_DIR){ if (getName().endsWith("/")) { }  
+if(folderFlag == LF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag==CR_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag == PIPE){ if (getName().endsWith("/")) { }  
+if(linkFlag == LinkFlag){ if (getName().endsWith("/")) { }  
+if(isRoot){ if (getName().endsWith("/")) { }  
+if(commentFlag){ if (getName().endsWith("/")) { }  
+if(nlink == 0){ if (getName().endsWith("/")) { }  
+if(linkFlag!=null){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_LIST){ if (getName().endsWith("/")) { }  
+if(dir){ if (getName().endsWith("/")) { }  
+if(log){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_DOT){ if (getName().endsWith("/")) { }  
+if(linkFlag == L_FILE){ if (getName().endsWith("/")) { }  
+if(unlinkFlag == LF_FILE){ if (getName().endsWith("/")) { }  
+if(linkFlag == OK){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_ALL){ if (getName().endsWith("/")) { }  
+if(slash){ if (getName().endsWith("/")) { }  
+if(symlinkFlag == LF_LINK){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_SAME){ if (getName().endsWith("/")) { }  
+if(exclude){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_STRING){ if (getName().endsWith("/")) { }  
+if(isExternal){ if (getName().endsWith("/")) { }  
+if(linkFlag==LF_NONE){ if (getName().endsWith("/")) { }  
+if(force){ if (getName().endsWith("/")) { }  
+if(isSymbolicLink()){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_NOT){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_HEAD){ if (getName().endsWith("/")) { }  
+if(linkFlag!=LF_LINK){ if (getName().endsWith("/")) { }  
+if(linkFlag==OK){ if (getName().endsWith("/")) { }  
+if(readOnly){ if (getName().endsWith("/")) { }  
+if(nlink){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_NEW){ if (getName().endsWith("/")) { }  
+if(linkFlag==DF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == WHITELIST){ if (getName().endsWith("/")) { }  
+if(filePath != null){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_OTHER){ if (getName().endsWith("/")) { }  
+if(comment){ if (getName().endsWith("/")) { }  
+if(linkname != null){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_COMMENT){ if (getName().endsWith("/")) { }  
+if(linkFlag == ATT_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag==RC_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag != NULL){ if (getName().endsWith("/")) { }  
+if(linkFlag==CRLF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag != LF_OPEN){ if (getName().endsWith("/")) { }  
+if(linkFlag==TAB){ if (getName().endsWith("/")) { }  
+if(super.isDirectory()){ if (getName().endsWith("/")) { }  
+if(linkFlag == WS_DIR){ if (getName().endsWith("/")) { }  
+if(super){ if (getName().endsWith("/")) { }  
+if(linkFlag==LF_SELF){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_START){ if (getName().endsWith("/")) { }  
+if(linkFlag == TR_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == OTHER_DIR){ if (getName().endsWith("/")) { }  
+if(childFlag == LF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == lf_FILE){ if (getName().endsWith("/")) { }  
+if(nlink==0){ if (getName().endsWith("/")) { }  
+if(linkFlag == NB_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag!=-1){ if (getName().endsWith("/")) { }  
+if(caseSensitive){ if (getName().endsWith("/")) { }  
+if(directoryFlag != LF_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == CP_DIR){ if (getName().endsWith("/")) { }  
+if(linkFlag == LF_SKIP){ if (getName().endsWith("/")) { }  

@@ -1,0 +1,3000 @@
+ Element el = doc.firstChild;  
+ Element el = doc;  
+ Document doc = null;  
+ Element el = null;  
+ String data = getData();;  
+ try;  
+ Document el = doc;  
+ Element el = doc.firstChild();  
+ Element el = doc.getFirstChild();  
+ Element el = doc.documentElement;  
+ Document doc = doc.getDocument();;  
+ Node el = doc.firstChild;  
+ Element el;;  
+ //return decl;  
+ Document doc = doc;  
+ Document doc = doc.parent();;  
+ Doc doc = null;  
+ Document doc = doc.parentDocument;  
+ Node el = null;  
+ Document doc = doc.body;  
+ Doc doc = doc;  
+ Document doc = doc.document();;  
+ Element el = doc.firstChild;  
+ Element el = doc.getFirstChild();;  
+ return decl;  
+ Element el = doc.element();;  
+ doc = null;  
+ String data;  
+ Document doc = new Document();;  
+ Node el = doc;  
+ Element el = doc.rootElement;  
+ Element el = doc.docElement;  
+ Element el;  
+ XmlDeclaration el = null;  
+ Document doc = doc.documentElement;  
+ Document el = null;  
+ doc.close();;  
+ Document doc = doc.body();  
+ int i = 0;  
+ Document doc2 = null;  
+ null;  
+ elem;  
+ doc;  
+ Document doc = doc.document();  
+ Element el = doc.body;  
+ Element el = doc.lastChild;  
+ Element el = doc.lastChild;  
+ Element data = getData();;  
+ String data = getData();  
+ Element el = doc.element();  
+ Node el = doc.getFirstChild();  
+ int index = 0;  
+ Jsoup doc = null;  
+ Document el = doc.documentElement;  
+ document;  
+ Document doc = doc.ownerDocument;  
+ boolean found = false;  
+ while (el != null) {;  
+ Document doc = doc.document;  
+ Document doc = doc.xml();;  
+ do {;  
+ Document doc = jsoup;  
+ Node node = null;  
+ Cursor cursor = null;  
+ Document doc = docElement;  
+ XmlElement el = null;  
+ ;  
+ doc.clear();;  
+ int count = 0;  
+ Element declElement = null;  
+ Element el = doc.element;  
+ Document doc = docMgr;  
+ Node node = doc.firstChild;  
+ Node el = doc.firstChild();  
+ Document doc = doc.root();;  
+ Document el = doc.body;  
+ Element el = doc.documentElement;  
+ String data = null;  
+ Document doc = doc.rootDocument;  
+ Document doc2 = doc;  
+ Document d = doc;  
+  Element el = doc.firstChild;  
+ Element data = null;  
+ Element el = doc.first();;  
+ Document doc = doc.parent();  
+ Element el = doc.body();  
+ Object data = getData();;  
+ Node el;;  
+ // return decl;  
+ Element el; String data;  
+ Document doc = doc<mask3> ;  
+ int size = 0;  
+ Element el = doc.firstChild();;  
+ Object el = null;  
+ doc.remove();;  
+ Doc doc = new Document();;  
+ int pos = 0;  
+ //System.out.println;  
+ String tagName;  
+ Element el = data;  
+ int n = 0;  
+ if (doc != null) {;  
+ Element el = doc.getFirstChild;  
+ try { return decl;  
+ Element declEl = null;  
+ byte[] data = getData();;  
+ Document doc = document;  
+ doc = doc.parent();;  
+ Document doc = this;  
+ Element el = doc.nextElement;  
+ Element el=null;  
+ Document parent = doc;  
+ Element elem = null;  
+ doc.getDocumentElement().normalize();;  
+ Element el = doc.parentElement;  
+ document = doc;  
+ Element el = doc.headElement;  
+ "";  
+ Object obj = null;  
+ Data data = getData();;  
+ Document doc = doc<mask3> };  
+ --;  
+ Document el;;  
+ //else;  
+ HTMLElement el = null;  
+ Document doc = Jsoup;  
+ Element el = doc.element0;  
+ int depth = 0;  
+ int idx = 0;  
+ Element el = doc.bodyElement;  
+ Document doc = doc.clone();;  
+  Element el = doc;  
+ Node el = doc.getFirstChild();;  
+ Document jsoup = null;  
+ Doc doc = doc.parent();;  
+ Document doc = docBuilder;  
+ XmlElement el = doc;  
+ Document d = null;  
+ Document doc = doc.root();  
+ Void;  
+ int i;  
+ Document doc = docDocument;  
+ /*package;  
+ Document doc;;  
+ Document el = doc.rootDocument;  
+ DocumentBuilder docBuilder = null;  
+ Element el = doc.first;  
+ Element el = elem;  
+ DocBuilder docBuilder = null;  
+ try { return doc;  
+ Node el = doc.firstChild;  
+ XmlParser parser = null;  
+ Null;  
+ Element el = doc.firstElement;  
+ Document doc = getDocument();;  
+ Document el = doc.body();  
+ Element el = this;  
+ for ( ; ; ) {;  
+ Doc doc = new Doc();;  
+ Document parent = doc.parent();;  
+ Document document = null;  
+ Doc doc = doc.getDocument();;  
+ int offset = 0;  
+ else;  
+ el = doc.firstChild;  
+  Document doc = null;  
+ String tagName = null;  
+ Document res = null;  
+ Element node = null;  
+ Iterator iter = doc.iterator();;  
+ XmlDeclaration el = doc;  
+ Element declNode = null;  
+ Object data = null;  
+ String data = getData().trim();;  
+ Element node = doc.firstChild;  
+ Element el = doc.documentElement();  
+ InputStream data = null;  
+;  
+ Node el = doc.documentElement;  
+ Node el;  
+ System.out;  
+ Element doc = doc;  
+ Element el = doc.currentElement;  
+ for;  
+ DocumentBuilder builder = null;  
+ Element el = doc.first();  
+ Document doc = doc.html();;  
+ Document doc = doc.firstChild;  
+ Element declElem = null;  
+ while (true) {;  
+ Element el = doc;;  
+ doc.close(); return decl;  
+ Element el = doc.xml();;  
+ Element el = document;  
+ //    return decl;  
+ Document doc = doc.getFirstChild();;  
+ Document doc1 = doc;  
+ Element el = data.firstChild;  
+  Element el = null;  
+ Document doc = doc.getParent();;  
+ XmlDocument doc = null;  
+ Reader reader = null;  
+ Doc node = doc;  
+ Document doc = doc.parent;  
+ Document el = doc.documentElement;  
+ Element docElement = doc;  
+ int count;  
+ Element el; try;  
+ Element element = null;  
+ this.data = data;  
+ Document parent = null;  
+ boolean parsed = false;  
+ Element doc = null;  
+ int len = 0;  
+ while (true) { break;  
+ Document result = null;  
+ //System.out;  
+ Element el = document.documentElement;  
+ Document doc1 = null;  
+ Parser parser = null;  
+ int cnt = 0;  
+ int i=0;  
+ Element el = doc;  
+ //	return decl;  
+ Node data = getData();;  
+ Elem elem = null;  
+ //TODO;  
+ Element el = doc.nextElementSibling;  
+ NodeList el = doc;  
+ try { return null;  
+ Element elem = doc.firstChild;  
+ Document doc = doc.getRoot();;  
+ Document doc = docRoot;  
+ Document parent = doc.parentDocument;  
+ Doc doc = doc.body;  
+ Document doc = jsoupDoc;  
+ HTMLElement el = doc.firstChild;  
+ Element el=doc.firstChild;  
+ Document doc = doc.doc();;  
+ Document doc = doc<mask2> ;  
+ null;  
+ Document doc = doc.doc();  
+ Element el; el = doc;  
+ Document doc = doc.body();;  
+ while (doc != null) {;  
+ Element el = doc.root();  
+ Document doc = doc.getFirstChild();  
+ Document el = doc.parentDocument;  
+ Document doc = doc.documentElement;  
+ Element el = doc.head();  
+ Element el = null; if (doc.childNodeSize() > 0) {   
+ try; if (doc.childNodeSize() > 0) {   
+ Element el; if (doc.childNodeSize() > 0) {   
+ Document doc = null; if (doc.childNodeSize() > 0) {   
+ return decl; if (doc.childNodeSize() > 0) {   
+ ; if (doc.childNodeSize() > 0) {   
+  return decl; if (doc.childNodeSize() > 0) {   
+ Element el;; if (doc.childNodeSize() > 0) {   
+ return decl; if (doc.childNodeSize() > 0) {   
+ Element el = doc; if (doc.childNodeSize() > 0) {   
+ null; if (doc.childNodeSize() > 0) {   
+ String data = getData();; if (doc.childNodeSize() > 0) {   
+ //return decl; if (doc.childNodeSize() > 0) {   
+ Document doc = null; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration el = null; if (doc.childNodeSize() > 0) {   
+ elem; if (doc.childNodeSize() > 0) {   
+ Document el = doc; if (doc.childNodeSize() > 0) {   
+; if (doc.childNodeSize() > 0) {   
+ Document el = null; if (doc.childNodeSize() > 0) {   
+ try; if (doc.childNodeSize() > 0) {   
+ }; if (doc.childNodeSize() > 0) {   
+   }; if (doc.childNodeSize() > 0) {   
+  }; if (doc.childNodeSize() > 0) {   
+  }; if (doc.childNodeSize() > 0) {   
+ String data = getData();; if (doc.childNodeSize() > 0) {   
+ ; if (doc.childNodeSize() > 0) {   
+ Element el = null; if (doc.childNodeSize() > 0) {   
+ null; if (doc.childNodeSize() > 0) {   
+    }; if (doc.childNodeSize() > 0) {   
+ Element el; if (doc.childNodeSize() > 0) {   
+ Node el = null; if (doc.childNodeSize() > 0) {   
+ document; if (doc.childNodeSize() > 0) {   
+ doc = null; if (doc.childNodeSize() > 0) {   
+ Element el; if (doc.childNodeSize() > 0) {   
+ doc; if (doc.childNodeSize() > 0) {   
+ Doc doc = null; if (doc.childNodeSize() > 0) {   
+ document; if (doc.childNodeSize() > 0) {   
+ Element el<mask1> ; if (doc.childNodeSize() > 0) {   
+ Node el; if (doc.childNodeSize() > 0) {   
+ Document doc = doc; if (doc.childNodeSize() > 0) {   
+ String data; if (doc.childNodeSize() > 0) {   
+	return decl; if (doc.childNodeSize() > 0) {   
+ Document doc = doc; if (doc.childNodeSize() > 0) {   
+ Element el = null; if (doc.childNodeSize() > 0) {   
+ String data; if (doc.childNodeSize() > 0) {   
+ Document el;; if (doc.childNodeSize() > 0) {   
+ for; if (doc.childNodeSize() > 0) {   
+ Object el = null; if (doc.childNodeSize() > 0) {   
+Element el; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration el = null; if (doc.childNodeSize() > 0) {   
+ try; if (doc.childNodeSize() > 0) {   
+ Element el=null; if (doc.childNodeSize() > 0) {   
+ do {; if (doc.childNodeSize() > 0) {   
+  return decl; if (doc.childNodeSize() > 0) {   
+ 		 return decl; if (doc.childNodeSize() > 0) {   
+ while (true) {; if (doc.childNodeSize() > 0) {   
+ doc = null; if (doc.childNodeSize() > 0) {   
+ Element el<mask1> ; if (doc.childNodeSize() > 0) {   
+ Document el = doc; if (doc.childNodeSize() > 0) {   
+  returns null; if (doc.childNodeSize() > 0) {   
+  //return decl; if (doc.childNodeSize() > 0) {   
+ Document el = null; if (doc.childNodeSize() > 0) {   
+ }; if (doc.childNodeSize() > 0) {   
+	}; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration el; if (doc.childNodeSize() > 0) {   
+ 	 return decl; if (doc.childNodeSize() > 0) {   
+   return decl; if (doc.childNodeSize() > 0) {   
+ this; if (doc.childNodeSize() > 0) {   
+ return decl; if (doc.childNodeSize() > 0) {   
+Document doc = null; if (doc.childNodeSize() > 0) {   
+ ""; if (doc.childNodeSize() > 0) {   
+  return decl; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration el;; if (doc.childNodeSize() > 0) {   
+ doc; if (doc.childNodeSize() > 0) {   
+ String data = getData(); if (doc.childNodeSize() > 0) {   
+ XMLDeclaration el = null; if (doc.childNodeSize() > 0) {   
+ el; if (doc.childNodeSize() > 0) {   
+ XmlElement el = null; if (doc.childNodeSize() > 0) {   
+ // null; if (doc.childNodeSize() > 0) {   
+Document doc = doc; if (doc.childNodeSize() > 0) {   
+ XmlElement el = null; if (doc.childNodeSize() > 0) {   
+ element; if (doc.childNodeSize() > 0) {   
+ Object obj = null; if (doc.childNodeSize() > 0) {   
+  return null; if (doc.childNodeSize() > 0) {   
+ //return decl; if (doc.childNodeSize() > 0) {   
+  	return decl; if (doc.childNodeSize() > 0) {   
+ } else; if (doc.childNodeSize() > 0) {   
+ element; if (doc.childNodeSize() > 0) {   
+ Doc doc = doc; if (doc.childNodeSize() > 0) {   
+  for; if (doc.childNodeSize() > 0) {   
+ this; if (doc.childNodeSize() > 0) {   
+ //}; if (doc.childNodeSize() > 0) {   
+  ; if (doc.childNodeSize() > 0) {   
+ Element el;; if (doc.childNodeSize() > 0) {   
+ Object el = null; if (doc.childNodeSize() > 0) {   
+ --; if (doc.childNodeSize() > 0) {   
+ Object data = getData();; if (doc.childNodeSize() > 0) {   
+ //	return decl; if (doc.childNodeSize() > 0) {   
+ Null; if (doc.childNodeSize() > 0) {   
+ Node el = null; if (doc.childNodeSize() > 0) {   
+ //else; if (doc.childNodeSize() > 0) {   
+ doc.close(); }; if (doc.childNodeSize() > 0) {   
+ elements; if (doc.childNodeSize() > 0) {   
+ else; if (doc.childNodeSize() > 0) {   
+    return decl; if (doc.childNodeSize() > 0) {   
+ String data = getData(); if (doc.childNodeSize() > 0) {   
+ Elem element = null; if (doc.childNodeSize() > 0) {   
+  Element el; if (doc.childNodeSize() > 0) {   
+ // if; if (doc.childNodeSize() > 0) {   
+   return decl; if (doc.childNodeSize() > 0) {   
+ /* }; if (doc.childNodeSize() > 0) {   
+ doc.close(); }; if (doc.childNodeSize() > 0) {   
+ Node el; if (doc.childNodeSize() > 0) {   
+ Node el;; if (doc.childNodeSize() > 0) {   
+ document = doc; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration data = null; if (doc.childNodeSize() > 0) {   
+ doc.close();; if (doc.childNodeSize() > 0) {   
+ elem; if (doc.childNodeSize() > 0) {   
+  //else; if (doc.childNodeSize() > 0) {   
+ ""; if (doc.childNodeSize() > 0) {   
+ Element element = null; if (doc.childNodeSize() > 0) {   
+ Document doc2 = null; if (doc.childNodeSize() > 0) {   
+ Element el; try; if (doc.childNodeSize() > 0) {   
+ el; if (doc.childNodeSize() > 0) {   
+ Document el;; if (doc.childNodeSize() > 0) {   
+ ...; if (doc.childNodeSize() > 0) {   
+}; if (doc.childNodeSize() > 0) {   
+ Elem elem = null; if (doc.childNodeSize() > 0) {   
+ Data data = getData();; if (doc.childNodeSize() > 0) {   
+ Document doc; if (doc.childNodeSize() > 0) {   
+  @return; if (doc.childNodeSize() > 0) {   
+  return decl; if (doc.childNodeSize() > 0) {   
+ Object el; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration xmlDecl = null; if (doc.childNodeSize() > 0) {   
+ xmlDoc = doc; if (doc.childNodeSize() > 0) {   
+ el = null; if (doc.childNodeSize() > 0) {   
+ Object data = getData();; if (doc.childNodeSize() > 0) {   
+ int i = 0; if (doc.childNodeSize() > 0) {   
+ //    return decl; if (doc.childNodeSize() > 0) {   
+  // }; if (doc.childNodeSize() > 0) {   
+  } else; if (doc.childNodeSize() > 0) {   
+ Document doc = doc<mask5> }; if (doc.childNodeSize() > 0) {   
+ found; if (doc.childNodeSize() > 0) {   
+ int index = 0; if (doc.childNodeSize() > 0) {   
+ // return decl; if (doc.childNodeSize() > 0) {   
+  return decl<mask1> }; if (doc.childNodeSize() > 0) {   
+  return data; if (doc.childNodeSize() > 0) {   
+ /*else; if (doc.childNodeSize() > 0) {   
+ 		 }; if (doc.childNodeSize() > 0) {   
+  Element el = null; if (doc.childNodeSize() > 0) {   
+ // }; if (doc.childNodeSize() > 0) {   
+ Document doc = null; if (doc.childNodeSize() > 0) {   
+ String tagName; if (doc.childNodeSize() > 0) {   
+  return doc; if (doc.childNodeSize() > 0) {   
+ System.out; if (doc.childNodeSize() > 0) {   
+  data; if (doc.childNodeSize() > 0) {   
+ return decl<mask1> }; if (doc.childNodeSize() > 0) {   
+ XmlElement el; if (doc.childNodeSize() > 0) {   
+ HTMLElement el = null; if (doc.childNodeSize() > 0) {   
+  Document doc = null; if (doc.childNodeSize() > 0) {   
+  this; if (doc.childNodeSize() > 0) {   
+ Element el = doc; if (doc.childNodeSize() > 0) {   
+ try { return decl; if (doc.childNodeSize() > 0) {   
+ //try; if (doc.childNodeSize() > 0) {   
+ int count = 0; if (doc.childNodeSize() > 0) {   
+ int size = 0; if (doc.childNodeSize() > 0) {   
+ boolean found = false; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration doc = null; if (doc.childNodeSize() > 0) {   
+ document = doc; if (doc.childNodeSize() > 0) {   
+ Document doc; if (doc.childNodeSize() > 0) {   
+ Element elem = null; if (doc.childNodeSize() > 0) {   
+  Internal method; if (doc.childNodeSize() > 0) {   
+ Object data = null; if (doc.childNodeSize() > 0) {   
+  var el; if (doc.childNodeSize() > 0) {   
+  doc; if (doc.childNodeSize() > 0) {   
+ //return decl; if (doc.childNodeSize() > 0) {   
+ this.data = data; if (doc.childNodeSize() > 0) {   
+  try; if (doc.childNodeSize() > 0) {   
+ Document doc;; if (doc.childNodeSize() > 0) {   
+ //Element el; if (doc.childNodeSize() > 0) {   
+ for ( ; ; ); if (doc.childNodeSize() > 0) {   
+ Node el = doc; if (doc.childNodeSize() > 0) {   
+ try { return decl; if (doc.childNodeSize() > 0) {   
+ 			 	return decl; if (doc.childNodeSize() > 0) {   
+ System.out.println; if (doc.childNodeSize() > 0) {   
+ Document document = null; if (doc.childNodeSize() > 0) {   
+  return decl; if (doc.childNodeSize() > 0) {   
+ //TODO; if (doc.childNodeSize() > 0) {   
+ for (; ; ) {; if (doc.childNodeSize() > 0) {   
+ element el; if (doc.childNodeSize() > 0) {   
+ int i; if (doc.childNodeSize() > 0) {   
+ Document doc = docMgr; if (doc.childNodeSize() > 0) {   
+  } else; if (doc.childNodeSize() > 0) {   
+ Document doc = docElement; if (doc.childNodeSize() > 0) {   
+ int n = 0; if (doc.childNodeSize() > 0) {   
+ Object obj = null; if (doc.childNodeSize() > 0) {   
+ @return; if (doc.childNodeSize() > 0) {   
+ Doc element; if (doc.childNodeSize() > 0) {   
+ Element el = doc.firstChild; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration xml = null; if (doc.childNodeSize() > 0) {   
+ Cursor cursor = null; if (doc.childNodeSize() > 0) {   
+ Node node = null; if (doc.childNodeSize() > 0) {   
+ Element el<mask1> try; if (doc.childNodeSize() > 0) {   
+ Element el = doc; if (doc.childNodeSize() > 0) {   
+  xml declaration; if (doc.childNodeSize() > 0) {   
+ doc.remove();; if (doc.childNodeSize() > 0) {   
+ while(true) {; if (doc.childNodeSize() > 0) {   
+  //else; if (doc.childNodeSize() > 0) {   
+ Element decl = null; if (doc.childNodeSize() > 0) {   
+ Element el = this; if (doc.childNodeSize() > 0) {   
+ doc.clear();; if (doc.childNodeSize() > 0) {   
+ Jsoup doc = null; if (doc.childNodeSize() > 0) {   
+ Document parent = doc; if (doc.childNodeSize() > 0) {   
+ Document doc = doc<mask3> }; if (doc.childNodeSize() > 0) {   
+ XmlDeclarationBuilder builder; if (doc.childNodeSize() > 0) {   
+XmlDeclaration decl = null; if (doc.childNodeSize() > 0) {   
+ XMLDeclaration el = null; if (doc.childNodeSize() > 0) {   
+  Element el; if (doc.childNodeSize() > 0) {   
+ Element el<mask2> ; if (doc.childNodeSize() > 0) {   
+  XML declaration; if (doc.childNodeSize() > 0) {   
+ Element declElement = null; if (doc.childNodeSize() > 0) {   
+ Document doc = this; if (doc.childNodeSize() > 0) {   
+ String data = null; if (doc.childNodeSize() > 0) {   
+ decl = doc; if (doc.childNodeSize() > 0) {   
+  } else {; if (doc.childNodeSize() > 0) {   
+ Document parent = null; if (doc.childNodeSize() > 0) {   
+ Document doc = jsoup; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration el = doc; if (doc.childNodeSize() > 0) {   
+ Document d = null; if (doc.childNodeSize() > 0) {   
+ doc.close(); return decl; if (doc.childNodeSize() > 0) {   
+ XmlDeclarationBuilder builder = null; if (doc.childNodeSize() > 0) {   
+ element el = null; if (doc.childNodeSize() > 0) {   
+ Element el = elem; if (doc.childNodeSize() > 0) {   
+  Document doc = null; if (doc.childNodeSize() > 0) {   
+ Document d = doc; if (doc.childNodeSize() > 0) {   
+ el = doc.firstChild; if (doc.childNodeSize() > 0) {   
+ String xml = null; if (doc.childNodeSize() > 0) {   
+ Element el = document; if (doc.childNodeSize() > 0) {   
+ Element el = data; if (doc.childNodeSize() > 0) {   
+ ElemElement el = null; if (doc.childNodeSize() > 0) {   
+ XmlDeclaration el;; if (doc.childNodeSize() > 0) {   
+ while (true); if (doc.childNodeSize() > 0) {   
+ Document doc = document; if (doc.childNodeSize() > 0) {   
+ Element el1 = null; if (doc.childNodeSize() > 0) {   
+ Document doc = docDocument; if (doc.childNodeSize() > 0) {   
+ doc = doc.parent();; if (doc.childNodeSize() > 0) {   
+ Document doc = doc; if (doc.childNodeSize() > 0) {   
+ Document doc = docBuilder; if (doc.childNodeSize() > 0) {   
+ Document doc = doc.body; if (doc.childNodeSize() > 0) {   
+ Element el<mask1> data; if (doc.childNodeSize() > 0) {   
+if (doc.childNodeSize()  > 0) {   
+if (doc.childNodeSize()  > > 0) {   
+if (doc.childNodeSize()  ><mask1> > 0) {   
+if (doc.childNodeSize()  > - 0) {   
+if (doc.childNodeSize() > 0) {   
+if (doc.childNodeSize()  >  0) {   
+if (doc.childNodeSize()  == 0) {   
+if (doc.childNodeSize()  != 0) {   
+if (doc.childNodeSize()  > 	 0) {   
+if (doc.childNodeSize()  >= 0) {   
+if (doc.childNodeSize()  >  > 0) {   
+if (doc.childNodeSize()  > 0 && data.length() > 0) {   
+if (doc.childNodeSize()  > 0> 0) {   
+if (doc.childNodeSize()  > 1> 0) {   
+if (doc.childNodeSize()  != - 0) {   
+if (doc.childNodeSize()  >  0) {   
+if (doc.childNodeSize()  >   0) {   
+if (doc.childNodeSize()  == > 0) {   
+if (doc.childNodeSize()  ==  0) {   
+if (doc.childNodeSize()  > 0 && data.length()> 0) {   
+if (doc.childNodeSize()  > 1. 0) {   
+if (doc.childNodeSize()  > $ 0) {   
+if (doc.childNodeSize()  >  - 0) {   
+if (doc.childNodeSize()  > ! 0) {   
+if (doc.childNodeSize()  > >> 0) {   
+if (doc.childNodeSize()  > 0 && data.startsWith("!")) 0) {   
+if (doc.childNodeSize()  > ( 0) {   
+if (doc.childNodeSize()  > ><mask1> > 0) {   
+if (doc.childNodeSize()  > 2> 0) {   
+if (doc.childNodeSize()  ><mask5> } 0) {   
+if (doc.childNodeSize()  ><mask14> > 0) {   
+if (doc.childNodeSize()  ><mask3> } 0) {   
+if (doc.childNodeSize()  > 0)   0) {   
+if (doc.childNodeSize()  > <mask1> >  0) {   
+if (doc.childNodeSize()  ><mask3> } 0) {   
+if (doc.childNodeSize()  > 0 && data != 0) {   
+if (doc.childNodeSize()  >> 0) {   
+if (doc.childNodeSize()  ==<mask1> > 0) {   
+if (doc.childNodeSize()  > == 0) {   
+if (doc.childNodeSize()  > 0 && doc.childCount()> 0) {   
+if (doc.childNodeSize()  > 0 && data!= 0) {   
+if (doc.childNodeSize()  >  ( 0) {   
+if (doc.childNodeSize()  > \ 0) {   
+if (doc.childNodeSize()  > >  0) {   
+if (doc.childNodeSize()  == - 0) {   
+if (doc.childNodeSize()  > ><mask1> > > 0) {   
+if (doc.childNodeSize() == 0) {   
+if (doc.childNodeSize()  >  ! 0) {   
+if (doc.childNodeSize()  > 0. 0) {   
+if (doc.childNodeSize()  >   0) {   
+if (doc.childNodeSize()  > 1 && data.length() > 0) {   
+if (doc.childNodeSize()  > 0 && data != - 0) {   
+if (doc.childNodeSize()  > 0 && data.startsWith("! 0) {   
+if (doc.childNodeSize()  > 0 > 0) {   
+if (doc.childNodeSize()  ><mask2> > 0) {   
+if (doc.childNodeSize()  >   0) {   
+if (doc.childNodeSize()  > 1.. 0) {   
+if (doc.childNodeSize()  > 1/ 0) {   
+if (doc.childNodeSize()  ><mask3> } } 0) {   
+if (doc.childNodeSize()  > 0 && data != ! 0) {   
+if (doc.childNodeSize()  >  <mask1> >  0) {   
+if (doc.childNodeSize()  <= 0) {   
+if (doc.childNodeSize()  >  \ 0) {   
+if (doc.childNodeSize()  >   0) {   
+if (doc.childNodeSize()  > 0.. 0) {   
+if (doc.childNodeSize()  > <mask1> > 0) {   
+if (doc.childNodeSize()  > 0 && doc.firstChild() > 0) {   
+if (doc.childNodeSize()  !=  0) {   
+if (doc.childNodeSize()  > 0 && doc.childNode() > 0) {   
+if (doc.childNodeSize()  < 0) {   
+if (doc.childNodeSize()  ><mask3>  } 0) {   
+if (doc.childNodeSize()  >   0) {   
+if (doc.childNodeSize()  > & 0) {   
+if (doc.childNodeSize()  == 1 && data.length() > 0) {   
+if (doc.childNodeSize()  > > > 0) {   
+if (doc.childNodeSize()  > 0 && data != "") 0) {   
+if (doc.childNodeSize()  > 0)  0) {   
+if (doc.childNodeSize()  >=<mask1> > 0) {   
+if (doc.childNodeSize() != 0) {   
+if (doc.childNodeSize()  > != 0) {   
+if (doc.childNodeSize()  > < 0) {   
+if (doc.childNodeSize()  > 0) return decl; } 0) {   
+if (doc.childNodeSize()  > 0 && data != null)  0) {   
+if (doc.childNodeSize()  ><mask1> == 0) {   
+if (doc.childNodeSize()  ><mask3> return decl; } 0) {   
+if (doc.childNodeSize()  > 0 && data != null) 0) {   
+if (doc.childNodeSize()  > 0  0) {   
+if (doc.childNodeSize()  ><mask3>  } 0) {   
+if (doc.childNodeSize()  ><mask1> > 0) { 0) {   
+if (doc.childNodeSize()  > 0) 0) {   
+if (doc.childNodeSize()  > 0 && data != " 0) {   
+if (doc.childNodeSize()  > 2^ 0) {   
+if (doc.childNodeSize() >= 0) {   
+if (doc.childNodeSize()  > 0)   0) {   
+if (doc.childNodeSize()  > 0; 0) {   
+if (doc.childNodeSize()  > 0, 0) {   
+if (doc.childNodeSize()  > 0 && data != "")   0) {   
+if (doc.childNodeSize()  ><mask1>> 0) {   
+if (doc.childNodeSize()  > 0 && data.startsWith("!")} 0) {   
+if (doc.childNodeSize()  > 0) {  if ( 0) {   
+if (doc.childNodeSize()  > 0 && data.startsWith("!")){ 0) {   
+if (doc.childNodeSize()  > 0== 0) {   
+if (doc.childNodeSize()  ><mask5>} 0) {   
+if (doc.childNodeSize()  > 0 && hasData() > 0) {   
+if (doc.childNodeSize()  > 0 && doc.getChildCount()> 0) {   
+if (doc.childNodeSize()  > 1 > 0) {   
+if (doc.childNodeSize()  > 1 && data.startsWith("!")) 0) {   
+if (doc.childNodeSize()  >  return decl; } 0) {   
+if (doc.childNodeSize()  > 1, 0) {   
+if (doc.childNodeSize()  >  <mask1> > 0) {   
+if (doc.childNodeSize()  > 1== 0) {   
+if (doc.childNodeSize()  ><mask3> } } 0) {   
+if (doc.childNodeSize()  > >} 0) {   
+if (doc.childNodeSize()  > ～ 0) {   
+if (doc.childNodeSize()  > _ 0) {   
+if (doc.childNodeSize()  >><mask1> > 0) {   
+if (doc.childNodeSize()  ><mask3>; } 0) {   
+if (doc.childNodeSize()  > 1)   0) {   
+if (doc.childNodeSize()  > 1; 0) {   
+if (doc.childNodeSize()  > 0) return decl; } 0) {   
+if (doc.childNodeSize()  > 0) <mask1> > 0) {   
+if (doc.childNodeSize()  ><mask3> }; 0) {   
+if (doc.childNodeSize()  ><mask5> } } 0) {   
+if (doc.childNodeSize()  > 2>& 0) {   
+if (doc.childNodeSize()  > ' 0) {   
+if (doc.childNodeSize()  >  >  > 0) {   
+if (doc.childNodeSize()  > <= 0) {   
+if (doc.childNodeSize()  ><mask1> != 0) {   
+if (doc.childNodeSize()  > >	 0) {   
+if (doc.childNodeSize()  > 0 && doc.childNodes() > 0) {   
+if (doc.childNodeSize()  > 0 || data.startsWith("!")) 0) {   
+if (doc.childNodeSize()  > > return decl; } 0) {   
+if (doc.childNodeSize()  > 0 || data != null)  0) {   
+if (doc.childNodeSize()  ><mask3>; } 0) {   
+if (doc.childNodeSize()   > 0) {   
+if (doc.childNodeSize()  > 0) {   0) {   
+if (doc.childNodeSize()  ><mask3> } } 0) {   
+if (doc.childNodeSize() ()> 0) {   
+if (doc.childNodeSize()  > 1^ 0) {   
+if (doc.childNodeSize()  > 0)> 0) {   
+if (doc.childNodeSize()  > 0)  <mask1> > 0) {   
+if (doc.childNodeSize()  > 1<< 0) {   
+if (doc.childNodeSize()  ><mask5> } 0) {   
+if (doc.childNodeSize()  > 1)> 0) {   
+if (doc.childNodeSize()  > 0..<mask1> > 0) {   
+if (doc.childNodeSize()  > 3> 0) {   
+if (doc.childNodeSize()  ><mask3>; } } 0) {   
+if (doc.childNodeSize()  > 0 && data.endsWith("!")) 0) {   
+if (doc.childNodeSize()  >  == 0) {   
+if (doc.childNodeSize()  > 0 && data.length()> 0) {   
+if (doc.childNodeSize()  > 4> 0) {   
+if (doc.childNodeSize()  >  !=  0) {   
+if (doc.childNodeSize()  > 1 && data.length()> 0) {   
+if (doc.childNodeSize()  >  != 0) {   
+if (doc.childNodeSize()  != > 0) {   
+if (doc.childNodeSize()  > = 0) {   
+if (doc.childNodeSize()  ><mask3> } } 0) {   
+if (doc.childNodeSize()  ><mask3>}; 0) {   
+if (doc.childNodeSize()  > ++ 0) {   
+if (doc.childNodeSize()  > 0 && data.length > 0) {   
+if (doc.childNodeSize()  > <mask1> >   0) {   
+if (doc.childNodeSize()  > 0 > 0) {   
+if (doc.childNodeSize()  > > } 0) {   
+if (doc.childNodeSize()  ><mask3> } else { 0) {   
+if (doc.childNodeSize()  > 0/ 0) {   
+if (doc.childNodeSize()  > 0) return doc; } 0) {   
+if (doc.childNodeSize()  > =<mask1> > 0) {   
+if (doc.childNodeSize()  >  < 0) {   
+if (doc.childNodeSize()  >	 0) {   
+if (doc.childNodeSize()  !=<mask1> > 0) {   
+if (doc.childNodeSize()  > not 0) {   
+if (doc.childNodeSize()  > 0 && doc.hasChildNodes()== 0) {   
+if (doc.childNodeSize()  > 0) {  while ( 0) {   
+if (doc.childNodeSize()  >  <mask1> >   0) {   
+if (doc.childNodeSize()  > 0) return doc; } 0) {   
+if (doc.childNodeSize()  > 0 && data.startsWith("!")== 0) {   
+if (doc.childNodeSize()  > /> 0) {   
+if (doc.childNodeSize()  ==<mask5> } 0) {   
+if (doc.childNodeSize()  > ><mask1> > 0) 0) {   
+if (doc.childNodeSize()  > > return doc; } 0) {   
+if (doc.childNodeSize()  > 0 && doc.hasMore() > 0) {   
+if (doc.childNodeSize()  > >/> 0) {   
+if (doc.childNodeSize()  == <mask1> >  0) {   
+if (doc.childNodeSize()  >  $ 0) {   
+if (doc.childNodeSize()  > 0 && data != null) { 0) {   
+if (doc.childNodeSize()  > > ! 0) {   
+if (doc.childNodeSize()  > " 0) {   
+if (doc.childNodeSize()  > 0 && getData().length() > 0) {   
+if (doc.childNodeSize()  > 0 && data != null  0) {   
+if (doc.childNodeSize()  > > < 0) {   
+if (doc.childNodeSize()  > 1: 0) {   
+if (doc.childNodeSize()  > 0 && el.length() > 0) {   
+if (doc.childNodeSize()  >  _ 0) {   
+if (doc.childNodeSize()  ><mask1> >  0) {   
+if (doc.childNodeSize()  ><mask1> > 0) {   0) {   
+if (doc.childNodeSize()  ><mask3>    } 0) {   
+if (doc.childNodeSize()  ><mask3>   } 0) {   
+if (doc.childNodeSize()  > ~ 0) {   
+if (doc.childNodeSize()  >= 0) {   
+if (doc.childNodeSize()  > 0--> 0) {   
+if (doc.childNodeSize()  >  = 0) {   
+if (doc.childNodeSize()  > 　 0) {   
+if (doc.childNodeSize()  > > = 0) {   
+if (doc.childNodeSize()  > 0 && data != "! 0) {   
+if (doc.childNodeSize()  > != - 0) {   
+if (doc.childNodeSize()  > >< 0) {   
+if (doc.childNodeSize()  > <mask1> >  0 0) {   
+if (doc.childNodeSize()  > 0 && doc.firstChild() != 0) {   
+if (doc.childNodeSize()  >  0) {   
+if (doc.childNodeSize()  > >= 0) {   
+if (doc.childNodeSize()  > 1..<mask1> > 0) {   
+if (doc.childNodeSize()  > > ; 0) {   
+if (doc.childNodeSize()  > >; 0) {   
+if (doc.childNodeSize()  > 0 && (data != null)) 0) {   
+if (doc.childNodeSize()  > 0 || data.length() > 0) {   
+if (doc.childNodeSize()  > 1  0) {   
+if (doc.childNodeSize()  > (<mask1> - 1)) 0) {   
+if (doc.childNodeSize()  > >  0) {   
+if (doc.childNodeSize()  > 			 0) {   
+if (doc.childNodeSize()  > 0 && data.equals("!")) 0) {   
+if (doc.childNodeSize()  ><mask3> ;} } 0) {   
+if (doc.childNodeSize()  > 1|| 0) {   
+if (doc.childNodeSize()  > 1--> 0) {   
+if (doc.childNodeSize()  ><mask3> } return null; } 0) {   
+if (doc.childNodeSize()  == ( 0) {   
+if (doc.childNodeSize()  > 0!= 0) {   
+if (doc.childNodeSize()  > 0 && data.startsWith("!")+ 0) {   
+if (doc.childNodeSize()  > 0) { 0) {   
+if (doc.childNodeSize()  >  >  0) {   
+if (doc.childNodeSize()  > 0 && doc.childCount()== 0) {   
+if (doc.childNodeSize()  > 0 && data.length()> 0) {   
+if (doc.childNodeSize()  > 0 && doc.firstChild()!= 0) {   
+if (doc.childNodeSize()  >  <mask1> >  } 0) {   
+if (doc.childNodeSize()  ><mask3>  } 0) {   
+if (doc.childNodeSize()  > -- 0) {   
+if (doc.childNodeSize()  > 0 && data.length()!= 0) {   
+if (doc.childNodeSize() >( 0) {   
+if (doc.childNodeSize()  > 0) return doc.child( 0) {   
+if (doc.childNodeSize()  > 0&&data!= 0) {   
+if (doc.childNodeSize()  > 1 && data != 0) {   
+if (doc.childNodeSize()  > 0&&data.length()> 0) {   
+if (doc.childNodeSize()  >  } 0) {   
+if (doc.childNodeSize()  > 1 && data.startsWith("! 0) {   
+if (doc.childNodeSize()  > 0 && doc.node() > 0) {   
+if (doc.childNodeSize()  === 0) {   
+if (doc.childNodeSize()  > 1 && data!= 0) {   
+if (doc.childNodeSize()  == <mask1> > 0) {   
+if (doc.childNodeSize()  ><mask3>} } 0) {   
+if (doc.childNodeSize()  > >>  0) {   
+if (doc.childNodeSize()  > === 0) {   
+if (doc.childNodeSize() > 0 && data != null) {   
+if (doc.childNodeSize() > 0 ) {   
+if (doc.childNodeSize() > 0 || data != null) {   
+if (doc.childNodeSize() > 0 && data.length() > 0) {   
+if (doc.childNodeSize() > 0 && el != null) {   
+if (doc.childNodeSize() > 0 && doc.firstChild() != null) {   
+if (doc.childNodeSize() > 0;) {   
+if (doc.childNodeSize() > 0 > 0) {   
+if (doc.childNodeSize() > 0 && doc != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") == true) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") == false) {   
+if (doc.childNodeSize() > 0 && document != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") > 0) {   
+if (doc.childNodeSize() > 0 && !data.equals("!"))) {   
+if (doc.childNodeSize() > 0)  }) {   
+if (doc.childNodeSize() > 0 && doc.hasChildNodes() > 0) {   
+if (doc.childNodeSize() > 0 && data!=null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!"))) {   
+if (doc.childNodeSize() > 0) {   
+if (doc.childNodeSize() > 0 && decl == null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") != false) {   
+if (doc.childNodeSize() > 0 != 0) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() ) {   
+if (doc.childNodeSize() > 0 && doc.childCount() > 0) {   
+if (doc.childNodeSize() > 0 ? true : false) {   
+if (doc.childNodeSize() > 0 <mask1> ) {   
+if (doc.childNodeSize() > 0 && element != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 && doc.firstChild() instanceof Element) {   
+if (doc.childNodeSize() > 0 && doc.childNodes().length > 0) {   
+if (doc.childNodeSize() > 0 == true) {   
+if (doc.childNodeSize() > 0 <mask1> <mask2> ) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") === true) {   
+if (doc.childNodeSize() > 0 || data == null) {   
+if (doc.childNodeSize() > 0) {}) {   
+if (doc.childNodeSize() > 0 then) {   
+if (doc.childNodeSize() > 0 && el == null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 || el != null) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!"))) {   
+if (doc.childNodeSize() > 0  ) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!"))  ) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") === false) {   
+if (doc.childNodeSize() > 0.0) {   
+if (doc.childNodeSize() > 0 && xml != null) {   
+if (doc.childNodeSize() > 0 && elem != null) {   
+if (doc.childNodeSize() > 0 && data != "") {   
+if (doc.childNodeSize() > 0 -1) {   
+if (doc.childNodeSize() > 0 && doc.firstChild() == null) {   
+if (doc.childNodeSize() > 0 && data.length() > 1) {   
+if (doc.childNodeSize() > 0 and data != null) {   
+if (doc.childNodeSize() > 0 ? doc : null) {   
+if (doc.childNodeSize() > 0>0) {   
+if (doc.childNodeSize() > 0)  return decl; }) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") ) {   
+if (doc.childNodeSize() > 0)  if (data != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") ) {   
+if (doc.childNodeSize() > 0 && data == null) {   
+if (doc.childNodeSize() > 0 && getData() != null) {   
+if (doc.childNodeSize() > 0 && null != data) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {}) {   
+if (doc.childNodeSize() > 0 ) {   
+if (doc.childNodeSize() > 0 && content != null) {   
+if (doc.childNodeSize() > 0 && doc.childNode() > 0) {   
+if (doc.childNodeSize() > 0 == false) {   
+if (doc.childNodeSize() > 0 && data.contains("!") == false) {   
+if (doc.childNodeSize() > 0 && xmlParser != null) {   
+if (doc.childNodeSize() > 0 /*else) {   
+if (doc.childNodeSize() > 0 && decl != null) {   
+if (doc.childNodeSize() > 0AST#binary_expression#Right) {   
+if (doc.childNodeSize() > 0)  return doc; }) {   
+if (doc.childNodeSize() > 0) { if (data != null) {   
+if (doc.childNodeSize() > 0L) {   
+if (doc.childNodeSize() > 0 && data.contains("!") == true) {   
+if (doc.childNodeSize() > 0 && doc.hasChildNodes() == true) {   
+if (doc.childNodeSize() > 0 && !"".equals(data)) {   
+if (doc.childNodeSize() > 0);) {   
+if (doc.childNodeSize() > 0 || el == null) {   
+if (doc.childNodeSize() > 0 || data.length() > 0) {   
+if (doc.childNodeSize() > 0)  return null; }) {   
+if (doc.childNodeSize() > 0 && node != null) {   
+if (doc.childNodeSize() > 0 && doc.documentElement() != null) {   
+if (doc.childNodeSize() > 0) {  }) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() ) {   
+if (doc.childNodeSize() > 0 > 1) {   
+if (doc.childNodeSize() > 0 --) {   
+if (doc.childNodeSize() > 0 && doc instanceof Element) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 == 1) {   
+if (doc.childNodeSize() > 0 && data.contains("!") > 0) {   
+if (doc.childNodeSize() > 0 && doc.hasChildNodes() == false) {   
+if (doc.childNodeSize() > 0>) {   
+if (doc.childNodeSize() > 0> 0) {   
+if (doc.childNodeSize() > 0 == 0) {   
+if (doc.childNodeSize() > 0 && parser != null) {   
+if (doc.childNodeSize() > 0 instanceof Element) {   
+if (doc.childNodeSize() > 0 && body != null) {   
+if (doc.childNodeSize() > 0 && doc.childNodes() > 0) {   
+if (doc.childNodeSize() > 0 && doc.data() != null) {   
+if (doc.childNodeSize() > 0) if (data != null) {   
+if (doc.childNodeSize() > 0 && xmlDoc != null) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty()) {   
+if (doc.childNodeSize() > 0)  return null; }) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") != null) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!"))) {   
+if (doc.childNodeSize() > 0 && parent != null) {   
+if (doc.childNodeSize() > 0 && !data.endsWith("!"))) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() == false) {   
+if (doc.childNodeSize() > 0)) {   
+if (doc.childNodeSize() > 0 && doc.getFirstChild() != null) {   
+if (doc.childNodeSize() > 0) {  try) {   
+if (doc.childNodeSize() > 0 ) {   
+if (doc.childNodeSize() > 0 && data.contains("!"))) {   
+if (doc.childNodeSize() > 0 && doc.getChildCount() > 0) {   
+if (doc.childNodeSize() > 0	) {   
+if (doc.childNodeSize() > 0) {  } else) {   
+if (doc.childNodeSize() > 0 <mask1> ) {   
+if (doc.childNodeSize() > 0 && doc.hasMore() > 0) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!") == false) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty) {   
+if (doc.childNodeSize() > 0 && hasData() > 0) {   
+if (doc.childNodeSize() > 0 && el instanceof Element) {   
+if (doc.childNodeSize() > 0 || data.startsWith("!"))) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) { ) {   
+if (doc.childNodeSize() > 0 || document != null) {   
+if (doc.childNodeSize() > 0 && data) {   
+if (doc.childNodeSize() > 0) return doc; }) {   
+if (doc.childNodeSize() > 0)  ) {   
+if (doc.childNodeSize() > 0) return doc; }) {   
+if (doc.childNodeSize() > 0) {) {   
+if (doc.childNodeSize() > 0 && data.startsWith!) {   
+if (doc.childNodeSize() > 0 && doc.hasMoreChildren() > 0) {   
+if (doc.childNodeSize() > 0 /* else) {   
+if (doc.childNodeSize() > 0 && doc.node() != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") !== false) {   
+if (doc.childNodeSize() > 0 != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") >= 0) {   
+if (doc.childNodeSize() > 0 && null != decl) {   
+if (doc.childNodeSize() > 0 && doc.tagName() != null) {   
+if (doc.childNodeSize() > 0 >= 0) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!") ) {   
+if (doc.childNodeSize() > 0 && null == decl) {   
+if (doc.childNodeSize() > 0 && data.contains("!")) {   
+if (doc.childNodeSize() > 0)  return doc; }) {   
+if (doc.childNodeSize() > 0)  } else) {   
+if (doc.childNodeSize() > 0 && hasData() == true) {   
+if (doc.childNodeSize() > 0) return decl; }) {   
+if (doc.childNodeSize() > 0 && doc.firstChild != null) {   
+if (doc.childNodeSize() > 0 && data<mask1>) {) {   
+if (doc.childNodeSize() > 0 && doc.length() > 0) {   
+if (doc.childNodeSize() > 0 >0) {   
+if (doc.childNodeSize() > 0 ? 1 : 0) {   
+if (doc.childNodeSize() > 0-1) {   
+if (doc.childNodeSize() > 0 && doc.lastChild() != null) {   
+if (doc.childNodeSize() > 0 + 1) {   
+if (doc.childNodeSize() > 0 && document.hasChildNodes() > 0) {   
+if (doc.childNodeSize() > 0 && data instanceof Element) {   
+if (doc.childNodeSize() > 0 & data != null) {   
+if (doc.childNodeSize() > 0/*else) {   
+if (doc.childNodeSize() > 0}) {   
+if (doc.childNodeSize() > 0:) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!") == true) {   
+if (doc.childNodeSize() > 0 && data != null) {   
+if (doc.childNodeSize() > 0 && dir != null) {   
+if (doc.childNodeSize() > 0) {} else) {   
+if (doc.childNodeSize() > 0) return doc; }) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {) {   
+if (doc.childNodeSize() > 0> null) {   
+if (doc.childNodeSize() > 0 && data.contains("!") != false) {   
+if (doc.childNodeSize() > 0,) {   
+if (doc.childNodeSize() > 0) { ) {   
+if (doc.childNodeSize() > 0 && !data.equals("!")) {   
+if (doc.childNodeSize() > 0 && null != doc) {   
+if (doc.childNodeSize() > 0) try) {   
+if (doc.childNodeSize() > 0) {} else) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() == true) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!")) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")){}) {   
+if (doc.childNodeSize() > 0 && doc.hasMoreElements() > 0) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") > false) {   
+if (doc.childNodeSize() > 0 && data > 0) {   
+if (doc.childNodeSize() > 0 0) {   
+if (doc.childNodeSize() > 0 || null != data) {   
+if (doc.childNodeSize() > 0 && !data.equals("!")) {}) {   
+if (doc.childNodeSize() > 0) ) {   
+if (doc.childNodeSize() > 0 && element == null) {   
+if (doc.childNodeSize() > 0 && rootNode != null) {   
+if (doc.childNodeSize() > 0 && doc.hasChild() > 0) {   
+if (doc.childNodeSize() > 0 && xmlData != null) {   
+if (doc.childNodeSize() > 0)  else) {   
+if (doc.childNodeSize() > 0) return decl; }) {   
+if (doc.childNodeSize() > 0 && elements != null) {   
+if (doc.childNodeSize() > 0 && doc.childNodes.length > 0) {   
+if (doc.childNodeSize() > 0 && el!=null) {   
+if (doc.childNodeSize() > 0 > null) {   
+if (doc.childNodeSize() > 0 || !isEmpty) {   
+if (doc.childNodeSize() > 0 <mask5>}) {   
+if (doc.childNodeSize() > 0)  //else) {   
+if (doc.childNodeSize() > 0 && hasData != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")}) {   
+if (doc.childNodeSize() > 0 || doc.firstChild() != null) {   
+if (doc.childNodeSize() > 0 === true) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!")) {}) {   
+if (doc.childNodeSize() > 0 && declaration != null) {   
+if (doc.childNodeSize() > 0 && true) {   
+if (doc.childNodeSize() > 0) { ... } }) {   
+if (doc.childNodeSize() > 0 && d != null) {   
+if (doc.childNodeSize() > 0 && ele != null) {   
+if (doc.childNodeSize() > 0 && doc.elementSize() > 0) {   
+if (doc.childNodeSize() > 0 >= 1) {   
+if (doc.childNodeSize() > 0 && name != null) {   
+if (doc.childNodeSize() > 0 && hasData() != null) {   
+if (doc.childNodeSize() > 0 && doc.element() != null) {   
+if (doc.childNodeSize() > 0 ? data : null) {   
+if (doc.childNodeSize() > 0 is true) {   
+if (doc.childNodeSize() > 0 && data != -1) {   
+if (doc.childNodeSize() > 0 && doc.hasAttributes() > 0) {   
+if (doc.childNodeSize() > 0 || doc.hasChildNodes() > 0) {   
+if (doc.childNodeSize() > 0 && !data.endsWith("!")) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!) {   
+if (doc.childNodeSize() > 0 /*else */) {   
+if (doc.childNodeSize() > 0 || data!=null) {   
+if (doc.childNodeSize() > 0 && (data != null))) {   
+if (doc.childNodeSize() > 0 && data.length() != 0) {   
+if (doc.childNodeSize() > 0 &&  data != null) {   
+if (doc.childNodeSize() > 0 && doc.hasAttributes() == false) {   
+if (doc.childNodeSize() > 0) {  } }) {   
+if (doc.childNodeSize() > 0 && doc.children() > 0) {   
+if (doc.childNodeSize() > 0 && doc.content() != null) {   
+if (doc.childNodeSize() > 0 !== 0) {   
+if (doc.childNodeSize() > 0)  return decl; }) {   
+if (doc.childNodeSize() > 0) return decl; }) {   
+if (doc.childNodeSize() > 0 && !isEmpty) {   
+if (doc.childNodeSize() > 0+1) {   
+if (doc.childNodeSize() > 0 && document.firstChild() != null) {   
+if (doc.childNodeSize() > 0)  return data; }) {   
+if (doc.childNodeSize() > 0>null) {   
+if (doc.childNodeSize() > 0 - 1) {   
+if (doc.childNodeSize() > 0 || data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!") > 0) {   
+if (doc.childNodeSize() > 0 && doc.isElement() > 0) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!"))  ) {   
+if (doc.childNodeSize() > 0 && doc.child() > 0) {   
+if (doc.childNodeSize() > 0 || !data) {   
+if (doc.childNodeSize() > 0 && !data.equals("!")) {   
+if (doc.childNodeSize() > 0/* }) {   
+if (doc.childNodeSize() > 0 && doc.hasChildren() > 0) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!")) {   
+if (doc.childNodeSize() > 0) return null; }) {   
+if (doc.childNodeSize() > 0) {  }) {   
+if (doc.childNodeSize() > 0 && data != null) {   
+if (doc.childNodeSize() > 0 ) {   
+if (doc.childNodeSize() > 0 || data != null) {   
+if (doc.childNodeSize() > 0 && data.length() > 0) {   
+if (doc.childNodeSize() > 0 && el != null) {   
+if (doc.childNodeSize() > 0 && doc.firstChild() != null) {   
+if (doc.childNodeSize() > 0;) {   
+if (doc.childNodeSize() > 0 > 0) {   
+if (doc.childNodeSize() > 0 && doc != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") == true) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") == false) {   
+if (doc.childNodeSize() > 0 && document != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") > 0) {   
+if (doc.childNodeSize() > 0 && !data.equals("!"))) {   
+if (doc.childNodeSize() > 0)  }) {   
+if (doc.childNodeSize() > 0 && doc.hasChildNodes() > 0) {   
+if (doc.childNodeSize() > 0 && data!=null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!"))) {   
+if (doc.childNodeSize() > 0) {   
+if (doc.childNodeSize() > 0 && decl == null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") != false) {   
+if (doc.childNodeSize() > 0 != 0) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() ) {   
+if (doc.childNodeSize() > 0 && doc.childCount() > 0) {   
+if (doc.childNodeSize() > 0 ? true : false) {   
+if (doc.childNodeSize() > 0 <mask1> ) {   
+if (doc.childNodeSize() > 0 && element != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 && doc.firstChild() instanceof Element) {   
+if (doc.childNodeSize() > 0 && doc.childNodes().length > 0) {   
+if (doc.childNodeSize() > 0 == true) {   
+if (doc.childNodeSize() > 0 <mask1> <mask2> ) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") === true) {   
+if (doc.childNodeSize() > 0 || data == null) {   
+if (doc.childNodeSize() > 0) {}) {   
+if (doc.childNodeSize() > 0 then) {   
+if (doc.childNodeSize() > 0 && el == null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 || el != null) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!"))) {   
+if (doc.childNodeSize() > 0  ) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!"))  ) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") === false) {   
+if (doc.childNodeSize() > 0.0) {   
+if (doc.childNodeSize() > 0 && xml != null) {   
+if (doc.childNodeSize() > 0 && elem != null) {   
+if (doc.childNodeSize() > 0 && data != "") {   
+if (doc.childNodeSize() > 0 -1) {   
+if (doc.childNodeSize() > 0 && doc.firstChild() == null) {   
+if (doc.childNodeSize() > 0 && data.length() > 1) {   
+if (doc.childNodeSize() > 0 and data != null) {   
+if (doc.childNodeSize() > 0 ? doc : null) {   
+if (doc.childNodeSize() > 0>0) {   
+if (doc.childNodeSize() > 0)  return decl; }) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") ) {   
+if (doc.childNodeSize() > 0)  if (data != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") ) {   
+if (doc.childNodeSize() > 0 && data == null) {   
+if (doc.childNodeSize() > 0 && getData() != null) {   
+if (doc.childNodeSize() > 0 && null != data) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {}) {   
+if (doc.childNodeSize() > 0 ) {   
+if (doc.childNodeSize() > 0 && content != null) {   
+if (doc.childNodeSize() > 0 && doc.childNode() > 0) {   
+if (doc.childNodeSize() > 0 == false) {   
+if (doc.childNodeSize() > 0 && data.contains("!") == false) {   
+if (doc.childNodeSize() > 0 && xmlParser != null) {   
+if (doc.childNodeSize() > 0 /*else) {   
+if (doc.childNodeSize() > 0 && decl != null) {   
+if (doc.childNodeSize() > 0AST#binary_expression#Right) {   
+if (doc.childNodeSize() > 0)  return doc; }) {   
+if (doc.childNodeSize() > 0) { if (data != null) {   
+if (doc.childNodeSize() > 0L) {   
+if (doc.childNodeSize() > 0 && data.contains("!") == true) {   
+if (doc.childNodeSize() > 0 && doc.hasChildNodes() == true) {   
+if (doc.childNodeSize() > 0 && !"".equals(data)) {   
+if (doc.childNodeSize() > 0);) {   
+if (doc.childNodeSize() > 0 || el == null) {   
+if (doc.childNodeSize() > 0 || data.length() > 0) {   
+if (doc.childNodeSize() > 0)  return null; }) {   
+if (doc.childNodeSize() > 0 && node != null) {   
+if (doc.childNodeSize() > 0 && doc.documentElement() != null) {   
+if (doc.childNodeSize() > 0) {  }) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() ) {   
+if (doc.childNodeSize() > 0 > 1) {   
+if (doc.childNodeSize() > 0 --) {   
+if (doc.childNodeSize() > 0 && doc instanceof Element) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 == 1) {   
+if (doc.childNodeSize() > 0 && data.contains("!") > 0) {   
+if (doc.childNodeSize() > 0 && doc.hasChildNodes() == false) {   
+if (doc.childNodeSize() > 0>) {   
+if (doc.childNodeSize() > 0> 0) {   
+if (doc.childNodeSize() > 0 == 0) {   
+if (doc.childNodeSize() > 0 && parser != null) {   
+if (doc.childNodeSize() > 0 instanceof Element) {   
+if (doc.childNodeSize() > 0 && body != null) {   
+if (doc.childNodeSize() > 0 && doc.childNodes() > 0) {   
+if (doc.childNodeSize() > 0 && doc.data() != null) {   
+if (doc.childNodeSize() > 0) if (data != null) {   
+if (doc.childNodeSize() > 0 && xmlDoc != null) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty()) {   
+if (doc.childNodeSize() > 0)  return null; }) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") != null) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!"))) {   
+if (doc.childNodeSize() > 0 && parent != null) {   
+if (doc.childNodeSize() > 0 && !data.endsWith("!"))) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() == false) {   
+if (doc.childNodeSize() > 0)) {   
+if (doc.childNodeSize() > 0 && doc.getFirstChild() != null) {   
+if (doc.childNodeSize() > 0) {  try) {   
+if (doc.childNodeSize() > 0 ) {   
+if (doc.childNodeSize() > 0 && data.contains("!"))) {   
+if (doc.childNodeSize() > 0 && doc.getChildCount() > 0) {   
+if (doc.childNodeSize() > 0	) {   
+if (doc.childNodeSize() > 0) {  } else) {   
+if (doc.childNodeSize() > 0 <mask1> ) {   
+if (doc.childNodeSize() > 0 && doc.hasMore() > 0) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!") == false) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty) {   
+if (doc.childNodeSize() > 0 && hasData() > 0) {   
+if (doc.childNodeSize() > 0 && el instanceof Element) {   
+if (doc.childNodeSize() > 0 || data.startsWith("!"))) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) { ) {   
+if (doc.childNodeSize() > 0 || document != null) {   
+if (doc.childNodeSize() > 0 && data) {   
+if (doc.childNodeSize() > 0) return doc; }) {   
+if (doc.childNodeSize() > 0)  ) {   
+if (doc.childNodeSize() > 0) return doc; }) {   
+if (doc.childNodeSize() > 0) {) {   
+if (doc.childNodeSize() > 0 && data.startsWith!) {   
+if (doc.childNodeSize() > 0 && doc.hasMoreChildren() > 0) {   
+if (doc.childNodeSize() > 0 /* else) {   
+if (doc.childNodeSize() > 0 && doc.node() != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") !== false) {   
+if (doc.childNodeSize() > 0 != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") >= 0) {   
+if (doc.childNodeSize() > 0 && null != decl) {   
+if (doc.childNodeSize() > 0 && doc.tagName() != null) {   
+if (doc.childNodeSize() > 0 >= 0) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!") ) {   
+if (doc.childNodeSize() > 0 && null == decl) {   
+if (doc.childNodeSize() > 0 && data.contains("!")) {   
+if (doc.childNodeSize() > 0)  return doc; }) {   
+if (doc.childNodeSize() > 0)  } else) {   
+if (doc.childNodeSize() > 0 && hasData() == true) {   
+if (doc.childNodeSize() > 0) return decl; }) {   
+if (doc.childNodeSize() > 0 && doc.firstChild != null) {   
+if (doc.childNodeSize() > 0 && data<mask1>) {) {   
+if (doc.childNodeSize() > 0 && doc.length() > 0) {   
+if (doc.childNodeSize() > 0 >0) {   
+if (doc.childNodeSize() > 0 ? 1 : 0) {   
+if (doc.childNodeSize() > 0-1) {   
+if (doc.childNodeSize() > 0 && doc.lastChild() != null) {   
+if (doc.childNodeSize() > 0 + 1) {   
+if (doc.childNodeSize() > 0 && document.hasChildNodes() > 0) {   
+if (doc.childNodeSize() > 0 && data instanceof Element) {   
+if (doc.childNodeSize() > 0 & data != null) {   
+if (doc.childNodeSize() > 0/*else) {   
+if (doc.childNodeSize() > 0}) {   
+if (doc.childNodeSize() > 0:) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!") == true) {   
+if (doc.childNodeSize() > 0 && data != null) {   
+if (doc.childNodeSize() > 0 && dir != null) {   
+if (doc.childNodeSize() > 0) {} else) {   
+if (doc.childNodeSize() > 0) return doc; }) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")) {) {   
+if (doc.childNodeSize() > 0> null) {   
+if (doc.childNodeSize() > 0 && data.contains("!") != false) {   
+if (doc.childNodeSize() > 0,) {   
+if (doc.childNodeSize() > 0) { ) {   
+if (doc.childNodeSize() > 0 && !data.equals("!")) {   
+if (doc.childNodeSize() > 0 && null != doc) {   
+if (doc.childNodeSize() > 0) try) {   
+if (doc.childNodeSize() > 0) {} else) {   
+if (doc.childNodeSize() > 0 && !data.isEmpty() == true) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!")) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")){}) {   
+if (doc.childNodeSize() > 0 && doc.hasMoreElements() > 0) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!") > false) {   
+if (doc.childNodeSize() > 0 && data > 0) {   
+if (doc.childNodeSize() > 0 0) {   
+if (doc.childNodeSize() > 0 || null != data) {   
+if (doc.childNodeSize() > 0 && !data.equals("!")) {}) {   
+if (doc.childNodeSize() > 0) ) {   
+if (doc.childNodeSize() > 0 && element == null) {   
+if (doc.childNodeSize() > 0 && rootNode != null) {   
+if (doc.childNodeSize() > 0 && doc.hasChild() > 0) {   
+if (doc.childNodeSize() > 0 && xmlData != null) {   
+if (doc.childNodeSize() > 0)  else) {   
+if (doc.childNodeSize() > 0) return decl; }) {   
+if (doc.childNodeSize() > 0 && elements != null) {   
+if (doc.childNodeSize() > 0 && doc.childNodes.length > 0) {   
+if (doc.childNodeSize() > 0 && el!=null) {   
+if (doc.childNodeSize() > 0 > null) {   
+if (doc.childNodeSize() > 0 || !isEmpty) {   
+if (doc.childNodeSize() > 0 <mask5>}) {   
+if (doc.childNodeSize() > 0)  //else) {   
+if (doc.childNodeSize() > 0 && hasData != null) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!")}) {   
+if (doc.childNodeSize() > 0 || doc.firstChild() != null) {   
+if (doc.childNodeSize() > 0 === true) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!")) {}) {   
+if (doc.childNodeSize() > 0 && declaration != null) {   
+if (doc.childNodeSize() > 0 && true) {   
+if (doc.childNodeSize() > 0) { ... } }) {   
+if (doc.childNodeSize() > 0 && d != null) {   
+if (doc.childNodeSize() > 0 && ele != null) {   
+if (doc.childNodeSize() > 0 && doc.elementSize() > 0) {   
+if (doc.childNodeSize() > 0 >= 1) {   
+if (doc.childNodeSize() > 0 && name != null) {   
+if (doc.childNodeSize() > 0 && hasData() != null) {   
+if (doc.childNodeSize() > 0 && doc.element() != null) {   
+if (doc.childNodeSize() > 0 ? data : null) {   
+if (doc.childNodeSize() > 0 is true) {   
+if (doc.childNodeSize() > 0 && data != -1) {   
+if (doc.childNodeSize() > 0 && doc.hasAttributes() > 0) {   
+if (doc.childNodeSize() > 0 || doc.hasChildNodes() > 0) {   
+if (doc.childNodeSize() > 0 && !data.endsWith("!")) {   
+if (doc.childNodeSize() > 0 && data.startsWith("!) {   
+if (doc.childNodeSize() > 0 /*else */) {   
+if (doc.childNodeSize() > 0 || data!=null) {   
+if (doc.childNodeSize() > 0 && (data != null))) {   
+if (doc.childNodeSize() > 0 && data.length() != 0) {   
+if (doc.childNodeSize() > 0 &&  data != null) {   
+if (doc.childNodeSize() > 0 && doc.hasAttributes() == false) {   
+if (doc.childNodeSize() > 0) {  } }) {   
+if (doc.childNodeSize() > 0 && doc.children() > 0) {   
+if (doc.childNodeSize() > 0 && doc.content() != null) {   
+if (doc.childNodeSize() > 0 !== 0) {   
+if (doc.childNodeSize() > 0)  return decl; }) {   
+if (doc.childNodeSize() > 0) return decl; }) {   
+if (doc.childNodeSize() > 0 && !isEmpty) {   
+if (doc.childNodeSize() > 0+1) {   
+if (doc.childNodeSize() > 0 && document.firstChild() != null) {   
+if (doc.childNodeSize() > 0)  return data; }) {   
+if (doc.childNodeSize() > 0>null) {   
+if (doc.childNodeSize() > 0 - 1) {   
+if (doc.childNodeSize() > 0 || data.startsWith("!")) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!") > 0) {   
+if (doc.childNodeSize() > 0 && doc.isElement() > 0) {   
+if (doc.childNodeSize() > 0 && data.endsWith("!"))  ) {   
+if (doc.childNodeSize() > 0 && doc.child() > 0) {   
+if (doc.childNodeSize() > 0 || !data) {   
+if (doc.childNodeSize() > 0 && !data.equals("!")) {   
+if (doc.childNodeSize() > 0/* }) {   
+if (doc.childNodeSize() > 0 && doc.hasChildren() > 0) {   
+if (doc.childNodeSize() > 0 && !data.startsWith("!")) {   
+if (doc.childNodeSize() > 0) return null; }) {   
+if (doc.childNodeSize() > 0) {  }) {   
+if (doc.childNodeSize() > 0) {   
+if (doc.childCount() > 0) {   
+if (doc.childNodeCount() > 0) {   
+if (doc.childNodes().size() > 0) {   
+if (doc.getChildCount() > 0) {   
+if (doc.childSize() > 0) {   
+if (doc.childNodes.size() > 0) {   
+if (doc.childNodes().length() > 0) {   
+if (doc.childNodesSize() > 0) {   
+if (doc.firstChildSize() > 0) {   
+if (doc.childNodesCount() > 0) {   
+if (doc.nodeCount() > 0) {   
+if (doc.childNodeDepth() > 0) {   
+if (doc.childrenSize() > 0) {   
+if (doc.getFirstChildSize() > 0) {   
+if (doc.hasChildNodes() > 0) {   
+if (doc.hasChildSize() > 0) {   
+if (doc.childNodes.length() > 0) {   
+if (doc.length() > 0) {   
+if (doc.hasChildCount() > 0) {   
+if (doc.child().size() > 0) {   
+if (doc.childNodes().getLength() > 0) {   
+if (doc.children().size() > 0) {   
+if (doc.firstChildCount() > 0) {   
+if (doc.childDepth() > 0) {   
+if (doc.elementCount() > 0) {   
+if (doc.hasChild() > 0) {   
+if (doc.firstChild() > 0) {   
+if (doc.firstChild().length() > 0) {   
+if (doc.nodeSize() > 0) {   
+if (doc.firstChild<mask1>childNodeSize() > 0) {   
+if (doc.childNodes().size() > 0) {   
+if (doc.size() > 0) {   
+if (doc.firstChild().hasChildNodes() > 0) {   
+if (doc.childNodeSize<mask1>childCount() > 0) {   
+if (doc.childNodeIndex() > 0) {   
+if (doc.lastChildSize() > 0) {   
+if (doc.childNodesize() > 0) {   
+if (doc.childNode() > 0) {   
+if (doc.childNodeSize<mask1>childNodeSize() > 0) {   
+if (doc.getChildSize() > 0) {   
+if (doc.size<mask1>childNodeSize() > 0) {   
+if (doc.size<mask1>childCount() > 0) {   
+if (doc.childIndex() > 0) {   
+if (doc.elementSize() > 0) {   
+if (doc.nodeName().length() > 0) {   
+if (doc.childNumber() > 0) {   
+if (doc.hasChild<mask1>childNodeSize() > 0) {   
+if (doc.firstChildSize() > 0) {   
+if (doc.firstChild<mask1>childCount() > 0) {   
+if (doc.getElementCount() > 0) {   
+if (doc.getNodeCount() > 0) {   
+if (doc.childElements().size() > 0) {   
+if (doc.childNodesLength() > 0) {   
+if (doc.childNodeCount() > 0) {   
+if (doc.firstChild().size() > 0) {   
+if (doc.childNodeNumber() > 0) {   
+if (doc.childNodeSize() > 0) {   
+if (doc.firstChildElementSize() > 0) {   
+if (doc.getFirstChildCount() > 0) {   
+if (doc.childNode<mask1>childNodeSize() > 0) {   
+if (doc.childNodes<mask1>childNodeSize() > 0) {   
+if (doc.numChildren() > 0) {   
+if (doc.childItemCount() > 0) {   
+if (doc.getLength() > 0) {   
+if (doc.getCount() > 0) {   
+if (doc.childNodesDepth() > 0) {   
+if (doc.getDepth() > 0) {   
+if (doc.childNodes() > 0) {   
+if (doc.hasChildren() > 0) {   
+if (doc.childElementCount() > 0) {   
+if (doc.countChildren() > 0) {   
+if (doc.childNodes.getLength() > 0) {   
+if (doc.child().length() > 0) {   
+if (doc.firstChild<mask1>childNodes().size() > 0) {   
+if (doc.childsSize() > 0) {   
+if (doc.itemCount() > 0) {   
+if (doc.firstChildIndex() > 0) {   
+if (doc.firstChildNodeSize() > 0) {   
+if (doc.childNodes().length() > 0) {   
+if (doc.firstChild().hasAttributes() > 0) {   
+if (doc.firstChild().hasChildren() > 0) {   
+if (doc.childElementsSize() > 0) {   
+if (doc.countChildElements() > 0) {   
+if (doc.firstChild().data().length() > 0) {   
+if (doc.bodySize() > 0) {   
+if (doc.firstChild<mask1>childNodes().length() > 0) {   
+if (doc.hasChild<mask1>childCount() > 0) {   
+if (doc.numChildren<mask1>numChildren() > 0) {   
+if (doc.childNodeSize<mask1>childNodeCount() > 0) {   
+if (doc.tagSize() > 0) {   
+if (doc.nodeType<mask1>childNodeSize() > 0) {   
+if (doc.childElementSize() > 0) {   
+if (doc.children().length() > 0) {   
+if (doc.getNodeSize() > 0) {   
+if (doc.childrenCount() > 0) {   
+if (doc.getElementSize() > 0) {   
+if (doc.nextSiblingSize() > 0) {   
+if (doc.firstChildElementCount() > 0) {   
+if (doc.documentElementSize() > 0) {   
+if (doc.childCount<mask1>childNodeSize() > 0) {   
+if (doc.countElements() > 0) {   
+if (doc.childNodes().count() > 0) {   
+if (doc.childsize() > 0) {   
+if (doc.length<mask1>childCount() > 0) {   
+if (doc.size<mask1>childNodes().size() > 0) {   
+if (doc.childNodessize() > 0) {   
+if (doc.childCount<mask1>childCount() > 0) {   
+if (doc.countChildren<mask1>countChildren() > 0) {   
+if (doc.childNodeLength() > 0) {   
+if (doc.tagName().length() > 0) {   
+if (doc.child<mask1>childNodeSize() > 0) {   
+if (doc.childNodes().getLength() > 0) {   
+if (doc.childNodes().size<mask1>length() > 0) {   
+if (doc.length<mask1>childNodeSize() > 0) {   
+if (doc.hasChildNodes() > 0) {   
+if (doc.getFirstChildIndex() > 0) {   
+if (doc.hasChildNodes<mask1>childNodeSize() > 0) {   
+if (doc.getLength<mask1>childCount() > 0) {   
+if (doc.childNodeSize<mask1>getChildCount() > 0) {   
+if (doc.rootNodeSize() > 0) {   
+if (doc.getFirstChild() > 0) {   
+if (doc.childNumber<mask1>childNodeSize() > 0) {   
+if (doc.childNodes().Length() > 0) {   
+if (doc.firstChild().text().length() > 0) {   
+if (doc.countChildren<mask1>childNodeSize() > 0) {   
+if (doc.childLength() > 0) {   
+if (doc.countChildNodes() > 0) {   
+if (doc.numChildNodes() > 0) {   
+if (doc.firstChild().tagSize() > 0) {   
+if (doc.firstChild().data.length() > 0) {   
+if (doc.childListSize() > 0) {   
+if (doc.getElementsByTagName("declaration").getLength() > 0) {   
+if (doc.documentSize() > 0) {   
+if (doc.count() > 0) {   
+if (doc.childElementsCount() > 0) {   
+if (doc.firstChild<mask1>getChildCount() > 0) {   
+if (doc.childNodeSize<mask1>length() > 0) {   
+if (doc.nodeType<mask1>childCount() > 0) {   
+if (doc.getDocumentElementSize() > 0) {   
+if (doc.firstChild().nodeName().length() > 0) {   
+if (doc.itemSize() > 0) {   
+if (doc.countChildNodes() > 0) {   
+if (doc.firstChildCount() > 0) {   
+if (doc.ChildNodes().size() > 0) {   
+if (doc.children.size() > 0) {   
+if (doc.hasChilds() > 0) {   
+if (doc.tagCount() > 0) {   
+if (doc.child.size() > 0) {   
+if (doc.firstChild<mask1>hasChildNodes() > 0) {   
+if (doc.numChildren<mask1>childCount() > 0) {   
+if (doc.countChildren<mask1>childCount() > 0) {   
+if (doc.hasChildElements() > 0) {   
+if (doc.getChildNodes().getLength() > 0) {   
+if (doc.childNodeSize<mask1>hasChildNodes() > 0) {   
+if (doc.childNodes.size() > 0) {   
+if (doc.firstChild().tagName().length() > 0) {   
+if (doc.childNode<mask1>childCount() > 0) {   
+if (doc.itemCount() > 0) {   
+if (doc.nodeNameSize() > 0) {   
+if (doc.nodeDepth() > 0) {   
+if (doc.firstChildElemSize() > 0) {   
+if (doc.childCapacity() > 0) {   
+if (doc.findChildCount() > 0) {   
+if (doc.hasMore<mask1>childNodeSize() > 0) {   
+if (doc.hasFirstChild() > 0) {   
+if (doc.childNodes<mask1>childCount() > 0) {   
+if (doc.childSize<mask1>childNodeSize() > 0) {   
+if (doc.getChildren().size() > 0) {   
+if (doc.childTagSize() > 0) {   
+if (doc.childNodeContentSize() > 0) {   
+if (doc.CHILDCount() > 0) {   
+if (doc.depth() > 0) {   
+if (doc.nodeNameCount() > 0) {   
+if (doc.childNodes()->length() > 0) {   
+if (doc.getNodes().size() > 0) {   
+if (doc.size<mask1>childNodes().length() > 0) {   
+if (doc.numChildren<mask1>childNodeSize() > 0) {   
+if (doc.firstChild().hasNext() > 0) {   
+if (doc.hasChild<mask1>getChildCount() > 0) {   
+if (doc. childNodeSize() > 0) {   
+if (doc.firstChildChildSize() > 0) {   
+if (doc.childNodesCount() > 0) {   
+if (doc.childNodeSize<mask1>firstChild() > 0) {   
+if (doc.childDimension() > 0) {   
+if (doc.hasChild<mask1>hasChild() > 0) {   
+if (doc.getFirstChild().hasChildNodes() > 0) {   
+if (doc.firstChild().tag() > 0) {   
+if (doc.elemSize() > 0) {   
+if (doc.getChildNodes().size() > 0) {   
+if (doc.nodesSize() > 0) {   
+if (doc.firstChild().getChildCount() > 0) {   
+if (doc.elementsSize() > 0) {   
+if (doc.childNodeOffset() > 0) {   
+if (doc.docElementSize() > 0) {   
+if (doc.nextElementSize() > 0) {   
+if (doc.childNode<mask2>childNodeSize() > 0) {   
+if (doc.totalChildNodes() > 0) {   
+if (doc.childNodesLen() > 0) {   
+if (doc.size<mask1>getChildCount() > 0) {   
+if (doc.childNodesItemCount() > 0) {   
+if (doc.ChildNodeSize() > 0) {   
+if (doc.childNodes<mask1>length() > 0) {   
+if (doc.firstChildPosition() > 0) {   
+if (doc.childNodeSize<mask1>childNode() > 0) {   
+if (doc.childNodeCapacity() > 0) {   
+if (doc.size<mask1>size() > 0) {   
+if (doc.firstChildDepth() > 0) {   
+if (doc.treeSize() > 0) {   
+if (doc.getChildElements().size() > 0) {   
+if (doc.childNodes() > 0) {   
+if (doc.getFirstChildNodeSize() > 0) {   
+if (doc.getFirstChild().size() > 0) {   
+if (doc.numberChildren() > 0) {   
+if (doc.childsCount() > 0) {   
+if (doc.countChildren<mask1>getChildCount() > 0) {   
+if (doc.getDocumentSize() > 0) {   
+if (doc.child(0).length() > 0) {   
+if (doc.childNodeNodeSize() > 0) {   
+if (doc.firstChild<mask1>hasChild() > 0) {   
+if (doc.text().length() > 0) {   
+if (doc.firstChild().hasChild() > 0) {   
+if (doc.count<mask1>childCount() > 0) {   
+if (doc.nodeValue().length() > 0) {   
+if (doc.childNodes.size<mask1>length() > 0) {   
+if (doc.nodeType() > 0) {   
+if (doc.childNodes().size<mask1>size() > 0) {   
+if (doc.childNodeNodes() > 0) {   
+if (doc.firstElementChildSize() > 0) {   
+if (doc.hasMoreChildren() > 0) {   
+if (doc.firstChildLength() > 0) {   
+if (doc.firstChildNodeCount() > 0) {   
+if (doc.hasChildNodes<mask1>childCount() > 0) {   
+if (doc.childSize<mask1>childCount() > 0) {   
+if (doc.childNodeSize<mask1>hasChild() > 0) {   
+if (doc.elements().size() > 0) {   
+if (doc.childNodesCapacity() > 0) {   
+if (doc.index() > 0) {   
+if (doc.hasChildren<mask1>childNodeSize() > 0) {   
+if (doc.childNumber<mask1>childNumber() > 0) {   
+if (doc.firstChild().kind() > 0) {   
+if (doc.numChildElements() > 0) {   
+if (doc.childLimit() > 0) {   
+if (doc.child<mask1>childCount() > 0) {   
+if (doc.nodes().size() > 0) {   
+if (doc.childNode().size() > 0) {   
+if (doc.hasMore<mask1>childCount() > 0) {   
+if (doc.firstChild<mask1>firstChild() > 0) {   
+if (doc.childNodeSize<mask1>childNodeDepth() > 0) {   
+if (doc.childNode<mask1>childNodes().size() > 0) {   
+) > 0) { } else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } else if (doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if (doc.childCount() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeCount() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() < 1) > 0) {   
+) > 0) { } else if ((doc.childCount() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() == 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() - 1) > 0) {   
+) > 0) { } else if (doc.getChildCount() > 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize(0) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if (doc.childNodes().length() > 0) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() & 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() > 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() == 1) > 0) {   
+) > 0) { } else if ((doc.getChildCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childCount() - 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() < 0) > 0) {   
+) > 0) { } if (doc.childCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().length - 1) > 0) {   
+) > 0) { } if (doc.childNodes().size() > 0) > 0) {   
+) > 0) { } if ((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() == 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() != 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else (if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { }else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() <= 0) > 0) {   
+) > 0) { } else if ((doc != null) > 0) {   
+) > 0) { } else if ((doc.firstChild() != null) > 0) {   
+) > 0) { } else if (doc.childSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNodes.size() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().length() > 0) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() - 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeCount() > 0) > 0) {   
+) > 0) { } } if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() < 2) > 0) {   
+) > 0) { } }) > 0) {   
+) > 0) { } else if ((data != null) > 0) {   
+) > 0) { } else if (doc.childNode(0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() -1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() + 1) > 0) {   
+) > 0) { }else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if (data.length() > 0) > 0) {   
+) > 0) { } if (doc.childNodeCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().length() - 1) > 0) {   
+) > 0) { } else if ((data = getData()) != null) > 0) {   
+) > 0) { } else if ((doc.getChildCount() - 1) > 0) {   
+) > 0) { } if (doc.getChildCount() > 0) > 0) {   
+) > 0) { } } else if (doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if (doc.childNode() > 0) > 0) {   
+) > 0) { } if (doc.childNodeSize() - 1) > 0) {   
+) > 0) { } } if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { }else if ((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } } if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() < 1) > 0) {   
+) > 0) { } } else if (doc.childCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childSize() > 0) > 0) {   
+) > 0) { }else if (doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if (doc.childCount(0) > 0) {   
+) > 0) { } else if (doc.firstChildSize() > 0) > 0) {   
+) > 0) { } else if ((doc.length() - 1) > 0) {   
+) > 0) { } } else if (doc.childNodeCount() > 0) > 0) {   
+) > 0) { } else if (doc.childNodesSize() > 0) > 0) {   
+) > 0) { }  if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if (doc.getChildCount(0) > 0) {   
+) > 0) { }else if (doc.childCount() > 0) > 0) {   
+) > 0) { } else if (doc.childNodes().length(0) > 0) {   
+) > 0) { } } else if ((doc.childCount() > 0) > 0) {   
+) > 0) { } if ((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } } else if (doc.childNodeCount() > 0) > 0) {   
+) > 0) { } } else if ((doc.childCount() > 0) > 0) {   
+) > 0) { } if (doc.childCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes() > 0) > 0) {   
+) > 0) { } else if (doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() < 4) > 0) {   
+) > 0) { } if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((data.length() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeDepth() > 0) > 0) {   
+) > 0) { } else if ((data.length() - 1) > 0) {   
+) > 0) { } else { if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } }else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize(1) > 0) {   
+) > 0) { } else if (doc.childNodeCount() > 0) > 0) {   
+) > 0) { } if (doc.childNodes().size() > 0) > 0) {   
+) > 0) { } if (doc.childNodeCount() > 0) > 0) {   
+) > 0) { }else if (doc.childNodeCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() <= 0) > 0) {   
+) > 0) { } else if (doc.firstChild() != null) > 0) {   
+) > 0) { } else if (doc.length() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() + 1) > 0) {   
+) > 0) { }) > 0) {   
+) > 0) { } } else if ((doc != null) > 0) {   
+) > 0) { } if ((doc.childCount() > 0) > 0) {   
+) > 0) { } else if ((doc.firstChild() instanceof Element) > 0) {   
+) > 0) { }} else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() != 0) > 0) {   
+) > 0) { } } else if ((doc != null) > 0) {   
+) > 0) { } if (doc.childNodes().length() > 0) > 0) {   
+) > 0) { } else if (doc.childCount() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() & 1) > 0) {   
+) > 0) { } else (if (doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().getLength() > 0) > 0) {   
+) > 0) { } if (doc.childNodeSize() < 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() > 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() / 2) > 0) {   
+) > 0) { } else if (doc.childNodeSize(true) > 0) {   
+) > 0) { } else if (doc.childNodeSize() <= 1) > 0) {   
+) > 0) { } else if ((doc.childNodesSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNode() > 0) > 0) {   
+) > 0) { } else if (doc.children().size() > 0) > 0) {   
+) > 0) { } else if (doc.child().size() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() * 2) > 0) {   
+) > 0) { } else if (doc.childNodes().getLength() > 0) > 0) {   
+) > 0) { } } else if ((doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if ((doc.firstChild() == null) > 0) {   
+) > 0) { } } else if (doc.childCount() > 0) > 0) {   
+) > 0) { } } else if (doc.childSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() % 2) > 0) {   
+) > 0) { }else if (doc.childNodeSize() < 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() < 3) > 0) {   
+) > 0) { } } else if (doc.childNodesSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() < 1) > 0) {   
+) > 0) { } else if (doc.child(0) > 0) {   
+) > 0) { } else if ((doc.childNodes().getLength() - 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize(false) > 0) {   
+) > 0) { } else if ((doc.childNodes() != null) > 0) {   
+) > 0) { } else if (doc.childNodeCount(0) > 0) {   
+) > 0) { } else (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } while (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if (doc.nodeCount() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeCount() == 0) > 0) {   
+) > 0) { } } else if (doc.childNodes().length() > 0) > 0) {   
+) > 0) { } else if (doc.elementSize() > 0) > 0) {   
+) > 0) { } } if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() - 2) > 0) {   
+) > 0) { } } else if ((doc.childNodes().size() - 1) > 0) {   
+) > 0) { } else if ((doc.childCount() > 0) > 0) {   
+) > 0) { } else if(doc.childNodeSize() > 0) > 0) {   
+) > 0) { } } else if (doc.getChildCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNode() - 1) > 0) {   
+) > 0) { } else if ((doc.childNodes().length > 0) > 0) {   
+) > 0) { } }else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } if ((doc.childNodes().size() - 1) > 0) {   
+) > 0) { } else if ((doc.nodeCount() > 0) > 0) {   
+) > 0) { } } else if (doc.getChildCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeCount() - 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() (1) > 0) {   
+) > 0) { } else if ((doc) > 0) {   
+) > 0) { } if (doc.childNodeSize() & 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() --) > 0) {   
+) > 0) { }else if ((doc.childCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() >> 1) > 0) {   
+) > 0) { } if (doc.childNodeSize() == 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() == 1) > 0) {   
+) > 0) { } if ((doc.childNodes().size() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() -1) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() & 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() == 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() == 0) > 0) {   
+) > 0) { } else if ((doc.length() > 0) > 0) {   
+) > 0) { }else if (doc.childNodeSize() == 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() == 0) > 0) {   
+) > 0) { } else if (((doc.childNodeSize() - 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() (0) > 0) {   
+) > 0) { }} else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { }else if (doc.getChildCount() > 0) > 0) {   
+) > 0) { } } else if ((doc.childNodes().length() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() < 0) > 0) {   
+) > 0) { } } if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } } if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } if (doc.childNodeSize() > 1) > 0) {   
+) > 0) { } else if ((doc.size() - 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() + 2) > 0) {   
+) > 0) { } else if ((doc.getFirstChild() != null) > 0) {   
+) > 0) { } if (doc.getChildCount() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() > 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() < 1) > 0) {   
+) > 0) { } if (doc.childNodeSize() && (data) > 0) {   
+) > 0) { } else if ((data == null) > 0) {   
+) > 0) { } if ((doc.childCount() - 1) > 0) {   
+) > 0) { } } else if ((doc.getChildCount() > 0) > 0) {   
+) > 0) { } }else if (doc.childNodeSize() > 0) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() & 1) > 0) {   
+) > 0) { } else if (doc.documentElementSize() > 0) > 0) {   
+) > 0) { } } else if (doc.firstChildSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNode().size() > 0) > 0) {   
+) > 0) { } else if (doc.elementCount() > 0) > 0) {   
+) > 0) { } } else if (doc.childNode() > 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() < 1) > 0) {   
+) > 0) { } if (doc.childNode(0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() != 0) > 0) {   
+) > 0) { } else if ((doc.childSize() - 1) > 0) {   
+) > 0) { } if (doc.childNodeSize() < 1) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() - 1) > 0) {   
+) > 0) { } else if ((doc.child(0) > 0) {   
+) > 0) { }else if ((doc.childNodes().size() - 1) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() & 1) > 0) {   
+) > 0) { } }) > 0) {   
+) > 0) { } else if (doc.childNodeSize() < 5) > 0) {   
+) > 0) { } else if ((doc.childNodes().length) > 0) {   
+) > 0) { } else if (doc.childNodes().size() == 0) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() == 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() + 1) > 0) {   
+) > 0) { } } if ((doc.childNodeSize() > 0) > 0) {   
+) > 0) { } } else if (doc.childSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes.size() - 1) > 0) {   
+) > 0) { } } else if ((doc.childNodeCount() > 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() != 0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() > 1) > 0) {   
+) > 0) { } else if ((data) > 0) {   
+) > 0) { } else if ((doc.nodeSize() > 0) > 0) {   
+) > 0) { } else if (doc.childNodeSize() + 2) > 0) {   
+) > 0) { } else if ((doc.childCount() + 1) > 0) {   
+) > 0) { } } else if ((doc.childSize() > 0) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() & 1) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() + 1) > 0) {   
+) > 0) { } else if (doc.childNodeSize() > 1) > 0) {   
+) > 0) { } else if ((doc.childNodes().size() % 2) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() + 1) > 0) {   
+) > 0) { } if ((data != null) > 0) {   
+) > 0) { } if ((doc != null) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() > 1) > 0) {   
+) > 0) { } else if (!(doc instanceof Document) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() == 1) > 0) {   
+) > 0) { } } else if ((doc) > 0) {   
+) > 0) { } else (0) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() < 0) > 0) {   
+) > 0) { } } }) > 0) {   
+) > 0) { }function (data) > 0) {   
+) > 0) { } else if ((doc.childNodeSize() + 1) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() -1) > 0) {   
+) > 0) { } } else if ((doc.childNodeSize() > 1) > 0) {   
+) > 0) { }function(data) > 0) {   
+) > 0) { } } else if (doc.childNodeSize() < 2) > 0) {   
+if (doc.childNodeSize() > 0) {   
+if ( doc.childNodeSize() > 0) {   
+if (document.childNodeSize() > 0) {   
+if (doc != null && doc.childNodeSize() > 0) {   
+if (elem.childNodeSize() > 0) {   
+if (dom.childNodeSize() > 0) {   
+if (data.childNodeSize() > 0) {   
+if (data != null && doc.childNodeSize() > 0) {   
+if (Doc.childNodeSize() > 0) {   
+if (doc && doc.childNodeSize() > 0) {   
+if (node.childNodeSize() > 0) {   
+if (xml.childNodeSize() > 0) {   
+if (d.childNodeSize() > 0) {   
+if (el.childNodeSize() > 0) {   
+if (this.childNodeSize() > 0) {   
+if (xmlDoc.childNodeSize() > 0) {   
+if (null != doc && doc.childNodeSize() > 0) {   
+if (doc == null || doc.childNodeSize() > 0) {   
+if (null != doc.childNodeSize() > 0) {   
+if (xmlParser.childNodeSize() > 0) {   
+if (dc.childNodeSize() > 0) {   
+if (env.childNodeSize() > 0) {   
+if (parent.childNodeSize() > 0) {   
+if (dir.childNodeSize() > 0) {   
+if (obj.childNodeSize() > 0) {   
+if (element.childNodeSize() > 0) {   
+if (root.childNodeSize() > 0) {   
+if (0 < doc.childNodeSize() > 0) {   
+if (data<mask1>doc.childNodeSize() > 0) {   
+if (DocUtils.childNodeSize() > 0) {   
+if (db<mask1>doc.childNodeSize() > 0) {   
+if (body.childNodeSize() > 0) {   
+if (doc<mask1>doc.childNodeSize() > 0) {   
+if (DOC.childNodeSize() > 0) {   
+if (dbNode.childNodeSize() > 0) {   
+if (data != null && data.childNodeSize() > 0) {   
+if (Document.childNodeSize() > 0) {   
+if (config.childNodeSize() > 0) {   
+if (doc && doc.childNodeSize() > 0) {   
+if (schema.childNodeSize() > 0) {   
+if (xmlNode.childNodeSize() > 0) {   
+if (getDoc.childNodeSize() > 0) {   
+if (resp.childNodeSize() > 0) {   
+if (xml<mask1>doc.childNodeSize() > 0) {   
+if (xmldoc.childNodeSize() > 0) {   
+if ( doc.childNodeSize() > 0) {   
+if (spec.childNodeSize() > 0) {   
+if (d<mask1>doc.childNodeSize() > 0) {   
+if (m.childNodeSize() > 0) {   
+if (cur.childNodeSize() > 0) {   
+if (xmlDocument.childNodeSize() > 0) {   
+if (!doc.childNodeSize() > 0) {   
+if (src.childNodeSize() > 0) {   
+if (docs.childNodeSize() > 0) {   
+if (jsoup.childNodeSize() > 0) {   
+if (data && doc.childNodeSize() > 0) {   
+if (tree.childNodeSize() > 0) {   
+if (stmt.childNodeSize() > 0) {   
+if (elt.childNodeSize() > 0) {   
+if (req.childNodeSize() > 0) {   
+if (dom<mask1>doc.childNodeSize() > 0) {   
+if (result.childNodeSize() > 0) {   
+if (doc .childNodeSize() > 0) {   
+if (xpath.childNodeSize() > 0) {   
+if (def.childNodeSize() > 0) {   
+if (jsoup.childNodeSize() > 0) {   
+if (loc.childNodeSize() > 0) {   
+if (typeof doc.childNodeSize() > 0) {   
+if (res.childNodeSize() > 0) {   
+if (x.childNodeSize() > 0) {   
+if (window<mask1>doc.childNodeSize() > 0) {   
+if (xmlElement.childNodeSize() > 0) {   
+if (curNode.childNodeSize() > 0) {   
+if (cmd.childNodeSize() > 0) {   
+if (db.childNodeSize() > 0) {   
+if (window.childNodeSize() > 0) {   
+if (elements.childNodeSize() > 0) {   
+if (self.childNodeSize() > 0) {   
+if (cfg.childNodeSize() > 0) {   
+if (page.childNodeSize() > 0) {   
+if (utils.childNodeSize() > 0) {   
+if (ctx.childNodeSize() > 0) {   
+if (win.childNodeSize() > 0) {   
+if (domDocument.childNodeSize() > 0) {   
+if (doc !== null && doc.childNodeSize() > 0) {   
+if (id.childNodeSize() > 0) {   
+if (app.childNodeSize() > 0) {   
+if (elem<mask1>doc.childNodeSize() > 0) {   
+if (null == doc.childNodeSize() > 0) {   
+if (doc!=null && doc.childNodeSize() > 0) {   
+if (doc) doc.childNodeSize() > 0) {   
+if (parser.childNodeSize() > 0) {   
+if (e.childNodeSize() > 0) {   
+if (msg.childNodeSize() > 0) {   
+if (path.childNodeSize() > 0) {   
+if (xmlDom.childNodeSize() > 0) {   
+if (p.childNodeSize() > 0) {   
+if (true && doc.childNodeSize() > 0) {   
+if (pkg.childNodeSize() > 0) {   
+if (doc > 0 && doc.childNodeSize() > 0) {   
+if (dest.childNodeSize() > 0) {   
+if (desc.childNodeSize() > 0) {   
+if (doc.childNodes.childNodeSize() > 0) {   
+if ( document.childNodeSize() > 0) {   
+if (df.childNodeSize() > 0) {   
+if (html.childNodeSize() > 0) {   
+if (xmlReader.childNodeSize() > 0) {   
+if (doc and doc.childNodeSize() > 0) {   
+if (domElement.childNodeSize() > 0) {   
+if (cache.childNodeSize() > 0) {   
+if (uri.childNodeSize() > 0) {   
+if (node<mask1>doc.childNodeSize() > 0) {   
+if (parent != null && doc.childNodeSize() > 0) {   
+if (options.childNodeSize() > 0) {   
+if (org.childNodeSize() > 0) {   
+if (div.childNodeSize() > 0) {   
+if (proto.childNodeSize() > 0) {   
+if (curdoc.childNodeSize() > 0) {   
+if (stack.childNodeSize() > 0) {   
+if (id != null && doc.childNodeSize() > 0) {   
+if (DocBook.childNodeSize() > 0) {   
+if (url.childNodeSize() > 0) {   
+if (domNode.childNodeSize() > 0) {   
+if (0 <= doc.childNodeSize() > 0) {   
+if (out.childNodeSize() > 0) {   
+if (buf.childNodeSize() > 0) {   
+if (doc instanceof Document && doc.childNodeSize() > 0) {   
+if (xml != null && doc.childNodeSize() > 0) {   
+if (file.childNodeSize() > 0) {   
+if (pc.childNodeSize() > 0) {   
+if (xmlBuilder.childNodeSize() > 0) {   
+if (i.childNodeSize() > 0) {   
+if (tag.childNodeSize() > 0) {   
+if (count.childNodeSize() > 0) {   
+if (DocUtil.childNodeSize() > 0) {   
+if (dp.childNodeSize() > 0) {   
+if (body != null && body.childNodeSize() > 0) {   
+if (doc instanceof Element && doc.childNodeSize() > 0) {   
+if (content.childNodeSize() > 0) {   
+if (payload.childNodeSize() > 0) {   
+if (prop.childNodeSize() > 0) {   
+if (curren.childNodeSize() > 0) {   
+if (0 == doc.childNodeSize() > 0) {   
+if (xmlHelper.childNodeSize() > 0) {   
+if (doParse && doc.childNodeSize() > 0) {   
+if ( !doc.childNodeSize() > 0) {   
+if (0 != doc.childNodeSize() > 0) {   
+if (pdf.childNodeSize() > 0) {   
+if (args.childNodeSize() > 0) {   
+if (data == null || doc.childNodeSize() > 0) {   
+if (domDoc.childNodeSize() > 0) {   
+if (Doclet.childNodeSize() > 0) {   
+if (buffer.childNodeSize() > 0) {   
+if (cdata.childNodeSize() > 0) {   
+if (  doc.childNodeSize() > 0) {   
+if (domain.childNodeSize() > 0) {   
+if (xmlDecl.childNodeSize() > 0) {   
+if (tmpl.childNodeSize() > 0) {   
+if (arr.childNodeSize() > 0) {   
+if (evt.childNodeSize() > 0) {   
+if (doc == null && doc.childNodeSize() > 0) {   
+if (dd.childNodeSize() > 0) {   
+if (xmlSource.childNodeSize() > 0) {   
+if (decider.childNodeSize() > 0) {   
+if (parent != null && parent.childNodeSize() > 0) {   
+if (cls.childNodeSize() > 0) {   
+if (nodes.childNodeSize() > 0) {   
+if (xmlFile.childNodeSize() > 0) {   
+if (query.childNodeSize() > 0) {   
+if (context.childNodeSize() > 0) {   
+if (seq.childNodeSize() > 0) {   
+if (rootElement.childNodeSize() > 0) {   
+if (xmlUtil.childNodeSize() > 0) {   
+if (document != null && document.childNodeSize() > 0) {   
+if (xmlDelegate.childNodeSize() > 0) {   
+if (img.childNodeSize() > 0) {   
+if (conf.childNodeSize() > 0) {   
+if (val.childNodeSize() > 0) {   
+if (jQuery.childNodeSize() > 0) {   
+if (depth > 0 && doc.childNodeSize() > 0) {   
+if (doc & doc.childNodeSize() > 0) {   
+if (doc .childNodeSize() > 0) {   
+if (q.childNodeSize() > 0) {   
+if (data<mask3> }.childNodeSize() > 0) {   
+if (meta.childNodeSize() > 0) {   
+if (img<mask1>doc.childNodeSize() > 0) {   
+if (DocBuilder.childNodeSize() > 0) {   
+if (date.childNodeSize() > 0) {   
+if (env<mask1>doc.childNodeSize() > 0) {   
+if (xmlTag.childNodeSize() > 0) {   
+if (pd.childNodeSize() > 0) {   
+if (drillDown.childNodeSize() > 0) {   
+if (hasChildren() && doc.childNodeSize() > 0) {   
+if ( elem.childNodeSize() > 0) {   
+if (mime.childNodeSize() > 0) {   
+if (DOM.childNodeSize() > 0) {   
+if (tc.childNodeSize() > 0) {   
+if (elem != null && doc.childNodeSize() > 0) {   
+if (md.childNodeSize() > 0) {   
+if (json.childNodeSize() > 0) {   
+if (suite.childNodeSize() > 0) {   
+if (dc<mask1>doc.childNodeSize() > 0) {   
+if (doc <mask1>doc.childNodeSize() > 0) {   
+if (pm.childNodeSize() > 0) {   
+if (queue.childNodeSize() > 0) {   
+if (xmlparser.childNodeSize() > 0) {   
+if (false && doc.childNodeSize() > 0) {   
+if (ownerDocument.childNodeSize() > 0) {   
+if (ref.childNodeSize() > 0) {   
+if (src != null && doc.childNodeSize() > 0) {   
+if (el<mask1>doc.childNodeSize() > 0) {   
+if (doc.documentElement.childNodeSize() > 0) {   
+if (api.childNodeSize() > 0) {   
+if (lib.childNodeSize() > 0) {   
+if (d.doc.childNodeSize() > 0) {   
+if (xmlConfig.childNodeSize() > 0) {   
+if (xmlNode<mask1>doc.childNodeSize() > 0) {   
+if (xmlUnit.childNodeSize() > 0) {   
+if (doc != null and doc.childNodeSize() > 0) {   
+if (dbi<mask1>doc.childNodeSize() > 0) {   
+if (.childNodeSize() > 0) {   
+if (curie.childNodeSize() > 0) {   
+if (document != null && doc.childNodeSize() > 0) {   
+if (appended.childNodeSize() > 0) {   
+if (xmldom.childNodeSize() > 0) {   
+if (decl == null && doc.childNodeSize() > 0) {   
+if (xmlXml.childNodeSize() > 0) {   
+if (elem != null && elem.childNodeSize() > 0) {   
+if (dba<mask1>doc.childNodeSize() > 0) {   
+if (dir != null && doc.childNodeSize() > 0) {   
+if (xmlTemplate.childNodeSize() > 0) {   
+if (el != null && doc.childNodeSize() > 0) {   
+if (node != null && doc.childNodeSize() > 0) {   
+if (dbx<mask1>doc.childNodeSize() > 0) {   
+if (doStartTag() && doc.childNodeSize() > 0) {   
+if (this.doc.childNodeSize() > 0) {   
+if (id != null && id.childNodeSize() > 0) {   
+if (m_doc.childNodeSize() > 0) {   
+if (xmlParser() && doc.childNodeSize() > 0) {   
+if (doc is null || doc.childNodeSize() > 0) {   
+if (doc.docElement.childNodeSize() > 0) {   
+if (hasChild() && doc.childNodeSize() > 0) {   
+if (xmlSchema.childNodeSize() > 0) {   
+if (xmlData.childNodeSize() > 0) {   
+if (currentelement.childNodeSize() > 0) {   
+if (doValidate && doc.childNodeSize() > 0) {   
+if (DocUnit.childNodeSize() > 0) {   
+if (dbi.childNodeSize() > 0) {   
+if (doc != null) doc.childNodeSize() > 0) {   
+if (d<mask1>d.childNodeSize() > 0) {   
+if (doc.childNodeSize() >  0) {   
+if (doc.childNodeSize() >  0<mask1> 0) {   
+if (doc.childNodeSize() >  1) {   
+if (doc.childNodeSize() >  0 && data != null) {   
+if (doc.childNodeSize() > 0) {   
+if (doc.childNodeSize() >  0<mask3> 0; }) {   
+if (doc.childNodeSize() >  0<mask3> 0; }) {   
+if (doc.childNodeSize() >  1<mask1> 0) {   
+if (doc.childNodeSize() >  0<mask1> 1) {   
+if (doc.childNodeSize() >  0<mask5> }) {   
+if (doc.childNodeSize() >  0<mask3> 0; } }) {   
+if (doc.childNodeSize() >  0<mask3> 0 }) {   
+if (doc.childNodeSize() >  0<mask2> 0) {   
+if (doc.childNodeSize() >  0<mask14> 0) {   
+if (doc.childNodeSize() >  -1) {   
+if (doc.childNodeSize() >  0 ) {   
+if (doc.childNodeSize() >  0<mask3> 0); }) {   
+if (doc.childNodeSize() >  0 || data != null) {   
+if (doc.childNodeSize() >  0<mask3> 0}) {   
+if (doc.childNodeSize() >  0<mask3> 0 };) {   
+if (doc.childNodeSize() >  2) {   
+if (doc.childNodeSize() >  0<mask3> 0;} }) {   
+if (doc.childNodeSize() >  0<mask3> 0};) {   
+if (doc.childNodeSize() >  0 <mask1> 0) {   
+if (doc.childNodeSize() >  0<mask3> 0); } }) {   
+if (doc.childNodeSize() >  0<mask3> 1; }) {   
+if (doc.childNodeSize() >  0<mask3> 0;}) {   
+if (doc.childNodeSize() >  0<mask3> 0); }) {   
+if (doc.childNodeSize() >  0<mask5> } }) {   
+if (doc.childNodeSize() >  0<mask3> 0;  }) {   
+if (doc.childNodeSize() >  0<mask5> }) {   
+if (doc.childNodeSize() >  0<mask5>}) {   
+if (doc.childNodeSize() >  0;) {   
+if (doc.childNodeSize() >  zero) {   
+if (doc.childNodeSize() >  0<mask3> 0; } ) {   
+if (doc.childNodeSize() >  0<mask3> 0);}) {   
+if (doc.childNodeSize() >  0<mask3> 1; } }) {   
+if (doc.childNodeSize() >  0 && el != null) {   
+if (doc.childNodeSize() >  0<mask3> 0; } ) {   
+if (doc.childNodeSize() >  0<mask3> 0 } }) {   
+if (doc.childNodeSize() >  0<mask3> 0;}) {   
+if (doc.childNodeSize() >  0<mask3>  }) {   
+if (doc.childNodeSize() >  0<mask3> 1; }) {   
+if (doc.childNodeSize() >  0<mask3>  }) {   
+if (doc.childNodeSize() >  0<mask1> 0<mask2> 0) {   
+if (doc.childNodeSize() >  0<mask3> 0 ; }) {   
+if (doc.childNodeSize() >  0<mask3> 0);  }) {   
+if (doc.childNodeSize() >  0<mask3> 0 ;} }) {   
+if (doc.childNodeSize() >  0<mask3> 0 ;) {   
+if (doc.childNodeSize() >  0<mask3> 0, null);) {   
+if (doc.childNodeSize() >  0 && doc != null) {   
+if (doc.childNodeSize() >  0<mask3> 0;} }) {   
+if (doc.childNodeSize() >  0<mask3> 0} }) {   
+if (doc.childNodeSize() >  0<mask3> 0.) {   
+if (doc.childNodeSize() >  0<mask3> 0 },) {   
+if (doc.childNodeSize() >  0<mask3> 0; } else) {   
+if (doc.childNodeSize() >  1<mask5> }) {   
+if (doc.childNodeSize() >  0<mask3> 0, ""); }) {   
+if (doc.childNodeSize() >  0<mask3> 0);} }) {   
+if (doc.childNodeSize() >  0<mask3> 0 ; } }) {   
+if (doc.childNodeSize() >  0 || data == null) {   
+if (doc.childNodeSize() >  0<mask3> 0;} ) {   
+if (doc.childNodeSize() >  0<mask3>0; }) {   
+if (doc.childNodeSize() >  0<mask3> 0; }}) {   
+if (doc.childNodeSize() >  0<mask5>  }) {   
+if (doc.childNodeSize() >  0<mask5>    }) {   
+if (doc.childNodeSize() >  1<mask3> 0; }) {   
+if (doc.childNodeSize() >  3) {   
+if (doc.childNodeSize() >   0) {   
+if (doc.childNodeSize() >  1<mask3> 0 }) {   
+if (doc.childNodeSize() >  0<mask3> 0) {   
+if (doc.childNodeSize() >  0 and data != null) {   
+if (doc.childNodeSize() >  0<mask3> 0 ); }) {   
+if (doc.childNodeSize() >  0<mask3> 0); } ) {   
+if (doc.childNodeSize() >  0<mask3> 0);}) {   
+if (doc.childNodeSize() >  0<mask3> }) {   
+if (doc.childNodeSize() >  0 && document != null) {   
+if (doc.childNodeSize() >  0<mask5>} }) {   
+if (doc.childNodeSize() > 0<mask1> 0) {   
+if (doc.childNodeSize() >  0<mask3>   }) {   
+if (doc.childNodeSize() >  0 ? doc : null) {   
+if (doc.childNodeSize() >  0<mask3> 0 ); } }) {   
+if (doc.childNodeSize() >  0 && data!=null) {   
+if (doc.childNodeSize() >  0<mask5> } }) {   
+if (doc.childNodeSize() >  0<mask3> 1;  }) {   
+if (doc.childNodeSize() >  0  ) {   
+if (doc.childNodeSize() >  0<mask3> 0 }) {   
+if (doc.childNodeSize() >  0<mask3> 0} }) {   
+if (doc.childNodeSize() >  1 && data != null) {   
+if (doc.childNodeSize() >  0<mask3> 0 } }) {   
+if (doc.childNodeSize() >  0<mask3> 1}) {   
+if (doc.childNodeSize() >  0<mask1>0) {   
+if (doc.childNodeSize() >  0<mask3> 0; } };) {   
+if (doc.childNodeSize() >  0.0) {   
+if (doc.childNodeSize() >  0 <mask1> 0 ) {   
+if (doc.childNodeSize() >  0<mask3> 0;   }) {   
+if (doc.childNodeSize() >  0<mask3> 0;} ) {   
+if (doc.childNodeSize() >  0<mask3> 1};) {   
+if (doc.childNodeSize() >  0<mask3> 0 }; }) {   
+if (doc.childNodeSize() >  1<mask3> 0; } }) {   
+if (doc.childNodeSize() >  0<mask3> }) {   
+if (doc.childNodeSize() >  0<mask3> 1;} }) {   
+if (doc.childNodeSize() >  0<mask3> 0, "");}) {   
+if (doc.childNodeSize() >  4) {   
+if (doc.childNodeSize() >  0<mask3> 0 } else {) {   
+if (doc.childNodeSize() >  1<mask1> 1) {   
+if (doc.childNodeSize() >  0AST#binary_expression#Right) {   
+if (doc.childNodeSize() >  0 && data != "") {   
+if (doc.childNodeSize() >  null) {   
+if (doc.childNodeSize() >  0<mask1> -1) {   
+if (doc.childNodeSize() >  0<mask3> 0}; }) {   
+if (doc.childNodeSize() >  0<mask5> ) {   
+if (doc.childNodeSize() >  1<mask3> 0; }) {   
+if (doc.childNodeSize() > 1) {   
+if (doc.childNodeSize() >  0<mask3> 1; } ) {   
+if (doc.childNodeSize() >  8) {   
+if (doc.childNodeSize() >  0<mask3> 0} else {) {   
+if (doc.childNodeSize() >  0<mask3> 0); } ) {   
+if (doc.childNodeSize() >  0 && getData() != null) {   
+if (doc.childNodeSize() >  0 && element != null) {   
+if (doc.childNodeSize() >  0 <mask1> 0) {   
+if (doc.childNodeSize() >  0<mask3> 0; //}) {   
+if (doc.childNodeSize() >  1<mask3> 0}) {   
+if (doc.childNodeSize() >  0<mask3>0; }) {   
+if (doc.childNodeSize() >  0<mask3> 0;}}) {   
+if (doc.childNodeSize() >  0<mask5>  }) {   
+if (doc.childNodeSize() >  0<mask3> } }) {   
+if (doc.childNodeSize() >  0<mask3> 0},) {   
+if (doc.childNodeSize() >  0 && decl == null) {   
+if (doc.childNodeSize() >  10) {   
+if (doc.childNodeSize() >  0<mask3> 0 --) {   
+if (doc.childNodeSize() >  0<mask3>    }) {   
+if (doc.childNodeSize() >  0>) {   
+if (doc.childNodeSize() >  0<mask3>  }) {   
+if (doc.childNodeSize() >  0 then) {   
+if (doc.childNodeSize() >  0<mask3> 0;) {   
+if (doc.childNodeSize() >  0<mask12> ) {   
+if (doc.childNodeSize() >  0<mask5> } else {) {   
+if (doc.childNodeSize() >  0) {}) {   
+if (doc.childNodeSize() >  0<mask3> 0;} else) {   
+if (doc.childNodeSize() >  0<mask3> 1;}) {   
+if (doc.childNodeSize() >  0 || el != null) {   
+if (doc.childNodeSize() >  0<mask5> } }) {   
+if (doc.childNodeSize() >  0<mask3> 0;    }) {   
+if (doc.childNodeSize() >  0 && data<mask1> 0) {   
+if (doc.childNodeSize() >  0<mask3> 0 ;} ) {   
+if (doc.childNodeSize() >  0 > data) {   
+if (doc.childNodeSize() >  0<mask2> 1) {   
+if (doc.childNodeSize() >  0<mask3> 0;} }) {   
+if (doc.childNodeSize() >  0<mask3> 0  } }) {   
+if (doc.childNodeSize() >  0 && xml != null) {   
+if (doc.childNodeSize() >  0 ? true : false) {   
+if (doc.childNodeSize() >  0 ) {   
+if (doc.childNodeSize() >  0 && content != null) {   
+if (doc.childNodeSize() >  0 && data == null) {   
+if (doc.childNodeSize() >  0<mask3> 1; } ) {   
+if (doc.childNodeSize() >  0<mask5>   }) {   
+if (doc.childNodeSize() >  0<mask3> 0, data);) {   
+if (doc.childNodeSize() >  1<mask3> 0 };) {   
+if (doc.childNodeSize() >  0<mask3> 0, false);) {   
+if (doc.childNodeSize() >  0<mask5> return null; }) {   
+if (doc.childNodeSize() >  len) {   
+if (doc.childNodeSize() >  7) {   
+if (doc.childNodeSize() >  0<mask3> 0, data);}) {   
+if (doc.childNodeSize() >  0<mask5>	}) {   
+if (doc.childNodeSize() >  0<mask3> 1 }) {   
+if (doc.childNodeSize() >  0<mask3> 0;  ) {   
+if (doc.childNodeSize() >  0L) {   
+if (doc.childNodeSize() >  0<mask3> 0  }; }) {   
+if (doc.childNodeSize() >  0<mask3>0; } }) {   
+if (doc.childNodeSize() >  0<mask3> 0}.) {   
+if (doc.childNodeSize() >  0 && el == null) {   
+if (doc.childNodeSize() >  0<mask3> 0}};) {   
+if (doc.childNodeSize() >  0<mask3> 0, true);) {   
+if (doc.childNodeSize() >  0<mask3> 0  }) {   
+if (doc.childNodeSize() >  0<mask3>  } }) {   
+if (doc.childNodeSize() >  0<mask3> 0 ; }) {   
+if (doc.childNodeSize() >  0 > 0) {   
+if (doc.childNodeSize() >  0<mask3> 0  };) {   
+if (doc.childNodeSize() >  0<mask3> 0); } else) {   
+if (doc.childNodeSize() >  0 then<mask1> 0) {   
+if (doc.childNodeSize() >  0<mask5> }}) {   
+if (doc.childNodeSize() >  0<mask5> }) {   
+if (doc.childNodeSize() >  0<mask5> //}) {   
+if (doc.childNodeSize() >  0<mask3> 0)}) {   
+if (doc.childNodeSize() >  0.5) {   
+if (doc.childNodeSize() >  0<mask3> 0 );  }) {   
+if (doc.childNodeSize() >  0.1) {   
+if (doc.childNodeSize() >  0<mask3> 0; };) {   
+if (doc.childNodeSize() >  0 || el == null) {   
+if (doc.childNodeSize() >  data.length() - 1) {   
+if (doc.childNodeSize() >  0<mask3> 0 );} }) {   
+if (doc.childNodeSize() >  0 && elem != null) {   
+if (doc.childNodeSize() >  0<mask3> 0);} ) {   
+if (doc.childNodeSize() >  0<mask3> 0 }); }) {   
+if (doc.childNodeSize() >  0 != data) {   
+if (doc.childNodeSize() >  0)  }) {   
+if (doc.childNodeSize() >  0<mask3> 0);  ) {   
+if (doc.childNodeSize() >  9) {   
+if (doc.childNodeSize() >  0<mask3> 0; }}) {   
+if (doc.childNodeSize() >  5) {   
+if (doc.childNodeSize() >  1<mask3> 1; }) {   
+if (doc.childNodeSize() >  "") {   
+if (doc.childNodeSize() >  0<mask5>) {   
+if (doc.childNodeSize() >  0<mask3> 0, 0);) {   
+if (doc.childNodeSize() >  1<mask5>}) {   
+if (doc.childNodeSize() >  0:) {   
+if (doc.childNodeSize() >  0 0) {   
+if (doc.childNodeSize() >  0<mask5> },) {   
+if (doc.childNodeSize() >  0<mask3> 0);} ) {   
+if (doc.childNodeSize() >  0<mask3> 0  ); }) {   
+if (doc.childNodeSize() >  size) {   
+if (doc.childNodeSize() >  0/*) {   
+if (doc.childNodeSize() >  n) {   
+if (doc.childNodeSize() >  1 ) {   
+if (doc.childNodeSize() >  count) {   
+if (doc.childNodeSize() >  0,) {   
+if (doc.childNodeSize() >  0[]) {   
+if (doc.childNodeSize() >  depth) {   
+if (doc.childNodeSize() >  one) {   
+if (doc.childNodeSize() >  offset) {   
+if (doc.childNodeSize() >  6) {   
+if (doc.childNodeSize() >  0d) {   
+if (doc.childNodeSize() >  0 --) {   
+if (doc.childNodeSize() >  '') {   
+if (doc.childNodeSize() >  0!) {   
+if (doc.childNodeSize() >  i) {   
+if (doc.childNodeSize() >  0xffff) {   
+if (doc.childNodeSize() >  0);) {   
+if (doc.childNodeSize() >  childCount) {   
+if (doc.childNodeSize() >  0l) {   
+if (doc.childNodeSize() >  first) {   
+if (doc.childNodeSize() >  0xFFFF) {   
+if (doc.childNodeSize() >  20) {   
+if (doc.childNodeSize() >  lenght) {   
+if (doc.childNodeSize() >  100) {   
+if (doc.childNodeSize() >  1000) {   
+if (doc.childNodeSize() > ) {   
+if (doc.childNodeSize() >  ZERO) {   
+if (doc.childNodeSize() >  11) {   
+if (doc.childNodeSize() >  empty) {   
+if (doc.childNodeSize() >  false) {   
+if (doc.childNodeSize() >  length) {   
+if (doc.childNodeSize() >  25) {   
+if (doc.childNodeSize() >  15) {   
+if (doc.childNodeSize() >  any) {   
+if (doc.childNodeSize() >  children) {   
+if (doc.childNodeSize() >  16) {   
+if (doc.childNodeSize() >  200) {   
+if (doc.childNodeSize() >  start) {   
+if(doc==null){return  null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> null;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;  };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return data;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> decl; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null<mask2> null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else{return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return ; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  XmlDeclaration.NULL;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else{return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl; } else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask3>; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else{return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else{ return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return dom;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return true;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration();;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else{ return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }  return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask5> };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration(); };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null; } else {;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else{return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask3>;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask2> null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask5>};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>};;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return this;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask2> null;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> null;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask2> null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return ;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration();};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask3>};;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask5> };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; //};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }  return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return data;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return data;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> decl; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return true;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { ...;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;   };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> decl;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null ;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null} return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null} else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  false;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl; } else {return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;  } return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;<mask2> null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> null;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration();} else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>;} };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }else{return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1>;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl; } else { return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;} else {;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;  };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask5>};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  this;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null};;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration();} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}else{return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null} else {return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else{ return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1>; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return };;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask3>};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return dom;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask2> decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null<mask1> null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }else{ return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl; } else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl<mask1> decl; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return false;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  XmlDeclaration;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else{ return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null} return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>; } };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;  } else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  NULL;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return document;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {return true;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }  return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {return data;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }else{ return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return el;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null<mask1> null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {...;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  XmlDeclaration.EMPTY;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null<mask2> decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return def;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } //return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null} else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask2> null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return xml;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl;} else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null; } else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }else{return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}else{return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;  } ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration();} return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null;} else {;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl;} else {return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } //else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null}else{return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } // else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  xml;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;  } return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask14>};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl; } return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return true;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return xmlDeclaration;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask3>;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null}else{return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else{return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return elem;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null} else { decl = doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl;  };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl; } else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return dom;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null; } else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } //return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;};;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else { return this;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } return dom;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return ; } else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask1> decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null} else {return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl<mask1> decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}  return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> new XmlDeclaration();};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask3>;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}else;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else {...;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }else { return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }  return data;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1>null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  decl<mask1> null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration<mask1> null; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  false; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} return decl;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return ; } return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  XmlDeclaration{};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}  return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  def;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;<mask3>; };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  new XmlDeclaration(data); };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return ; } else { return null;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return null;} else { return doc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return this;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null<mask1> null; } ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else { return xmlDoc;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  xmlDeclaration;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  dec;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; }  };} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;} else ;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null;}return decl;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else {return false;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  null; } else{ return data;} if (doc.childNodeSize() > 0) {   
+if(doc==null){return ;};} if (doc.childNodeSize() > 0) {   
+if(doc==null){return  false;;} if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=this; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=defaultDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=parser; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.create(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= Jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document();} return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document() } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); } return doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); } else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null; } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=xml; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null;}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docFactory; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.ownerDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docBuilder; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.create; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=dom; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.body; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document() {}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=newDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=document<mask1>document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=BaseDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=defaultDoc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){ }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=node; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){}}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=window; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docElement; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document();} return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=createDocument(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DomUtils; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.createDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=xmlDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseDoc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.parse(""); } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document() } return doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null;} return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.create() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=BaseDoc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=factory; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=defaultXml; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=createDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){ } }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.newDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=BaseUri; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=body; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=parent; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.body; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.documentElement; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docDefault; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); return null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=root; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getDocument(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.body; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DefaultDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Base; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseUri(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri() } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.parent(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.create(); return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null; return null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.document() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){ } return doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.document(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document();}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DOMDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=openDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=BaseXml; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null; }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.create(); } else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=newDocument(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new XmlDeclaration; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=NodeUtils; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.document(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=emptyDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.newInstance(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=System.out; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document() {} return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.parse(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DomUtil; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=NULL; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=document; }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new DocumentImpl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){ }; }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=dummyDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){ }};; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document() {}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); } return null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DocumentImpl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.create(); } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DocUtils; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup<mask1>Jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document() } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docHead; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=documentBuilder; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){ } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Dom; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.createDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=ownerDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new DefaultDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){ }; return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=createDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=elem; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= parser; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=document; } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document() return null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document<mask1>null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=document.body; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new XmlDeclaration(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(); return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.parse; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=builder; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= this; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null} return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=BASE; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docNew; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document();} return doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=domDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.create(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=createXmlDocument(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docOwner; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=rootNode; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=newDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.newDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(){ }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docRoot; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= baseUri; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.xml(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); }return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docSystem; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=env; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docCreator; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=XmlUtils; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null; } else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=this.doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docMgr; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(); } else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= docBuilder; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri(); } else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.blank(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=window.document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseUri() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document();}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.getRootElement(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DummyDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseUri; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); } }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseUri(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(){ } }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docNode; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=parentDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.doc(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document<mask1>document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.parentDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(); } return doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.getDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.parent() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=createDocument(); return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.ROOT; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= xmlDoc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document();} return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=createXmlDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseXml; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=html; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseDocument() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=this.document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document(); } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docXml; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=xmlDoc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.parentDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseDocument(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DEFAULT_DOCUMENT; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.newDocument() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri(); return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document();  }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Nop; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=ElementUtils; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=fallback; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.parse() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document<mask3>; }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document<mask1>Jsoup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.parse(); } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); decl=null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docfactory; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DocumentUtils; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.getDefaultInstance(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= new Document; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); return doc; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.create(); return null; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.firstChild; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=EmptyDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=docHtml; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=undefined; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=rootDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=null; } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(); } //else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=data; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.getRootElement() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=document<mask1>document; }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.getDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new XmlDocument(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=baseUri() } else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document() } else; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.doc(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new XmlDocument(); } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DOC; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseDocument() } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc= null } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Jsoup.parse(""); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=DEFAULT; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){}; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=soup; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=doc.getDocumentElement(); }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=rootElement; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=new Document(){}};; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.emptyDocument() }; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Document.emptyDocument; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=Parser; } if (doc.childNodeSize() > 0) {   
+if(doc==null){ doc=getBaseUri() } return decl; } if (doc.childNodeSize() > 0) {   
+if(doc != null){ if (doc.childNodeSize() > 0) { }  
+if(doc!=null){ if (doc.childNodeSize() > 0) { }  
+if(data != null){ if (doc.childNodeSize() > 0) { }  
+if(data!=null){ if (doc.childNodeSize() > 0) { }  
+if( doc != null){ if (doc.childNodeSize() > 0) { }  
+if(null != doc){ if (doc.childNodeSize() > 0) { }  
+if(doc!= null){ if (doc.childNodeSize() > 0) { }  
+if(null!=doc){ if (doc.childNodeSize() > 0) { }  
+if(doc){ if (doc.childNodeSize() > 0) { }  
+if(document != null){ if (doc.childNodeSize() > 0) { }  
+if(true){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasChildNodes()){ if (doc.childNodeSize() > 0) { }  
+if( doc!=null){ if (doc.childNodeSize() > 0) { }  
+if(doc instanceof Document){ if (doc.childNodeSize() > 0) { }  
+if(document!=null){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("!")){ if (doc.childNodeSize() > 0) { }  
+if( data != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.firstChild() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc instanceof Element){ if (doc.childNodeSize() > 0) { }  
+if( doc){ if (doc.childNodeSize() > 0) { }  
+if(false){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("!"))){ if (doc.childNodeSize() > 0) { }  
+if(DEBUG){ if (doc.childNodeSize() > 0) { }  
+if(doc !=null){ if (doc.childNodeSize() > 0) { }  
+if(data){ if (doc.childNodeSize() > 0) { }  
+if(debug){ if (doc.childNodeSize() > 0) { }  
+if( document != null){ if (doc.childNodeSize() > 0) { }  
+if(null!= doc){ if (doc.childNodeSize() > 0) { }  
+if( doc!= null){ if (doc.childNodeSize() > 0) { }  
+if( null != doc){ if (doc.childNodeSize() > 0) { }  
+if( doc.hasChildNodes()){ if (doc.childNodeSize() > 0) { }  
+if(xml){ if (doc.childNodeSize() > 0) { }  
+if(xmlParser != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.exists()){ if (doc.childNodeSize() > 0) { }  
+if(data.length() > 0){ if (doc.childNodeSize() > 0) { }  
+if( doc.firstChild() != null){ if (doc.childNodeSize() > 0) { }  
+if(dom){ if (doc.childNodeSize() > 0) { }  
+if(null == doc){ if (doc.childNodeSize() > 0) { }  
+if(data == null){ if (doc.childNodeSize() > 0) { }  
+if(doc == null){ if (doc.childNodeSize() > 0) { }  
+if(data==null){ if (doc.childNodeSize() > 0) { }  
+if(data!= null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isElement()){ if (doc.childNodeSize() > 0) { }  
+if(xml != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.documentElement() != null){ if (doc.childNodeSize() > 0) { }  
+if(dom != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.childNode() > 0){ if (doc.childNodeSize() > 0) { }  
+if(doc.length() > 0){ if (doc.childNodeSize() > 0) { }  
+if( doc instanceof Document){ if (doc.childNodeSize() > 0) { }  
+if(doc.size() > 0){ if (doc.childNodeSize() > 0) { }  
+if(xmlParser!=null){ if (doc.childNodeSize() > 0) { }  
+if(doc instanceof Jsoup){ if (doc.childNodeSize() > 0) { }  
+if(exists){ if (doc.childNodeSize() > 0) { }  
+if(data !=null){ if (doc.childNodeSize() > 0) { }  
+if( doc !=null){ if (doc.childNodeSize() > 0) { }  
+if(null != data){ if (doc.childNodeSize() > 0) { }  
+if( data!=null){ if (doc.childNodeSize() > 0) { }  
+if(document!= null){ if (doc.childNodeSize() > 0) { }  
+if(doc.firstChild() instanceof Element){ if (doc.childNodeSize() > 0) { }  
+if(el != null){ if (doc.childNodeSize() > 0) { }  
+if(parser != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasChild()){ if (doc.childNodeSize() > 0) { }  
+if(data.length()>0){ if (doc.childNodeSize() > 0) { }  
+if(dom!=null){ if (doc.childNodeSize() > 0) { }  
+if(doc==null){ if (doc.childNodeSize() > 0) { }  
+if(doc.firstChild()!=null){ if (doc.childNodeSize() > 0) { }  
+if( doc instanceof Element){ if (doc.childNodeSize() > 0) { }  
+if(doc.text() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.tagName() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.node() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.firstChild()){ if (doc.childNodeSize() > 0) { }  
+if( doc != null ){ if (doc.childNodeSize() > 0) { }  
+if(doc.document() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isValid()){ if (doc.childNodeSize() > 0) { }  
+if(doc != null)){ if (doc.childNodeSize() > 0) { }  
+if(doc!=null)){ if (doc.childNodeSize() > 0) { }  
+if(xml!=null){ if (doc.childNodeSize() > 0) { }  
+if(hasChildren()){ if (doc.childNodeSize() > 0) { }  
+if(data.contains("!"))){ if (doc.childNodeSize() > 0) { }  
+if( true){ if (doc.childNodeSize() > 0) { }  
+if(null==doc){ if (doc.childNodeSize() > 0) { }  
+if(doc is not null){ if (doc.childNodeSize() > 0) { }  
+if( doc.firstChild()){ if (doc.childNodeSize() > 0) { }  
+if(node != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isEmpty()){ if (doc.childNodeSize() > 0) { }  
+if(null!=data){ if (doc.childNodeSize() > 0) { }  
+if(document){ if (doc.childNodeSize() > 0) { }  
+if( doc != null )){ if (doc.childNodeSize() > 0) { }  
+if( doc.exists()){ if (doc.childNodeSize() > 0) { }  
+if(elem != null){ if (doc.childNodeSize() > 0) { }  
+if(jsoup){ if (doc.childNodeSize() > 0) { }  
+if( !doc.isEmpty()){ if (doc.childNodeSize() > 0) { }  
+if(doParse){ if (doc.childNodeSize() > 0) { }  
+if(data.contains("!")){ if (doc.childNodeSize() > 0) { }  
+if(el!=null){ if (doc.childNodeSize() > 0) { }  
+if(doc.data() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.element() != null){ if (doc.childNodeSize() > 0) { }  
+if(data != ""){ if (doc.childNodeSize() > 0) { }  
+if(doc.body() != null){ if (doc.childNodeSize() > 0) { }  
+if(isXmlDeclaration){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasChildren()){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasChildNodes())){ if (doc.childNodeSize() > 0) { }  
+if(parser!=null){ if (doc.childNodeSize() > 0) { }  
+if(ownerDocument != null){ if (doc.childNodeSize() > 0) { }  
+if( data.startsWith("!")){ if (doc.childNodeSize() > 0) { }  
+if(document == null){ if (doc.childNodeSize() > 0) { }  
+if(isValid()){ if (doc.childNodeSize() > 0) { }  
+if(test){ if (doc.childNodeSize() > 0) { }  
+if(data!=null)){ if (doc.childNodeSize() > 0) { }  
+if(elem!=null){ if (doc.childNodeSize() > 0) { }  
+if(doc.firstChild() == null){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("!")){ if (doc.childNodeSize() > 0) { }  
+if(elem){ if (doc.childNodeSize() > 0) { }  
+if(doc.childNodes() > 0){ if (doc.childNodeSize() > 0) { }  
+if(doc.isNode()){ if (doc.childNodeSize() > 0) { }  
+if(parent != null){ if (doc.childNodeSize() > 0) { }  
+if(doc != null ){ if (doc.childNodeSize() > 0) { }  
+if( doc.hasChild()){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("!")}){ if (doc.childNodeSize() > 0) { }  
+if(data instanceof Element){ if (doc.childNodeSize() > 0) { }  
+if(doc.ready()){ if (doc.childNodeSize() > 0) { }  
+if( false){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("<")){ if (doc.childNodeSize() > 0) { }  
+if(element != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isElementNode()){ if (doc.childNodeSize() > 0) { }  
+if( document!=null){ if (doc.childNodeSize() > 0) { }  
+if(data != null)){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasNext()){ if (doc.childNodeSize() > 0) { }  
+if( doc.childNode() > 0){ if (doc.childNodeSize() > 0) { }  
+if( !data.isEmpty()){ if (doc.childNodeSize() > 0) { }  
+if(validate){ if (doc.childNodeSize() > 0) { }  
+if(doc.childCount()>0){ if (doc.childNodeSize() > 0) { }  
+if(doc.firstChild != null){ if (doc.childNodeSize() > 0) { }  
+if(null==data){ if (doc.childNodeSize() > 0) { }  
+if(isXml){ if (doc.childNodeSize() > 0) { }  
+if(xmlParser){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasChildNodes()==false){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("!){ if (doc.childNodeSize() > 0) { }  
+if(doc.content() != null){ if (doc.childNodeSize() > 0) { }  
+if(xmlParse){ if (doc.childNodeSize() > 0) { }  
+if(isValidXml){ if (doc.childNodeSize() > 0) { }  
+if(null == data){ if (doc.childNodeSize() > 0) { }  
+if(doc.isXmlDocument()){ if (doc.childNodeSize() > 0) { }  
+if(decl == null){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasChildElements()){ if (doc.childNodeSize() > 0) { }  
+if(parent!=null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isElement(0)){ if (doc.childNodeSize() > 0) { }  
+if( doc.isElement()){ if (doc.childNodeSize() > 0) { }  
+if(xmlData != null){ if (doc.childNodeSize() > 0) { }  
+if(window != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.getDocument() != null){ if (doc.childNodeSize() > 0) { }  
+if( doc.length() > 0){ if (doc.childNodeSize() > 0) { }  
+if(isXmlDocument){ if (doc.childNodeSize() > 0) { }  
+if( data){ if (doc.childNodeSize() > 0) { }  
+if(Boolean){ if (doc.childNodeSize() > 0) { }  
+if(d != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.documentElement != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isDefined()){ if (doc.childNodeSize() > 0) { }  
+if(doc.childNodes != null){ if (doc.childNodeSize() > 0) { }  
+if(null){ if (doc.childNodeSize() > 0) { }  
+if( document){ if (doc.childNodeSize() > 0) { }  
+if(decl==null){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasChildNodes()==true){ if (doc.childNodeSize() > 0) { }  
+if(DOC){ if (doc.childNodeSize() > 0) { }  
+if(doc.lastChild() != null){ if (doc.childNodeSize() > 0) { }  
+if(xml == null){ if (doc.childNodeSize() > 0) { }  
+if(data.equals("!"))){ if (doc.childNodeSize() > 0) { }  
+if(doc instanceof XmlDeclaration){ if (doc.childNodeSize() > 0) { }  
+if( doc.size() > 0){ if (doc.childNodeSize() > 0) { }  
+if(useXmlDeclaration){ if (doc.childNodeSize() > 0) { }  
+if(cdata){ if (doc.childNodeSize() > 0) { }  
+if( doc.documentElement() != null){ if (doc.childNodeSize() > 0) { }  
+if(obj!=null){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("#")){ if (doc.childNodeSize() > 0) { }  
+if(doc<mask1>doc != null)){ if (doc.childNodeSize() > 0) { }  
+if(canParse){ if (doc.childNodeSize() > 0) { }  
+if( doc.hasChildren()){ if (doc.childNodeSize() > 0) { }  
+if( xmlDoc != null){ if (doc.childNodeSize() > 0) { }  
+if(normalize){ if (doc.childNodeSize() > 0) { }  
+if(parseXml){ if (doc.childNodeSize() > 0) { }  
+if(jsoup){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("!")){ }){ if (doc.childNodeSize() > 0) { }  
+if(doc.children() > 0){ if (doc.childNodeSize() > 0) { }  
+if(Document.hasChildNodes()){ if (doc.childNodeSize() > 0) { }  
+if(hasData()){ if (doc.childNodeSize() > 0) { }  
+if(data.endsWith("!"))){ if (doc.childNodeSize() > 0) { }  
+if(!!!!){ if (doc.childNodeSize() > 0) { }  
+if(domDocument != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.getFirstChild() != null){ if (doc.childNodeSize() > 0) { }  
+if( doc.node() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasMoreElements()){ if (doc.childNodeSize() > 0) { }  
+if( doc.hasChildNodes() )){ if (doc.childNodeSize() > 0) { }  
+if(xmlMode){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("!")){){ if (doc.childNodeSize() > 0) { }  
+if(parsed){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasAttributes()){ if (doc.childNodeSize() > 0) { }  
+if(doc.parser() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.notEmpty()){ if (doc.childNodeSize() > 0) { }  
+if(xmlParser == null){ if (doc.childNodeSize() > 0) { }  
+if(body != null){ if (doc.childNodeSize() > 0) { }  
+if(doc<mask1>doc!=null){ if (doc.childNodeSize() > 0) { }  
+if(document instanceof Document){ if (doc.childNodeSize() > 0) { }  
+if(doc.parent() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isElement()){ if (doc.childNodeSize() > 0) { }  
+if(content != null){ if (doc.childNodeSize() > 0) { }  
+if(exists()){ if (doc.childNodeSize() > 0) { }  
+if(decl!=null){ if (doc.childNodeSize() > 0) { }  
+if( null!=doc){ if (doc.childNodeSize() > 0) { }  
+if( doc == null){ if (doc.childNodeSize() > 0) { }  
+if(doValidate){ if (doc.childNodeSize() > 0) { }  
+if(rootNode != null){ if (doc.childNodeSize() > 0) { }  
+if(ok){ if (doc.childNodeSize() > 0) { }  
+if(this){ if (doc.childNodeSize() > 0) { }  
+if(document==null){ if (doc.childNodeSize() > 0) { }  
+if(doc!=this){ if (doc.childNodeSize() > 0) { }  
+if(doc.xml() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.child() != null){ if (doc.childNodeSize() > 0) { }  
+if(node){ if (doc.childNodeSize() > 0) { }  
+if(doc.isFile()){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("//")){ if (doc.childNodeSize() > 0) { }  
+if( doc.document() != null){ if (doc.childNodeSize() > 0) { }  
+if(config){ if (doc.childNodeSize() > 0) { }  
+if(doc.isLeaf()){ if (doc.childNodeSize() > 0) { }  
+if( doc.isEmpty()){ if (doc.childNodeSize() > 0) { }  
+if(data<mask1>doc != null)){ if (doc.childNodeSize() > 0) { }  
+if(doc.firstChild()!=null){ if (doc.childNodeSize() > 0) { }  
+if(!!doc){ if (doc.childNodeSize() > 0) { }  
+if( doc.text() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.isOpen()){ if (doc.childNodeSize() > 0) { }  
+if(isData){ if (doc.childNodeSize() > 0) { }  
+if(doc<mask1>doc != null){ if (doc.childNodeSize() > 0) { }  
+if(logger){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasMoreElements()){ if (doc.childNodeSize() > 0) { }  
+if(isValid){ if (doc.childNodeSize() > 0) { }  
+if(html){ if (doc.childNodeSize() > 0) { }  
+if(doc.children() != null){ if (doc.childNodeSize() > 0) { }  
+if(doc.childNodes().hasNext()){ if (doc.childNodeSize() > 0) { }  
+if(StringUtils.isNotEmpty(data)){ if (doc.childNodeSize() > 0) { }  
+if(doc.hasFirstChild()){ if (doc.childNodeSize() > 0) { }  
+if(doc.isXml()){ if (doc.childNodeSize() > 0) { }  
+if(parser){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("#"))){ if (doc.childNodeSize() > 0) { }  
+if(data.startsWith("@")){ if (doc.childNodeSize() > 0) { }  
+if(data<mask1>doc!=null){ if (doc.childNodeSize() > 0) { }  
+if(data.endsWith("!")){ if (doc.childNodeSize() > 0) { }  
+if(Document){ if (doc.childNodeSize() > 0) { }  
+if(tree){ if (doc.childNodeSize() > 0) { }  
+if(init){ if (doc.childNodeSize() > 0) { }  
+if(dir){ if (doc.childNodeSize() > 0) { }  
+if( doc.firstChild() instanceof Element){ if (doc.childNodeSize() > 0) { }  

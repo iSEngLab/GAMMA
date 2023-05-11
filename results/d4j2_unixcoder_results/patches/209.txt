@@ -1,0 +1,1250 @@
+ this.file = null;  
+ this.result = null;  
+ this.buffer = null;  
+ this.stream = null;  
+ this.writer = null;  
+ this.reader = null;  
+ this.input = null;  
+ this.output = null;  
+ this.content = null;  
+ this.writer.close;  
+ this.value = null;  
+ this.data = null;  
+ this.outputStream = null;  
+ throw new IOException;  
+ this.inputStream = null;  
+ this.body = null;  
+ System.out.println;  
+ this.size = 0;  
+ this.error = null;  
+ this.out = null;  
+ this.reader.close;  
+ return;  
+ this.in = null;  
+ this.buf = null;  
+ this.open = false;  
+ this.writer.close();  
+ //throw new IOException;  
+ this.outStream = null;  
+ this.next = null;  
+ open = false;  
+ this.input.close;  
+ this.stream.close;  
+ this.fileName = null;  
+ this.response = null;  
+ this.message = null;  
+ this.parent = null;  
+ this.index = 0;  
+ this.done = true;  
+ this.handle = null;  
+ this.iterator = null;  
+ this.filename = null;  
+ this.source = null;  
+ this.finished = true;  
+ this.lastError = null;  
+ this.bytesWritten = 0;  
+ this.filePath = null;  
+ this.isClosed = true;  
+ this.fd = -1;  
+ this.file.close;  
+ this.path = null;  
+ this.file.close();  
+ super.close(); } else;  
+ super.close() throws IOException;  
+ this.cause = null;  
+ this.status = Status.CLOSED;  
+ this.pos = 0;  
+ this.index = -1;  
+ this.err = null;  
+ this.fileChannel = null;  
+ this.text = null;  
+ this.name = null;  
+ this.exception = null;  
+ this.offset = 0;  
+ //System.out.println;  
+ this.queue = null;  
+ this.stream.close();;  
+ this.completed = true;  
+ this.contents = null;  
+ this.channel = null;  
+ this.length = 0;  
+ this.buffer.clear;  
+ stream = null;  
+ this.position = 0;  
+ this.resource = null;  
+ this.fileHandle = null;  
+ this.inputReader = null;  
+ buffer = null;  
+ this.isOpen = false;  
+ this.url = null;  
+ this.writable = false;  
+ super.close;  
+ this.tempFile = null;  
+ this.count = 0;  
+ this.values = null;  
+ this.state = State.CLOSED;  
+ this.writer.close();;  
+ this.buffer.close;  
+ this.fileChannel.close();  
+ this.connection = null;  
+ this.conn = null;  
+ this.results = null;  
+ this.fileInputStream = null;  
+ this.current = null;  
+ this.delegate = null;  
+ this.cache = null;  
+ this.session = null;  
+ this.errors.clear;  
+ this.active = false;  
+ this.files = null;  
+ this.outputStream.close;  
+ this.chunk = null;  
+ this.out.close;  
+ this.output.close;  
+ this.errors = null;  
+ ;  
+ this.eof = true;  
+ this.root = null;  
+ this.writer.close(); ;  
+ this.context = null;  
+ throw new IOException("already closed");  
+ this.source.close;  
+ this.outputWriter = null;  
+ this.end = true;  
+ this.writeBuffer = null;  
+ throw new IllegalStateException;  
+ this.stdout = null;  
+ this.file.close();;  
+ this.reader.close();  
+ super.close(); return;  
+ this.pos = -1;  
+ this.val = null;  
+ this.closer = null;  
+ this.id = -1;  
+ this.document = null;  
+ this.state = CLOSED;  
+ this.outputBuffer = null;  
+ this.producer = null;  
+ this.collection = null;  
+ this.inputBuffer = null;  
+ this.head = null;  
+ this.doc = null;  
+ this.stream.close(); ;  
+ this.header = null;  
+ this.currentFile = null;  
+ this.inputStream.close;  
+ System.err.println;  
+ this.buff = null;  
+ this.pointer = -1;  
+ this.dataBuffer = null;  
+ this.buffer.close();  
+ this.fd = null;  
+ this.write = null;  
+ this.data.close;  
+ this.outputStream.close();  
+ this.stream.close();  
+ this.current = -1;  
+ this.writer.flush();;  
+ this.lastException = null;  
+ this.writer.flush();  
+ this.buffer.clear();  
+ this.lock.lock;  
+ this.src.close;  
+ this.stream.close(false;  
+ this.lastError = null;  
+ throw new IOException() ;  
+ super.close(); }else;  
+ this.result = this.result;  
+ this.byteBuffer = null;  
+ this.result = result;  
+ this.inputChannel = null;  
+ this.buffer = this.buffer;  
+ throw new IOException("already closed");;  
+ this.writer.close(false;  
+ this.input.close();  
+ throw new IOException("Already closed");  
+ this.out = this.in;  
+ this.input.close();;  
+ this.writer.close() ;  
+ this.socket.close();  
+ this.output = this.input;  
+ super.close(); };  
+ stream.close(); } else;  
+ this.file.close(); ;  
+ this.writer.close() ;  
+ this.outputStream.close();;  
+ this.output.close();;  
+ this.lock.lock() ;  
+ this.next = this.prev;  
+ this.output.close(false;  
+ this.inputChannel.close();  
+ this.inputStream.close();  
+ this.outStream.close();  
+ this.reader.close();;  
+ this.input.close(); ;  
+ this.output.close(); ;  
+ this.data.close();  
+ this.out.close();;  
+ this.next = this.previous;  
+ this.reader = this.writer;  
+ this.writer = this.reader;  
+ this.buffer.clear(); ;  
+ this.output.close();  
+ //;  
+ this.output.close(true;  
+ this.channel.close();  
+ this.writer.close(true;  
+ this.out = this.err;  
+ this.value = this.value;  
+ this.writer.flushBuffer;  
+ this.writer.write(DELIMITER;  
+ this.stream.close(true;  
+ this.outputWriter.close;  
+ throw new IOException(this.message;  
+ this.outStream = this.out;  
+ this.buffer.clear() ;  
+ this.out.close(); ;  
+ this.next = this.current;  
+ this.buffer.clear() ;  
+ this.result = this.value;  
+ this.inputReader.close;  
+ this.pos = this.size;  
+ this.outStream = this.outStream;  
+ this.inputReader.close();  
+ this.write(null);;  
+ this.outputStream.close(); ;  
+ this.content.close();  
+ this.next = this.next;  
+ super.close(); } finally;  
+ this.outputWriter.close();  
+ this.reader.close(); ;  
+ throw new IOException("Already closed");;  
+ this.next = this.last;  
+ this.closer.close();;  
+ this.writer = this.writer;  
+ this.socket.close();;  
+ this.channel.close();;  
+ this.buf.clear();  
+ this.buffer.close();;  
+ this.writer.flush(); ;  
+ this.pos = this.end;  
+ this.outStream = this.in;  
+ this.result = this.input;  
+ this.file.close(false;  
+;  
+ this.stream.close(); return;  
+ this.input.close(false;  
+ file.close(); } else;  
+ this.file.close() ;  
+ this.writer.write(delimiter;  
+ this.output.write(CRLF;  
+ this.writer = this.input;  
+ this.writer.write(CRLF;  
+ this.stream.close(null;  
+ this.buffer.close(); ;  
+ this.stream.close() ;  
+ this.output = this.output;  
+ this.outputStream.close(false;  
+ this.socket.close(); ;  
+ this.closer.close(); ;  
+ this.channel.close(); ;  
+ this.file = null; super.close();  
+ this.stream = null; super.close();  
+ this.writer = null; super.close();  
+ this.closed = false; super.close();  
+ this.closed = true; super.close();  
+ this.reader = null; super.close();  
+ this.buffer = null; super.close();  
+ this.isClosed = true; super.close();  
+ this.result = null; super.close();  
+ this.input = null; super.close();  
+ this.open = false; super.close();  
+ open = false; super.close();  
+ this.outputStream = null; super.close();  
+ this.content = null; super.close();  
+ this.isOpen = false; super.close();  
+ this.inputStream = null; super.close();  
+ this.output = null; super.close();  
+ this.in = null; super.close();  
+ throw new IOException; super.close();  
+ this.done = true; super.close();  
+ //throw new IOException; super.close();  
+ this.parent = null; super.close();  
+ this.out = null; super.close();  
+ this.data = null; super.close();  
+ System.out.println; super.close();  
+ this.error = null; super.close();  
+ this.value = null; super.close();  
+ this.size = 0; super.close();  
+ this.closing = true; super.close();  
+ this.fd = -1; super.close();  
+ this.outStream = null; super.close();  
+ super.close(); } else; super.close();  
+ this.completed = true; super.close();  
+ this.body = null; super.close();  
+ this.finished = true; super.close();  
+ this.next = null; super.close();  
+ return; super.close();  
+ this.lastError = null; super.close();  
+ this.closer = null; super.close();  
+ this.isClosed = true; super.close();  
+ this.filename = null; super.close();  
+ this.writable = false; super.close();  
+ this.connection = null; super.close();  
+ this.channel = null; super.close();  
+ this.session = null; super.close();  
+ this.active = false; super.close();  
+ this.exception = null; super.close();  
+ this.buf = null; super.close();  
+ this.fileName = null; super.close();  
+ //System.out.println; super.close();  
+ this.valid = false; super.close();  
+ file = null; super.close();  
+ this.status = Status.CLOSED; super.close();  
+ this.writer.close(); super.close();  
+ this.source = null; super.close();  
+ this.conn = null; super.close();  
+ this.streamClosed = true; super.close();  
+ this.path = null; super.close();  
+ this.iterator = null; super.close();  
+ this.client = null; super.close();  
+ this.fileChannel = null; super.close();  
+ this.message = null; super.close();  
+ ; super.close();  
+ this.index = -1; super.close();  
+ this.name = null; super.close();  
+ this.index = 0; super.close();  
+ this.opened = false; super.close();  
+ this.resource = null; super.close();  
+ this.tempFile = null; super.close();  
+ throw new IOException("already closed"); super.close();  
+ this.filePath = null; super.close();  
+ this.running = false; super.close();  
+ this.response = null; super.close();  
+ this.state = CLOSED; super.close();  
+ this.context = null; super.close();  
+ stream = null; super.close();  
+ this.file.close(); super.close();  
+ this.connected = false; super.close();  
+ this.eof = true; super.close();  
+ this.cause = null; super.close();  
+ this.writing = false; super.close();  
+ this.handle = null; super.close();  
+ this.pos = 0; super.close();  
+ this.io = null; super.close();  
+ this.url = null; super.close();  
+ this.state = State.CLOSED; super.close();  
+ this.err = null; super.close();  
+ this.socket = null; super.close();  
+ this.delegate = null; super.close();  
+ this.position = 0; super.close();  
+ this.started = false; super.close();  
+ this.isFinished = true; super.close();  
+ this.writer.close();; super.close();  
+ this.listener = null; super.close();  
+ this.id = -1; super.close();  
+ this.lock.lock() ; super.close();  
+ this.stream.close(); ; super.close();  
+ this.aborted = true; super.close();  
+ this.child = null; super.close();  
+ this.offset = 0; super.close();  
+ this.text = null; super.close();  
+ this.writer.close(); ; super.close();  
+ this.cache = null; super.close();  
+ this.bytesWritten = 0; super.close();  
+ this.queue = null; super.close();  
+ this.files = null; super.close();  
+ this.contents = null; super.close();  
+ this.opener = null; super.close();  
+ this.stream.close();; super.close();  
+ this.lock.lock; super.close();  
+ this.fileInputStream = null; super.close();  
+ this.closeLock.lock(); super.close();  
+ this.transport = null; super.close();  
+ this.chunk = null; super.close();  
+ this.receiver = null; super.close();  
+ this.os = null; super.close();  
+ this.root = null; super.close();  
+ this.fileHandle = null; super.close();  
+ this.closeCalled = true; super.close();  
+ this.header = null; super.close();  
+ this.parent = this; super.close();  
+ this.length = 0; super.close();  
+ throw new IllegalStateException; super.close();  
+ this.container = null; super.close();  
+ this.InputStream = null; super.close();  
+ this.count = 0; super.close();  
+ this.directory = null; super.close();  
+ this.current = null; super.close();  
+ this.object = null; super.close();  
+ this.committed = false; super.close();  
+ this.pointer = -1; super.close();  
+ this.hasBeenClosed = true; super.close();  
+ System.err.println; super.close();  
+ this.pool = null; super.close();  
+ this.lastException = null; super.close();  
+ this.generator = null; super.close();  
+ lock.lock; super.close();  
+ this.streamIsOpen = false; super.close();  
+ this.stream.close(); super.close();  
+ this.close = true; super.close();  
+ throw new IOException() ; super.close();  
+ this.errors = null; super.close();  
+ this.file.close();; super.close();  
+ this.closedAt = true; super.close();  
+ // this.closed = true; super.close();  
+ this.writer.flush();; super.close();  
+ this.transaction = null; super.close();  
+ this.current = -1; super.close();  
+ this.streamId = -1; super.close();  
+ this.request = null; super.close();  
+ this.file.close(); ; super.close();  
+ this.closeLock.lock; super.close();  
+ //this.closed = true; super.close();  
+ this.super = null; super.close();  
+ this.end = true; super.close();  
+ this.inputReader = null; super.close();  
+ this.id = null; super.close();  
+ this.dir = null; super.close();  
+ this.stdout = null; super.close();  
+ throw new IOException("already closed");; super.close();  
+ this.reader.close(); super.close();  
+ this.reader.close; super.close();  
+ this.written = 0; super.close();  
+ this.writer.close(true; super.close();  
+ this.stream.close(false; super.close();  
+ this.pointer = 0; super.close();  
+ this.pos = -1; super.close();  
+ this.buffer.clear(); super.close();  
+ this.next = this.prev; super.close();  
+ IOException ioe = new IOException; super.close();  
+ throw new IllegalStateException() ; super.close();  
+ this.writer.close; super.close();  
+ this.writeBuffer = null; super.close();  
+ this.status = CLOSED; super.close();  
+ this.currentFile = null; super.close();  
+ this.isClose = true; super.close();  
+ if (this.closed) return; super.close();  
+ this.lastError = null; super.close();  
+ if (super != null) return; super.close();  
+ this.log = null; super.close();  
+ this.errors.clear; super.close();  
+ throw new IOException("Already closed"); super.close();  
+ this.writer.close(false; super.close();  
+ super.close(); }else; super.close();  
+ synchronized (this) { //; super.close();  
+ this.readLock.lock(); super.close();  
+ super.close(); return; super.close();  
+ this.buffer.clear(); ; super.close();  
+ this.outputStream.close(); super.close();  
+ this.file.deleteOnExit(); super.close();  
+ this.next = this.previous; super.close();  
+ this.stream.close(true; super.close();  
+ this.channel.close(); super.close();  
+ //System.err.println; super.close();  
+ synchronized (this) { ; super.close();  
+ //; super.close();  
+ this.outputStream.close();; super.close();  
+ this.closer.close();; super.close();  
+ this.next = this.next; super.close();  
+ this.fileChannel.close(); super.close();  
+ this.fileChannel.close();; super.close();  
+ this.input.close(); ; super.close();  
+ ...; super.close();  
+ if (!this.closed) return; super.close();  
+ this.outputStream.close(); ; super.close();  
+ this.reader.close();; super.close();  
+ this.input.close(); super.close();  
+ this.buffer.clear();; super.close();  
+ this.closer.close(); ; super.close();  
+ this.writer.flush(); super.close();  
+; super.close();  
+ this.input.close();; super.close();  
+ lock.lock(); try {; super.close();  
+ throw new IOException(this.message; super.close();  
+ this.reader.close(); ; super.close();  
+ this.result = this.result; super.close();  
+ this.out = this.err; super.close();  
+ this.out.close(); ; super.close();  
+ this.out.close();; super.close();  
+ this.channel.close(); ; super.close();  
+ this.socket.close(); ; super.close();  
+ this.fileLock.lock(); super.close();  
+ this.fileLock.lock; super.close();  
+ this.socket.close();; super.close();  
+ this.out = this.in; super.close();  
+ this.next = this.last; super.close();  
+ if (this.file != null; super.close();  
+ this.parent = this.child; super.close();  
+ this.mutex.lock() ; super.close();  
+ this.channel.close();; super.close();  
+ this.next = this.current; super.close();  
+ this.file.deleteOnExit; super.close();  
+ this.readLock.lock; super.close();  
+ this.parent = this.parent; super.close();  
+ this.file.close(true; super.close();  
+ this.previous = this.next; super.close();  
+ this.writer = this.writer; super.close();  
+ this.transport.close(); ; super.close();  
+ this.io.close(); ; super.close();  
+ this.file.close(false; super.close();  
+ throw new IOException("Already closed");; super.close();  
+ this.os.close(); ; super.close();  
+ this.buffer = this.buffer; super.close();  
+ this.pos = this.size; super.close();  
+ this.output.close(); ; super.close();  
+ } else { this.closed; super.close();  
+ this.connection.close();; super.close();  
+ this.io.close();; super.close();  
+ this.channel.close(false; super.close();  
+ this.channel.close(true; super.close();  
+if(close==null){return ;;} super.close();  
+if(close==null){return ; };} super.close();  
+if(close==null){return ; } close(); ;} super.close();  
+if(close==null){return ; } close;} super.close();  
+if(close==null){return ;};} super.close();  
+if(close==null){return ; } close();;} super.close();  
+if(close==null){return  null;} super.close();  
+if(close==null){return ;} close(); ;} super.close();  
+if(close==null){return ;} close;} super.close();  
+if(close==null){return ; } ;} super.close();  
+if(close==null){return ;} close(); ;} super.close();  
+if(close==null){return ;} close();;} super.close();  
+if(close==null){return ; ;} super.close();  
+if(close==null){return ;} close;} super.close();  
+if(close==null){return ; } close(); };} super.close();  
+if(close==null){return ;};} super.close();  
+if(close==null){return ;} ;} super.close();  
+if(close==null){return ; } try {close;} super.close();  
+if(close==null){return  ;;} super.close();  
+if(close==null){return  null;;} super.close();  
+if(close==null){return ;} this.close(); ;} super.close();  
+if(close==null){return ; } this.close();;} super.close();  
+if(close==null){return ; } close(this);;} super.close();  
+if(close==null){return ;} close;} super.close();  
+if(close==null){return ;} close(); ;} super.close();  
+if(close==null){return ;} close;} super.close();  
+if(close==null){return ; } close;} super.close();  
+if(close==null){return  close = super.close();;} super.close();  
+if(close==null){return ;} close();;} super.close();  
+if(close==null){return ;} close();;} super.close();  
+if(close==null){return ; } try { close;} super.close();  
+if(close==null){return ; } this.close;} super.close();  
+if(close==null){return ;} try {close;} super.close();  
+if(close==null){return  super.close();;} super.close();  
+if(close==null){return  false;;} super.close();  
+if(close==null){return ; } close(close);;} super.close();  
+if(close==null){return ;}close;} super.close();  
+if(close==null){return ; } try{close;} super.close();  
+if(close==null){return ;} close(this); ;} super.close();  
+if(close==null){return ; } close();;} super.close();  
+if(close==null){return ;} close(); };} super.close();  
+if(close==null){return ;} close(); };} super.close();  
+if(close==null){return  false;} super.close();  
+if(close==null){return ;} close();;} super.close();  
+if(close==null){return ; } close.close();;} super.close();  
+if(close==null){return ;} this.close();;} super.close();  
+if(close==null){return ;} close(this);;} super.close();  
+if(close==null){return ;close;} super.close();  
+if(close==null){return ; } close(this;} super.close();  
+if(close==null){return  true;;} super.close();  
+if(close==null){return ;} ;} super.close();  
+if(close==null){return ;} try {close;} super.close();  
+if(close==null){return ; } close(true);;} super.close();  
+if(close==null){return ;} try{close;} super.close();  
+if(close==null){return ;} this.close;} super.close();  
+if(close==null){return  true;} super.close();  
+if(close==null){return  close;} super.close();  
+if(close==null){return ; } close=null;} super.close();  
+if(close==null){return ;} close(); ;} super.close();  
+if(close==null){return ; } close(); ;} super.close();  
+if(close==null){return ;} this.close(); ;} super.close();  
+if(close==null){return } close(); ;} super.close();  
+if(close==null){return ; } close();} super.close();  
+if(close==null){return  this;} super.close();  
+if(close==null){return ;} close(close);;} super.close();  
+if(close==null){return ;AST#return_statement#Right;} super.close();  
+if(close==null){return ;} super.close(); ;} super.close();  
+if(close==null){return ;} close(true); ;} super.close();  
+if(close==null){return ; ;} super.close();  
+if(close==null){return ; };} super.close();  
+if(close==null){return ; }  close(); ;} super.close();  
+if(close==null){return ;} close(this;} super.close();  
+if(close==null){return ;} close.close();;} super.close();  
+if(close==null){return ;}else{close;} super.close();  
+if(close==null){return ;} this.close();;} super.close();  
+if(close==null){return  close();;} super.close();  
+if(close==null){return ;} close(true);;} super.close();  
+if(close==null){return  close=super.close();;} super.close();  
+if(close==null){return ; } close(); return;} super.close();  
+if(close==null){return ; } close(); ;} super.close();  
+if(close==null){return ; } super.close();;} super.close();  
+if(close==null){return ;} close=null;} super.close();  
+if(close==null){return ;} try{close;} super.close();  
+if(close==null){return ; } close = true;} super.close();  
+if(close==null){return  close = super.close;} super.close();  
+if(close==null){return ; } close(null);;} super.close();  
+if(close==null){return } close;} super.close();  
+if(close==null){return ;} try { close;} super.close();  
+if(close==null){return ; } else{close;} super.close();  
+if(close==null){return ; } else close;} super.close();  
+if(close==null){return };} super.close();  
+if(close==null){return ;} close(close); ;} super.close();  
+if(close==null){return ; } close;} super.close();  
+if(close==null){return ; } Close;} super.close();  
+if(close==null){return ; } try {close();;} super.close();  
+if(close==null){return ;} this.close();;} super.close();  
+if(close==null){return ; } else {close;} super.close();  
+if(close==null){return ;}else{close();;} super.close();  
+if(close==null){return ; } else close();;} super.close();  
+if(close==null){return ;} close(); return;} super.close();  
+if(close==null){return ;} this.close;} super.close();  
+if(close==null){return  close=true;} super.close();  
+if(close==null){return ;}close();;} super.close();  
+if(close==null){return ;}};} super.close();  
+if(close==null){return ; close;} super.close();  
+if(close==null){return ; } close(false);;} super.close();  
+if(close==null){return ;} close(); };} super.close();  
+if(close==null){return ;}.;} super.close();  
+if(close==null){return ;} close(this);;} super.close();  
+if(close==null){return ; } try{ close;} super.close();  
+if(close==null){return ; } else{close();;} super.close();  
+if(close==null){return ; } close(close);;} super.close();  
+if(close==null){return } close();;} super.close();  
+if(close==null){return ;} close(this;} super.close();  
+if(close==null){return ; } Close(close);;} super.close();  
+if(close==null){return  void;} super.close();  
+if(close==null){return ;} close(null); ;} super.close();  
+if(close==null){return ; close;} super.close();  
+if(close==null){return ; }else{close;} super.close();  
+if(close==null){return ; } close(close;} super.close();  
+if(close==null){return ;} close = true;} super.close();  
+if(close==null){return ;} close(); this;} super.close();  
+if(close==null){return ; } close(this);;} super.close();  
+if(close==null){return ; } close(); this;} super.close();  
+if(close==null){return ;} close(null);;} super.close();  
+if(close==null){return ;}}};} super.close();  
+if(close==null){return ;} close();} super.close();  
+if(close==null){return ; //} close(); ;} super.close();  
+if(close==null){return ;return;} super.close();  
+if(close==null){return ;this;} super.close();  
+if(close==null){return };;} super.close();  
+if(close==null){return ;}.close();;} super.close();  
+if(close==null){return ;} close(this); ;} super.close();  
+if(close==null){return ;default;} super.close();  
+if(close==null){return ;},close;} super.close();  
+if(close==null){return null;} super.close();  
+if(close==null){return ;} try { close;} super.close();  
+if(close==null){return } this.close(); ;} super.close();  
+if(close==null){return ;} close(this);;} super.close();  
+if(close==null){return ; }  close();;} super.close();  
+if(close==null){return ;} close.close(); ;} super.close();  
+if(close==null){return ; } close=true;} super.close();  
+if(close==null){return ; } try;} super.close();  
+if(close==null){return ;} close(); } ;} super.close();  
+if(close==null){return ; } else { close;} super.close();  
+if(close==null){return ; } this.close();;} super.close();  
+if(close==null){return ;} try {close();;} super.close();  
+if(close==null){return ;} try {close();;} super.close();  
+if(close==null){return ;i;} super.close();  
+if(close==null){return  close=true;;} super.close();  
+if(close==null){return ;} close(this);;} super.close();  
+if(close==null){return  ;} super.close();  
+if(close==null){return ;} close(close);;} super.close();  
+if(close==null){return ;}close;} super.close();  
+if(close==null){return ; } else {close();;} super.close();  
+if(close==null){return ;} else{close;} super.close();  
+if(close==null){return ; //};} super.close();  
+if(close==null){return ;} close(close);;} super.close();  
+if(close==null){return  close = true;} super.close();  
+if(close==null){return ;} else{close;} super.close();  
+if(close==null){return ; }  close;} super.close();  
+if(close==null){return ;} close(close); ;} super.close();  
+if(close==null){return ;} close(false);;} super.close();  
+if(close==null){return ;}  close(); ;} super.close();  
+if(close==null){return ; }else{close();;} super.close();  
+if(close==null){return ; } return close;} super.close();  
+if(close==null){return ; } };} super.close();  
+if(close==null){return ; } try { close();;} super.close();  
+if(close==null){return ;}} close(); ;} super.close();  
+if(close==null){return ;}this.close();;} super.close();  
+if(close==null){return ; } close(super;} super.close();  
+if(close==null){return ; // do nothing;} super.close();  
+if(close==null){return ;} else close;} super.close();  
+if(close==null){return ; }close;} super.close();  
+if(close==null){return ; } this;} super.close();  
+if(close==null){return ;} this.close = close;} super.close();  
+if(close==null){return ;} Close;} super.close();  
+if(close==null){return ;} close=true;} super.close();  
+if(close==null){return ;} super.close();;} super.close();  
+if(close==null){return ; //} close;} super.close();  
+if(close==null){return ;} close(); close(); ;} super.close();  
+if(close==null){return } close(this); ;} super.close();  
+if(close==null){return ;} this.close();;} super.close();  
+if(close==null){return ; } try close;} super.close();  
+if(close==null){return ; } else close(); ;} super.close();  
+if(close==null){return ; };;} super.close();  
+if(close==null){return ;} close(false); ;} super.close();  
+if(close==null){return ;} this.close;} super.close();  
+if(close==null){return ;} else{close();;} super.close();  
+if(close==null){return ; } //close;} super.close();  
+if(close==null){return ;};;} super.close();  
+if(close==null){return ; } close = null;} super.close();  
+if(close==null){return ;} close(true);;} super.close();  
+if(close==null){return ;<mask1>;;} super.close();  
+if(close==null){return ;} close=null;} super.close();  
+if(close==null){return ;} Close(close);;} super.close();  
+if(close==null){return ;} else close;} super.close();  
+if(close==null){return ;} else {close;} super.close();  
+if(close==null){return  super.close();} close;} super.close();  
+if(close==null){return ;} close(); return;} super.close();  
+if(close==null){return ;} else{close();;} super.close();  
+if(close==null){return ;} else {close;} super.close();  
+if(close==null){return ;} super.close(); ;} super.close();  
+if(close==null){return ; //do nothing;} super.close();  
+if(close==null){return ;} close(this); ;} super.close();  
+if(close==null){return  ;} close(); ;} super.close();  
+if(close==null){return ;} close(); return;} super.close();  
+if(close==null){return ;l;} super.close();  
+if(close==null){return ;} close(); this;} super.close();  
+if(close==null){return ; } try { close;} super.close();  
+if(close==null){return ;} else close();;} super.close();  
+if(close==null){return ;} close = true;} super.close();  
+if(close==null){return ;} this.close(close);;} super.close();  
+if(close==null){return ;CLOSE;} super.close();  
+if(close==null){return ;} close(close);;} super.close();  
+if(close==null){return  close=super.close;} super.close();  
+if(close==null){return ;}close();;} super.close();  
+if(close==null){return ; } try{close();;} super.close();  
+if(close==null){return ; closing;} super.close();  
+if(close==null){return ;} super.close();  
+if(close==null){return } close();;} super.close();  
+if(close==null){return ; } close(); //;} super.close();  
+if(close==null){return ;} close=true;} super.close();  
+if(close==null){return ;  };} super.close();  
+if(close==null){return ; } ;} super.close();  
+if(close==null){return ; } close(true;} super.close();  
+if(close==null){return ; return;} super.close();  
+if(close==null){return ; } close(this); ;} super.close();  
+if(close==null){return ;p;} super.close();  
+if(close==null){return ;} close(this.close);;} super.close();  
+if(close==null){return ;..;} super.close();  
+if(close==null){return  ;};} super.close();  
+if(close==null){return  this;;} super.close();  
+if(close==null){return ; } close(close); ;} super.close();  
+if(close==null){return ;} close(close;} super.close();  
+if(close==null){return ; } else close;} super.close();  
+if(close==null){return ;} close=this.close;} super.close();  
+if(close==null){return ; } else {close;} super.close();  
+if(close==null){return ; } close = false;} super.close();  
+if(close==null){return ;s;} super.close();  
+if(close==null){return ; } close();;} super.close();  
+if(close==null){return  close = true;;} super.close();  
+if(close==null){return ;} else {close();;} super.close();  
+if(close==null){return ; } this.close();} super.close();  
+if(close==null){return ;}, close;} super.close();  
+if(close==null){return ;} close(this;} super.close();  
+if(close==null){return ;} close=this.close;} super.close();  
+if(close==null){return ;  ;} super.close();  
+if(close==null){return  ;} close;} super.close();  
+if(close==null){return ;clear();;} super.close();  
+if(close==null){ close=true; } super.close();  
+if(close==null){ close=super; } super.close();  
+if(close==null){ close=this; } super.close();  
+if(close==null){ close=open; } super.close();  
+if(close==null){ close=true; }; } super.close();  
+if(close==null){ close=super.close; } super.close();  
+if(close==null){ close= true; } super.close();  
+if(close==null){ close=true; return; } super.close();  
+if(close==null){ close=Boolean.FALSE; } super.close();  
+if(close==null){ close=false; } super.close();  
+if(close==null){ close=true; } else { close; } super.close();  
+if(close==null){ close=new Closeable; } super.close();  
+if(close==null){ close=super.close(); }; } super.close();  
+if(close==null){ close=super.close(); } return; } super.close();  
+if(close==null){ close= super; } super.close();  
+if(close==null){ close=true; } else{ close; } super.close();  
+if(close==null){ close=new IOException; } super.close();  
+if(close==null){ close=System.err; } super.close();  
+if(close==null){ close=Boolean.TRUE; } super.close();  
+if(close==null){ close=super.close(); return; } super.close();  
+if(close==null){ close=true; } else{ close; } super.close();  
+if(close==null){ close= super.close; } super.close();  
+if(close==null){ close=System.out; } super.close();  
+if(close==null){ close=true; } close; } super.close();  
+if(close==null){ close=super.close(); } else; } super.close();  
+if(close==null){ close=this.close; } super.close();  
+if(close==null){ close=true; } ; } super.close();  
+if(close==null){ close=new Closeable() {; } super.close();  
+if(close==null){ close=true;}; } super.close();  
+if(close==null){ close=true; } else { close; } super.close();  
+if(close==null){ close=true; } else close; } super.close();  
+if(close==null){ close= super.close(); }; } super.close();  
+if(close==null){ close=true; } return; } super.close();  
+if(close==null){ close=create; } super.close();  
+if(close==null){ close= super.close(); } return; } super.close();  
+if(close==null){ close= this; } super.close();  
+if(close==null){ close=true }; } super.close();  
+if(close==null){ close=true;; } super.close();  
+if(close==null){ close= super.close(); return; } super.close();  
+if(close==null){ close=true; } else; } super.close();  
+if(close==null){ close=true; } return; } super.close();  
+if(close==null){ close=super.close() }; } super.close();  
+if(close==null){ close=true; } else; } super.close();  
+if(close==null){ close=new Exception; } super.close();  
+if(close==null){ close=new Closeable() { ; } super.close();  
+if(close==null){ close= open; } super.close();  
+if(close==null){ close=true;} else{ close; } super.close();  
+if(close==null){ close=new CloseException; } super.close();  
+if(close==null){ close= super.close(); } else; } super.close();  
+if(close==null){ close=channel; } super.close();  
+if(close==null){ close=super.close(); } ; } super.close();  
+if(close==null){ close=true; close=true; } super.close();  
+if(close==null){ close=true ; return; } super.close();  
+if(close==null){ close=true;} else { close; } super.close();  
+if(close==null){ close= (); } super.close();  
+if(close==null){ close=true; } close; } super.close();  
+if(close==null){ close=new Closer; } super.close();  
+if(close==null){ close=true; } else close; } super.close();  
+if(close==null){ close=true } else { close; } super.close();  
+if(close==null){ close= false; } super.close();  
+if(close==null){ close=true; close=false; } super.close();  
+if(close==null){ close=new CloseFuture; } super.close();  
+if(close==null){ close=IOUtil; } super.close();  
+if(close==null){ close= super.close() }; } super.close();  
+if(close==null){ close=doClose; } super.close();  
+if(close==null){ close=openStream; } super.close();  
+if(close==null){ close=true;} close; } super.close();  
+if(close==null){ close=true } else{ close; } super.close();  
+if(close==null){ close=new ClosingException; } super.close();  
+if(close==null){ close=super.close() } return; } super.close();  
+if(close==null){ close=true ; }; } super.close();  
+if(close==null){ close=null; } super.close();  
+if(close==null){ close=true; }else{ close; } super.close();  
+if(close==null){ close=super.close(); } return; } super.close();  
+if(close==null){ close=new Closeable() {}; } super.close();  
+if(close==null){ close=this.stream; } super.close();  
+if(close==null){ close=io; } super.close();  
+if(close==null){ close= Boolean.FALSE; } super.close();  
+if(close==null){ close=true; super.close(); }; } super.close();  
+if(close==null){ close=boolean; } super.close();  
+if(close==null){ close=init; } super.close();  
+if(close==null){ close=true; } }; } super.close();  
+if(close==null){ close= new Closeable; } super.close();  
+if(close==null){ close=IoUtil; } super.close();  
+if(close==null){ close=IoUtil::close; } super.close();  
+if(close==null){ close=super.close(); } else; } super.close();  
+if(close==null){ close=true; this; } super.close();  
+if(close==null){ close=new boolean; } super.close();  
+if(close==null){ close=true; closeStream=true; } super.close();  
+if(close==null){ close=new Closeable(){; } super.close();  
+if(close==null){ close=new Closeable() {} close; } super.close();  
+if(close==null){ close=trueAST#assignment_expression#Right; } super.close();  
+if(close==null){ close=true; this.closed = true; } super.close();  
+if(close==null){ close=createStream; } super.close();  
+if(close==null){ close=Boolean; } super.close();  
+if(close==null){ close=super.close();; } super.close();  
+if(close==null){ close=true}; } super.close();  
+if(close==null){ close=IOException.class; } super.close();  
+if(close==null){ close=stream; } super.close();  
+if(close==null){ close=super.close(); } else close; } super.close();  
+if(close==null){ close=new java.io.Closeable; } super.close();  
+if(close==null){ close=new Closeable(); } close; } super.close();  
+if(close==null){ close=createClose; } super.close();  
+if(close==null){ close=new OutputStream; } super.close();  
+if(close==null){ close=true; this.closed=true; } super.close();  
+if(close==null){ close=true} else close; } super.close();  
+if(close==null){ close=true;} else close; } super.close();  
+if(close==null){ close=1; } super.close();  
+if(close==null){ close=true;} ; } super.close();  
+if(close==null){ close= true; }; } super.close();  
+if(close==null){ close=true; throw new IOException; } super.close();  
+if(close==null){ close=true; super; } super.close();  
+if(close==null){ close=this.closer; } super.close();  
+if(close==null){ close=isOpen; } super.close();  
+if(close==null){ close=true } else close; } super.close();  
+if(close==null){ close=true;}}; } super.close();  
+if(close==null){ close=new BufferedWriter; } super.close();  
+if(close==null){ close=factory; } super.close();  
+if(close==null){ close=openChannel; } super.close();  
+if(close==null){ close=true; close; } super.close();  
+if(close==null){ close=super.close(); } close; } super.close();  
+if(close==null){ close=true; closeCalled=true; } super.close();  
+if(close==null){ close=false; return; } super.close();  
+if(close==null){ close=true ; } else { close; } super.close();  
+if(close==null){ close= new Closeable() {; } super.close();  
+if(close==null){ close=new Closeable() } close; } super.close();  
+if(close==null){ close=true } close; } super.close();  
+if(close==null){ close=this.channel; } super.close();  
+if(close==null){ close= super.close() } return; } super.close();  
+if(close==null){ close=new Closable; } super.close();  
+if(close==null){ close=true; close = true; } super.close();  
+if(close==null){ close=new Close; } super.close();  
+if(close==null){ close=this; }; } super.close();  
+if(close==null){ close=true; close = super.close; } super.close();  
+if(close==null){ close=true;} else { close; } super.close();  
+if(close==null){ close=true;} else{ close; } super.close();  
+if(close==null){ close=true;} else { close=false; } super.close();  
+if(close==null){ close= new IOException; } super.close();  
+if(close==null){ close=next; } super.close();  
+if(close==null){ close=true; closeException=null; } super.close();  
+if(close==null){ close=true; super.close; } super.close();  
+if(close==null){ close=Thread.currentThread().close; } super.close();  
+if(close==null){ close=connect; } super.close();  
+if(close==null){ close=true; close = super; } super.close();  
+if(close==null){ close=super.close();} else { close; } super.close();  
+if(close==null){ close=new CloseStream; } super.close();  
+if(close==null){ close=true } ; } super.close();  
+if(close==null){ close=new IOException() } close; } super.close();  
+if(close==null){ close=true; close = false; } super.close();  
+if(close==null){ close=true; } else close; } super.close();  
+if(close==null){ close=new Boolean; } super.close();  
+if(close==null){ close=true } else { close=false; } super.close();  
+if(close==null){ close=super; return; } super.close();  
+if(close==null){ close=new Closeable() ; } super.close();  
+if(close==null){ close=this.open; } super.close();  
+if(close==null){ close=parent.close; } super.close();  
+if(close==null){ close=super.close();}; } super.close();  
+if(close==null){ close=this.outStream; } super.close();  
+if(close==null){ close=(); } super.close();  
+if(close==null){ close=new RuntimeException; } super.close();  
+if(close==null){ close= true; return; } super.close();  
+if(close==null){ close=true; open=false; } super.close();  
+if(close==null){ close=true; this.closed=false; } super.close();  
+if(close==null){ close=true } else { close; } super.close();  
+if(close==null){ close=true; try; } super.close();  
+if(close==null){ close=super.close(); close=true; } super.close();  
+if(close==null){ close=createCloser; } super.close();  
+if(close==null){ close=false; }; } super.close();  
+if(close==null){ close=cb; } super.close();  
+if(close==null){ close=new CloseableStream; } super.close();  
+if(close==null){ close=System.out.println; } super.close();  
+if(close==null){ close=this; return; } super.close();  
+if(close==null){ close= super.close(); } ; } super.close();  
+if(close==null){ close= true; } else { close; } super.close();  
+if(close==null){ close=void; } super.close();  
+if(close==null){ close=new AtomicBoolean; } super.close();  
+if(close==null){ close=true; this.stream=null; } super.close();  
+if(close==null){ close=conn; } super.close();  
+if(close==null){ close=new InputStream; } super.close();  
+if(close==null){ close=super; }; } super.close();  
+if(close==null){ close=true};; } super.close();  
+if(close==null){ close=start; } super.close();  
+if(close==null){ close=new Future; } super.close();  
+if(close==null){ close=require; } super.close();  
+if(close==null){ close=begin; } super.close();  
+if(close==null){ close=this.closed; } super.close();  
+if(close==null){ close=new Closeable() }; } super.close();  
+if(close==null){ close=checkClose; } super.close();  
+if(close==null){ close=super; } else { close; } super.close();  
+if(close==null){ close=is; } super.close();  
+if(close==null){ close=super.close() } else; } super.close();  
+if(close==null){ close=parent; } super.close();  
+if(close==null){ close=new ByteArrayOutputStream; } super.close();  
+if(close==null){ close=new BufferedReader; } super.close();  
+if(close==null){ close=tryClose; } super.close();  
+if(close==null){ close=true; closeParent=true; } super.close();  
+if(close==null){ close=true; this.close=true; } super.close();  
+if(close==null){ close= this.close; } super.close();  
+if(close==null){ close=this; } else { close; } super.close();  
+if(close==null){ close=true; } super.close; } super.close();  
+if(close==null){ close=System.in; } super.close();  
+if(close==null){ close=this.writer; } super.close();  
+if(close==null){ close=IoUtil.close; } super.close();  
+if(close==null){ close=transport; } super.close();  
+if(close==null){ close=writer; } super.close();  
+if(close==null){ close=new Closeable() {} close; } super.close();  
+if(close==null){ close=true; closeCalled = true; } super.close();  
+if(close==null){ close=true; closing=true; } super.close();  
+if(close==null){ close=true; } else close.close; } super.close();  
+if(close==null){ close=openWriter; } super.close();  
+if(close==null){ close=reader; } super.close();  
+if(close==null){ close=new Closeable(){}}; } super.close();  
+if(close==null){ close=Long.MAX_VALUE; } super.close();  
+if(close==null){ close=new CloseNotifier; } super.close();  
+if(close==null){ close=new Closeable() {...}}; } super.close();  
+if(close==null){ close=new Closeable(); }; } super.close();  
+if(close==null){ close=Integer.MAX_VALUE; } super.close();  
+if(close==null){ close= super.close(); } return; } super.close();  
+if(close==null){ close=engine; } super.close();  
+if(close==null){ close=open; } else { close; } super.close();  
+if(close==null){ close=open(); } else { close; } super.close();  
+if(close==null){ close=true; this.closed = false; } super.close();  
+if(close==null){ close=exec; } super.close();  
+if(close==null){ close=super::close; } super.close();  
+if(close==null){ close=IO.close; } super.close();  
+if(close==null){ close=new File; } super.close();  
+if(close==null){ close=Stream; } super.close();  
+if(close==null){ close=false; } else { close; } super.close();  
+if(close==null){ close=new Closeable() { close; } super.close();  
+if(close==null){ close=make; } super.close();  
+if(close==null){ close=true} else{ close; } super.close();  
+if(close==null){ close=func; } super.close();  
+if(close==null){ close=true}; } else { close; } super.close();  
+if(close==null){ close= super.close(); } else; } super.close();  
+if(close==null){ close=super.close(); } }; } super.close();  
+if(close==null){ close=new java.io.CloseException; } super.close();  
+if(close==null){ close=true; super.close(); return; } super.close();  
+if(close==null){ close=new IOException() }; } super.close();  
+if(close==null){ close=channel.close; } super.close();  
+if(close==null){ close=run; } super.close();  
+if(close==null){ close=true; closeable; } super.close();  
+if(close==null){ close=true } else{ close; } super.close();  
+if(close==null){ close=this.isClosed; } super.close();  
+if(close==null){ close=true; } this; } super.close();  
+if(close==null){ close=new Closeable() { }; } super.close();  
+if(close==null){ close=open(); }; } super.close();  
+if(close==null){ close=true;} close; } super.close();  
+if(close==null){ close=this.file; } super.close();  
+if(close==null){ close=IOUtil.close; } super.close();  
+if(close==null){ close=new InputStreamClosedException; } super.close();  
+if(super != null){ super.close();}  
+if(super!=null){ super.close();}  
+if( super != null){ super.close();}  
+if(super.isOpen()){ super.close();}  
+if(parent != null){ super.close();}  
+if(super.isClosed()){ super.close();}  
+if(super.closed){ super.close();}  
+if(parent!=null){ super.close();}  
+if(super){ super.close();}  
+if(super!= null){ super.close();}  
+if(super.isOpen){ super.close();}  
+if(super.close() != null){ super.close();}  
+if( super.isOpen()){ super.close();}  
+if(this.parent != null){ super.close();}  
+if(super.isClosed){ super.close();}  
+if(this.super != null){ super.close();}  
+if(null != super){ super.close();}  
+if( super.isClosed()){ super.close();}  
+if(super.close() == false){ super.close();}  
+if(this.parent!=null){ super.close();}  
+if(super.isOpen()==false){ super.close();}  
+if(super !=null){ super.close();}  
+if(super.close()!=null){ super.close();}  
+if(super.open){ super.close();}  
+if(this.super!=null){ super.close();}  
+if(this.stream != null){ super.close();}  
+if(this.file != null){ super.close();}  
+if(super.close != null){ super.close();}  
+if( super!=null){ super.close();}  
+if(super.parent != null){ super.close();}  
+if( super.closed){ super.close();}  
+if(super.open()==false){ super.close();}  
+if(super.close() == true){ super.close();}  
+if(null!=super){ super.close();}  
+if(this.file!=null){ super.close();}  
+if(this.stream!=null){ super.close();}  
+if(child != null){ super.close();}  
+if(super.close()==false){ super.close();}  
+if(proxy != null){ super.close();}  
+if(super.open() == false){ super.close();}  
+if(this.transport != null){ super.close();}  
+if(super.available() > 0){ super.close();}  
+if( super.close() != null){ super.close();}  
+if(superClass != null){ super.close();}  
+if(super.length() > 0){ super.close();}  
+if(super == null){ super.close();}  
+if(super.isOpen() == false){ super.close();}  
+if(superClass!=null){ super.close();}  
+if(super.close() == null){ super.close();}  
+if(this.child != null){ super.close();}  
+if(super.parent!=null){ super.close();}  
+if(super.isClosed() == false){ super.close();}  
+if(super.isOpen()==true){ super.close();}  
+if(super.size() > 0){ super.close();}  
+if( parent != null){ super.close();}  
+if(delegate != null){ super.close();}  
+if( super.close() == false){ super.close();}  
+if(super.close()){ super.close();}  
+if(this.next != null){ super.close();}  
+if(super.close){ super.close();}  
+if(super.available()==0){ super.close();}  
+if(super.isAlive()){ super.close();}  
+if(this.listener != null){ super.close();}  
+if(super!=this){ super.close();}  
+if(super.close()==false){ super.close();}  
+if(this.closed){ super.close();}  
+if(super.isClosed(true){ super.close();}  
+if(super.hasNext){ super.close();}  
+if(this.underlying != null){ super.close();}  
+if(this.isClosed){ super.close();}  
+if(super.stream != null){ super.close();}  
+if(super.isAttached()){ super.close();}  
+if(super.size()>0){ super.close();}  
+if(this.writer!=null){ super.close();}  
+if(super instanceof Closeable){ super.close();}  
+if(getSuper() != null){ super.close();}  
+if(true){ super.close();}  
+if( super.isClosed){ super.close();}  
+if(this.writer != null){ super.close();}  
+if(transport != null){ super.close();}  
+if(super.child != null){ super.close();}  
+if(this.open){ super.close();}  
+if(super.getParent() != null){ super.close();}  
+if(super.open()){ super.close();}  
+if(this.connection != null){ super.close();}  
+if(super.close()!=null){ super.close();}  
+if(super.hasParent){ super.close();}  
+if( !super.isClosed){ super.close();}  
+if(super.exists()){ super.close();}  
+if(this.pipe != null){ super.close();}  
+if(open){ super.close();}  
+if(super.isCloseable()){ super.close();}  
+if( !super.isClosed()){ super.close();}  
+if(this.transport!=null){ super.close();}  
+if(super.next()!=null){ super.close();}  
+if(super.getOutputStream() != null){ super.close();}  
+if(this.channel != null){ super.close();}  
+if(filter != null){ super.close();}  
+if(handler != null){ super.close();}  
+if(super.open() == true){ super.close();}  
+if(this.reader != null){ super.close();}  
+if(logger.isDebugEnabled()){ super.close();}  
+if(this.handler != null){ super.close();}  
+if(super.file != null){ super.close();}  
+if( !super.close()){ super.close();}  
+if(child!=null){ super.close();}  
+if(super.open != null){ super.close();}  
+if(child){ super.close();}  
+if(this.base != null){ super.close();}  
+if(super.close!=null){ super.close();}  
+if(super.isReadable()){ super.close();}  
+if(base != null){ super.close();}  
+if( this.parent != null){ super.close();}  
+if(stream != null){ super.close();}  
+if(closed){ super.close();}  
+if(false){ super.close();}  
+if(super.canClose()){ super.close();}  
+if(super.open()==true){ super.close();}  
+if(super.getContent()!=null){ super.close();}  
+if(super.hasNext()){ super.close();}  
+if(super.canClose){ super.close();}  
+if(super.hasParent()){ super.close();}  
+if( super.isOpen){ super.close();}  
+if(super==null){ super.close();}  
+if(super.in != null){ super.close();}  
+if(this.child){ super.close();}  
+if(super.isClosed()==false){ super.close();}  
+if(super.doClose){ super.close();}  
+if(this.listener!=null){ super.close();}  
+if(super.isDirectory()){ super.close();}  
+if(super.next != null){ super.close();}  
+if(parent!= null){ super.close();}  
+if(super.close()==true){ super.close();}  
+if(underlying != null){ super.close();}  
+if(transport!=null){ super.close();}  
+if(proxy!=null){ super.close();}  
+if(super.length()>0){ super.close();}  
+if(this.reader!=null){ super.close();}  
+if( null != super){ super.close();}  
+if(super.isOpen(true){ super.close();}  
+if(this.buffer != null){ super.close();}  
+if(super.getChannel()==null){ super.close();}  
+if(this.input != null){ super.close();}  
+if(delegate!=null){ super.close();}  
+if( !super.closed){ super.close();}  
+if(super.transport != null){ super.close();}  
+if(parent){ super.close();}  
+if(super.getParent()!=null){ super.close();}  
+if(this.socket != null){ super.close();}  
+if(super.isClosed(false){ super.close();}  
+if(super.channel != null){ super.close();}  
+if(this.filter != null){ super.close();}  
+if(super.isWritable()){ super.close();}  
+if(this.child!=null){ super.close();}  
+if(super != NULL){ super.close();}  
+if(super.isConnected()){ super.close();}  
+if(file != null){ super.close();}  
+if(this.resource != null){ super.close();}  
+if(filter!=null){ super.close();}  
+if(this.parent!= null){ super.close();}  
+if(super.read() > 0){ super.close();}  
+if(super.hasChild){ super.close();}  
+if(this.source != null){ super.close();}  
+if( super.open() == false){ super.close();}  
+if(super.next()==null){ super.close();}  
+if(super != this){ super.close();}  
+if( super.close() == true){ super.close();}  
+if(this.proxy != null){ super.close();}  
+if(sub != null){ super.close();}  
+if(super.connected){ super.close();}  
+if(super.stream!=null){ super.close();}  
+if(this.in != null){ super.close();}  
+if(super.getInputStream() != null){ super.close();}  
+if(this.inner != null){ super.close();}  
+if(super.file!=null){ super.close();}  
+if(super.in!=null){ super.close();}  
+if(logger != null){ super.close();}  
+if(listener != null){ super.close();}  
+if( super!= null){ super.close();}  
+if(this.outputStream != null){ super.close();}  
+if( this.super != null){ super.close();}  
+if(this.channel!=null){ super.close();}  
+if(super.hasNext()==false){ super.close();}  
+if(stream!=null){ super.close();}  
+if(tc.isDebugEnabled()){ super.close();}  
+if(debug){ super.close();}  
+if(super.isAlive){ super.close();}  
+if(this.wrapped != null){ super.close();}  
+if(getParent() != null){ super.close();}  
+if(file!=null){ super.close();}  
+if(super.getChannel()!=null){ super.close();}  
+if(log.isDebugEnabled()){ super.close();}  
+if(super.isClosed()){ super.close();}  
+if( this.file != null){ super.close();}  
+if(this.inputStream != null){ super.close();}  
+if(super.!=null){ super.close();}  
+if(super.open() != null){ super.close();}  
+if(super.isOpen() == true){ super.close();}  
+if(this.connection!=null){ super.close();}  
+if(super.isClosed() == true){ super.close();}  
+if(super.isValid()){ super.close();}  
+if(DEBUG){ super.close();}  
+if(super.close() != false){ super.close();}  
+if(this.fd != null){ super.close();}  
+if(this.opener!=null){ super.close();}  
+if(super.read()!=0){ super.close();}  
+if( super.isOpen()==false){ super.close();}  
+if( super.open()){ super.close();}  
+if( super.canClose()){ super.close();}  
+if(super.isUnclosed()){ super.close();}  
+if(super.isActive()){ super.close();}  
+if(super.close()!= null){ super.close();}  
+if(super.canWrite){ super.close();}  
+if( super.close() == null){ super.close();}  
+if(verbose){ super.close();}  
+if( super){ super.close();}  
+if( super.available() > 0){ super.close();}  
+if( super.length() > 0){ super.close();}  
+if( super.close()){ super.close();}  
+if(super.tryClose){ super.close();}  
+if( super.exists()){ super.close();}  
+if(this.file!= null){ super.close();}  
+if(super.isPresent()){ super.close();}  
+if(super.isEmpty()){ super.close();}  
+if(super.canWrite()){ super.close();}  
+if(super.isOpen() != true){ super.close();}  
+if( super.isAlive()){ super.close();}  
+if(isClosed){ super.close();}  
+if( !super.isOpen()){ super.close();}  
+if(getSuper().close() != null){ super.close();}  
+if( super.size() > 0){ super.close();}  
+if(trace){ super.close();}  
+if(super.isOpened()){ super.close();}  
+if(super.available() == 0){ super.close();}  
+if(super.close() != true){ super.close();}  
+if(super.next() != null){ super.close();}  
+if(strict){ super.close();}  
+if(super.isOpen(false){ super.close();}  
+if(super.canClose(true){ super.close();}  
+if(super.isClosed() != true){ super.close();}  
+if(isOpen){ super.close();}  
+if(super.isClosed(true)){ super.close();}  
+if(getSuper().close() == false){ super.close();}  
+if(super.open() != false){ super.close();}  
+if(super.write(buffer){ super.close();}  
+if(super.isCloseable){ super.close();}  
+if(super.hasChild()){ super.close();}  
+if(enabled){ super.close();}  
+if(logger.isTraceEnabled()){ super.close();}  
+if( super.isClosed(true)){ super.close();}  

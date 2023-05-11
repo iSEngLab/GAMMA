@@ -1,0 +1,2500 @@
+ do { ++lo;  
+ while (lo <= hi) { ++lo;  
+ int mid = lo + 1;  
+ do { lo++;;  
+ ++lo;  
+ --lo;  
+ while (lo <= hi) { ++lo;  
+ int lo2 = lo;  
+ while (lo <= hi) { lo++;  
+ do { lo += 1;  
+ int mid = 0;  
+ do { lo += 2;  
+ int mid = hi - 1;  
+ int mid;  
+ do { hi--;;  
+ for;  
+ int mid = lo;  
+;  
+ while (lo < hi) { ++lo;  
+ int i = 0;  
+ while (lo <= hi) {;  
+ do { if (lo == hi) break;  
+ int lo1 = lo;  
+ do { lo = lo * 2;  
+ do { if (lo >= hi) break;  
+ int i;  
+ do { lo++;  
+ do;  
+ int i = lo;  
+ do { hi -= 1;  
+ do { lo = lo + 1;  
+-1;  
+--lo;  
+ for (; lo <= hi; lo++);  
+ -- lo;  
+ ++lo;  
+ int start = lo;  
+ int lo0 = lo;  
+ loop;  
+ int lo = lo + 1;  
+ int mid = lo % 2;  
+ while (lo <= hi) ++lo;  
+ --;  
+ do { assert lo <= hi;  
+ int i = lo + 1;  
+ int lo = 0;  
+ int idx = 0;  
+ int index = 0;  
+ int mid = lo / 2;  
+ int lo2 = 0;  
+ do { hi = lo + 1;  
+ int count = 0;  
+ --lo;  
+ while (lo < hi) { lo++;  
+ for (; lo < hi; lo++);  
+ while (lo <= hi) { lo++;  
+;;  
+ do { lo = hi - 1;  
+ int step = 1;  
+ int len = 0;  
+ do { if (lo <= hi) break;  
+ do { x >>= 1;  
+ ;  
+ do { lo = lo / 2;  
+ while (lo < hi) { ++lo;  
+ while (lo <= hi) { --lo;  
+ int lo2 = lo + 1;  
+ int n = 0;  
+ int l = lo + 1;  
+ int mid = -1;  
+ int j = lo + 1;  
+ int j = 0;  
+ lo += 1;  
+ int depth = 0;  
+ while (lo <= hi) { ...;  
+ int l = 0;  
+ do { hi += 1;  
+ int length = 0;  
+ int index = lo + 1;  
+ do {;  
+ ++ lo;  
+ ;  
+ int low = 0;  
+ i = 0;  
+ for (; lo <= hi; lo++);  
+ -1;  
+ int idx = lo + 1;  
+ while(lo <= hi) { ++lo;  
+ int offset = lo * 2;  
+ int start = lo + 1;  
+++lo;  
+ hi -= 1;  
+ int offset = 0;  
+ while (lo <= hi) {};  
+ int mid = hi;  
+ while (lo <= hi) { ++lo;  
+ do { ++ lo;  
+ do { if (lo > hi) break;  
+ lo += 1;  
+ do { lo = hi + 1;  
+ int mid = lo * 2;  
+ int lo2 = lo - 1;  
+ do { return lo + hi;  
+ int mid = 1;  
+ do { ++lo;  
+ int lo_ = lo;  
+ int k = 0;  
+ --hi;  
+  ++lo;  
+ hi--;;  
+ int lo = hi - 1;  
+ int total = 0;  
+ for;  
+ for ( ; lo <= hi; lo++);  
+ int j = lo;  
+ int low = lo;  
+ int mid = lo + hi;  
+ do { lo = lo*2;  
+ int mid = lo + 2;  
+ do { hi = lo * 2;  
+ int l = lo;  
+ int current = 0;  
+ int low = lo + 1;  
+ int mid = 0;  
+ while(lo <= hi) { ++lo;  
+ int lo_0 = lo;  
+ int mid = lo - 1;  
+ int last = 0;  
+  lo += 1;  
+ i;  
+ int r = 0;  
+ do { hi -= 2;  
+ for (; lo < hi; lo++);  
+ hi += 1;  
+ do { hi >>= 1;  
+ int last = hi - 1;  
+ for (;lo <= hi;lo++);  
+ int lo = lo - 1;  
+ int current = lo;  
+ while (lo < hi) { lo++;  
+ int index = lo;  
+ do { if (lo < hi) break;  
+ do { hi = lo / 2;  
+ do { int mid = lo / 2;  
+ while (lo <= hi) { ++ lo;  
+ do { if (lo == hi) continue;  
+ int mid = lo/2;  
+ char c = 0;  
+ int mid;  
+ while(lo <= hi) { lo++;  
+ int middle = hi - 1;  
+ int start = 0;  
+ int step = 0;  
+ int offset = lo + 1;  
+ while (lo <= hi) { --hi;  
+ do { hi += 2;  
+ while (lo <= hi) continue;  
+ int last = lo;  
+ int lo_1 = lo;  
+ while (lo <= hi) { -- lo;  
+ lo += 2;  
+ int lo2 = lo;  
+ do { --lo;  
+ for(; lo <= hi; lo++);  
+ do { int mid = lo + hi;  
+ int lo; int hi;  
+ int cur = lo;  
+ long l = 0;  
+ do { x = x / 2;  
+ while (lo <= hi) { lo++;;  
+ do { lo += x;  
+ do { assert lo < hi;  
+ while (lo <= hi) { hi--;  
+ int mid = hi - 1;  
+ int lo2 = hi - 1;  
+ int mid = lo;;  
+ while (lo <= hi);  
+ 0;  
+ int mid = hi + 1;  
+ int m = 0;  
+ i = lo;  
+ int lo_mid = lo;  
+ int mid = lo + 1;  
+ int min = 0;  
+ int lo2 = lo % 2;  
+ do { lo = lo + 2;  
+ i = lo + 1;  
+ int hi = lo + 1;  
+ while (lo <= hi) { hi--;;  
+ int middle = lo % 2;  
+ int pos = lo + 1;  
+ int cur = 0;  
+ int lo = lo / 2;  
+ int i = hi - 1;  
+ -- lo;  
+ int start;  
+ int step = 2;  
+ while;  
+ int lo2 = lo;;  
+ i = 0;  
+ int lo=0;  
+ int y = 0;  
+ while (lo < hi) {;  
+ int mid = hi / 2;  
+ do { hi++;;  
+ while (lo <= hi) { ;  
+ int count;  
+ int x = 0;  
+ int lo2 = hi;  
+ int val = 0;  
+ loop for;  
+ do { int mid = lo/2;  
+ do { hi *= 2;  
+ assert lo <= hi;  
+ do { hi--;  
+ int lo = 1;  
+ while(lo <= hi) {;  
+ int sum = 0;  
+ while (lo <= hi) { break;  
+i = 0;  
+ do { return lo;  
+ int i=0;  
+ int index = -1;  
+ while (true) { ++lo;  
+ int i;  
+ int idx = lo * 2;  
+ int first = 0;  
+ while (lo < hi) { --lo;  
+ int lo0 = 0;  
+lo += 1;  
+ do { lo = lo - 1;  
+ int pos = 0;  
+ int lo_offset = lo;  
+ for (;lo < hi;lo++);  
+ int idx = -1;  
+ int next = lo + 1;  
+ do { -- lo;  
+ hi -= 1;  
+ int i = lo;;  
+ int x = x - 1;  
+ int lo_i = lo;  
+ do { x /= 2;  
+ int index = lo;;  
+ do { i++;;  
+ int result = -1;  
+ int max = lo + 1;  
+ int lo1 = 0;  
+ int loNext = lo;  
+ int x0 = x;  
+ int start = lo - 1;  
+ int mid = 0; while (lo <= hi) {  
+ int mid; while (lo <= hi) {  
+ int mid = lo; while (lo <= hi) {  
+ lo += 1; while (lo <= hi) {  
+ int mid = -1; while (lo <= hi) {  
+ int mid = lo + 1; while (lo <= hi) {  
+ int mid = 0; while (lo <= hi) {  
+ int mid = hi - 1; while (lo <= hi) {  
+ int mid = 1; while (lo <= hi) {  
+ lo += 2; while (lo <= hi) {  
+ int i = 0; while (lo <= hi) {  
+ ++lo; while (lo <= hi) {  
+ hi += 1; while (lo <= hi) {  
+ lo += 1; while (lo <= hi) {  
+ lo = 0; while (lo <= hi) {  
+ int idx = 0; while (lo <= hi) {  
+ int lo2 = lo; while (lo <= hi) {  
+ int lo2 = 0; while (lo <= hi) {  
+ hi -= 1; while (lo <= hi) {  
+ do; while (lo <= hi) {  
+ int j = 0; while (lo <= hi) {  
+ int i; while (lo <= hi) {  
+ int lo = 0; while (lo <= hi) {  
+ int mid = hi; while (lo <= hi) {  
+ for; while (lo <= hi) {  
+ while (lo <= hi); while (lo <= hi) {  
+ int mid; while (lo <= hi) {  
+ int index = 0; while (lo <= hi) {  
+; while (lo <= hi) {  
+ int low = 0; while (lo <= hi) {  
+ int l = 0; while (lo <= hi) {  
+ int m = 0; while (lo <= hi) {  
+ hi--;; while (lo <= hi) {  
+ ; while (lo <= hi) {  
+ hi += 2; while (lo <= hi) {  
+ hi = 0; while (lo <= hi) {  
+ -- lo; while (lo <= hi) {  
+ --lo; while (lo <= hi) {  
+ int mid=0; while (lo <= hi) {  
+ while (lo < hi); while (lo <= hi) {  
+ --lo; while (lo <= hi) {  
+ int hi = 0; while (lo <= hi) {  
+ lo += 2; while (lo <= hi) {  
+ lo = 0; while (lo <= hi) {  
+ int middle = 0; while (lo <= hi) {  
+ hi -= 1; while (lo <= hi) {  
+ int lo1 = lo; while (lo <= hi) {  
+ hi--; while (lo <= hi) {  
+ int len = 0; while (lo <= hi) {  
+ --; while (lo <= hi) {  
+ for; while (lo <= hi) {  
+ hi -= 2; while (lo <= hi) {  
+ do { ++lo; while (lo <= hi) {  
+ loop; while (lo <= hi) {  
+ int n = 0; while (lo <= hi) {  
+ ++lo; while (lo <= hi) {  
+ int mid = lo<mask1> ; while (lo <= hi) {  
+ int mid = 2; while (lo <= hi) {  
+ int count = 0; while (lo <= hi) {  
+  lo += 1; while (lo <= hi) {  
+ 0; while (lo <= hi) {  
+ hi += 1; while (lo <= hi) {  
+ hi = 0; while (lo <= hi) {  
+ int lo0 = lo; while (lo <= hi) {  
+ lo = 1; while (lo <= hi) {  
+ lo++; while (lo <= hi) {  
+ int start = lo; while (lo <= hi) {  
+ int i = lo; while (lo <= hi) {  
+ int lo0 = 0; while (lo <= hi) {  
+ i = 0; while (lo <= hi) {  
+ hi = lo + 1; while (lo <= hi) {  
+ int offset = 0; while (lo <= hi) {  
+ 0; while (lo <= hi) {  
+ int mid<mask1> ; while (lo <= hi) {  
+ hi--; while (lo <= hi) {  
+ int mid = -1; while (lo <= hi) {  
+ var mid = 0; while (lo <= hi) {  
+ int mid = lo; while (lo <= hi) {  
+ int min = 0; while (lo <= hi) {  
+ do { lo += 2; while (lo <= hi) {  
+ int length = 0; while (lo <= hi) {  
+ hi--;; while (lo <= hi) {  
+ int step = 1; while (lo <= hi) {  
+ int i=0; while (lo <= hi) {  
+ int lo1 = 0; while (lo <= hi) {  
+; }; while (lo <= hi) {  
+ int idx = -1; while (lo <= hi) {  
+ hi *= 2; while (lo <= hi) {  
+ int pos = 0; while (lo <= hi) {  
+ int mid = 1; while (lo <= hi) {  
+ int r = 0; while (lo <= hi) {  
+  ++lo; while (lo <= hi) {  
+ int depth = 0; while (lo <= hi) {  
+ do { lo++; while (lo <= hi) {  
+ int k = 0; while (lo <= hi) {  
+ int middle; while (lo <= hi) {  
+ int start = 0; while (lo <= hi) {  
+ int i = 0; while (lo <= hi) {  
+ int mid = hi - 1; while (lo <= hi) {  
+ int i = lo + 1; while (lo <= hi) {  
+ int mid = hi + 1; while (lo <= hi) {  
+ do {; while (lo <= hi) {  
+ ++ lo; while (lo <= hi) {  
+ lo++; while (lo <= hi) {  
+ int last = 0; while (lo <= hi) {  
+ int cur = 0; while (lo <= hi) {  
+ int x = 0; while (lo <= hi) {  
+ }; while (lo <= hi) {  
+ int mid = lo / 2; while (lo <= hi) {  
+ int middle = hi - 1; while (lo <= hi) {  
+ int lo=0; while (lo <= hi) {  
+ int j = lo + 1; while (lo <= hi) {  
+ var mid; while (lo <= hi) {  
+ int mid = lo+1; while (lo <= hi) {  
+ int mid = lo - 1; while (lo <= hi) {  
+ int mi = 0; while (lo <= hi) {  
+ int start = lo + 1; while (lo <= hi) {  
+  lo += 2; while (lo <= hi) {  
+ lo += 1<mask1> }; while (lo <= hi) {  
+ i; while (lo <= hi) {  
+ int index = -1; while (lo <= hi) {  
+ --hi; while (lo <= hi) {  
+ int index = lo; while (lo <= hi) {  
+ int i; while (lo <= hi) {  
+ int total = 0; while (lo <= hi) {  
+ int middle = lo + 1; while (lo <= hi) {  
+ int lo_mid = lo; while (lo <= hi) {  
+ int lo2 = 0; while (lo <= hi) {  
+lo += 1; while (lo <= hi) {  
+ int j = lo; while (lo <= hi) {  
+ int mid = lo + 1; while (lo <= hi) {  
+ len = 0; while (lo <= hi) {  
+ int middle = lo; while (lo <= hi) {  
+ Int; while (lo <= hi) {  
+ int i = 1; while (lo <= hi) {  
+ int mid = lo;; while (lo <= hi) {  
+ int max = 0; while (lo <= hi) {  
+ hi++;; while (lo <= hi) {  
+ Loop; while (lo <= hi) {  
+ int mid = 4; while (lo <= hi) {  
+ hi --; while (lo <= hi) {  
+ int lo = 0; while (lo <= hi) {  
+ int mid = 0; while (lo <= hi) {  
+ int left = 0; while (lo <= hi) {  
+ int lo_mid = 0; while (lo <= hi) {  
+ h = 0; while (lo <= hi) {  
+ int first = 0; while (lo <= hi) {  
+ int lo_0 = 0; while (lo <= hi) {  
+   int mid = 0; while (lo <= hi) {  
+ hi += 2; while (lo <= hi) {  
+ length --; while (lo <= hi) {  
+ int found = -1; while (lo <= hi) {  
+ int h = 0; while (lo <= hi) {  
+ int index = lo + 1; while (lo <= hi) {  
+ int lo_0 = lo; while (lo <= hi) {  
+  int mid = 0; while (lo <= hi) {  
+ hi -= 2; while (lo <= hi) {  
+ int next = 0; while (lo <= hi) {  
+ int lo_ = lo; while (lo <= hi) {  
+ int idx = 0; while (lo <= hi) {  
+ int remainder = 0; while (lo <= hi) {  
+ int j=0; while (lo <= hi) {  
+ int idx = lo; while (lo <= hi) {  
+ int lo_offset = 0; while (lo <= hi) {  
+ int mid = 6; while (lo <= hi) {  
+ int mid = hi-1; while (lo <= hi) {  
+ int lo = 1; while (lo <= hi) {  
+  lo = 0; while (lo <= hi) {  
+ 1; while (lo <= hi) {  
+ int m = 1; while (lo <= hi) {  
+ loop:; while (lo <= hi) {  
+ int mid = lo + 2; while (lo <= hi) {  
+ int mid=1; while (lo <= hi) {  
+ int idx = lo + 1; while (lo <= hi) {  
+ int mid = 3; while (lo <= hi) {  
+ do { ++lo; while (lo <= hi) {  
+ start; while (lo <= hi) {  
+ int idx; while (lo <= hi) {  
+ hi = -1; while (lo <= hi) {  
+ lo = 1; while (lo <= hi) {  
+ inclusive; while (lo <= hi) {  
+ int mid = lo * 2; while (lo <= hi) {  
+ i = 0; while (lo <= hi) {  
+ int j = 0; while (lo <= hi) {  
+ lo = lo + 1; while (lo <= hi) {  
+ int current = 0; while (lo <= hi) {  
+ int lo2 = hi; while (lo <= hi) {  
+ int x1 = x; while (lo <= hi) {  
+ end; while (lo <= hi) {  
+ long l = 0; while (lo <= hi) {  
+ int y = 0; while (lo <= hi) {  
+ inclusive; while (lo <= hi) {  
+ int x0 = x; while (lo <= hi) {  
+ hi >>= 1; while (lo <= hi) {  
+ assert lo <= hi; while (lo <= hi) {  
+ ;; while (lo <= hi) {  
+ length = 0; while (lo <= hi) {  
+ char mid = 0; while (lo <= hi) {  
+ int i = -1; while (lo <= hi) {  
+ double mid = 0; while (lo <= hi) {  
+--lo; while (lo <= hi) {  
+ int mid = 8; while (lo <= hi) {  
+ do lo += 2; while (lo <= hi) {  
+ int tmp = 0; while (lo <= hi) {  
+ int mid = 15; while (lo <= hi) {  
+ int mid = lo % 2; while (lo <= hi) {  
+ int lo_1 = lo; while (lo <= hi) {  
+ int j = 1; while (lo <= hi) {  
+ int last = hi - 1; while (lo <= hi) {  
+ int low = lo + 1; while (lo <= hi) {  
+ int index = 0; while (lo <= hi) {  
+ while (++lo < hi; while (lo <= hi) {  
+ hi++; while (lo <= hi) {  
+ do lo++; while (lo <= hi) {  
+ int j; while (lo <= hi) {  
+ int lo_idx = 0; while (lo <= hi) {  
+ lo++; hi--;; while (lo <= hi) {  
+ int mid<mask2> ; while (lo <= hi) {  
+ int num = 0; while (lo <= hi) {  
+ hi = lo + 1; while (lo <= hi) {  
+ int mid=lo+1; while (lo <= hi) {  
+ int lo_index = 0; while (lo <= hi) {  
+  int mid = 0; while (lo <= hi) {  
+ int hi = lo + 1; while (lo <= hi) {  
+ int x0 = 0; while (lo <= hi) {  
+ int mid; while (lo <= hi) {  
+ int lo2 = -1; while (lo <= hi) {  
+ int lo2 = lo; while (lo <= hi) {  
+  }; while (lo <= hi) {  
+   ++lo; while (lo <= hi) {  
+ var mid; while (lo <= hi) {  
+ low:; while (lo <= hi) {  
+ ; while (lo <= hi) {  
+ x = 0; while (lo <= hi) {  
+ lo *= 2; while (lo <= hi) {  
+   int mid = 0; while (lo <= hi) {  
+ char c = 0; while (lo <= hi) {  
+lo = 0; while (lo <= hi) {  
+ int mid = hi / 2; while (lo <= hi) {  
+ int min = 1; while (lo <= hi) {  
+ int idx=0; while (lo <= hi) {  
+  int mid; while (lo <= hi) {  
+ int prev = 0; while (lo <= hi) {  
+ int x = x - 1; while (lo <= hi) {  
+ int l = lo + 1; while (lo <= hi) {  
+ int m = 0; while (lo <= hi) {  
+ int mid = hi; while (lo <= hi) {  
+ int result = 0; while (lo <= hi) {  
+ int w = 0; while (lo <= hi) {  
+ float f = 0; while (lo <= hi) {  
+while (lo <= hi && x >= arr[lo] - 1) {  
+while (lo <= hi && true) {  
+while (lo <= hi && x != 0) {  
+while (lo <= hi - 1<mask1> - 1) {  
+while (lo <= hi && x != arr[lo] - 1) {  
+while (lo <= hi && x > 0) {  
+while (lo <= hi; lo += 2) {  
+while (lo <= hi && x >= 0) {  
+while (lo <= hi && lo < hi - 1) {  
+while (lo <= hi && true<mask1>; lo += 2) {  
+while (lo <= hi && x >= 0<mask1> - 1) {  
+while (lo <= hi && x != arr[lo] --) {  
+while (lo <= hi && x >= 0<mask1>;) {  
+while (lo <= hi && x <= arr[lo] - 1) {  
+while (lo <= hi && x > 0<mask1> - 1) {  
+while (lo <= hi && lo < hi + 1) {  
+while (lo <= hi && hi >= 0<mask1> - 1) {  
+while (lo <= hi && x >= arr[lo] + 1) {  
+while (lo <= hi && lo <= hi + 1) {  
+while (lo <= hi && x > arr[lo] - 1) {  
+while (lo <= hi && x >= arr[lo] --) {  
+while (lo <= hi; lo++) {  
+while (lo <= hi && x != 0<mask1> - 1) {  
+while (lo <= hi; ++lo) {  
+while (lo <= hi - 1) {  
+while (lo <= hi && x < arr[lo] - 1) {  
+while (lo <= hi && true<mask1>; --lo) {  
+while (lo <= hi && true<mask1> > 0) {  
+while (lo <= hi && true<mask1> && true) {  
+while (lo <= hi && true<mask1>; lo++) {  
+while (lo <= hi && true<mask1>) { lo++;) {  
+while (lo <= hi --) {  
+while (lo <= hi && lo < hi - 1<mask1> -1) {  
+while (lo <= hi && x > 0<mask1>;) {  
+while (lo <= hi && hi > 0<mask1> - 1) {  
+while (lo <= hi - 1<mask1> + 1) {  
+while (lo <= hi && x != -1) {  
+while (lo <= hi && lo <= hi - 1) {  
+while (lo <= hi && true<mask1>; lo++)) {  
+while (lo <= hi && i-- > 0) {  
+while (lo <= hi && x >= 0<mask1>; lo += 2) {  
+while (lo <= hi && x != arr[lo] + 1) {  
+while (lo <= hi && lo <= hi + 1<mask1> -1) {  
+while (lo <= hi && x > 0<mask1>; lo += 2) {  
+while (lo <= hi && true<mask1>; ++lo) {  
+while (lo <= hi && x != arr[lo] ++) {  
+while (lo <= hi - 1<mask1> -1) {  
+while (lo <= hi - 1<mask1>; lo += 2) {  
+while (lo <= hi && true<mask1> && lo <= hi) {  
+while (lo <= hi && hi >= 0) {  
+while (lo <= hi && x >= 0<mask1>; --lo) {  
+while (lo <= hi && ++lo < hi) {  
+while (lo <= hi && lo < hi) {  
+while (lo <= hi - 1<mask1> && x != arr[mid) {  
+while (lo <= hi && true<mask1> && false) {  
+while (lo <= hi && x >= 0<mask1>; x -= 1) {  
+while (lo <= hi && true<mask1>) { lo++; }) {  
+while (lo <= hi && true<mask1>--) {  
+while (lo <= hi && x != 0<mask1>;) {  
+while (lo <= hi ^ 1) {  
+while (lo <= hi && true<mask1>) { ++lo;) {  
+while (lo <= hi - 1<mask1>) { lo++;) {  
+while (lo <= hi && x >= arr[lo];) {  
+while (lo <= hi + 1<mask1> -1) {  
+while (lo <= hi && x <= arr[lo] + 1) {  
+while (lo <= hi && lo < hi-1) {  
+while (lo <= hi && x >= 0<mask1>; x >>= 1) {  
+while (lo <= hi && x > 0<mask1> && lo <= hi) {  
+while (lo <= hi && lo <= hi - 1<mask1> -1) {  
+while (lo <= hi && x > 0<mask1>; --lo) {  
+while (lo <= hi && true<mask1> -1) {  
+while (lo <= hi - 1<mask1> && x >= arr[mid) {  
+while (lo <= hi - 1<mask1> && x != 0) {  
+while (lo <= hi && hi-- > 0) {  
+while (lo <= hi && x != arr[lo];) {  
+while (lo <= hi && x >= 0<mask1>; --lo)) {  
+while (lo <= hi && lo < hi + 1<mask1> -1) {  
+while (lo <= hi - 1<mask1> && x != arr[lo) {  
+while (lo <= hi - 1<mask1> && x > arr[mid) {  
+while (lo <= hi && x > lo<mask1> - 1) {  
+while (lo <= hi && true<mask1>;) {  
+while (lo <= hi && x >= arr[lo]; lo++) {  
+while (lo <= hi && i > 0) {  
+while (lo <= hi && x >= arr[lo]; ++lo) {  
+while (lo <= hi; hi += 2) {  
+while (lo <= hi && true; lo += 2) {  
+while (lo <= hi && x < arr[lo] + 1) {  
+while (lo <= hi && x >= 0<mask1> && lo <= hi) {  
+while (lo <= hi; --lo) {  
+while (lo <= hi && x >= 0<mask1>; x /= 2) {  
+while (lo <= hi && x <= arr[hi] - 1) {  
+while (lo <= hi && hi < arr.length<mask1> -1) {  
+while (lo <= hi && lo != 0) {  
+while (lo <= hi && x != 0<mask1> && lo <= hi) {  
+while (lo <= hi - 1<mask1> && x >= arr[lo) {  
+while (lo <= hi && x >= arr[hi] - 1) {  
+while (lo <= hi && true<mask1> --hi) {  
+while (lo <= hi && hi > 0) {  
+while (lo <= hi && x >= 0<mask1>; x--)) {  
+while (lo <= hi && hi != 0<mask1> - 1) {  
+while (lo <= hi && true<mask1>; hi += 2) {  
+while (lo <= hi - 1<mask1>-1) {  
+while (lo <= hi && x <= arr[lo] --) {  
+while (lo <= hi && hi != 0) {  
+while (lo <= hi && x >= arr[lo] && true) {  
+while (lo <= hi - 1<mask1> && lo <= hi) {  
+while (lo <= hi && x != arr[lo]; ++lo) {  
+while (lo <= hi && x >= 0<mask1>-1) {  
+while (lo <= hi && x > lo) {  
+while (lo <= hi && true<mask1>) { if (lo) {  
+while (lo <= hi && x > 0<mask1>; x >>= 1) {  
+while (lo <= hi && hi >= 0<mask1>; lo += 2) {  
+while (lo <= hi && lo < hi - 1<mask1> + 1) {  
+while (lo <= hi && x > 0<mask1>-1) {  
+while (lo <= hi && x >= arr[lo] * 2) {  
+while (lo <= hi || lo == hi - 1) {  
+while (lo <= hi; lo++ ++) {  
+while (lo <= hi && x >= 0<mask1>)) {  
+while (lo <= hi && hi <= arr.length<mask1> -1) {  
+while (lo <= hi >>> 1) {  
+while (lo <= hi >>> 1<mask1> >>> 1) {  
+while (lo <= hi && lo <= hi + 2) {  
+while (lo <= hi); ++lo) {  
+while (lo <= hi && x != 0<mask1>-1) {  
+while (lo <= hi && x != 0<mask1>; lo += 2) {  
+while (lo <= hi && x > arr[lo] --) {  
+while (lo <= hi && x >= 0<mask1>) ;) {  
+while (lo <= hi && x >= 1) {  
+while (lo <= hi; lo++ , hi--) {  
+while (lo <= hi && hi >= 0<mask1>-1) {  
+while (lo <= hi; lo+=2) {  
+while (lo <= hi && x >= arr[lo] ++) {  
+while (lo <= hi && true<mask1> >= 0) {  
+while (lo <= hi && x == arr[lo] - 1) {  
+while (lo <= hi && true; lo++) {  
+while (lo <= hi && lo < hi+1) {  
+while (lo <= hi && arr[lo] != x) {  
+while (lo <= hi && true<mask1>) { lo += 2) {  
+while (lo <= hi && x >= 0<mask1>; x -= 2) {  
+while (lo <= hi-1<mask1> -1) {  
+while (lo <= hi && true<mask1> - 1) {  
+while (lo <= hi && lo < hi<mask1> - 1) {  
+while (lo <= hi - 1<mask1>; lo++) {  
+while (lo <= hi && true<mask1> && x != arr[mid) {  
+while (lo <= hi; lo++, hi += 2) {  
+while (lo <= hi && x >= 0<mask1>) --) {  
+while (lo <= hi - 1<mask1>;) {  
+while (lo <= hi && x-- > 0) {  
+while (lo <= hi && true<mask1>; lo += 1) {  
+while (lo <= hi; lo++ % 2) {  
+while (lo <= hi - 1<mask1>) { lo++; }) {  
+while (lo <= hi && x > 0<mask1>; x -= 1) {  
+while (lo <= hi && hi >= 0<mask1>;) {  
+while (lo <= hi ^ 1<mask1> ^ 1) {  
+while (lo <= hi && true<mask1> && lo < hi) {  
+while (lo <= hi && lo <= hi + 1<mask1> + 1) {  
+while (lo <= hi && x > 0<mask1>; --lo)) {  
+while (lo <= hi && lo < hi + 2) {  
+while (lo <= hi && true<mask1>) { hi--; }) {  
+while (lo <= hi && x > arr[lo] + 1) {  
+while (lo <= hi && true<mask1>) { lo += 1) {  
+while (lo <= hi; lo++, hi++) {  
+while (lo <= hi && i < 4) {  
+while (lo <= hi && lo <= hi + 1<mask1>-1) {  
+while (lo <= hi; lo++ + 1) {  
+while (lo <= hi && x > 0<mask1>; x /= 2) {  
+while (lo <= hi && x > 0<mask1> && lo < hi) {  
+while (lo <= hi);) {  
+while (lo <= hi && false) {  
+while (lo <= hi && true<mask1>; hi = lo + 1) {  
+while (lo <= hi <mask1> ) {  
+while (lo <= hi && y-- > 0) {  
+while (lo <= hi && true<mask1> --lo) {  
+while (lo <= hi && x >= 0<mask1> -1) {  
+while (lo <= hi && x > 0<mask1>; lo++, hi--)) {  
+while (lo <= hi && x >= lo<mask1> - 1) {  
+while (lo <= hi && x >= 0<mask1> + 1) {  
+while (lo <= hi ^ 1<mask1> ^ 2) {  
+while (lo <= hi && hi > 0<mask1>-1) {  
+while (lo <= hi && ++lo <= hi) {  
+while (lo <= hi && lo <= hi + 1<mask1>;) {  
+while (lo <= hi && i--;) {  
+while (lo <= hi - 1<mask1> && hi > lo) {  
+while (lo <= hi && true<mask1>; --hi) {  
+while (lo <= hi && x != 0<mask1> --) {  
+while (lo <= hi && x <= arr[lo] ++) {  
+while (lo <= hi && hi > 0<mask1>; lo += 2) {  
+while (lo <= hi && hi >= 0<mask1>; hi -= 2) {  
+while (lo <= hi && true<mask1> && x != 0) {  
+while (lo <= hi && lo <= hi/2) {  
+while (lo <= hi && i < 2) {  
+while (lo <= hi && x >= 0<mask1>; ++lo)) {  
+while (lo <= hi && i <= j) {  
+while (lo <= hi && hi > -1) {  
+while (lo <= hi + 1<mask1> && x != arr[mid) {  
+while (lo <= hi && true<mask1>; ++lo, ++hi) {  
+while (lo <= hi && lo <= hi + 1<mask1>+1) {  
+while (lo <= hi; hi--) {  
+while (lo <= hi && lo <= hi - 1<mask1> + 1) {  
+while (lo <= hi && lo <= hi-1) {  
+while (lo <= hi && hi < arr.length<mask1>-1) {  
+while (lo <= hi && x > 0<mask1>) ;) {  
+while (lo <= hi && hi != -1) {  
+while (lo <= hi && x >= lo) {  
+while (lo <= hi && x >= arr[lo] || hi --) {  
+while (lo <= hi && x > 1) {  
+while (lo <= hi && x >= 0<mask1>; lo++, hi--)) {  
+while (lo <= hi && x >= 0<mask1>) ++lo; ) {  
+while (lo <= hi - 1<mask1> && x <= arr[mid) {  
+while (lo <= hi && --lo >= 0) {  
+while (lo <= hi && x >= arr[lo]; --lo) {  
+while (lo <= hi && true<mask1> ;) {  
+while (lo <= hi - 1<mask1>) { lo += 1) {  
+while (lo <= hi && x > 0<mask1>; x--)) {  
+while (lo <= hi; lo += 1) {  
+while (lo <= hi && lo <= hi + 1<mask1>; lo++) {  
+while (lo <= hi && i != 0) {  
+while (lo <= hi-1<mask1>-1) {  
+while (lo <= hi && true<mask1> && x >= arr[mid) {  
+while (lo <= hi + 1) {  
+while (lo <= hi && x >= arr[lo]  ;) {  
+while (lo <= hi && true<mask1> != 0) {  
+while (lo <= hi ^ lo<mask1> ^ hi) {  
+while (lo <= hi && true<mask1> && x > arr[mid) {  
+while (lo <= hi -- > 0) {  
+while (lo <= hi) { if (lo < hi) {  
+while (lo <= hi && true<mask1>; lo++, hi--)) {  
+while (lo <= hi && i > 0<mask1>; i--)) {  
+while (lo <= hi && lo < hi + 1<mask1>;) {  
+while (lo <= hi + 1<mask1> && x >= arr[mid) {  
+while (lo <= hi && x != null) {  
+while (lo <= hi && lo < hi - 1<mask1>;) {  
+while (lo <= hi && x >= arr[lo] || hi--) {  
+while (lo <= hi + 1<mask1> && x != arr[lo) {  
+while (lo <= hi && i < j) {  
+while (lo <= hi > 0<mask1> -1) {  
+while (lo <= hi && i >= 0) {  
+while (lo <= hi && true<mask1>--;) {  
+while (lo <= hi && x >= 0<mask1>) { lo++;) {  
+while (lo <= hi ^ 0) {  
+while (lo <= hi && i < 3) {  
+while (lo <= hi - 2) {  
+while (lo <= hi && x >= arr[lo].ordinary) {  
+while (lo <= hi && !loose) {  
+while (lo <= hi && true<mask1>; ++lo, ++hi)) {  
+while (lo <= hi) {  
+while (lo <= hi && lo < hi - 1<mask1>; lo++) {  
+while (lo <= hi) { lo++; } return lo) {  
+while (lo <= hi-- > 0) {  
+while (lo <= hi && x >= 0<mask1>; --lo) {) {  
+while (lo <= hi) {  
+while (lo<mask1>lo <= hi) {  
+while (lo+1 <= hi) {  
+while ( lo <= hi) {  
+while (lo++ <= hi) {  
+while (lo<=x && lo <= hi) {  
+while (lo<mask1>lo<=hi) {  <= hi) {  
+while (lo<mask1>lo <= hi) {  <= hi) {  
+while (lo<mask1>lo<=hi) { <= hi) {  
+while (lo<mask1>hi <= hi) {  
+while (lo<mask1>lo++ <= hi) {  
+while (lo <mask1>lo <= hi) {  
+while (lo<=x && hi <= hi) {  
+while (lo<=x && lo+1 <= hi) {  
+while (lo<mask1>lo <= hi) { <= hi) {  
+while (lo<mask1>lo < hi) {  <= hi) {  
+while (lo<mask1>lo < hi) { <= hi) {  
+while (low<mask1>lo <= hi) {  
+while (lo<mask1>lo<mask2>lo++; <= hi) {  
+while (lo<=x && lo<mask1>hi <= hi) {  
+while (lo<hi && lo <= hi) {  
+while (lo  <= hi) {  
+while (lo<mask1>lo<hi) { <= hi) {  
+while (lo<mask1>lo+1 <= hi) {  
+while (0 <= hi) {  
+while (lo<0 || lo <= hi) {  
+while (lo<=lo && hi <= hi) {  
+while (lo<mask1>lo<mask2>lo++ <= hi) {  
+while (lo<mask1>lo<hi) {  <= hi) {  
+while (lo<mask1>mid <= hi) {  
+while (low <= hi) {  
+while (lo+2 <= hi) {  
+while (lo<=lo && lo <= hi) {  
+while (lo<=hi && lo <= hi) {  
+while (lo<mask1>lo < hi) lo++; <= hi) {  
+while (lo<mask1>lo <= hi) <= hi) {  
+while (low<=lo && low <= hi) {  
+while (lo<mask1>lo<=hi) <= hi) {  
+while (lo>=0 && lo <= hi) {  
+while (lo<mask1>x <= hi) {  
+while (lo-1 <= hi) {  
+while (lo<0 || lo+1 <= hi) {  
+while (lo<0 || lo<mask1>lo <= hi) {  
+while (lo<mask1>lo<=hi) lo++; <= hi) {  
+while (lo<mask1>lo < hi) <= hi) {  
+while (lo<0 || lo<mask1>hi <= hi) {  
+while (lo<=hi && lo<mask1>hi <= hi) {  
+while (0<mask1>lo <= hi) {  
+while (lo<mask1>lo <= hi)  <= hi) {  
+while (lo<=lo && lo+1 <= hi) {  
+while (lo<mask1>lo<=hi)  <= hi) {  
+while (low<=lo && low<mask1>hi <= hi) {  
+while (low+1 <= hi) {  
+while (lo<=hi && lo+1 <= hi) {  
+while (lo<mask1>lo<hi) <= hi) {  
+while (lo + 1 <= hi) {  
+while (lo<=hi && x<mask1>lo <= hi) {  
+while (lo<mask5> } <= hi) {  
+while (lo<mask1>lo<hi) lo++; <= hi) {  
+while (lo<=hi && x <= hi) {  
+while (low<=lo && high <= hi) {  
+while (lo<=hi && 0 <= hi) {  
+while (lo. <= hi) {  
+while (lo<=lo && lo<mask1>hi <= hi) {  
+while (lo <= x && lo <= hi) {  
+while ( lo+1 <= hi) {  
+while (lo < hi && lo <= hi) {  
+while (lo<mask1>lo  <= hi) {  
+while (lo+1<mask1>lo <= hi) {  
+while (lo<=x&&lo <= hi) {  
+while (lo<mask14>} <= hi) {  
+while (lo<mask1>lo < hi)  <= hi) {  
+while (l<mask1>lo <= hi) {  
+while (lo <mask1>lo+1 <= hi) {  
+while (lo<=x || lo+1 <= hi) {  
+while (lo<=x || lo<mask1>hi <= hi) {  
+while (lo<mask1> lo <= hi) {  
+while (lo	 <= hi) {  
+while (lo<mask2>lo <= hi) {  
+while (lo<mask1>lo<=hi) lo++ <= hi) {  
+while (lo<=x&&lo<mask1>hi <= hi) {  
+while (lo<mask1>lo <= hi) lo++; <= hi) {  
+while (lo<mask5>} <= hi) {  
+while (lo<=lo && 0 <= hi) {  
+while (lo<=0 || lo<mask1>hi <= hi) {  
+while (lo<mask3> } <= hi) {  
+while (lo<mask14> } <= hi) {  
+while (lo<=x && lo<mask1>lo <= hi) {  
+while (lo<mask1>lo<mask2>hi-- <= hi) {  
+while (lo<mask1>lo<mask2>lo++) <= hi) {  
+while (lo<mask1>lo<hi)  <= hi) {  
+while ( lo<mask1>lo <= hi) {  
+while (lo!=0 && lo <= hi) {  
+while (lo<mask1>lo<=hi) { <= hi) {  
+while (lo<hi && lo+1 <= hi) {  
+while (low <= lo && low <= hi) {  
+while (lo<=x && hi<mask1>lo <= hi) {  
+while (lo <= x && lo+1 <= hi) {  
+while (lo<mask2>hi <= hi) {  
+while (lo<mask2>lo < hi) lo++; <= hi) {  
+while (LO <= hi) {  
+while (lo<mask1>lo <= hi); <= hi) {  
+while (lo <= x && hi <= hi) {  
+while (lo<=x && 0 <= hi) {  
+while (curlo <= hi) {  
+while (lo<mask1>lo<mask2>hi--; <= hi) {  
+while (true && lo <= hi) {  
+while (lo<mask1>lo<=hi) {} <= hi) {  
+while (lo++; lo <= hi) {  
+while (lo>0 && lo <= hi) {  
+while (lo<hi && 0 <= hi) {  
+while (lo<mask1>lo<=hi); <= hi) {  
+while (lo+x <= hi) {  
+while (lo<=x&&lo+1 <= hi) {  
+while (x<mask1>lo <= hi) {  
+while (lo<mask14> } } <= hi) {  
+while (1 <= hi) {  
+while (lo<x && lo <= hi) {  
+while (lo+0 <= hi) {  
+while (lo<=x||lo<mask1>hi <= hi) {  
+while (lo<=x || lo <= hi) {  
+while (lo<mask1>lo<=hi) {   <= hi) {  
+while (lo<mask1>lo <= hi) { <= hi) {  
+while (lo<mask1>lo<= hi) {  <= hi) {  
+while (lo<mask1>lo >= 0) {  <= hi) {  
+while (Lo <= hi) {  
+while (lo   <= hi) {  
+while (lo<=lo && x <= hi) {  
+while (low <= lo && low<mask1>hi <= hi) {  
+while (la<mask1>lo <= hi) {  
+while (lo<=0 && lo<mask1>hi <= hi) {  
+while (lo<mask1>0 <= hi) {  
+while (lo <= hi && lo <= hi) {  
+while (lo<=0 || lo+1 <= hi) {  
+while (lo< <= hi) {  
+while (lo<mask1>lo<hi) lo++ <= hi) {  
+while (lo+=2 <= hi) {  
+while (lo*2 <= hi) {  
+while (lo<mask1>lo != 0) {  <= hi) {  
+while (lo<=hi && lo<mask1>lo <= hi) {  
+while (lo <mask1>lo  <= hi) {  
+while (lo  <= hi) {  
+while (lo<0 && lo <= hi) {  
+while (lo <= hi && lo+1 <= hi) {  
+while (low<=lo && low<mask1>high <= hi) {  
+while (lo<mask1>x<mask2>lo++; <= hi) {  
+while (lo<=x && mid <= hi) {  
+while (low<=x && high <= hi) {  
+while (lo<hi && x<mask1>lo <= hi) {  
+while (lo+hi <= hi) {  
+while (low<=low && high <= hi) {  
+while (lo&&lo <= hi) {  
+while (lo<mask1>lo<mask2>mid++ <= hi) {  
+while (lo < hi && lo+1 <= hi) {  
+while (lo<=hi && hi <= hi) {  
+while (lo<mask1>lo<mask2>hi++ <= hi) {  
+while (lo<mask1>lo <= hi  <= hi) {  
+while (lo<=i && i <= hi) {  
+while (lo<mask14>} } <= hi) {  
+while (lo<=x&&hi <= hi) {  
+while (lo<mask1>lo+1 < hi <= hi) {  
+while (lo<hi && x <= hi) {  
+while (lo<mask1>lo!=0) {  <= hi) {  
+while (lo<0||lo <= hi) {  
+while (lo<=hi; lo <= hi) {  
+while (lo<=x || lo<mask1>lo <= hi) {  
+while (lo<mask1>lo++) <= hi) {  
+while (lo+=1 <= hi) {  
+while (lo>=0 && lo<mask1>hi <= hi) {  
+while (low<=lo && low+1 <= hi) {  
+while (lo<mask1>lo <= hi) {} <= hi) {  
+while (lo<mask1>lo<=hi) ; <= hi) {  
+while (low<=x && low<mask1>hi <= hi) {  
+while (lo ++ <= hi) {  
+while (mid <= hi) {  
+while (lo <= x && lo<mask1>hi <= hi) {  
+while (lo<mask2>lo <= hi) <= hi) {  
+while (lo<mask1>lo < hi); <= hi) {  
+while (lo<0 && hi<mask1>lo <= hi) {  
+while (lo >= 0 && lo <= hi) {  
+while (lo<mask2>lo <= hi) { <= hi) {  
+while (0<=lo && 0 <= hi) {  
+while (lo<mask1>lo <= hi) {   <= hi) {  
+while (lo<mask1>lo++; <= hi) {  
+while (lo<mask1>lo>=0) {  <= hi) {  
+while (lo<mask1>1 <= hi) {  
+while (lo<=lo&&lo<mask1>hi <= hi) {  
+while (lo<=lo&&hi <= hi) {  
+while (lo<mask2>lo <= hi) lo++; <= hi) {  
+while (lo  <mask1>lo <= hi) {  
+while (lo<hi&&lo <= hi) {  
+while (lo-- <= hi) {  
+while (i<mask1>lo <= hi) {  
+while (lo<=hi&&x<mask1>lo <= hi) {  
+while (lo<=hi && 1 <= hi) {  
+while (lo<mask1>lo <= hi; lo++) <= hi) {  
+while (lo<mask1>lo <= hi); } <= hi) {  
+while (lo<mask9>lo <= hi) {  
+while (lo<mask1>lo<mask2>lo ++ <= hi) {  
+while (lo<mask1>lo < hi  <= hi) {  
+while (lo+ 1 <= hi) {  
+while (lo<mask9>0 <= hi) {  
+while (lo<mask1>lo+1) <= hi) {  
+while (lo<mask1>lo < hi) lo++ <= hi) {  
+while (lo<mask5>} } <= hi) {  
+while (lo<mask1>hi-- <= hi) {  
+while (lo<mask1>lo < hi) { <= hi) {  
+while (lo<mask1>lo+1 <= hi) <= hi) {  
+while (lo<mask1>l <= hi) {  
+while (lo<mask14> } <= hi) {  
+while (val<mask1>lo <= hi) {  
+while (lo<mask1>lo==hi) lo++; <= hi) {  
+while (lo<mask5> } } <= hi) {  
+while (lo && lo <= hi) {  
+while (lo.. <= hi) {  
+while (lou <= hi) {  
+while (lo... <= hi) {  
+while (lo& <= hi) {  
+while (lo <mask1>hi <= hi) {  
+while (lo<mask1>lo  <= hi) {  
+while (lo<mask1>lo	 <= hi) {  
+while (AST#binary_expression#Leftlo <= hi) {  
+while (lo++;lo <= hi) {  
+while (lo<mask2>x <= hi) {  
+while (lo<mask3> } } <= hi) {  
+while (lo<mask9>+1 <= hi) {  
+while (1<mask1>lo <= hi) {  
+while (lo| <= hi) {  
+while (Lo<mask1>lo <= hi) {  
+while (l<mask1>l <= hi) {  
+while (lo0 <= hi) {  
+while (lo<mask1>i <= hi) {  
+while (lo    <= hi) {  
+while (lo|0 <= hi) {  
+while ( lo  <= hi) {  
+while (ilo <= hi) {  
+while (lod <= hi) {  
+while (lg <= hi) {  
+while (loAST#binary_expression#Right <= hi) {  
+while ( lo++ <= hi) {  
+while (i <= hi) {  
+while (lo_ <= hi) {  
+while (x <= hi) {  
+while (lo+ <= hi) {  
+while ( Lo <= hi) {  
+while (5 <= hi) {  
+while ( 0 <= hi) {  
+while (ymin <= hi) {  
+while (los <= hi) {  
+while (false <= hi) {  
+while (lo <=  hi<mask1> hi) {  
+while (lo <=  hi<mask1> x) {  
+while (lo <=  hi<mask1> lo) {  
+while (lo <=  hi<mask1> arr.length) {  
+while (lo <=  hi) {  
+while (lo <=  hi<mask1> i) {  
+while (lo <=  hi<mask1> h) {  
+while (lo <=  hi<mask1> val) {  
+while (lo <=  hi<mask1> high) {  
+while (lo <=  hi<mask1> 0) {  
+while (lo <=  hi<mask1> l) {  
+while (lo <=  hi<mask1> length) {  
+while (lo <=  hi<mask1> 1) {  
+while (lo <=  hi<mask1> max) {  
+while (lo <=  hi<mask1> lo + 1) {  
+while (lo <=  hi<mask1> mid) {  
+while (lo <=  hi<mask14> }) {  
+while (lo <=  hi<mask1> y) {  
+while (lo <=  hi<mask1> n) {  
+while (lo <=  hi<mask1> arr.length;) {  
+while (lo <=  hi<mask1> xmax) {  
+while (lo <=  hi<mask1> idx) {  
+while (lo <=  hi<mask3> }) {  
+while (lo <=  hi<mask1> arr[lo]]) {  
+while (lo <=  hi<mask1> hi - 1) {  
+while (lo <=  hi && x != 0) {  
+while (lo <=  hi<mask1> 2) {  
+while (lo <=  hi - 1<mask1> hi) {  
+while (lo <=  hi<mask1> z) {  
+while (lo <=  hi<mask1> arr) {  
+while (lo <=  hi<mask1> len) {  
+while (lo <=  hi<mask1> width) {  
+while (lo <=  hi<mask1> arr.length ) {  
+while (lo <=  hi<mask2> x) {  
+while (lo <=  hi<mask1> arr[lo])) {  
+while (lo <=  hi<mask1> 8) {  
+while (lo <=  hi<mask1> end) {  
+while (lo <=  hi<mask1> index) {  
+while (lo <=  hi<mask1> num) {  
+while (lo <=  hi && x > 0) {  
+while (lo <=  hi<mask1> j) {  
+while (lo <=  lo<mask1> hi) {  
+while (lo <=  hi<mask1> a) {  
+while (lo <=  hi - 1) {  
+while (lo <=  hi && x >= 0) {  
+while (lo <=  hi<mask1> last) {  
+while (lo <=  hi && true) {  
+while (lo <=  hi<mask1> arr.length)) {  
+while (lo <=  hi<mask1> r) {  
+while (lo <=  x<mask1> hi) {  
+while (lo <=  hi<mask1> floor(x))) {  
+while (lo <=  hi<mask5> }) {  
+while (lo <=  hi<mask1> la) {  
+while (lo <=  hi<mask1> X) {  
+while (lo <=  hi<mask1> 4) {  
+while (lo <=  hi<mask1> w) {  
+while (lo <=  hi<mask1> 16) {  
+while (lo <=  hi<mask1> lo<mask2> hi;) {  
+while (lo <=  hi<mask1> obj) {  
+while (lo <=  hi<mask1> 10) {  
+while (lo <=  hi<mask1> len(arr))) {  
+while (lo <=  hi<mask1> 3) {  
+while (lo <=  hi<mask1> x<mask2> hi;) {  
+while (lo <=  hi<mask1> x<mask2> lo++;) {  
+while (lo <=  hi<mask1> lim) {  
+while (lo <=  hi<mask1>  hi) {  
+while (lo <=  hi<mask1> low) {  
+while (lo <=  hi; lo += 2) {  
+while (lo <=  hi<mask1> x - 1) {  
+while (lo <=  hi<mask1> 32) {  
+while (lo <=  hi<mask1>  arr.length) {  
+while (lo <=  hi<mask1> to) {  
+while (lo <=  hi<mask1> value) {  
+while (lo <=  hi<mask1> depth) {  
+while (lo <=  hi<mask14> } }) {  
+while (lo <=  hi<mask1> 63) {  
+while (lo <=  hi<mask1> pos) {  
+while (lo <=  hi<mask1> arr[hi])) {  
+while (lo <=  hi<mask1> m) {  
+while (lo <=  hi<mask1> lo+1) {  
+while (lo <=  hi<mask1> 31) {  
+while (lo <=  hi<mask1> cl) {  
+while (lo <=  hi<mask14>}) {  
+while (lo <=  hi<mask1> climb) {  
+while (lo <=  hi<mask1> 23) {  
+while (lo <=  hi<mask1> k) {  
+while (lo <=  hi<mask1> elem) {  
+while (lo <=  hi<mask1> cur) {  
+while (lo <=  hi<mask1> 6) {  
+while (lo <=  hi<mask3> } }) {  
+while (lo <= hi<mask1> hi) {  
+while (lo <=  hi<mask1> ra) {  
+while (lo <=  hi<mask1> raf) {  
+while (lo <=  hi<mask1> 15) {  
+while (lo <=  lo + 1<mask1> hi) {  
+while (lo <=  hi<mask1> lo + 2) {  
+while (lo <=  hi<mask1> array_size) {  
+while (lo <=  hi<mask1> p) {  
+while (lo <=  hi<mask1> size) {  
+while (lo <=  hi<mask1> hi; lo++) {  
+while (lo <=  hi<mask1> 9) {  
+while (lo <=  hi && true<mask1> x) {  
+while (lo <=  hi<mask1> q) {  
+while (lo <=  hi<mask14> }) {  
+while (lo <=  hi<mask1> count) {  
+while (lo <=  hi<mask1> 7) {  
+while (lo <=  hi<mask1> t) {  
+while (lo <=  hi<mask1> num_elements) {  
+while (lo <=  hi<mask1> MAX) {  
+while (lo <=  hi<mask1> theta) {  
+while (lo <=  hi; ++lo) {  
+while (lo <=  hi<mask5>}) {  
+while (lo <=  hi<mask1> el) {  
+while (lo <=  hi<mask1> tmp) {  
+while (lo <=  lo && hi >= 0) {  
+while (lo <=  hi<mask1>hi) {  
+while (lo <=  hi<mask1> array.length) {  
+while (lo <=  hi<mask1> ra>>>1;) {  
+while (lo <=  hi<mask1> limit) {  
+while (lo <=  hi<mask1> hi >>> 1) {  
+while (lo <=  hi<mask1> ln) {  
+while (lo <=  hi<mask1> arr[hi]]) {  
+while (lo <=  high<mask1> hi) {  
+while (lo <=  hi<mask2> arr[mid]]) {  
+while (lo <=  hi<mask1> id) {  
+while (lo <=  hi<mask1> nr) {  
+while (lo <=  hi<mask1> long) {  
+while (lo <=  hi<mask1> L) {  
+while (lo <=  hi<mask1> curr) {  
+while (lo <=  hi<mask1> v) {  
+while (lo <=  hi<mask1> arr.length --) {  
+while (lo <=  hi - 1<mask1> x) {  
+while (lo <=  hi<mask1> hi ) {  
+while (lo <=  hi<mask1> 20) {  
+while (lo <=  hi<mask1> xi) {  
+while (lo <=  hi<mask1> middle) {  
+while (lo <=  hi<mask1> hops) {  
+while (lo <=  hi<mask1> clz) {  
+while (lo <=  hi<mask1> arr[mid]]) {  
+while (lo <=  hi<mask1> s) {  
+while (lo <=  hi<mask1> -1) {  
+while (lo <=  hi<mask1> ex) {  
+while (lo <=  hi<mask1> hi; ++lo) {  
+while (lo <=  hi<mask1> level) {  
+while (lo <=  hi<mask1>lo) {  
+while (lo <=  hi<mask1>x) {  
+while (lo <=  hi<mask1> 24) {  
+while (lo <=  hi<mask1> ++lo) {  
+while (lo <=  hi; lo++) {  
+while (lo <=  hi<mask1> x + 1) {  
+while (lo <=  hi<mask1> divisor) {  
+while (lo <=  high<mask1> lo) {  
+while (lo <=  hi - 1<mask1> lo) {  
+while (lo <=  hi<mask1> scale) {  
+while (lo <=  hi<mask1> right) {  
+while (lo <=  h<mask1> hi) {  
+while (lo <=  hi<mask1> xx) {  
+while (lo <=  hi<mask1> al) {  
+while (lo <=  hi<mask1> src) {  
+while (lo <=  hi<mask1> height) {  
+while (lo <=  hi<mask1> hi<mask2> lo++;) {  
+while (lo <=  hi<mask1> sum) {  
+while (lo <=  hi<mask14> } }) {  
+while (lo <=  hi<mask1> lv) {  
+while (lo <=  hi<mask1> e) {  
+while (lo <=  hi<mask1> N) {  
+while (lo <=  hi<mask1> d) {  
+while (lo <=  hi<mask1> total) {  
+while (lo <=  hi<mask1> 64) {  
+while (lo <=  hi<mask1> ac) {  
+while (lo <=  hi<mask1> dim) {  
+while (lo <=  hi<mask1> x<mask2> mid;) {  
+while (lo <=  hi<mask1> hi + 1) {  
+while (lo <=  hi<mask1> seq) {  
+while (lo <=  hi<mask1> 11) {  
+while (lo <=  hi<mask1> objLen) {  
+while (lo <=  lo + 1) {  
+while (lo <=  hi<mask1> arr.length ) {  
+while (lo <=  hi<mask1> thr) {  
+while (lo <=  hi<mask1> 17) {  
+while (lo <=  hi<mask1> median) {  
+while (lo <=  high) {  
+while (lo <=  hi<mask1> 12) {  
+while (lo <=  hi + 1<mask1> hi) {  
+while (lo <=  hi<mask1> hi - 1;) {  
+while (lo <=  hi<mask1> lo ) {  
+while (lo <=  hi<mask1> last(arr))) {  
+while (lo <=  hi<mask1> ra>>>1) {  
+while (lo <=  lo + hi<mask1> hi) {  
+while (lo <=  hi<mask1> arr[lo]];) {  
+while (lo <=  hi<mask1> mask) {  
+while (lo <=  hi<mask1> ch) {  
+while (lo <=  hi<mask1> tx) {  
+while (lo <=  hi<mask1> 5) {  
+while (lo <=  hi && true<mask1> hi) {  
+while (lo <=  hi<mask1> 128) {  
+while (lo <=  hi<mask1> hi-1) {  
+while (lo <=  hi --) {  
+while (lo <=  hi<mask1> x && true;) {  
+while (lo <=  hi<mask1> num_elems) {  
+while (lo <=  hi<mask1> flo) {  
+while (lo <=  hi<mask1> objlen) {  
+while (lo <=  hi<mask1> limiter) {  
+while (lo <=  hi && x != -1) {  
+while (lo <=  hi<mask1> allo) {  
+while (lo <=  hi<mask1> x<mask2> hi ;) {  
+while (lo <=  hi<mask1> floor(lo))) {  
+while (lo <=  hi<mask1> last_index) {  
+while (lo <=  hi<mask1> divides) {  
+while (lo <=  hi<mask1> array_len) {  
+while (lo <=  hi<mask1> hi; lo++)) {  
+while (lo <=  hi<mask1> long(lo))) {  
+while (lo <=  hi<mask1> arr[mid])) {  
+while (lo <=  hi<mask3> }) {  
+while (lo <=  hi<mask1> num_bins) {  
+while (lo <=  hi<mask1> ravel) {  
+while (lo <=  hi<mask1> greatest) {  
+while (lo <=  lo && hi > 0) {  
+while (lo <=  Hi) {  
+while (lo <=  hi<mask1> raft) {  
+while (lo <=  hi<mask1> maxInt) {  
+while (lo <=  hi<mask1> rails) {  
+while (lo <=  hi<mask1> maxint) {  
+while (lo <=  h) {  
+while (lo <=  lo) {  
+while (lo <=  x) {  
+while (lo <=  i) {  
+while (lo <=  xmax) {  
+while (lo <=  mid) {  
+while (lo <= hi) {  
+while (lo <=  10) {  
+while (lo <=  max) {  
+while (lo <=  val) {  
+while (lo <=  1) {  
+while (lo <=  HI) {  
+while (lo <=  end) {  
+while (lo <=  hb) {  
+while (lo <=  limit) {  
+while (lo <=  0) {  
+while (lo <= Hi) {  
+while (lo <=  H) {  
+while (lo <=  8) {  
+while (lo <=  yo) {  
+while (lo <=  height) {  
+while (lo <=  6) {  
+while (lo <=  tgt) {  
+while (lo <=  15) {  
+while (lo <=  z) {  
+while (lo <=  hl) {  
+while (lo <=  20) {  
+if(lo==null){return  -1;} while (lo <= hi) {  
+if(lo==null){return  null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi = null;} while (lo <= hi) {  
+if(lo==null){return -1;} while (lo <= hi) {  
+if(lo==null){return  0;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> -1;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi += 1;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi = 0;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } int mid = 0;} while (lo <= hi) {  
+if(lo==null){return null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { return lo;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { return hi;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo++; hi;} while (lo <= hi) {  
+if(lo==null){return  -1; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo++; };} while (lo <= hi) {  
+if(lo==null){return  -1;<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi--; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi += 1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo++;hi;} while (lo <= hi) {  
+if(lo==null){return  hi<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi = 0;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi++;};} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi--;;} while (lo <= hi) {  
+if(lo==null){return  hi;} while (lo <= hi) {  
+if(lo==null){return  null;} else {hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi = 0;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {return lo;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo++;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi++; };} while (lo <= hi) {  
+if(lo==null){return  null;<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo++; hi;} while (lo <= hi) {  
+if(lo==null){return  -1; } else;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { return lo;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo++;} while (lo <= hi) {  
+if(lo==null){return  hi<mask1> lo; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi--; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo += 1;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi++;};} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi -= 1;} while (lo <= hi) {  
+if(lo==null){return  null; } int mid = 0;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo++;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi++; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi--;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo += 1;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo++;};} while (lo <= hi) {  
+if(lo==null){return  -1<mask1>-1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { ++lo;} while (lo <= hi) {  
+if(lo==null){return  -1; } do { ++lo;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi = 0;} while (lo <= hi) {  
+if(lo==null){return  0<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {return lo;} while (lo <= hi) {  
+if(lo==null){return 0;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo++; };} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo++;hi;} while (lo <= hi) {  
+if(lo==null){return -1<mask1> -1;} while (lo <= hi) {  
+if(lo==null){return  null; } else { return lo; };} while (lo <= hi) {  
+if(lo==null){return  -1<mask1>-1; };} while (lo <= hi) {  
+if(lo==null){return  1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {return hi;} while (lo <= hi) {  
+if(lo==null){return  null; } else { hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo++;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { return 0;} while (lo <= hi) {  
+if(lo==null){return  lo<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1;} int mid = 0;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  null;<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi--;};} while (lo <= hi) {  
+if(lo==null){return  null; } while (lo < hi;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo++;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi--;};} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo++;};} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo++;hi;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi--; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo += 1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi += 1;} while (lo <= hi) {  
+if(lo==null){return  null; } else {return lo; };} while (lo <= hi) {  
+if(lo==null){return -1<mask1>-1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi=null;} while (lo <= hi) {  
+if(lo==null){return  -1; } int mid=0;} while (lo <= hi) {  
+if(lo==null){return  null; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi -= 1;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> -1;} else {;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo += 2;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi--; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo++; };} while (lo <= hi) {  
+if(lo==null){return  -1; } int lo = null;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> hi; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {return lo;;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> lo; };} while (lo <= hi) {  
+if(lo==null){return null<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else;} while (lo <= hi) {  
+if(lo==null){return  -1;<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else {return hi;} while (lo <= hi) {  
+if(lo==null){return -1<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  null;} else {lo++;hi;} while (lo <= hi) {  
+if(lo==null){return  -1; } int lo = 0;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi = 1;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> null;};} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi--;} while (lo <= hi) {  
+if(lo==null){return  -1; } else return lo;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else if(lo){;} while (lo <= hi) {  
+if(lo==null){return  null; } else { return lo + 1;} while (lo <= hi) {  
+if(lo==null){return  -1; } int mid = null;} while (lo <= hi) {  
+if(lo==null){return  hi<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  -2;} while (lo <= hi) {  
+if(lo==null){return  lo; } else {hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi++;} while (lo <= hi) {  
+if(lo==null){return  lo<mask1> hi; };} while (lo <= hi) {  
+if(lo==null){return  null; } else if(hi==null;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi++; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo = 0;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi += 1;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> lo; };} while (lo <= hi) {  
+if(lo==null){return  -1; } int mid = 0;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo++; hi;} while (lo <= hi) {  
+if(lo==null){return  -1; } else if(lo++){;} while (lo <= hi) {  
+if(lo==null){return  null; } int mid = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } return lo;;} while (lo <= hi) {  
+if(lo==null){return  null;} else {hi = 0;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { return hi;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {lo = null;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> 0; };} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> -1; } else {;} while (lo <= hi) {  
+if(lo==null){return  -1;<mask1>-1; };} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo++;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo += 2;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi++;};} while (lo <= hi) {  
+if(lo==null){return  -1;<mask1> lo; };} while (lo <= hi) {  
+if(lo==null){return -1<mask1>-1; };} while (lo <= hi) {  
+if(lo==null){return  null;<mask1> -1;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {return lo;;} while (lo <= hi) {  
+if(lo==null){return  0; } else {hi = null;} while (lo <= hi) {  
+if(lo==null){return -1; } else {hi = null;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi--;;} while (lo <= hi) {  
+if(lo==null){return  lo<mask1> lo; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi++;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { return 1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi--;;} while (lo <= hi) {  
+if(lo==null){return  0<mask1> hi; };} while (lo <= hi) {  
+if(lo==null){return  null<mask1> hi; };} while (lo <= hi) {  
+if(lo==null){return  null; } else { lo += 1;} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo += 1;} while (lo <= hi) {  
+if(lo==null){return  null; } int lo = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else{hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi=null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {int mid;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo++;;} while (lo <= hi) {  
+if(lo==null){return  lo<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {++lo;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi -= 1;} while (lo <= hi) {  
+if(lo==null){return null<mask1> -1; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi --;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi = 1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { hi -= 1;} while (lo <= hi) {  
+if(lo==null){return  null; } do { ++lo;} while (lo <= hi) {  
+if(lo==null){return  0<mask1> 0; };} while (lo <= hi) {  
+if(lo==null){return  -1;};} while (lo <= hi) {  
+if(lo==null){return  -1;} else return lo;;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo += 2;} while (lo <= hi) {  
+if(lo==null){return  null; } while(lo < hi;} while (lo <= hi) {  
+if(lo==null){return  null; } else;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo = null;} while (lo <= hi) {  
+if(lo==null){return  hi<mask1> hi; };} while (lo <= hi) {  
+if(lo==null){return  -1;<mask1> hi; };} while (lo <= hi) {  
+if(lo==null){return  null;} else {return lo; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi += 2;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi++; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else {return 0;} while (lo <= hi) {  
+if(lo==null){return  null; } int mid = -1;} while (lo <= hi) {  
+if(lo==null){return  Long.MAX_VALUE;} while (lo <= hi) {  
+if(lo==null){return  null; } int lo = 0;} while (lo <= hi) {  
+if(lo==null){return  -1;} else{hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } int lo=null;} while (lo <= hi) {  
+if(lo==null){return  -1;} else { hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi = 1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else {hi+=1;} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } while (lo < hi;} while (lo <= hi) {  
+if(lo==null){return -1;} else {hi = null;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { lo = 0;} while (lo <= hi) {  
+if(lo==null){return  null<mask1>-1; };} while (lo <= hi) {  
+if(lo==null){return  -1; } return lo;;} while (lo <= hi) {  
+if(lo==null){return  -1; } if(hi==null;} while (lo <= hi) {  
+if(lo==null){return  null; } else { lo++; };} while (lo <= hi) {  
+if(lo==null){return  -1; } return lo + 1;} while (lo <= hi) {  
+if(lo==null){return  -1; }else{hi = null;} while (lo <= hi) {  
+if(lo==null){return  null;} int mid = 0;} while (lo <= hi) {  
+if(lo==null){return  null;} else {hi++;};} while (lo <= hi) {  
+if(lo==null){return  -1;<mask1> -1; } ;} while (lo <= hi) {  
+if(lo==null){return  null; } else { lo++;} while (lo <= hi) {  
+if(lo==null){return  null; } else { hi = 0;} while (lo <= hi) {  
+if(lo==null){return  0<mask1> null; };} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo = 0;} while (lo <= hi) {  
+if(lo==null){return  null; } int mid=0;} while (lo <= hi) {  
+if(lo==null){return  null; } else { ++lo;} while (lo <= hi) {  
+if(lo==null){return  -1; } do {++lo;} while (lo <= hi) {  
+if(lo==null){return  -1;} return lo;;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> -1;};} while (lo <= hi) {  
+if(lo==null){return 1;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> null; } return lo;;} while (lo <= hi) {  
+if(lo==null){return  null;<mask1> null;;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {lo = 0;} while (lo <= hi) {  
+if(lo==null){return  -1;} else {hi--;} while (lo <= hi) {  
+if(lo==null){return  null; } else { hi--; };} while (lo <= hi) {  
+if(lo==null){return  -1;} else { lo++; };} while (lo <= hi) {  
+if(lo==null){return  -1; } else { int mid;} while (lo <= hi) {  
+if(lo==null){return  -1;<mask1> -1;} while (lo <= hi) {  
+if(lo==null){return  -1; } else { --lo;} while (lo <= hi) {  
+if(lo==null){return  -1; } lo = null;} while (lo <= hi) {  
+if(lo==null){return  null; } else {hi--;};} while (lo <= hi) {  
+if(lo==null){return  -1<mask1>-1;} else {;} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo++;hi++;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> 0; };} while (lo <= hi) {  
+if(lo==null){return  null; } else {int mid = 0;} while (lo <= hi) {  
+if(lo==null){return  null<mask2> mid; };} while (lo <= hi) {  
+if(lo==null){return  NULL;} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo += 2;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1>-1; } else {;} while (lo <= hi) {  
+if(lo==null){return  -1<mask1> lo;;} while (lo <= hi) {  
+if(lo==null){return  null; } else {lo++; hi--;;} while (lo <= hi) {  
+if(lo==null){return  -1; }else;} while (lo <= hi) {  
+if(lo==null){return [];} while (lo <= hi) {  
+if(lo==null){return  -1<mask1>; };} while (lo <= hi) {  
+if(lo==null){return  hi-1;} while (lo <= hi) {  
+if(lo==null){return  0<mask1> lo; };} while (lo <= hi) {  
+if(lo==null){return  null;} else if(hi==null;} while (lo <= hi) {  
+if(lo==null){return   -1;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> null;} while (lo <= hi) {  
+if(lo==null){return  -1 ;;} while (lo <= hi) {  
+if(lo==null){return  -1;;} while (lo <= hi) {  
+if(lo==null){return  null;} while (lo < hi;} while (lo <= hi) {  
+if(lo==null){return  null;} else;} while (lo <= hi) {  
+if(lo==null){return <0;} while (lo <= hi) {  
+if(lo==null){return  hi - 1;} while (lo <= hi) {  
+if(lo==null){return  null; } else if(lo>hi;} while (lo <= hi) {  
+if(lo==null){return  nil;} while (lo <= hi) {  
+if(lo==null){return  null; } else if(lo==hi;} while (lo <= hi) {  
+if(lo==null){return  -1; } while (true);} while (lo <= hi) {  
+if(lo==null){return  -1;} while (lo < hi;} while (lo <= hi) {  
+if(lo==null){return  null; } while (lo <= hi;} while (lo <= hi) {  
+if(lo==null){return  -1;} if(hi==null;} while (lo <= hi) {  
+if(lo==null){return  null<mask1> -1; } return lo;} while (lo <= hi) {  
+if(lo==null){return  +1;} while (lo <= hi) {  
+if(lo==null){return  -1d;} while (lo <= hi) {  
+if(lo==null){ lo=0; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;}; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0<mask2>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length<mask2>0; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return hi; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=null; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else { hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0<mask2>lo; }; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length-1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0 }; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0<mask2>1; }; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi = null; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return lo<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=0 }; } while (lo <= hi) {  
+if(lo==null){ lo=0; } else { hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length - 1; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else { hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} else { hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length-1;}; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1> arr.length; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>arr.length; }; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0<mask2>0; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo+1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1; }; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo + 1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length<mask2>1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi--;; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return hi; } while (lo <= hi) {  
+if(lo==null){ lo=0;} else { hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return hi; } while (lo <= hi) {  
+if(lo==null){ lo=0; } hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return lo<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else{ hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0; } else { hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length<mask2>lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} else{ hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else { hi = null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length;}; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return null; } while (lo <= hi) {  
+if(lo==null){ lo=0} else { hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo<mask1>1; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>0;}; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo<mask1>null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>2; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1> arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=0;}return lo; } while (lo <= hi) {  
+if(lo==null){ lo=2; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask2>0; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0<mask2>hi; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0<mask2>2; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} lo += 1; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>1; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=0} return lo<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1;}; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi-=1; } while (lo <= hi) {  
+if(lo==null){ lo=null<mask1>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=0; } hi = null; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length<mask2>hi; } while (lo <= hi) {  
+if(lo==null){ lo=null<mask1>arr.length; }; } while (lo <= hi) {  
+if(lo==null){ lo=0; } else{ hi=null; } while (lo <= hi) {  
+if(lo==null){ lo= 0; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return lo + 1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi = 0; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length }; } while (lo <= hi) {  
+if(lo==null){ lo=null<mask1>0;}; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length ;}; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return lo<mask1>1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1<mask2>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} else { hi = null; } while (lo <= hi) {  
+if(lo==null){ lo=0;}; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi+=1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return lo+1; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else{ hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=1; } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} lo += 1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} return lo; }; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return lo+1; } while (lo <= hi) {  
+if(lo==null){ lo=null;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} else{ hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi = arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=0} else { hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return hi-1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi -= 1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length ; }; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return lo + 1; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0;}; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length;}; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return lo<mask1>null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length - 1;}; } while (lo <= hi) {  
+if(lo==null){ lo=0; hi=0;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi -= 1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0}; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length*2; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0<mask2>0; } while (lo <= hi) {  
+if(lo==null){ lo=0; } else { hi = null; } while (lo <= hi) {  
+if(lo==null){ lo=1;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1; } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi += 1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>null; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>len; } while (lo <= hi) {  
+if(lo==null){ lo=0;} lo+=1; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return lo<mask1>null; } while (lo <= hi) {  
+if(lo==null){ lo=0} else{ hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=null<mask1>0; } while (lo <= hi) {  
+if(lo==null){ lo=null; } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length; } ; } while (lo <= hi) {  
+if(lo==null){ lo=0} return hi; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask3> }; } while (lo <= hi) {  
+if(lo==null){ lo=0; } else; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length}; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return 0; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>1; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else { hi=0; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi-=1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length; } while; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} return hi; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length;  }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length;} ; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else { hi = 1; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return lo<mask1>1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1<mask2>lo; }; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0<mask2>1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo<mask1>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>2; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0 ; }; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi += 1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} lo += 2; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>0<mask2>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length/2; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>null;}; } while (lo <= hi) {  
+if(lo==null){ lo=0;} lo+=2; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi=0; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length -1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; } return hi; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0;} ; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1> arr.length<mask2>0; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo/2; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1 }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length<mask2>2; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; } while; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return hi - 1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; } hi--;; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>max; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi *= 2; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>0; } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>1; }; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return lo<mask1>hi; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi=arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo; }; } while (lo <= hi) {  
+if(lo==null){ lo=0; } return null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask2>1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} lo+=2; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return -1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi = 1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi = 0; } while (lo <= hi) {  
+if(lo==null){ lo=0;}  return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} lo=1; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>0;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi = null; } while (lo <= hi) {  
+if(lo==null){ lo=0} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0;} else; } while (lo <= hi) {  
+if(lo==null){ lo=0 }return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0<mask2>arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=0 } return null; } while (lo <= hi) {  
+if(lo==null){ lo=0; } else{ hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=0} else{ hi=1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0;} hi--;; } while (lo <= hi) {  
+if(lo==null){ lo=0;}return hi; } while (lo <= hi) {  
+if(lo==null){ lo=0;} return lo<mask1>null; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} return lo;; } while (lo <= hi) {  
+if(lo==null){ lo=0; hi=null;} return lo; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=null; } else { hi=null; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>1<mask2>1; }; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask2>hi; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length<mask2>null; } while (lo <= hi) {  
+if(lo==null){ lo=1<mask1>0 }; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>1<mask2>0; } while (lo <= hi) {  
+if(lo==null){ lo=0 } else; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1> 0; } while (lo <= hi) {  
+if(lo==null){ lo=null<mask1>0<mask2>0; }; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>arr.length; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length<mask2>mid; } while (lo <= hi) {  
+if(lo==null){ lo=null<mask1>1; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0;} lo++; hi++;; } while (lo <= hi) {  
+if(lo==null){ lo=0; hi=0 } return lo; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>arr.length+1;}; } while (lo <= hi) {  
+if(lo==null){ lo=arr.length<mask1>0;} hi--;; } while (lo <= hi) {  
+if(lo==null){ lo=0<mask1>0; } do {; } while (lo <= hi) {  
+if(lo==null){ lo=null<mask3> }; } while (lo <= hi) {  
+if(lo==null){ lo= -1; } while (lo <= hi) {  
+if(lo==null){ lo=0;} while (lo < hi; } while (lo <= hi) {  
+if(lo==null){ lo=4; } while (lo <= hi) {  
+if(lo==null){ lo=10; } while (lo <= hi) {  
+if(lo==null){ lo=0; } while (lo < hi; } while (lo <= hi) {  
+if(lo==null){ lo=null }; } while (lo <= hi) {  
+if(lo==null){ lo=0}; } while (lo <= hi) {  
+if(lo==null){ lo=nil; } while (lo <= hi) {  
+if(lo==null){ lo=NULL; } while (lo <= hi) {  
+if(lo==null){ lo=zero; } while (lo <= hi) {  
+if(lo==null){ lo=3; } while (lo <= hi) {  
+if(lo==null){ lo=0AST#ternary_expression#Right; } while (lo <= hi) {  
+if(lo==null){ lo= 1; } while (lo <= hi) {  
+if(lo==null){ lo=initialValue; } while (lo <= hi) {  
+if(lo==null){ lo=5; } while (lo <= hi) {  
+if(lo==null){ lo=len; } while (lo <= hi) {  
+if(lo==null){ lo=n; } while (lo <= hi) {  
+if(lo==null){ lo=6; } while (lo <= hi) {  
+if(lo==null){ lo=7; } while (lo <= hi) {  
+if(lo==null){ lo=undefined; } while (lo <= hi) {  
+if(lo==null){ lo=Null; } while (lo <= hi) {  
+if(lo==null){ lo=Infinity; } while (lo <= hi) {  
+if(lo==null){ lo=defaultValue; } while (lo <= hi) {  
+if(lo==null){ lo=20; } while (lo <= hi) {  
+if(lo==null){ lo=1000; } while (lo <= hi) {  
+if(lo==null){ lo=11; } while (lo <= hi) {  
+if(lo==null){ lo=8; } while (lo <= hi) {  
+if(lo==null){ lo=12; } while (lo <= hi) {  
+if(lo==null){ lo=max; } while (lo <= hi) {  
+if(lo==null){ lo=val; } while (lo <= hi) {  
+if(lo==null){ lo=start; } while (lo <= hi) {  
+if(lo==null){ lo=MAX; } while (lo <= hi) {  
+if(lo==null){ lo=maxValue; } while (lo <= hi) {  
+if(hi==null){return  -1;} while (lo <= hi) {  
+if(hi==null){return  null;} while (lo <= hi) {  
+if(hi==null){return  0;} while (lo <= hi) {  
+if(hi==null){return -1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo++; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { return hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo++;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo = 0;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> -1;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo++;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { return lo;} while (lo <= hi) {  
+if(hi==null){return  -1; } int mid = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; };} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo++; hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo += 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo += 1;} while (lo <= hi) {  
+if(hi==null){return null;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo++; hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { return 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo++;hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi += 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {return hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi = 0;} while (lo <= hi) {  
+if(hi==null){return  lo<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo += 1;} while (lo <= hi) {  
+if(hi==null){return  null<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo = 0;} while (lo <= hi) {  
+if(hi==null){return 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo++;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo++;};} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo++; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi--;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo++;} while (lo <= hi) {  
+if(hi==null){return  hi<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo++;;} while (lo <= hi) {  
+if(hi==null){return  null;<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  null<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {return hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi--; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo += 2;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {return lo;} while (lo <= hi) {  
+if(hi==null){return  0<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { ++lo;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi += 1;} while (lo <= hi) {  
+if(hi==null){return  lo<mask1> lo; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi--;;} while (lo <= hi) {  
+if(hi==null){return  null; } int mid = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo++; };} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  -1; } do { ++lo;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1>-1;} while (lo <= hi) {  
+if(hi==null){return  null; } else { return lo; };} while (lo <= hi) {  
+if(hi==null){return  -1;} int mid = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo++;};} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo += 2;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo++;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi -= 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { hi--; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo += 2;} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo++;hi;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo++;hi;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {return lo;} while (lo <= hi) {  
+if(hi==null){return  null; } else { lo = 0;} while (lo <= hi) {  
+if(hi==null){return  null;<mask1> null;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { hi = 0;} while (lo <= hi) {  
+if(hi==null){return  1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {return 0;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { lo++; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi--;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {return lo;;} while (lo <= hi) {  
+if(hi==null){return  null;<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi = null;} while (lo <= hi) {  
+if(hi==null){return  hi<mask1> lo; };} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> hi; };} while (lo <= hi) {  
+if(hi==null){return  lo<mask1> hi; };} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> hi; };} while (lo <= hi) {  
+if(hi==null){return  null;} else {lo = 0;} while (lo <= hi) {  
+if(hi==null){return -1<mask1> -1;} while (lo <= hi) {  
+if(hi==null){return  null; };} while (lo <= hi) {  
+if(hi==null){return  -1; } int mid=0;} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1>-1; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo = hi;} while (lo <= hi) {  
+if(hi==null){return  null; } else { lo += 1;} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> -1;} while (lo <= hi) {  
+if(hi==null){return  lo<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo = null;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1>-1; };} while (lo <= hi) {  
+if(hi==null){return  hi<mask1> hi; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo++; hi;} while (lo <= hi) {  
+if(hi==null){return  0<mask1> 0; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo = 1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {return lo; };} while (lo <= hi) {  
+if(hi==null){return  -1;;} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> lo; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { hi++; };} while (lo <= hi) {  
+if(hi==null){return  null;<mask1> -1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo += 1;} while (lo <= hi) {  
+if(hi==null){return  -2;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi++; };} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { hi += 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi++;};} while (lo <= hi) {  
+if(hi==null){return  -1;} else {return 0;} while (lo <= hi) {  
+if(hi==null){return  null;} else {lo++;hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } int lo = 0;} while (lo <= hi) {  
+if(hi==null){return  0<mask1> hi; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi -= 1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {hi = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { return hi;} while (lo <= hi) {  
+if(hi==null){return -1<mask1>-1;} while (lo <= hi) {  
+if(hi==null){return  -1;};} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo = null;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi--; };} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> 0; };} while (lo <= hi) {  
+if(hi==null){return  null; } else { lo++; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else {int mid;} while (lo <= hi) {  
+if(hi==null){return  hi<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi--;};} while (lo <= hi) {  
+if(hi==null){return  lo;} while (lo <= hi) {  
+if(hi==null){return  -1;} else{lo++;;} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> -1; } ;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi--;};} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo=0;} while (lo <= hi) {  
+if(hi==null){return  -1; } int mid = 0;} while (lo <= hi) {  
+if(hi==null){return  -1;} else;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo = 1;} while (lo <= hi) {  
+if(hi==null){return  hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else return 0;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> -1;} else {;} while (lo <= hi) {  
+if(hi==null){return  -1; } return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> 0; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi++;};} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> hi;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi++;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { return hi;;} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> lo;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo = null;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi += 2;} while (lo <= hi) {  
+if(hi==null){return  null; } while (lo < hi;} while (lo <= hi) {  
+if(hi==null){return  -1; }else{lo++;;} while (lo <= hi) {  
+if(hi==null){return  -1;}else{lo++;;} while (lo <= hi) {  
+if(hi==null){return  null; } else {hi--; };} while (lo <= hi) {  
+if(hi==null){return  lo; } else { return hi;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> lo;;} while (lo <= hi) {  
+if(hi==null){return  -1 ;;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi--;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> lo; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { hi = null;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo ++;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { lo += 1;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { return lo;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {++lo;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { return 1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo = hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo ++;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi = null;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo = 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { int mid;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { lo = hi;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo = hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else{lo++;;} while (lo <= hi) {  
+if(hi==null){return -1<mask1> -1; };} while (lo <= hi) {  
+if(hi==null){return [];} while (lo <= hi) {  
+if(hi==null){return  -1; } else { return -1;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo = null;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { --lo;} while (lo <= hi) {  
+if(hi==null){return  null; } else {hi += 1;} while (lo <= hi) {  
+if(hi==null){return  -1; }else{lo = 0;} while (lo <= hi) {  
+if(hi==null){return  0<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  -1; } else { hi--;;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> null;;} while (lo <= hi) {  
+if(hi==null){return  -1<mask1> -1; } else {;} while (lo <= hi) {  
+if(hi==null){return  null; } while(lo < hi;} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo += 2;} while (lo <= hi) {  
+if(hi==null){return   -1;} while (lo <= hi) {  
+if(hi==null){return  Long.MAX_VALUE;} while (lo <= hi) {  
+if(hi==null){return  lo;;} while (lo <= hi) {  
+if(hi==null){return  null;} else {lo += 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi --;} while (lo <= hi) {  
+if(hi==null){return -1; } else { return lo;} while (lo <= hi) {  
+if(hi==null){return  null; } else { lo++;} while (lo <= hi) {  
+if(hi==null){return  lo; } else { return hi; };} while (lo <= hi) {  
+if(hi==null){return  null; } else { lo = null;} while (lo <= hi) {  
+if(hi==null){return  null; } else { return lo + 1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {hi--;;} while (lo <= hi) {  
+if(hi==null){return  lo; } else {hi = null;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {int mid;} while (lo <= hi) {  
+if(hi==null){return  0; } else {lo = 0;} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1> null;} while (lo <= hi) {  
+if(hi==null){return  -1;} else return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { hi -= 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } else{lo = 0;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { return 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } while(lo < hi;} while (lo <= hi) {  
+if(hi==null){return -1;} else {lo++;;} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo++;} while (lo <= hi) {  
+if(hi==null){return  -1; }else;} while (lo <= hi) {  
+if(hi==null){return  -1; } lo = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } int mid = hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } while (lo < hi;} while (lo <= hi) {  
+if(hi==null){return  lo<mask1> -1;;} while (lo <= hi) {  
+if(hi==null){return  -1; } return lo;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { lo = 0;} while (lo <= hi) {  
+if(hi==null){return  0; } else { return hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo++; ;} while (lo <= hi) {  
+if(hi==null){return  lo; } else {hi = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } int mid = null;} while (lo <= hi) {  
+if(hi==null){return  null;<mask1> 0; };} while (lo <= hi) {  
+if(hi==null){return  null<mask1> null;};} while (lo <= hi) {  
+if(hi==null){return -1; } else {lo++;;} while (lo <= hi) {  
+if(hi==null){return  -1;<mask1>; };} while (lo <= hi) {  
+if(hi==null){return  lo; } else {return hi;} while (lo <= hi) {  
+if(hi==null){return  -1;} else {hi += 2;} while (lo <= hi) {  
+if(hi==null){return  lo<mask1> -1;} while (lo <= hi) {  
+if(hi==null){return  null;} else {return lo; };} while (lo <= hi) {  
+if(hi==null){return  0<mask1> lo; };} while (lo <= hi) {  
+if(hi==null){return  null; } int mid = -1;} while (lo <= hi) {  
+if(hi==null){return  null;} int mid = 0;} while (lo <= hi) {  
+if(hi==null){return  lo; } else { return lo + 1;} while (lo <= hi) {  
+if(hi==null){return  -1; } int mid;} while (lo <= hi) {  
+if(hi==null){return  -1;} else{lo = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {lo+=1;} while (lo <= hi) {  
+if(hi==null){return null<mask1> null; };} while (lo <= hi) {  
+if(hi==null){return  -1;} else {lo=0;} while (lo <= hi) {  
+if(hi==null){return  -1;} else return 0;} while (lo <= hi) {  
+if(hi==null){return AST#unary_expression#Left-1AST#unary_expression#Right;} while (lo <= hi) {  
+if(hi==null){return  -1;} return lo;;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {--lo;} while (lo <= hi) {  
+if(hi==null){return -1<mask1>-1; };} while (lo <= hi) {  
+if(hi==null){return  nil;} while (lo <= hi) {  
+if(hi==null){return  -1;} else { lo++; hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else { --hi;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi-=1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {int mid = 0;} while (lo <= hi) {  
+if(hi==null){return  -1; } else {hi+=1;} while (lo <= hi) {  
+if(hi==null){return  null; } do { ++lo;} while (lo <= hi) {  
+if(hi==null){return  lo+1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {hi -= 1;} while (lo <= hi) {  
+if(hi==null){return  null; } else {lo++;;} while (lo <= hi) {  
+if(hi==null){ hi=0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length; }; } while (lo <= hi) {  
+if(hi==null){ hi=1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0; }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0;}; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0; }; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0;}; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0;} ; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0<mask2>0; }; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length-1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length - 1; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return hi; } while (lo <= hi) {  
+if(hi==null){ hi=0; } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>len; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>arr.length; }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>hi; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1> arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0 }; } while (lo <= hi) {  
+if(hi==null){ hi=0 } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0<mask2>lo; }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>1; }; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0 }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>lo; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>2; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0<mask2>1; }; } while (lo <= hi) {  
+if(hi==null){ hi=len; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>len; } while (lo <= hi) {  
+if(hi==null){ hi=2; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>1<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length<mask2>1; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo + 1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1> arr.length; }; } while (lo <= hi) {  
+if(hi==null){ hi=0; } return hi; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0 }; } while (lo <= hi) {  
+if(hi==null){ hi=null; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>2; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length<mask2>hi; } while (lo <= hi) {  
+if(hi==null){ hi=null<mask1>arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0;} lo = 0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0 ;}; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length - 1<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0 } return hi; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo=1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length<mask2>lo; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0 ; }; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0<mask2>2; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo+1; } while (lo <= hi) {  
+if(hi==null){ hi=0;}; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length-1<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=0; } return lo<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0;} ; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>null; }; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0;} return lo; } while (lo <= hi) {  
+if(hi==null){ hi=null<mask1>arr.length; }; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>0;}; } while (lo <= hi) {  
+if(hi==null){ hi=0 } return lo<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length*2; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0;}  ; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length;}; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>1; }; } while (lo <= hi) {  
+if(hi==null){ hi=0; } return lo + 1; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo = 1; } while (lo <= hi) {  
+if(hi==null){ hi=0; } lo = 0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>2; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length*2; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0<mask2>hi; }; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>length; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo=0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length;}; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>null; } while (lo <= hi) {  
+if(hi==null){ hi=1; } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=0;} lo=0; } while (lo <= hi) {  
+if(hi==null){ hi=0;} lo += 1; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo = 0; } while (lo <= hi) {  
+if(hi==null){ hi=0;}return lo; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0}; } while (lo <= hi) {  
+if(hi==null){ hi=0 } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length<mask2>2; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length ;}; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0;} return lo; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>array.length; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return hi-1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length}; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return 0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0; } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>min; } while (lo <= hi) {  
+if(hi==null){ hi= arr.length<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length ; }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>1<mask2>1; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>0; }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1> arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0;} lo=1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0;} lo += 1; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return hi<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0 } return lo + 1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0;} return hi; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length;} ; } while (lo <= hi) {  
+if(hi==null){ hi=null<mask1>0;}; } while (lo <= hi) {  
+if(hi==null){ hi=3; } while (lo <= hi) {  
+if(hi==null){ hi= arr.length<mask1>0; }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length -1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length - 1; } while (lo <= hi) {  
+if(hi==null){ hi=0} else { lo=1; } while (lo <= hi) {  
+if(hi==null){ hi=len<mask1>len; } while (lo <= hi) {  
+if(hi==null){ hi=0; } return lo+1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length-1; } while (lo <= hi) {  
+if(hi==null){ hi=len<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0;} else { lo=1; } while (lo <= hi) {  
+if(hi==null){ hi=0} return lo; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>length; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length }; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>arr.length-1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0;}; } while (lo <= hi) {  
+if(hi==null){ hi=0; }; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>arr.length<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo<mask1>1; } while (lo <= hi) {  
+if(hi==null){ hi=0;} lo = 1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask3> }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>array.length; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>max; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0AST#assignment_expression#Right }; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>x; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length; } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=10; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo=null; } while (lo <= hi) {  
+if(hi==null){ hi=0;} else { lo = 0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>null; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>mid; } while (lo <= hi) {  
+if(hi==null){ hi=4; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1> arr.length<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=null<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0<mask2>arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0; } lo=0; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return hi - 1; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>arr.length - 1; } while (lo <= hi) {  
+if(hi==null){ hi=1000; } while (lo <= hi) {  
+if(hi==null){ hi= 0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>max; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>1;}; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0 ; }; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo += 1; } while (lo <= hi) {  
+if(hi==null){ hi=len<mask1>0;}; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length -1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=0;} else { lo=0; } while (lo <= hi) {  
+if(hi==null){ hi=null;} return lo; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length+1; } while (lo <= hi) {  
+if(hi==null){ hi=0;} else { lo = 1; } while (lo <= hi) {  
+if(hi==null){ hi=0;}return hi; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo+=1; } while (lo <= hi) {  
+if(hi==null){ hi=12; } while (lo <= hi) {  
+if(hi==null){ hi=0;} int mid = 0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0}; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2>arr; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length/2; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>null;}; } while (lo <= hi) {  
+if(hi==null){ hi=length<mask1>0;}; } while (lo <= hi) {  
+if(hi==null){ hi=0} return lo<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=5; } while (lo <= hi) {  
+if(hi==null){ hi= arr.length<mask1>arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0 ;}; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0<mask2> 0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>3; } while (lo <= hi) {  
+if(hi==null){ hi=null<mask1>0; }; } while (lo <= hi) {  
+if(hi==null){ hi=0; } return 0; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo = null; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length-1<mask1>1; } while (lo <= hi) {  
+if(hi==null){ hi=0;} int lo = 0; } while (lo <= hi) {  
+if(hi==null){ hi=null; } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>1<mask2>hi; } while (lo <= hi) {  
+if(hi==null){ hi= arr.length<mask1>0<mask2>0; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length - 1<mask1>1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>null; }; } while (lo <= hi) {  
+if(hi==null){ hi=0;}  return lo; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>0;} else; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return -1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length<mask2>mid; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else { lo++; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo/2; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>1<mask2>lo; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0; } return hi; } while (lo <= hi) {  
+if(hi==null){ hi=array.length<mask1>0; }; } while (lo <= hi) {  
+if(hi==null){ hi=minLength; } while (lo <= hi) {  
+if(hi==null){ hi=array.length; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return null; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>null; } while (lo <= hi) {  
+if(hi==null){ hi=1000000; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>arr.length} ; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length/2; } while (lo <= hi) {  
+if(hi==null){ hi=undefined; } while (lo <= hi) {  
+if(hi==null){ hi=1;} return lo; } while (lo <= hi) {  
+if(hi==null){ hi=array.length<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0} else { lo=0; } while (lo <= hi) {  
+if(hi==null){ hi=0; } int mid = 0; } while (lo <= hi) {  
+if(hi==null){ hi=0; } else; } while (lo <= hi) {  
+if(hi==null){ hi=length<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi=0 } else{ lo=1; } while (lo <= hi) {  
+if(hi==null){ hi=0} else { lo = 1; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask2>1; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>1;}; } while (lo <= hi) {  
+if(hi==null){ hi=0}; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>size; } while (lo <= hi) {  
+if(hi==null){ hi=0} return hi<mask1>0; } while (lo <= hi) {  
+if(hi==null){ hi= arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0 } return lo+1; } while (lo <= hi) {  
+if(hi==null){ hi=0 ; } return lo; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>4; } while (lo <= hi) {  
+if(hi==null){ hi=len<mask1>0; }; } while (lo <= hi) {  
+if(hi==null){ hi= 0<mask1>arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1> arr.length - 1; } while (lo <= hi) {  
+if(hi==null){ hi=0;} return lo<mask1>null; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>0;} ; } while (lo <= hi) {  
+if(hi==null){ hi=0;} int mid = 0; } while (lo <= hi) {  
+if(hi==null){ hi=0;} hi += 1; } while (lo <= hi) {  
+if(hi==null){ hi=0AST#ternary_expression#Right; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>Arr.length; } while (lo <= hi) {  
+if(hi==null){ hi=arr.length<mask1>null;}; } while (lo <= hi) {  
+if(hi==null){ hi=n; } while (lo <= hi) {  
+if(hi==null){ hi=1<mask1>2; } while (lo <= hi) {  
+if(hi==null){ hi=nil; } while (lo <= hi) {  
+if(hi==null){ hi=0} return hi; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>max; } while (lo <= hi) {  
+if(hi==null){ hi=0 } return 0; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1>1000000; } while (lo <= hi) {  
+if(hi==null){ hi=8; } while (lo <= hi) {  
+if(hi==null){ hi=0 }return lo; } while (lo <= hi) {  
+if(hi==null){ hi=length; } while (lo <= hi) {  
+if(hi==null){ hi=6; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask1> 0; } while (lo <= hi) {  
+if(hi==null){ hi=initialValue; } while (lo <= hi) {  
+if(hi==null){ hi=arrlen; } while (lo <= hi) {  
+if(hi==null){ hi=0<mask2>hi; } while (lo <= hi) {  
+if(arr != null){ while (lo <= hi) {}  
+if(x != 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo < hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>x){ while (lo <= hi) {}  
+if(x >= 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo < hi){ while (lo <= hi) {}  
+if(arr!=null){ while (lo <= hi) {}  
+if(x > 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo <= hi){ while (lo <= hi) {}  
+if(arr.length > 0){ while (lo <= hi) {}  
+if(lo < hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo <= hi){ while (lo <= hi) {}  
+if(x < 0){ while (lo <= hi) {}  
+if(x!=0){ while (lo <= hi) {}  
+if(hi > 0){ while (lo <= hi) {}  
+if(x < arr[lo]){ while (lo <= hi) {}  
+if(x == 0){ while (lo <= hi) {}  
+if(true){ while (lo <= hi) {}  
+if(arr.length >= 2){ while (lo <= hi) {}  
+if(x>=0){ while (lo <= hi) {}  
+if(lo >= 0){ while (lo <= hi) {}  
+if(lo < hi<mask1> x){ while (lo <= hi) {}  
+if(x<0){ while (lo <= hi) {}  
+if(x != -1){ while (lo <= hi) {}  
+if(lo <= hi<mask1> x){ while (lo <= hi) {}  
+if(hi > 0<mask1>lo < hi){ while (lo <= hi) {}  
+if( arr != null){ while (lo <= hi) {}  
+if(lo < 0){ while (lo <= hi) {}  
+if(x < 0<mask1>lo < hi){ while (lo <= hi) {}  
+if(arr == null){ while (lo <= hi) {}  
+if(hi > 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(x != 0<mask1>lo < hi){ while (lo <= hi) {}  
+if(lo <= hi){ while (lo <= hi) {}  
+if(arr.length != 0){ while (lo <= hi) {}  
+if(debug){ while (lo <= hi) {}  
+if(x != 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(x >= 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo > 0){ while (lo <= hi) {}  
+if(lo != 0){ while (lo <= hi) {}  
+if(x==0){ while (lo <= hi) {}  
+if(x <= arr[lo]){ while (lo <= hi) {}  
+if(x >= 0<mask1>lo < hi){ while (lo <= hi) {}  
+if(hi >= 0){ while (lo <= hi) {}  
+if(hi != 0){ while (lo <= hi) {}  
+if(lo<=hi<mask1>x){ while (lo <= hi) {}  
+if(hi > lo<mask1>x){ while (lo <= hi) {}  
+if(x>0){ while (lo <= hi) {}  
+if(verbose){ while (lo <= hi) {}  
+if(x != null){ while (lo <= hi) {}  
+if(lo <= hi<mask1>y){ while (lo <= hi) {}  
+if(arr.length < 2){ while (lo <= hi) {}  
+if(i > 0){ while (lo <= hi) {}  
+if(x == arr[lo]){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x > 0){ while (lo <= hi) {}  
+if(lo < hi<mask1>x)){ while (lo <= hi) {}  
+if(x == 0<mask1>lo < hi){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x != 0){ while (lo <= hi) {}  
+if(x < 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(null != arr<mask1>null != arr){ while (lo <= hi) {}  
+if(x >= arr[lo]){ while (lo <= hi) {}  
+if(x == 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>y){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x <= hi){ while (lo <= hi) {}  
+if(arr != null<mask1>arr != null){ while (lo <= hi) {}  
+if(hi > lo<mask1>lo < hi){ while (lo <= hi) {}  
+if(x > 0<mask1>lo < hi){ while (lo <= hi) {}  
+if(x >= lo){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo > 0){ while (lo <= hi) {}  
+if(x > 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo <= hi<mask1>arr != null){ while (lo <= hi) {}  
+if(arr.length > 0<mask1>x){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo<hi){ while (lo <= hi) {}  
+if(DEBUG){ while (lo <= hi) {}  
+if(lo<hi<mask1>x){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x >= 0){ while (lo <= hi) {}  
+if(arr !=null){ while (lo <= hi) {}  
+if(lo < hi<mask1>arr.length){ while (lo <= hi) {}  
+if(arr.length<mask1>lo < hi){ while (lo <= hi) {}  
+if(x <= 0){ while (lo <= hi) {}  
+if(arr[lo] == x){ while (lo <= hi) {}  
+if(arr.length > 1){ while (lo <= hi) {}  
+if( arr.length > 0){ while (lo <= hi) {}  
+if(arr.length<mask1>lo <= hi){ while (lo <= hi) {}  
+if(arr.length > 2){ while (lo <= hi) {}  
+if(lo <= 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x)){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo >= 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>hi > 0){ while (lo <= hi) {}  
+if(x < arr[0]){ while (lo <= hi) {}  
+if(hi > 0<mask1>x){ while (lo <= hi) {}  
+if(false<mask1>true){ while (lo <= hi) {}  
+if(x<=0){ while (lo <= hi) {}  
+if(lo == 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo != 0){ while (lo <= hi) {}  
+if(false){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo+1){ while (lo <= hi) {}  
+if(hi > lo<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>arr != null){ while (lo <= hi) {}  
+if(arr==null){ while (lo <= hi) {}  
+if(hi >= 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo >= 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>arr[lo]]){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo > 0){ while (lo <= hi) {}  
+if(hi>0){ while (lo <= hi) {}  
+if(debug<mask1>debug){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo<=hi){ while (lo <= hi) {}  
+if(arr[lo] != 0){ while (lo <= hi) {}  
+if(arr.length == 0){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo<=hi){ while (lo <= hi) {}  
+if(hi >= 0<mask1>lo < hi){ while (lo <= hi) {}  
+if(arr != nil){ while (lo <= hi) {}  
+if(sorted){ while (lo <= hi) {}  
+if(lo < hi<mask1>hi > 0){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo < hi )){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo != 0){ while (lo <= hi) {}  
+if(lo < hi<mask1>arr[lo]]){ while (lo <= hi) {}  
+if(x != arr[lo]){ while (lo <= hi) {}  
+if(lo < hi<mask1>x > 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x!=0){ while (lo <= hi) {}  
+if(hi != 0<mask1>lo < hi){ while (lo <= hi) {}  
+if(x <= hi<mask1>lo < hi){ while (lo <= hi) {}  
+if(lo <= hi<mask1>arr.length){ while (lo <= hi) {}  
+if(lo < hi<mask1> lo++; }){ while (lo <= hi) {}  
+if(lo <= hi<mask1>0 <= x){ while (lo <= hi) {}  
+if(x!=null){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo < hi){){ while (lo <= hi) {}  
+if( x != 0){ while (lo <= hi) {}  
+if(lo < hi<mask1>x>0){ while (lo <= hi) {}  
+if(lo > hi<mask1>lo < hi){ while (lo <= hi) {}  
+if(x <= hi<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo == 0){ while (lo <= hi) {}  
+if(h > 0){ while (lo <= hi) {}  
+if(arr.length == 2){ while (lo <= hi) {}  
+if(x < arr.length<mask1>x){ while (lo <= hi) {}  
+if(hi == 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo == 0){ while (lo <= hi) {}  
+if(isfloor(x)){ while (lo <= hi) {}  
+if(arr[lo]!=0){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo < hi }){ while (lo <= hi) {}  
+if(arr > 0){ while (lo <= hi) {}  
+if(i >= 0){ while (lo <= hi) {}  
+if(arr[lo]!=null){ while (lo <= hi) {}  
+if(hi < 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x>0){ while (lo <= hi) {}  
+if(x < arr[lo] + 1){ while (lo <= hi) {}  
+if(x >= 1){ while (lo <= hi) {}  
+if(lo <= hi<mask1> x != 0){ while (lo <= hi) {}  
+if(lo < hi<mask1> arr.length){ while (lo <= hi) {}  
+if(y > 0){ while (lo <= hi) {}  
+if(x < arr[lo] - 1){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo<hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo + 1){ while (lo <= hi) {}  
+if(x >= lo<mask1>x){ while (lo <= hi) {}  
+if(0 < lo && 0 < hi){ while (lo <= hi) {}  
+if( x >= 0){ while (lo <= hi) {}  
+if(x >= lo && x <= hi){ while (lo <= hi) {}  
+if(lo<hi<mask1>lo<hi){ while (lo <= hi) {}  
+if(arr<mask1>lo < hi){ while (lo <= hi) {}  
+if(x<mask1>lo < hi){ while (lo <= hi) {}  
+if(x < hi<mask1>lo < hi){ while (lo <= hi) {}  
+if(hi < 2){ while (lo <= hi) {}  
+if(x < arr.length-1){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x>=0){ while (lo <= hi) {}  
+if(lo <= hi<mask1> x <= hi){ while (lo <= hi) {}  
+if(arr<mask1>lo <= hi){ while (lo <= hi) {}  
+if(0 <= lo && 0 <= hi){ while (lo <= hi) {}  
+if(len(arr) > 0){ while (lo <= hi) {}  
+if(lo < hi<mask1>0 < x){ while (lo <= hi) {}  
+if(lo == hi<mask1>x){ while (lo <= hi) {}  
+if(hi != 0<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo > hi<mask1>x){ while (lo <= hi) {}  
+if(lo <= hi<mask1> lo++; }){ while (lo <= hi) {}  
+if(arr.length>0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo+1){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo == hi){ while (lo <= hi) {}  
+if(lo < hi<mask1> x }){ while (lo <= hi) {}  
+if(i < 2){ while (lo <= hi) {}  
+if(lo <= x<mask1>lo < hi){ while (lo <= hi) {}  
+if( arr.length >= 2){ while (lo <= hi) {}  
+if(arr.length != 0<mask1>x){ while (lo <= hi) {}  
+if(arr.length > 1<mask1>x){ while (lo <= hi) {}  
+if(shuffle){ while (lo <= hi) {}  
+if(lo <= hi<mask1> arr.length){ while (lo <= hi) {}  
+if(null!=arr){ while (lo <= hi) {}  
+if(x != 0<mask1>x)){ while (lo <= hi) {}  
+if(x <= arr[lo] - 1){ while (lo <= hi) {}  
+if(sorted==null){ while (lo <= hi) {}  
+if(x == arr[0]){ while (lo <= hi) {}  
+if(lo <= hi<mask1>0 < x){ while (lo <= hi) {}  
+if(x >= lo<mask1>x < hi){ while (lo <= hi) {}  
+if(length > 0){ while (lo <= hi) {}  
+if(lo<=hi<mask1>lo<=hi){ while (lo <= hi) {}  
+if(lo < hi<mask1>lo < hi}){ while (lo <= hi) {}  
+if(x > lo<mask1>x < hi){ while (lo <= hi) {}  
+if(ascending){ while (lo <= hi) {}  
+if(x <= lo<mask1>x)){ while (lo <= hi) {}  
+if(lo<hi<mask1>lo < hi){ while (lo <= hi) {}  
+if(lo <= hi<mask1>hi >= 0){ while (lo <= hi) {}  
+if(arr<mask1>arr != null)){ while (lo <= hi) {}  
+if(val > 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x < hi){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo < hi }){ while (lo <= hi) {}  
+if(lo < hi<mask1>0 <= x){ while (lo <= hi) {}  
+if(i != 0){ while (lo <= hi) {}  
+if(lo <= x<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo == hi<mask1>lo < hi){ while (lo <= hi) {}  
+if(x < lo<mask1>x)){ while (lo <= hi) {}  
+if(lo <= hi<mask1>x){){ while (lo <= hi) {}  
+if(arr.length > lo+1){ while (lo <= hi) {}  
+if(x >= lo<mask1>lo <= hi){ while (lo <= hi) {}  
+if(lo <= hi<mask1> x }){ while (lo <= hi) {}  
+if(hi > lo){ while (lo <= hi) {}  
+if(x <= arr[lo] + 1){ while (lo <= hi) {}  
+if(hi >= 2){ while (lo <= hi) {}  
+if(hi != 0<mask1>lo != 0){ while (lo <= hi) {}  
+if(x<0<mask1>lo < hi){ while (lo <= hi) {}  
+if(0 <= x<mask1>lo < hi){ while (lo <= hi) {}  
+if(fast){ while (lo <= hi) {}  
+if(obj==null){ while (lo <= hi) {}  
+if(lo <= hi<mask1> x >= 0){ while (lo <= hi) {}  
+if(hi>=0){ while (lo <= hi) {}  
+if(lo<0){ while (lo <= hi) {}  
+if(arr!= null){ while (lo <= hi) {}  
+if( x > 0){ while (lo <= hi) {}  
+if(wide){ while (lo <= hi) {}  
+if(x >= lo<mask1>x)){ while (lo <= hi) {}  
+if(x==arr[lo]){ while (lo <= hi) {}  
+if(true<mask1>true){ while (lo <= hi) {}  
+if(hi > 0<mask1>lo > 0){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo == hi){ while (lo <= hi) {}  
+if(strict){ while (lo <= hi) {}  
+if(normalize){ while (lo <= hi) {}  
+if(x < 0<mask1>x < 0){ while (lo <= hi) {}  
+if(x <= lo<mask1>x < hi){ while (lo <= hi) {}  
+if(floor(x) == x){ while (lo <= hi) {}  
+if(sort){ while (lo <= hi) {}  
+if(reverse){ while (lo <= hi) {}  
+if(heapify){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo <= hi}){ while (lo <= hi) {}  
+if(signed){ while (lo <= hi) {}  
+if(reversed){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo < hi )){ while (lo <= hi) {}  
+if(lo <= hi<mask1>arr[lo]){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo <= hi }){ while (lo <= hi) {}  
+if(lo <= hi<mask1> arr[lo]){ while (lo <= hi) {}  
+if(arr){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo <= hi){){ while (lo <= hi) {}  
+if(lo <= hi<mask1>lo < hi){){ while (lo <= hi) {}  
+if(lo < hi<mask1>arr[lo]){ while (lo <= hi) {}  

@@ -1,0 +1,2750 @@
+ return;  
+  };  
+ return;  
+  return;  
+ };  
+ //return;  
+ …;  
+return;  
+   return;  
+ };  
+  //return;  
+  // return;  
+ //    return;  
+ //continue;  
+  // do nothing;  
+ // Do nothing;  
+ //};  
+  // };  
+   };  
+ ;  
+ //  return;  
+ // do nothing;  
+  // Do nothing;  
+ ... };  
+ //return;  
+ ignore;  
+ // return;  
+ parent;  
+ // };  
+ //TODO;  
+ // return;  
+ report;  
+;  
+ ...;  
+ parent = null;  
+ debugger;  
+  false;  
+ //debugger;  
+ exit;  
+    return;  
+ skip;  
+ exit;  
+ visit<mask1>;  
+ ...;  
+ ENTER;  
+ //exit;  
+ //import;  
+};  
+  // ignore;  
+  //};  
+ //    break;  
+ //else;  
+  // noop;  
+ // exit;  
+ //exit;  
+     return;  
+ do nothing;  
+  //else;  
+ // ignore;  
+  // continue;  
+ //do nothing;  
+ // continue;  
+ import;  
+  //};  
+ //};  
+ //   return;  
+ ignore;  
+ echo;  
+ global;  
+  //continue;  
+ … };  
+  //noop;  
+ //     return;  
+      return;  
+ null;  
+ // else;  
+ break;  
+  //exit;  
+ --;  
+         return;  
+ …};  
+ //  };  
+ false;  
+ ;  
+ parent = n;  
+ end;  
+ //do something;  
+  // else;  
+ trace;  
+  }};  
+ do something;  
+ // Do nothing;  
+  //do nothing;  
+ //continue;  
+  } };  
+ //TODO;  
+ // TODO;  
+ // done;  
+  // TODO;  
+ //      return;  
+ continue;  
+  } else;  
+ test;  
+ TODO;  
+  // exit;  
+ yield;  
+ // do nothing;  
+ visit<mask1>;  
+ // };  
+ return null;  
+ super;  
+ // noop;  
+  //ignore;  
+  }  ;  
+ 	return;  
+ report;  
+ //Do nothing;  
+ for;  
+ break;  
+ false;  
+ // ignore<mask1> };  
+...;  
+          return;  
+ println;  
+ //ignore;  
+ scope;  
+  //  return;  
+  // break;  
+ //        return;  
+ export;  
+  // done;  
+ ++;  
+ for;  
+  //TODO;  
+ });  
+ // Ignored;  
+ pass;  
+ // unreachable;  
+ //ignore;  
+ visitor;  
+  // recurse;  
+ this;  
+ // recurse;  
+ //noop;  
+ debugger;  
+//return;  
+  // debugger;  
+  //Do nothing;  
+ check;  
+    };  
+ continue;  
+ returns;  
+             return;  
+ // debugger;  
+ //Do nothing;  
+  } else {;  
+ //skip;  
+ //};  
+ // ...;  
+ assert false;  
+  ...;  
+ // end;  
+ alse;  
+ //  debugger;  
+ //break;  
+ // continue;  
+ //    continue;  
+ next;  
+ // do something;  
+  // Ignored;  
+ } };  
+ //skip;  
+  debugger;  
+ done;  
+  // ignored;  
+ import;  
+ true;  
+ ignored;  
+ debug;  
+ flush;  
+ println;  
+ done;  
+ //ignored;  
+ //noop;  
+ // break;  
+  // if;  
+  //if;  
+ assert true;  
+  exit;  
+ this;  
+  // nop;  
+ recurse;  
+ //done;  
+ print;  
+ global scope;  
+ // ...;  
+  } //if;  
+ //	return;  
+ //scope;  
+ visitor;  
+ // nothing to do;  
+ // if;  
+  } ;  
+ do nothing;  
+ visited = true;  
+ //do nothing;  
+  // end;  
+ // ignore;  
+ //else;  
+  // do something;  
+ // recurse;  
+  } // if;  
+ //echo;  
+  //skip;  
+ parent<mask1>;  
+ // TODO;  
+ //return null;  
+ //default;  
+ //trace;  
+  // unreachable;  
+  //    return;  
+ visit<mask1> };  
+ //          return;  
+ //...;  
+ //parent;  
+ // Ignore;  
+ //    };  
+ //  ...;  
+ e.g;  
+ //       return;  
+ //process;  
+  //do something;  
+ // ENTER;  
+  //  };  
+  // Ignore;  
+ //  continue;  
+ // ;  
+ report<mask1>;  
+ throw new Error;  
+ //    debugger;  
+ globalScope;  
+ System.out;  
+ //Do something;  
+ //  ignore;  
+ // ignore this node;  
+  // ignore this;  
+ //if;  
+ N.ok;  
+  // no op;  
+ return<mask1> };  
+ return; if (t.getScopeDepth() <= 2) {   
+ }; if (t.getScopeDepth() <= 2) {   
+  }; if (t.getScopeDepth() <= 2) {   
+ ; if (t.getScopeDepth() <= 2) {   
+ return; if (t.getScopeDepth() <= 2) {   
+}; if (t.getScopeDepth() <= 2) {   
+return; if (t.getScopeDepth() <= 2) {   
+  return; if (t.getScopeDepth() <= 2) {   
+; if (t.getScopeDepth() <= 2) {   
+ } }; if (t.getScopeDepth() <= 2) {   
+ // }; if (t.getScopeDepth() <= 2) {   
+ //return; if (t.getScopeDepth() <= 2) {   
+ }; if (t.getScopeDepth() <= 2) {   
+ return; }; if (t.getScopeDepth() <= 2) {   
+ //return; if (t.getScopeDepth() <= 2) {   
+ ; if (t.getScopeDepth() <= 2) {   
+ // return; if (t.getScopeDepth() <= 2) {   
+  //return; if (t.getScopeDepth() <= 2) {   
+ //}; if (t.getScopeDepth() <= 2) {   
+   return; if (t.getScopeDepth() <= 2) {   
+   }; if (t.getScopeDepth() <= 2) {   
+ //else; if (t.getScopeDepth() <= 2) {   
+  // return; if (t.getScopeDepth() <= 2) {   
+  // }; if (t.getScopeDepth() <= 2) {   
+  } }; if (t.getScopeDepth() <= 2) {   
+ return }; if (t.getScopeDepth() <= 2) {   
+ // else; if (t.getScopeDepth() <= 2) {   
+ } else; if (t.getScopeDepth() <= 2) {   
+ for; if (t.getScopeDepth() <= 2) {   
+    return; if (t.getScopeDepth() <= 2) {   
+ //    return; if (t.getScopeDepth() <= 2) {   
+ …; if (t.getScopeDepth() <= 2) {   
+ //}; if (t.getScopeDepth() <= 2) {   
+ //continue; if (t.getScopeDepth() <= 2) {   
+  //else; if (t.getScopeDepth() <= 2) {   
+ //TODO; if (t.getScopeDepth() <= 2) {   
+ } ; if (t.getScopeDepth() <= 2) {   
+  } else; if (t.getScopeDepth() <= 2) {   
+  //}; if (t.getScopeDepth() <= 2) {   
+ //if; if (t.getScopeDepth() <= 2) {   
+ //}; if (t.getScopeDepth() <= 2) {   
+ // return; if (t.getScopeDepth() <= 2) {   
+ // do nothing; if (t.getScopeDepth() <= 2) {   
+ return null; if (t.getScopeDepth() <= 2) {   
+    }; if (t.getScopeDepth() <= 2) {   
+ }); if (t.getScopeDepth() <= 2) {   
+ // if; if (t.getScopeDepth() <= 2) {   
+ //TODO; if (t.getScopeDepth() <= 2) {   
+ } else {; if (t.getScopeDepth() <= 2) {   
+      return; if (t.getScopeDepth() <= 2) {   
+  // else; if (t.getScopeDepth() <= 2) {   
+  } ; if (t.getScopeDepth() <= 2) {   
+ return ; }; if (t.getScopeDepth() <= 2) {   
+//return; if (t.getScopeDepth() <= 2) {   
+ // Do nothing; if (t.getScopeDepth() <= 2) {   
+ } //if; if (t.getScopeDepth() <= 2) {   
+  //}; if (t.getScopeDepth() <= 2) {   
+ debugger; if (t.getScopeDepth() <= 2) {   
+         return; if (t.getScopeDepth() <= 2) {   
+     return; if (t.getScopeDepth() <= 2) {   
+ for; if (t.getScopeDepth() <= 2) {   
+ //  return; if (t.getScopeDepth() <= 2) {   
+} }; if (t.getScopeDepth() <= 2) {   
+ exit; if (t.getScopeDepth() <= 2) {   
+  ; if (t.getScopeDepth() <= 2) {   
+ // TODO; if (t.getScopeDepth() <= 2) {   
+          return; if (t.getScopeDepth() <= 2) {   
+ /* }; if (t.getScopeDepth() <= 2) {   
+  //if; if (t.getScopeDepth() <= 2) {   
+ // continue; if (t.getScopeDepth() <= 2) {   
+ // }; if (t.getScopeDepth() <= 2) {   
+ visitor; if (t.getScopeDepth() <= 2) {   
+ //exit; if (t.getScopeDepth() <= 2) {   
+ //  return; if (t.getScopeDepth() <= 2) {   
+ 	return; if (t.getScopeDepth() <= 2) {   
+ //continue; if (t.getScopeDepth() <= 2) {   
+ //  }; if (t.getScopeDepth() <= 2) {   
+ this; if (t.getScopeDepth() <= 2) {   
+ try; if (t.getScopeDepth() <= 2) {   
+ do nothing; if (t.getScopeDepth() <= 2) {   
+ returns; if (t.getScopeDepth() <= 2) {   
+// }; if (t.getScopeDepth() <= 2) {   
+ // exit; if (t.getScopeDepth() <= 2) {   
+ } // if; if (t.getScopeDepth() <= 2) {   
+ }; if (t.getScopeDepth() <= 2) {   
+ // 	return; if (t.getScopeDepth() <= 2) {   
+  }  ; if (t.getScopeDepth() <= 2) {   
+  }}; if (t.getScopeDepth() <= 2) {   
+ // ignore; if (t.getScopeDepth() <= 2) {   
+ },; if (t.getScopeDepth() <= 2) {   
+ TODO; if (t.getScopeDepth() <= 2) {   
+ return ; if (t.getScopeDepth() <= 2) {   
+  ------------------------------------------------------------------------; if (t.getScopeDepth() <= 2) {   
+  --------------------------------------------------------------------------; if (t.getScopeDepth() <= 2) {   
+ }  ; if (t.getScopeDepth() <= 2) {   
+  //  return; if (t.getScopeDepth() <= 2) {   
+ //debugger; if (t.getScopeDepth() <= 2) {   
+ return  }; if (t.getScopeDepth() <= 2) {   
+// return; if (t.getScopeDepth() <= 2) {   
+ continue; if (t.getScopeDepth() <= 2) {   
+ // otherwise; if (t.getScopeDepth() <= 2) {   
+ var; if (t.getScopeDepth() <= 2) {   
+ //do nothing; if (t.getScopeDepth() <= 2) {   
+ if; if (t.getScopeDepth() <= 2) {   
+ } ; if (t.getScopeDepth() <= 2) {   
+ // } else; if (t.getScopeDepth() <= 2) {   
+ // } }; if (t.getScopeDepth() <= 2) {   
+ //import; if (t.getScopeDepth() <= 2) {   
+ // end; if (t.getScopeDepth() <= 2) {   
+ import; if (t.getScopeDepth() <= 2) {   
+  } else {; if (t.getScopeDepth() <= 2) {   
+        return; if (t.getScopeDepth() <= 2) {   
+  // do nothing; if (t.getScopeDepth() <= 2) {   
+ ... }; if (t.getScopeDepth() <= 2) {   
+ break; if (t.getScopeDepth() <= 2) {   
+ } //else; if (t.getScopeDepth() <= 2) {   
+  // if; if (t.getScopeDepth() <= 2) {   
+ // or; if (t.getScopeDepth() <= 2) {   
+ node; if (t.getScopeDepth() <= 2) {   
+ //else; if (t.getScopeDepth() <= 2) {   
+ import; if (t.getScopeDepth() <= 2) {   
+ null; if (t.getScopeDepth() <= 2) {   
+ } }; if (t.getScopeDepth() <= 2) {   
+ global; if (t.getScopeDepth() <= 2) {   
+             return; if (t.getScopeDepth() <= 2) {   
+ //        return; if (t.getScopeDepth() <= 2) {   
+ //if; if (t.getScopeDepth() <= 2) {   
+ //return null; if (t.getScopeDepth() <= 2) {   
+ }}; if (t.getScopeDepth() <= 2) {   
+ } else { ; if (t.getScopeDepth() <= 2) {   
+  @return; if (t.getScopeDepth() <= 2) {   
+ …}; if (t.getScopeDepth() <= 2) {   
+ //   return; if (t.getScopeDepth() <= 2) {   
+ // debugger; if (t.getScopeDepth() <= 2) {   
+  } //if; if (t.getScopeDepth() <= 2) {   
+ } //else; if (t.getScopeDepth() <= 2) {   
+}); if (t.getScopeDepth() <= 2) {   
+ //; if (t.getScopeDepth() <= 2) {   
+     }; if (t.getScopeDepth() <= 2) {   
+ } // else; if (t.getScopeDepth() <= 2) {   
+  } else { ; if (t.getScopeDepth() <= 2) {   
+ } } }; if (t.getScopeDepth() <= 2) {   
+ //end; if (t.getScopeDepth() <= 2) {   
+func; if (t.getScopeDepth() <= 2) {   
+ return null; if (t.getScopeDepth() <= 2) {   
+ //}}}; if (t.getScopeDepth() <= 2) {   
+ ++depth; if (t.getScopeDepth() <= 2) {   
+ } //end if; if (t.getScopeDepth() <= 2) {   
+ //; if (t.getScopeDepth() <= 2) {   
+ //     return; if (t.getScopeDepth() <= 2) {   
+	return; if (t.getScopeDepth() <= 2) {   
+ next; if (t.getScopeDepth() <= 2) {   
+}}; if (t.getScopeDepth() <= 2) {   
+ false; if (t.getScopeDepth() <= 2) {   
+function; if (t.getScopeDepth() <= 2) {   
+ */; if (t.getScopeDepth() <= 2) {   
+  //  }; if (t.getScopeDepth() <= 2) {   
+ //do something; if (t.getScopeDepth() <= 2) {   
+ … }; if (t.getScopeDepth() <= 2) {   
+  Visitor; if (t.getScopeDepth() <= 2) {   
+...; if (t.getScopeDepth() <= 2) {   
+  @override; if (t.getScopeDepth() <= 2) {   
+  } // if; if (t.getScopeDepth() <= 2) {   
+  //TODO; if (t.getScopeDepth() <= 2) {   
+ =; if (t.getScopeDepth() <= 2) {   
+ n; if (t.getScopeDepth() <= 2) {   
+ } else { return; if (t.getScopeDepth() <= 2) {   
+ } //end; if (t.getScopeDepth() <= 2) {   
+  } ; if (t.getScopeDepth() <= 2) {   
+ //  }; if (t.getScopeDepth() <= 2) {   
+  @private; if (t.getScopeDepth() <= 2) {   
+ do; if (t.getScopeDepth() <= 2) {   
+ return true; if (t.getScopeDepth() <= 2) {   
+ return false; if (t.getScopeDepth() <= 2) {   
+  } }; if (t.getScopeDepth() <= 2) {   
+ ignore; if (t.getScopeDepth() <= 2) {   
+  @Override; if (t.getScopeDepth() <= 2) {   
+ ...; if (t.getScopeDepth() <= 2) {   
+ process; if (t.getScopeDepth() <= 2) {   
+ //	return; if (t.getScopeDepth() <= 2) {   
+ });; if (t.getScopeDepth() <= 2) {   
+  Returns; if (t.getScopeDepth() <= 2) {   
+ TODO; if (t.getScopeDepth() <= 2) {   
+ check; if (t.getScopeDepth() <= 2) {   
+ } // end if; if (t.getScopeDepth() <= 2) {   
+  ----------------------------------------------------------------------------; if (t.getScopeDepth() <= 2) {   
+  // Do nothing; if (t.getScopeDepth() <= 2) {   
+ switch; if (t.getScopeDepth() <= 2) {   
+  -----------------------------------------------------------------------------; if (t.getScopeDepth() <= 2) {   
+  // TODO; if (t.getScopeDepth() <= 2) {   
+ ------------------------------------------------------------------------; if (t.getScopeDepth() <= 2) {   
+  } //else; if (t.getScopeDepth() <= 2) {   
+ //      return; if (t.getScopeDepth() <= 2) {   
+  @internal; if (t.getScopeDepth() <= 2) {   
+for; if (t.getScopeDepth() <= 2) {   
+	; if (t.getScopeDepth() <= 2) {   
+  Recurse; if (t.getScopeDepth() <= 2) {   
+ } // end; if (t.getScopeDepth() <= 2) {   
+ report; if (t.getScopeDepth() <= 2) {   
+ <mask1> ; if (t.getScopeDepth() <= 2) {   
+     }; if (t.getScopeDepth() <= 2) {   
+ return; }; if (t.getScopeDepth() <= 2) {   
+  @ignore; if (t.getScopeDepth() <= 2) {   
+ return; } }; if (t.getScopeDepth() <= 2) {   
+ //do something; if (t.getScopeDepth() <= 2) {   
+  //do nothing; if (t.getScopeDepth() <= 2) {   
+ // TODO; if (t.getScopeDepth() <= 2) {   
+ //    break; if (t.getScopeDepth() <= 2) {   
+ //    }; if (t.getScopeDepth() <= 2) {   
+ // } else {; if (t.getScopeDepth() <= 2) {   
+ assert n != null; if (t.getScopeDepth() <= 2) {   
+ } } ; if (t.getScopeDepth() <= 2) {   
+ //return; if (t.getScopeDepth() <= 2) {   
+ //noinspection ConstantConditions; if (t.getScopeDepth() <= 2) {   
+ //return true; if (t.getScopeDepth() <= 2) {   
+ return null;; if (t.getScopeDepth() <= 2) {   
+  // } else; if (t.getScopeDepth() <= 2) {   
+  Visiting; if (t.getScopeDepth() <= 2) {   
+ // do something; if (t.getScopeDepth() <= 2) {   
+ assert n != null;; if (t.getScopeDepth() <= 2) {   
+  //return; if (t.getScopeDepth() <= 2) {   
+ return null; }; if (t.getScopeDepth() <= 2) {   
+ } else {  return; if (t.getScopeDepth() <= 2) {   
+ return true; }; if (t.getScopeDepth() <= 2) {   
+ //  for; if (t.getScopeDepth() <= 2) {   
+  Recurses; if (t.getScopeDepth() <= 2) {   
+  Record variable names; if (t.getScopeDepth() <= 2) {   
+  } // end if; if (t.getScopeDepth() <= 2) {   
+  } //end; if (t.getScopeDepth() <= 2) {   
+  } //end if; if (t.getScopeDepth() <= 2) {   
+  Record variable assignments; if (t.getScopeDepth() <= 2) {   
+  } // end; if (t.getScopeDepth() <= 2) {   
+  } else { return; if (t.getScopeDepth() <= 2) {   
+  } } ; if (t.getScopeDepth() <= 2) {   
+ //noinspection ConstantConditions; if (t.getScopeDepth() <= 2) {   
+  //return;; if (t.getScopeDepth() <= 2) {   
+  //return; }; if (t.getScopeDepth() <= 2) {   
+ return false;; if (t.getScopeDepth() <= 2) {   
+ return true;; if (t.getScopeDepth() <= 2) {   
+ return null; }; if (t.getScopeDepth() <= 2) {   
+ return false; }; if (t.getScopeDepth() <= 2) {   
+  Visit<mask1> ; if (t.getScopeDepth() <= 2) {   
+ //    return null; if (t.getScopeDepth() <= 2) {   
+ } else {  ; if (t.getScopeDepth() <= 2) {   
+  Traverses the AST; if (t.getScopeDepth() <= 2) {   
+  Visit a node.; if (t.getScopeDepth() <= 2) {   
+ e.g.; if (t.getScopeDepth() <= 2) {   
+ // } else { ; if (t.getScopeDepth() <= 2) {   
+  } else {  }; if (t.getScopeDepth() <= 2) {   
+  Record variable references; if (t.getScopeDepth() <= 2) {   
+if (t.getScopeDepth()  <= 2) {   
+if (t.getScopeDepth()  <= - 2) {   
+if (t.getScopeDepth()  <= 3 2) {   
+if (t.getScopeDepth()  > 2) {   
+if (t.getScopeDepth()  < 2) {   
+if (t.getScopeDepth()  == - 2) {   
+if (t.getScopeDepth()  >= 2) {   
+if (t.getScopeDepth()  <= 1 2) {   
+if (t.getScopeDepth()  == 2) {   
+if (t.getScopeDepth()  <= 4 2) {   
+if (t.getScopeDepth()  <= ~ 2) {   
+if (t.getScopeDepth()  <= ( 2) {   
+if (t.getScopeDepth() <= 2) {   
+if (t.getScopeDepth()  <= 2+ 2) {   
+if (t.getScopeDepth()  <= 3  2) {   
+if (t.getScopeDepth()  <= 2^ 2) {   
+if (t.getScopeDepth()  <= + 2) {   
+if (t.getScopeDepth()  <= 16 2) {   
+if (t.getScopeDepth()  <= 2 2) {   
+if (t.getScopeDepth()  <= 5 2) {   
+if (t.getScopeDepth()  <= 15 2) {   
+if (t.getScopeDepth()  === 2) {   
+if (t.getScopeDepth()  <=  2) {   
+if (t.getScopeDepth()  <=  2) {   
+if (t.getScopeDepth()  <=<mask1> <= 2) {   
+if (t.getScopeDepth()  <= 2- 2) {   
+if (t.getScopeDepth()  === - 2) {   
+if (t.getScopeDepth()  <= ++ 2) {   
+if (t.getScopeDepth()  <=<mask3>} 2) {   
+if (t.getScopeDepth()  <= $ 2) {   
+if (t.getScopeDepth()  <= 2* 2) {   
+if (t.getScopeDepth()  <= 3/ 2) {   
+if (t.getScopeDepth()  <= 2/ 2) {   
+if (t.getScopeDepth()  <= 2. 2) {   
+if (t.getScopeDepth()  <= 3 // 2) {   
+if (t.getScopeDepth()  <= 10 2) {   
+if (t.getScopeDepth()  <= 3; 2) {   
+if (t.getScopeDepth()  == 2 2) {   
+if (t.getScopeDepth()  == 1 2) {   
+if (t.getScopeDepth()  <= Level 2) {   
+if (t.getScopeDepth()  <= 2  2) {   
+if (t.getScopeDepth()  <= 7 2) {   
+if (t.getScopeDepth()  <= 3.. 2) {   
+if (t.getScopeDepth()  <= > 2) {   
+if (t.getScopeDepth()  <= 99 2) {   
+if (t.getScopeDepth()  <= 0 2) {   
+if (t.getScopeDepth()  <= -- 2) {   
+if (t.getScopeDepth()  <=<mask3>  2) {   
+if (t.getScopeDepth()  <= 8 2) {   
+if (t.getScopeDepth()  <= ? 2) {   
+if (t.getScopeDepth()  == 0 2) {   
+if (t.getScopeDepth()  < - 2) {   
+if (t.getScopeDepth()  <= 3, 2) {   
+if (t.getScopeDepth()  < 3 2) {   
+if (t.getScopeDepth()  <=<mask3> 2) {   
+if (t.getScopeDepth()  <= 6 2) {   
+if (t.getScopeDepth()  <= 2; 2) {   
+if (t.getScopeDepth()  <= 4  2) {   
+if (t.getScopeDepth()  < 2 2) {   
+if (t.getScopeDepth()  == 3 2) {   
+if (t.getScopeDepth()  <= 2.. 2) {   
+if (t.getScopeDepth()  <=<mask1> <= 3 2) {   
+if (t.getScopeDepth()  <= 20 2) {   
+if (t.getScopeDepth()  >=<mask1> >= 2) {   
+if (t.getScopeDepth()  <= 3* 2) {   
+if (t.getScopeDepth()  > - 2) {   
+if (t.getScopeDepth()  <=<mask3> } 2) {   
+if (t.getScopeDepth()  <= 2_ 2) {   
+if (t.getScopeDepth()  <= 2 + 2) {   
+if (t.getScopeDepth()  > 1 2) {   
+if (t.getScopeDepth()  <= 2 ^ 2) {   
+if (t.getScopeDepth()  <= 1/ 2) {   
+if (t.getScopeDepth()  == + 2) {   
+if (t.getScopeDepth()  <= 3. 2) {   
+if (t.getScopeDepth()  > 2 2) {   
+if (t.getScopeDepth()  <= … 2) {   
+if (t.getScopeDepth()  <= < 2) {   
+if (t.getScopeDepth()  <= 3 } 2) {   
+if (t.getScopeDepth()  <= 3: 2) {   
+if (t.getScopeDepth()  <= ... 2) {   
+if (t.getScopeDepth()  <= 1  2) {   
+if (t.getScopeDepth()  <=<mask3>; 2) {   
+if (t.getScopeDepth()  <=<mask1> > 2) {   
+if (t.getScopeDepth()  != - 2) {   
+if (t.getScopeDepth()  <= 2, 2) {   
+if (t.getScopeDepth()  <= 3) { 2) {   
+if (t.getScopeDepth()  <=  - 2) {   
+if (t.getScopeDepth()  <= ^ 2) {   
+if (t.getScopeDepth()  >= 3 2) {   
+if (t.getScopeDepth()  <= <- 2) {   
+if (t.getScopeDepth()  <= <= 2) {   
+if (t.getScopeDepth()  <= 100 2) {   
+if (t.getScopeDepth()  <=<mask1><= 2) {   
+if (t.getScopeDepth()  <= +- 2) {   
+if (t.getScopeDepth()  <=<mask3> } 2) {   
+if (t.getScopeDepth()  <= 9 2) {   
+if (t.getScopeDepth()  <= ! 2) {   
+if (t.getScopeDepth()  <= 3- 2) {   
+if (t.getScopeDepth()  >= 2 2) {   
+if (t.getScopeDepth()  <= _ 2) {   
+if (t.getScopeDepth()  <= (<mask1> - 2) {   
+if (t.getScopeDepth()  <= 2 - 2) {   
+if (t.getScopeDepth()  <= 2x 2) {   
+if (t.getScopeDepth()  <= . 2) {   
+if (t.getScopeDepth()  - 2) {   
+if (t.getScopeDepth()  <= 3^ 2) {   
+if (t.getScopeDepth()  ==  2) {   
+if (t.getScopeDepth()  >=<mask1> <= 2) {   
+if (t.getScopeDepth()  <= N 2) {   
+if (t.getScopeDepth()  <= 2: 2) {   
+if (t.getScopeDepth()  <= 200 2) {   
+if (t.getScopeDepth()  >= 1 2) {   
+if (t.getScopeDepth()  <= 2 // 2) {   
+if (t.getScopeDepth()  <=<mask3>  2) {   
+if (t.getScopeDepth()  <= -1 2) {   
+if (t.getScopeDepth()  <= 3| 2) {   
+if (t.getScopeDepth()  > 0 2) {   
+if (t.getScopeDepth()  <= * 2) {   
+if (t.getScopeDepth()  <= 3+ 2) {   
+if (t.getScopeDepth()  <= 3 || 2) {   
+if (t.getScopeDepth()  <=<mask1> <= 2 2) {   
+if (t.getScopeDepth()  <= 3... 2) {   
+if (t.getScopeDepth()  <= = 2) {   
+if (t.getScopeDepth()  <=<mask5> 2) {   
+if (t.getScopeDepth()  >= - 2) {   
+if (t.getScopeDepth()  <= // 2) {   
+if (t.getScopeDepth()  <= 0. 2) {   
+if (t.getScopeDepth()  <= 3) 2) {   
+if (t.getScopeDepth()  == 2  2) {   
+if (t.getScopeDepth()  <= 16  2) {   
+if (t.getScopeDepth()  <= 512 2) {   
+if (t.getScopeDepth()  <= >= 2) {   
+if (t.getScopeDepth()  <= 3<mask1> <= 2) {   
+if (t.getScopeDepth()  === 0 2) {   
+if (t.getScopeDepth()  < < 2) {   
+if (t.getScopeDepth() == 2) {   
+if (t.getScopeDepth()  < 1 2) {   
+if (t.getScopeDepth()  <= [ 2) {   
+if (t.getScopeDepth()  <= 1. 2) {   
+if (t.getScopeDepth()  <= & 2) {   
+if (t.getScopeDepth()  === 1 2) {   
+if (t.getScopeDepth()  <=<mask1> <= 4 2) {   
+if (t.getScopeDepth()  <= 1.. 2) {   
+if (t.getScopeDepth()  <= 4 // 2) {   
+if (t.getScopeDepth()  == ~ 2) {   
+if (t.getScopeDepth()  <= 1) { 2) {   
+if (t.getScopeDepth()  <= "+ 2) {   
+if (t.getScopeDepth()  <= ' 2) {   
+if (t.getScopeDepth()  <= 3/4 2) {   
+if (t.getScopeDepth()  <= level 2) {   
+if (t.getScopeDepth()  <=<mask2> <= 2) {   
+if (t.getScopeDepth()  <=<mask1> <= 1 2) {   
+if (t.getScopeDepth()  < ( 2) {   
+if (t.getScopeDepth()  <= 2<< 2) {   
+if (t.getScopeDepth()  <=<mask1> >= 2) {   
+if (t.getScopeDepth()  == -1 2) {   
+if (t.getScopeDepth()  === 2 2) {   
+if (t.getScopeDepth()  <= \ 2) {   
+if (t.getScopeDepth()  <= maxScopeDepth 2) {   
+if (t.getScopeDepth()  <= 2a 2) {   
+if (t.getScopeDepth()  <= 32 2) {   
+if (t.getScopeDepth()  <= (<mask1>+ 2) {   
+if (t.getScopeDepth()  <=<mask3>   2) {   
+if (t.getScopeDepth()  <= ~~ 2) {   
+if (t.getScopeDepth() >= 2) {   
+if (t.getScopeDepth()  <= 4; 2) {   
+if (t.getScopeDepth()  <= 2 -- 2) {   
+if (t.getScopeDepth()  <= 2> 2) {   
+if (t.getScopeDepth()  <= == 2) {   
+if (t.getScopeDepth()  <= : 2) {   
+if (t.getScopeDepth()  <= 3|| 2) {   
+if (t.getScopeDepth()  <= 1, 2) {   
+if (t.getScopeDepth()  <= $. 2) {   
+if (t.getScopeDepth()  <= E 2) {   
+if (t.getScopeDepth()  <= 4. 2) {   
+if (t.getScopeDepth()  <= 3 ... 2) {   
+if (t.getScopeDepth()  <=- 2) {   
+if (t.getScopeDepth()  <= 1; 2) {   
+if (t.getScopeDepth()  <= 3> 2) {   
+if (t.getScopeDepth()  <= 4, 2) {   
+if (t.getScopeDepth()  === 3 2) {   
+if (t.getScopeDepth()  <= L 2) {   
+if (t.getScopeDepth()  ><mask1> > 2) {   
+if (t.getScopeDepth()  <= 24 2) {   
+if (t.getScopeDepth()  <= 3   2) {   
+if (t.getScopeDepth()  <= 2** 2) {   
+if (t.getScopeDepth()  <= maxDepth 2) {   
+if (t.getScopeDepth()  <= 4/ 2) {   
+if (t.getScopeDepth()  <= 25 2) {   
+if (t.getScopeDepth()  == ++ 2) {   
+if (t.getScopeDepth()  < 16 2) {   
+if (t.getScopeDepth()  <= 0  2) {   
+if (t.getScopeDepth()  <= 2) { 2) {   
+if (t.getScopeDepth()  <= 3 ^ 2) {   
+if (t.getScopeDepth()  < 5 2) {   
+if (t.getScopeDepth()  <= 4+ 2) {   
+if (t.getScopeDepth()  == 2; 2) {   
+if (t.getScopeDepth()  <= 3 ||  2) {   
+if (t.getScopeDepth()  <= 4* 2) {   
+if (t.getScopeDepth()  <= 3 - 2) {   
+if (t.getScopeDepth()  <= 1 // 2) {   
+if (t.getScopeDepth()  <= 18 2) {   
+if (t.getScopeDepth()  <= 256 2) {   
+if (t.getScopeDepth()  < 15 2) {   
+if (t.getScopeDepth()  <= 3 * 2) {   
+if (t.getScopeDepth()  > 3 2) {   
+if (t.getScopeDepth()  * 2) {   
+if (t.getScopeDepth()  <= u 2) {   
+if (t.getScopeDepth()  == ( 2) {   
+if (t.getScopeDepth()  <= (- 2) {   
+if (t.getScopeDepth()  <= 2$ 2) {   
+if (t.getScopeDepth()  <= 50 2) {   
+if (t.getScopeDepth()  <= 3x 2) {   
+if (t.getScopeDepth()  <= 2 } 2) {   
+if (t.getScopeDepth()  >=<mask1> - 2) {   
+if (t.getScopeDepth() < 2) {   
+if (t.getScopeDepth()  <= 3e 2) {   
+if (t.getScopeDepth()  >= 2  2) {   
+if (t.getScopeDepth()  <= 10  2) {   
+if (t.getScopeDepth()  <= <mask1> <= 2) {   
+if (t.getScopeDepth()  <=<mask3>// 2) {   
+if (t.getScopeDepth()  <= 2? 2) {   
+if (t.getScopeDepth()  <=<mask1> < 2) {   
+if (t.getScopeDepth()  + 2) {   
+if (t.getScopeDepth()  <=<mask3>    } 2) {   
+if (t.getScopeDepth()  <= (<mask1>- 2) {   
+if (t.getScopeDepth()  <= 3 && ! 2) {   
+if (t.getScopeDepth()  <= 8  2) {   
+if (t.getScopeDepth()  <=<mask3>/* 2) {   
+if (t.getScopeDepth()  <= 5  2) {   
+if (t.getScopeDepth()  <= 1) 2) {   
+if (t.getScopeDepth()  >=<mask1> <= 3 2) {   
+if (t.getScopeDepth()  <=<mask3>  2) {   
+if (t.getScopeDepth()  <=<mask3>2 2) {   
+if (t.getScopeDepth()  <= 3 || ! 2) {   
+if (t.getScopeDepth()  <= 4 } 2) {   
+if (t.getScopeDepth()  <= 3 return; 2) {   
+if (t.getScopeDepth()  <= TYP 2) {   
+if (t.getScopeDepth()  <> 2) {   
+if (t.getScopeDepth()  <= (<mask1> + 2) {   
+if (t.getScopeDepth()  <=<mask1> <= 5 2) {   
+if (t.getScopeDepth()  <= 2 + 1 2) {   
+if (t.getScopeDepth()  <= 3) return 2) {   
+if (t.getScopeDepth()  <= 16 // 2) {   
+if (t.getScopeDepth()  <= 3; } 2) {   
+if (t.getScopeDepth()  <= 2e 2) {   
+if (t.getScopeDepth()  <= HOOK 2) {   
+if (t.getScopeDepth()  <= 3  // 2) {   
+if (t.getScopeDepth()  <= 2/3 2) {   
+if (t.getScopeDepth()  <= 2 * 2) {   
+if (t.getScopeDepth() <= 2 ) {   
+if (t.getScopeDepth() <= 2+1) {   
+if (t.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2 && n != null) {   
+if (t.getScopeDepth() <= 2 + 1) {   
+if (t.getScopeDepth() <= 2 ) {   
+if (t.getScopeDepth() <= 2 && n == null) {   
+if (t.getScopeDepth() <= 2 && parent != null) {   
+if (t.getScopeDepth() <= 2) {) {   
+if (t.getScopeDepth() <= 2;) {   
+if (t.getScopeDepth() <= 2 + 2) {   
+if (t.getScopeDepth() <= 2+2) {   
+if (t.getScopeDepth() <= 2) {  }) {   
+if (t.getScopeDepth() <= 2 || n == null) {   
+if (t.getScopeDepth() <= 2 ^) {   
+if (t.getScopeDepth() <= 2 && parent == null) {   
+if (t.getScopeDepth() <= 2 || parent != null) {   
+if (t.getScopeDepth() <= 2,) {   
+if (t.getScopeDepth() <= 2L) {   
+if (t.getScopeDepth() <= 2-1) {   
+if (t.getScopeDepth() <= 2) {}) {   
+if (t.getScopeDepth() <= 2 || parent == null) {   
+if (t.getScopeDepth() <= 2 && n.isName()) {   
+if (t.getScopeDepth() <= 2 || inGlobalScope) {   
+if (t.getScopeDepth() <= 2 /* }) {   
+if (t.getScopeDepth() <= 2*) {   
+if (t.getScopeDepth() <= 2) { return; }) {   
+if (t.getScopeDepth() <= 2 && n.isFunction()) {   
+if (t.getScopeDepth() <= 2) { ) {   
+if (t.getScopeDepth() <= 2) return;) {   
+if (t.getScopeDepth() <= 2 }) {   
+if (t.getScopeDepth() <= 2 && inGlobalScope) {   
+if (t.getScopeDepth() <= 2}) {   
+if (t.getScopeDepth() <= 2) { }) {   
+if (t.getScopeDepth() <= 2 && !inGlobalScope) {   
+if (t.getScopeDepth() <= 2  ) {   
+if (t.getScopeDepth() <= 2.0) {   
+if (t.getScopeDepth() <= 2 || inGlobalScope()) {   
+if (t.getScopeDepth() <= 2d) {   
+if (t.getScopeDepth() <= 2..) {   
+if (t.getScopeDepth() <= 2 *) {   
+if (t.getScopeDepth() <= 2 --) {   
+if (t.getScopeDepth() <= 2 <= 2) {   
+if (t.getScopeDepth() <= 2 -) {   
+if (t.getScopeDepth() <= 2 /* else) {   
+if (t.getScopeDepth() <= 2) return) {   
+if (t.getScopeDepth() <= 2 && n.isVar()) {   
+if (t.getScopeDepth() <= 2f) {   
+if (t.getScopeDepth() <= 2   }) {   
+if (t.getScopeDepth() <= 2 && n instanceof ReturnStatement) {   
+if (t.getScopeDepth() <= 2 && data != null) {   
+if (t.getScopeDepth() <= 2 }) {   
+if (t.getScopeDepth() <= 2e) {   
+if (t.getScopeDepth() <= 2 || parent) {   
+if (t.getScopeDepth() <= 2 /* istanbul ignore next) {   
+if (t.getScopeDepth() <= 2-2) {   
+if (t.getScopeDepth() <= 2)) {   
+if (t.getScopeDepth() <= 2 + 3) {   
+if (t.getScopeDepth() <= 2 && node != null) {   
+if (t.getScopeDepth() <= 2 //else) {   
+if (t.getScopeDepth() <= 2	) {   
+if (t.getScopeDepth() <= 2 <<) {   
+if (t.getScopeDepth() <= 2 & n != null) {   
+if (t.getScopeDepth() <= 2 && name == null) {   
+if (t.getScopeDepth() <= 2E) {   
+if (t.getScopeDepth() <= 2) return; }) {   
+if (t.getScopeDepth() <= 2 || t.inGlobalScope) {   
+if (t.getScopeDepth() <= 2 && name != null) {   
+if (t.getScopeDepth() <= 2 && n.isQualifiedName()) {   
+if (t.getScopeDepth() <= 2+3) {   
+if (t.getScopeDepth() <= 2 && t.inGlobalScope) {   
+if (t.getScopeDepth() <= 2 == 1) {   
+if (t.getScopeDepth() <= 2 > 0) {   
+if (t.getScopeDepth() <= 2 && inGlobalScope()) {   
+if (t.getScopeDepth() <= 2, ) {   
+if (t.getScopeDepth() <= 2 then) {   
+if (t.getScopeDepth() <= 2) ) {   
+if (t.getScopeDepth() <= 2 == 0) {   
+if (t.getScopeDepth() <= 2 && n==null) {   
+if (t.getScopeDepth() <= 2 /*) {   
+if (t.getScopeDepth() <= 2 || n != null) {   
+if (t.getScopeDepth() <= 2+ 1) {   
+if (t.getScopeDepth() <= 2 <= 1) {   
+if (t.getScopeDepth() <= 2 || false) {   
+if (t.getScopeDepth() <= 2) {  }) {   
+if (t.getScopeDepth() <= 2; }) {   
+if (t.getScopeDepth() <= 2 && node == null) {   
+if (t.getScopeDepth() <= 2 && n!=null) {   
+if (t.getScopeDepth() <= 2a) {   
+if (t.getScopeDepth() <= 2l) {   
+if (t.getScopeDepth() <= 2);) {   
+if (t.getScopeDepth() <= 2.5) {   
+if (t.getScopeDepth() <= 2 //else) {   
+if (t.getScopeDepth() <= 2 )) {   
+if (t.getScopeDepth() <= 2^) {   
+if (t.getScopeDepth() <= 2 == 2) {   
+if (t.getScopeDepth() <= 2 && parent) {   
+if (t.getScopeDepth() <= 2 || n.isName()) {   
+if (t.getScopeDepth() <= 2 || true) {   
+if (t.getScopeDepth() <= 2 && !parent) {   
+if (t.getScopeDepth() <= 2 && n.isReturn()) {   
+if (t.getScopeDepth() <= 2 && parent!=null) {   
+if (t.getScopeDepth() <= 2x) {   
+if (t.getScopeDepth() <= 2^2) {   
+if (t.getScopeDepth() <= 2 && n.isCall()) {   
+if (t.getScopeDepth() <= 2/*) {   
+if (t.getScopeDepth() <= 2 && !inGlobalScope()) {   
+if (t.getScopeDepth() <= 2 && isExported) {   
+if (t.getScopeDepth() <= 257) {   
+if (t.getScopeDepth() <= 2 || n.isFunction()) {   
+if (t.getScopeDepth() <= 2 && n instanceof Variable) {   
+if (t.getScopeDepth() <= 2 <mask1> ) {   
+if (t.getScopeDepth() <= 2--) {   
+if (t.getScopeDepth() <= 2<mask3>;) {   
+if (t.getScopeDepth() <= 2 ignore) {   
+if (t.getScopeDepth() <= 2 > 1) {   
+if (t.getScopeDepth() <= 2 /* } }) {   
+if (t.getScopeDepth() <= 2 && ngDevMode) {   
+if (t.getScopeDepth() <= 2D) {   
+if (t.getScopeDepth() <= 2 -1) {   
+if (t.getScopeDepth() <= 2 && n == scopeRoot) {   
+if (t.getScopeDepth() <= 2.2) {   
+if (t.getScopeDepth() <= 2 && n.isDefaultValue()) {   
+if (t.getScopeDepth() <= 2 || strict) {   
+if (t.getScopeDepth() <= 2 /*else) {   
+if (t.getScopeDepth() <= 2.1) {   
+if (t.getScopeDepth() <= 2 /* otherwise) {   
+if (t.getScopeDepth() <= 2 && data == null) {   
+if (t.getScopeDepth() <= 2_2) {   
+if (t.getScopeDepth() <= 2 && owner != null) {   
+if (t.getScopeDepth() <= 2+ 2) {   
+if (t.getScopeDepth() <= 2 /* exported) {   
+if (t.getScopeDepth() <= 2 && n == this) {   
+if (t.getScopeDepth() <= 2+) {   
+if (t.getScopeDepth() <= 2     }) {   
+if (t.getScopeDepth() <= 2 //) {   
+if (t.getScopeDepth() <= 2) {  return; }) {   
+if (t.getScopeDepth() <= 2 +1) {   
+if (t.getScopeDepth() <= 2 || !n) {   
+if (t.getScopeDepth() <= 2AST#binary_expression#Right) {   
+if (t.getScopeDepth() <= 2 && parent==null) {   
+if (t.getScopeDepth() <= 2 <= 3) {   
+if (t.getScopeDepth() <= 2 || n==null) {   
+if (t.getScopeDepth() <= 2 && globalScope != null) {   
+if (t.getScopeDepth() <= 2 else) {   
+if (t.getScopeDepth() <= 2 /*package) {   
+if (t.getScopeDepth() <= 2p) {   
+if (t.getScopeDepth() <= 2 && !visited) {   
+if (t.getScopeDepth() <= 2 && n.hasChildren()) {   
+if (t.getScopeDepth() <= 2 && n) {   
+if (t.getScopeDepth() <= 2 && javac) {   
+if (t.getScopeDepth() <= 2 && strict) {   
+if (t.getScopeDepth() <= 2 && t != null) {   
+if (t.getScopeDepth() <= 2 // }) {   
+if (t.getScopeDepth() <= 2 2) {   
+if (t.getScopeDepth() <= 2 > 2) {   
+if (t.getScopeDepth() <= 2 && !data.isEmpty()) {   
+if (t.getScopeDepth() <= 2 below) {   
+if (t.getScopeDepth() <= 2 // else) {   
+if (t.getScopeDepth() <= 2 && scope != null) {   
+if (t.getScopeDepth() <= 2 && n.isComputedProp) {   
+if (t.getScopeDepth() <= 2) {  } }) {   
+if (t.getScopeDepth() <= 2 && n.hasOneChild()) {   
+if (t.getScopeDepth() <= 2) { …) {   
+if (t.getScopeDepth() <= 2 && isExported(n)) {   
+if (t.getScopeDepth() <= 2 && verbose) {   
+if (t.getScopeDepth() <= 2C) {   
+if (t.getScopeDepth() <= 2 && env) {   
+if (t.getScopeDepth() <= 2 && !n.isEmpty()) {   
+if (t.getScopeDepth() <= 2 && !n.isFunction()) {   
+if (t.getScopeDepth() <= 2) { return }) {   
+if (t.getScopeDepth() <= 2 /*}) {   
+if (t.getScopeDepth() <= 2 || parent==null) {   
+if (t.getScopeDepth() <= 2+1;) {   
+if (t.getScopeDepth() <= 2 && !n.isVar()) {   
+if (t.getScopeDepth() <= 2) {  //}) {   
+if (t.getScopeDepth() <= 2 && n.isVar) {   
+if (t.getScopeDepth() <= 2<mask3>}) {   
+if (t.getScopeDepth() <= 2 || global) {   
+if (t.getScopeDepth() <= 2) …) {   
+if (t.getScopeDepth() <= 2 /* } */) {   
+if (t.getScopeDepth() <= 2 || parent.isCall()) {   
+if (t.getScopeDepth() <= 2, …) {   
+if (t.getScopeDepth() <= 2 && !n) {   
+if (t.getScopeDepth() <= 2 && n == VOID) {   
+if (t.getScopeDepth() <= 2 ) {) {   
+if (t.getScopeDepth() <= 2 && child) {   
+if (t.getScopeDepth() <= 2 && n.isThis()) {   
+if (t.getScopeDepth() <= 2 || !inGlobalScope) {   
+if (t.getScopeDepth() <= 2 * 2) {   
+if (t.getScopeDepth() <= 2 || n.isVar()) {   
+if (t.getScopeDepth() <= 2 && isRestricted) {   
+if (t.getScopeDepth() <= 2) {  ) {   
+if (t.getScopeDepth() <= 2 || parent.isName()) {   
+if (t.getScopeDepth() <= 2 && child == null) {   
+if (t.getScopeDepth() <= 2 && isLocal) {   
+if (t.getScopeDepth() <= 2 && !n.isRoot) {   
+if (t.getScopeDepth() <= 2       }) {   
+if (t.getScopeDepth() <= 2 && n is null) {   
+if (t.getScopeDepth() <= 2 && localOnly) {   
+if (t.getScopeDepth() <= 2) { …}) {   
+if (t.getScopeDepth() <= 2 && !n.isStatic) {   
+if (t.getScopeDepth() <= 2) { ... }) {   
+if (t.getScopeDepth() <= 2 && !tainted) {   
+if (t.getScopeDepth() <= 2, do nothing) {   
+if (t.getScopeDepth() <= 2 && n == root) {   
+if (t.getScopeDepth() <= 2 && n == parent) {   
+if (t.getScopeDepth() <= 2 && scope == null) {   
+if (t.getScopeDepth() <= 2 && !n.isComputed) {   
+if (t.getScopeDepth() <= 2) {  // }) {   
+if (t.getScopeDepth() <= 2) {   }) {   
+if (t.getScopeDepth() <= 2 && currentScope != null) {   
+if (t.getScopeDepth() <= 2) {  }}) {   
+if (t.getScopeDepth() <= 2 || n is null) {   
+if (t.getScopeDepth() <= 2 && n.getBooleanProp) {   
+if (t.getScopeDepth() <= 2 && n != scopeRoot) {   
+if (t.getScopeDepth() <= 2) { } }) {   
+if (t.getScopeDepth() <= 2 || !inGlobalScope()) {   
+if (t.getScopeDepth() <= 2 && n.hasOneChild) {   
+if (t.getScopeDepth() <= 2) {  };) {   
+if (t.getScopeDepth() <= 2 + 1 > 0) {   
+if (t.getScopeDepth() <= 2 && n instanceof FunctionDef) {   
+if (t.getScopeDepth() <= 2 && !parent.isBlock) {   
+if (t.getScopeDepth() <= 2 && n is not null) {   
+if (t.getScopeDepth() <= 2 && !n.isEmpty) {   
+if (t.getScopeDepth() <= 2) { return; } }) {   
+if (t.getScopeDepth() <= 2 && n.isEmpty) {   
+if (t.getScopeDepth() <= 2 || globalScope) {   
+if (t.getScopeDepth() <= 2 && !n.isName) {   
+if (t.getScopeDepth() <= 2 && n.isEmpty()) {   
+if (t.getScopeDepth() <= 2) { <mask1>;) {   
+if (t.getScopeDepth() <= 2 && n.isFunction() ) {   
+if (t.getScopeDepth() <= 2 || parent.isVar()) {   
+if (t.getScopeDepth() <= 2 && globalScope) {   
+if (t.getScopeDepth() <= 2)(n, parent);) {   
+if (t.getScopeDepth() <= 2 && parent.isName()) {   
+if (t.getScopeDepth() <= 2 && node.isName()) {   
+if (t.getScopeDepth() <= 2) { }) {   
+if (t.getScopeDepth() <= 2 || !parent) {   
+if (t.getScopeDepth() <= 2) { … }) {   
+if (t.getScopeDepth() <= 2 && n.isRoot()) {   
+if (t.getScopeDepth() <= 2 && n.isFunction) {   
+if (t.getScopeDepth() <= 2 && isInGlobalScope()) {   
+if (t.getScopeDepth() <= 2 + 1 <= depth) {   
+if (t.getScopeDepth() <= 2 && n.isStatic) {   
+if (t.getScopeDepth() <= 2 && n.isVarArgs()) {   
+if (t.getScopeDepth() <= 2 && !n.isBlock) {   
+if (t.getScopeDepth() <= 2 && ownerScope != null) {   
+if (t.getScopeDepth() <= 2 && n.isVar() ) {   
+if (t.getScopeDepth() <= 2 && n.isRoot) {   
+if (t.getScopeDepth() <= 2 ) {   
+if (t.getScopeDepth() <= 2+1) {   
+if (t.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2 && n != null) {   
+if (t.getScopeDepth() <= 2 + 1) {   
+if (t.getScopeDepth() <= 2 ) {   
+if (t.getScopeDepth() <= 2 && n == null) {   
+if (t.getScopeDepth() <= 2 && parent != null) {   
+if (t.getScopeDepth() <= 2) {) {   
+if (t.getScopeDepth() <= 2;) {   
+if (t.getScopeDepth() <= 2 + 2) {   
+if (t.getScopeDepth() <= 2+2) {   
+if (t.getScopeDepth() <= 2) {  }) {   
+if (t.getScopeDepth() <= 2 || n == null) {   
+if (t.getScopeDepth() <= 2 ^) {   
+if (t.getScopeDepth() <= 2 && parent == null) {   
+if (t.getScopeDepth() <= 2 || parent != null) {   
+if (t.getScopeDepth() <= 2,) {   
+if (t.getScopeDepth() <= 2L) {   
+if (t.getScopeDepth() <= 2-1) {   
+if (t.getScopeDepth() <= 2) {}) {   
+if (t.getScopeDepth() <= 2 || parent == null) {   
+if (t.getScopeDepth() <= 2 && n.isName()) {   
+if (t.getScopeDepth() <= 2 || inGlobalScope) {   
+if (t.getScopeDepth() <= 2 /* }) {   
+if (t.getScopeDepth() <= 2*) {   
+if (t.getScopeDepth() <= 2) { return; }) {   
+if (t.getScopeDepth() <= 2 && n.isFunction()) {   
+if (t.getScopeDepth() <= 2) { ) {   
+if (t.getScopeDepth() <= 2) return;) {   
+if (t.getScopeDepth() <= 2 }) {   
+if (t.getScopeDepth() <= 2 && inGlobalScope) {   
+if (t.getScopeDepth() <= 2}) {   
+if (t.getScopeDepth() <= 2) { }) {   
+if (t.getScopeDepth() <= 2 && !inGlobalScope) {   
+if (t.getScopeDepth() <= 2  ) {   
+if (t.getScopeDepth() <= 2.0) {   
+if (t.getScopeDepth() <= 2 || inGlobalScope()) {   
+if (t.getScopeDepth() <= 2d) {   
+if (t.getScopeDepth() <= 2..) {   
+if (t.getScopeDepth() <= 2 *) {   
+if (t.getScopeDepth() <= 2 --) {   
+if (t.getScopeDepth() <= 2 <= 2) {   
+if (t.getScopeDepth() <= 2 -) {   
+if (t.getScopeDepth() <= 2 /* else) {   
+if (t.getScopeDepth() <= 2) return) {   
+if (t.getScopeDepth() <= 2 && n.isVar()) {   
+if (t.getScopeDepth() <= 2f) {   
+if (t.getScopeDepth() <= 2   }) {   
+if (t.getScopeDepth() <= 2 && n instanceof ReturnStatement) {   
+if (t.getScopeDepth() <= 2 && data != null) {   
+if (t.getScopeDepth() <= 2 }) {   
+if (t.getScopeDepth() <= 2e) {   
+if (t.getScopeDepth() <= 2 || parent) {   
+if (t.getScopeDepth() <= 2 /* istanbul ignore next) {   
+if (t.getScopeDepth() <= 2-2) {   
+if (t.getScopeDepth() <= 2)) {   
+if (t.getScopeDepth() <= 2 + 3) {   
+if (t.getScopeDepth() <= 2 && node != null) {   
+if (t.getScopeDepth() <= 2 //else) {   
+if (t.getScopeDepth() <= 2	) {   
+if (t.getScopeDepth() <= 2 <<) {   
+if (t.getScopeDepth() <= 2 & n != null) {   
+if (t.getScopeDepth() <= 2 && name == null) {   
+if (t.getScopeDepth() <= 2E) {   
+if (t.getScopeDepth() <= 2) return; }) {   
+if (t.getScopeDepth() <= 2 || t.inGlobalScope) {   
+if (t.getScopeDepth() <= 2 && name != null) {   
+if (t.getScopeDepth() <= 2 && n.isQualifiedName()) {   
+if (t.getScopeDepth() <= 2+3) {   
+if (t.getScopeDepth() <= 2 && t.inGlobalScope) {   
+if (t.getScopeDepth() <= 2 == 1) {   
+if (t.getScopeDepth() <= 2 > 0) {   
+if (t.getScopeDepth() <= 2 && inGlobalScope()) {   
+if (t.getScopeDepth() <= 2, ) {   
+if (t.getScopeDepth() <= 2 then) {   
+if (t.getScopeDepth() <= 2) ) {   
+if (t.getScopeDepth() <= 2 == 0) {   
+if (t.getScopeDepth() <= 2 && n==null) {   
+if (t.getScopeDepth() <= 2 /*) {   
+if (t.getScopeDepth() <= 2 || n != null) {   
+if (t.getScopeDepth() <= 2+ 1) {   
+if (t.getScopeDepth() <= 2 <= 1) {   
+if (t.getScopeDepth() <= 2 || false) {   
+if (t.getScopeDepth() <= 2) {  }) {   
+if (t.getScopeDepth() <= 2; }) {   
+if (t.getScopeDepth() <= 2 && node == null) {   
+if (t.getScopeDepth() <= 2 && n!=null) {   
+if (t.getScopeDepth() <= 2a) {   
+if (t.getScopeDepth() <= 2l) {   
+if (t.getScopeDepth() <= 2);) {   
+if (t.getScopeDepth() <= 2.5) {   
+if (t.getScopeDepth() <= 2 //else) {   
+if (t.getScopeDepth() <= 2 )) {   
+if (t.getScopeDepth() <= 2^) {   
+if (t.getScopeDepth() <= 2 == 2) {   
+if (t.getScopeDepth() <= 2 && parent) {   
+if (t.getScopeDepth() <= 2 || n.isName()) {   
+if (t.getScopeDepth() <= 2 || true) {   
+if (t.getScopeDepth() <= 2 && !parent) {   
+if (t.getScopeDepth() <= 2 && n.isReturn()) {   
+if (t.getScopeDepth() <= 2 && parent!=null) {   
+if (t.getScopeDepth() <= 2x) {   
+if (t.getScopeDepth() <= 2^2) {   
+if (t.getScopeDepth() <= 2 && n.isCall()) {   
+if (t.getScopeDepth() <= 2/*) {   
+if (t.getScopeDepth() <= 2 && !inGlobalScope()) {   
+if (t.getScopeDepth() <= 2 && isExported) {   
+if (t.getScopeDepth() <= 257) {   
+if (t.getScopeDepth() <= 2 || n.isFunction()) {   
+if (t.getScopeDepth() <= 2 && n instanceof Variable) {   
+if (t.getScopeDepth() <= 2 <mask1> ) {   
+if (t.getScopeDepth() <= 2--) {   
+if (t.getScopeDepth() <= 2<mask3>;) {   
+if (t.getScopeDepth() <= 2 ignore) {   
+if (t.getScopeDepth() <= 2 > 1) {   
+if (t.getScopeDepth() <= 2 /* } }) {   
+if (t.getScopeDepth() <= 2 && ngDevMode) {   
+if (t.getScopeDepth() <= 2D) {   
+if (t.getScopeDepth() <= 2 -1) {   
+if (t.getScopeDepth() <= 2 && n == scopeRoot) {   
+if (t.getScopeDepth() <= 2.2) {   
+if (t.getScopeDepth() <= 2 && n.isDefaultValue()) {   
+if (t.getScopeDepth() <= 2 || strict) {   
+if (t.getScopeDepth() <= 2 /*else) {   
+if (t.getScopeDepth() <= 2.1) {   
+if (t.getScopeDepth() <= 2 /* otherwise) {   
+if (t.getScopeDepth() <= 2 && data == null) {   
+if (t.getScopeDepth() <= 2_2) {   
+if (t.getScopeDepth() <= 2 && owner != null) {   
+if (t.getScopeDepth() <= 2+ 2) {   
+if (t.getScopeDepth() <= 2 /* exported) {   
+if (t.getScopeDepth() <= 2 && n == this) {   
+if (t.getScopeDepth() <= 2+) {   
+if (t.getScopeDepth() <= 2     }) {   
+if (t.getScopeDepth() <= 2 //) {   
+if (t.getScopeDepth() <= 2) {  return; }) {   
+if (t.getScopeDepth() <= 2 +1) {   
+if (t.getScopeDepth() <= 2 || !n) {   
+if (t.getScopeDepth() <= 2AST#binary_expression#Right) {   
+if (t.getScopeDepth() <= 2 && parent==null) {   
+if (t.getScopeDepth() <= 2 <= 3) {   
+if (t.getScopeDepth() <= 2 || n==null) {   
+if (t.getScopeDepth() <= 2 && globalScope != null) {   
+if (t.getScopeDepth() <= 2 else) {   
+if (t.getScopeDepth() <= 2 /*package) {   
+if (t.getScopeDepth() <= 2p) {   
+if (t.getScopeDepth() <= 2 && !visited) {   
+if (t.getScopeDepth() <= 2 && n.hasChildren()) {   
+if (t.getScopeDepth() <= 2 && n) {   
+if (t.getScopeDepth() <= 2 && javac) {   
+if (t.getScopeDepth() <= 2 && strict) {   
+if (t.getScopeDepth() <= 2 && t != null) {   
+if (t.getScopeDepth() <= 2 // }) {   
+if (t.getScopeDepth() <= 2 2) {   
+if (t.getScopeDepth() <= 2 > 2) {   
+if (t.getScopeDepth() <= 2 && !data.isEmpty()) {   
+if (t.getScopeDepth() <= 2 below) {   
+if (t.getScopeDepth() <= 2 // else) {   
+if (t.getScopeDepth() <= 2 && scope != null) {   
+if (t.getScopeDepth() <= 2 && n.isComputedProp) {   
+if (t.getScopeDepth() <= 2) {  } }) {   
+if (t.getScopeDepth() <= 2 && n.hasOneChild()) {   
+if (t.getScopeDepth() <= 2) { …) {   
+if (t.getScopeDepth() <= 2 && isExported(n)) {   
+if (t.getScopeDepth() <= 2 && verbose) {   
+if (t.getScopeDepth() <= 2C) {   
+if (t.getScopeDepth() <= 2 && env) {   
+if (t.getScopeDepth() <= 2 && !n.isEmpty()) {   
+if (t.getScopeDepth() <= 2 && !n.isFunction()) {   
+if (t.getScopeDepth() <= 2) { return }) {   
+if (t.getScopeDepth() <= 2 /*}) {   
+if (t.getScopeDepth() <= 2 || parent==null) {   
+if (t.getScopeDepth() <= 2+1;) {   
+if (t.getScopeDepth() <= 2 && !n.isVar()) {   
+if (t.getScopeDepth() <= 2) {  //}) {   
+if (t.getScopeDepth() <= 2 && n.isVar) {   
+if (t.getScopeDepth() <= 2<mask3>}) {   
+if (t.getScopeDepth() <= 2 || global) {   
+if (t.getScopeDepth() <= 2) …) {   
+if (t.getScopeDepth() <= 2 /* } */) {   
+if (t.getScopeDepth() <= 2 || parent.isCall()) {   
+if (t.getScopeDepth() <= 2, …) {   
+if (t.getScopeDepth() <= 2 && !n) {   
+if (t.getScopeDepth() <= 2 && n == VOID) {   
+if (t.getScopeDepth() <= 2 ) {) {   
+if (t.getScopeDepth() <= 2 && child) {   
+if (t.getScopeDepth() <= 2 && n.isThis()) {   
+if (t.getScopeDepth() <= 2 || !inGlobalScope) {   
+if (t.getScopeDepth() <= 2 * 2) {   
+if (t.getScopeDepth() <= 2 || n.isVar()) {   
+if (t.getScopeDepth() <= 2 && isRestricted) {   
+if (t.getScopeDepth() <= 2) {  ) {   
+if (t.getScopeDepth() <= 2 || parent.isName()) {   
+if (t.getScopeDepth() <= 2 && child == null) {   
+if (t.getScopeDepth() <= 2 && isLocal) {   
+if (t.getScopeDepth() <= 2 && !n.isRoot) {   
+if (t.getScopeDepth() <= 2       }) {   
+if (t.getScopeDepth() <= 2 && n is null) {   
+if (t.getScopeDepth() <= 2 && localOnly) {   
+if (t.getScopeDepth() <= 2) { …}) {   
+if (t.getScopeDepth() <= 2 && !n.isStatic) {   
+if (t.getScopeDepth() <= 2) { ... }) {   
+if (t.getScopeDepth() <= 2 && !tainted) {   
+if (t.getScopeDepth() <= 2, do nothing) {   
+if (t.getScopeDepth() <= 2 && n == root) {   
+if (t.getScopeDepth() <= 2 && n == parent) {   
+if (t.getScopeDepth() <= 2 && scope == null) {   
+if (t.getScopeDepth() <= 2 && !n.isComputed) {   
+if (t.getScopeDepth() <= 2) {  // }) {   
+if (t.getScopeDepth() <= 2) {   }) {   
+if (t.getScopeDepth() <= 2 && currentScope != null) {   
+if (t.getScopeDepth() <= 2) {  }}) {   
+if (t.getScopeDepth() <= 2 || n is null) {   
+if (t.getScopeDepth() <= 2 && n.getBooleanProp) {   
+if (t.getScopeDepth() <= 2 && n != scopeRoot) {   
+if (t.getScopeDepth() <= 2) { } }) {   
+if (t.getScopeDepth() <= 2 || !inGlobalScope()) {   
+if (t.getScopeDepth() <= 2 && n.hasOneChild) {   
+if (t.getScopeDepth() <= 2) {  };) {   
+if (t.getScopeDepth() <= 2 + 1 > 0) {   
+if (t.getScopeDepth() <= 2 && n instanceof FunctionDef) {   
+if (t.getScopeDepth() <= 2 && !parent.isBlock) {   
+if (t.getScopeDepth() <= 2 && n is not null) {   
+if (t.getScopeDepth() <= 2 && !n.isEmpty) {   
+if (t.getScopeDepth() <= 2) { return; } }) {   
+if (t.getScopeDepth() <= 2 && n.isEmpty) {   
+if (t.getScopeDepth() <= 2 || globalScope) {   
+if (t.getScopeDepth() <= 2 && !n.isName) {   
+if (t.getScopeDepth() <= 2 && n.isEmpty()) {   
+if (t.getScopeDepth() <= 2) { <mask1>;) {   
+if (t.getScopeDepth() <= 2 && n.isFunction() ) {   
+if (t.getScopeDepth() <= 2 || parent.isVar()) {   
+if (t.getScopeDepth() <= 2 && globalScope) {   
+if (t.getScopeDepth() <= 2)(n, parent);) {   
+if (t.getScopeDepth() <= 2 && parent.isName()) {   
+if (t.getScopeDepth() <= 2 && node.isName()) {   
+if (t.getScopeDepth() <= 2) { }) {   
+if (t.getScopeDepth() <= 2 || !parent) {   
+if (t.getScopeDepth() <= 2) { … }) {   
+if (t.getScopeDepth() <= 2 && n.isRoot()) {   
+if (t.getScopeDepth() <= 2 && n.isFunction) {   
+if (t.getScopeDepth() <= 2 && isInGlobalScope()) {   
+if (t.getScopeDepth() <= 2 + 1 <= depth) {   
+if (t.getScopeDepth() <= 2 && n.isStatic) {   
+if (t.getScopeDepth() <= 2 && n.isVarArgs()) {   
+if (t.getScopeDepth() <= 2 && !n.isBlock) {   
+if (t.getScopeDepth() <= 2 && ownerScope != null) {   
+if (t.getScopeDepth() <= 2 && n.isVar() ) {   
+if (t.getScopeDepth() <= 2 && n.isRoot) {   
+if (t.getScopeDepth() <= 2) {   
+if (t.getDepth() <= 2) {   
+if (t.getNodeCount() <= 2) {   
+if (t.getParentScope() <= 2) {   
+if (t.getScopeLevel() <= 2) {   
+if (t.getNodeDepth() <= 2) {   
+if (t.getTreeDepth() <= 2) {   
+if (t.getNodeKind() <= 2) {   
+if (t.getBranchDepth() <= 2) {   
+if (t.getStackDepth() <= 2) {   
+if (t.getRootDepth() <= 2) {   
+if (t.getChildCount() <= 2) {   
+if (t.getScopeCount() <= 2) {   
+if (t.getLevelDepth() <= 2) {   
+if (t.getModuleDepth() <= 2) {   
+if (t.getNodeType() <= 2) {   
+if (t.getScopeDepth() <= 2) {   
+if (t.getScopesDepth() <= 2) {   
+if (t.getScope depth() <= 2) {   
+if (t.getLevel() <= 2) {   
+if (t.getScopes() <= 2) {   
+if (t.getCurrentScopeDepth() <= 2) {   
+if (t.scopeDepth() <= 2) {   
+if (t.getNodeStackDepth() <= 2) {   
+if (t.getContextDepth() <= 2) {   
+if (t.getScopeSize() <= 2) {   
+if (t.getLocation() <= 2) {   
+if (t.getScopeDeep() <= 2) {   
+if (t.getTypeDepth() <= 2) {   
+if (t.getEnclosingScope() <= 2) {   
+if (t.getCurrentScope() <= 2) {   
+if (t.getScope<mask1>getScopeDepth() <= 2) {   
+if (t.getScopeDeepDepth() <= 2) {   
+if (t.getEnclosingScopeDepth() <= 2) {   
+if (t.getNodeLength() <= 2) {   
+if (t.getScopeLength() <= 2) {   
+if (t.getTokenKind() <= 2) {   
+if (t.getNodeStack() <= 2) {   
+if (t.getScopeStackDepth() <= 2) {   
+if (t.getGlobalScopeDepth() <= 2) {   
+if (t.getExitDepth() <= 2) {   
+if (t.getVarDepth() <= 2) {   
+if (t.inGlobalScope() <= 2) {   
+if (t.getReturnDepth() <= 2) {   
+if (t.getLevel() <= 2() <= 2) {   
+if (t.getNextNode() <= 2) {   
+if (t.getScopeTailDepth() <= 2) {   
+if (t.getCurrentDepth() <= 2) {   
+if (t.getNodeFlags() <= 2) {   
+if (t.getScopeRootDepth() <= 2) {   
+if (t.getScopeNameDepth() <= 2) {   
+if (t.getTargetDepth() <= 2) {   
+if (t.getNumberDepth() <= 2) {   
+if (t.getMaxDepth() <= 2) {   
+if (t.getScopeDeepLevel() <= 2) {   
+if (t.getSize() <= 2) {   
+if (t.getTokenCount() <= 2) {   
+if (t.getScopeMaxDepth() <= 2) {   
+if (t.getExpressionDepth() <= 2) {   
+if (t.getToken() <= 2) {   
+if (t.getPrecedence() <= 2) {   
+if (t.getScopeTopDepth() <= 2) {   
+if (t.getMethodDepth() <= 2) {   
+if (t.getNameDepth() <= 2) {   
+if (t.getNodeScope() <= 2) {   
+if (t.getNodeScopeDepth() <= 2) {   
+if (t.getTreeLevel() <= 2) {   
+if (t.getIterationDepth() <= 2) {   
+if (t.getTopLevelScopeDepth() <= 2) {   
+if (t.getParentScopeDepth() <= 2) {   
+if (t.getChildrenDepth() <= 2) {   
+if (t.getParent<mask1>getScopeDepth() <= 2) {   
+if (t.getNodeStackSize() <= 2) {   
+if (t.getContext() <= 2) {   
+if (t.getNodeArity() <= 2) {   
+if (t.getTree<mask1>getScopeDepth() <= 2) {   
+if (t.getScopeLimit() <= 2) {   
+if (t.getPushState() <= 2) {   
+if (t.getAncestors() <= 2) {   
+if (t.getScopeScopes() <= 2) {   
+if (t.getScopeCounter() <= 2) {   
+if (t.getNodeTypes() <= 2) {   
+if (t.getLocalNameDepth() <= 2) {   
+if (t.getScopedepth() <= 2) {   
+if (t.getMaxScopeDepth() <= 2) {   
+if (t.getScopeMaxDepth() <= 2) {   
+if (t.getScopeParentDepth() <= 2) {   
+if (t.getTokenScopes() <= 2) {   
+if (t.getInGlobalScope() <= 2) {   
+if (t.getExpressionCount() <= 2) {   
+if (t.getScope() <= 2) {   
+if (t.getScopeIndex() <= 2) {   
+if (t.getScopeRecursionDepth() <= 2) {   
+if (t.getHierarchyDepth() <= 2) {   
+if (t.getScopeFlags() <= 2) {   
+if (t.getParent() <= 2) {   
+if (t.depth() <= 2) {   
+if (t.getWindowDepth() <= 2) {   
+if (t.getLineno() <= 2) {   
+if (t.getTreeCount() <= 2) {   
+if (t.getCurrentNestingLevel() <= 2) {   
+if (t.getParentTraversal() <= 2) {   
+if (t.getNext() <= 2) {   
+if (t.getPass() <= 2) {   
+if (t.getParentScope()() <= 2) {   
+if (t.getTreePath() <= 2) {   
+if (t.getNode<mask1>getScopeDepth() <= 2) {   
+if (t.getToken<mask1>getScopeDepth() <= 2) {   
+if (t.getNodeNumber() <= 2) {   
+if (t.getCurrentLevel() <= 2) {   
+if (t.getScopeDuration() <= 2) {   
+if (t.getNamespaceDepth() <= 2) {   
+if (t.getScopeDepth<mask3>}() <= 2) {   
+if (t.getRetentionLevel() <= 2) {   
+if (t.getLocalScope() <= 2) {   
+if (t.getScopeModifiers() <= 2) {   
+if (t.getEvalDepth() <= 2) {   
+if (t.getOpDepth() <= 2) {   
+if (t.getBuildDepth() <= 2) {   
+if (t.getVarsDepth() <= 2) {   
+if (t.getPropDepth() <= 2) {   
+if (t.getExpressionStackDepth() <= 2) {   
+if (t.getTagCount() <= 2) {   
+if (t.getLength() <= 2) {   
+if (t.getLanguageVersion() <= 2) {   
+if (t.getReduceDepth() <= 2) {   
+if (t.getScopeStack() <= 2) {   
+if (t.getMethodCount() <= 2) {   
+if (t.getScope()() <= 2) {   
+if (t.getScopeOrder() <= 2) {   
+if (t.getDepthDepth() <= 2) {   
+if (t.getScopeWidth() <= 2) {   
+if (t.getScopeParents() <= 2) {   
+if (t.getNextScope() <= 2) {   
+if (t.getNodeWidth() <= 2) {   
+if (t.getScopeChildrenDepth() <= 2) {   
+if (t.getParentScopes() <= 2) {   
+if (t.getScopeTop() <= 2) {   
+if (t.getVariablesDepth() <= 2) {   
+if (t.getNodesDepth() <= 2) {   
+if (t.getChildScopes() <= 2) {   
+if (t.getVariableDepth() <= 2) {   
+if (t.getTransactionDepth() <= 2) {   
+if (t.getScopeHeight() <= 2) {   
+if (t.getPath().cleanUp() <= 2) {   
+if (t.getLoopCount() <= 2) {   
+if (t.getOptimizationLevel() <= 2) {   
+if (t.getModuleCount() <= 2) {   
+if (t.getTokenType() <= 2) {   
+if (t.getScopeType() <= 2) {   
+if (t.getLoopDepth() <= 2) {   
+if (t.getDepthLevel() <= 2) {   
+if (t.getEvalScope() <= 2) {   
+if (t.getValueCount() <= 2) {   
+if (t.getPath().isEmpty()() <= 2) {   
+if (t.getReferenceDepth() <= 2) {   
+if (t.getNestingLevel() <= 2) {   
+if (t.getCurrentDepth() <= 2) {   
+if (t.getNodeStackTop() <= 2) {   
+if (t.getSelectionDepth() <= 2) {   
+if (t.getTailDepth() <= 2) {   
+if (t.getScopeLevels() <= 2) {   
+if (t.getTargetScope() <= 2) {   
+if (t.getTokenBefore() <= 2) {   
+if (t.getInfoDepth() <= 2) {   
+if (t.getEnvironmentDepth() <= 2) {   
+if (t.getModifiers() <= 2) {   
+if (t.getKeyDepth() <= 2) {   
+if (t.getNodeSize() <= 2) {   
+if (t.getTokenStream() <= 2) {   
+if (t.getArity() <= 2) {   
+if (t.getDegree() <= 2) {   
+if (t.getScopePath() <= 2) {   
+if (t.getEndScope() <= 2) {   
+if (t.getTokenLength() <= 2) {   
+if (t.getEndNodeDepth() <= 2) {   
+if (t.getTopLevelScope() <= 2) {   
+if (t.getSuiteDepth() <= 2) {   
+if (t.getScopeState() <= 2) {   
+if (t.getScopeBottomDepth() <= 2) {   
+if (t.getListenerCount() <= 2) {   
+if (t.getScopePathDepth() <= 2) {   
+if (t.getReferrers() <= 2) {   
+if (t.getScopeScopeDepth() <= 2) {   
+if (t.getGlobalScope() <= 2) {   
+if (t.getPath().length() <= 2) {   
+if (t.getTargetScopeDepth() <= 2) {   
+if (t.getScopeContextDepth() <= 2) {   
+if (t.getNodeNameDepth() <= 2) {   
+if (t.getExecutionDepth() <= 2) {   
+if (t.getCurrentScopeLevel() <= 2) {   
+if (t.getScopeBaseDepth() <= 2) {   
+if (t.traverseScope() <= 2) {   
+if (t.getModuleLevel() <= 2) {   
+if (t.getScopeTotalDepth() <= 2) {   
+if (t.getScopeLastDepth() <= 2) {   
+if (t.getEndNode() <= 2) {   
+if (t.getCurrentNestingDepth() <= 2) {   
+if (t.getFunctionNameDepth() <= 2) {   
+if (t.getScopeLevelDepth() <= 2) {   
+if (t.getParentNode() <= 2) {   
+if (t.getScopeDepth2() <= 2) {   
+if (t.getLevel()() <= 2) {   
+if (t.getTopLevelDepth() <= 2) {   
+if (t.getClosureDepth() <= 2) {   
+if (t.getIndentationLevel() <= 2) {   
+if (t.getClosureScope() <= 2) {   
+if (t.getSecondScope() <= 2) {   
+if (t.getFlowScope() <= 2) {   
+if (t.getStaticScope() <= 2) {   
+if (t.getVisitorState() <= 2) {   
+if (t.getPushScope() <= 2) {   
+if (t.getThisScope() <= 2) {   
+if (t.getScopeTopScope() <= 2) {   
+if (t.getEvalScopeDepth() <= 2) {   
+if (t.getFlowScopeDepth() <= 2) {   
+if (t.getScope() <= 2() <= 2) {   
+if (t.getExitScopeDepth() <= 2) {   
+if (t.getReverseScopeDepth() <= 2) {   
+if (t.getNode().isVar() <= 2) {   
+if (t.getNodeStack().empty() <= 2) {   
+if (t.getReverseScope() <= 2) {   
+if (t.getBuildScopeDepth() <= 2) {   
+if (t.getParent() == null() <= 2) {   
+if (t.getOriginalScope() <= 2) {   
+if (t.getLevel() <= 1() <= 2) {   
+if (t.getPath().isEmpty() <= 2) {   
+if (t.isInGlobalScope() <= 2) {   
+if (t.getCompilerOptions() <= 2) {   
+if (t.getBuildScope() <= 2) {   
+if (t.getParent() != null() <= 2) {   
+if (t.getExportScopeDepth() <= 2) {   
+if (t.getInGlobalScope()() <= 2) {   
+if (t.getInGlobalScopeDepth() <= 2) {   
+if (t.getScopeDepth<mask5>() <= 2) {   
+if (t.getDynamicScope() <= 2) {   
+if (t.getExportScope() <= 2) {   
+if (t.getLowestScopeLevel() <= 2) {   
+if (t.getReturnScope() <= 2) {   
+if (t.getNodeStack().length() <= 2) {   
+if (t.getScopeDepth<mask3>() <= 2) {   
+if (t.getLevel() <= 3() <= 2) {   
+if (t.getOwnSlot() <= 2) {   
+if (t.getReturnScopeDepth() <= 2) {   
+if (t.getNodeStack().size() <= 2) {   
+if (t.getScopeLevel()() <= 2) {   
+if (t.getScopeDeep()() <= 2) {   
+if (t.getExitScope() <= 2) {   
+if (t.getNodeStack().isEmpty() <= 2) {   
+if (t.getNodePath().length() <= 2) {   
+if (t.getScopeDepth() <= 2) {   
+if (n.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() <= 2) {   
+if (parent.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() <= 2.getScopeDepth() <= 2) {   
+if (t<mask1>n.getScopeDepth() <= 2) {   
+if (data.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() <= 1.getScopeDepth() <= 2) {   
+if (t<mask5>.getScopeDepth() <= 2) {   
+if (t<mask1>parent.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() <= 3.getScopeDepth() <= 2) {   
+if (t<mask1>t.inGlobalScope()) {.getScopeDepth() <= 2) {   
+if (t<mask5>}.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2;.getScopeDepth() <= 2) {   
+if (n<mask3>n.getScopeDepth() <= 2) {   
+if (t<mask5> }.getScopeDepth() <= 2) {   
+if (t<mask1>data.getScopeDepth() <= 2) {   
+if (node.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 1.getScopeDepth() <= 2) {   
+if (t<mask5> }.getScopeDepth() <= 2) {   
+if (t<mask5>@Override public void visit(Node.getScopeDepth() <= 2) {   
+if (scope.getScopeDepth() <= 2) {   
+if (n<mask3>n.detach(); }.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() > 2.getScopeDepth() <= 2) {   
+if (compiler.getScopeDepth() <= 2) {   
+if (p.getScopeDepth() <= 2) {   
+if (n<mask1>n.getScopeDepth() <= 2) {   
+if (parent != null && t.getScopeDepth() <= 2) {   
+if ( t.getScopeDepth() <= 2) {   
+if (n == null && t.getScopeDepth() <= 2) {   
+if (parent != null.getScopeDepth() <= 2) {   
+if (n != null && t.getScopeDepth() <= 2) {   
+if (t<mask2>t.getScopeDepth() <= 2) {   
+if (t<mask3>t.getScopeDepth() <= 2.getScopeDepth() <= 2) {   
+if (n<mask3>}.getScopeDepth() <= 2) {   
+if (n<mask1>t.getScopeDepth() <= 2) {   
+if (NodeUtil.getScopeDepth() <= 2) {   
+if (t<mask1>t<mask2>t.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeRoot() != null.getScopeDepth() <= 2) {   
+if (parent != null && parent.getScopeDepth() <= 2) {   
+if (env.getScopeDepth() <= 2) {   
+if (this.getScopeDepth() <= 2) {   
+if (t.inGlobalScope() && t.getScopeDepth() <= 2) {   
+if (n != null && n.getScopeDepth() <= 2) {   
+if (t<mask5>..getScopeDepth() <= 2) {   
+if (n<mask5>}.getScopeDepth() <= 2) {   
+if (t<mask3>t.getScopeRoot().recordNonEmpty.getScopeDepth() <= 2) {   
+if (parent == null.getScopeDepth() <= 2) {   
+if (state.getScopeDepth() <= 2) {   
+if (t<mask3>t.inGlobalScope();.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() > 1.getScopeDepth() <= 2) {   
+if (n == null || t.getScopeDepth() <= 2) {   
+if (t<mask3>}.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() >= 2.getScopeDepth() <= 2) {   
+if (n<mask5>.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() <= 4.getScopeDepth() <= 2) {   
+if (n<mask3>t.getScopeRoot().recordNonEmpty.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() == 2.getScopeDepth() <= 2) {   
+if (r.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() < 2.getScopeDepth() <= 2) {   
+if (e.getScopeDepth() <= 2) {   
+if (nt.getScopeDepth() <= 2) {   
+if (n == null) { return; }.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeLevel() <= 2.getScopeDepth() <= 2) {   
+if (tree.getScopeDepth() <= 2) {   
+if (child.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 3.getScopeDepth() <= 2) {   
+if (t<mask5>n.getScopeDepth() <= 2) {   
+if (n == null || n.getScopeDepth() <= 2) {   
+if (t<mask1>n<mask2>t.getScopeDepth() <= 2) {   
+if (n<mask1>t.getScopeDepth() <= 2.getScopeDepth() <= 2) {   
+if (n<mask5> }.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScope.getScopeDepth() <= 2) {   
+if (n == null || !n.getScopeDepth() <= 2) {   
+if (t<mask3>t.enterGlobalScope(); .getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2; }.getScopeDepth() <= 2) {   
+if (x.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 1;.getScopeDepth() <= 2) {   
+if (n<mask3>t.inGlobalScope();.getScopeDepth() <= 2) {   
+if (t<mask1>t.inGlobalScope());.getScopeDepth() <= 2) {   
+if (n<mask2>t.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() == 1.getScopeDepth() <= 2) {   
+if (s.getScopeDepth() <= 2) {   
+if (n<mask3>n.detach();  }.getScopeDepth() <= 2) {   
+if (config.getScopeDepth() <= 2) {   
+if (t != null && t.getScopeDepth() <= 2) {   
+if (n<mask3>t.getScopeDepth() <= 2.getScopeDepth() <= 2) {   
+if (t.inGlobalScope() || t.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeRoot() == null.getScopeDepth() <= 2) {   
+if (t.scope.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2 }.getScopeDepth() <= 2) {   
+if (environment.getScopeDepth() <= 2) {   
+if (d.getScopeDepth() <= 2) {   
+if (n == null.getScopeDepth() <= 2) {   
+if (parent == null ? null : parent.getScopeDepth() <= 2) {   
+if (f.getScopeDepth() <= 2) {   
+if (t<mask3>n.getScopeDepth() <= 2) {   
+if (n == null) { }.getScopeDepth() <= 2) {   
+if (n<mask3>t.enterGlobalScope(); .getScopeDepth() <= 2) {   
+if (t<mask1>parent != null && parent != n.getScopeDepth() <= 2) {   
+if (t<mask3>t.inGlobalScope(); }.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2 && n.getScopeDepth() <= 2) {   
+if (System.getScopeDepth() <= 2) {   
+if (n<mask1>parent.getScopeDepth() <= 2) {   
+if (t<mask3>t.getScopeDepth() <= 2) {   
+if (children.getScopeDepth() <= 2) {   
+if (t<mask1>n.isName() && n.getScopeDepth() <= 2) {   
+if (t<mask1>parent == null ? null : parent.getScopeDepth() <= 2) {   
+if (parent != null && parent != n.getScopeDepth() <= 2) {   
+if (n == null) return;.getScopeDepth() <= 2) {   
+if (tc.getScopeDepth() <= 2) {   
+if (n.isName() && n.getScopeDepth() <= 2) {   
+if (n<mask3>n.replaceWith(parent));.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 3;.getScopeDepth() <= 2) {   
+if (n<mask5> }.getScopeDepth() <= 2) {   
+if (t<mask1>t.inGlobalScope()).getScopeDepth() <= 2) {   
+if (tp.getScopeDepth() <= 2) {   
+if (n<mask3>parent.getScopeDepth() <= 2) {   
+if (nodeVisitor.getScopeDepth() <= 2) {   
+if (context.getScopeDepth() <= 2) {   
+if (target.getScopeDepth() <= 2) {   
+if (parent && t.getScopeDepth() <= 2) {   
+if (visitor.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() <= 5.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() < 3.getScopeDepth() <= 2) {   
+if (node<mask1>t.getScopeDepth() <= 2) {   
+if (n.isName() || n.getScopeDepth() <= 2) {   
+if (t<mask5> .getScopeDepth() <= 2) {   
+if (t<mask3>t.enterGlobalScope(); .getScopeDepth() <= 2) {   
+if (t<mask5>@Nullable.getScopeDepth() <= 2) {   
+if (n<mask3>n.getParent.getScopeDepth() <= 2) {   
+if (parent != null && parent.isName().getScopeDepth() <= 2) {   
+if (n.isName() && t.getScopeDepth() <= 2) {   
+if (t<mask5>;.getScopeDepth() <= 2) {   
+if (n<mask3>data.get(scopeRoot)..getScopeDepth() <= 2) {   
+if (n.getParent() != null;.getScopeDepth() <= 2) {   
+if (t<mask5>@Override   public void visit.getScopeDepth() <= 2) {   
+if (n == null || n.isName().getScopeDepth() <= 2) {   
+if (t.config.getScopeDepth() <= 2) {   
+if (n<mask3>n.removeChild(n);.getScopeDepth() <= 2) {   
+if (c.getScopeDepth() <= 2) {   
+if (n<mask3>n.getParent().detach(); .getScopeDepth() <= 2) {   
+if (parent == null) { return; }.getScopeDepth() <= 2) {   
+if (n<mask3>t.traverse(n);.getScopeDepth() <= 2) {   
+if (v.getScopeDepth() <= 2) {   
+if (t<mask5>@Override.getScopeDepth() <= 2) {   
+if (parent && parent.getScopeDepth() <= 2) {   
+if (n<mask1>t.getScopeDepth() <= 1.getScopeDepth() <= 2) {   
+if (t<mask5> .getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeLevel() <= 1.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeRoot().recordNonEmpty.getScopeDepth() <= 2) {   
+if (n<mask3>n.remove(); }.getScopeDepth() <= 2) {   
+if (t<mask3>t.traverse(n);.getScopeDepth() <= 2) {   
+if (n<mask3>n.detach();.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() <= 0.getScopeDepth() <= 2) {   
+if (t.traverse(n, parent); }.getScopeDepth() <= 2) {   
+if (n<mask3>data.getScopeDepth() <= 2) {   
+if (t<mask1>n.getParent() != null).getScopeDepth() <= 2) {   
+if (parent != null && !parent.getScopeDepth() <= 2) {   
+if (stats.getScopeDepth() <= 2) {   
+if (t<mask3>t.enterScope(); }.getScopeDepth() <= 2) {   
+if (n<mask3>t.enterGlobalScope(); .getScopeDepth() <= 2) {   
+if (t<mask1>t.currentScope.getScopeDepth() <= 2) {   
+if (n.isReturn() || n.getScopeDepth() <= 2) {   
+if (n<mask3>n.getParent().detach(); .getScopeDepth() <= 2) {   
+if (ctx.getScopeDepth() <= 2) {   
+if (parent != null && parent.isCall().getScopeDepth() <= 2) {   
+if (t.getScopeRoot().getScopeDepth() <= 2) {   
+if (n<mask1>t.inGlobalScope()) {.getScopeDepth() <= 2) {   
+if (n<mask3>t.getScopeDepth() <= 2) {   
+if (n && n.getScopeDepth() <= 2) {   
+if (parent<mask1>t.getScopeDepth() <= 2) {   
+if (n<mask5>n.getScopeDepth() <= 2) {   
+if (parent != null) { }.getScopeDepth() <= 2) {   
+if (n != null && !n.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() >= 3.getScopeDepth() <= 2) {   
+if (t && t.getScopeDepth() <= 2) {   
+if (n == null) {  }.getScopeDepth() <= 2) {   
+if (parent == null && t.getScopeDepth() <= 2) {   
+if (n<mask5>..getScopeDepth() <= 2) {   
+if (t<mask1>t.inGlobalScope()) {}.getScopeDepth() <= 2) {   
+if (t<mask1>node.getScopeDepth() <= 2) {   
+if (n<mask3>t.inGlobalScope(); }.getScopeDepth() <= 2) {   
+if (t<mask1>t.inModuleScope()) {.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() > 2.getScopeDepth() <= 2) {   
+if (tracker.getScopeDepth() <= 2) {   
+if (t.traverse(n, parent);.getScopeDepth() <= 2) {   
+if (parent != null;.getScopeDepth() <= 2) {   
+if (n<mask3>n = n.getParent(); .getScopeDepth() <= 2) {   
+if (n<mask3>n.detach();  // detach.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2 || t.getScopeDepth() <= 2) {   
+if (n && t.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() === 2.getScopeDepth() <= 2) {   
+if (ngDevMode.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeRoot()).recordNonEmpty.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() >= 1.getScopeDepth() <= 2) {   
+if (nodeTraversal.getScopeDepth() <= 2) {   
+if (t.currentScope.getScopeDepth() <= 2) {   
+if (javac.getScopeDepth() <= 2) {   
+if (t<mask1>t.getScopeDepth() > 0.getScopeDepth() <= 2) {   
+if (nodes.getScopeDepth() <= 2) {   
+if (info.getScopeDepth() <= 2) {   
+if (n<mask3>n = n.getFirstChild(); .getScopeDepth() <= 2) {   
+if (t<mask1>t.currentScope != null).getScopeDepth() <= 2) {   
+if (!t.getScopeDepth() <= 2) {   
+if (t<mask1>n.isName() || n.getScopeDepth() <= 2) {   
+if (t<mask3>t.enterGlobalScope();.getScopeDepth() <= 2) {   
+if (t.parentScope.getScopeDepth() <= 2) {   
+if (owner.getScopeDepth() <= 2) {   
+if (n == null || parent == null.getScopeDepth() <= 2) {   
+if (t<mask5>function(t, n) {.getScopeDepth() <= 2) {   
+if (t<mask3>n.detach(); }.getScopeDepth() <= 2) {   
+if (t<mask3>data.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 0.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2 && parent.getScopeDepth() <= 2) {   
+if (t<mask3>t.traverse(n); .getScopeDepth() <= 2) {   
+if (builder.getScopeDepth() <= 2) {   
+if (t<mask1>compiler.getScopeDepth() <= 2) {   
+if (parent != null && parent.isVar().getScopeDepth() <= 2) {   
+if (n != null.getScopeDepth() <= 2) {   
+if (t .getScopeDepth() <= 2) {   
+if (t<mask3>t.inGlobalScope(); .getScopeDepth() <= 2) {   
+if (t<mask3>parent.getScopeDepth() <= 2) {   
+if (n<mask3>n.replaceWith(null));.getScopeDepth() <= 2) {   
+if (n<mask3>n.removeFirstChild(); }.getScopeDepth() <= 2) {   
+if (t<mask3>t.traverseRoots(n);.getScopeDepth() <= 2) {   
+if (Traversal.getScopeDepth() <= 2) {   
+if (t<mask1>t.inGlobalScope()) .getScopeDepth() <= 2) {   
+if (ts.getScopeDepth() <= 2) {   
+if (t<mask1>env.getScopeDepth() <= 2) {   
+if (n == null || n.isQualifiedName().getScopeDepth() <= 2) {   
+if (a.getScopeDepth() <= 2) {   
+if (Data.getScopeDepth() <= 2) {   
+if (m.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <= 2 && t.getScopeDepth() <= 2) {   
+if (parent<mask2>t.getScopeDepth() <= 2) {   
+if (n<mask3>n.getFirstChild() != null;.getScopeDepth() <= 2) {   
+if (rootScope.getScopeDepth() <= 2) {   
+if (tx.getScopeDepth() <= 2) {   
+if (vars.getScopeDepth() <= 2) {   
+if (nodeMap.getScopeDepth() <= 2) {   
+if (ts.config.getScopeDepth() <= 2) {   
+if (session.getScopeDepth() <= 2) {   
+if (nodeScope.getScopeDepth() <= 2) {   
+if (childScope.getScopeDepth() <= 2) {   
+if (n<mask3>node.getScopeDepth() <= 2) {   
+if (t<mask1>environment.getScopeDepth() <= 2) {   
+if (o.getScopeDepth() <= 2) {   
+if (settings.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <=  3) {   
+if (t.getScopeDepth() <=  2) {   
+if (t.getScopeDepth() <=  1) {   
+if (t.getScopeDepth() <=  4) {   
+if (t.getScopeDepth() <=  0) {   
+if (t.getScopeDepth() <=  5) {   
+if (t.getScopeDepth() <=  10) {   
+if (t.getScopeDepth() <=  6) {   
+if (t.getScopeDepth() <=  7) {   
+if (t.getScopeDepth() <=  8) {   
+if (t.getScopeDepth() <=  9) {   
+if (t.getScopeDepth() <=  2 ) {   
+if (t.getScopeDepth() <=  20) {   
+if (t.getScopeDepth() <=  16) {   
+if (t.getScopeDepth() <=  1 ) {   
+if (t.getScopeDepth() <=  3<mask1> 4) {   
+if (t.getScopeDepth() <=  21) {   
+if (t.getScopeDepth() <=  15) {   
+if (t.getScopeDepth() <=  3 ) {   
+if (t.getScopeDepth() <=  100) {   
+if (t.getScopeDepth() <=  25) {   
+if (t.getScopeDepth() <=  2<mask1> 2) {   
+if (t.getScopeDepth() <=  11) {   
+if (t.getScopeDepth() <=  2<mask1> 1) {   
+if (t.getScopeDepth() <= 3) {   
+if (t.getScopeDepth() <=  30) {   
+if (t.getScopeDepth() <=  2<mask1> 3) {   
+if (t.getScopeDepth() <=  99) {   
+if (t.getScopeDepth() <= 1) {   
+if (t.getScopeDepth() <=  22) {   
+if (t.getScopeDepth() <=  1<mask1> 2) {   
+if (t.getScopeDepth() <= 2) {   
+if (t.getScopeDepth() <=  50) {   
+if (t.getScopeDepth() <=  1;) {   
+if (t.getScopeDepth() <=  2 }) {   
+if (t.getScopeDepth() <=  200) {   
+if (t.getScopeDepth() <=  256) {   
+if (t.getScopeDepth() <=  3<mask1> 1) {   
+if (t.getScopeDepth() <=  1)) {   
+if (t.getScopeDepth() <=  255) {   
+if (t.getScopeDepth() <=  13) {   
+if (t.getScopeDepth() <=  1<mask1> 3) {   
+if (t.getScopeDepth() <=  3<mask1> 3) {   
+if (t.getScopeDepth() <=  3<mask3> 2) {   
+if (t.getScopeDepth() <=  24) {   
+if (t.getScopeDepth() <=  2;) {   
+if (t.getScopeDepth() <=  100000) {   
+if (t.getScopeDepth() <=  19) {   
+if (t.getScopeDepth() <=  -1) {   
+if (t.getScopeDepth() <=  2<mask3> 2) {   
+if (t.getScopeDepth() <=  12) {   
+if (t.getScopeDepth() <=  17) {   
+if (t.getScopeDepth() <=  1 }) {   
+if (t.getScopeDepth() <=  23) {   
+if (t.getScopeDepth() <=  1) {) {   
+if (t.getScopeDepth() <=  18) {   
+if (t.getScopeDepth() <=  3<mask1> 2) {   
+if (t.getScopeDepth() <=  4 ) {   
+if (t.getScopeDepth() <=  2) {) {   
+if (t.getScopeDepth() <=  1,) {   
+if (t.getScopeDepth() <=  3<mask3> 1) {   
+if (t.getScopeDepth() <=  40) {   
+if (t.getScopeDepth() <=  3000) {   
+if (t.getScopeDepth() <=  1000) {   
+if (t.getScopeDepth() <=  1<mask1> 1) {   
+if (t.getScopeDepth() <=  2<mask3> 1) {   
+if (t.getScopeDepth() <=  1; }) {   
+if (t.getScopeDepth() <=  14) {   
+if (t.getScopeDepth() <=  31) {   
+if (t.getScopeDepth() <=  3 }) {   
+if (t.getScopeDepth() <=  32) {   
+if (t.getScopeDepth() <=   2) {   
+if (t.getScopeDepth() <=  512) {   
+if (t.getScopeDepth() <=  3  ) {   
+if (t.getScopeDepth() <=  -2) {   
+if (t.getScopeDepth() <=  250) {   
+if (t.getScopeDepth() <=  1 ...) {   
+if (t.getScopeDepth() <=  5000) {   
+if (t.getScopeDepth() <=  1  ) {   
+if (t.getScopeDepth() <=  2  ) {   
+if (t.getScopeDepth() <=  2)) {   
+if (t.getScopeDepth() <=  2; }) {   
+if (t.getScopeDepth() <=  4<mask1> 5) {   
+if (t.getScopeDepth() <=  2+) {   
+if (t.getScopeDepth() <=  3;) {   
+if (t.getScopeDepth() <=  1 or 2) {   
+if (t.getScopeDepth() <=  29) {   
+if (t.getScopeDepth() <=  28) {   
+if (t.getScopeDepth() <=  1..2) {   
+if (t.getScopeDepth() <=  254) {   
+if (t.getScopeDepth() <=  4<mask1> 3) {   
+if (t.getScopeDepth() <=  5 ) {   
+if (t.getScopeDepth() <=  10000) {   
+if (t.getScopeDepth() <=  2 ) {   
+if (t.getScopeDepth() <=  true) {   
+if (t.getScopeDepth() <=  253) {   
+if (t.getScopeDepth() <=  64) {   
+if (t.getScopeDepth() <=  2000) {   
+if (t.getScopeDepth() <=  26) {   
+if (t.getScopeDepth() <=  null) {   
+if (t.getScopeDepth() <=  400) {   
+if (t.getScopeDepth() <=  300) {   
+if (t.getScopeDepth() <=  3<mask3> 3) {   
+if (t.getScopeDepth() <=  3<mask1> 5) {   
+if (t.getScopeDepth() <=  1 || 2) {   
+if (t.getScopeDepth() <=  65536) {   
+if (t.getScopeDepth() <=  Infinity) {   
+if (t.getScopeDepth() <=  N) {   
+if (t.getScopeDepth() <=   1) {   
+if (t.getScopeDepth() <=  3,) {   
+if (t.getScopeDepth() <=  600) {   
+if (t.getScopeDepth() <=  1) {}) {   
+if (t.getScopeDepth() <=  3 ...) {   
+if (t.getScopeDepth() <=  257) {   
+if (t.getScopeDepth() <=  two) {   
+if (t.getScopeDepth() <=  45) {   
+if (t.getScopeDepth() <=  3 ) {   
+if (t.getScopeDepth() <= 4) {   
+if (t.getScopeDepth() <=  1 }) {   
+if (t.getScopeDepth() <=  27) {   
+if (t.getScopeDepth() <=  n) {   
+if (t.getScopeDepth() <=  1 ) {   
+if (t.getScopeDepth() <=  80) {   
+if (t.getScopeDepth() <=  4095) {   
+if (t.getScopeDepth() <=  count) {   
+if (t.getScopeDepth() <=  2,) {   
+if (t.getScopeDepth() <=  1 2) {   
+if (t.getScopeDepth() <=  60) {   
+if (t.getScopeDepth() <=  35) {   
+if (t.getScopeDepth() <=  127) {   
+if (t.getScopeDepth() <=  undefined) {   
+if (t.getScopeDepth() <=  2<mask1> 4) {   
+if (t.getScopeDepth() <=  120) {   
+if (t.getScopeDepth() <=  150) {   
+if (t.getScopeDepth() <=  65535) {   
+if (t.getScopeDepth() <=  3..4) {   
+if (t.getScopeDepth() <=  1 and 2) {   
+if (t.getScopeDepth() <=  36) {   
+if (t.getScopeDepth() <=  1 || 1) {   
+if (t.getScopeDepth() <=  33) {   
+if (t.getScopeDepth() <=  2L) {   
+if (t.getScopeDepth() <=  3 || false) {   
+if (t.getScopeDepth() <=  x) {   
+if (t.getScopeDepth() <=  2<mask5>) {   
+if (t.getScopeDepth() <=  221) {   
+if (t.getScopeDepth() <=  2 2) {   
+if (t.getScopeDepth() <=  1}) {   
+if (t.getScopeDepth() <=  500) {   
+if (t.getScopeDepth() <=  1024) {   
+if (t.getScopeDepth() <=  225) {   
+if (t.getScopeDepth() <=  4000) {   
+if (t.getScopeDepth() <=  one) {   
+if (t.getScopeDepth() <=  2 ...) {   
+if (t.getScopeDepth() <=  101) {   
+if (t.getScopeDepth() <=  (2)) {   
+if (t.getScopeDepth() <=  1 …) {   
+if (t.getScopeDepth() <=  1 ?) {   
+if (t.getScopeDepth() <=  3)) {   
+if (t.getScopeDepth() <=  3) {) {   
+if (t.getScopeDepth() <=  static) {   
+if (t.getScopeDepth() <=  i) {   
+if (t.getScopeDepth() <=  3<mask5>) {   
+if (t.getScopeDepth() <=  two scopes) {   
+if (t.getScopeDepth() <=  1?) {   
+if (t.getScopeDepth() <=  63) {   
+if (t.getScopeDepth() <=  false) {   
+if (t.getScopeDepth() <=  1 )) {   
+if (t.getScopeDepth() <=  2<mask1> 0) {   
+if (t.getScopeDepth() <=  1:) {   
+if (t.getScopeDepth() <=  Math.max) {   
+if (t.getScopeDepth() <=  1 || false) {   
+if (t.getScopeDepth() <=  1L) {   
+if (t.getScopeDepth() <=  1) return) {   
+if (t.getScopeDepth() <=  1, 2) {   
+if (t.getScopeDepth() <=  2) {}) {   
+if (t.getScopeDepth() <=  depth) {   
+if (t.getScopeDepth() <=  34) {   
+if (t.getScopeDepth() <=  1,2) {   
+if (t.getScopeDepth() <=  1000000) {   
+if (t.getScopeDepth() <=   0) {   
+if (t.getScopeDepth() <=  1000000000) {   
+if (t.getScopeDepth() <=  3 || true) {   
+if (t.getScopeDepth() <=  1.) {   
+if (t.getScopeDepth() <=  2 …) {   
+if (t.getScopeDepth() <=  3<mask3> }) {   
+if (t.getScopeDepth() <=  2 + 1) {   
+if (t.getScopeDepth() <=  0 ) {   
+if (t.getScopeDepth() <=  ++depth) {   
+if (t.getScopeDepth() <=  2..3) {   
+if (t.getScopeDepth() <= 5) {   
+if (t.getScopeDepth() <=  126) {   
+if (t.getScopeDepth() <=  1 //) {   
+if (t.getScopeDepth() <=  three) {   
+if (t.getScopeDepth() <=  2 then) {   
+if (t.getScopeDepth() <=  1 TODO) {   
+if (t.getScopeDepth() <=  90) {   
+if (t.getScopeDepth() <=  1...) {   
+if (t.getScopeDepth() <=  104) {   
+if (t.getScopeDepth() <=  1<mask1> 4) {   
+if (t.getScopeDepth() <=  maxDepth) {   
+if (t.getScopeDepth() <=  3 or 4) {   
+if (t.getScopeDepth() <=  3...) {   
+if (t.getScopeDepth() <=  Math) {   
+if (t.getScopeDepth() <=  1 return) {   
+if (t.getScopeDepth() <=  3<mask1> 0) {   
+if (t.getScopeDepth() <=  1  }) {   
+if (t.getScopeDepth() <=  maxScopeDepth) {   
+if (t.getScopeDepth() <=  2 //) {   
+if (t.getScopeDepth() <=  3<mask3>2) {   
+if (t.getScopeDepth() <=  2<mask5>}) {   
+if (t.getScopeDepth() <=  3; }) {   
+if (t.getScopeDepth() <=  1<mask1> 0) {   
+if (t.getScopeDepth() <=  ignore) {   
+if (t.getScopeDepth() <=  1   }) {   
+if (t.getScopeDepth() <=  1 || 0) {   
+if (t.getScopeDepth() <=  1 || true) {   
+if (t.getScopeDepth() <=  2}) {   
+if (t.getScopeDepth() <=  1) }) {   
+if (t.getScopeDepth() <=  95) {   
+if (t.getScopeDepth() <=  MAX_SCOPE) {   
+if (t.getScopeDepth() <=  320) {   
+if (t.getScopeDepth() <=  76) {   
+if (t.getScopeDepth() <=  4<mask1> 4) {   
+if (t.getScopeDepth() <=  1 only) {   
+if (t.getScopeDepth() <=  3 || parent) {   
+if (t.getScopeDepth() <=   3) {   
+if (t.getScopeDepth() <=  2 }) {   
+if (t.getScopeDepth() <=  2 + 2) {   
+if (t.getScopeDepth() <=  3 then) {   
+if (t.getScopeDepth() <=  1..3) {   
+if (t.getScopeDepth() <=  1,1) {   
+if (t.getScopeDepth() <=  3 //) {   
+if (t.getScopeDepth() <=  1;}) {   
+if (t.getScopeDepth() <=  2<mask3> 3) {   
+if (t.getScopeDepth() <=  1) ) {   
+if (t.getScopeDepth() <=  1..n) {   
+if (t.getScopeDepth() <=  3<mask3>1) {   
+if (t.getScopeDepth() <=  4 }) {   
+if (t.getScopeDepth() <=  2.) {   
+if (t.getScopeDepth() <=  2d) {   
+if (t.getScopeDepth() <=  4<mask3> 2) {   
+if (t.getScopeDepth() <=  1 ... 2) {   
+if (t.getScopeDepth() <=  2<mask3>2) {   
+if (t.getScopeDepth() <=  4<mask1> 2) {   
+if (t.getScopeDepth() <=  3 || 1) {   
+if (t.getScopeDepth() <=  1) ;) {   
+if (t.getScopeDepth() <=  Math.abs) {   
+if (t.getScopeDepth() <=  3 …) {   
+if (t.getScopeDepth() <=  3<mask3> 4) {   
+if (t.getScopeDepth() <=  ++depth;) {   
+if(t==null){return ;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  null;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;  };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  false;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return };;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return   };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  true;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else {return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; //};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask1>;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  void;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;   };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask3>};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  //};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else { return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; return; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return AST#then#Right;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } //if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return }  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask1>; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //end if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return   ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } // if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;};;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return    };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  //};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  };;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } // else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask1>;;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  // };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} TODO;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}}};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else { ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; };;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // end if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } // else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;//};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  true; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} },;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } else { return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask1>;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} /* };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return }; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } //if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;};;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //end if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask5>};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } TODO;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  }  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } // if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}.;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;// };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} } else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} /**;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return }else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} else {return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }//if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;//};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } else {return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} */;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;AST#then#Right;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  0;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  parent;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;return; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} else { ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;);} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  }//if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ..;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return }};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;  } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask3> };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return       };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} };;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  undefined;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} });;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  this;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} ;;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } */;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}:;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} else { return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  /* };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;return;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } } };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return 	};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}//;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  false; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  next;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  noop;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } //end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;}};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} /*;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; return;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // otherwise;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } // end if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return .;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } /* };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } // end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} visitor;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;  } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;},;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } // };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;?;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } // if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} /* else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } //end if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} exit;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; exit;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  return; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;;;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;...;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} TODO;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;//;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }}};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} /*;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return <mask3>};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} export;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask5>;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} });} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }?;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;} };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;AST#return_statement#Right};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } else { ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else {};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return }//;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} ------------------------------------------------------------------------;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}*/;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;}<mask1>;};} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  } // else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} block;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  immediately;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } */;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  ;  };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  //TODO;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } else { };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} // if;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }<mask1>;;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } export;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } // else {;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } /* else;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  nil;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;*/;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;} //return;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  super;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ;<mask2>; };} if (t.getScopeDepth() <= 2) {   
+if(t==null){return   ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  //;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  directly;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return } //end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } //;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; } } ;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ; }//end;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return ...;} if (t.getScopeDepth() <= 2) {   
+if(t==null){return  1;} if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=this; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=currentScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=env; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=scope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=parent; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=globalScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=globals; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=null; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Env; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=node; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Global; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=global; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=root; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=createScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=top; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=defaultScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=compiler; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getScopeRoot(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=System; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=context; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=data; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getScopeRoot(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new TreeTraverser; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=GlobalScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=current; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ThreadLocalData; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=session; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=defaultTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=init; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=topScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getScopeRoot; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=environment; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=initialScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrentScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=System.out; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=current; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=scopeRoot; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new NodeTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeManager; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeEngine; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.current; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=config; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Traversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=engine; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeEnv; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=enterScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrentScope(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=createScope(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=System.err; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=local; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getScope(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=createScope(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=ctx; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=noop; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Context(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=vars; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=runtime; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Environment; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.empty; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=threadLocal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=stack; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=next; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=ThreadLocal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=state; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Root; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=get; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.top; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=world; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeTracker; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Context; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ThreadLocalScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.NULL; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=currentNode; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Tracer; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=newScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=ThreadLocalData; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ThreadLocal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=NodeTraversal t; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=navigator; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=factory; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getParent(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=ts; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=rootScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t= scope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=scope; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=NodeTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=project; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=currScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope() {}; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=get(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeFactory; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Globals; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=manager; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=tracker; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=initial; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=report; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeImpl; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new NodeTraversal(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ThreadLocalSymbolTable; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t= currentScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new VariableScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=target; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.emptyScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope();}; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=localScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getEnclosingScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=createTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=threadContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=CurrentScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=enterGlobalScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope(); return; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=n; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=rootScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Traversing; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=System.identity; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=source; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=State; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=initialContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=head; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ModuleScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Node.current; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=creator; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Tree(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.root; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Trie; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new NodeTraversal();; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=originalScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=tranformer; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=globals; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ThreadLocal<>();; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Data; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getScope(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=System.in; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new TestScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=firstScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=global; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Traverser; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeTraverser; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=ThreadContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=currentScope; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=compiler.compiler; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=data.get; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=NodeTraversal.instance; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=currentContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=ScopeRoot; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=createGlobalScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=System.nanoTime; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Factory; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeTree; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=nodeVisitor; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeInfo; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ThreadLocalMap; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=createScopeRoot; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Env; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=initialTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope();; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeStack; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=node.getParent(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=first; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Node.NULL; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getEnclosingScope(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=loop; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=System.currentTimeMillis(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.create; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=processEnv; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=NodeTraverser; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=globalScope; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=original; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Runtime; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=fallback; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ThreadContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Traverser; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrent(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t= this; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=createScopeVisitor; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t= compiler; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new TreeAdapter; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new FunctionScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getParent(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrentNode(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=module; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=findScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Scope<>(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Transaction; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new NodeTraverser; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=initScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=buildScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrentNode(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrentTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Object; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=registry; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=node; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=initial; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=scope.top; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=start; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=FromContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=PrimaryScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeVisitor; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.GLOBAL; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new TreeTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Debugger; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=NodeTraversing; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeBuilder; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t= new Scope(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=DefaultTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getNode(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.EMPTY; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getRoot(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=parent; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new NodeTraversalContext; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=parent.getParent(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeTracker(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=loadScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=env.top; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=processScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=defaultScope; }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Timer; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new NullScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=fromScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=newTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new GlobalScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.instance; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrentScope(); }; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.global; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=detectScope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=NodeTraversal.getInstance; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getCurrentTraversal(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.scope; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=getParentNode(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Global.instance; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=GlobalScope.current; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Scope.create(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=Context.top; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new InitialTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new DefaultTraversal; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeScanner; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new Context(); } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=context.top; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=new ScopeAllocator; } if (t.getScopeDepth() <= 2) {   
+if(t==null){ t=enterGlobalScope(); } if (t.getScopeDepth() <= 2) {   
+if(n == null){ if (t.getScopeDepth() <= 2) { }  
+if(inGlobalScope){ if (t.getScopeDepth() <= 2) { }  
+if(n==null){ if (t.getScopeDepth() <= 2) { }  
+if(parent == null){ if (t.getScopeDepth() <= 2) { }  
+if(false){ if (t.getScopeDepth() <= 2) { }  
+if(parent != null){ if (t.getScopeDepth() <= 2) { }  
+if(strict){ if (t.getScopeDepth() <= 2) { }  
+if(DEBUG){ if (t.getScopeDepth() <= 2) { }  
+if(true){ if (t.getScopeDepth() <= 2) { }  
+if(parent==null){ if (t.getScopeDepth() <= 2) { }  
+if(n != null){ if (t.getScopeDepth() <= 2) { }  
+if(debug){ if (t.getScopeDepth() <= 2) { }  
+if(verbose){ if (t.getScopeDepth() <= 2) { }  
+if(parent!=null){ if (t.getScopeDepth() <= 2) { }  
+if(parent){ if (t.getScopeDepth() <= 2) { }  
+if(inGlobalScope()){ if (t.getScopeDepth() <= 2) { }  
+if(scope != null){ if (t.getScopeDepth() <= 2) { }  
+if(scope == null){ if (t.getScopeDepth() <= 2) { }  
+if(n.isFunction()){ if (t.getScopeDepth() <= 2) { }  
+if(debugger){ if (t.getScopeDepth() <= 2) { }  
+if(trace){ if (t.getScopeDepth() <= 2) { }  
+if(n!=null){ if (t.getScopeDepth() <= 2) { }  
+if(scope){ if (t.getScopeDepth() <= 2) { }  
+if(data != null){ if (t.getScopeDepth() <= 2) { }  
+if(n.isVar()){ if (t.getScopeDepth() <= 2) { }  
+if(SAFE){ if (t.getScopeDepth() <= 2) { }  
+if(localOnly){ if (t.getScopeDepth() <= 2) { }  
+if(globalScope){ if (t.getScopeDepth() <= 2) { }  
+if(tainted){ if (t.getScopeDepth() <= 2) { }  
+if( n == null){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof ReturnStatement){ if (t.getScopeDepth() <= 2) { }  
+if(globalOnly){ if (t.getScopeDepth() <= 2) { }  
+if(vars){ if (t.getScopeDepth() <= 2) { }  
+if(test){ if (t.getScopeDepth() <= 2) { }  
+if(enabled){ if (t.getScopeDepth() <= 2) { }  
+if(global){ if (t.getScopeDepth() <= 2) { }  
+if(env){ if (t.getScopeDepth() <= 2) { }  
+if(visitor != null){ if (t.getScopeDepth() <= 2) { }  
+if(static){ if (t.getScopeDepth() <= 2) { }  
+if(n==undefined){ if (t.getScopeDepth() <= 2) { }  
+if(block){ if (t.getScopeDepth() <= 2) { }  
+if(recursive){ if (t.getScopeDepth() <= 2) { }  
+if(javac){ if (t.getScopeDepth() <= 2) { }  
+if(data.isEmpty()){ if (t.getScopeDepth() <= 2) { }  
+if(scope==null){ if (t.getScopeDepth() <= 2) { }  
+if(noop){ if (t.getScopeDepth() <= 2) { }  
+if(scope!=null){ if (t.getScopeDepth() <= 2) { }  
+if(globalVars){ if (t.getScopeDepth() <= 2) { }  
+if(inLocalScope){ if (t.getScopeDepth() <= 2) { }  
+if(n==this){ if (t.getScopeDepth() <= 2) { }  
+if(data){ if (t.getScopeDepth() <= 2) { }  
+if(name == null){ if (t.getScopeDepth() <= 2) { }  
+if(this){ if (t.getScopeDepth() <= 2) { }  
+if(local){ if (t.getScopeDepth() <= 2) { }  
+if(inScope){ if (t.getScopeDepth() <= 2) { }  
+if(data == null){ if (t.getScopeDepth() <= 2) { }  
+if(visit){ if (t.getScopeDepth() <= 2) { }  
+if(reportErrors){ if (t.getScopeDepth() <= 2) { }  
+if(n == this){ if (t.getScopeDepth() <= 2) { }  
+if(readOnly){ if (t.getScopeDepth() <= 2) { }  
+if(done){ if (t.getScopeDepth() <= 2) { }  
+if(1){ if (t.getScopeDepth() <= 2) { }  
+if(nested){ if (t.getScopeDepth() <= 2) { }  
+if(watchOnly){ if (t.getScopeDepth() <= 2) { }  
+if(isConstant){ if (t.getScopeDepth() <= 2) { }  
+if(isEmpty){ if (t.getScopeDepth() <= 2) { }  
+if(isExported){ if (t.getScopeDepth() <= 2) { }  
+if(p){ if (t.getScopeDepth() <= 2) { }  
+if(node == null){ if (t.getScopeDepth() <= 2) { }  
+if(isLeaf){ if (t.getScopeDepth() <= 2) { }  
+if(visitor == null){ if (t.getScopeDepth() <= 2) { }  
+if(visited){ if (t.getScopeDepth() <= 2) { }  
+if(debugMode){ if (t.getScopeDepth() <= 2) { }  
+if(isRoot){ if (t.getScopeDepth() <= 2) { }  
+if(strictMode){ if (t.getScopeDepth() <= 2) { }  
+if(varsOnly){ if (t.getScopeDepth() <= 2) { }  
+if(globals){ if (t.getScopeDepth() <= 2) { }  
+if(child){ if (t.getScopeDepth() <= 2) { }  
+if(node != null){ if (t.getScopeDepth() <= 2) { }  
+if(isGlobalScope()){ if (t.getScopeDepth() <= 2) { }  
+if(VERBOSE){ if (t.getScopeDepth() <= 2) { }  
+if( false){ if (t.getScopeDepth() <= 2) { }  
+if(n == scopeRoot){ if (t.getScopeDepth() <= 2) { }  
+if(isInGlobalScope()){ if (t.getScopeDepth() <= 2) { }  
+if(restricted){ if (t.getScopeDepth() <= 2) { }  
+if(isVar()){ if (t.getScopeDepth() <= 2) { }  
+if( inGlobalScope){ if (t.getScopeDepth() <= 2) { }  
+if(reporter){ if (t.getScopeDepth() <= 2) { }  
+if(SAFE<mask1>SAFE){ if (t.getScopeDepth() <= 2) { }  
+if(emptyScope){ if (t.getScopeDepth() <= 2) { }  
+if(n == undefined){ if (t.getScopeDepth() <= 2) { }  
+if(isStrict){ if (t.getScopeDepth() <= 2) { }  
+if(warn){ if (t.getScopeDepth() <= 2) { }  
+if(watching){ if (t.getScopeDepth() <= 2) { }  
+if(owner){ if (t.getScopeDepth() <= 2) { }  
+if(x){ if (t.getScopeDepth() <= 2) { }  
+if(null != parent){ if (t.getScopeDepth() <= 2) { }  
+if(t != null){ if (t.getScopeDepth() <= 2) { }  
+if(t == null){ if (t.getScopeDepth() <= 2) { }  
+if(globalScope != null){ if (t.getScopeDepth() <= 2) { }  
+if(testOnly){ if (t.getScopeDepth() <= 2) { }  
+if(ignored){ if (t.getScopeDepth() <= 2) { }  
+if(n.isEmpty()){ if (t.getScopeDepth() <= 2) { }  
+if(reportError){ if (t.getScopeDepth() <= 2) { }  
+if(empty){ if (t.getScopeDepth() <= 2) { }  
+if(name==null){ if (t.getScopeDepth() <= 2) { }  
+if(isLocal){ if (t.getScopeDepth() <= 2) { }  
+if(logging){ if (t.getScopeDepth() <= 2) { }  
+if(Debug){ if (t.getScopeDepth() <= 2) { }  
+if(isVar){ if (t.getScopeDepth() <= 2) { }  
+if(name != null){ if (t.getScopeDepth() <= 2) { }  
+if( n != null){ if (t.getScopeDepth() <= 2) { }  
+if(closed){ if (t.getScopeDepth() <= 2) { }  
+if(isRootScope()){ if (t.getScopeDepth() <= 2) { }  
+if(testScope){ if (t.getScopeDepth() <= 2) { }  
+if(disabled){ if (t.getScopeDepth() <= 2) { }  
+if(preserveScope){ if (t.getScopeDepth() <= 2) { }  
+if(environment){ if (t.getScopeDepth() <= 2) { }  
+if( true){ if (t.getScopeDepth() <= 2) { }  
+if( parent != null){ if (t.getScopeDepth() <= 2) { }  
+if(data!=null){ if (t.getScopeDepth() <= 2) { }  
+if(exists){ if (t.getScopeDepth() <= 2) { }  
+if(dirty){ if (t.getScopeDepth() <= 2) { }  
+if(data==null){ if (t.getScopeDepth() <= 2) { }  
+if(currentScope != null){ if (t.getScopeDepth() <= 2) { }  
+if(n == VOID){ if (t.getScopeDepth() <= 2) { }  
+if(inLocals){ if (t.getScopeDepth() <= 2) { }  
+if(variables){ if (t.getScopeDepth() <= 2) { }  
+if(JSDocInfo){ if (t.getScopeDepth() <= 2) { }  
+if(gc){ if (t.getScopeDepth() <= 2) { }  
+if(parent is null){ if (t.getScopeDepth() <= 2) { }  
+if(n){ if (t.getScopeDepth() <= 2) { }  
+if(n==NULL){ if (t.getScopeDepth() <= 2) { }  
+if( parent == null){ if (t.getScopeDepth() <= 2) { }  
+if(t==null){ if (t.getScopeDepth() <= 2) { }  
+if(name){ if (t.getScopeDepth() <= 2) { }  
+if(leaf){ if (t.getScopeDepth() <= 2) { }  
+if(g){ if (t.getScopeDepth() <= 2) { }  
+if(recurse){ if (t.getScopeDepth() <= 2) { }  
+if(warning){ if (t.getScopeDepth() <= 2) { }  
+if(inModule){ if (t.getScopeDepth() <= 2) { }  
+if(vars == null){ if (t.getScopeDepth() <= 2) { }  
+if(isRootScope){ if (t.getScopeDepth() <= 2) { }  
+if(Trace){ if (t.getScopeDepth() <= 2) { }  
+if(vars != null){ if (t.getScopeDepth() <= 2) { }  
+if(localScope){ if (t.getScopeDepth() <= 2) { }  
+if(a){ if (t.getScopeDepth() <= 2) { }  
+if(childOnly){ if (t.getScopeDepth() <= 2) { }  
+if(body){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof Variable){ if (t.getScopeDepth() <= 2) { }  
+if(log){ if (t.getScopeDepth() <= 2) { }  
+if(errorReporter){ if (t.getScopeDepth() <= 2) { }  
+if(testing){ if (t.getScopeDepth() <= 2) { }  
+if(e){ if (t.getScopeDepth() <= 2) { }  
+if(ngDevMode){ if (t.getScopeDepth() <= 2) { }  
+if(r){ if (t.getScopeDepth() <= 2) { }  
+if(scopes){ if (t.getScopeDepth() <= 2) { }  
+if(ignoreScopes){ if (t.getScopeDepth() <= 2) { }  
+if(Boolean){ if (t.getScopeDepth() <= 2) { }  
+if(isGlobal){ if (t.getScopeDepth() <= 2) { }  
+if(null != n){ if (t.getScopeDepth() <= 2) { }  
+if(reporter != null){ if (t.getScopeDepth() <= 2) { }  
+if(n.isRoot()){ if (t.getScopeDepth() <= 2) { }  
+if(isLocal()){ if (t.getScopeDepth() <= 2) { }  
+if( n.isFunction()){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof FunctionDef){ if (t.getScopeDepth() <= 2) { }  
+if(isEmpty()){ if (t.getScopeDepth() <= 2) { }  
+if(null == parent){ if (t.getScopeDepth() <= 2) { }  
+if(passThrough){ if (t.getScopeDepth() <= 2) { }  
+if(n.isStatic()){ if (t.getScopeDepth() <= 2) { }  
+if(SAFE_MODE){ if (t.getScopeDepth() <= 2) { }  
+if(isInGlobalScope){ if (t.getScopeDepth() <= 2) { }  
+if(data.isEmpty){ if (t.getScopeDepth() <= 2) { }  
+if(parent.isVar()){ if (t.getScopeDepth() <= 2) { }  
+if(parent.isFunction()){ if (t.getScopeDepth() <= 2) { }  
+if(SAFE<mask3>SAFE){ if (t.getScopeDepth() <= 2) { }  
+if(node.isVar()){ if (t.getScopeDepth() <= 2) { }  
+if(n == parent){ if (t.getScopeDepth() <= 2) { }  
+if(isGlobalScope){ if (t.getScopeDepth() <= 2) { }  
+if(n==parent){ if (t.getScopeDepth() <= 2) { }  
+if(data.isEmpty())){ if (t.getScopeDepth() <= 2) { }  
+if(currentScope == null){ if (t.getScopeDepth() <= 2) { }  
+if(n==nil){ if (t.getScopeDepth() <= 2) { }  
+if(isBlock){ if (t.getScopeDepth() <= 2) { }  
+if(localVars){ if (t.getScopeDepth() <= 2) { }  
+if( inGlobalScope()){ if (t.getScopeDepth() <= 2) { }  
+if(n.isArray()){ if (t.getScopeDepth() <= 2) { }  
+if(node.isFunction()){ if (t.getScopeDepth() <= 2) { }  
+if(n==node){ if (t.getScopeDepth() <= 2) { }  
+if(log.isDebugEnabled()){ if (t.getScopeDepth() <= 2) { }  
+if(n === null){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof FunctionCall){ if (t.getScopeDepth() <= 2) { }  
+if(parent==this){ if (t.getScopeDepth() <= 2) { }  
+if(n == node){ if (t.getScopeDepth() <= 2) { }  
+if(inGlobals){ if (t.getScopeDepth() <= 2) { }  
+if(isExported()){ if (t.getScopeDepth() <= 2) { }  
+if(n == void){ if (t.getScopeDepth() <= 2) { }  
+if(n==void){ if (t.getScopeDepth() <= 2) { }  
+if(parent==nil){ if (t.getScopeDepth() <= 2) { }  
+if(variableScope){ if (t.getScopeDepth() <= 2) { }  
+if(parent==node){ if (t.getScopeDepth() <= 2) { }  
+if(parent==undefined){ if (t.getScopeDepth() <= 2) { }  
+if(n.isConstant()){ if (t.getScopeDepth() <= 2) { }  
+if(globalScopes){ if (t.getScopeDepth() <= 2) { }  
+if(globalVariables){ if (t.getScopeDepth() <= 2) { }  
+if(vars.isEmpty()){ if (t.getScopeDepth() <= 2) { }  
+if(isPrivate()){ if (t.getScopeDepth() <= 2) { }  
+if(SAFE_TYPING){ if (t.getScopeDepth() <= 2) { }  
+if(isPrivate){ if (t.getScopeDepth() <= 2) { }  
+if(parent==n){ if (t.getScopeDepth() <= 2) { }  
+if(n == root){ if (t.getScopeDepth() <= 2) { }  
+if(n.isString()){ if (t.getScopeDepth() <= 2) { }  
+if(inLocalScope()){ if (t.getScopeDepth() <= 2) { }  
+if(inGlobalScopeOnly){ if (t.getScopeDepth() <= 2) { }  
+if(globalScope == null){ if (t.getScopeDepth() <= 2) { }  
+if(isReturn()){ if (t.getScopeDepth() <= 2) { }  
+if( n.isVar()){ if (t.getScopeDepth() <= 2) { }  
+if(n is null){ if (t.getScopeDepth() <= 2) { }  
+if(n==return){ if (t.getScopeDepth() <= 2) { }  
+if(globalVarsOnly){ if (t.getScopeDepth() <= 2) { }  
+if(null != data){ if (t.getScopeDepth() <= 2) { }  
+if(isStrict()){ if (t.getScopeDepth() <= 2) { }  
+if(javac != null){ if (t.getScopeDepth() <= 2) { }  
+if(parent!=this){ if (t.getScopeDepth() <= 2) { }  
+if(nonGlobalScope){ if (t.getScopeDepth() <= 2) { }  
+if(null!=parent){ if (t.getScopeDepth() <= 2) { }  
+if(isGlobal()){ if (t.getScopeDepth() <= 2) { }  
+if(parent == n){ if (t.getScopeDepth() <= 2) { }  
+if(inModuleScope){ if (t.getScopeDepth() <= 2) { }  
+if(isStrict<mask1>strict){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof FunctionExpression){ if (t.getScopeDepth() <= 2) { }  
+if(visit<mask1>visit){ if (t.getScopeDepth() <= 2) { }  
+if(trace<mask1>trace){ if (t.getScopeDepth() <= 2) { }  
+if(rootScope != null){ if (t.getScopeDepth() <= 2) { }  
+if(n == NULL){ if (t.getScopeDepth() <= 2) { }  
+if(isLocalScope()){ if (t.getScopeDepth() <= 2) { }  
+if(logger.isDebugEnabled()){ if (t.getScopeDepth() <= 2) { }  
+if(n isName()){ if (t.getScopeDepth() <= 2) { }  
+if(ignoreGlobalScopes){ if (t.getScopeDepth() <= 2) { }  
+if(n==scopeRoot){ if (t.getScopeDepth() <= 2) { }  
+if(n==root){ if (t.getScopeDepth() <= 2) { }  
+if(n.isEmpty){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof FunctionDeclaration){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof FunctionNode){ if (t.getScopeDepth() <= 2) { }  
+if(isLocalOnly){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof CallExpression){ if (t.getScopeDepth() <= 2) { }  
+if(t.inModule){ if (t.getScopeDepth() <= 2) { }  
+if(log.isDebugEnabled){ if (t.getScopeDepth() <= 2) { }  
+if(n instanceof VariableNode){ if (t.getScopeDepth() <= 2) { }  
+if(n.isNull()){ if (t.getScopeDepth() <= 2) { }  

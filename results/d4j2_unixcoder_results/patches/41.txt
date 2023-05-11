@@ -1,0 +1,2500 @@
+ this.in = in;  
+ return this;  
+ return this.in;  
+ this.input = in;  
+ //this.in = in;  
+ this.inputStream = in;  
+ this.stream = in;  
+ this.is = in;  
+  return this;  
+ this.out = in;  
+ this.in   = in;  
+ 	this.in = in;  
+  this.in = in;  
+ this.in  = in;  
+  return this.in;  
+  this.in = in;  
+ return in;  
+ return this.in = in;  
+ this.in = this.in;  
+ this.in = inStream;  
+ // this.in = in;  
+ this.reader = in;  
+ this.in = in;  
+ };  
+ this.isIn = in;  
+ this.in = input;  
+ this.file = in;  
+ //return this;  
+ //return this.in;  
+ return this.checksum;  
+ this.in    = in;  
+ this.data = in;  
+ this.source = in;  
+     this.in = in;  
+         this.in = in;  
+ this.in      = in;  
+ this.in     = in;  
+ 		this.in = in;  
+ }  return this;  
+ this.ch = in;  
+ this.read = in;  
+ this.inStream = in;  
+ this.src = in;  
+ this.isStream = in;  
+ this.in = null;  
+ this.io = in;  
+ return this; };  
+ this._in = in;  
+ this.in       = in;  
+     return this;  
+ this.i = in;  
+ this.buffer = in;  
+ this.os = in;  
+ this.InputStream = in;  
+ this.isInput = in;  
+ this.inReader = in;  
+ return checksum;  
+ 	return this;  
+ this.content = in;  
+ this.thisIn = in;  
+ this.in = this;  
+ return this.inputStream;  
+ this.from = in;  
+ this.instream = in;  
+ this.in = this.checksum;  
+ //	this.in = in;  
+ this.size = 0;  
+ this.buffer = null;  
+ this.pos = 0;  
+ return this.input = in;  
+ return null;  
+ this.bytesRead = 0;  
+         return this;  
+ return this.input;  
+ this.bytes = in.read;  
+ this.inode = in;  
+  //this.in = in;  
+ this.read(); return this;  
+ this.r = in;  
+ } return this;  
+ this.isReader = in;  
+ this.in =  in;  
+ this.size = in.size;  
+  return this;  
+  	this.in = in;  
+ return this.stream;  
+ this.in = is;  
+ this.thisin = in;  
+ this.bytes = in;  
+ //    this.in = in;  
+ return new ChecksumCalculatingInputStream;  
+ this.outStream = in;  
+ this.input = input;  
+ this.fileInputStream = in;  
+ This.in = in;  
+ this.buf = in;  
+ this.this.in = in;  
+  this.in = in;  
+ this.iterator = in;  
+ this.offset = 0;  
+ this.readFrom = in;  
+   	this.in = in;  
+ this.next = in;  
+this.in = in;  
+ this.checksumIn = in;  
+ this.streamIn = in;  
+ 		return this;  
+ this.isRead = in;  
+     };  
+ this.b = in;  
+ this.data = null;  
+ this.fileIn = in;  
+ this.bytes = 0;  
+ this.readStream = in;  
+  return this.in;  
+ this.position = 0;  
+ this.in=in;  
+ this. in = in;  
+ 	return this.in;  
+ this.isInputStream = in;  
+ this.in_ = in;  
+ //        this.in = in;  
+ this.iv = in;  
+ this.In = in;  
+ return this.is;  
+ input = in;  
+  //this.in = in;  
+ this.in = in = null;  
+     return this.in;  
+  this.in = in;  
+ this.crc = in;  
+ this.value = in;  
+ this.input = this.in;  
+ this.isRead = true;  
+ //This.in = in;  
+  return in;  
+ this.current = in;  
+ return this;  
+ return true;  
+   return this;  
+ this.isIn = in;  
+ this.rdr = in;  
+ this.dataSource = in;  
+         return this.in;  
+ this.checksumStream = in;  
+ this.thisInputStream = in;  
+ this.isCorrupt = false;  
+ this.eof = false;  
+ this.bin = in;  
+           this.in = in;  
+ this.file = this.in;  
+ this.byteInputStream = in;  
+ this.in = out;  
+ // return this;  
+ this.c = in;  
+ }  //return this;  
+ this.finished = false;  
+  	this.in = in;  
+ this.in = in; return this;  
+          this.in = in;  
+ this.isin = in;  
+ 	this.input = in;  
+ this.output = in;  
+ //this.input = in;  
+ // This.in = in;  
+   this.in = in;  
+ // return this.in;  
+ this.byteReader = in;  
+ this.body = in;  
+ this.s = in;  
+ this.readIn = in;  
+             this.in = in;  
+ this.reading = true;  
+ this.getInputStream = in;  
+ this.in =in;  
+ this.resource = in;  
+ this.bytesRead = 0;  
+   this.in = in;  
+ this.checkin = in;  
+ this.valid = true;  
+ input = in; return this;  
+ this.file = null;  
+ this.inputStream = in;  
+ return this.out;  
+ }  return this.in;  
+ this.fd = in;  
+ return input;  
+ } { return this;  
+  //return this.in;  
+ this.writer = in;  
+    	this.in = in;  
+ this.iter = in;  
+  this.input = in;  
+ this.fileInput = in;  
+ this.in = isIn;  
+ this.checksumInputStream = in;  
+ this.inRead = in;  
+ this.stream = this.in;  
+ this.content = null;  
+ return this.inputStream = in;  
+ this.next = null;  
+ this.byteBuffer = in;  
+ this.byteStream = in;  
+ this.raw = in;  
+ this.in        = in;  
+ this.inputs = in;  
+ this.isSeekable = true;  
+    this.in = in;  
+ this.istream = in;  
+   };  
+       this.in = in;  
+ //return this.in = in;  
+ return this._in;  
+ this.filename = null;  
+ this.buf = null;  
+  //return this;  
+ this.closed = false;  
+ this.dataInputStream = in;  
+ this.index = 0;  
+ this.sourceStream = in;  
+ this.inputReader = in;  
+ this.result = in;  
+ this.fin = in;  
+ this.err = null;  
+ _in = in;  
+ this.contents = in;  
+ //this.is = in;  
+ this.count = 0;  
+ this.cache = in;  
+ this.in = inputStream;  
+ this.isAvailable = true;  
+ in.close(); return this;  
+ this.in = in = in;  
+ this.inc = in;  
+ }  returns this;  
+ this.progress = in;  
+ this.isRead = false;  
+ }  @return this;  
+ this.readBuffer = in;  
+ this.length = in.length;  
+ this.in = in != null;  
+ this.inBuffer = in;  
+ this.next = this.in;  
+ }  { return this;  
+ this.byteBuffer = null;  
+ this.isReadable = in;  
+ this.read = this.in;  
+ }.;  
+ return new ChecksumCalculatingInputStream();  
+ this.size = in.length;  
+ this.size = 0; this.in = in;  
+ this.size = 0; this.in = in;  
+ this.size = in.available(); this.in = in;  
+ this.length = 0; this.in = in;  
+ this.checksumLength = checksum.length; this.in = in;  
+ this.length = 0; this.in = in;  
+ this.length = in.available(); this.in = in;  
+ this.offset = 0; this.in = in;  
+ this.input = in; this.in = in;  
+ this.offset = 0; this.in = in;  
+ this.bytes = 0; this.in = in;  
+ this.file = null; this.in = in;  
+ this.bytes = 0; this.in = in;  
+ this.file = null; this.in = in;  
+ this.checksumSize = 0; this.in = in;  
+ this.buffer = null; this.in = in;  
+ this.valid = true; this.in = in;  
+ this.stream = null; this.in = in;  
+ this.bytesRead = 0; this.in = in;  
+ this.input = null; this.in = in;  
+ this.count = 0; this.in = in;  
+ this.valid = true; this.in = in;  
+ this.out = null; this.in = in;  
+ this.stream = null; this.in = in;  
+ this.checksumSize = checksum.size; this.in = in;  
+ this.position = 0; this.in = in;  
+ this.buffer = null; this.in = in;  
+ this.input = in; this.in = in;  
+ this.bytesWritten = 0; this.in = in;  
+ this.eof = false; this.in = in;  
+ this.bytesRead = 0; this.in = in;  
+ this.input = null; this.in = in;  
+ this.bytesWritten = 0; this.in = in;  
+ this.count = 0; this.in = in;  
+ this.pos = 0; this.in = in;  
+ this.position = 0; this.in = in;  
+ this.is = in; this.in = in;  
+ this.eof = false; this.in = in;  
+ this.size = in.size; this.in = in;  
+ this.out = null; this.in = in;  
+ this.size = in.size; this.in = in;  
+ this.digest = null; this.in = in;  
+ this.in = in; this.in = in;  
+ this.in = null; this.in = in;  
+ this.pos = 0; this.in = in;  
+ this.stream = in; this.in = in;  
+ this.filename = null; this.in = in;  
+ this.digest = null; this.in = in;  
+ this.length = in.length; this.in = in;  
+ this.checksumSize = checksum.length; this.in = in;  
+ this.hash = null; this.in = in;  
+ this.checksumLength = 0; this.in = in;  
+ this.is = null; this.in = in;  
+ this.out = out; this.in = in;  
+ this.index = 0; this.in = in;  
+ this.data = null; this.in = in;  
+ this.out = this.in; this.in = in;  
+ this.checksumSize = 0; this.in = in;  
+ this.checksumHash = null; this.in = in;  
+ this.length = checksum.length; this.in = in;  
+ this.length = in.length; this.in = in;  
+ this.out = in; this.in = in;  
+ this.filename = null; this.in = in;  
+ this.size = -1; this.in = in;  
+ this.finished = false; this.in = in;  
+ this.reader = null; this.in = in;  
+ this.is = null; this.in = in;  
+ this.finished = false; this.in = in;  
+ this.hash = null; this.in = in;  
+ this.initialized = true; this.in = in;  
+ this.out = this.in; this.in = in;  
+ this.bytesRead = 0; this.in = in;  
+ this.checksumSize = checksum.getSize; this.in = in;  
+ this.reader = null; this.in = in;  
+ this.inSize = 0; this.in = in;  
+ this.index = 0; this.in = in;  
+ this.eof = true; this.in = in;  
+ this.is = in; this.in = in;  
+ this.data = null; this.in = in;  
+ this.file = this.in; this.in = in;  
+ this.bytesRead = 0; this.in = in;  
+ this.out = out; this.in = in;  
+ this.size = -1; this.in = in;  
+ this.done = false; this.in = in;  
+ this.initialized = true; this.in = in;  
+ this.length = -1; this.in = in;  
+ this.eof = true; this.in = in;  
+ this.input = this.in; this.in = in;  
+ this.inputStream = in; this.in = in;  
+ this.file = file; this.in = in;  
+ this.checksumHash = null; this.in = in;  
+ this.signature = null; this.in = in;  
+ this.len = in.available(); this.in = in;  
+ this.done = false; this.in = in;  
+ this.checksumBytes = 0; this.in = in;  
+ this.length = in.size; this.in = in;  
+ this.checksumBuffer = null; this.in = in;  
+ this.stream = in; this.in = in;  
+ this.checksumBytes = 0; this.in = in;  
+ this.inSize = inSize; this.in = in;  
+ this.len = 0; this.in = in;  
+ this.buf = null; this.in = in;  
+ this.length = checksum.length; this.in = in;  
+ this.length = in.size; this.in = in;  
+ this.out = in; this.in = in;  
+ this.sum = 0; this.in = in;  
+ this.len = 0; this.in = in;  
+ this.blockSize = blockSize; this.in = in;  
+ this.result = null; this.in = in;  
+ this.input = this.in; this.in = in;  
+ this.signature = null; this.in = in;  
+ this.checksumValid = true; this.in = in;  
+ this.isValid = true; this.in = in;  
+ this.sum = 0; this.in = in;  
+ this.valid = false; this.in = in;  
+ this.valid = false; this.in = in;  
+ this.checksumHash = checksum.hash; this.in = in;  
+ this.file = this.in; this.in = in;  
+ this.path = null; this.in = in;  
+ this.current = 0; this.in = in;  
+ this.checksum2 = checksum2; this.in = in;  
+ this.inBytes = 0; this.in = in;  
+ this.checksumValid = true; this.in = in;  
+ this.result = null; this.in = in;  
+ this.checksumBuffer = null; this.in = in;  
+ this.length = -1; this.in = in;  
+ this.source = null; this.in = in;  
+ this.size = in.length; this.in = in;  
+ this.isValid = true; this.in = in;  
+ this.checksumHash = checksumHash; this.in = in;  
+ this.buf = null; this.in = in;  
+ this.inSize = 0; this.in = in;  
+ this.blockSize = blockSize; this.in = in;  
+ this.in = null; this.in = in;  
+ this.reader = in; this.in = in;  
+ this.source = null; this.in = in;  
+ this.stream = this.in; this.in = in;  
+ this.fileSize = 0; this.in = in;  
+ this.size = size; this.in = in;  
+ this.cache = null; this.in = in;  
+ this.file = file; this.in = in;  
+ this.size = in.size(); this.in = in;  
+ this.fileSize = 0; this.in = in;  
+ this.inSize = in.size; this.in = in;  
+ this.name = null; this.in = in;  
+ this.current = 0; this.in = in;  
+ this.progress = 0; this.in = in;  
+ this.progress = 0; this.in = in;  
+ this.total = in.available(); this.in = in;  
+ this.value = null; this.in = in;  
+ this.source = in; this.in = in;  
+ this.sizeInBytes = 0; this.in = in;  
+ this.path = null; this.in = in;  
+ this.crc = crc; this.in = in;  
+ this.next = 0; this.in = in;  
+ this.inputStream = null; this.in = in;  
+ this.crc = 0; this.in = in;  
+ this.inBytes = 0; this.in = in;  
+ this.digest = digest; this.in = in;  
+ this.inChecksum = checksum; this.in = in;  
+ this.crc = 0; this.in = in;  
+ this.output = null; this.in = in;  
+ this.size = in.length; this.in = in;  
+ this.checksumAgain = false; this.in = in;  
+ this.size = in.available; this.in = in;  
+ this.total = 0; this.in = in;  
+ this.cache = null; this.in = in;  
+ this.output = null; this.in = in;  
+ this.inputStream = null; this.in = in;  
+ this.checksumSize = checksumSize; this.in = in;  
+ this.size = size; this.in = in;  
+ this.next = 0; this.in = in;  
+ this.checksumLength = 0; this.in = in;  
+ this.checkSum = null; this.in = in;  
+ this.name = null; this.in = in;  
+ this.inChecksum = checksum; this.in = in;  
+ this.total = 0; this.in = in;  
+ this.inputStream = in; this.in = in;  
+ this.checksumLen = checksum.length; this.in = in;  
+ this.out = this.checksum; this.in = in;  
+ this.checksumHash = 0; this.in = in;  
+ this.finished = true; this.in = in;  
+ this.source = in; this.in = in;  
+ this.checkSum = null; this.in = in;  
+ this.checksumFile = null; this.in = in;  
+ this.size = checksum.size; this.in = in;  
+ this.checksum2 = checksum2; this.in = in;  
+ this.metadata = null; this.in = in;  
+ this.stream = this.in; this.in = in;  
+ this.byteSize = 0; this.in = in;  
+ this.in = in; this.in = in;  
+ this.isRead = true; this.in = in;  
+ this.start = 0; this.in = in;  
+ this.length = in.available; this.in = in;  
+ this.encoding = null; this.in = in;  
+ this.totalSize = 0; this.in = in;  
+ this.value = null; this.in = in;  
+ this.checksumIn = in; this.in = in;  
+ this.bytesToRead = 0; this.in = in;  
+ this.bytes = in.available(); this.in = in;  
+ this.checksumAgain = false; this.in = in;  
+ this.checksumByte = checksumByte; this.in = in;  
+ return this; this.in = in;  
+ this.in_ = in; this.in = in;  
+ this.checksumLength = checksum.getLength; this.in = in;  
+ this.checksumAlgorithm = checksumAlgorithm; this.in = in;  
+ this.source = this.in; this.in = in;  
+ this.size = this.size; this.in = in;  
+ this.hash = 0; this.in = in;  
+ this.checksumChecksum = checksum; this.in = in;  
+ this.buffer = this.in; this.in = in;  
+ this.checksumBytes = checksum.bytes; this.in = in;  
+ this.crc = crc; this.in = in;  
+ this.source = this.in; this.in = in;  
+ this.inputSize = 0; this.in = in;  
+ this.checksumByte = 0; this.in = in;  
+ this.filename = this.filename; this.in = in;  
+ this.in = this.in; this.in = in;  
+ this.checksumSize = checksumSize; this.in = in;  
+ this.isRead = true; this.in = in;  
+ this.length = in.read(); this.in = in;  
+ this.checksumType = checksum.type; this.in = in;  
+ this.fileChecksum = checksum; this.in = in;  
+ this.checkSum = 0; this.in = in;  
+ this.fileChecksum = null; this.in = in;  
+ this.inHash = null; this.in = in;  
+ this.checksumSize = -1; this.in = in;  
+ this.size = checksum.size; this.in = in;  
+ this.size = in.getSize(); this.in = in;  
+ this.hash = this.in; this.in = in;  
+ this.length = in.read; this.in = in;  
+ this.checksumLength = checksumLength; this.in = in;  
+ this.file = this.file; this.in = in;  
+ this.out = this.checksum; this.in = in;  
+ this.inLength = in.length; this.in = in;  
+ this.checksumChecksum = checksum; this.in = in;  
+ this.checksumAlgorithm = null; this.in = in;  
+ this.checksumBytes = checksum.length; this.in = in;  
+ this.filename = this.filename; this.in = in;  
+ this.checksumChecksum = checksum.checksum; this.in = in;  
+ this.start = this.checksum; this.in = in;  
+ this.bytes = in.read(); this.in = in;  
+ this.inSize = inSize; this.in = in;  
+ this.length = in.size(); this.in = in;  
+ this.checksumType = CHECKSUM_TYPE; this.in = in;  
+ this.checksumSize = in.size; this.in = in;  
+ this.checksumHash = this.checksum; this.in = in;  
+ this.length = this.length; this.in = in;  
+ this.size = checksum.getSize(); this.in = in;  
+ this.end = this.checksum; this.in = in;  
+this.in  = in; return this. in;  
+this.in  = in;  return this. in;  
+this.in  = this. in;  
+this.in  = in; 	return this. in;  
+this.in  = in; //return this. in;  
+this.in  = in; return this.checksum. in;  
+this.in  = input; return this. in;  
+this.in  = null; return this. in;  
+this.in  = in;         return this. in;  
+this.in  = in;     return this. in;  
+this.in  = in; this.out = in;  
+this.in  = in; } in;  
+this.in  = inStream; return this. in;  
+this.in  = in; this.size = - in;  
+this.in  = in;  	return this. in;  
+this.in  = in; return checksum. in;  
+this.in  = in;  
+this.in  = this.in; return this. in;  
+this.in  = in;  return this. in;  
+this.in  = in; this.eof = ! in;  
+this.in  = in; this.checksumReader = in;  
+this.in  = in; return this. in;  
+this.in  = in; this.stream = in;  
+this.in    = in; return this. in;  
+this.in  = in; 		return this. in;  
+this.in   = in; return this. in;  
+this.in  = this; return this. in;  
+this.in  = in; this.length = - in;  
+this.in  = in; this.bytesRead = - in;  
+this.in  = in; this.next = - in;  
+this.in  = in; this.read = in;  
+this.in  = in;  //return this. in;  
+this.in  = in;      return this. in;  
+this.in  = in; this.bytes = - in;  
+this.in  = this.checksum; return this. in;  
+this.in  = in; this.reader = in;  
+this.in  = in; return new ChecksumCalculating in;  
+this.in .close(); return this. in;  
+this.in  = in; this.pos = - in;  
+this.in  =  in;  
+this.in  = new BufferedInputStream( in;  
+this.in  = in;          return this. in;  
+this.in  = in; this.in = _ in;  
+this.in  = in; this.valid = ! in;  
+this.in  = (InputStream) in;  
+this.in  = in; this.offset = - in;  
+this.in  = in; //this.in = in;  
+this.in  = in; this.input = in;  
+this.in  =  in; return this. in;  
+this.in  = new BufferedInputStream(in); return in;  
+this.in  = in; this.closed = ! in;  
+this.in  = in; this.finished = ! in;  
+this.in  = in; this.position = - in;  
+this.in  = out; return this. in;  
+this.in  = in; this.in = in;  
+this.in  = in; this.is = in;  
+this.in  = in; this.digest = digest in;  
+this.in .reset(); return this. in;  
+this.in  = in; } return this. in;  
+this.in  = in; this.out = _ in;  
+this.in  = in; this.stream = _ in;  
+this.in  = in; this.done = ! in;  
+this.in  = in; this.buffer = in;  
+this.in  = is; return this. in;  
+this.in  = in; // return this. in;  
+this.in  = in; AST#return_statement#Leftreturn this. in;  
+this.in  = in;             return this. in;  
+this.in  = input;  return this. in;  
+this.in  = in; this.hasNext = ! in;  
+this.in  = in; return this;  in;  
+this.in  = in; this.checksum = - in;  
+this.in  = in; return this.checksum in;  
+this.in  = null;  return this. in;  
+this.in  = in; this.read = _ in;  
+this.in  = in; return this; } in;  
+this.in  = in; this.checksumHash = in;  
+this.in  = in; this.pointer = - in;  
+this.in  = in; this.checksumReader= in;  
+this.in  = in != null ? in : this. in;  
+this.in  = in; this.next = in;  
+this.in  = in; this.checksum = checksum in;  
+this.in  = in;  return checksum. in;  
+this.in  = in; this.result = in;  
+this.in  = in; this.initialized = ! in;  
+this.in  = this.checksum. in;  
+this.in  = in; //this.checksum = in;  
+this.in  = in; return checksumCalculating in;  
+this.in  = in; return  this. in;  
+this.in  = in; this.buffer = new in;  
+this.in  = in; @return this. in;  
+this.in  =  this. in;  
+this.in  = io. in;  
+this.in  = in; this.checksum2 = in;  
+this.in  = in; this.crc = crc in;  
+this.in  = checksum; return this. in;  
+this.in  = in; this.inputStream = in;  
+this.in  = inStream;  return this. in;  
+this.in  = in; this.md5 = in;  
+this.in  = in; this.iter = in;  
+this.in  = in;   return this. in;  
+this.in  = in; this.checksum = in;  
+this.in  = in; this.seek = - in;  
+this.in  = in; this.stream =  in;  
+this.in  = in; this.size = in;  
+this.in  = in; this.file = _ in;  
+this.in  = in; this.cached = ! in;  
+this.in  = in; this.source = in;  
+this.in     = in; return this. in;  
+this.in  = in; this.total = - in;  
+this.in Stream = in; return this. in;  
+this.in  = in;; return this. in;  
+this.in  = in; this.index = - in;  
+this.in  = in; this.reader = _ in;  
+this.in  = in; this.next = _ in;  
+this.in  = in;                  return this. in;  
+this.in  = in.read(); return this. in;  
+this.in  = in; this.bytes = in;  
+this.in  = in; this.checksums = in;  
+this.in       = in; return this. in;  
+this.in  = in; this.valid = true in;  
+this.in  = in; this.in = null in;  
+this.in  = in; this.buffer = _ in;  
+this.in  = checksum.in; return this. in;  
+this.in  = in; this.output = in;  
+this.in  = in; return ChecksumCalculatingInputStream in;  
+this.in  = in; this.seekable = ! in;  
+this.in  = in;       return this. in;  
+this.in  = in; this.count = - in;  
+this.in  = in; this.out =  in;  
+this.in  = inStream(); return this. in;  
+this.in  = in; this.next = ++ in;  
+this.in  = in; this.hash = in;  
+this.in  = in; return this; // in;  
+this.in  = i; return this. in;  
+this.in  = in; this.consumed = - in;  
+this.in  = in; this.buf = in;  
+this.in  = in; this.out = new in;  
+this.in  = in; this.out = null in;  
+this.in  = in; this.crc = - in;  
+this.in  = in; this.stream = null in;  
+this.in  = in; this.input = _ in;  
+this.in  = in; this.crc = in;  
+this.in  = in; this.initialized = true in;  
+this.in  = in; return this._ in;  
+this.in  = in; //this.out = in;  
+this.in  = in; this.file = in;  
+this.in      = in; return this. in;  
+this.in  = in == null ? null : this. in;  
+this.in  = in; this.read = - in;  
+this.in  = in; this.checksumSize = in;  
+this.in  = in; this.byteBuffer = in;  
+this.in  = inputStream; return this. in;  
+this.in  = in; this.in = - in;  
+this.in  = in;   return this. in;  
+this.in  = in; this.available = - in;  
+this.in  = in; return checksum in;  
+this.in  = in; this.stream = new in;  
+this.in  = in; this.hash = hash in;  
+this.in  = in; this.checksumHash= in;  
+this.in  = in; this.checksumStream = in;  
+this.in  = in; this.out = out in;  
+this.in  = in; this.progress = - in;  
+this.in  = in; this.inReader = in;  
+this.in  = in; this.length = in;  
+this.in  = in; this.checksumBuffer = in;  
+this.in  = in; this.line = - in;  
+this.in  = in;          return this. in;  
+this.in  = in; //    return this. in;  
+this.in  = in.clone(); return this. in;  
+this.in  = in; this.finished = false in;  
+this.in  = in; returns this. in;  
+this.in  = in; this.value = in;  
+this.in Reader = in; return this. in;  
+this.in  = new DataInputStream(in); return in;  
+this.in  = in; this.len = - in;  
+this.in  = inflater(in); return this. in;  
+this.in  = in; this.checksumLength = in;  
+this.in  = in; this.stream = - in;  
+this.in  = in; this.handle = in;  
+this.in  = in; return my in;  
+this.in  = in; this.src = in;  
+this.in  = in; this.next = -- in;  
+this.in        = in; return this. in;  
+this.in  = in; this.rdr = in;  
+this.in  = in; this.current = in;  
+this.in  = in; this.checksum = ++ in;  
+this.in  = in; this.input =  in;  
+this.in  = in; this.isValid = ! in;  
+this.in  = in == null ? null : in. in;  
+this.in  = in;  	return this. in;  
+this.in  = in; this.digest = _ in;  
+this.in  = in; this.buffer = - in;  
+this.in  = in;          return this. in;  
+this.in  = in; //this.checksum= in;  
+this.in  = in; return (InputStream) in;  
+this.in  = in;          return this. in;  
+this.in  = in; this.in = my in;  
+this.in  = in; this.skip = - in;  
+this.in  = in; this.n = - in;  
+this.in  = in; this.r = - in;  
+this.in  = in ; return this. in;  
+this.in  = in; this.done = false in;  
+this.in  = in; this.raw = in;  
+this.in  = in; this.pos = in;  
+this.in  = in; this.digest = in;  
+this.in  = in; this.read = read in;  
+this.in  = in; this.iter = - in;  
+this.in  = in; this.readBuffer = in;  
+this.in  = in; this.checksum = Checksum in;  
+this.in  = in; this.checksumInputStream = in;  
+this.in  = in; this.checksumBytes = in;  
+this.in  = in; this.buffer = null in;  
+this.in  = in; this.checkSum = in;  
+this.in  = in; this.start = - in;  
+this.in  = in; this.cached = in;  
+this.in  = in; this.sum = - in;  
+this.in  = in; this.buf = new in;  
+this.in  = in; this.data = in;  
+this.in  = in; this.cache = cache in;  
+this.in  = in; this.checksumSource = in;  
+this.in  = in; this.eof = - in;  
+this.in  = in; this.out = - in;  
+this.in  = in; this.hash = _ in;  
+this.in  = in; this.in =  in;  
+this.in  = in; this.closed = false in;  
+this.in  = in; this.buf = _ in;  
+this.in  = in; this.checksum = null in;  
+this.in  = in; this.checksum = _ in;  
+this.in  = in; this.end = - in;  
+this.in  = in; this.finished = true in;  
+this.in  = in; this.out = my in;  
+this.in  = in; this.is = - in;  
+this.in  = in; this.hash = digest in;  
+this.in  = in; this.buffer =  in;  
+this.in  = in; this.hash = sha in;  
+this.in  = _ in;  
+this.in  = in; this.reader = new in;  
+this.in  = in; this.done = true in;  
+this.in = in;  
+this.in  = in; }. in;  
+this.in  = in; this.in = new in;  
+this.in  = in;//this. in;  
+this.in  = 	 in;  
+this.in  = in; this.input = new in;  
+this.in  = in; }; in;  
+this.in    = this. in;  
+this.in  = in; in;  
+this.in  = in;  in;  
+this.in   = this. in;  
+this.in  = in; this.out = this in;  
+this.in = in;  
+this.in = in; this.out = in;  
+this.input = in;  
+this.in = in; this.input = in;  
+this.in = in; this.stream = in;  
+this.out = in;  
+this.in 	 = in;  
+this.in  = in;  
+this.inputStream = in;  
+this.stream = in;  
+this.in.close(); this.in = in;  
+this.in = in; this.in = in;  
+this.is = in;  
+this.in	 = in;  
+this.in = in; this.buffer = in;  
+this.in = in; this.inputStream = in;  
+this.in = in; this.bytes = in;  
+this.in = in; this.read = in;  
+this.in = in; this.next = in;  
+this.in = in; this.reader = in;  
+this.in= in; this.out = in;  
+this.in = in; this.file = in;  
+this.in = in; this.result = in;  
+this.in      = in;  
+this.in=in; this.out = in;  
+this.in = null; this.out = in;  
+this.in = in; this.size = in;  
+this.in  	 = in;  
+this.in = in; this.data = in;  
+this.in = in; this.buf = in;  
+this.in		 = in;  
+this.in = in; this.is = in;  
+this.in = in; this.source = in;  
+this.in = in; this.digest = in;  
+this.in = null; this.in = in;  
+this.in = in; this.hash = in;  
+this.in = null; this.input = in;  
+this.in = in; this.output = in;  
+this.in   = in;  
+this.in= in; this.input = in;  
+this.in = in; } = in;  
+this.in=in; this.input = in;  
+this.in = in; this.bytesRead = in;  
+this.in= in; this.stream = in;  
+this.in = null; this.stream = in;  
+this.in = in; this.crc = in;  
+this.in = in; this.pos = in;  
+this.in = in; this.sum = in;  
+this.in = in; this.offset = in;  
+this.in = in; this.current = in;  
+this.in = in; this.ch = in;  
+this.in=in; this.stream = in;  
+this.in.reset(); this.in = in;  
+this.in = in; this.finished = in;  
+this.in = in; this.value = in;  
+this.in = in; this.src = in;  
+this.in = in; this.eof = in;  
+this.in = in; this.iter = in;  
+this.in    = in;  
+this.in = in; this.dataSource = in;  
+this.in   	 = in;  
+this.in = in; this.cache = in;  
+this.in = in; this.pointer = in;  
+this.in     	 = in;  
+this.in   = in;  
+this.size = 0; this.in = in;  
+this.in = in; this.outStream = in;  
+this.in       = in;  
+this.in = in; this.length = in;  
+this.this.in = in;  
+this.file = null; this.in = in;  
+this.in = in; this.done = in;  
+this.isIn = in;  
+this.in = in; this.valid = in;  
+this.in = in; this.err = in;  
+this.in = in; this.body = in;  
+this.inStream = in;  
+this.in=in; this.in = in;  
+this.in = in; return this; = in;  
+this.in = in; this.position = in;  
+this.buffer = in;  
+this.in = in; this.r = in;  
+this.in = in; this.progress = in;  
+this.in = in; this.cached = in;  
+this.in= in; this.in = in;  
+this.in = in; this.total = in;  
+this.bytes = in;  
+this.in = in; return checksum = in;  
+this.in    	 = in;  
+this.in = in; this.b = in;  
+this.in = in; this.filename = in;  
+this.in = in; this.hasNext = in;  
+this.in_ = in;  
+this.in = in; this.index = in;  
+this.in = in; this.signature = in;  
+this.in = in; this.raw = in;  
+this.in = in; return this. = in;  
+this.data = in;  
+this.in = in; this.header = in;  
+this.in     = in;  
+this.instream = in;  
+this.in = in; this.buff = in;  
+this.in = null; this.buffer = in;  
+this.is = in; this.in = in;  
+this.in = null; this.inputStream = in;  
+this.in = in; this.handle = in;  
+this.in = in; this.path = in;  
+this.inReader = in;  
+this.in= in; this.buffer = in;  
+this.in= in; this.next = in;  
+this.in = in; this.content = in;  
+this.streamIn = in;  
+this.source = in;  
+this.in= in; this.read = in;  
+this.in = in; this.consumed = in;  
+this.checksumIn = in;  
+this.in= in; this.inputStream = in;  
+this.in = in; this.s = in;  
+this.in = in; this.iv = in;  
+this.in= in; this.bytes = in;  
+this.in = in; this.checksum = in;  
+this.in = in; this.str = in;  
+this.in= in; this.reader = in;  
+this.in=in; this.inputStream = in;  
+this.in = input; this.input = in;  
+this.in=in; this.buffer = in;  
+this.in = in; this.initialized = in;  
+this.in = in; this.chunk = in;  
+this.in = in; this.iterator = in;  
+this.InputStream = in;  
+this.in = in; this.os = in;  
+this.in = in; this.fd = in;  
+this.in = in;  = in;  
+this.i = in;  
+this.in = new FileInputStream(in);  = in;  
+this.stream = in; this.in = in;  
+this.data = null; this.in = in;  
+this.in = in; this.trailer = in;  
+this.in = in; this.url = in;  
+this.in = in; this.res = in;  
+this.input = in; this.in = in;  
+this.in = in; this.generator = in;  
+this.in=in; this.read = in;  
+this.in=in; this.reader = in;  
+this.in= in; this.file = in;  
+this.in = in; this.id = in;  
+this.in = in; this.closed = in;  
+this.in = in; this.last = in;  
+this.os = in;  
+this.in=in; this.bytes = in;  
+this.in = out; this.out = in;  
+this.in=in; this.next = in;  
+this.offset = 0; this.in = in;  
+this.in = in; this.rdr = in;  
+this.in = in; this.line = in;  
+this.in = null; this.bytes = in;  
+this.in = in; this.val = in;  
+this.stream = null; this.in = in;  
+this.in = in; this.i = in;  
+this.in = checksum; this.in = in;  
+this.in = in; this.state = in;  
+this.in = in; this.outputStream = in;  
+this.in = in; this._in = in;  
+this.inputStream = in;  
+this.in = in; this.writer = in;  
+this.read = in;  
+this.in = in; this.end = in;  
+this.in = null; this.source = in;  
+this.bytesIn = in;  
+this.in = null; this.is = in;  
+this.in = in; this.io = in;  
+this.in= in; this.result = in;  
+this.in = null; this.data = in;  
+this.in=in; this.file = in;  
+this.in = in; this.name = in;  
+this.in= in; this.size = in;  
+this.in 	   = in;  
+this.in = null; this.read = in;  
+this.in = null; this.file = in;  
+this.stream=in; this.in = in;  
+this.inputStream = in; this.in = in;  
+this.in = in; this.footer = in;  
+this.in= in; this.data = in;  
+this.in = in; this.parent = in;  
+this.in= in; this.is = in;  
+this.in = in; this.key = in;  
+this.in= in; this.buf = in;  
+this.in = in; this.prev = in;  
+this.fileIn = in;  
+this.in = in; this.first = in;  
+this.in = in; this.c = in;  
+this.in = null; this.buf = in;  
+this.in = null; this.reader = in;  
+this.in = in; this.fp = in;  
+this.out = null; this.in = in;  
+this.in= in; } = in;  
+this.src = in;  
+this.in = in; this.f = in;  
+this.inputReader = in;  
+this.bytesRead = in;  
+this.reader = in;  
+this.input	 = in;  
+this.in          = in;  
+this.fileInputStream = in;  
+this.io = in;  
+this.read(); this.in = in;  
+this.output = in;  
+this.in 	 	 = in;  
+this.isStream = in;  
+this.ioIn = in;  
+this.currentIn = in;  
+this.in        = in;  
+this.in 	  = in;  
+this.byteInputStream = in;  
+this.content = in;  
+this.checksum2 = in;  
+this.byteBuffer = in;  
+this.inode = in;  
+this.inputstream = in;  
+this.in           = in;  
+this.outStream = in;  
+this.init(); this.in = in;  
+this.inBytes = in;  
+this.in         = in;  
+this.isin = in;  
+this.in=in; } = in;  
+this.In = in;  
+this.file = in;  
+this.checkin = in;  
+this.checksum.in = in;  
+this.in 		 = in;  
+this.value = in;  
+this. in = in;  
+this.in      	 = in;  
+this.in    = in;  
+this.currentInputStream = in;  
+this.byteInput = in;  
+this.bytesWritten = in;  
+this.checksumInput = in;  
+this.checksumBuffer = in;  
+this.cachedIn = in;  
+this.dataIn = in;  
+this.readIn = in;  
+this.byteStream = in;  
+this.checksumStream = in;  
+this.inRead = in;  
+this.buf = in;  
+this.body = in;  
+this.checksum_in = in;  
+this.result = in;  
+this.in =  in; return this;  
+this.in =  in;  return this;  
+this.in =  in; return this.checksum;  
+this.in =  in; return this.in;  
+this.in =  in; };  
+this.in =  in;  
+this.in =  in; 	return this;  
+this.in =  in;  return this.checksum;  
+this.in =  in; //return this;  
+this.in =  in;         return this;  
+this.in =  in;     return this;  
+this.in =  in; }  return this;  
+this.in =  in; this.size = 0;  
+this.in =  in; return null;  
+this.in =  in; this.valid = true;  
+this.in =  in; return true;  
+this.in =  input; return this;  
+this.in =  in; return this;  
+this.in =  in; return checksum;  
+this.in =  in; this.initialized = true;  
+this.in =  in; this.finished = false;  
+this.in =  in;  return this.in;  
+this.in =  in; this.eof = false;  
+this.in =  in;  //return this;  
+this.in =  in;  return this;  
+this.in =  in; this.length = 0;  
+this.in =  in; this.done = false;  
+this.in =  in;  	return this;  
+this.in =  in; AST#return_statement#Leftreturn this;  
+this.in =  in; this.offset = 0;  
+this.in =  in; return new ChecksumCalculatingInputStream;  
+this.in =  in; 		return this;  
+this.in =  in; this.out = null;  
+this.in =  inStream; return this;  
+this.in =  in; this.position = 0;  
+this.in =  in; this.pos = 0;  
+this.in =  in; return in;  
+this.in =  in; this.hash = null;  
+this.in =  in; this.is = null;  
+this.in =  in; this.closed = false;  
+this.in =  in; this.stream = null;  
+this.in =  in; //return this.checksum;  
+this.in =  in; this.file = null;  
+this.in =  in; this.isValid = true;  
+this.in =  in; this.size = -1;  
+this.in =  in; this.initialized = false;  
+this.in =  in; this.result = null;  
+this.in =  in; //this.checksum = null;  
+this.in =  in; return;  
+this.in =  in; return this; };  
+this.in =  in;      return this;  
+this.in =  in; this.bytes = 0;  
+this.in =  new BufferedInputStream(in); return this;  
+this.in =  in; this.buffer = null;  
+this.in =  in;          return this;  
+this.in =  in; this.next = -1;  
+this.in =  null; return this;  
+this.in =  in; this.bytesRead = 0;  
+this.in =  in; this.count = 0;  
+this.in =  in; this.next = null;  
+this.in =  in; this.total = 0;  
+this.in =  in; this.reader = null;  
+this.in =  in; return this.checksumCalculating;  
+this.in =  in; // return this;  
+this.in =  in; this.valid = false;  
+this.in =  in; this.bytesWritten = 0;  
+this.in =  in; this.checksumHash = null;  
+this.in =  in; this.hasNext = false;  
+this.in =  in; this.input = null;  
+this.in =  in; @return this;  
+this.in =  in; return checksumCalculatingInputStream;  
+this.in =  in;;  
+this.in =  in; } return this;  
+this.in =  in; this.hasNext = true;  
+this.in =  in; this.length = -1;  
+this.in =  in;             return this;  
+this.in =  in;                  return this;  
+this.in =  in; //return this.in;  
+this.in =  in; this.digest = null;  
+this.in =  in; this.finished = true;  
+this.in =  in;; return this;  
+this.in =  in; this.count = -1;  
+this.in =  in; this.isInitialized = true;  
+this.in =  in; this.index = 0;  
+this.in =  in;  return null;  
+this.in =  this.in;  
+this.in =  this.in; return this;  
+this.in =  in; this.next = 0;  
+this.in =  in; this.pos = -1;  
+this.in =  in; this.bytesRead = 0;  
+this.in =  in; returns this;  
+this.in =  in; return ChecksumCalculatingInputStream;  
+this.in =  in;   return this;  
+this.in =  in; 	return this.checksum;  
+this.in =  in; this.filename = null;  
+this.in =  in; };;  
+this.in =  in; this.checksumValid = true;  
+this.in =  in;  return checksum;  
+this.in =  in; this.completed = false;  
+this.in =  in; this.index = -1;  
+this.in =  in; this.checksum = null;  
+this.in =  in; this.crc = null;  
+this.in =  in; this.done = true;  
+this.in =  in; this.position = -1;  
+this.in =  in; this.checksumSize = 0;  
+this.in =  in; return this.input;  
+this.in =  in; this.data = null;  
+this.in =  in; this.eof = true;  
+this.in =  in; return this.checksum;  
+this.in =  input;  return this;  
+this.in =  in; this.cache = null;  
+this.in =  in; this.md5 = null;  
+this.in =  in; this.progress = null;  
+this.in =  in;          return this;  
+this.in =  in;  };  
+this.in =  in; this.len = 0;  
+this.in =  in;  // return this;  
+this.in =  in;  return in;  
+this.in =  in; this.checksumLength = 0;  
+this.in =  in;       return this;  
+this.in =  in;   return this;  
+this.in =  in; this.err = null;  
+this.in =  in; this.out = this;  
+this.in =  in; return false;  
+this.in =  in; this.start = 0;  
+this.in =  in; this.output = null;  
+this.in =  in; return this; return this;  
+this.in =  in; this.buf = null;  
+this.in =  in;  return true;  
+this.in =  in; this.source = null;  
+this.in =  in; this.bytes = -1;  
+this.in =  in;          return this;  
+this.in =  in;         return this.checksum;  
+this.in =  in; this.iterator = null;  
+this.in =  in; this.sum = 0;  
+this.in =  in; this.signature = null;  
+this.in =  in; //    return this;  
+this.in =  in; this.path = null;  
+this.in =  in; this.started = false;  
+this.in =  in; //this.checksum = checksum;  
+this.in =  in; this.hashCode = 0;  
+this.in =  in;  return checksumCalculatingInputStream;  
+this.in =  in; this.available = 0;  
+this.in =  in; return this.digest;  
+this.in =  in; this.isOpen = true;  
+this.in =  in; this.header = null;  
+this.in =  in; this.crc = 0;  
+this.in =  in;  return this.checksum;  
+this.in =  in; return bytesRead;  
+this.in =  in; this.read = null;  
+this.in =  in; this.pointer = 0;  
+this.in =  in; return input;  
+this.in =  is; return this;  
+this.in =  in;  	return this;  
+this.in =  in; return this.checksum != null;  
+this.in =  in;  return this;  
+this.in =  in; });;  
+this.in =  in;                      return this;  
+this.in =  new FileInputStream(in); return this;  
+this.in =  in; return this.is;  
+this.in =  in; this.n = 0;  
+this.in =  in; this.ok = true;  
+this.in =  in; this.cached = false;  
+this.in =  in;              return this;  
+this.in =  in; this.read = false;  
+this.in =  in; this.value = null;  
+this.in =  in; this.isDirty = true;  
+this.in =  in; this.name = null;  
+this.in =  this; return this;  
+this.in =  in ; return this;  
+this.in =  in; this.updated = false;  
+this.in =  in; returnthis;  
+this.in =  in; ; return this;  
+this.in =  in; this.checkSum = null;  
+this.in =  in; this.running = true;  
+this.in =  in; this.progress = 0;  
+this.in =  in == null ? null : in;  
+this.in =  out; return this;  
+this.in =  in; this.url = null;  
+this.in =  in; this.dirty = true;  
+this.in =  in; return this.hash;  
+this.in =  in; this.checksum2 = null;  
+this.in =  inStream;  return this;  
+this.in =  in; }  //return this;  
+this.in =  in;     return this.checksum;  
+this.in =  in; this.line = 0;  
+this.in =  in; this.id = null;  
+this.in =  in; this.checksum = checksum;  
+this.in =  in;     };  
+this.in =  in; this.started = true;  
+this.in =  in; this.skipped = 0;  
+this.in =  in; this.inputStream = null;  
+this.in =  in;          return this;  
+this.in =  in; this.current = 0;  
+this.in =  in; Return this;  
+this.in =  in; }  returns this;  
+this.in =  in; this.byteCount = 0;  
+this.in =  in; //this.in = null;  
+this.in =  in; this.counter = 0;  
+this.in =  in; this;  
+this.in = in; return this;  
+this.in =  in; this.bytesRead = -1;  
+this.in =  in; this.checksumType = null;  
+this.in =  in; this.crc = crc;  
+this.in =  in; this.result = this;  
+this.in =  inputStream; return this;  
+this.in =  in; this.byteBuffer = null;  
+this.in =  in; // this.checksum = null;  
+this.in =  input; return this.checksum;  
+this.in =  in; return this.this;  
+this.in =  in; 	return this.in;  
+this.in =  in; try { return this;  
+this.in =  in; this.found = false;  
+this.in =  in; this.end = -1;  
+this.in =  in; this.isRead = false;  
+this.in =  in; this.pointer = -1;  
+this.in =  in; return this.crc;  
+this.in =  in; this.isValid = false;  
+this.in =  in; this.totalSize = 0;  
+this.in =  in; this.success = true;  
+this.in =  in; return this.checksum == null;  
+this.in =  in; this.totalBytes = 0;  
+this.in =  in; this.dirty = false;  
+this.in =  in; this.iter = null;  
+this.in =  in; return this.stream;  
+this.in =  in; this.open = true;  
+this.in =  in; this.checksumReader = null;  
+this.in =  in; //	return this;  
+this.in =  in; this.isInitialized = false;  
+this.in =  in; this.readOnly = false;  
+this.in =  in; this.cached = null;  
+this.in =  in; this.out = in;  
+this.in =  in; this.written = 0;  
+this.in =  in; this.isNew = false;  
+this.in =  in; this.size = size;  
+this.in =  in; this.read = true;  
+this.in =  in; this.generator = null;  
+this.in =  in; this.s = null;  
+this.in =  in; this.metadata = null;  
+this.in =  in; } { return this;  
+this.in =  in; this.isDirty = false;  
+this.in =  in; ;  
+this.in =  in; this.error = null;  
+this.in =  in; this.fileSize = 0;  
+this.in =  in; this.input = in;  
+this.in =  in; this.iter = 0;  
+this.in =  in; this.read = -1;  
+this.in =  in; this.i = 0;  
+this.in =  in; // return this.checksum;  
+this.in =  in; this.checksumAlgorithm = null;  
+if(in==null){return  null;} this.in = in;  
+if(in==null){return ;;} this.in = in;  
+if(in==null){return  null;;} this.in = in;  
+if(in==null){return  this;} this.in = in;  
+if(in==null){return  false;} this.in = in;  
+if(in==null){return  false;;} this.in = in;  
+if(in==null){return  this;;} this.in = in;  
+if(in==null){return null;} this.in = in;  
+if(in==null){return  this.checksum;} this.in = in;  
+if(in==null){return  new NullChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return  ;;} this.in = in;  
+if(in==null){return  -1;} this.in = in;  
+if(in==null){return  this.checksum;;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return  this.in;} this.in = in;  
+if(in==null){return  in;} this.in = in;  
+if(in==null){return  NULL;} this.in = in;  
+if(in==null){return  true;;} this.in = in;  
+if(in==null){return  new NullChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  checksum;} this.in = in;  
+if(in==null){return  checksum;;} this.in = in;  
+if(in==null){return  new NullInputStream();;} this.in = in;  
+if(in==null){return  ;} this.in = in;  
+if(in==null){return  true;} this.in = in;  
+if(in==null){return ; ;} this.in = in;  
+if(in==null){return  in;;} this.in = in;  
+if(in==null){return  void;} this.in = in;  
+if(in==null){return ; } return this;} this.in = in;  
+if(in==null){return  nil;} this.in = in;  
+if(in==null){return ; };} this.in = in;  
+if(in==null){return  new NullInputStream;} this.in = in;  
+if(in==null){return  0;} this.in = in;  
+if(in==null){return  -1;;} this.in = in;  
+if(in==null){return  "";;} this.in = in;  
+if(in==null){return  null; } return this;} this.in = in;  
+if(in==null){return ; ;} this.in = in;  
+if(in==null){return (null);;} this.in = in;  
+if(in==null){return  NULL_CHECKSUM;} this.in = in;  
+if(in==null){return this;} this.in = in;  
+if(in==null){return  empty;} this.in = in;  
+if(in==null){return -1;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.this;} this.in = in;  
+if(in==null){return ();;} this.in = in;  
+if(in==null){return  this.in;;} this.in = in;  
+if(in==null){return ;} this.in = in;  
+if(in==null){return false;} this.in = in;  
+if(in==null){return  null; ;} this.in = in;  
+if(in==null){return  new NullInputStream(checksum);;} this.in = in;  
+if(in==null){return  super;} this.in = in;  
+if(in==null){return  new NullInputStream(this);;} this.in = in;  
+if(in==null){return  new NullInput();;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.NULL;} this.in = in;  
+if(in==null){return ; } return in;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  null ;;} this.in = in;  
+if(in==null){return  this.checksum==null;} this.in = in;  
+if(in==null){return   null;} this.in = in;  
+if(in==null){return  null;} return this;} this.in = in;  
+if(in==null){return ; } return this.in;} this.in = in;  
+if(in==null){return ;this;} this.in = in;  
+if(in==null){return  new nullChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return ; } in.close();;} this.in = in;  
+if(in==null){return ;return;} this.in = in;  
+if(in==null){return  ;} this.in = in;  
+if(in==null){return  null ;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.INSTANCE;} this.in = in;  
+if(in==null){return  EMPTY;} this.in = in;  
+if(in==null){return ;} return this;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream() {;} this.in = in;  
+if(in==null){return ;AST#return_statement#Right;} this.in = in;  
+if(in==null){return  this.checksum=null;} this.in = in;  
+if(in==null){return ; this.in = null;} this.in = in;  
+if(in==null){return ;};} this.in = in;  
+if(in==null){return ; } ;} this.in = in;  
+if(in==null){return  this.checksum = null;} this.in = in;  
+if(in==null){return [];;} this.in = in;  
+if(in==null){return   this;} this.in = in;  
+if(in==null){return null;;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  0;;} this.in = in;  
+if(in==null){return  undefined;} this.in = in;  
+if(in==null){return ;} return this;} this.in = in;  
+if(in==null){return  null; };} this.in = in;  
+if(in==null){return ; } return null;} this.in = in;  
+if(in==null){return ;  ;} this.in = in;  
+if(in==null){return  System.err;} this.in = in;  
+if(in==null){return "";;} this.in = in;  
+if(in==null){return  new ByteArrayInputStream(0);;} this.in = in;  
+if(in==null){return  return null;} this.in = in;  
+if(in==null){return _null;} this.in = in;  
+if(in==null){return  NULL_STREAM;} this.in = in;  
+if(in==null){return   ;} this.in = in;  
+if(in==null){return  NaN;} this.in = in;  
+if(in==null){return ;  ;} this.in = in;  
+if(in==null){return :;} this.in = in;  
+if(in==null){return ; return;} this.in = in;  
+if(in==null){return  new NullStream();;} this.in = in;  
+if(in==null){return  null; ;} this.in = in;  
+if(in==null){return   	;} this.in = in;  
+if(in==null){return (this);;} this.in = in;  
+if(in==null){return  input;;} this.in = in;  
+if(in==null){return -1;;} this.in = in;  
+if(in==null){return  new nullChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  super.in;} this.in = in;  
+if(in==null){return  false; } return true;} this.in = in;  
+if(in==null){return  NULL;;} this.in = in;  
+if(in==null){return  this.checksum == null;} this.in = in;  
+if(in==null){return  new ByteArrayInputStream();;} this.in = in;  
+if(in==null){return false;;} this.in = in;  
+if(in==null){return .;} this.in = in;  
+if(in==null){return    ;} this.in = in;  
+if(in==null){return NULL;} this.in = in;  
+if(in==null){return 	null;} this.in = in;  
+if(in==null){return  NULLCHECKSUM;} this.in = in;  
+if(in==null){return  withChecksum(checksum);;} this.in = in;  
+if(in==null){return  scratch;} this.in = in;  
+if(in==null){return ; } return this.checksum;} this.in = in;  
+if(in==null){return  new NullStream;} this.in = in;  
+if(in==null){return  EMPTY_STREAM;} this.in = in;  
+if(in==null){return  {@code null;} this.in = in;  
+if(in==null){return ;default;} this.in = in;  
+if(in==null){return  false; } return true;;} this.in = in;  
+if(in==null){return ;	;} this.in = in;  
+if(in==null){return ; this;} this.in = in;  
+if(in==null){return this;;} this.in = in;  
+if(in==null){return  this.checksum!=null;} this.in = in;  
+if(in==null){return ,null;} this.in = in;  
+if(in==null){return ; } return this;;} this.in = in;  
+if(in==null){return  null; } return in;} this.in = in;  
+if(in==null){return  new EmptyChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return ChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream(){};;} this.in = in;  
+if(in==null){return  error;} this.in = in;  
+if(in==null){return  input;} this.in = in;  
+if(in==null){return  nothing;} this.in = in;  
+if(in==null){return  unknown;} this.in = in;  
+if(in==null){return  Boolean.FALSE;} this.in = in;  
+if(in==null){return  (ChecksumCalculatingInputStream)null;} this.in = in;  
+if(in==null){return } return this;} this.in = in;  
+if(in==null){return };;} this.in = in;  
+if(in==null){return ; } return checksum;} this.in = in;  
+if(in==null){return  null; } else { return this;} this.in = in;  
+if(in==null){return ;} else {return;} this.in = in;  
+if(in==null){return  super.getInputStream();;} this.in = in;  
+if(in==null){return ;};} this.in = in;  
+if(in==null){return  this.checksum != null;} this.in = in;  
+if(in==null){return  EMPTY_CHECKSUM;} this.in = in;  
+if(in==null){return  this.checksum=null;;} this.in = in;  
+if(in==null){return  (null);;} this.in = in;  
+if(in==null){return ;this.in = null;} this.in = in;  
+if(in==null){return  invalid;} this.in = in;  
+if(in==null){return ; } else;} this.in = in;  
+if(in==null){return  this.in = null;} this.in = in;  
+if(in==null){return      ;} this.in = in;  
+if(in==null){return  false;} return true;} this.in = in;  
+if(in==null){return ;} in.close();;} this.in = in;  
+if(in==null){return  NullChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return ChecksumCalculatingInputStream.this;} this.in = in;  
+if(in==null){return  new NullInputStream();} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream(){};;} this.in = in;  
+if(in==null){return ;} this.in = null;} this.in = in;  
+if(in==null){return  next;} this.in = in;  
+if(in==null){return  self;} this.in = in;  
+if(in==null){return  new nullInputStream();;} this.in = in;  
+if(in==null){return  null;} return this;} this.in = in;  
+if(in==null){return  NULL_IN;} this.in = in;  
+if(in==null){return  new Null();;} this.in = in;  
+if(in==null){return  this.nullIn;} this.in = in;  
+if(in==null){return  inputStream;} this.in = in;  
+if(in==null){return  FALSE;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.EMPTY;} this.in = in;  
+if(in==null){return ;} else{return;} this.in = in;  
+if(in==null){return ; } else { return in;} this.in = in;  
+if(in==null){return void;} this.in = in;  
+if(in==null){return  _null;} this.in = in;  
+if(in==null){return  INVALID;} this.in = in;  
+if(in==null){return ;}};} this.in = in;  
+if(in==null){return  this.checksum.reset();;} this.in = in;  
+if(in==null){return  nil;;} this.in = in;  
+if(in==null){return  new NullInput;} this.in = in;  
+if(in==null){return  a;;} this.in = in;  
+if(in==null){return  this.checksum = null;;} this.in = in;  
+if(in==null){return ; } };} this.in = in;  
+if(in==null){return  null;  ;} this.in = in;  
+if(in==null){return  crc;;} this.in = in;  
+if(in==null){return ;s;} this.in = in;  
+if(in==null){return  none;} this.in = in;  
+if(in==null){return ; };} this.in = in;  
+if(in==null){return ChecksumCalculatingInputStream.INSTANCE;} this.in = in;  
+if(in==null){return  new EOFException();;} this.in = in;  
+if(in==null){return ; } else { return this;} this.in = in;  
+if(in==null){return  this.input;} this.in = in;  
+if(in==null){return  anull;} this.in = in;  
+if(in==null){return  false;} return true;;} this.in = in;  
+if(in==null){return  orignal;} this.in = in;  
+if(in==null){return ;<mask1>;;} this.in = in;  
+if(in==null){return  null ;} this.in = in;  
+if(in==null){return  Null;} this.in = in;  
+if(in==null){return  this; ;} this.in = in;  
+if(in==null){return  (this);;} this.in = in;  
+if(in==null){return ;} this.in = null;} this.in = in;  
+if(in==null){return  NONE;} this.in = in;  
+if(in==null){return ;} this.in = in;} this.in = in;  
+if(in==null){return  null; } return this;;} this.in = in;  
+if(in==null){return  } return this;} this.in = in;  
+if(in==null){return , null;} this.in = in;  
+if(in==null){return  new NullInputStream(null);;} this.in = in;  
+if(in==null){return  invalidChecksum;} this.in = in;  
+if(in==null){return (null;} this.in = in;  
+if(in==null){return  it;;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream(){};} this.in = in;  
+if(in==null){return =null;} this.in = in;  
+if(in==null){return ; default;} this.in = in;  
+if(in==null){return ;} ;} this.in = in;  
+if(in==null){return ;} return in;} this.in = in;  
+if(in==null){return _;} this.in = in;  
+if(in==null){return  new EOF();;} this.in = in;  
+if(in==null){return  new ByteArrayInputStream(null);;} this.in = in;  
+if(in==null){return  (ChecksumCalculatingInputStream)this;} this.in = in;  
+if(in==null){return  this.in=null;} this.in = in;  
+if(in==null){return  io.EOF;} this.in = in;  
+if(in==null){return ; }  return this;} this.in = in;  
+if(in==null){return  null;};} this.in = in;  
+if(in==null){return  checksum==null;} this.in = in;  
+if(in==null){return  throw new NullPointerException();;} this.in = in;  
+if(in==null){return  new IOException();;} this.in = in;  
+if(in==null){return ; } in.reset();;} this.in = in;  
+if(in==null){return ;} else{return;} this.in = in;  
+if(in==null){return  this.in = null;} this.in = in;  
+if(in==null){return } else {in.close();;} this.in = in;  
+if(in==null){return  DiscardChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  new byte[0];;} this.in = in;  
+if(in==null){return  new FileInputStream(this);;} this.in = in;  
+if(in==null){return  new nullInputStream;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.empty;} this.in = in;  
+if(in==null){return ; } else{return in;} this.in = in;  
+if(in==null){return }; return this;} this.in = in;  
+if(in==null){return  this.in==null;} this.in = in;  
+if(in==null){return  NULL_IN_STREAM;} this.in = in;  
+if(in==null){return  &this.checksum;} this.in = in;  
+if(in==null){return  INVALID_CHECKSUM;} this.in = in;  
+if(in==null){return  null;this;} this.in = in;  
+if(in==null){return ; } else;} this.in = in;  
+if(in==null){return  null;} else {return this;} this.in = in;  
+if(in==null){return ; } return this; ;} this.in = in;  
+if(in==null){return  new EmptyChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  null; } return checksum;} this.in = in;  
+if(in==null){return ; } this.in = null;} this.in = in;  
+if(in==null){return  null; } else { return in;} this.in = in;  
+if(in==null){return  null;} return in;} this.in = in;  
+if(in==null){ in=this.in; } this.in = in;  
+if(in==null){ in=new NullInputStream; } this.in = in;  
+if(in==null){ in=null; } this.in = in;  
+if(in==null){ in=new FileInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream; } this.in = in;  
+if(in==null){ in=System.in; } this.in = in;  
+if(in==null){ in=this; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream; } this.in = in;  
+if(in==null){ in=new InputStream; } this.in = in;  
+if(in==null){ in=input; } this.in = in;  
+if(in==null){ in=this.inputStream; } this.in = in;  
+if(in==null){ in=new NullStream; } this.in = in;  
+if(in==null){ in= this.in; } this.in = in;  
+if(in==null){ in=os; } this.in = in;  
+if(in==null){ in=newInputStream; } this.in = in;  
+if(in==null){ in=defaultIn; } this.in = in;  
+if(in==null){ in=in; } this.in = in;  
+if(in==null){ in=new ChecksumCalculatingInputStream; } this.in = in;  
+if(in==null){ in=this.stream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } else { in; } this.in = in;  
+if(in==null){ in=new GZIPInputStream; } this.in = in;  
+if(in==null){ in=inputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } return this; } this.in = in;  
+if(in==null){ in= new NullInputStream; } this.in = in;  
+if(in==null){ in=this.getInputStream; } this.in = in;  
+if(in==null){ in=new DefaultInputStream; } this.in = in;  
+if(in==null){ in=this.input; } this.in = in;  
+if(in==null){ in=new InputStream() {; } this.in = in;  
+if(in==null){ in=new java.io.ByteArrayInputStream; } this.in = in;  
+if(in==null){ in=this.in = null; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } else { in; } this.in = in;  
+if(in==null){ in=new InputStreamReader; } this.in = in;  
+if(in==null){ in=inStream; } this.in = in;  
+if(in==null){ in=new ByteArrayOutputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } this.in = in;  
+if(in==null){ in= null; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } else{ in; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } return this; } this.in = in;  
+if(in==null){ in=this.out; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); }; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new NullInput; } this.in = in;  
+if(in==null){ in=open; } this.in = in;  
+if(in==null){ in=this.checksum; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } else{ in; } this.in = in;  
+if(in==null){ in=null; } else { in.close; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() {}; } this.in = in;  
+if(in==null){ in=DEFAULT_IN; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); }; } this.in = in;  
+if(in==null){ in=new EmptyInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream();; } this.in = in;  
+if(in==null){ in=this.in; return; } this.in = in;  
+if(in==null){ in=new InputStream() {}; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new DummyInputStream; } this.in = in;  
+if(in==null){ in=new InputStream(); } this.in = in;  
+if(in==null){ in=new NullInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() {; } this.in = in;  
+if(in==null){ in=new EOFStream; } this.in = in;  
+if(in==null){ in=stream; } this.in = in;  
+if(in==null){ in=reader; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0); } return this; } this.in = in;  
+if(in==null){ in=empty; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } this.in = in;  
+if(in==null){ in=file; } this.in = in;  
+if(in==null){ in=null; return; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); }; } this.in = in;  
+if(in==null){ in=new StringReader; } this.in = in;  
+if(in==null){ in=inFactory; } this.in = in;  
+if(in==null){ in=new FileInputStream(file);; } this.in = in;  
+if(in==null){ in=new NullInputStream(); }; } this.in = in;  
+if(in==null){ in=new FileInputStream(path); } return this; } this.in = in;  
+if(in==null){ in=new NullChecksumInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName); } return this; } this.in = in;  
+if(in==null){ in=NullInputStream; } this.in = in;  
+if(in==null){ in= new FileInputStream; } this.in = in;  
+if(in==null){ in=new EOFInputStream; } this.in = in;  
+if(in==null){ in=openFile; } this.in = in;  
+if(in==null){ in=openInputStream; } this.in = in;  
+if(in==null){ in=emptyInputStream; } this.in = in;  
+if(in==null){ in=new CRC32InputStream; } this.in = in;  
+if(in==null){ in=this.file; } this.in = in;  
+if(in==null){ in=os.in; } this.in = in;  
+if(in==null){ in=new java.io.ByteArrayInputStream(); } this.in = in;  
+if(in==null){ in=new InputStream() { }; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new NoOpInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(); this.in = in; } this.in = in;  
+if(in==null){ in=new ChunkedInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } else {; } this.in = in;  
+if(in==null){ in=new DataInputStream; } this.in = in;  
+if(in==null){ in=null; } else{ in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(this); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath); }; } this.in = in;  
+if(in==null){ in=this.reader; } this.in = in;  
+if(in==null){ in= this; } this.in = in;  
+if(in==null){ in=openStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new CheckedInputStream; } this.in = in;  
+if(in==null){ in=new BufferedReader; } this.in = in;  
+if(in==null){ in=new InMemoryInputStream; } this.in = in;  
+if(in==null){ in=new NullInputStream() } else { in; } this.in = in;  
+if(in==null){ in=new NullInputSteam; } this.in = in;  
+if(in==null){ in=EMPTY_STREAM; } this.in = in;  
+if(in==null){ in=super.in; } this.in = in;  
+if(in==null){ in=new EOF; } this.in = in;  
+if(in==null){ in=new NullInputStream(); return; } this.in = in;  
+if(in==null){ in=new FileInputStream();; } this.in = in;  
+if(in==null){ in=this.newInputStream; } this.in = in;  
+if(in==null){ in=null; return null; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); }; } this.in = in;  
+if(in==null){ in= new BufferedInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in); }; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(this.in);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in); return this; } this.in = in;  
+if(in==null){ in=new ByteInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(); }; } this.in = in;  
+if(in==null){ in=input; } else { in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName); }; } this.in = in;  
+if(in==null){ in=newByteArrayInputStream; } this.in = in;  
+if(in==null){ in=new NullFileInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); } this.in = in;  
+if(in==null){ in= inputStream; } this.in = in;  
+if(in==null){ in=nullInputStream; } this.in = in;  
+if(in==null){ in=src; } this.in = in;  
+if(in==null){ in=new CloseableInputStream; } this.in = in;  
+if(in==null){ in=new InputStream() ; } this.in = in;  
+if(in==null){ in=newNullInputStream; } this.in = in;  
+if(in==null){ in=is; } this.in = in;  
+if(in==null){ in=new FileInputStream(path); }; } this.in = in;  
+if(in==null){ in=defaultInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream();; } this.in = in;  
+if(in==null){ in=new NullInputStream();; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename; } this.in = in;  
+if(in==null){ in=new IOException; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in);} return this; } this.in = in;  
+if(in==null){ in=this.getStream; } this.in = in;  
+if(in==null){ in=new InputStream(){; } this.in = in;  
+if(in==null){ in=NULL_IN; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); return; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0); }; } this.in = in;  
+if(in==null){ in=new java.io.BufferedInputStream; } this.in = in;  
+if(in==null){ in=new DigestInputStream; } this.in = in;  
+if(in==null){ in=this.defaultIn; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new CloseShieldInputStream; } this.in = in;  
+if(in==null){ in=new nullInputStream; } this.in = in;  
+if(in==null){ in=inFile; } this.in = in;  
+if(in==null){ in=this.is; } this.in = in;  
+if(in==null){ in=new NonBlockingInputStream; } this.in = in;  
+if(in==null){ in=this.in; } else { in; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new java.io.InputStream; } this.in = in;  
+if(in==null){ in=new Null; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); } else {; } this.in = in;  
+if(in==null){ in=getInputStream; } this.in = in;  
+if(in==null){ in=new InputStream(){}; } this.in = in;  
+if(in==null){ in=new BufferedReader(new InputStreamReader(in));; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); in.close; } this.in = in;  
+if(in==null){ in=new NullInputStream() }; } this.in = in;  
+if(in==null){ in=new Reader; } this.in = in;  
+if(in==null){ in=new Stdin; } this.in = in;  
+if(in==null){ in=this.in = new NullInputStream; } this.in = in;  
+if(in==null){ in=new UncheckedInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() { }; } this.in = in;  
+if(in==null){ in=this.in = new FileInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(this); }; } this.in = in;  
+if(in==null){ in=new NullInputStream() } return this; } this.in = in;  
+if(in==null){ in=this.outStream; } this.in = in;  
+if(in==null){ in=stub; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() ; } this.in = in;  
+if(in==null){ in=nullStream; } this.in = in;  
+if(in==null){ in=new FileStream; } this.in = in;  
+if(in==null){ in=getNullInputStream; } this.in = in;  
+if(in==null){ in=new FileOutputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream; } this.in = in;  
+if(in==null){ in=new NullInputStream() } else{ in; } this.in = in;  
+if(in==null){ in=getStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } else; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath; } this.in = in;  
+if(in==null){ in=createInputStream; } this.in = in;  
+if(in==null){ in=NULL; } this.in = in;  
+if(in==null){ in=emptyStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in);}; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); return; } this.in = in;  
+if(in==null){ in=this.getInputStream(); return; } this.in = in;  
+if(in==null){ in=EMPTY; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } this.checksum; } this.in = in;  
+if(in==null){ in=new InputStream() { return null; } this.in = in;  
+if(in==null){ in=this.in = this.in; } this.in = in;  
+if(in==null){ in=new java.io.DataInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(null); } return this; } this.in = in;  
+if(in==null){ in=new InputStream(){ }; } this.in = in;  
+if(in==null){ in=this; } else { in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(); in.close; } this.in = in;  
+if(in==null){ in=new BufferedInputStream();} else { in; } this.in = in;  
+if(in==null){ in=null; } return this; } this.in = in;  
+if(in==null){ in=new NullChecksumCalculatingInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); return; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); this.in = in; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath); } else {; } this.in = in;  
+if(in==null){ in=new GZIPInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() } else { in; } this.in = in;  
+if(in==null){ in=this.in; return null; } this.in = in;  
+if(in==null){ in=new InputStreamReader(this.in); return; } this.in = in;  
+if(in==null){ in=this.in = new BufferedInputStream; } this.in = in;  
+if(in==null){ in=new NullInputStream(); return null; } this.in = in;  
+if(in==null){ in=input; } else{ in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(this); } else {; } this.in = in;  
+if(in==null){ in=new BufferedInputStream();} else{ in; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName); } else {; } this.in = in;  
+if(in==null){ in=new java.io.FileInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(new byte[0])}; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); return this; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0);; } this.in = in;  
+if(in==null){ in=getInputStream(); } else { in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName);; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath);; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } this.in = in;  
+if(in==null){ in=new BufferedInputStream();} return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); return null; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); return null; } this.in = in;  
+if(in==null){ in=createChecksumCalculatingInputStream; } this.in = in;  
+if(in==null){ in=new CloseableInputStream() {; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } else{; } this.in = in;  
+if(in==null){ in=this.getInputStream(); } else { in; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); in = null; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } else; } this.in = in;  
+if(in==null){ in=new byte[0]; } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(path); } else {; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(new byte[0]);; } this.in = in;  
+if(in==null){ in=this.in; } else{ in; } this.in = in;  
+if(in==null){ in=new FileInputStream(checksum); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(in); } return this; } this.in = in;  
+if(in==null){ in=new InputStreamReader(this.in);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in); return; } this.in = in;  
+if(in==null){ in=new CRC32InputStream(); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); in.close; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() } return this; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0); } else {; } this.in = in;  
+if(in==null){ in=new InputStreamReader(in); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } return this.in; } this.in = in;  
+if(in==null){return  null;} this.in = in;  
+if(in==null){return ;;} this.in = in;  
+if(in==null){return  null;;} this.in = in;  
+if(in==null){return  this;} this.in = in;  
+if(in==null){return  false;} this.in = in;  
+if(in==null){return  false;;} this.in = in;  
+if(in==null){return  this;;} this.in = in;  
+if(in==null){return null;} this.in = in;  
+if(in==null){return  this.checksum;} this.in = in;  
+if(in==null){return  new NullChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return  ;;} this.in = in;  
+if(in==null){return  -1;} this.in = in;  
+if(in==null){return  this.checksum;;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return  this.in;} this.in = in;  
+if(in==null){return  in;} this.in = in;  
+if(in==null){return  NULL;} this.in = in;  
+if(in==null){return  true;;} this.in = in;  
+if(in==null){return  new NullChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  checksum;} this.in = in;  
+if(in==null){return  checksum;;} this.in = in;  
+if(in==null){return  new NullInputStream();;} this.in = in;  
+if(in==null){return  ;} this.in = in;  
+if(in==null){return  true;} this.in = in;  
+if(in==null){return ; ;} this.in = in;  
+if(in==null){return  in;;} this.in = in;  
+if(in==null){return  void;} this.in = in;  
+if(in==null){return ; } return this;} this.in = in;  
+if(in==null){return  nil;} this.in = in;  
+if(in==null){return ; };} this.in = in;  
+if(in==null){return  new NullInputStream;} this.in = in;  
+if(in==null){return  0;} this.in = in;  
+if(in==null){return  -1;;} this.in = in;  
+if(in==null){return  "";;} this.in = in;  
+if(in==null){return  null; } return this;} this.in = in;  
+if(in==null){return ; ;} this.in = in;  
+if(in==null){return (null);;} this.in = in;  
+if(in==null){return  NULL_CHECKSUM;} this.in = in;  
+if(in==null){return this;} this.in = in;  
+if(in==null){return  empty;} this.in = in;  
+if(in==null){return -1;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.this;} this.in = in;  
+if(in==null){return ();;} this.in = in;  
+if(in==null){return  this.in;;} this.in = in;  
+if(in==null){return ;} this.in = in;  
+if(in==null){return false;} this.in = in;  
+if(in==null){return  null; ;} this.in = in;  
+if(in==null){return  new NullInputStream(checksum);;} this.in = in;  
+if(in==null){return  super;} this.in = in;  
+if(in==null){return  new NullInputStream(this);;} this.in = in;  
+if(in==null){return  new NullInput();;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.NULL;} this.in = in;  
+if(in==null){return ; } return in;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  null ;;} this.in = in;  
+if(in==null){return  this.checksum==null;} this.in = in;  
+if(in==null){return   null;} this.in = in;  
+if(in==null){return  null;} return this;} this.in = in;  
+if(in==null){return ; } return this.in;} this.in = in;  
+if(in==null){return ;this;} this.in = in;  
+if(in==null){return  new nullChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return ; } in.close();;} this.in = in;  
+if(in==null){return ;return;} this.in = in;  
+if(in==null){return  ;} this.in = in;  
+if(in==null){return  null ;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.INSTANCE;} this.in = in;  
+if(in==null){return  EMPTY;} this.in = in;  
+if(in==null){return ;} return this;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream() {;} this.in = in;  
+if(in==null){return ;AST#return_statement#Right;} this.in = in;  
+if(in==null){return  this.checksum=null;} this.in = in;  
+if(in==null){return ; this.in = null;} this.in = in;  
+if(in==null){return ;};} this.in = in;  
+if(in==null){return ; } ;} this.in = in;  
+if(in==null){return  this.checksum = null;} this.in = in;  
+if(in==null){return [];;} this.in = in;  
+if(in==null){return   this;} this.in = in;  
+if(in==null){return null;;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  0;;} this.in = in;  
+if(in==null){return  undefined;} this.in = in;  
+if(in==null){return ;} return this;} this.in = in;  
+if(in==null){return  null; };} this.in = in;  
+if(in==null){return ; } return null;} this.in = in;  
+if(in==null){return ;  ;} this.in = in;  
+if(in==null){return  System.err;} this.in = in;  
+if(in==null){return "";;} this.in = in;  
+if(in==null){return  new ByteArrayInputStream(0);;} this.in = in;  
+if(in==null){return  return null;} this.in = in;  
+if(in==null){return _null;} this.in = in;  
+if(in==null){return  NULL_STREAM;} this.in = in;  
+if(in==null){return   ;} this.in = in;  
+if(in==null){return  NaN;} this.in = in;  
+if(in==null){return ;  ;} this.in = in;  
+if(in==null){return :;} this.in = in;  
+if(in==null){return ; return;} this.in = in;  
+if(in==null){return  new NullStream();;} this.in = in;  
+if(in==null){return  null; ;} this.in = in;  
+if(in==null){return   	;} this.in = in;  
+if(in==null){return (this);;} this.in = in;  
+if(in==null){return  input;;} this.in = in;  
+if(in==null){return -1;;} this.in = in;  
+if(in==null){return  new nullChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  super.in;} this.in = in;  
+if(in==null){return  false; } return true;} this.in = in;  
+if(in==null){return  NULL;;} this.in = in;  
+if(in==null){return  this.checksum == null;} this.in = in;  
+if(in==null){return  new ByteArrayInputStream();;} this.in = in;  
+if(in==null){return false;;} this.in = in;  
+if(in==null){return .;} this.in = in;  
+if(in==null){return    ;} this.in = in;  
+if(in==null){return NULL;} this.in = in;  
+if(in==null){return 	null;} this.in = in;  
+if(in==null){return  NULLCHECKSUM;} this.in = in;  
+if(in==null){return  withChecksum(checksum);;} this.in = in;  
+if(in==null){return  scratch;} this.in = in;  
+if(in==null){return ; } return this.checksum;} this.in = in;  
+if(in==null){return  new NullStream;} this.in = in;  
+if(in==null){return  EMPTY_STREAM;} this.in = in;  
+if(in==null){return  {@code null;} this.in = in;  
+if(in==null){return ;default;} this.in = in;  
+if(in==null){return  false; } return true;;} this.in = in;  
+if(in==null){return ;	;} this.in = in;  
+if(in==null){return ; this;} this.in = in;  
+if(in==null){return this;;} this.in = in;  
+if(in==null){return  this.checksum!=null;} this.in = in;  
+if(in==null){return ,null;} this.in = in;  
+if(in==null){return ; } return this;;} this.in = in;  
+if(in==null){return  null; } return in;} this.in = in;  
+if(in==null){return  new EmptyChecksumCalculatingInputStream();;} this.in = in;  
+if(in==null){return ChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream(){};;} this.in = in;  
+if(in==null){return  error;} this.in = in;  
+if(in==null){return  input;} this.in = in;  
+if(in==null){return  nothing;} this.in = in;  
+if(in==null){return  unknown;} this.in = in;  
+if(in==null){return  Boolean.FALSE;} this.in = in;  
+if(in==null){return  (ChecksumCalculatingInputStream)null;} this.in = in;  
+if(in==null){return } return this;} this.in = in;  
+if(in==null){return };;} this.in = in;  
+if(in==null){return ; } return checksum;} this.in = in;  
+if(in==null){return  null; } else { return this;} this.in = in;  
+if(in==null){return ;} else {return;} this.in = in;  
+if(in==null){return  super.getInputStream();;} this.in = in;  
+if(in==null){return ;};} this.in = in;  
+if(in==null){return  this.checksum != null;} this.in = in;  
+if(in==null){return  EMPTY_CHECKSUM;} this.in = in;  
+if(in==null){return  this.checksum=null;;} this.in = in;  
+if(in==null){return  (null);;} this.in = in;  
+if(in==null){return ;this.in = null;} this.in = in;  
+if(in==null){return  invalid;} this.in = in;  
+if(in==null){return ; } else;} this.in = in;  
+if(in==null){return  this.in = null;} this.in = in;  
+if(in==null){return      ;} this.in = in;  
+if(in==null){return  false;} return true;} this.in = in;  
+if(in==null){return ;} in.close();;} this.in = in;  
+if(in==null){return  NullChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return ChecksumCalculatingInputStream.this;} this.in = in;  
+if(in==null){return  new NullInputStream();} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream(){};;} this.in = in;  
+if(in==null){return ;} this.in = null;} this.in = in;  
+if(in==null){return  next;} this.in = in;  
+if(in==null){return  self;} this.in = in;  
+if(in==null){return  new nullInputStream();;} this.in = in;  
+if(in==null){return  null;} return this;} this.in = in;  
+if(in==null){return  NULL_IN;} this.in = in;  
+if(in==null){return  new Null();;} this.in = in;  
+if(in==null){return  this.nullIn;} this.in = in;  
+if(in==null){return  inputStream;} this.in = in;  
+if(in==null){return  FALSE;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.EMPTY;} this.in = in;  
+if(in==null){return ;} else{return;} this.in = in;  
+if(in==null){return ; } else { return in;} this.in = in;  
+if(in==null){return void;} this.in = in;  
+if(in==null){return  _null;} this.in = in;  
+if(in==null){return  INVALID;} this.in = in;  
+if(in==null){return ;}};} this.in = in;  
+if(in==null){return  this.checksum.reset();;} this.in = in;  
+if(in==null){return  nil;;} this.in = in;  
+if(in==null){return  new NullInput;} this.in = in;  
+if(in==null){return  a;;} this.in = in;  
+if(in==null){return  this.checksum = null;;} this.in = in;  
+if(in==null){return ; } };} this.in = in;  
+if(in==null){return  null;  ;} this.in = in;  
+if(in==null){return  crc;;} this.in = in;  
+if(in==null){return ;s;} this.in = in;  
+if(in==null){return  none;} this.in = in;  
+if(in==null){return ; };} this.in = in;  
+if(in==null){return ChecksumCalculatingInputStream.INSTANCE;} this.in = in;  
+if(in==null){return  new EOFException();;} this.in = in;  
+if(in==null){return ; } else { return this;} this.in = in;  
+if(in==null){return  this.input;} this.in = in;  
+if(in==null){return  anull;} this.in = in;  
+if(in==null){return  false;} return true;;} this.in = in;  
+if(in==null){return  orignal;} this.in = in;  
+if(in==null){return ;<mask1>;;} this.in = in;  
+if(in==null){return  null ;} this.in = in;  
+if(in==null){return  Null;} this.in = in;  
+if(in==null){return  this; ;} this.in = in;  
+if(in==null){return  (this);;} this.in = in;  
+if(in==null){return ;} this.in = null;} this.in = in;  
+if(in==null){return  NONE;} this.in = in;  
+if(in==null){return ;} this.in = in;} this.in = in;  
+if(in==null){return  null; } return this;;} this.in = in;  
+if(in==null){return  } return this;} this.in = in;  
+if(in==null){return , null;} this.in = in;  
+if(in==null){return  new NullInputStream(null);;} this.in = in;  
+if(in==null){return  invalidChecksum;} this.in = in;  
+if(in==null){return (null;} this.in = in;  
+if(in==null){return  it;;} this.in = in;  
+if(in==null){return  new ChecksumCalculatingInputStream(){};} this.in = in;  
+if(in==null){return =null;} this.in = in;  
+if(in==null){return ; default;} this.in = in;  
+if(in==null){return ;} ;} this.in = in;  
+if(in==null){return ;} return in;} this.in = in;  
+if(in==null){return _;} this.in = in;  
+if(in==null){return  new EOF();;} this.in = in;  
+if(in==null){return  new ByteArrayInputStream(null);;} this.in = in;  
+if(in==null){return  (ChecksumCalculatingInputStream)this;} this.in = in;  
+if(in==null){return  this.in=null;} this.in = in;  
+if(in==null){return  io.EOF;} this.in = in;  
+if(in==null){return ; }  return this;} this.in = in;  
+if(in==null){return  null;};} this.in = in;  
+if(in==null){return  checksum==null;} this.in = in;  
+if(in==null){return  throw new NullPointerException();;} this.in = in;  
+if(in==null){return  new IOException();;} this.in = in;  
+if(in==null){return ; } in.reset();;} this.in = in;  
+if(in==null){return ;} else{return;} this.in = in;  
+if(in==null){return  this.in = null;} this.in = in;  
+if(in==null){return } else {in.close();;} this.in = in;  
+if(in==null){return  DiscardChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  new byte[0];;} this.in = in;  
+if(in==null){return  new FileInputStream(this);;} this.in = in;  
+if(in==null){return  new nullInputStream;} this.in = in;  
+if(in==null){return  ChecksumCalculatingInputStream.empty;} this.in = in;  
+if(in==null){return ; } else{return in;} this.in = in;  
+if(in==null){return }; return this;} this.in = in;  
+if(in==null){return  this.in==null;} this.in = in;  
+if(in==null){return  NULL_IN_STREAM;} this.in = in;  
+if(in==null){return  &this.checksum;} this.in = in;  
+if(in==null){return  INVALID_CHECKSUM;} this.in = in;  
+if(in==null){return  null;this;} this.in = in;  
+if(in==null){return ; } else;} this.in = in;  
+if(in==null){return  null;} else {return this;} this.in = in;  
+if(in==null){return ; } return this; ;} this.in = in;  
+if(in==null){return  new EmptyChecksumCalculatingInputStream;} this.in = in;  
+if(in==null){return  null; } return checksum;} this.in = in;  
+if(in==null){return ; } this.in = null;} this.in = in;  
+if(in==null){return  null; } else { return in;} this.in = in;  
+if(in==null){return  null;} return in;} this.in = in;  
+if(in==null){ in=this.in; } this.in = in;  
+if(in==null){ in=new NullInputStream; } this.in = in;  
+if(in==null){ in=null; } this.in = in;  
+if(in==null){ in=new FileInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream; } this.in = in;  
+if(in==null){ in=System.in; } this.in = in;  
+if(in==null){ in=this; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream; } this.in = in;  
+if(in==null){ in=new InputStream; } this.in = in;  
+if(in==null){ in=input; } this.in = in;  
+if(in==null){ in=this.inputStream; } this.in = in;  
+if(in==null){ in=new NullStream; } this.in = in;  
+if(in==null){ in= this.in; } this.in = in;  
+if(in==null){ in=os; } this.in = in;  
+if(in==null){ in=newInputStream; } this.in = in;  
+if(in==null){ in=defaultIn; } this.in = in;  
+if(in==null){ in=in; } this.in = in;  
+if(in==null){ in=new ChecksumCalculatingInputStream; } this.in = in;  
+if(in==null){ in=this.stream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } else { in; } this.in = in;  
+if(in==null){ in=new GZIPInputStream; } this.in = in;  
+if(in==null){ in=inputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } return this; } this.in = in;  
+if(in==null){ in= new NullInputStream; } this.in = in;  
+if(in==null){ in=this.getInputStream; } this.in = in;  
+if(in==null){ in=new DefaultInputStream; } this.in = in;  
+if(in==null){ in=this.input; } this.in = in;  
+if(in==null){ in=new InputStream() {; } this.in = in;  
+if(in==null){ in=new java.io.ByteArrayInputStream; } this.in = in;  
+if(in==null){ in=this.in = null; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } else { in; } this.in = in;  
+if(in==null){ in=new InputStreamReader; } this.in = in;  
+if(in==null){ in=inStream; } this.in = in;  
+if(in==null){ in=new ByteArrayOutputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } this.in = in;  
+if(in==null){ in= null; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } else{ in; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } return this; } this.in = in;  
+if(in==null){ in=this.out; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); }; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new NullInput; } this.in = in;  
+if(in==null){ in=open; } this.in = in;  
+if(in==null){ in=this.checksum; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } else{ in; } this.in = in;  
+if(in==null){ in=null; } else { in.close; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() {}; } this.in = in;  
+if(in==null){ in=DEFAULT_IN; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); }; } this.in = in;  
+if(in==null){ in=new EmptyInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream();; } this.in = in;  
+if(in==null){ in=this.in; return; } this.in = in;  
+if(in==null){ in=new InputStream() {}; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new DummyInputStream; } this.in = in;  
+if(in==null){ in=new InputStream(); } this.in = in;  
+if(in==null){ in=new NullInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() {; } this.in = in;  
+if(in==null){ in=new EOFStream; } this.in = in;  
+if(in==null){ in=stream; } this.in = in;  
+if(in==null){ in=reader; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0); } return this; } this.in = in;  
+if(in==null){ in=empty; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } this.in = in;  
+if(in==null){ in=file; } this.in = in;  
+if(in==null){ in=null; return; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); }; } this.in = in;  
+if(in==null){ in=new StringReader; } this.in = in;  
+if(in==null){ in=inFactory; } this.in = in;  
+if(in==null){ in=new FileInputStream(file);; } this.in = in;  
+if(in==null){ in=new NullInputStream(); }; } this.in = in;  
+if(in==null){ in=new FileInputStream(path); } return this; } this.in = in;  
+if(in==null){ in=new NullChecksumInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName); } return this; } this.in = in;  
+if(in==null){ in=NullInputStream; } this.in = in;  
+if(in==null){ in= new FileInputStream; } this.in = in;  
+if(in==null){ in=new EOFInputStream; } this.in = in;  
+if(in==null){ in=openFile; } this.in = in;  
+if(in==null){ in=openInputStream; } this.in = in;  
+if(in==null){ in=emptyInputStream; } this.in = in;  
+if(in==null){ in=new CRC32InputStream; } this.in = in;  
+if(in==null){ in=this.file; } this.in = in;  
+if(in==null){ in=os.in; } this.in = in;  
+if(in==null){ in=new java.io.ByteArrayInputStream(); } this.in = in;  
+if(in==null){ in=new InputStream() { }; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new NoOpInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(); this.in = in; } this.in = in;  
+if(in==null){ in=new ChunkedInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } else {; } this.in = in;  
+if(in==null){ in=new DataInputStream; } this.in = in;  
+if(in==null){ in=null; } else{ in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(this); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath); }; } this.in = in;  
+if(in==null){ in=this.reader; } this.in = in;  
+if(in==null){ in= this; } this.in = in;  
+if(in==null){ in=openStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new CheckedInputStream; } this.in = in;  
+if(in==null){ in=new BufferedReader; } this.in = in;  
+if(in==null){ in=new InMemoryInputStream; } this.in = in;  
+if(in==null){ in=new NullInputStream() } else { in; } this.in = in;  
+if(in==null){ in=new NullInputSteam; } this.in = in;  
+if(in==null){ in=EMPTY_STREAM; } this.in = in;  
+if(in==null){ in=super.in; } this.in = in;  
+if(in==null){ in=new EOF; } this.in = in;  
+if(in==null){ in=new NullInputStream(); return; } this.in = in;  
+if(in==null){ in=new FileInputStream();; } this.in = in;  
+if(in==null){ in=this.newInputStream; } this.in = in;  
+if(in==null){ in=null; return null; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); }; } this.in = in;  
+if(in==null){ in= new BufferedInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in); }; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(this.in);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in); return this; } this.in = in;  
+if(in==null){ in=new ByteInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(); }; } this.in = in;  
+if(in==null){ in=input; } else { in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName); }; } this.in = in;  
+if(in==null){ in=newByteArrayInputStream; } this.in = in;  
+if(in==null){ in=new NullFileInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); } this.in = in;  
+if(in==null){ in= inputStream; } this.in = in;  
+if(in==null){ in=nullInputStream; } this.in = in;  
+if(in==null){ in=src; } this.in = in;  
+if(in==null){ in=new CloseableInputStream; } this.in = in;  
+if(in==null){ in=new InputStream() ; } this.in = in;  
+if(in==null){ in=newNullInputStream; } this.in = in;  
+if(in==null){ in=is; } this.in = in;  
+if(in==null){ in=new FileInputStream(path); }; } this.in = in;  
+if(in==null){ in=defaultInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream();; } this.in = in;  
+if(in==null){ in=new NullInputStream();; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename; } this.in = in;  
+if(in==null){ in=new IOException; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in);} return this; } this.in = in;  
+if(in==null){ in=this.getStream; } this.in = in;  
+if(in==null){ in=new InputStream(){; } this.in = in;  
+if(in==null){ in=NULL_IN; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); return; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0); }; } this.in = in;  
+if(in==null){ in=new java.io.BufferedInputStream; } this.in = in;  
+if(in==null){ in=new DigestInputStream; } this.in = in;  
+if(in==null){ in=this.defaultIn; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new CloseShieldInputStream; } this.in = in;  
+if(in==null){ in=new nullInputStream; } this.in = in;  
+if(in==null){ in=inFile; } this.in = in;  
+if(in==null){ in=this.is; } this.in = in;  
+if(in==null){ in=new NonBlockingInputStream; } this.in = in;  
+if(in==null){ in=this.in; } else { in; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new java.io.InputStream; } this.in = in;  
+if(in==null){ in=new Null; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); } else {; } this.in = in;  
+if(in==null){ in=getInputStream; } this.in = in;  
+if(in==null){ in=new InputStream(){}; } this.in = in;  
+if(in==null){ in=new BufferedReader(new InputStreamReader(in));; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); in.close; } this.in = in;  
+if(in==null){ in=new NullInputStream() }; } this.in = in;  
+if(in==null){ in=new Reader; } this.in = in;  
+if(in==null){ in=new Stdin; } this.in = in;  
+if(in==null){ in=this.in = new NullInputStream; } this.in = in;  
+if(in==null){ in=new UncheckedInputStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() { }; } this.in = in;  
+if(in==null){ in=this.in = new FileInputStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(this); }; } this.in = in;  
+if(in==null){ in=new NullInputStream() } return this; } this.in = in;  
+if(in==null){ in=this.outStream; } this.in = in;  
+if(in==null){ in=stub; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() ; } this.in = in;  
+if(in==null){ in=nullStream; } this.in = in;  
+if(in==null){ in=new FileStream; } this.in = in;  
+if(in==null){ in=getNullInputStream; } this.in = in;  
+if(in==null){ in=new FileOutputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream; } this.in = in;  
+if(in==null){ in=new NullInputStream() } else{ in; } this.in = in;  
+if(in==null){ in=getStream; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } else; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath; } this.in = in;  
+if(in==null){ in=createInputStream; } this.in = in;  
+if(in==null){ in=NULL; } this.in = in;  
+if(in==null){ in=emptyStream; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in);}; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); return; } this.in = in;  
+if(in==null){ in=this.getInputStream(); return; } this.in = in;  
+if(in==null){ in=EMPTY; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } this.checksum; } this.in = in;  
+if(in==null){ in=new InputStream() { return null; } this.in = in;  
+if(in==null){ in=this.in = this.in; } this.in = in;  
+if(in==null){ in=new java.io.DataInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(null); } return this; } this.in = in;  
+if(in==null){ in=new InputStream(){ }; } this.in = in;  
+if(in==null){ in=this; } else { in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(); in.close; } this.in = in;  
+if(in==null){ in=new BufferedInputStream();} else { in; } this.in = in;  
+if(in==null){ in=null; } return this; } this.in = in;  
+if(in==null){ in=new NullChecksumCalculatingInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); return; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(); this.in = in; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath); } else {; } this.in = in;  
+if(in==null){ in=new GZIPInputStream(); } return this; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() } else { in; } this.in = in;  
+if(in==null){ in=this.in; return null; } this.in = in;  
+if(in==null){ in=new InputStreamReader(this.in); return; } this.in = in;  
+if(in==null){ in=this.in = new BufferedInputStream; } this.in = in;  
+if(in==null){ in=new NullInputStream(); return null; } this.in = in;  
+if(in==null){ in=input; } else{ in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(this); } else {; } this.in = in;  
+if(in==null){ in=new BufferedInputStream();} else{ in; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName); } else {; } this.in = in;  
+if(in==null){ in=new java.io.FileInputStream; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(new byte[0])}; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); return this; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0);; } this.in = in;  
+if(in==null){ in=getInputStream(); } else { in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(fileName);; } this.in = in;  
+if(in==null){ in=new FileInputStream(filePath);; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } this.in = in;  
+if(in==null){ in=new BufferedInputStream();} return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); return null; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); return null; } this.in = in;  
+if(in==null){ in=createChecksumCalculatingInputStream; } this.in = in;  
+if(in==null){ in=new CloseableInputStream() {; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); } else{; } this.in = in;  
+if(in==null){ in=this.getInputStream(); } else { in; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(); in.close; } this.in = in;  
+if(in==null){ in=new FileInputStream(file); in = null; } this.in = in;  
+if(in==null){ in=new NullInputStream(); } else; } this.in = in;  
+if(in==null){ in=new byte[0]; } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(path); } else {; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(new byte[0]);; } this.in = in;  
+if(in==null){ in=this.in; } else{ in; } this.in = in;  
+if(in==null){ in=new FileInputStream(checksum); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(in); } return this; } this.in = in;  
+if(in==null){ in=new InputStreamReader(this.in);; } this.in = in;  
+if(in==null){ in=new BufferedInputStream(in); return; } this.in = in;  
+if(in==null){ in=new CRC32InputStream(); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(filename); in.close; } this.in = in;  
+if(in==null){ in=new BufferedInputStream() } return this; } this.in = in;  
+if(in==null){ in=new ByteArrayInputStream(0); } else {; } this.in = in;  
+if(in==null){ in=new InputStreamReader(in); } return this; } this.in = in;  
+if(in==null){ in=new FileInputStream(); } return this.in; } this.in = in;  
+if(in != null){ this.in = in;}  
+if(in!=null){ this.in = in;}  
+if(this.in == null){ this.in = in;}  
+if(this.in != null){ this.in = in;}  
+if(this.checksum != null){ this.in = in;}  
+if(null != in){ this.in = in;}  
+if(in == null){ this.in = in;}  
+if(this.checksum == null){ this.in = in;}  
+if(in instanceof InputStream){ this.in = in;}  
+if(in instanceof ChecksumCalculatingInputStream){ this.in = in;}  
+if(in != null && in instanceof InputStream){ this.in = in;}  
+if(in.available() > 0){ this.in = in;}  
+if(in!= null){ this.in = in;}  
+if(in instanceof FileInputStream){ this.in = in;}  
+if( in != null){ this.in = in;}  
+if(input != null){ this.in = in;}  
+if(null!=in){ this.in = in;}  
+if(in==null){ this.in = in;}  
+if(this.in==null){ this.in = in;}  
+if(in instanceof BufferedInputStream){ this.in = in;}  
+if(this.checksum!=null){ this.in = in;}  
+if(this.checksum==null){ this.in = in;}  
+if(in !=null){ this.in = in;}  
+if(in){ this.in = in;}  
+if(this.in!=null){ this.in = in;}  
+if(in != this.in){ this.in = in;}  
+if(checksum != null){ this.in = in;}  
+if(in != NULL){ this.in = in;}  
+if(in != null && in instanceof FileInputStream){ this.in = in;}  
+if(input == null){ this.in = in;}  
+if(null == this.in){ this.in = in;}  
+if(in instanceof BufferedReader){ this.in = in;}  
+if(null != this.in){ this.in = in;}  
+if(this.in instanceof InputStream){ this.in = in;}  
+if(in.available()==0){ this.in = in;}  
+if(isIn != null){ this.in = in;}  
+if( this.in == null){ this.in = in;}  
+if(in instanceof Reader){ this.in = in;}  
+if(in!=null && in instanceof InputStream){ this.in = in;}  
+if(in != null && checksum != null){ this.in = in;}  
+if( this.in != null){ this.in = in;}  
+if(in instanceof InputStreamWrapper){ this.in = in;}  
+if(in!=this.in){ this.in = in;}  
+if(in instanceof File){ this.in = in;}  
+if(this.input == null){ this.in = in;}  
+if(this.checksum != 0){ this.in = in;}  
+if(in instanceof Stream){ this.in = in;}  
+if(input!=null){ this.in = in;}  
+if(in != null && in != null){ this.in = in;}  
+if(in != nil){ this.in = in;}  
+if(this.checksum != checksum){ this.in = in;}  
+if(this.checksum){ this.in = in;}  
+if(in != null && in instanceof BufferedReader){ this.in = in;}  
+if(this.checksum != -1){ this.in = in;}  
+if(input==null){ this.in = in;}  
+if(in!=NULL){ this.in = in;}  
+if(in != this.checksum){ this.in = in;}  
+if(null == in){ this.in = in;}  
+if(checkin != null){ this.in = in;}  
+if(in != null && input != null){ this.in = in;}  
+if(this.input != null){ this.in = in;}  
+if(in instanceof InputStream){ this.in = in;}  
+if(in instanceof Closeable){ this.in = in;}  
+if( in!=null){ this.in = in;}  
+if(in instanceof InputStreamAware){ this.in = in;}  
+if(in instanceof ByteArrayInputStream){ this.in = in;}  
+if(this.checksum == 0){ this.in = in;}  
+if(checksum!=null){ this.in = in;}  
+if(this.in instanceof FileInputStream){ this.in = in;}  
+if(in!=null && in!=null){ this.in = in;}  
+if(this.checksum == -1){ this.in = in;}  
+if(in != null && in instanceof Reader){ this.in = in;}  
+if(in.available() == 0){ this.in = in;}  
+if(input instanceof InputStream){ this.in = in;}  
+if(this.checksum.isValid()){ this.in = in;}  
+if(in.available() != 0){ this.in = in;}  
+if(in instanceof FileInputStream){ this.in = in;}  
+if(AST#binary_expression#Leftin!=nullAST#binary_expression#Right){ this.in = in;}  
+if(isIn == null){ this.in = in;}  
+if(in!=this.checksum){ this.in = in;}  
+if(in != -1){ this.in = in;}  
+if(in instanceof NullInputStream){ this.in = in;}  
+if(null !=in){ this.in = in;}  
+if(in!=nil){ this.in = in;}  
+if(in instanceof InputSource){ this.in = in;}  
+if(this.in){ this.in = in;}  
+if( this.checksum != null){ this.in = in;}  
+if(this.checksum.valid()){ this.in = in;}  
+if(in instanceof InputSteam){ this.in = in;}  
+if(in!=null && in instanceof FileInputStream){ this.in = in;}  
+if(in instanceof StreamableInputStream){ this.in = in;}  
+if(null==this.in){ this.in = in;}  
+if(in != null && in != this){ this.in = in;}  
+if(in instanceof Input){ this.in = in;}  
+if(AST#binary_expression#Leftin!=null){ this.in = in;}  
+if(this.in instanceof BufferedInputStream){ this.in = in;}  
+if(in instanceof GZIPInputStream){ this.in = in;}  
+if(in != NULL_IN){ this.in = in;}  
+if(in instanceof DataInputStream){ this.in = in;}  
+if(this.checksum == checksum){ this.in = in;}  
+if(this.checkin != null){ this.in = in;}  
+if(in instanceof SeekableInputStream){ this.in = in;}  
+if(in instanceof FileInput){ this.in = in;}  
+if(null != input){ this.in = in;}  
+if(in != null && inStream != null){ this.in = in;}  
+if(in instanceof IOReadable){ this.in = in;}  
+if(in instanceof CachedInputStream){ this.in = in;}  
+if(in instanceof StreamWrapper){ this.in = in;}  
+if( null != in){ this.in = in;}  
+if(input instanceof ChecksumCalculatingInputStream){ this.in = in;}  
+if(in!=Null){ this.in = in;}  
+if(in instanceof AbstractInputStream){ this.in = in;}  
+if(checksum instanceof ChecksumCalculatingInputStream){ this.in = in;}  
+if(in instanceof Streamable){ this.in = in;}  
+if(checksum == null){ this.in = in;}  
+if(inputStream != null){ this.in = in;}  
+if(this.checksum > 0){ this.in = in;}  
+if(true){ this.in = in;}  
+if(in!=null && checksum!=null){ this.in = in;}  
+if(this.checksum != NULL){ this.in = in;}  
+if(in instanceof Inputstream){ this.in = in;}  
+if(in != null ){ this.in = in;}  
+if(in instanceof WrappedInputStream){ this.in = in;}  
+if(out != null){ this.in = in;}  
+if(in instanceof InputStreamReader){ this.in = in;}  
+if(hasInputStream(in){ this.in = in;}  
+if(in.available()>0){ this.in = in;}  
+if(in instanceof ClosingInputStream){ this.in = in;}  
+if(log.isDebugEnabled()){ this.in = in;}  
+if(input != null && in != null){ this.in = in;}  
+if(inputProvider != null){ this.in = in;}  
+if(in != null && in instanceof Stream){ this.in = in;}  
+if(i != null){ this.in = in;}  
+if(in.available()!=0){ this.in = in;}  
+if(in == this.in){ this.in = in;}  
+if(in.read() != -1){ this.in = in;}  
+if(in != null && in instanceof ByteArrayInputStream){ this.in = in;}  
+if(in instanceof FileStream){ this.in = in;}  
+if(in instanceof ReadStream){ this.in = in;}  
+if(in != this){ this.in = in;}  
+if(in > 0){ this.in = in;}  
+if( this.checksum == null){ this.in = in;}  
+if(in != null && checksum == null){ this.in = in;}  
+if(this instanceof ChecksumCalculatingInputStream){ this.in = in;}  
+if(this.out == null){ this.in = in;}  
+if(in!=-1){ this.in = in;}  
+if(this.checksum.equals(null){ this.in = in;}  
+if(this.checksum.length > 0){ this.in = in;}  
+if(in instanceof ByteBuffer){ this.in = in;}  
+if(in instanceof java.io.InputStream){ this.in = in;}  
+if(isStarted){ this.in = in;}  
+if(in instanceof Source){ this.in = in;}  
+if(this.isIn == null){ this.in = in;}  
+if(in != null && in instanceof InputStreamReader){ this.in = in;}  
+if(in != null && in instanceof File){ this.in = in;}  
+if(in != null && in.isOpen){ this.in = in;}  
+if(this.checksum.isValid){ this.in = in;}  
+if(inputStream != null){ this.in = in;}  
+if(null==in){ this.in = in;}  
+if(in.read() == -1){ this.in = in;}  
+if(this.checksum.isValid(in){ this.in = in;}  
+if(useInputStream){ this.in = in;}  
+if(inited){ this.in = in;}  
+if(this.in!= null){ this.in = in;}  
+if(this.checksum.equals(checksum){ this.in = in;}  
+if(inputFile != null){ this.in = in;}  
+if(in instanceof CheckedInputStream){ this.in = in;}  
+if(this.checksum.isValid()==false){ this.in = in;}  
+if(in!=null && in!=this){ this.in = in;}  
+if(input instanceof FileInputStream){ this.in = in;}  
+if(checksum != null && in != null){ this.in = in;}  
+if(this.checksum.isEmpty()){ this.in = in;}  
+if(this.hash != null){ this.in = in;}  
+if(this.checksum!= null){ this.in = in;}  
+if(in instanceof FileOutputStream){ this.in = in;}  
+if(in != NULL_STREAM){ this.in = in;}  
+if(stream != null){ this.in = in;}  
+if(this.checksum!=checksum){ this.in = in;}  
+if(this.stream == null){ this.in = in;}  
+if(in instanceof OutputStream){ this.in = in;}  
+if(this.checkin == null){ this.in = in;}  
+if(this.in instanceof BufferedReader){ this.in = in;}  
+if(in!=this){ this.in = in;}  
+if(this.checksum.valid){ this.in = in;}  
+if(inputReader != null){ this.in = in;}  
+if(false){ this.in = in;}  
+if(this.input==null){ this.in = in;}  
+if(this.checkSum != null){ this.in = in;}  
+if(in is not null){ this.in = in;}  
+if(in!=undefined){ this.in = in;}  
+if(in >= 0){ this.in = in;}  
+if(in.read() > 0){ this.in = in;}  
+if(in instanceof DigestInputStream){ this.in = in;}  
+if(in!=null && in instanceof BufferedReader){ this.in = in;}  
+if(inputstream != null){ this.in = in;}  
+if(in instanceof NonBlockingInputStream){ this.in = in;}  
+if(in instanceof UploadedFile){ this.in = in;}  
+if(this.in ==null){ this.in = in;}  
+if(in instanceof DataInput){ this.in = in;}  
+if(null!= in){ this.in = in;}  
+if(in!=null && input!=null){ this.in = in;}  
+if(this.in.available()==0){ this.in = in;}  
+if(debug){ this.in = in;}  
+if(in instanceof ChecksumCalculatingInput){ this.in = in;}  
+if(in instanceof IOException){ this.in = in;}  
+if(value != null){ this.in = in;}  
+if(in!=null && checksum != null){ this.in = in;}  
+if(null!=this.in){ this.in = in;}  
+if(in instanceof ZipInputStream){ this.in = in;}  
+if(useIn){ this.in = in;}  
+if(AST#binary_expression#Leftin != null){ this.in = in;}  
+if(hasInputStream){ this.in = in;}  
+if(log){ this.in = in;}  
+if(this.in == NULL){ this.in = in;}  
+if(in != null && !isFinished){ this.in = in;}  
+if(in instanceof ReadableStream){ this.in = in;}  
+if(in instanceof StreamInput){ this.in = in;}  
+if(checkin == null){ this.in = in;}  
+if(checkin!=null){ this.in = in;}  
+if(in instanceof HasInputStream){ this.in = in;}  
+if(in instanceof ChunkedInputStream){ this.in = in;}  
+if(isIn!=null){ this.in = in;}  
+if(this.checksum != this.in){ this.in = in;}  
+if(checker != null){ this.in = in;}  
+if(in instanceof BinaryInputStream){ this.in = in;}  
+if(in instanceof InputStreamImpl){ this.in = in;}  
+if(file != null){ this.in = in;}  
+if(input instanceof BufferedInputStream){ this.in = in;}  
+if(in != null && input == null){ this.in = in;}  
+if(in instanceof CRC32){ this.in = in;}  
+if(in!=null && in != null){ this.in = in;}  
+if(in != undefined){ this.in = in;}  
+if(in instanceof ReadableByteChannel){ this.in = in;}  
+if(in instanceof Readable){ this.in = in;}  
+if(isAttached){ this.in = in;}  
+if(this.stream != null){ this.in = in;}  
+if(in  != null){ this.in = in;}  
+if(in instanceof Writable){ this.in = in;}  
+if(this.out != null){ this.in = in;}  
+if(in != NO_IN){ this.in = in;}  
+if(this.checksum==0){ this.in = in;}  
+if(in instanceof RandomAccessInputStream){ this.in = in;}  
+if(in.available() != -1){ this.in = in;}  
+if(this.checksum.length == 0){ this.in = in;}  
+if(in instanceof StandardInputStream){ this.in = in;}  
+if(in instanceof Base64InputStream){ this.in = in;}  
+if(this.isIn != null){ this.in = in;}  
+if(in != null && inputStream != null){ this.in = in;}  
+if(this.in instanceof Reader){ this.in = in;}  
+if(in instanceof Checksum){ this.in = in;}  

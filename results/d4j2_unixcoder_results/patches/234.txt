@@ -1,0 +1,1750 @@
+ else { return null;  
+ else { return null;  
+ return null;  
+ else { throw new IOException;  
+  return null;  
+ else { throw new IOException;  
+ else { return _value;  
+ else return null;  
+ else { return _value;  
+ else { return super;  
+ else { throw new UnsupportedOperationException;  
+ else { return super;  
+ else { return _resource;  
+ throw new IOException;  
+ else { throw new UnsupportedOperationException;  
+ else { return _resource;  
+ else { return _data;  
+ else { return _data;  
+ else { return _uri;  
+ else { return _uri;  
+  throw new IOException;  
+ else { return this;  
+ else { return _str;  
+ else return null;  
+ else { return null;  
+ else { return this;  
+ else return null;  
+ else { return _str;  
+ else { throw new IllegalStateException;  
+ return super;  
+ else { return _string;  
+ else { return _raw;  
+ else { throw new IllegalStateException;  
+ else { return _object;  
+ else { return _object;  
+ else { return _raw;  
+ else throw new IOException;  
+ else { return _string;  
+ else { throw new IllegalArgumentException;  
+ return super._deserializeFromEmptyString;  
+ throw new IOException(); };  
+  return super;  
+ else { throw new IllegalArgumentException;  
+ else throw new IOException;  
+ else { return _other;  
+ else { return _stringValue;  
+ else { return _bytes;  
+ else { return _path;  
+ else { return _other;  
+ else { return _kind;  
+ else { return _path;  
+ else { return _bytes;  
+ else { return null;  
+ else { return _name;  
+ else { return _stringValue;  
+ else { return _serializer;  
+ else { return _name;  
+ else { return _id;  
+ else { return _super;  
+ else { return EMPTY;  
+ else { return _super;  
+ return _value;  
+ else return null;  
+ else { return _type;  
+ else { return EMPTY;  
+ else { return _id;  
+ return this;  
+ else { return _null;  
+ else return _value;  
+ else { return _type;  
+ else { return _val;  
+ return null;  
+ else { return _null;  
+ else { return _default;  
+ else { return _serializer;  
+ else { return _base;  
+ else { return _text;  
+ else { return _kind;  
+ else { return _default;  
+ else { return _base;  
+ else { return _val;  
+ else return super;  
+ else { throw new RuntimeException;  
+else { return null;  
+ throw new UnsupportedOperationException(); };  
+ else { throw new RuntimeException;  
+ else { return _defaultValue;  
+ else { return _defaultValue;  
+ else { return _text;  
+ else { return value;  
+ else { return value;  
+ else { return _source;  
+ else { return _parent;  
+ return _data;  
+else{ return null;  
+ else { return _node;  
+  return _value;  
+ else { return _values;  
+ else { return new String;  
+ throw new IllegalStateException(); };  
+ else { return _node;  
+ else { return "";  
+ else { return _values;  
+ else { return _buffer;  
+ else { return "";  
+ else { return _buffer;  
+ else { return _empty;  
+ else { return _source;  
+ else throw new IOException;  
+ else { return _parent;  
+ else { return _delegate;  
+ else { return _local;  
+  else { return null;  
+ else { return new URI;  
+ else { return _empty;  
+ else { return _obj;  
+ else { return _local;  
+ return _resource;  
+ return _uri;  
+  return this;  
+ else { throw _error;  
+ else { return _obj;  
+ else { throw new EOFException;  
+ else { return _stream;  
+ else { return _fromString;  
+ else { return String;  
+ else return _uri;  
+ else { return _stream;  
+  throw new UnsupportedOperationException;  
+ else return _data;  
+ else return _resource;  
+ else { return URI;  
+ else { return _buf;  
+ else { return _impl;  
+  return _data;  
+ else { return _impl;  
+ else { return false;  
+ else { return _src;  
+ else { return _delegate;  
+ else { throw _exception;  
+ else return this;  
+ else { return false;  
+ else { return new String;  
+ else { return _src;  
+ else { return _toString;  
+ else { return _buf;  
+ else throw new IOException;  
+ else { return _toString;  
+ else { return _fromString;  
+ else{ return null;  
+ else { return _internal;  
+ else { return _root;  
+ else { return _internal;  
+ else { throw _exception;  
+ else throw new UnsupportedOperationException;  
+ else { return _root;  
+ else { return NULL;  
+ else { return data;  
+ else { return _in;  
+ else { return data;  
+ //return null;  
+ else { return _entity;  
+ else { return NO_URI;  
+ else { return NULL;  
+  return _resource;  
+ else { return _identity;  
+ else { return _inputStream;  
+ else { return _href;  
+ else { return _file;  
+ else { return _inputStream;  
+ else { return _scheme;  
+ else { return _in;  
+ else { return _file;  
+ else { throw _error;  
+ else { return _content;  
+ else { return _entity;  
+  return _uri;  
+ else { return _identity;  
+ else { return _jsonObject;  
+ else { return uri;  
+ else { return _scheme;  
+         return null;  
+ return _object;  
+ else { return _href;  
+ else { return _input;  
+ else { return _jsonObject;  
+ else { return new URI;  
+ else { return String;  
+ else { return uri;  
+ else { return _deserialize;  
+ throw new UnsupportedOperationException;  
+ else { return _content;  
+ else { return raw;  
+ else { return empty;  
+ else return super;  
+ else { throw new IOException;  
+ else { return URL;  
+ else { return EMPTY_STRING;  
+ return super._deserializeFromString;  
+ else { return URI;  
+ else { return _target;  
+ else { return raw;  
+ return _serializer;  
+ else { return NONE;  
+ else { return _input;  
+ else return _str;  
+ return _str;  
+ else { return Object.class;  
+ throw new IllegalArgumentException(); };  
+ else { return _deserialize;  
+ else { return empty;  
+ else { return _original;  
+  return super._deserializeFromString;  
+ return _super;  
+ return _raw;  
+ else return _value;  
+ else { return object;  
+ else { return _real;  
+ else { return _unsafe;  
+ else { return _scalar;  
+ else { return _binary;  
+ return EMPTY;  
+ else { return VOID;  
+ else { return text;  
+ else { return _deserializeFromObject;  
+ else { return _encoded;  
+ return _default;  
+ else { return super;  
+ return _other;  
+ else { throw new AssertionError;  
+ return _string;  
+ return _id;  
+ return "";  
+ else { throw new IOException();  
+ else { return new StringBuilder;  
+ else { return _utf8;  
+ else return super;  
+ return _null;  
+ else { throw new UnsupportedOperationException();  
+ else return this;  
+ return _defaultValue;  
+ else { return _unparsed;  
+ else { return _base64;  
+  return EMPTY;  
+ return super._deserializeFromString();;  
+ return _type;  
+ return _name;  
+ return _kind;  
+     return null;  
+ return _path;  
+ else { return null; return super._deserializeFromEmptyString();  
+ return null; return super._deserializeFromEmptyString();  
+ else { return null; return super._deserializeFromEmptyString();  
+ else return null; return super._deserializeFromEmptyString();  
+ _kind = STD_URI; return super._deserializeFromEmptyString();  
+ else return null; return super._deserializeFromEmptyString();  
+ else { throw new IOException; return super._deserializeFromEmptyString();  
+ throw new IOException; return super._deserializeFromEmptyString();  
+ else { throw new IOException; return super._deserializeFromEmptyString();  
+ else { return _value; return super._deserializeFromEmptyString();  
+  return null; return super._deserializeFromEmptyString();  
+ else { return _value; return super._deserializeFromEmptyString();  
+ else return null; return super._deserializeFromEmptyString();  
+ //return null; return super._deserializeFromEmptyString();  
+ else { return _resource; return super._deserializeFromEmptyString();  
+ else { return _data; return super._deserializeFromEmptyString();  
+ else return null; return super._deserializeFromEmptyString();  
+ else { return _uri; return super._deserializeFromEmptyString();  
+ else { throw new UnsupportedOperationException; return super._deserializeFromEmptyString();  
+ return _value; return super._deserializeFromEmptyString();  
+ else { return _string; return super._deserializeFromEmptyString();  
+ else { return _uri; return super._deserializeFromEmptyString();  
+ else { return _str; return super._deserializeFromEmptyString();  
+ else { return _resource; return super._deserializeFromEmptyString();  
+ else { throw new UnsupportedOperationException; return super._deserializeFromEmptyString();  
+ throw new UnsupportedOperationException; return super._deserializeFromEmptyString();  
+ else; return super._deserializeFromEmptyString();  
+ else { return _data; return super._deserializeFromEmptyString();  
+ else throw new IOException; return super._deserializeFromEmptyString();  
+ else { return null; return super._deserializeFromEmptyString();  
+ return _uri; return super._deserializeFromEmptyString();  
+ else { throw new IllegalStateException; return super._deserializeFromEmptyString();  
+ else throw new IOException; return super._deserializeFromEmptyString();  
+ else return _value; return super._deserializeFromEmptyString();  
+ else { return _raw; return super._deserializeFromEmptyString();  
+ else { //return null; return super._deserializeFromEmptyString();  
+ else { return this; return super._deserializeFromEmptyString();  
+ else { return _string; return super._deserializeFromEmptyString();  
+ else { throw new IllegalStateException; return super._deserializeFromEmptyString();  
+ return _data; return super._deserializeFromEmptyString();  
+ else { return _str; return super._deserializeFromEmptyString();  
+ else { return _object; return super._deserializeFromEmptyString();  
+ return this; return super._deserializeFromEmptyString();  
+ else { return this; return super._deserializeFromEmptyString();  
+ else { return _path; return super._deserializeFromEmptyString();  
+ throw new IllegalStateException; return super._deserializeFromEmptyString();  
+ else { return _kind; return super._deserializeFromEmptyString();  
+ return _resource; return super._deserializeFromEmptyString();  
+ else { return _name; return super._deserializeFromEmptyString();  
+ else { return _raw; return super._deserializeFromEmptyString();  
+ else { return _type; return super._deserializeFromEmptyString();  
+ else { return _stringValue; return super._deserializeFromEmptyString();  
+ else { return _type; return super._deserializeFromEmptyString();  
+ else return _value; return super._deserializeFromEmptyString();  
+ else { return _path; return super._deserializeFromEmptyString();  
+ else { return _object; return super._deserializeFromEmptyString();  
+ else { return null; return super._deserializeFromEmptyString();  
+ else { return _bytes; return super._deserializeFromEmptyString();  
+ else { return _name; return super._deserializeFromEmptyString();  
+ return _kind; return super._deserializeFromEmptyString();  
+ else { return _null; return super._deserializeFromEmptyString();  
+ else { //return null; return super._deserializeFromEmptyString();  
+ return super; return super._deserializeFromEmptyString();  
+  throw new IOException; return super._deserializeFromEmptyString();  
+ else { return _id; return super._deserializeFromEmptyString();  
+ else return _uri; return super._deserializeFromEmptyString();  
+ else { throw new IllegalArgumentException; return super._deserializeFromEmptyString();  
+ return null; return super._deserializeFromEmptyString();  
+ return _str; return super._deserializeFromEmptyString();  
+ return _string; return super._deserializeFromEmptyString();  
+ else { return _kind; return super._deserializeFromEmptyString();  
+ else { return _id; return super._deserializeFromEmptyString();  
+ else { return new String; return super._deserializeFromEmptyString();  
+ else { return _stringValue; return super._deserializeFromEmptyString();  
+ return _raw; return super._deserializeFromEmptyString();  
+ ; return super._deserializeFromEmptyString();  
+ else { return super; return super._deserializeFromEmptyString();  
+ return _type; return super._deserializeFromEmptyString();  
+ else { throw new IllegalArgumentException; return super._deserializeFromEmptyString();  
+ else return _resource; return super._deserializeFromEmptyString();  
+ throw new IllegalArgumentException; return super._deserializeFromEmptyString();  
+ return _path; return super._deserializeFromEmptyString();  
+ else { return _source; return super._deserializeFromEmptyString();  
+ else { return _bytes; return super._deserializeFromEmptyString();  
+ return _object; return super._deserializeFromEmptyString();  
+ else { return _other; return super._deserializeFromEmptyString();  
+ else { return EMPTY; return super._deserializeFromEmptyString();  
+ else return _data; return super._deserializeFromEmptyString();  
+ else { return _node; return super._deserializeFromEmptyString();  
+ else { return _val; return super._deserializeFromEmptyString();  
+ //else return null; return super._deserializeFromEmptyString();  
+ else { return new URI; return super._deserializeFromEmptyString();  
+ else return _uri; return super._deserializeFromEmptyString();  
+ else return _kind; return super._deserializeFromEmptyString();  
+ else { return _null; return super._deserializeFromEmptyString();  
+ else { return _text; return super._deserializeFromEmptyString();  
+ return _id; return super._deserializeFromEmptyString();  
+ return _name; return super._deserializeFromEmptyString();  
+ else { return EMPTY; return super._deserializeFromEmptyString();  
+ else throw new IOException; return super._deserializeFromEmptyString();  
+ else { return _defaultValue; return super._deserializeFromEmptyString();  
+ else { return _default; return super._deserializeFromEmptyString();  
+ return _serializer; return super._deserializeFromEmptyString();  
+ return EMPTY; return super._deserializeFromEmptyString();  
+ else { return super; return super._deserializeFromEmptyString();  
+ return _null; return super._deserializeFromEmptyString();  
+ else throw new IOException; return super._deserializeFromEmptyString();  
+ else { return _serializer; return super._deserializeFromEmptyString();  
+ else { return _serializer; return super._deserializeFromEmptyString();  
+; return super._deserializeFromEmptyString();  
+ else { return false; return super._deserializeFromEmptyString();  
+ else return this; return super._deserializeFromEmptyString();  
+ else  return null; return super._deserializeFromEmptyString();  
+ //throw new IOException; return super._deserializeFromEmptyString();  
+ throw new IOException(); return super._deserializeFromEmptyString();  
+ else return _string; return super._deserializeFromEmptyString();  
+ else { throw new RuntimeException; return super._deserializeFromEmptyString();  
+ else { return _node; return super._deserializeFromEmptyString();  
+ else return this; return super._deserializeFromEmptyString();  
+ else{ return null; return super._deserializeFromEmptyString();  
+ else return _str; return super._deserializeFromEmptyString();  
+ else { return _empty; return super._deserializeFromEmptyString();  
+else; return super._deserializeFromEmptyString();  
+ else { return value; return super._deserializeFromEmptyString();  
+ else; return super._deserializeFromEmptyString();  
+ else { return _base; return super._deserializeFromEmptyString();  
+ else { return _source; return super._deserializeFromEmptyString();  
+ else { return _root; return super._deserializeFromEmptyString();  
+  return _value; return super._deserializeFromEmptyString();  
+ else return _data; return super._deserializeFromEmptyString();  
+ else { return _stream; return super._deserializeFromEmptyString();  
+ else { return new URI; return super._deserializeFromEmptyString();  
+ // return null; return super._deserializeFromEmptyString();  
+ return _default; return super._deserializeFromEmptyString();  
+ else return _kind; return super._deserializeFromEmptyString();  
+ else { return new String; return super._deserializeFromEmptyString();  
+ _kind = STD_STREAM; return super._deserializeFromEmptyString();  
+ else return _resource; return super._deserializeFromEmptyString();  
+ else { return _local; return super._deserializeFromEmptyString();  
+ throw new EOFException; return super._deserializeFromEmptyString();  
+ else { return _super; return super._deserializeFromEmptyString();  
+ else { return _default; return super._deserializeFromEmptyString();  
+ else { return _val; return super._deserializeFromEmptyString();  
+ else return _raw; return super._deserializeFromEmptyString();  
+ return _stringValue; return super._deserializeFromEmptyString();  
+ else { return _text; return super._deserializeFromEmptyString();  
+ return new String; return super._deserializeFromEmptyString();  
+ else { return _obj; return super._deserializeFromEmptyString();  
+ else { return _other; return super._deserializeFromEmptyString();  
+ else return super; return super._deserializeFromEmptyString();  
+ else { return false; return super._deserializeFromEmptyString();  
+ else { return _buffer; return super._deserializeFromEmptyString();  
+ else { return _defaultValue; return super._deserializeFromEmptyString();  
+ _kind = null; return super._deserializeFromEmptyString();  
+ return ""; return super._deserializeFromEmptyString();  
+ int kind = _kind; return super._deserializeFromEmptyString();  
+ else { return URI; return super._deserializeFromEmptyString();  
+ else { return _values; return super._deserializeFromEmptyString();  
+ else return _type; return super._deserializeFromEmptyString();  
+ else return super; return super._deserializeFromEmptyString();  
+ try { return null; return super._deserializeFromEmptyString();  
+ return _bytes; return super._deserializeFromEmptyString();  
+ else { return _base; return super._deserializeFromEmptyString();  
+ else { return _stream; return super._deserializeFromEmptyString();  
+ else { // return null; return super._deserializeFromEmptyString();  
+ else { return _file; return super._deserializeFromEmptyString();  
+ else { return ""; return super._deserializeFromEmptyString();  
+ throw new IllegalStateException(); }; return super._deserializeFromEmptyString();  
+ else { throw new RuntimeException; return super._deserializeFromEmptyString();  
+ else { return _src; return super._deserializeFromEmptyString();  
+ else return _path; return super._deserializeFromEmptyString();  
+ return false; return super._deserializeFromEmptyString();  
+ else: return null; return super._deserializeFromEmptyString();  
+ _kind = ST_URI; return super._deserializeFromEmptyString();  
+ else { throw _exception; return super._deserializeFromEmptyString();  
+ else { return _href; return super._deserializeFromEmptyString();  
+ else { return _parent; return super._deserializeFromEmptyString();  
+ return _defaultValue; return super._deserializeFromEmptyString();  
+ else return _value; return super._deserializeFromEmptyString();  
+ else throw new UnsupportedOperationException; return super._deserializeFromEmptyString();  
+ else { return String; return super._deserializeFromEmptyString();  
+ _kind = STD_STRING; return super._deserializeFromEmptyString();  
+  //return null; return super._deserializeFromEmptyString();  
+ return _node; return super._deserializeFromEmptyString();  
+ else { return _scheme; return super._deserializeFromEmptyString();  
+ else { return _root; return super._deserializeFromEmptyString();  
+ try { return null; return super._deserializeFromEmptyString();  
+ else { return value; return super._deserializeFromEmptyString();  
+ else { return uri; return super._deserializeFromEmptyString();  
+ else { return _parent; return super._deserializeFromEmptyString();  
+ return _super; return super._deserializeFromEmptyString();  
+ else return _name; return super._deserializeFromEmptyString();  
+ else { return _empty; return super._deserializeFromEmptyString();  
+ else { return _local; return super._deserializeFromEmptyString();  
+ else { return _content; return super._deserializeFromEmptyString();  
+ _kind = STD_PATH; return super._deserializeFromEmptyString();  
+ else { return _super; return super._deserializeFromEmptyString();  
+ else return _string; return super._deserializeFromEmptyString();  
+ return String; return super._deserializeFromEmptyString();  
+ _kind = 0; return super._deserializeFromEmptyString();  
+ else { throw new EOFException; return super._deserializeFromEmptyString();  
+ else { return _inputStream; return super._deserializeFromEmptyString();  
+ else { return _scheme; return super._deserializeFromEmptyString();  
+ else { return _value; return super._deserializeFromEmptyString();  
+ else { return _buf; return super._deserializeFromEmptyString();  
+ else { return null; return super._deserializeFromEmptyString();  
+ else return _str; return super._deserializeFromEmptyString();  
+ else return _object; return super._deserializeFromEmptyString();  
+ throw new UnsupportedOperationException(); }; return super._deserializeFromEmptyString();  
+ else { return _file; return super._deserializeFromEmptyString();  
+ else { return _impl; return super._deserializeFromEmptyString();  
+ else return _type; return super._deserializeFromEmptyString();  
+ else { return _buffer; return super._deserializeFromEmptyString();  
+ else { return URI; return super._deserializeFromEmptyString();  
+ else return _raw; return super._deserializeFromEmptyString();  
+ }; return super._deserializeFromEmptyString();  
+ else, return null; return super._deserializeFromEmptyString();  
+ else { return _values; return super._deserializeFromEmptyString();  
+ else { return _input; return super._deserializeFromEmptyString();  
+ throw new UnsupportedOperationException(); return super._deserializeFromEmptyString();  
+ else { _kind = null; return super._deserializeFromEmptyString();  
+ throw new IllegalStateException(); return super._deserializeFromEmptyString();  
+ return EMPTY_STRING; return super._deserializeFromEmptyString();  
+ else { return _entity; return super._deserializeFromEmptyString();  
+ else { return uri; return super._deserializeFromEmptyString();  
+ else { throw _error; return super._deserializeFromEmptyString();  
+ _kind = STD; return super._deserializeFromEmptyString();  
+ else { return _fromString; return super._deserializeFromEmptyString();  
+ else { return _obj; return super._deserializeFromEmptyString();  
+ else { return data; return super._deserializeFromEmptyString();  
+ else { return _href; return super._deserializeFromEmptyString();  
+ //else; return super._deserializeFromEmptyString();  
+ return NULL; return super._deserializeFromEmptyString();  
+ return value; return super._deserializeFromEmptyString();  
+  return null; return super._deserializeFromEmptyString();  
+ return _base; return super._deserializeFromEmptyString();  
+ else { _kind = STD; return super._deserializeFromEmptyString();  
+  else { return null; return super._deserializeFromEmptyString();  
+ //else; return super._deserializeFromEmptyString();  
+ return _val; return super._deserializeFromEmptyString();  
+ _kind = TEXT; return super._deserializeFromEmptyString();  
+ else throw new IllegalStateException; return super._deserializeFromEmptyString();  
+ throw new RuntimeException; return super._deserializeFromEmptyString();  
+ else { return _in; return super._deserializeFromEmptyString();  
+ else { return _src; return super._deserializeFromEmptyString();  
+ else { return local; return super._deserializeFromEmptyString();  
+else { return null; return super._deserializeFromEmptyString();  
+ else return _uri; return super._deserializeFromEmptyString();  
+ else return _id; return super._deserializeFromEmptyString();  
+ else { return ""; return super._deserializeFromEmptyString();  
+return  null;  
+return  super._deserializeFromEmptyString();  
+return  super._deserializeFromEmptyString;  
+return  super;  
+return  super._deserializeFromEmptyString();;  
+return  this;  
+return  super._deserializeFromEmptyString(); ;  
+return  _value;  
+return  _data;  
+return  super._deserializeFromEmptyString());;  
+return  _object;  
+return  super._deserializeFromEmptyString() ;  
+return  _uri;  
+return  _resource;  
+return  super.deserializeFromEmptyString();  
+return  super._deserializeFromString;  
+return  _serializer;  
+return  value;  
+return  super._deserializeFromString();;  
+return  EMPTY;  
+return  super._deserializeFromEmptyString().toString;  
+return  _default;  
+return  _super;  
+return  _raw;  
+return  _null;  
+return  _defaultValue;  
+return  _super._deserializeFromEmptyString();  
+return  "";  
+return  _other;  
+return  _str;  
+return  data;  
+return  null; };  
+return  NULL;  
+return  super._deserializeFromString;  
+return  super._deserializeFromEmptyStringInternal;  
+return  _id;  
+return  object;  
+return  super._deserializeFromString(); ;  
+return  super._deserializeFromString();;  
+return  _kind;  
+return  _string;  
+return  _super._deserializeFromEmptyString;  
+return  false;  
+return  _parent;  
+return  super._deserializeFromString("");  
+return  _type;  
+return  _val;  
+return  super._deserializeFromString();  
+return  Object.class;  
+return  _bytes;  
+return  _deserialize(); };  
+return  _delegate;  
+return  _base;  
+return  Boolean.FALSE;  
+return  _name;  
+return  super.deserializeFromEmptyString;  
+return  _deserialize();;  
+return  super._deserializeFromEmptyString().stringValue;  
+return  super._deserializeFromEmptyString());  
+return  undefined;  
+return  Object.EMPTY_OBJECT;  
+return  _deserializeFromString();;  
+return  _buffer;  
+return  super._deserializeFromEmptyStringInternal();  
+return  VOID;  
+return  _path;  
+return  EMPTY_STRING;  
+return  _impl;  
+return  _deserializeFromString;  
+return  _obj;  
+return  _deserializeFromObject;  
+return  _identity;  
+return  super._deserializeFromEmpty();;  
+return  super._deserializeFromEmptyString().value;  
+return  _node;  
+return  _empty;  
+return  raw;  
+return  super._serializeFromEmptyString();  
+return  super._deserializeFromBlank();;  
+return  UNDEFINED;  
+return  super.deserializeFromEmptyString();;  
+return  _stringValue;  
+return  super._serializeFromEmptyString;  
+return  _super._deserializeFromEmptyString();;  
+return  NONE;  
+return  (Object)null;  
+return  empty;  
+return  super._deserializeFromEmptyString()); ;  
+return  super._deserializeFromObject;  
+return  "";;  
+return  super._deserializeFromEmptyString;  
+return  super._deserializeFromString(); ;  
+return  _text;  
+return  super._deserializeFromString(); };  
+return  (Object) null;  
+return  super._deserializeFromEmptyString(), null;  
+return  super._deserializeFromString(null);;  
+return  _jsonObject;  
+return  super._deserializeFromEmptyString();  
+return  parent;  
+return  _deserialize(); return null;  
+return  super._deserializeFrom("");  
+return  reader;  
+return  super._deserializeFromString(_str);;  
+return  _deserializeFromString();;  
+return  _deserialize(); ;  
+return  super._deserializeFromEmptyString();;  
+return  _local;  
+return  NO_URI;  
+return  _values;  
+return  string;  
+return  _deserializeFromString(); ;  
+return  super.value;  
+return  _in;  
+return  text;  
+return  _entity;  
+return  _internal;  
+return  super._deserializeFromString(_string);;  
+return  _stream;  
+return  _source;  
+return  delegate;  
+return  _root;  
+return  _buf;  
+return  super._deserializeFromNull();;  
+return  base;  
+return  super._deserializeFromEmptyString() ;  
+return  super.serializeFromEmptyString();  
+return  _deserializeFromString(); };  
+return  _deserialize(); //return null;  
+return  super._deserializeFromEmptyString().val;  
+return  NOOP;  
+return  defaultValue;  
+return  EMPTY_OBJECT;  
+return  -1;  
+return  NO_VALUE;  
+return  _binary;  
+return  _deserializer;  
+return  _this;  
+return  _fromString;  
+return  _serialized;  
+return  _toString;  
+return  return null;  
+return  super._deserializeFromString("");  
+return  uri;  
+return  super.deserializeFromEmptyString(); ;  
+return  _deserializeFromString;  
+return  super._deserializeFrom"";  
+return  null;;  
+return  super._deserializeFromEmptyString().uri;  
+return  _deserializeFromObject();;  
+return  super._deserializeFromEmptyString("");  
+return  _deserializeFromString(); };  
+return  _serializer.deserialize(this);  
+return  super._deserialize(); };  
+return  this.value;  
+return  super._deserializeFromBlank(); ;  
+return  _delegate._deserializeFromEmptyString();  
+return  _instance;  
+return  Null;  
+return  str;  
+return  ROOT;  
+return  _native;  
+return  _deserializeFromEmptyString;  
+return  _inputStream;  
+return  _deserializeFromString(); return null;  
+return  _deserialize;  
+return  String.valueOf(_value);  
+return  input;  
+return  super._deserializeFromEmpty(); ;  
+return  super._deserializeFromString(_value);  
+return  _dest;  
+return  void;  
+return  super._deserializeFromInputStream;  
+return  dummy;  
+return  super._deserialize(); return null;  
+return  _original;  
+return  Void;  
+return  nil;  
+return  _input;  
+return  super.toString;  
+return  _unSerialize;  
+return  super._deserializeFromEmptyString().valueOf;  
+return  0;  
+return  _orig;  
+return  obj;  
+return  super._deserializeFromNull(); ;  
+return  super._deserializeFromString(null);  
+return  v;  
+return  super._deserializeFromEmptyString();  
+return  serialized;  
+return  UNKNOWN;  
+return  super._deserializeFromUTF8();  
+return  Void.instance;  
+return  super._deserialize();;  
+return  unknown;  
+return  DEFAULT_VALUE;  
+return  super._deserializeFromUTF8String;  
+return  _deserializeFromNull();;  
+return  _document;  
+return  true;  
+return  url;  
+return  super._deserializeFromUTF8();;  
+return  _deserializeFromUTF8;  
+return  super._deserializeFromObject(_value);  
+return  EOF;  
+return  _serializer._deserializeFromEmptyString();  
+return  EMPTY_VALUE;  
+return  _real;  
+return  _descriptor;  
+return  _file;  
+return  String.valueOf(_value;  
+return  _indirect;  
+return  _child;  
+return  super.toString();  
+return  _deserialize(null);;  
+return  EMPTY_URI;  
+return  super._deserializeFromEmptyStringImpl;  
+return  StringUtils.EMPTY;  
+return  super._deserializeFromInputStream();;  
+return  NO_DATA;  
+return  _serializer._deserializeFromEmptyString;  
+return  super._deserializeFromObject(_object);  
+return  super._deserializeFromEmptyString_0;  
+return  EMPTY_OBJ;  
+return  System.in;  
+return  super._deserializeFromString();  
+return  _scalar;  
+return  _deserialize().toString;  
+return  Boolean.TRUE;  
+return  null; //return null;  
+return  _key;  
+return  _src;  
+return  super.deserializeFromEmptyString());;  
+return  _scheme;  
+return  _serializer.deserialize(this);;  
+return  _base64;  
+return  _body;  
+return  parent._deserializeFromEmptyString();  
+return  _unchecked;  
+return  byte[].class;  
+return  super._deserializeFromUTF8;  
+return  _deserialized;  
+return  super.readObject();  
+return  super.deserializeFromEmptyString() ;  
+return  super._serializeFromEmptyString();;  
+return  _json;  
+return  _context;  
+return  super._deserializeFromString(_str);  
+return  super._deserialize(null);;  
+return  _fallback;  
+return super._deserializeFromEmptyString();  
+return super.deserializeFromEmptyString();  
+return super.readObject();  
+return super.getObject();  
+return super.toString();  
+return super.serializeFromEmptyString();  
+return super.serialize();  
+return super.readValue();  
+return super.unserializeFromEmptyString();  
+return super.getString();  
+return super.create();  
+return super.read();  
+return super.readString();  
+return super._deserializeFromString();  
+return super.getData();  
+return super.getBytes();  
+return super.toBytes();  
+return super.getValue();  
+return super.deserializeFromString();  
+return super._deserializeFromString();  
+return super.readObject();  
+return super.._deserializeFromEmptyString();  
+return super.toByteArray();  
+return super.value();  
+return super.clone();  
+return super.fromString();  
+return super.getUri();  
+return super.valueOf();  
+return super.readFrom();  
+return super.deserializeFromString();  
+return super.serializeToString();  
+return super._serializeFromEmptyString();  
+return super.readFromString();  
+return super.asString();  
+return super.readFromUTF8();  
+return super.getContent();  
+return super.serializeFromString();  
+return super.readExternal();  
+return super.readFromStream();  
+return super._deserializeFromObject();  
+return super.serializeFromString();  
+return super.readLine();  
+return super.getText();  
+return super.decodeFromEmptyString();  
+return super.fromXML();  
+return super.getUrl();  
+return super.deserialize();  
+return super. _deserializeFromEmptyString();  
+return super.bytes();  
+return super.doDeserialize();  
+return super._deserializeFromEmpty();  
+return super.readFromInputStream();  
+return super.readPrimitive();  
+return super.readUTF();  
+return super.deserializeFromObject();  
+return super.readFromString();  
+return super.parseFromEmptyString();  
+return super.getUri().toString();  
+return super.readFromByteBuffer();  
+return super.getStream();  
+return super.empty();  
+return super.deserializeFromEmptyString();  
+return super.unserializeFromString();  
+return super.deserializeFromEmpty();  
+return super.readFromEmptyString();  
+return super.null();  
+return super.inflateFromEmptyString();  
+return super.deserializeFromUTF8();  
+return super.getName();  
+return super.getURI().toString();  
+return super.doDeserializeFromEmptyString();  
+return super._deserializeFromStream();  
+return super.readBinary();  
+return super.readFile();  
+return super.decode();  
+return super.fromString();  
+return super.deserializeFromStream();  
+return super.deSerialize();  
+return super.readString();  
+return super.readFromUtf8();  
+return super.deserializeFromBytes();  
+return super.nullValue();  
+return super.toObject();  
+return super.getObjectFromEmptyString();  
+return super.text();  
+return super.deSerializeFromEmptyString();  
+return super.readFromBytes();  
+return super.getNextValue();  
+return super.deserializeFromInputStream();  
+return super. deserializeFromEmptyString();  
+return super.parse();  
+return super._deserializeFromInputStream();  
+return super.next();  
+return super.readBytes();  
+return super.stringValue();  
+return super.unSerialize();  
+return super.getIdentifier();  
+return super.readNext();  
+return super.fromEmptyString();  
+return super.serializeFromStream();  
+return super._deserializeFromNull();  
+return super.getURI();  
+return super.serialized();  
+return super.decompose();  
+return super.deserializeFromUtf8();  
+return super.getURL();  
+return super.decodeString();  
+return super._deserializeFromBytes();  
+return super.decodeURI();  
+return super.newInstance();  
+return super.toJSONString();  
+return super.parseString();  
+return super.readFromByteArray();  
+return super.getRawValue();  
+return super.getResource();  
+return super.asList();  
+return super.getRawData();  
+return super.resolve();  
+return super.cast();  
+return super.getResourceAsStream();  
+return super.parseFromString();  
+return super.deserializeFromNull();  
+return super.getRaw();  
+return super.delete();  
+return super.getClass().newInstance();  
+return super.getElement();  
+return super.getInputStream();  
+return super.unserializeFromStream();  
+return super.serializer.deserialize();  
+return super.unserializeFromEmptyString();  
+return super.getBinaryStream();  
+return super.serializeFromObject();  
+return super.getStringValue();  
+return super.readUtf8();  
+return super.readToString();  
+return super.getObject().toString();  
+return super.getInstance();  
+return super.asObject();  
+return super.readBytes();  
+return super.deserializeFromByteBuffer();  
+return super.readThis();  
+return super.getDocument();  
+return super.retrieve();  
+return super.extractFromEmptyString();  
+return super.__deserializeFromEmptyString();  
+return super.(_deserializeFromEmptyString();  
+return super.deserializeFromURI();  
+return super.getContents();  
+return super._deserializeFromBlank();  
+return super.name();  
+return super.readStream();  
+return super._deserializeFromURI();  
+return super._deserialize();  
+return super.serializeObject();  
+return super.readInternal();  
+return super.loadFromString();  
+return super.getObjectValue();  
+return super.object();  
+return super.getObjectContent();  
+return super.getFirstChild();  
+return super.unserializeFromString();  
+return super.receive();  
+return super.unSerializeFromEmptyString();  
+return super.getObjectInstance();  
+return super.makeObject();  
+return super.getSerialized();  
+return super.value.toString();  
+return super.serializeFromBytes();  
+return super.readObject().toString();  
+return super.deserialized();  
+return super.readURI();  
+return super.getRawObject();  
+return super.close();  
+return super.unparse();  
+return super._deserializeFromStringBuilder();  
+return super.getBinary();  
+return super.convertToString();  
+return super.byteToChar();  
+return super.readObjectFromEmptyString();  
+return super.readResolve();  
+return super.serializedObject();  
+return super._deserializeFromByteBuffer();  
+return super.serializeFromEmpty();  
+return super.getRawBytes();  
+return super.readDefaultValue();  
+return super.deserializeFromBlank();  
+return super.toHexString();  
+return super.byteBuffer();  
+return super.readJson();  
+return super.serializeString();  
+return super.readData();  
+return super.makeCopy();  
+return super.readBlob();  
+return super.getDefaultValue();  
+return super.getDecoder().decode();  
+return super.serialize().toString();  
+return super.getSubstitution();  
+return super.getSerializedObject();  
+return super.unserializeFromObject();  
+return super.readAsObject();  
+return super.decodeFromString();  
+return super.serializeToUTF8();  
+return super.toString().trim();  
+return super.deserializeFromStringBuilder();  
+return super._deserializeFromFile();  
+return super.serializeFromUTF8();  
+return super.parseObject();  
+return super.decodeFromString();  
+return super.serializeValue();  
+return super.toString().intern();  
+return super.toJava();  
+return super.readNextValue();  
+return super.ser.readObject();  
+return super.getUrl().toString();  
+return super.readResource();  
+return super.serializeToInputStream();  
+return super.readValueAsString();  
+return super.readAsUTF8();  
+return super.loadFromInputStream();  
+return super.getStringFromEmptyString();  
+return super._deserializeFromDelimiter();  
+return super.serializeFromInputStream();  
+return super.getClass().getResourceAsStream();  
+return super.deserializeFromByteArray();  
+return super.serializeFromByteBuffer();  
+return super.cloneFromEmptyString();  
+return super._deserializeFromCharSequence();  
+return super._deserializeFromHexString();  
+return super.toJavaObject();  
+return super.serializer.readObject();  
+return super.tryDeserializeFromEmptyString();  
+return super.getReader();  
+return super.in.read();  
+return super.read().toString();  
+return super.byteStream();  
+return super.deserializeFromCharSequence();  
+return super.serializeAsBytes();  
+return super.serializeFromEmptyString();  
+return super.in.readUTF();  
+return super.readNextObject();  
+return super.deserializeFromBlankString();  
+return super.in.readObject();  
+return super.deserializeFromDelimiter();  
+return super.readFromObject();  
+return super.getObjectInputStream();  
+return super.url.toString();  
+return super.loadFromEmptyString();  
+return super.readNextString();  
+return super.deserializeFromHexString();  
+return super.deconstruct();  
+if(_deserializeFromEmptyString==null){return  null;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  null;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  "";;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  this;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromEmptyString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _defaultValue;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _default;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.toString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Object.class;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserialize();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return ;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromEmptyString;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserialize();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new URI("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new Object();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_STRING;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.readObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  this;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new byte[0];;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _null;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Boolean.FALSE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new URI();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  String.valueOf("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  "";} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _value;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _super;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  false;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new StringBuilder();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  false;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _defaultValue;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _serializer;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _empty;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _data;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  NULL;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromURI();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  defaultValue;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  VOID;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _toString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromNull();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  "");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  null; ;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  -1;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromEmpty();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Object.EMPTY_OBJECT;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromEmptyString;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromString("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromStream();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _data;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  StringUtils.EMPTY;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new URL("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  undefined;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_STRING;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.getString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _serialize();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromInputStream();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _null;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromBlank();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _default;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFrom("");} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._serialize();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _value;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _null_;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromURL();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _uri;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  String.class;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  empty;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _string;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  URI.create("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTYSTRING;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  defaultDeserializer;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromStream();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromBytes();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_OBJECT;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromString("");} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Void.class;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  value;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  String.valueOf("");} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  toString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  NONE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFrom("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Object.NaN;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  defaultValue;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  getObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String[] {};;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromString("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new StringBuffer();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Boolean.TRUE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _empty;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.getObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  defaultSerializer;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  0;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _str;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  true;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Boolean.FALSE;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _object;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  void;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  value;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  "null";;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromString;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  object;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  object;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _raw;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String(_value);;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Collections.EMPTY_MAP;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromDefault();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _fromString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  empty;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  return null;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _nullValue;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromString;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _str;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String[0];;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  DEFAULT;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.serialize();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  UNDEFINED;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  dummy;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _defaultSerializer;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._readObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromText();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  String;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _readObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  data;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _string;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  data;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new URI(null);;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.getUri();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromString("");} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  null; ;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFrom("");} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  String.valueOf();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _resource;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _identity;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.readString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  nil;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  string;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _kind;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _object;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  str;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_VALUE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  NOOP;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.getValue();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFromFile();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Null;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromStr();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _emptyString;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  {};;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _initialValue;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  true;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromUri();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.value;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.getURI();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new Empty();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTYSTRING;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _defaultValue();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromObject();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeEmpty();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  void.class;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new URL();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _serializeFromEmptyString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _uri;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.create();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _fallback;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _defaultDeserializer;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return null;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _stringValue;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  JSONObject.NULL;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  return null;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Void.instance;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _type;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  -1;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromOpaque();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFrom("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _emptyValue;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  Object.class;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  byte[].class;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeFrom();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  DEFAULT_VALUE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserialize;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _getUri();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new char[0];;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return   super;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _raw;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  input;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _resource;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFrom();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeEmpty();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _EMPTY;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return   null;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromHexString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.empty();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._empty;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._defaultValue;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  def;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserialize(null);;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromString;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_URI;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  delegate;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String(""); ;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromFile();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._serializeFromString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromStrings();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.read();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  URL.create("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._deserializeString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.toBytes();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.deserialize();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  base;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.getData();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_OBJECT;;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _serializeToString();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  NO_VALUE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_STRING_VALUE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  str;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new byte[]{};} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super._default;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String(_str);;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  NULL_VALUE;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  EMPTY_OBJ;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  ROOT;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.create("");;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  uri;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  NO_DATA;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  super.EMPTY;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromStringValue();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromNone();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeDefault();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromInteger();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromDefaultValue();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  new String(null);;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromLiteral();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromEmptyString();} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromUTF();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  (Object)null;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromByteArray();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromXML();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromResource();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){return  _deserializeFromChars();;} return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=true; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=this; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= super; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=create; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeFromEmptyString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=false; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=defaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new String; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=null; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Object; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=String.class; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=serializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserializeFromEmptyString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=String; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Boolean; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Object.class; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=defaultValue; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Boolean.FALSE; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=readObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createURI; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Object; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Boolean.TRUE; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createSerializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=String.valueOf; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=URI; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Serializable; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=serialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=parent; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=StringUtil; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserializeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringReader; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getDefaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=factory; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Deserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= this; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=fallback; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= true; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=toString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=value; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Object(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=makeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createFromString(""); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Function; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=function; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Serializable; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=boolean; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= def; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringBuilder; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=uri; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=loadString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringBuffer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeFromString(""); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=delegate; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super._deserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=default; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeFromStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new URI; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=init; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= null; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=newInstance; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=loadFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=reader; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringSerializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=doDeserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createEmpty; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=next; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=make; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=fromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= serializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=_serializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= false; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Reader; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= create; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= _serializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=string; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=DEFAULT; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=resource; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Serializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= createFromString(""); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getClass; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=serializeFromEmptyString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=1; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Boolean; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=defaultSerializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getUri; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createEmptyString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=decode; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new URL; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserializeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= factory; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserializeFromStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=type; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createDefaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= new String; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=StringSerializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=""; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=clazz; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=load; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= createFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=base; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=class; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=OBJECT; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=object; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super.readObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getResource; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=inputStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= defaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=DefaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=read; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=URI.create; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=str; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Function; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createFromEmptyString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=lambda; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=def; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=dummy; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=injector; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=STRING; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= delegate; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=noop; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=NOOP; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=_defaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createFromStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=DEFAULTS; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=parse; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=func; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=makeString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserializeString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= new Object; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new InputStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=_deserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=EMPTY; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=text; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Function.identity; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createDefaultValue; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new BufferedReader; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=inline; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=makeEmpty; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=defaultDeserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=stream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new InputStreamDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= getObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=parseString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=serializeToString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringReader(""); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= super; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=makeURI; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=loadFromStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StdDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new String(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=superclass; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getClass().newInstance; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=import; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super._serializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=name; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createInternal; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= (); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new boolean; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Deserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=convert; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getResourceAsStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= String.class; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=void; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=makeFromString(""); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=defaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new ByteArrayInputStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=_default; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=serializeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=readFromStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= _deserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=convertToString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createUri; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new IOException; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= new StringDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=onEmpty; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new ArrayList; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super.toString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new HashMap; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringDt; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createDummy; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new GenericDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new DefaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getURI; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringReader(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super._serialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createFromString(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=String.format; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createEmptyURI; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=parseFromEmptyString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= new Object(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getDefaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= _defaultDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new DummyDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= super._deserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringDecoder; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new NullDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createSerializer(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=_deserializeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createEmptyObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeEmpty; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= makeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringReader; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=Serializable.class; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getClass().getResourceAsStream; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getDefaultDeserializer(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=UTF8Deserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Deserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=deserializeFromEmpty; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=decodeFromEmptyString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new TextDeserializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super.serialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createDefault; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=DEFAULT_DECODER; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeFromEmpty; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=java.io; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getSerializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=EMPTY_STRING; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new Void; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringBuffer(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super._readObject; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= _deserializeFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=getClass().getName; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=super.create; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=serializer.deserialize; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= String.valueOf; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=factory.create; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new StringBuilder(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=this._serializer; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=StringUtil.EMPTY; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=new BufferedReader(); } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString=createEmptyFromString; } return super._deserializeFromEmptyString();  
+if(_deserializeFromEmptyString==null){ _deserializeFromEmptyString= deserializeEmptyString; } return super._deserializeFromEmptyString();  
+if(super._kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_URL){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_URL){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_PATH){ return super._deserializeFromEmptyString();}  
+if(super != null){ return super._deserializeFromEmptyString();}  
+if(DEBUG){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_TEXT){ return super._deserializeFromEmptyString();}  
+if( _kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_TEXT){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_STREAM){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_STREAM){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_PATH){ return super._deserializeFromEmptyString();}  
+if(super == null){ return super._deserializeFromEmptyString();}  
+if(this._kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if(super.kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if( super._kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if(parent != null){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_URL){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_PATH){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_TEXT){ return super._deserializeFromEmptyString();}  
+if(serializer != null){ return super._deserializeFromEmptyString();}  
+if(super!=null){ return super._deserializeFromEmptyString();}  
+if(super==null){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_DATA){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_UTF8){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_CLASS){ return super._deserializeFromEmptyString();}  
+if(serializer == null){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_URL){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_LITERAL){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_STREAM){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_FILE){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_JSON){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_VALUE){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_SCHEME){ return super._deserializeFromEmptyString();}  
+if( super._kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind==STD_URI){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_TEXT){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_DATA){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_JSON){ return super._deserializeFromEmptyString();}  
+if( super._kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if(super.kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_NAME){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_FILE){ return super._deserializeFromEmptyString();}  
+if(parent == null){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_RESOURCE){ return super._deserializeFromEmptyString();}  
+if(parent!=null){ return super._deserializeFromEmptyString();}  
+if(false){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_PATH){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_SCHEME){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_LITERAL){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_PLAIN){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_PLAIN){ return super._deserializeFromEmptyString();}  
+if(_kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_BINARY){ return super._deserializeFromEmptyString();}  
+if(super._kind == ST_URI){ return super._deserializeFromEmptyString();}  
+if(kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if(super.isClosed){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_RESOURCE){ return super._deserializeFromEmptyString();}  
+if(super._kind == null){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_BINARY){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_NS){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_TYPE){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_NAME){ return super._deserializeFromEmptyString();}  
+if(super){ return super._deserializeFromEmptyString();}  
+if(true){ return super._deserializeFromEmptyString();}  
+if( _kind != STD_STRING){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_STREAM){ return super._deserializeFromEmptyString();}  
+if( _kind == TEXT){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_SCALAR){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_ASCII){ return super._deserializeFromEmptyString();}  
+if(super._kind == TEXT){ return super._deserializeFromEmptyString();}  
+if(value == null){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_NS){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_VALUE){ return super._deserializeFromEmptyString();}  
+if( _kind == ST_URI){ return super._deserializeFromEmptyString();}  
+if( super._kind == STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_XML){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_NULL){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_SLASH){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_ARRAY){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_INPUT){ return super._deserializeFromEmptyString();}  
+if(super._kind != null){ return super._deserializeFromEmptyString();}  
+if(super.kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_CLASS){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_DATA){ return super._deserializeFromEmptyString();}  
+if(kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_FORM){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_IO){ return super._deserializeFromEmptyString();}  
+if(super._kind < STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind){ return super._deserializeFromEmptyString();}  
+if(this.kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if( _kind == STREAM){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_ARRAY){ return super._deserializeFromEmptyString();}  
+if(serializer==null){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_INPUT){ return super._deserializeFromEmptyString();}  
+if(readOnly){ return super._deserializeFromEmptyString();}  
+if(serializer!=null){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_JSON){ return super._deserializeFromEmptyString();}  
+if( _kind == STREAM_URI){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_SLASH){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_BYTES){ return super._deserializeFromEmptyString();}  
+if(parent==null){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_LITERAL){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_METHOD){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_XML){ return super._deserializeFromEmptyString();}  
+if(isURI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STREAM){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_ASCII){ return super._deserializeFromEmptyString();}  
+if(getSuperKind() == STD_URI){ return super._deserializeFromEmptyString();}  
+if( super._kind == STD_URL){ return super._deserializeFromEmptyString();}  
+if( _kind != STD_PATH){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_PREFIX){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_URI2){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_BYTES){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_CLASS){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_FILE){ return super._deserializeFromEmptyString();}  
+if(isBinary){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_VALUE){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_CHAR){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_CHAR){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_NULL){ return super._deserializeFromEmptyString();}  
+if(super._kind != STD_STRING){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_ID){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_INSTANCE){ return super._deserializeFromEmptyString();}  
+if( _kind == STDOUT){ return super._deserializeFromEmptyString();}  
+if(superClass != null){ return super._deserializeFromEmptyString();}  
+if(LOG.isDebugEnabled()){ return super._deserializeFromEmptyString();}  
+if(isURI()){ return super._deserializeFromEmptyString();}  
+if( _kind != STD_STREAM){ return super._deserializeFromEmptyString();}  
+if( _kind != STD_URL){ return super._deserializeFromEmptyString();}  
+if(strict){ return super._deserializeFromEmptyString();}  
+if(value != null){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_NAME){ return super._deserializeFromEmptyString();}  
+if(debug){ return super._deserializeFromEmptyString();}  
+if(kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_OBJ){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_RESOURCE){ return super._deserializeFromEmptyString();}  
+if(super._kind == STAR){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_SCHEME){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_FORM){ return super._deserializeFromEmptyString();}  
+if( !_kind.isEmpty()){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_SCALAR){ return super._deserializeFromEmptyString();}  
+if( _kind == BINARY){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_NEWLINE){ return super._deserializeFromEmptyString();}  
+if(super._kind == CLASS){ return super._deserializeFromEmptyString();}  
+if( super._kind == STD_TEXT){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_NEWLINE){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_REF){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_NS){ return super._deserializeFromEmptyString();}  
+if(delegate != null){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_UTF8){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_ID){ return super._deserializeFromEmptyString();}  
+if(super._kind > STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_PROTO){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_TYPE){ return super._deserializeFromEmptyString();}  
+if( _kind != STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if(tc.isDebugEnabled()){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_BASE64){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_METHOD){ return super._deserializeFromEmptyString();}  
+if( super._kind == STD_STREAM){ return super._deserializeFromEmptyString();}  
+if(super._kind == STREAM_URI){ return super._deserializeFromEmptyString();}  
+if( super._kind == STD_PATH){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_MESSAGE){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_IO){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_LOCAL){ return super._deserializeFromEmptyString();}  
+if(this.kind != STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STRING){ return super._deserializeFromEmptyString();}  
+if( super == null){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_MESSAGE){ return super._deserializeFromEmptyString();}  
+if(isPrimitive){ return super._deserializeFromEmptyString();}  
+if(super._kind == URI){ return super._deserializeFromEmptyString();}  
+if( _kind == CLASS){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_PREFIX){ return super._deserializeFromEmptyString();}  
+if(super._serializer != null){ return super._deserializeFromEmptyString();}  
+if(parent){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_PLAIN){ return super._deserializeFromEmptyString();}  
+if(super.isURI()){ return super._deserializeFromEmptyString();}  
+if(super.kind == STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_DOCUMENT){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_BINARY){ return super._deserializeFromEmptyString();}  
+if(sub != null){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_SERVICE){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_INPUT){ return super._deserializeFromEmptyString();}  
+if(super._kind != STD_URL){ return super._deserializeFromEmptyString();}  
+if(super._kind == NONE){ return super._deserializeFromEmptyString();}  
+if(SUPER){ return super._deserializeFromEmptyString();}  
+if( _kind == TEXT_URI){ return super._deserializeFromEmptyString();}  
+if(key == null){ return super._deserializeFromEmptyString();}  
+if(type != null){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_OUTPUT){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_OUTPUT){ return super._deserializeFromEmptyString();}  
+if(this._kind == TEXT){ return super._deserializeFromEmptyString();}  
+if(this.kind == STD_STRING){ return super._deserializeFromEmptyString();}  
+if(this._kind != STD_STRING){ return super._deserializeFromEmptyString();}  
+if(super.isClosed()){ return super._deserializeFromEmptyString();}  
+if(super._kind != STD_OBJECT){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_DATA){ return super._deserializeFromEmptyString();}  
+if(kind == STD_URL){ return super._deserializeFromEmptyString();}  
+if( _kind < STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_FUNCTION){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_IN){ return super._deserializeFromEmptyString();}  
+if(parent._kind == STD_URI){ return super._deserializeFromEmptyString();}  
+if(null == _value){ return super._deserializeFromEmptyString();}  
+if(deserializer != null){ return super._deserializeFromEmptyString();}  
+if(allowNull){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_DTD){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_ARRAY){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_IN){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_FILE){ return super._deserializeFromEmptyString();}  
+if(super._kind!=STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._kind != STD_PATH){ return super._deserializeFromEmptyString();}  
+if(log.isDebugEnabled()){ return super._deserializeFromEmptyString();}  
+if(super.isEmpty()){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_REF){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_DOCUMENT){ return super._deserializeFromEmptyString();}  
+if(_kind == STD_JSON){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_NODE){ return super._deserializeFromEmptyString();}  
+if(null!=super){ return super._deserializeFromEmptyString();}  
+if(super.length() == 0){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_TERM){ return super._deserializeFromEmptyString();}  
+if(getSuperKind() != STD_URI){ return super._deserializeFromEmptyString();}  
+if(this._kind == ST_URI){ return super._deserializeFromEmptyString();}  
+if(VERBOSE){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_QUERY){ return super._deserializeFromEmptyString();}  
+if(trace){ return super._deserializeFromEmptyString();}  
+if( super != null){ return super._deserializeFromEmptyString();}  
+if(super._kind == STD_LOCAL){ return super._deserializeFromEmptyString();}  
+if(super._kind == SOURCE){ return super._deserializeFromEmptyString();}  
+if(super._kind >= STD_URI){ return super._deserializeFromEmptyString();}  
+if(super._serializer == null){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_DIRECTORY){ return super._deserializeFromEmptyString();}  
+if(encoding == null){ return super._deserializeFromEmptyString();}  
+if(this._kind != null){ return super._deserializeFromEmptyString();}  
+if(super.isEmpty){ return super._deserializeFromEmptyString();}  
+if(super._kind != STD_STREAM){ return super._deserializeFromEmptyString();}  
+if( _kind == STD_UNICODE){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_NULL){ return super._deserializeFromEmptyString();}  
+if(this._kind == STD_SLASH){ return super._deserializeFromEmptyString();}  

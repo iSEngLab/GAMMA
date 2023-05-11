@@ -1,0 +1,500 @@
+if(minute > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if( minutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.enabled){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!=this){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(c!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute<0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!=clock){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months == 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesEnabled){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(count > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min!=min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(times == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(times!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(i!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(s!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < minutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(ms > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute==0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(c == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(years > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(total == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(diff > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mins > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(s == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(ignoreMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(total > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(addMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesPresent){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(i == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(times > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 10){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(count == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(years == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(years!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(inner == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if( minutes!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(s!=s){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(i > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(diff!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesSet){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.enable){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(ms < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(units!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(rules!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(duration > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days == 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(times == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(clock!=clock){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!= null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds<0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=negative){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(true == false){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(hours!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds == 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(m!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(members!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mon!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(m > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(count!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(current == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(changes!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds==0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(hours == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(length > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(years!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(cms!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(total!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days == 7){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(hours!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(results!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(ms!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(0 < minutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < 10){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 2){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesChanged){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 5){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(inner!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max!=min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(true!=false){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < 5){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!=rule){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if( minutes >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months < 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months==0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(current!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=00){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(now!=now){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(hours > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(params!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mini > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months == 6){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this == this){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(times!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(isNaive){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(count == 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max < min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds == 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months!=1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(changes == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(clock!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(timer!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this == calendar){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=000000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(js!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(delay > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(time == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(diff == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute == 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(manager!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(partial == false){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min!=max){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(name!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(diff < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(timeout > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mini == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(hasMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < 3){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(events!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(long!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this == schedule){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(time!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(isClosed){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.active){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(number > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(period!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(time == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(true == true){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(duration!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(second == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(plugins!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(blocks!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.initialized){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mon > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(month!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days == 6){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mini == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute >0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesAvailable){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mini!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mini < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(withMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(month == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(0!=minute){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max > min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(days!=1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(modules!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mode!=mode){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesAdded){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(local == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.started){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max >= min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(missingMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minuteEnabled){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(values!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!=parent){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 1000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds!= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(int > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months == 2){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(limit > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(temp!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mini!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(measures!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(super!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(false == minutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(percent > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(tz!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.loop){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(duration == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(clock == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this!=s){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(objects!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(max <= min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(day!=day){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(time > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(prev!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(s!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(start!=end){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(details!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(isTimeBased){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.interrupted){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this.multiple){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months < 2){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(isStarted){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesUsed){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(s > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(confirmations){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(months == 5){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 6){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(pm!=pm){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(d!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(fields!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(min < 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutesEmpty){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes<0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes==0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(int minutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute == -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 10){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!= -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute>=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute<=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > 0..){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 2){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(calendar!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millis > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 5){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 1000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds > -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(messages!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=negative){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutex!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions == 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(moments > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute<minutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(timeZone!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(templates!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 6){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=000000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=00){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if($minute > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millions > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 3){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(instances!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millis < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes == 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(cron!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millis!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute >= -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(preserveMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(maxDays > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes >= 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes >0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mergeMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(moments < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutex == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(int minutes!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes <= 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 2){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(excludeMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=-1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(count() > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(parameters!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(useChronology){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes <= 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes<1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(datetime!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes-1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(durations > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 30){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < minutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > 0d){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 12){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 10){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=1000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(moments!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(addMinutes()){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(totalDays > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(timestamp!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(jUnit!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes> 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(exception!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(durations == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(cronologyEnabled){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes == 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(components!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute<>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes>1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute== -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=minutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 7){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(moments == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes <= 10){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(difference > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute!=-0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(int minutes >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(durations!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > -1000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 5){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(long minutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(int minutes < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(msis!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions!= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < 0..){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minis > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=0000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(maxHours > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mute > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(remaining > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < threshold){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(durations!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(Minutes!= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this instanceof Moment){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(partiallyPartial){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 100){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes<0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minons > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(msis == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute <= -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions==0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(this instanceof Calendar){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(longitude!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > 60000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds == -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=1970){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(payload!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(difference!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes < 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(localTime!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions==null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(cronoEnabled){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 50){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(calendars!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes<0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > -2){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < minutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(counters!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millutes < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(labels!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute <>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(medias!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(addMinutesEnabled){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=123){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(const minutes > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(!isClosed){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(locale!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes<1000){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(messenger!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 6){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(msis > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(exception == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(period!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes > 3){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes < 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millutes!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < min){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mines > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=9999){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes == null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(seconds < -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 4){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mustAddMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(interval <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes > 1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(periods!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(addMinutesOnce){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes < 600){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(sDays > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute<-1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(millis >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(modifyMinutes){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute >= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(int minutes>0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(difference == 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dst!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(count == -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monutes < 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if( minutes > -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(noChronology){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes <0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(maxTime > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute > 0 //){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mute < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(snapshot!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minute < = 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(parameter!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minutes!=100){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(maxDays!=0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(msis < 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(differ > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(sis!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(tasks!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(modis > 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(count > -1){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes!= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(dimensions == 2){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(mutes < 60){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(minions <= 0){setMillis(getChronology().minutes().add(getMillis(), minutes)); }
+if(monday!=null){setMillis(getChronology().minutes().add(getMillis(), minutes)); }

@@ -1,0 +1,2250 @@
+;  
+ ;  
+ _inputBuffer = buf;  
+ };  
+ _inputEnd = end;  
+ _currInputRowStart = start;  
+ return;  
+_inputBuffer = buf;  
+_currInputRowStart = start;  
+ _inputBuffer = null;  
+ _endOfInput = false;  
+_inputBuffer = null;  
+ _inputStart = start;  
+ _inputPtr = 0;  
+ _inputPtr = start;  
+_inputEnd = end;  
+ _inputRowStart = start;  
+ _currInputRowStart = 0;  
+ //;  
+0;  
+synchronized;  
+_currInputProcessed = 0;  
+};  
+ _currInput = buf;  
+_inputRowStart = start;  
+_currInputRowStart = 0;  
+ _currInputProcessed = 0;  
+ _inputPtr = end;  
+_endOfInput = false;  
+ _input = buf;  
+ _currInputRowStart;  
+ _currInputEnd = end;  
+_currInput = end;  
+_currInput = start;  
+_inputPtr = 0;  
+ _eof = false;  
+_inputStart = start;  
+ _currInputBuffer = buf;  
+_currInputBuffer = buf;  
+_inputPtr = start;  
+ _endOfInput = true;  
+ _inputBuf = buf;  
+int start;  
+@Override;  
+_input = buf;  
+ _currInput = end;  
+ _outputBuffer = buf;  
+ _inputBytes = buf;  
+_currInput = 0;  
+ _inputOffset = start;  
+length;  
+_currInput = null;  
+ _buffer = buf;  
+ _inputOffset = 0;  
+ ;  
+//;  
+_currInputRowStart;  
+ _currInput = start;  
+ flush;  
+ _buf = buf;  
+ @param buf;  
+ _currInput = null;  
+ _inputEOF = false;  
+ _currInputRowStart += start;  
+_currInputEnd = end;  
+ _currInputRowStart = end;  
+ _currInputRowEnd = end;  
+;;  
+_currInput = buf;  
+_inputBuf = buf;  
+int _currInputProcessed;  
+ reset;  
+ _currInputPtr = 0;  
+ _endOfInput = end;  
+ _eof = true;  
+ _currInputStart = start;  
+ end;  
+_eof = false;  
+/*;  
+_currInput = true;  
+ _inputProcessed = 0;  
+_inputOffset = 0;  
+_inputOffset = start;  
+ _inputRowStart = 0;  
+ _origBuffer = buf;  
+null;  
+ _currInput = 0;  
+ _currInputPtr = start;  
+++_currInputProcessed;  
+  };  
+ _inputPos = start;  
+_inputEOF = false;  
+int _inputEnd;  
+this;  
+ _inputBuffer = null;;  
+ init;  
+int _inputEnd = _inputPtr;  
+_inputPtr += _origBufferLen;  
+flush;  
+_buffer = buf;  
+_inputBytes = buf;  
+ _inputDone = false;  
+_inputProcessed += _origBufferLen;  
+return;  
+_inputRowStart = 0;  
+.;  
+_currInputRowEnd = end;  
+ return this;  
+ _inputRow = null;  
+_currInputRowStart += start;  
+int _currInputProcessed = 0;  
+ _inputPos = 0;  
+++;  
+_inputProcessed = 0;  
+_endOfInput = end;  
+_endOfInput = true;  
+1;  
+_outputBuffer = buf;  
+ _inputPtr += _inputEnd;  
+ _inputBuffer.flip();;  
+ _inputLen = end - start;  
+ _inputEnd = start;  
+ this;  
+_inputDone = false;  
+_currInputRowStart = end;  
+_currInputPtr = 0;  
+ _inputStart = 0;  
+EOF;  
+ _currInputRow = 0;  
+++ _currInputProcessed;  
+ _inputIndex = 0;  
+ _currInputBuffer = null;  
+ ++_currInputProcessed;  
+_currInputStart = start;  
+int len;  
+ _currInputIndex = 0;  
+ _inputDone = true;  
+$;  
+ _inputPtr += start;  
+ _currInputBytes = 0;  
+ flush();;  
+_currInputProcessed = start;  
+_inputBuffer = null;;  
+_buf = buf;  
+int;  
+_inputBuffer.clear();;  
+ _bufferSize = end - start;  
+ _inputRow = 0;  
+ start;  
+_currInputBytes = 0;  
+  @param buf;  
++;  
+ _eofReached = false;  
+_currInputRow = 0;  
+ --;  
+_currInputPtr = start;  
+ //_inputBuffer = buf;  
+ flushBuffer;  
+x;  
+ flush();  
+ _currInputProcessed = start;  
+ flushInput;  
+ _inputRowStart = end;  
+ _inputReader = null;  
+_inputBufferLen = end - start;  
+ _currInput = true;  
+ _inputBuffer = buf;  
+ _inputBuffer.clear();;  
+ _end = end;  
+ _start = start;  
+int _inputEnd = end;  
+ _endInput = end;  
+_inputPos = start;  
+ ...;  
+ _currentInputRowStart = start;  
+ //_inputBuffer = null;  
+ read;  
+ _inputBufferLen = 0;  
+ _input = null;  
+ _inputRowPtr = 0;  
+buffer;  
+ ++;  
+ _inputBufferOffset = start;  
+ _inputLength = end - start;  
+ _currInputOffset = start;  
+ _finished = false;  
+_inputBuffer.flip();;  
+ //_inputEnd = end;  
+_inputStart = 0;  
+_input = null;  
+  ;  
+ _inputRowOffset = 0;  
+!;  
+_currInputRow = start;  
+ _origBufferLen = 0;  
+ _inputBytes = null;  
+ _inputData = buf;  
+_eof = true;  
+int length;  
+int _inputStart = start;  
+ _currInputOffset = 0;  
+int pos;  
+ _currentIndex = 0;  
+ _out = buf;  
+ _bufferSize = 0;  
+ _inputOffset = end;  
+--;  
+_inputPos = 0;  
+ _inputRowBuffer = buf;  
+++_currInputRowStart;  
+int pos = _inputPtr;  
+ _currInputChunkStart = start;  
+ _currentValue = buf;  
+_inputLen = end - start;  
+_currInputBuffer = null;  
+init;  
+();  
+else;  
+ _outputPtr = 0;  
+ _currInputRow = start;  
+int bytesRead;  
+_inputBufferLen = 0;  
+ _inputRowEnd = end;  
+ else;  
+ _inputInput = buf;  
+ _pos = start;  
+ _currBuffer = buf;  
+ _inputBuffer += buf;  
+_currInputIndex = 0;  
+ _hasInput = true;  
+ _inputEnd = end - start;  
+out;  
+ _inputChunk = null;  
+ _inputBufferStart = start;  
+_inputBuffer = _inputBuffer;  
+ _inputPos = end;  
+ _outputPtr = start;  
+ _inputBytesRead = 0;  
+ _inputBufferEnd = end;  
+ _bufferLen = end - start;  
+ _endOfInput = end < start;  
+ _inputBufferOffset = 0;  
+ _inputPtr += end;  
+ _inputRowOffset = start;  
+ _currInputPos = start;  
+ @return;  
+32;  
+public void feedInput() throws IOException;  
+ _inputPtr = 0;;  
+ _inputRowPtr = start;  
+; _inputBuffer = buf;  
+ ; _inputBuffer = buf;  
+ //; _inputBuffer = buf;  
+ }; _inputBuffer = buf;  
+ _inputPtr = 0; _inputBuffer = buf;  
+ _endOfInput = false; _inputBuffer = buf;  
+ _inputPtr = start; _inputBuffer = buf;  
+ return; _inputBuffer = buf;  
+_inputPtr = 0; _inputBuffer = buf;  
+ ; _inputBuffer = buf;  
+synchronized; _inputBuffer = buf;  
+ _inputEnd = end; _inputBuffer = buf;  
+_currInputRowStart = start; _inputBuffer = buf;  
+_inputPtr = start; _inputBuffer = buf;  
+}; _inputBuffer = buf;  
+ _inputPtr = end; _inputBuffer = buf;  
+ ++_currInputProcessed; _inputBuffer = buf;  
+ _eof = false; _inputBuffer = buf;  
+ _currInputProcessed = 0; _inputBuffer = buf;  
+ _endOfInput = true; _inputBuffer = buf;  
+_currInputProcessed = 0; _inputBuffer = buf;  
+_endOfInput = false; _inputBuffer = buf;  
+//; _inputBuffer = buf;  
+ @param buf; _inputBuffer = buf;  
+@Override; _inputBuffer = buf;  
+ _currInputRowStart; _inputBuffer = buf;  
+0; _inputBuffer = buf;  
+ _currInputEnd = end; _inputBuffer = buf;  
+ _currInputPtr = 0; _inputBuffer = buf;  
+ //_inputPtr = 0; _inputBuffer = buf;  
+ _eof = true; _inputBuffer = buf;  
+_inputEnd = end; _inputBuffer = buf;  
+ this; _inputBuffer = buf;  
+_currInputRowStart = 0; _inputBuffer = buf;  
+ _currInput = end; _inputBuffer = buf;  
+ _inputStart = start; _inputBuffer = buf;  
+/*; _inputBuffer = buf;  
+ _inputPtr = 0; _inputBuffer = buf;  
+ _currInputPtr = start; _inputBuffer = buf;  
+ _currInput = null; _inputBuffer = buf;  
+ _inputPtr += start; _inputBuffer = buf;  
+ init; _inputBuffer = buf;  
+ _currInput = start; _inputBuffer = buf;  
+int len; _inputBuffer = buf;  
+int start; _inputBuffer = buf;  
+ }; _inputBuffer = buf;  
+ //_inputPtr = start; _inputBuffer = buf;  
+ flush; _inputBuffer = buf;  
+ _endOfInput = false; _inputBuffer = buf;  
+ _currInput = 0; _inputBuffer = buf;  
+ _inputPtr = start; _inputBuffer = buf;  
+ _currInput = buf; _inputBuffer = buf;  
+ ++_inputPtr; _inputBuffer = buf;  
+_eof = false; _inputBuffer = buf;  
+ internal; _inputBuffer = buf;  
+_currInput = 0; _inputBuffer = buf;  
+length; _inputBuffer = buf;  
+  }; _inputBuffer = buf;  
+  @param buf; _inputBuffer = buf;  
+_currInput = start; _inputBuffer = buf;  
+ _endOfInput = end; _inputBuffer = buf;  
+;; _inputBuffer = buf;  
+ //_endOfInput = false; _inputBuffer = buf;  
+  ; _inputBuffer = buf;  
+ _inputPtr += end; _inputBuffer = buf;  
+ _inputRowStart = start; _inputBuffer = buf;  
+++_currInputProcessed; _inputBuffer = buf;  
+ _currInputRowStart = start; _inputBuffer = buf;  
+ _currInputStart = start; _inputBuffer = buf;  
+_currInputRowStart; _inputBuffer = buf;  
+_endOfInput = true; _inputBuffer = buf;  
+ end; _inputBuffer = buf;  
+ _currInput = true; _inputBuffer = buf;  
+ --; _inputBuffer = buf;  
+ @return; _inputBuffer = buf;  
+++ _currInputProcessed; _inputBuffer = buf;  
+ _outputPtr = 0; _inputBuffer = buf;  
+int _inputEnd; _inputBuffer = buf;  
+ --; _inputBuffer = buf;  
+ //$NON-NLS-1$; _inputBuffer = buf;  
+ _eofReached = false; _inputBuffer = buf;  
+ //_inputEnd = end; _inputBuffer = buf;  
+ reset; _inputBuffer = buf;  
+this; _inputBuffer = buf;  
+++; _inputBuffer = buf;  
+ ++_currInputRowStart; _inputBuffer = buf;  
+ _finished = false; _inputBuffer = buf;  
+ _currInputIndex = 0; _inputBuffer = buf;  
+int length; _inputBuffer = buf;  
+ _currInputProcessed = 0; _inputBuffer = buf;  
+_currInputPtr = 0; _inputBuffer = buf;  
+flush; _inputBuffer = buf;  
+ else; _inputBuffer = buf;  
+ _origBufferLen = 0; _inputBuffer = buf;  
+ _end = end; _inputBuffer = buf;  
+_currInputEnd = end; _inputBuffer = buf;  
+1; _inputBuffer = buf;  
+int; _inputBuffer = buf;  
+ _currInputProcessed += 1; _inputBuffer = buf;  
+ _currInputProcessed++;; _inputBuffer = buf;  
+_currInput = end; _inputBuffer = buf;  
+ //; _inputBuffer = buf;  
+.; _inputBuffer = buf;  
+synchronized (this) { ; _inputBuffer = buf;  
+ _inputPtr = 0;; _inputBuffer = buf;  
+ @throws IOException; _inputBuffer = buf;  
+ //return; _inputBuffer = buf;  
+ ++ _currInputProcessed; _inputBuffer = buf;  
+EOF; _inputBuffer = buf;  
+_inputPtr += start; _inputBuffer = buf;  
+ _outputPtr = start; _inputBuffer = buf;  
+return; _inputBuffer = buf;  
+   ; _inputBuffer = buf;  
+null; _inputBuffer = buf;  
+_currInputProcessed += 1; _inputBuffer = buf;  
+ _endInput = end; _inputBuffer = buf;  
+_currInput = null; _inputBuffer = buf;  
+ _pos = 0; _inputBuffer = buf;  
+_currInput = true; _inputBuffer = buf;  
+ _pos = start; _inputBuffer = buf;  
+ flush(); _inputBuffer = buf;  
+_inputStart = start; _inputBuffer = buf;  
+_inputRowStart = start; _inputBuffer = buf;  
+ // _inputPtr = 0; _inputBuffer = buf;  
+ _inputPtr += 4; _inputBuffer = buf;  
+ _finished = true; _inputBuffer = buf;  
+ ; _inputBuffer = buf;  
+ _start = start; _inputBuffer = buf;  
+ _buf = buf; _inputBuffer = buf;  
+ _bufferSize = 0; _inputBuffer = buf;  
+_inputPtr = end; _inputBuffer = buf;  
+ ...; _inputBuffer = buf;  
+ read; _inputBuffer = buf;  
+ _inputPtr++;; _inputBuffer = buf;  
+_currInputPtr = start; _inputBuffer = buf;  
++; _inputBuffer = buf;  
+--; _inputBuffer = buf;  
+_currInputProcessed = start; _inputBuffer = buf;  
+   ; _inputBuffer = buf;  
+int pos; _inputBuffer = buf;  
+ _currInputProcessed = start; _inputBuffer = buf;  
+int _currInputProcessed; _inputBuffer = buf;  
+(); _inputBuffer = buf;  
+ _inputEnd = end; _inputBuffer = buf;  
+ _inputOffset = start; _inputBuffer = buf;  
+ -- _currInputProcessed; _inputBuffer = buf;  
+_eof = true; _inputBuffer = buf;  
+ _endOfInput = true; _inputBuffer = buf;  
+ _inputOffset = 0; _inputBuffer = buf;  
+void feedInput()    ; _inputBuffer = buf;  
+x; _inputBuffer = buf;  
+  _inputPtr = 0; _inputBuffer = buf;  
+int _inputPtr; _inputBuffer = buf;  
+ _hasInput = true; _inputBuffer = buf;  
+ ++; _inputBuffer = buf;  
+ _inputPtr += 1; _inputBuffer = buf;  
+  ; _inputBuffer = buf;  
+_endOfInput = end; _inputBuffer = buf;  
+  return; _inputBuffer = buf;  
+ -- _inputPtr; _inputBuffer = buf;  
+ /*; _inputBuffer = buf;  
+ 0; _inputBuffer = buf;  
+ _currentIndex = 0; _inputBuffer = buf;  
+else; _inputBuffer = buf;  
+ start; _inputBuffer = buf;  
+int bytesRead; _inputBuffer = buf;  
+!; _inputBuffer = buf;  
+  @return; _inputBuffer = buf;  
+_currInputRowStart += start; _inputBuffer = buf;  
+ _currInputRow = 0; _inputBuffer = buf;  
+_currInputProcessed++;; _inputBuffer = buf;  
+ _inputPos = start; _inputBuffer = buf;  
+ // _inputPtr = start; _inputBuffer = buf;  
+ _closed = false; _inputBuffer = buf;  
+ _currInputPos = 0; _inputBuffer = buf;  
+ _eofCalled = false; _inputBuffer = buf;  
+synchronized (this) {; _inputBuffer = buf;  
+ _bufferSize = end - start; _inputBuffer = buf;  
+ _currInputPos = start; _inputBuffer = buf;  
+ _bytesRead = 0; _inputBuffer = buf;  
+$; _inputBuffer = buf;  
+ flush();; _inputBuffer = buf;  
+ _inputPos = 0; _inputBuffer = buf;  
+ _inputPtr; _inputBuffer = buf;  
+ stream; _inputBuffer = buf;  
+ _out = null; _inputBuffer = buf;  
+ //@Override; _inputBuffer = buf;  
+ _currInputOffset = 0; _inputBuffer = buf;  
+ _isDone = true; _inputBuffer = buf;  
+ @hide; _inputBuffer = buf;  
+ Internal; _inputBuffer = buf;  
+ _origInputEnd = end; _inputBuffer = buf;  
+ _buffer = buf; _inputBuffer = buf;  
+32; _inputBuffer = buf;  
+ _buffer = null; _inputBuffer = buf;  
+int _bufferSize; _inputBuffer = buf;  
+ _inputEnd = start; _inputBuffer = buf;  
+ _inProgress = false; _inputBuffer = buf;  
+  _endOfInput = false; _inputBuffer = buf;  
+_inputPtr += _inputPtr; _inputBuffer = buf;  
+public void feedInput() throws IOException; _inputBuffer = buf;  
+ _startLine = start; _inputBuffer = buf;  
+ // _endOfInput = false; _inputBuffer = buf;  
+_outputPtr = 0; _inputBuffer = buf;  
+ //_eof = false; _inputBuffer = buf;  
+_inputPtr += end; _inputBuffer = buf;  
+ _outbuf = null; _inputBuffer = buf;  
+buffer; _inputBuffer = buf;  
+ _input = buf; _inputBuffer = buf;  
+ flushInput; _inputBuffer = buf;  
+  //; _inputBuffer = buf;  
+ _inputPtr += 2; _inputBuffer = buf;  
+_currInputStart = start; _inputBuffer = buf;  
+ _currInputOffset = start; _inputBuffer = buf;  
+_currInputIndex = 0; _inputBuffer = buf;  
+ _input = null; _inputBuffer = buf;  
+pos; _inputBuffer = buf;  
+ _currInputRowIndex = 0; _inputBuffer = buf;  
+ _currInputRowStart = 0; _inputBuffer = buf;  
+ _eof = false; _inputBuffer = buf;  
+ _isDone = false; _inputBuffer = buf;  
+ @exception IOException; _inputBuffer = buf;  
+ _pos = end; _inputBuffer = buf;  
+_finished = false; _inputBuffer = buf;  
+++ _inputPtr; _inputBuffer = buf;  
+ _origBufferLen = start; _inputBuffer = buf;  
+int _inputStart; _inputBuffer = buf;  
+ _currInputBytes = 0; _inputBuffer = buf;  
+++_inputPtr; _inputBuffer = buf;  
+int _inputLen; _inputBuffer = buf;  
+ _inputStream = null; _inputBuffer = buf;  
+ _inputIndex = 0; _inputBuffer = buf;  
+ _inputPtr = end; _inputBuffer = buf;  
+ _inputPtr = -1; _inputBuffer = buf;  
+  _inputPtr = start; _inputBuffer = buf;  
+long _inputPtr; _inputBuffer = buf;  
+ _err = null; _inputBuffer = buf;  
+ //_endOfInput = true; _inputBuffer = buf;  
+_inputOffset = start; _inputBuffer = buf;  
+ _currInput = false; _inputBuffer = buf;  
+_currInputRow = 0; _inputBuffer = buf;  
+_inputPtr; _inputBuffer = buf;  
+ //reset; _inputBuffer = buf;  
+ _currRowStart = start; _inputBuffer = buf;  
+ _inputRowStart = 0; _inputBuffer = buf;  
+ _startOffset = start; _inputBuffer = buf;  
+_inputPtr = 0;; _inputBuffer = buf;  
+ _inputPtr++; _inputBuffer = buf;  
+_origBufferLen = 0; _inputBuffer = buf;  
+ _rowIndex = 0; _inputBuffer = buf;  
+_inputBuffer  = _ buf;  
+_inputBuffer  = (byte[]) buf;  
+_inputBuffer  = buf;  
+_inputBuffer  =  buf;  
+_inputBuffer  =  _ buf;  
+_inputBuffer  += _ buf;  
+_inputBuffer  = _input buf;  
+_inputBuffer  =  buf;  
+_inputBuffer  = & buf;  
+_inputBuffer  = (byte) buf;  
+_inputBuffer  = (ByteBuffer) buf;  
+_inputBuffer  = buf; buf;  
+_inputBuffer  = buf + _ buf;  
+_inputBuffer  = _inputBuffer + buf;  
+_inputBuffer  = (char[]) buf;  
+_inputBuffer  = ~ buf;  
+_inputBuffer  = $ buf;  
+_inputBuffer  = in. buf;  
+_inputBuffer  = null; buf;  
+_inputBuffer  = new byte[ buf;  
+_inputBuffer  = b buf;  
+_inputBuffer  = _ buf;  
+_inputBuffer  = _inputBuffer. buf;  
+_inputBuffer  = _inputBuffer+ buf;  
+_inputBuffer  = buf. buf;  
+_inputBuffer  = (ByteBuffer)_ buf;  
+_inputBuffer  = (short) buf;  
+_inputBuffer = buf;  
+_inputBuffer  = + buf;  
+_inputBuffer  = <- buf;  
+_inputBuffer  = * buf;  
+_inputBuffer  = undecoded_ buf;  
+_inputBuffer  = _in. buf;  
+_inputBuffer  = in buf;  
+_inputBuffer  = input buf;  
+_inputBuffer  = (int) buf;  
+_inputBuffer  = _input. buf;  
+_inputBuffer  = (ByteBuf) buf;  
+_inputBuffer  = new byte[] buf;  
+_inputBuffer  = input. buf;  
+_inputBuffer  = \ buf;  
+_inputBuffer  = this. buf;  
+_inputBuffer  = buf + buf;  
+_inputBuffer Buffer = _ buf;  
+_inputBuffer  = 	 buf;  
+_inputBuffer  = [] buf;  
+_inputBuffer  = inputBuffer + buf;  
+_inputBuffer  = ~~ buf;  
+_inputBuffer  = buf+ buf;  
+_inputBuffer  = (Byte) buf;  
+_inputBuffer  = (byte []) buf;  
+_inputBuffer  =_ buf;  
+_inputBuffer  = _inputBuffer buf;  
+_inputBuffer  = (int[]) buf;  
+_inputBuffer  = in_ buf;  
+_inputBuffer  = this._ buf;  
+_inputBuffer  = (short[]) buf;  
+_inputBuffer  += (byte) buf;  
+_inputBuffer  = input_ buf;  
+_inputBuffer  = inputBuffer + _ buf;  
+_inputBuffer  = __ buf;  
+_inputBuffer  = // buf;  
+_inputBuffer  = -1; buf;  
+_inputBuffer  += buf;  
+_inputBuffer  = - buf;  
+_inputBuffer  = (buf) buf;  
+_inputBuffer  = _origBuffer. buf;  
+_inputBuffer Bytes = _ buf;  
+_inputBuffer  = io. buf;  
+_inputBuffer  = _in buf;  
+_inputBuffer  = (Buffer) buf;  
+_inputBuffer  = buf buf;  
+_inputBuffer  = buf_ buf;  
+_inputBuffer  = (char) buf;  
+_inputBuffer  = re buf;  
+_inputBuffer  = (byte[]) _ buf;  
+_inputBuffer  = ~_ buf;  
+_inputBuffer  = in.read( buf;  
+_inputBuffer  = sub buf;  
+_inputBuffer  += (byte[]) buf;  
+_inputBuffer  = u buf;  
+_inputBuffer  = (buffer) buf;  
+_inputBuffer  = in.toByteArray(); buf;  
+_inputBuffer [] = _ buf;  
+_inputBuffer  = _input + _ buf;  
+_inputBuffer  = ! buf;  
+_inputBuffer Buffer = buf;  
+_inputBuffer  = In buf;  
+_inputBuffer  = tmp buf;  
+_inputBuffer  =	 buf;  
+_inputBuffer  = (String) buf;  
+_inputBuffer  = <-_ buf;  
+_inputBuffer  = concat( buf;  
+_inputBuffer  = "" + _ buf;  
+_inputBuffer  = end - start; buf;  
+_inputBuffer  = i buf;  
+_inputBuffer  = tmp_ buf;  
+_inputBuffer  = buf;  buf;  
+_inputBuffer  = decode( buf;  
+_inputBuffer  = to_ buf;  
+_inputBuffer  = buf + _input buf;  
+_inputBuffer  |= _ buf;  
+_inputBuffer  = out. buf;  
+_inputBuffer  =   buf;  
+_inputBuffer  = buf & ~ buf;  
+_inputBuffer  = buf; } buf;  
+_inputBuffer  = ByteBuffer.wrap( buf;  
+_inputBuffer  = encoded_ buf;  
+_inputBuffer  = _origBuffer = buf;  
+_inputBuffer  = i_ buf;  
+_inputBuffer  =   _ buf;  
+_inputBuffer  = in._ buf;  
+_inputBuffer  = copy( buf;  
+_inputBuffer  = -- buf;  
+_inputBuffer  = _input_ buf;  
+_inputBuffer  = raw buf;  
+_inputBuffer  = new byte[] { buf;  
+_inputBuffer Decoded = _ buf;  
+_inputBuffer  =   buf;  
+_inputBuffer  =  (byte[]) buf;  
+_inputBuffer  = ( byte[]) buf;  
+_inputBuffer  = (short)_ buf;  
+_inputBuffer  = " buf;  
+_inputBuffer  = m_ buf;  
+_inputBuffer  = msg. buf;  
+_inputBuffer  = enc. buf;  
+_inputBuffer  += (int) buf;  
+_inputBuffer  -= _ buf;  
+_inputBuffer Bytes = buf;  
+_inputBuffer  = ... buf;  
+_inputBuffer += buf;  
+_inputBuffer  = req. buf;  
+_inputBuffer Raw = _ buf;  
+_inputBuffer  = 0; buf;  
+_inputBuffer  = src. buf;  
+_inputBuffer  = c buf;  
+_inputBuffer  = : buf;  
+_inputBuffer  = buf & _ buf;  
+_inputBuffer  = r buf;  
+_inputBuffer  = _io. buf;  
+_inputBuffer  = _origBuffer buf;  
+_inputBuffer  = (bytes) buf;  
+_inputBuffer  = raw_ buf;  
+_inputBuffer  = to buf;  
+_inputBuffer  = inputBuffer+ buf;  
+_inputBuffer  = dst_ buf;  
+_inputBuffer  = _origBuffer; buf;  
+_inputBuffer  = (byte[])_ buf;  
+_inputBuffer Buffer = (byte[]) buf;  
+_inputBuffer  +=  buf;  
+_inputBuffer  = byte buf;  
+_inputBuffer  = src buf;  
+_inputBuffer  = (Byte[]) buf;  
+_inputBuffer  = (void) buf;  
+_inputBuffer =_ buf;  
+_inputBuffer  = bytes_ buf;  
+_inputBuffer  = --_ buf;  
+_inputBuffer  = inputBuffer. buf;  
+_inputBuffer  = null; } buf;  
+_inputBuffer  = input + buf;  
+_inputBuffer  = _inputBuffer_ buf;  
+_inputBuffer  = buffer. buf;  
+_inputBuffer  = ++ buf;  
+_inputBuffer  = EMPTY_ buf;  
+_inputBuffer Copy = _ buf;  
+_inputBuffer  = [ buf;  
+_inputBuffer  = buf = null; buf;  
+_inputBuffer  = buffer_ buf;  
+_inputBuffer  = read( buf;  
+_inputBuffer  = null;  buf;  
+_inputBuffer  += buf. buf;  
+_inputBuffer  =  // buf;  
+_inputBuffer  = (byte[][]) buf;  
+_inputBuffer  = "" + buf;  
+_inputBuffer  = (long) buf;  
+_inputBuffer  = buf._ buf;  
+_inputBuffer  = ""+ buf;  
+_inputBuffer  =  _input buf;  
+_inputBuffer  = buf = _ buf;  
+_inputBuffer  = _inputData. buf;  
+_inputBuffer  = c_ buf;  
+_inputBuffer  = decoded_ buf;  
+_inputBuffer  = bb buf;  
+_inputBuffer  = byte[] buf;  
+_inputBuffer  = = buf;  
+_inputBuffer  = Arrays.copyOf( buf;  
+_inputBuffer  = new ByteBuffer( buf;  
+_inputBuffer  = in.read(); buf;  
+_inputBuffer  = buf + start; buf;  
+_inputBuffer  = (b[]) buf;  
+_inputBuffer  =  $ buf;  
+_inputBuffer  = p buf;  
+_inputBuffer  = buf- buf;  
+_inputBuffer  = &_ buf;  
+_inputBuffer  = clone( buf;  
+_inputBuffer  = _origBuffer + buf;  
+_inputBuffer  = e. buf;  
+_inputBuffer  = e buf;  
+_inputBuffer  = < buf;  
+_inputBuffer [:] = _ buf;  
+_inputBuffer  = buffer = buf;  
+_inputBuffer  .= _ buf;  
+_inputBuffer  = z buf;  
+_inputBuffer  = _raw buf;  
+_inputBuffer  = (ByteBuffer[]) buf;  
+_inputBuffer  = t buf;  
+_inputBuffer Copy = buf;  
+_inputBuffer  = (byte)_ buf;  
+_inputBuffer  = new String( buf;  
+_inputBuffer  = _b buf;  
+_inputBuffer  = (ByteBuf)_ buf;  
+_inputBuffer  = end-start; buf;  
+_inputBuffer   = buf;  
+_inputBuffer  = chunk_ buf;  
+_inputBuffer  = */ buf;  
+_inputBuffer  = (null) buf;  
+_inputBuffer  = _inputData buf;  
+_inputBuffer  = !buf buf;  
+_inputBuffer  = in.getBytes(); buf;  
+_inputBuffer  = (bb[]) buf;  
+_inputBuffer  = _input + buf;  
+_inputBuffer  = from_ buf;  
+_inputBuffer  = _decoder. buf;  
+_inputBuffer  = (InputStream) buf;  
+_inputBuffer  += buf; buf;  
+_inputBuffer Tail = _ buf;  
+_inputBuffer  = _input+ buf;  
+_inputBuffer  = EMPTY_BUFFER_ buf;  
+_inputBuffer  = _inputBuf buf;  
+_inputBuffer _ = _ buf;  
+_inputBuffer  = decoder. buf;  
+_inputBuffer  = _inputRow. buf;  
+_inputBuffer  = _origBuffer= buf;  
+_inputBuffer  = buffer + buf;  
+_inputBuffer  = _inputBytes buf;  
+_inputBuffer  = _in_ buf;  
+_inputBuffer  = in; buf;  
+_inputBuffer  = (int)_ buf;  
+_inputBuffer  = _in._ buf;  
+_inputBuffer  = _inputBuffer* buf;  
+_inputBuffer . buf;  
+_inputBuffer  = _inputTable. buf;  
+_inputBuffer  = (data) buf;  
+_inputBuffer  = <-_inputBuffer buf;  
+_inputBuffer  = _inputBuffer._ buf;  
+_inputBuffer  = _inputReader. buf;  
+_inputBuffer  = input + _ buf;  
+_inputBuffer  = (byte) _ buf;  
+_inputBuffer  = _undecoded_ buf;  
+_inputBuffer  =  buf; buf;  
+_inputBuffer =  buf;  
+_inputBuffer =  null;  
+_inputBuffer =  _inputBuffer;  
+_inputBuffer =  buf;;  
+_inputBuffer =  buffer;  
+_inputBuffer =  null;;  
+_inputBuffer = buf;  
+_inputBuffer =  out;  
+_inputBuffer =  b;  
+_inputBuffer =  Buffer;  
+_inputBuffer =  _origBuffer;  
+_inputBuffer =  _input;  
+_inputBuffer =  buf ;  
+_inputBuffer =  data;  
+_inputBuffer =  nil;  
+_inputBuffer =  bufSize;  
+_inputBuffer =  0;  
+_inputBuffer =   buf;  
+_inputBuffer =  undefined;  
+_inputBuffer =  bytes;  
+_inputBuffer =  buf.;  
+_inputBuffer =  false;  
+_inputBuffer =  buf.length;  
+_inputBuffer =  buf; ;  
+_inputBuffer =  cb;  
+_inputBuffer =  buff;  
+_inputBuffer =  buf ;;  
+_inputBuffer =  inputBuffer;  
+_inputBuffer =  end;  
+_inputBuffer =  newBuf;  
+_inputBuffer =  NULL;  
+_inputBuffer =  []byte;  
+_inputBuffer =  in;  
+_inputBuffer =  _inputBuf;  
+_inputBuffer =  arr;  
+_inputBuffer =  val;  
+_inputBuffer =  this;  
+_inputBuffer =  bb;  
+_inputBuffer =  _buf;  
+_inputBuffer =  _in;  
+_inputBuffer =  reqBuf;  
+_inputBuffer =  input;  
+_inputBuffer =  chunk;  
+_inputBuffer =  true;  
+_inputBuffer =  -1;  
+_inputBuffer =  end - start;  
+_inputBuffer =  tmp;  
+_inputBuffer =  ByteBuffer;  
+_inputBuffer =  EMPTY;  
+_inputBuffer =  result;  
+_inputBuffer =  req;  
+_inputBuffer =  buf, start;  
+_inputBuffer =  "";  
+_inputBuffer =  pos;  
+_inputBuffer =  Buf;  
+_inputBuffer =  tempBuffer;  
+_inputBuffer =  buf = null;  
+_inputBuffer =  sb;  
+_inputBuffer =  buf;  
+_inputBuffer =  start;  
+_inputBuffer =  res;  
+_inputBuffer =  "";;  
+_inputBuffer =  append;  
+_inputBuffer =  msg;  
+_inputBuffer = null;  
+_inputBuffer =  _buffer;  
+_inputBuffer =  params;  
+_inputBuffer =  _inputBytes;  
+_inputBuffer =  outbuf;  
+_inputBuffer =  currInputBuffer;  
+_inputBuffer =  dst;  
+_inputBuffer =  newVal;  
+_inputBuffer =  buf + start;  
+_inputBuffer =  currBuffer;  
+_inputBuffer =  BufferUtils;  
+_inputBuffer =  src;  
+_inputBuffer =  bufs;  
+_inputBuffer =  EMPTY_BUFFER;  
+_inputBuffer = _inputBuffer;  
+_inputBuffer =  null ;  
+_inputBuffer =  tmpBuf;  
+_inputBuffer =  _origInputBuffer;  
+_inputBuffer =  _inputData;  
+_inputBuffer =  array;  
+_inputBuffer =  contents;  
+_inputBuffer =  pool;  
+_inputBuffer =  buf, 0;  
+_inputBuffer =  cfg;  
+_inputBuffer =  Buffer.EMPTY;  
+_inputBuffer =  buf[];  
+_inputBuffer =  null; ;  
+_inputBuffer =  buffers;  
+_inputBuffer =  copy;  
+_inputBuffer =  buf.slice;  
+_inputBuffer =  buf ;  
+_inputBuffer =  [];;  
+_inputBuffer =  reqBuffer;  
+_inputBuffer =  reset;  
+_inputBuffer =  BufferUtil;  
+_inputBuffer =  v;  
+_inputBuffer =  fillBuffer;  
+_inputBuffer =  bs;  
+_inputBuffer =  buf = buf;  
+_inputBuffer =  block;  
+_inputBuffer = Buffer;  
+_inputBuffer =  buf:;  
+_inputBuffer =  s;  
+_inputBuffer =  buf<mask5> buf;  
+_inputBuffer =  output;  
+_inputBuffer =  '';  
+_inputBuffer =  blob;  
+_inputBuffer =  buf.clone;  
+_inputBuffer =  addr;  
+_inputBuffer =  currInputBuffer;  
+_inputBuffer =  readBuffer;  
+_inputBuffer =    buf;  
+_inputBuffer =  conf;  
+_inputBuffer =  r;  
+_inputBuffer =  scratch;  
+_inputBuffer =  c;  
+_inputBuffer =  ByteBuf;  
+_inputBuffer =  None;  
+_inputBuffer =  buf<mask1> buf;  
+_inputBuffer =  err;  
+_inputBuffer =  buf || null;  
+_inputBuffer =  dest;  
+_inputBuffer =  rb;  
+_inputBuffer =  ptr;  
+_inputBuffer =  elem;  
+_inputBuffer =  super;  
+_inputBuffer =  done;  
+_inputBuffer =  _inputRow;  
+_inputBuffer =  text;  
+_inputBuffer =  "" + buf;  
+_inputBuffer =  newData;  
+_inputBuffer =  inputBuf;  
+_inputBuffer =  enc;  
+_inputBuffer =  value;  
+_inputBuffer =  Buffers;  
+_inputBuffer =  StringUtil;  
+_inputBuffer =  buf=null;  
+_inputBuffer =  tail;  
+_inputBuffer =  newBufInput;  
+_inputBuffer =  bufSize;;  
+_inputBuffer =  body;  
+_inputBuffer =  srcBuf;  
+_inputBuffer =  tempBuf;  
+_inputBuffer =  +buf;  
+_inputBuffer =  BufferImpl;  
+_inputBuffer =  ch;  
+_inputBuffer =  buffer.;  
+_inputBuffer = outbuf;  
+_inputBuffer =  bp;  
+_inputBuffer =  this.buf;  
+_inputBuffer =  bufPool;  
+_inputBuffer =  &buf;  
+_inputBuffer =  now;  
+_inputBuffer =  --;  
+_inputBuffer =  values;  
+_inputBuffer =  tmpBuffer;  
+_inputBuffer =  encoding;  
+_inputBuffer =  $buf;  
+_inputBuffer =  byteBuf;  
+_inputBuffer =  callback;  
+_inputBuffer =  buf + buf;  
+_inputBuffer =  line;  
+_inputBuffer =  Array;  
+_inputBuffer =  buf.array;  
+_inputBuffer =  nbuf;  
+_inputBuffer =  root;  
+_inputBuffer =  input buffer;  
+_inputBuffer =  bufBuffer;  
+_inputBuffer =  avail;  
+_inputBuffer =  outBuffer;  
+_inputBuffer =  empty;  
+_inputBuffer =  currInput;  
+_inputBuffer =  buf);;  
+_inputBuffer =  inv;  
+_inputBuffer =  buf null;  
+_inputBuffer =  byteBuffer;  
+_inputBuffer =  emptyBuffer;  
+_inputBuffer =  curBuf;  
+_inputBuffer =  '';;  
+_inputBuffer =  new byte[];  
+_inputBuffer =  fillInputBuffer;  
+_inputBuffer =  String;  
+_inputBuffer =  stream;  
+_inputBuffer =  buf+start;  
+_inputBuffer =  opts;  
+_inputBuffer =  buf --;  
+_inputBuffer =  vals;  
+_inputBuffer =  _data;  
+_inputBuffer =  null ;;  
+_inputBuffer = Buf;  
+_inputBuffer =  content;  
+_inputBuffer =  BufferPool;  
+_inputBuffer =  read;  
+_inputBuffer =  builder;  
+_inputBuffer =  p;  
+_inputBuffer =  false;;  
+_inputBuffer =  readBytes;  
+_inputBuffer =  _inputInput;  
+_inputBuffer =  _inputBuff;  
+_inputBuffer =  buf; };  
+_inputBuffer =  null; };  
+_inputBuffer =  BufferInput;  
+_inputBuffer =  bufSize = bufSize;  
+_inputBuffer =  res;;  
+_inputBuffer =  Buffer.NULL;  
+_inputBuffer =  bufSize - 1;  
+_inputBuffer =  _originalBuffer;  
+_inputBuffer =  byte[] buf;  
+_inputBuffer =  _inputInputBuffer;  
+_inputBuffer =  _outputBuffer;  
+_inputBuffer =  rawInput;  
+_inputBuffer =  buffer;;  
+_inputBuffer =  req.buf;  
+_inputBuffer =  _inBuffer;  
+_inputBuffer =  oldInputBuffer;  
+_inputBuffer =  null, null;  
+_inputBuffer =  out.;  
+_inputBuffer =  buf.buffer;  
+_inputBuffer =  buf //;  
+_inputBuffer =  new ByteBuffer;  
+_inputBuffer =  buf };  
+_inputBuffer =  end-start;  
+_inputBuffer =  undecoded;  
+_inputBuffer =  _rawInput;  
+_inputBuffer =  _rawBuffer;  
+_inputBuffer =  out.buf;  
+_inputBuffer =  makeBuffer;  
+_inputBuffer =  append(buf;  
+_inputBuffer =  _inputBuffers;  
+_inputBuffer =  bufSize - start;  
+_inputBuffer =  _inputTable;  
+_inputBuffer =  buf,0;  
+_inputBuffer =  null, buf;  
+_inputBuffer =  buf //;  
+_inputBuffer =  new String;  
+_inputBuffer =  buf + end;  
+_inputBuffer =  buf, end;  
+_inputBuffer =  reslice;  
+_inputBuffer =  bufSize=0;  
+_inputBuffer =  buf.bytes;  
+_inputBuffer =  start + end;  
+_inputBuffer =  buf; return;  
+_inputBuffer =  EMPTY_BYTES;  
+_inputBuffer =  bufSize = 0;  
+_inputBuffer =  buf<mask1> null;  
+_inputBuffer =  buf ; ;  
+if(_inputBuffer==null){return ;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;};} _inputBuffer = buf;  
+if(_inputBuffer==null){return  null;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  false;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; };} _inputBuffer = buf;  
+if(_inputBuffer==null){return };} _inputBuffer = buf;  
+if(_inputBuffer==null){return  true;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  ;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  -1;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;};} _inputBuffer = buf;  
+if(_inputBuffer==null){return  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  0;} _inputBuffer = buf;  
+if(_inputBuffer==null){return false;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  false;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  };} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  this;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return   ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } else;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  null;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return }else;} _inputBuffer = buf;  
+if(_inputBuffer==null){return null;} _inputBuffer = buf;  
+if(_inputBuffer==null){return true;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  true;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return };;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return :;} _inputBuffer = buf;  
+if(_inputBuffer==null){return -;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  noop;} _inputBuffer = buf;  
+if(_inputBuffer==null){return 0;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  immediately;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } else {;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } else {return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } else { return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  //;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void close;} _inputBuffer = buf;  
+if(_inputBuffer==null){return !;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;  };} _inputBuffer = buf;  
+if(_inputBuffer==null){return  undefined;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ?;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  nil;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  super;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  throw new IOException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  1;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  error;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;AST#return_statement#Right;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;   };} _inputBuffer = buf;  
+if(_inputBuffer==null){return      ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return     ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  close;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  ;};} _inputBuffer = buf;  
+if(_inputBuffer==null){return ..;} _inputBuffer = buf;  
+if(_inputBuffer==null){return -1;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ();;} _inputBuffer = buf;  
+if(_inputBuffer==null){return .;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; } ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  EMPTY;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  ; };} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } {@inheritDoc;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  nothing;} _inputBuffer = buf;  
+if(_inputBuffer==null){return 	;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  next;} _inputBuffer = buf;  
+if(_inputBuffer==null){return 1;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } else;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  false; };} _inputBuffer = buf;  
+if(_inputBuffer==null){return [];;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } @throws IOException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  end;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _eof;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  stream;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  };} _inputBuffer = buf;  
+if(_inputBuffer==null){return }  {@inheritDoc;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  silently;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  to caller;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;}};} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _eof;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  cancel;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;}  @return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return }  @return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _error;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  NULL;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  throw new IllegalStateException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  clear;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  exit;} _inputBuffer = buf;  
+if(_inputBuffer==null){return   };} _inputBuffer = buf;  
+if(_inputBuffer==null){return (false);;} _inputBuffer = buf;  
+if(_inputBuffer==null){return [];} _inputBuffer = buf;  
+if(_inputBuffer==null){return  errorHandler;} _inputBuffer = buf;  
+if(_inputBuffer==null){return   ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} //;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _inputBuffer;} _inputBuffer = buf;  
+if(_inputBuffer==null){return false;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  err;} _inputBuffer = buf;  
+if(_inputBuffer==null){return }  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return /;} _inputBuffer = buf;  
+if(_inputBuffer==null){return    ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} @Override;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;};;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void close() throws IOException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; };} _inputBuffer = buf;  
+if(_inputBuffer==null){return  callback;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  none;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  0;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  empty;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } //;} _inputBuffer = buf;  
+if(_inputBuffer==null){return }else{return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; //};} _inputBuffer = buf;  
+if(_inputBuffer==null){return  } ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  FALSE;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  in;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  null; };} _inputBuffer = buf;  
+if(_inputBuffer==null){return } @Override;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  throw new EOFException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  --;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  recover;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  throw new IllegalStateException();;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  reset;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  through;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  it;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  ; ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return    ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  closed;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _err;} _inputBuffer = buf;  
+if(_inputBuffer==null){return AST#then#Right;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void closeInput;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  return;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  - 1;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _error;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  -;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} ***********************************************************************;} _inputBuffer = buf;  
+if(_inputBuffer==null){return *;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  true; };} _inputBuffer = buf;  
+if(_inputBuffer==null){return  EOF;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _err;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  null ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  init;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } */;} _inputBuffer = buf;  
+if(_inputBuffer==null){return =;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;}  {@inheritDoc;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} };} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;}};} _inputBuffer = buf;  
+if(_inputBuffer==null){return } @return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  unknown;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;}  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _input;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} {@inheritDoc;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _eof = true;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  reader;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;//;} _inputBuffer = buf;  
+if(_inputBuffer==null){return    };} _inputBuffer = buf;  
+if(_inputBuffer==null){return  clearInput;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ,false;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} };} _inputBuffer = buf;  
+if(_inputBuffer==null){return  directly;} _inputBuffer = buf;  
+if(_inputBuffer==null){return (0);;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _eof=true;} _inputBuffer = buf;  
+if(_inputBuffer==null){return }  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  never;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _inputPtr;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _endOfInput;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  /*;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  _inputEnd;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  self;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  ignore;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  2;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} */;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;	;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  X;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _endOfInput = true;} _inputBuffer = buf;  
+if(_inputBuffer==null){return }  return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  inline;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;<mask1>;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _inputBuffer;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  close();;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} @throws IOException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; do nothing;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  flush;} _inputBuffer = buf;  
+if(_inputBuffer==null){return <;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } {;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;<mask5>};} _inputBuffer = buf;  
+if(_inputBuffer==null){return  done;} _inputBuffer = buf;  
+if(_inputBuffer==null){return Close;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  -1;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return this;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  here;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;*/;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  to end;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  //return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } else{return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  IO;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  caller;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } };} _inputBuffer = buf;  
+if(_inputBuffer==null){return , false;} _inputBuffer = buf;  
+if(_inputBuffer==null){return true;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  } else { return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void reset;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ; } };} _inputBuffer = buf;  
+if(_inputBuffer==null){return ";};} _inputBuffer = buf;  
+if(_inputBuffer==null){return  +1;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} /*;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  // return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return       ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  start;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } @param buf;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  io.EOF;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  cleanly;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _close;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;}  @Override;} _inputBuffer = buf;  
+if(_inputBuffer==null){return return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } returns;} _inputBuffer = buf;  
+if(_inputBuffer==null){return       };} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;<mask5>;;} _inputBuffer = buf;  
+if(_inputBuffer==null){return }    ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ...;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  } else;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _endOfInput;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  = false;} _inputBuffer = buf;  
+if(_inputBuffer==null){return //;} _inputBuffer = buf;  
+if(_inputBuffer==null){return Internal;} _inputBuffer = buf;  
+if(_inputBuffer==null){return =false;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  }else;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } @hide;} _inputBuffer = buf;  
+if(_inputBuffer==null){return throw new IOException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  false ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  false;};} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void flush() throws IOException;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void flushInput;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void close() ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} */;} _inputBuffer = buf;  
+if(_inputBuffer==null){return _end;} _inputBuffer = buf;  
+if(_inputBuffer==null){return (null);;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;}  ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return   return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  void closeInput() ;} _inputBuffer = buf;  
+if(_inputBuffer==null){return ;} @return;} _inputBuffer = buf;  
+if(_inputBuffer==null){return  throw new IOException();;} _inputBuffer = buf;  
+if(_inputBuffer==null){return } else { return;} _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=buf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=null; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[0]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[0]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4096]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= buf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4096]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4096];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=EMPTY; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[0];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=EMPTY_BUFFER; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_SIZE]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_SIZE];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=buffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= ByteBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=""; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_SIZE]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new ByteBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1024]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1024]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[8192]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1024];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[2048]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[2048]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=bytes; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[8192]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=Buffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=byte[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=b; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=byteBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[2048];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[8192];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=buf; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= null; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=newbyte[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=newbyte; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[buf.length]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[512];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=[]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new String; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=cbuf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[]{}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new StringBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[0]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[16]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[_origBufferLen];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[8]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=newByteBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[_origBufferLen]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[_origBufferLen]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= []byte; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[16];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=byteBuf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[4096]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[0]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[512]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=emptyBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[buf.length];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[8]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[8];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=Bytes; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[]{};; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[0]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[512]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=bytebuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[0];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_LEN];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[4096];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=[]byte; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_LENGTH];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new Buffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= EMPTY; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=EMPTY_BYTE_ARRAY; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.allocate(buf.length); } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_LEN]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[4096]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=inputBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_LENGTH]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=String; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=input; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=null; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBufferImpl; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[16]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[buf.length]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[32]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=EMPTY_BYTES; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[10];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[64]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=this; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[32]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=byte; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new StringBuilder; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[64]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new ByteBuf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new char[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=0; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.EMPTY_BUFFER; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.EMPTY; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.allocate(); } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= EMPTY_BUFFER; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=data; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[BUFFER_SIZE]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[10]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=bb; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[BUFFER_SIZE];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[64];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[2]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[32];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=EMPTY_BUFF; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=b''; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4096];}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=[]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=Buf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=createInputBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=Util; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_SIZE]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_LEN]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new String[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=outbuf; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[0]; return null; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[length]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[2]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[16384];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=byte[]{}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[256];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=bytearray; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=buf; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[128]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=DEFAULT_INPUT_BUFFER; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[0];}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= ""; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new int[]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_LENGTH]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[128]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[bufferSize]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[16384]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBufferUtil; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte array; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=b""; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[bufferLen];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[256]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[128];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[1024]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4096]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[10]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=true; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=EMPTY_STRING; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer={}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=..; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[bufferLen]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte []; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new ByteBuffer(); } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.allocate(buf.length);; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[16384]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=_input; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[2];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[256]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=newbyte[0]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[bufferSize]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[bufferSize];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=IoBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=byte[].class; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new ArrayList; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=newBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.allocateDirect(); } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=[];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[blockSize]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[size]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[1024];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= _input; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=NULL; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= StringUtil; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= buffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[]{}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=[]byte{}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=false; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[blockSize]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4096]byte; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=bufs; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[] {}; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[2048]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=undefined; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer._EMPTY; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[length]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.wrap(buf); }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[1024]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[4096]; return null; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[8192]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[buf.length]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[1024*1024];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=blob; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=Util.EMPTY_BUFFER; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.allocate; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBufferPool; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new char[0]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFER_SIZE];}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[65536]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[buf.length]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.EMPTY_BYTE_BUFFER; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer#EMPTY; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[] {}; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=StringBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBufferUtils; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[bufferLen]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[0]; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffers; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=byte[0]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=src; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[BUFFER_SIZE]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[length];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[blockSize];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=Array; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=''; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[capacity]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[2048]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= bytes; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[8192]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=Arrays; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new char[0]; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=defaultBuffer; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[capacity];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= []; return; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new char; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=bbs; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=tmp; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=out; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[limit]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byteAST#dimensions#Left[]AST#dimensions#RightAST#array_type#Right; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=ByteBuffer.allocate(0);; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer= new byte[2048];; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[BUFFERSIZE]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=nil; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new char[4096]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[8192]byte; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=new byte[65536]; }; } _inputBuffer = buf;  
+if(_inputBuffer==null){ _inputBuffer=EMPTY_ARRAY; } _inputBuffer = buf;  
+if(buf==null){return ;;} _inputBuffer = buf;  
+if(buf==null){return ;};} _inputBuffer = buf;  
+if(buf==null){return  null;} _inputBuffer = buf;  
+if(buf==null){return ; };} _inputBuffer = buf;  
+if(buf==null){return  false;} _inputBuffer = buf;  
+if(buf==null){return };} _inputBuffer = buf;  
+if(buf==null){return  ;;} _inputBuffer = buf;  
+if(buf==null){return  true;} _inputBuffer = buf;  
+if(buf==null){return  -1;} _inputBuffer = buf;  
+if(buf==null){return ;};} _inputBuffer = buf;  
+if(buf==null){return  0;} _inputBuffer = buf;  
+if(buf==null){return  ;} _inputBuffer = buf;  
+if(buf==null){return ; ;} _inputBuffer = buf;  
+if(buf==null){return  };} _inputBuffer = buf;  
+if(buf==null){return  false;;} _inputBuffer = buf;  
+if(buf==null){return  this;} _inputBuffer = buf;  
+if(buf==null){return  ;} _inputBuffer = buf;  
+if(buf==null){return false;} _inputBuffer = buf;  
+if(buf==null){return };;} _inputBuffer = buf;  
+if(buf==null){return ;} ;} _inputBuffer = buf;  
+if(buf==null){return ; ;} _inputBuffer = buf;  
+if(buf==null){return null;} _inputBuffer = buf;  
+if(buf==null){return } else;} _inputBuffer = buf;  
+if(buf==null){return  null;;} _inputBuffer = buf;  
+if(buf==null){return }else;} _inputBuffer = buf;  
+if(buf==null){return  true;;} _inputBuffer = buf;  
+if(buf==null){return } ;} _inputBuffer = buf;  
+if(buf==null){return   ;} _inputBuffer = buf;  
+if(buf==null){return ;} _inputBuffer = buf;  
+if(buf==null){return } else {;} _inputBuffer = buf;  
+if(buf==null){return 0;} _inputBuffer = buf;  
+if(buf==null){return  noop;} _inputBuffer = buf;  
+if(buf==null){return :;} _inputBuffer = buf;  
+if(buf==null){return ;AST#return_statement#Right;} _inputBuffer = buf;  
+if(buf==null){return -1;} _inputBuffer = buf;  
+if(buf==null){return true;} _inputBuffer = buf;  
+if(buf==null){return } else {return;} _inputBuffer = buf;  
+if(buf==null){return  immediately;} _inputBuffer = buf;  
+if(buf==null){return ; } ;} _inputBuffer = buf;  
+if(buf==null){return  //;} _inputBuffer = buf;  
+if(buf==null){return } else { return;} _inputBuffer = buf;  
+if(buf==null){return ;  };} _inputBuffer = buf;  
+if(buf==null){return  nil;} _inputBuffer = buf;  
+if(buf==null){return  1;} _inputBuffer = buf;  
+if(buf==null){return  ;};} _inputBuffer = buf;  
+if(buf==null){return !;} _inputBuffer = buf;  
+if(buf==null){return ;   };} _inputBuffer = buf;  
+if(buf==null){return ();;} _inputBuffer = buf;  
+if(buf==null){return  silently;} _inputBuffer = buf;  
+if(buf==null){return  ; };} _inputBuffer = buf;  
+if(buf==null){return  undefined;} _inputBuffer = buf;  
+if(buf==null){return ?;} _inputBuffer = buf;  
+if(buf==null){return -;} _inputBuffer = buf;  
+if(buf==null){return .;} _inputBuffer = buf;  
+if(buf==null){return ;;;} _inputBuffer = buf;  
+if(buf==null){return ;}  @throws IOException;} _inputBuffer = buf;  
+if(buf==null){return  super;} _inputBuffer = buf;  
+if(buf==null){return [];;} _inputBuffer = buf;  
+if(buf==null){return  void close;} _inputBuffer = buf;  
+if(buf==null){return ; };} _inputBuffer = buf;  
+if(buf==null){return } {@inheritDoc;} _inputBuffer = buf;  
+if(buf==null){return ;}  @return;} _inputBuffer = buf;  
+if(buf==null){return  EMPTY;} _inputBuffer = buf;  
+if(buf==null){return  end;} _inputBuffer = buf;  
+if(buf==null){return ;} @Override;} _inputBuffer = buf;  
+if(buf==null){return ;  ;} _inputBuffer = buf;  
+if(buf==null){return }  {@inheritDoc;} _inputBuffer = buf;  
+if(buf==null){return      ;} _inputBuffer = buf;  
+if(buf==null){return  error;} _inputBuffer = buf;  
+if(buf==null){return }  @throws IOException;} _inputBuffer = buf;  
+if(buf==null){return  return;} _inputBuffer = buf;  
+if(buf==null){return ..;} _inputBuffer = buf;  
+if(buf==null){return  next;} _inputBuffer = buf;  
+if(buf==null){return  };} _inputBuffer = buf;  
+if(buf==null){return  nothing;} _inputBuffer = buf;  
+if(buf==null){return ; return;} _inputBuffer = buf;  
+if(buf==null){return } @throws IOException;} _inputBuffer = buf;  
+if(buf==null){return } else;} _inputBuffer = buf;  
+if(buf==null){return ;return;} _inputBuffer = buf;  
+if(buf==null){return  0;;} _inputBuffer = buf;  
+if(buf==null){return 1;} _inputBuffer = buf;  
+if(buf==null){return  stream;} _inputBuffer = buf;  
+if(buf==null){return  close;} _inputBuffer = buf;  
+if(buf==null){return ;}  @param buf;} _inputBuffer = buf;  
+if(buf==null){return  NULL;} _inputBuffer = buf;  
+if(buf==null){return ;} //;} _inputBuffer = buf;  
+if(buf==null){return  throw new NullPointerException;} _inputBuffer = buf;  
+if(buf==null){return  clear;} _inputBuffer = buf;  
+if(buf==null){return }else{return;} _inputBuffer = buf;  
+if(buf==null){return  cancel;} _inputBuffer = buf;  
+if(buf==null){return ;}};} _inputBuffer = buf;  
+if(buf==null){return  _eof;} _inputBuffer = buf;  
+if(buf==null){return  void close() throws IOException;} _inputBuffer = buf;  
+if(buf==null){return     ;} _inputBuffer = buf;  
+if(buf==null){return  to caller;} _inputBuffer = buf;  
+if(buf==null){return /;} _inputBuffer = buf;  
+if(buf==null){return } return;} _inputBuffer = buf;  
+if(buf==null){return [];} _inputBuffer = buf;  
+if(buf==null){return _eof;} _inputBuffer = buf;  
+if(buf==null){return  _inputBuffer;} _inputBuffer = buf;  
+if(buf==null){return  false; };} _inputBuffer = buf;  
+if(buf==null){return ;  ;} _inputBuffer = buf;  
+if(buf==null){return }  @return;} _inputBuffer = buf;  
+if(buf==null){return  void;} _inputBuffer = buf;  
+if(buf==null){return   ;} _inputBuffer = buf;  
+if(buf==null){return  err;} _inputBuffer = buf;  
+if(buf==null){return ;}  {@inheritDoc;} _inputBuffer = buf;  
+if(buf==null){return ;} ***********************************************************************;} _inputBuffer = buf;  
+if(buf==null){return 	;} _inputBuffer = buf;  
+if(buf==null){return  -;} _inputBuffer = buf;  
+if(buf==null){return  throw new IOException;} _inputBuffer = buf;  
+if(buf==null){return  - 1;} _inputBuffer = buf;  
+if(buf==null){return ;<mask5>;;} _inputBuffer = buf;  
+if(buf==null){return ; //};} _inputBuffer = buf;  
+if(buf==null){return ;} ;} _inputBuffer = buf;  
+if(buf==null){return  ; ;} _inputBuffer = buf;  
+if(buf==null){return  empty;} _inputBuffer = buf;  
+if(buf==null){return  through;} _inputBuffer = buf;  
+if(buf==null){return ;};;} _inputBuffer = buf;  
+if(buf==null){return ;}<mask1>;;} _inputBuffer = buf;  
+if(buf==null){return ; do nothing;} _inputBuffer = buf;  
+if(buf==null){return ;} @throws IOException;} _inputBuffer = buf;  
+if(buf==null){return  /*;} _inputBuffer = buf;  
+if(buf==null){return  null ;} _inputBuffer = buf;  
+if(buf==null){return }  @param buf;} _inputBuffer = buf;  
+if(buf==null){return ;} {@inheritDoc;} _inputBuffer = buf;  
+if(buf==null){return   };} _inputBuffer = buf;  
+if(buf==null){return  callback;} _inputBuffer = buf;  
+if(buf==null){return } //;} _inputBuffer = buf;  
+if(buf==null){return } @Override;} _inputBuffer = buf;  
+if(buf==null){return  exit;} _inputBuffer = buf;  
+if(buf==null){return _eof = true;} _inputBuffer = buf;  
+if(buf==null){return ;}  @Override;} _inputBuffer = buf;  
+if(buf==null){return ;//;} _inputBuffer = buf;  
+if(buf==null){return  throw new NullPointerException();;} _inputBuffer = buf;  
+if(buf==null){return  --;} _inputBuffer = buf;  
+if(buf==null){return ; } };} _inputBuffer = buf;  
+if(buf==null){return  } ;} _inputBuffer = buf;  
+if(buf==null){return false;;} _inputBuffer = buf;  
+if(buf==null){return ;} };} _inputBuffer = buf;  
+if(buf==null){return }  ;} _inputBuffer = buf;  
+if(buf==null){return } {;} _inputBuffer = buf;  
+if(buf==null){return _endOfInput = true;} _inputBuffer = buf;  
+if(buf==null){return (false);;} _inputBuffer = buf;  
+if(buf==null){return  none;} _inputBuffer = buf;  
+if(buf==null){return ;}  ;} _inputBuffer = buf;  
+if(buf==null){return ;<mask1>;;} _inputBuffer = buf;  
+if(buf==null){return ;} */;} _inputBuffer = buf;  
+if(buf==null){return  it;} _inputBuffer = buf;  
+if(buf==null){return ,false;} _inputBuffer = buf;  
+if(buf==null){return  errorHandler;} _inputBuffer = buf;  
+if(buf==null){return ;}//;} _inputBuffer = buf;  
+if(buf==null){return  reset;} _inputBuffer = buf;  
+if(buf==null){return ;}};} _inputBuffer = buf;  
+if(buf==null){return  in;} _inputBuffer = buf;  
+if(buf==null){return ;} /*;} _inputBuffer = buf;  
+if(buf==null){return =;} _inputBuffer = buf;  
+if(buf==null){return  -1;;} _inputBuffer = buf;  
+if(buf==null){return  here;} _inputBuffer = buf;  
+if(buf==null){return ;} };} _inputBuffer = buf;  
+if(buf==null){return  void closeInput;} _inputBuffer = buf;  
+if(buf==null){return } else {buf;} _inputBuffer = buf;  
+if(buf==null){return  directly;} _inputBuffer = buf;  
+if(buf==null){return    ;} _inputBuffer = buf;  
+if(buf==null){return  null; };} _inputBuffer = buf;  
+if(buf==null){return  recover;} _inputBuffer = buf;  
+if(buf==null){return  void flush() throws IOException;} _inputBuffer = buf;  
+if(buf==null){return  true; };} _inputBuffer = buf;  
+if(buf==null){return } @return;} _inputBuffer = buf;  
+if(buf==null){return  EOF;} _inputBuffer = buf;  
+if(buf==null){return  reader;} _inputBuffer = buf;  
+if(buf==null){return _eof=true;} _inputBuffer = buf;  
+if(buf==null){return }  return;} _inputBuffer = buf;  
+if(buf==null){return } else{return;} _inputBuffer = buf;  
+if(buf==null){return ;}.;} _inputBuffer = buf;  
+if(buf==null){return  do nothing;} _inputBuffer = buf;  
+if(buf==null){return } */;} _inputBuffer = buf;  
+if(buf==null){return  _endOfInput;} _inputBuffer = buf;  
+if(buf==null){return    ;} _inputBuffer = buf;  
+if(buf==null){return _error;} _inputBuffer = buf;  
+if(buf==null){return ;} @return;} _inputBuffer = buf;  
+if(buf==null){return ;}  @exception IOException;} _inputBuffer = buf;  
+if(buf==null){return }  ;} _inputBuffer = buf;  
+if(buf==null){return (0);;} _inputBuffer = buf;  
+if(buf==null){return  self;} _inputBuffer = buf;  
+if(buf==null){return ;} */;} _inputBuffer = buf;  
+if(buf==null){return  2;} _inputBuffer = buf;  
+if(buf==null){return _endOfInput = true;;} _inputBuffer = buf;  
+if(buf==null){return  ignore;} _inputBuffer = buf;  
+if(buf==null){return ;}*;} _inputBuffer = buf;  
+if(buf==null){return  done;} _inputBuffer = buf;  
+if(buf==null){return ; }  @return;} _inputBuffer = buf;  
+if(buf==null){return  init;} _inputBuffer = buf;  
+if(buf==null){return ; }//;} _inputBuffer = buf;  
+if(buf==null){return  inline;} _inputBuffer = buf;  
+if(buf==null){return , null;} _inputBuffer = buf;  
+if(buf==null){return  and return;} _inputBuffer = buf;  
+if(buf==null){return  closed;} _inputBuffer = buf;  
+if(buf==null){return , false;} _inputBuffer = buf;  
+if(buf==null){return _err;} _inputBuffer = buf;  
+if(buf==null){return ;*/;} _inputBuffer = buf;  
+if(buf==null){return );;} _inputBuffer = buf;  
+if(buf==null){return AST#then#Right;} _inputBuffer = buf;  
+if(buf==null){return  only;} _inputBuffer = buf;  
+if(buf==null){return  } else { return;} _inputBuffer = buf;  
+if(buf==null){return  clearInput;} _inputBuffer = buf;  
+if(buf==null){return  FALSE;} _inputBuffer = buf;  
+if(buf==null){return } returns;} _inputBuffer = buf;  
+if(buf==null){return  +1;} _inputBuffer = buf;  
+if(buf==null){return  } else {;} _inputBuffer = buf;  
+if(buf==null){return  void closeInput() throws IOException;} _inputBuffer = buf;  
+if(buf==null){return ; } @Override;} _inputBuffer = buf;  
+if(buf==null){return  void close() ;} _inputBuffer = buf;  
+if(buf==null){return } else{return;} _inputBuffer = buf;  
+if(buf==null){return  to end;} _inputBuffer = buf;  
+if(buf==null){return *;} _inputBuffer = buf;  
+if(buf==null){return  //return;} _inputBuffer = buf;  
+if(buf==null){return ;}  @hide;} _inputBuffer = buf;  
+if(buf==null){return  cleanly;} _inputBuffer = buf;  
+if(buf==null){return ; }<mask1>;;} _inputBuffer = buf;  
+if(buf==null){return  X;} _inputBuffer = buf;  
+if(buf==null){return  void flushInput() throws IOException;} _inputBuffer = buf;  
+if(buf==null){return (null);;} _inputBuffer = buf;  
+if(buf==null){return ;}  ;} _inputBuffer = buf;  
+if(buf==null){return  IO;} _inputBuffer = buf;  
+if(buf==null){return ,0;} _inputBuffer = buf;  
+if(buf==null){return ;   ;} _inputBuffer = buf;  
+if(buf==null){return } else { return;} _inputBuffer = buf;  
+if(buf==null){return  never;} _inputBuffer = buf;  
+if(buf==null){return ;} /*package;} _inputBuffer = buf;  
+if(buf==null){return ; } */;} _inputBuffer = buf;  
+if(buf==null){return  start;} _inputBuffer = buf;  
+if(buf==null){return ";};} _inputBuffer = buf;  
+if(buf==null){return ;	;} _inputBuffer = buf;  
+if(buf==null){return true;;} _inputBuffer = buf;  
+if(buf==null){return  flush;} _inputBuffer = buf;  
+if(buf==null){return  unknown;} _inputBuffer = buf;  
+if(buf==null){return  throw new EOFException;} _inputBuffer = buf;  
+if(buf==null){return _eof = true;;} _inputBuffer = buf;  
+if(buf==null){return }  @exception IOException;} _inputBuffer = buf;  
+if(buf==null){return } @param buf;} _inputBuffer = buf;  
+if(buf==null){return  _inputBuffer=null;} _inputBuffer = buf;  
+if(buf==null){return } else { ;} _inputBuffer = buf;  
+if(buf==null){return _endOfInput=true;} _inputBuffer = buf;  
+if(buf==null){return ;} @param buf;} _inputBuffer = buf;  
+if(buf==null){return } else {return;} _inputBuffer = buf;  
+if(buf==null){return } else {flush;} _inputBuffer = buf;  
+if(buf==null){return  void closeInput() ;} _inputBuffer = buf;  
+if(buf==null){return  _inputBuffer = null;;} _inputBuffer = buf;  
+if(buf==null){return _inputBuffer = null;;} _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY; } _inputBuffer = buf;  
+if(buf==null){ buf=null; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[0]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4096]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[0];; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BYTES; } _inputBuffer = buf;  
+if(buf==null){ buf=""; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BYTE_ARRAY; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4096];; } _inputBuffer = buf;  
+if(buf==null){ buf=emptyBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=_inputBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1024]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8192]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[0]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[2048]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[]; } _inputBuffer = buf;  
+if(buf==null){ buf=[]; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.EMPTY; } _inputBuffer = buf;  
+if(buf==null){ buf=[]byte; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuf; } _inputBuffer = buf;  
+if(buf==null){ buf=[]byte{}; } _inputBuffer = buf;  
+if(buf==null){ buf=byteBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_ARRAY; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(0);; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1024];; } _inputBuffer = buf;  
+if(buf==null){ buf= EMPTY; } _inputBuffer = buf;  
+if(buf==null){ buf=byteBuf; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTYBUFF; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8192];; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(); } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4096]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.NULL; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BUFF; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[512]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BUF; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_DATA; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[0];}; } _inputBuffer = buf;  
+if(buf==null){ buf=[]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=bytebuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=defaultBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[2048];; } _inputBuffer = buf;  
+if(buf==null){ buf= EMPTY_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=buffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[512];; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_STRING; } _inputBuffer = buf;  
+if(buf==null){ buf=DEFAULT_INPUT_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[16]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=_input; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4096];}; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[]{}; } _inputBuffer = buf;  
+if(buf==null){ buf=byte[]{}; } _inputBuffer = buf;  
+if(buf==null){ buf=EmptyBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=bytes; } _inputBuffer = buf;  
+if(buf==null){ buf=Buffer; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BYTE_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=byte[]; } _inputBuffer = buf;  
+if(buf==null){ buf=DEFAULT_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=Bytes; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1];; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.EMPTY_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=NULL; } _inputBuffer = buf;  
+if(buf==null){ buf=createInputBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=newbyte[]; } _inputBuffer = buf;  
+if(buf==null){ buf=DEFAULT_INPUT; } _inputBuffer = buf;  
+if(buf==null){ buf=INITIAL_INPUT; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4];; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer[]; } _inputBuffer = buf;  
+if(buf==null){ buf=IoBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_INPUT; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffers; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BLOB; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[0]; } _inputBuffer = buf;  
+if(buf==null){ buf= ByteBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf= _inputBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[2]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=0; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[16];; } _inputBuffer = buf;  
+if(buf==null){ buf=String; } _inputBuffer = buf;  
+if(buf==null){ buf= new byte[0]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8];; } _inputBuffer = buf;  
+if(buf==null){ buf=_buffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[32]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1024]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=_emptyBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocateDirect(); } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[10]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTYSTRING; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(0); } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8192]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBufferImpl; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[256]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=INITIAL_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=newbyte[0]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[64]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=Array; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[2048]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=createBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[128]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[]{};; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTYBUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=bytearray; } _inputBuffer = buf;  
+if(buf==null){ buf=empty; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_STREAM; } _inputBuffer = buf;  
+if(buf==null){ buf= new byte[4096]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(1024);; } _inputBuffer = buf;  
+if(buf==null){ buf=b; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBufferPool; } _inputBuffer = buf;  
+if(buf==null){ buf=_defaultBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=_in; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[bufferSize]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=_inputBytes; } _inputBuffer = buf;  
+if(buf==null){ buf=newbyte; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.ZERO; } _inputBuffer = buf;  
+if(buf==null){ buf=_origBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new ByteBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=newbyte[0];; } _inputBuffer = buf;  
+if(buf==null){ buf=_nullBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=byte[0]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY; }; } _inputBuffer = buf;  
+if(buf==null){ buf=[]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[65536]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=Arrays; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[10];; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8192];}; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1024];}; } _inputBuffer = buf;  
+if(buf==null){ buf=inputBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4096]byte; } _inputBuffer = buf;  
+if(buf==null){ buf=NO_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf= null; } _inputBuffer = buf;  
+if(buf==null){ buf=INITIAL; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[16384];; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_INPUT_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[256];; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(4096);; } _inputBuffer = buf;  
+if(buf==null){ buf= ""; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[length]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BUFFER_BYTES; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[2048];}; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer#NULL; } _inputBuffer = buf;  
+if(buf==null){ buf=IO.EMPTY_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=allocator; } _inputBuffer = buf;  
+if(buf==null){ buf=_buf; } _inputBuffer = buf;  
+if(buf==null){ buf=bytebuf; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate; } _inputBuffer = buf;  
+if(buf==null){ buf=System.in; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBufferUtils; } _inputBuffer = buf;  
+if(buf==null){ buf= new byte[0];; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[bufferSize];; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[] {};; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer._EMPTY; } _inputBuffer = buf;  
+if(buf==null){ buf= []byte; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBufferUtil; } _inputBuffer = buf;  
+if(buf==null){ buf={}; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[size]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8192]byte; } _inputBuffer = buf;  
+if(buf==null){ buf=makeBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=_bytes; } _inputBuffer = buf;  
+if(buf==null){ buf=b""; } _inputBuffer = buf;  
+if(buf==null){ buf=NEW; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[32];; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[128];; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(1);; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[64];; } _inputBuffer = buf;  
+if(buf==null){ buf=System.out; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[2];; } _inputBuffer = buf;  
+if(buf==null){ buf=DEFAULT_INPUT_BUF; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[blockSize]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=NULLBUFF; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTYBYTES; } _inputBuffer = buf;  
+if(buf==null){ buf=''; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BYTE_ARR; } _inputBuffer = buf;  
+if(buf==null){ buf=null; }; } _inputBuffer = buf;  
+if(buf==null){ buf=Null; } _inputBuffer = buf;  
+if(buf==null){ buf=new ByteBuf; } _inputBuffer = buf;  
+if(buf==null){ buf= EMPTY_BYTES; } _inputBuffer = buf;  
+if(buf==null){ buf=buf; } _inputBuffer = buf;  
+if(buf==null){ buf=DEFAULT; } _inputBuffer = buf;  
+if(buf==null){ buf=new Buffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[4]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=_inputBuf; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BYTEARRAY; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[capacity]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=initInputBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BUFFER_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=initialBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBufferPool.EMPTY; } _inputBuffer = buf;  
+if(buf==null){ buf= []byte{}; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[512]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=byte; } _inputBuffer = buf;  
+if(buf==null){ buf= EMPTY_BYTE_ARRAY; } _inputBuffer = buf;  
+if(buf==null){ buf=input; } _inputBuffer = buf;  
+if(buf==null){ buf=[];; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[3]; }; } _inputBuffer = buf;  
+if(buf==null){ buf= new byte[4096];; } _inputBuffer = buf;  
+if(buf==null){ buf=this; } _inputBuffer = buf;  
+if(buf==null){ buf=data; } _inputBuffer = buf;  
+if(buf==null){ buf=_EMPTY_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(2048);; } _inputBuffer = buf;  
+if(buf==null){ buf=newbyte[0]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_STRING_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=DEFAULT_INPUT_BYTES; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_STR; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[2048]byte; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer#EMPTY; } _inputBuffer = buf;  
+if(buf==null){ buf=b''; } _inputBuffer = buf;  
+if(buf==null){ buf=INIT; } _inputBuffer = buf;  
+if(buf==null){ buf=newbyte[4096]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_BYTES_BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[]{}; } _inputBuffer = buf;  
+if(buf==null){ buf=getDefaultBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(4096); } _inputBuffer = buf;  
+if(buf==null){ buf=eof; } _inputBuffer = buf;  
+if(buf==null){ buf=defaultInputBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=ArrayBuffers; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY; return; } _inputBuffer = buf;  
+if(buf==null){ buf=BUFFER; } _inputBuffer = buf;  
+if(buf==null){ buf=array; } _inputBuffer = buf;  
+if(buf==null){ buf=allocBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=new String; } _inputBuffer = buf;  
+if(buf==null){ buf=undefined; } _inputBuffer = buf;  
+if(buf==null){ buf=blob; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(1); } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[1];}; } _inputBuffer = buf;  
+if(buf==null){ buf=nil; } _inputBuffer = buf;  
+if(buf==null){ buf=bb; } _inputBuffer = buf;  
+if(buf==null){ buf=StringUtil; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(2048); } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[capacity];; } _inputBuffer = buf;  
+if(buf==null){ buf=_originalBuffer; } _inputBuffer = buf;  
+if(buf==null){ buf=_inputData; } _inputBuffer = buf;  
+if(buf==null){ buf=EMPTY_STRING_ARRAY; } _inputBuffer = buf;  
+if(buf==null){ buf=Collections; } _inputBuffer = buf;  
+if(buf==null){ buf=emptyBuf; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[len]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=ArrayUtils; } _inputBuffer = buf;  
+if(buf==null){ buf= ""; return; } _inputBuffer = buf;  
+if(buf==null){ buf=DEFAULT_INPUT_DATA; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[65536];; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(); }; } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[8]; return; } _inputBuffer = buf;  
+if(buf==null){ buf=ByteBuffer.allocate(1024); } _inputBuffer = buf;  
+if(buf==null){ buf=new byte[limit]; }; } _inputBuffer = buf;  
+if(buf==null){ buf=newByteBuffer; } _inputBuffer = buf;  
+if(buf != null){ _inputBuffer = buf;}  
+if(buf!=null){ _inputBuffer = buf;}  
+if(buf == null){ _inputBuffer = buf;}  
+if(buf==null){ _inputBuffer = buf;}  
+if(_inputBuffer == null){ _inputBuffer = buf;}  
+if(buf != _inputBuffer){ _inputBuffer = buf;}  
+if( _inputBuffer == null){ _inputBuffer = buf;}  
+if(_inputBuffer != null){ _inputBuffer = buf;}  
+if( buf != null){ _inputBuffer = buf;}  
+if(buf.length > 0){ _inputBuffer = buf;}  
+if(buf){ _inputBuffer = buf;}  
+if( _inputBuffer != null){ _inputBuffer = buf;}  
+if(_endOfInput){ _inputBuffer = buf;}  
+if(_inputBuffer==null){ _inputBuffer = buf;}  
+if(buf == _inputBuffer){ _inputBuffer = buf;}  
+if(DEBUG){ _inputBuffer = buf;}  
+if(buffer == null){ _inputBuffer = buf;}  
+if(true){ _inputBuffer = buf;}  
+if(false){ _inputBuffer = buf;}  
+if(closed){ _inputBuffer = buf;}  
+if( !_endOfInput){ _inputBuffer = buf;}  
+if(buf.length == 0){ _inputBuffer = buf;}  
+if(needInput){ _inputBuffer = buf;}  
+if(_inputBuffer!=null){ _inputBuffer = buf;}  
+if(buffer != null){ _inputBuffer = buf;}  
+if( _endOfInput){ _inputBuffer = buf;}  
+if(buf != NULL){ _inputBuffer = buf;}  
+if( buf == null){ _inputBuffer = buf;}  
+if(null != _inputBuffer){ _inputBuffer = buf;}  
+if(null == _inputBuffer){ _inputBuffer = buf;}  
+if(end < start){ _inputBuffer = buf;}  
+if(LOG){ _inputBuffer = buf;}  
+if(hasInput){ _inputBuffer = buf;}  
+if(_eof){ _inputBuffer = buf;}  
+if(fillBuffer){ _inputBuffer = buf;}  
+if(buf!= null){ _inputBuffer = buf;}  
+if( _inputBuffer==null){ _inputBuffer = buf;}  
+if(needsInput){ _inputBuffer = buf;}  
+if(flush){ _inputBuffer = buf;}  
+if(inputBuffer == null){ _inputBuffer = buf;}  
+if(debug){ _inputBuffer = buf;}  
+if(_hasInput){ _inputBuffer = buf;}  
+if(buf !=null){ _inputBuffer = buf;}  
+if(log){ _inputBuffer = buf;}  
+if(_inputBuffer != buf){ _inputBuffer = buf;}  
+if(buffer==null){ _inputBuffer = buf;}  
+if(buf instanceof ByteBuffer){ _inputBuffer = buf;}  
+if(buf != EMPTY){ _inputBuffer = buf;}  
+if(start > 0){ _inputBuffer = buf;}  
+if(useInput){ _inputBuffer = buf;}  
+if( buf!=null){ _inputBuffer = buf;}  
+if(buf.length>0){ _inputBuffer = buf;}  
+if(start < end){ _inputBuffer = buf;}  
+if(buf > _inputBuffer){ _inputBuffer = buf;}  
+if(buf.length==0){ _inputBuffer = buf;}  
+if(useInputBuffer){ _inputBuffer = buf;}  
+if(buf.length != 0){ _inputBuffer = buf;}  
+if(_inputBuffer){ _inputBuffer = buf;}  
+if(start > _inputEnd){ _inputBuffer = buf;}  
+if(start > end){ _inputBuffer = buf;}  
+if(done){ _inputBuffer = buf;}  
+if(Trace){ _inputBuffer = buf;}  
+if(start < _inputEnd){ _inputBuffer = buf;}  
+if(null==_inputBuffer){ _inputBuffer = buf;}  
+if(requireInput){ _inputBuffer = buf;}  
+if(VERBOSE){ _inputBuffer = buf;}  
+if(buf > 0){ _inputBuffer = buf;}  
+if(buf!=_inputBuffer){ _inputBuffer = buf;}  
+if( _inputBuffer != buf){ _inputBuffer = buf;}  
+if(useBuffer){ _inputBuffer = buf;}  
+if( buf != _inputBuffer){ _inputBuffer = buf;}  
+if(_isInput){ _inputBuffer = buf;}  
+if(end < _inputEnd){ _inputBuffer = buf;}  
+if(start < _inputPtr){ _inputBuffer = buf;}  
+if(_inputBuf != null){ _inputBuffer = buf;}  
+if(end > _inputEnd){ _inputBuffer = buf;}  
+if(wantInput){ _inputBuffer = buf;}  
+if(_inputBuf == null){ _inputBuffer = buf;}  
+if( ! _endOfInput){ _inputBuffer = buf;}  
+if(moreInput){ _inputBuffer = buf;}  
+if(buf>0){ _inputBuffer = buf;}  
+if(flushInput){ _inputBuffer = buf;}  
+if(buf != nil){ _inputBuffer = buf;}  
+if(buffer){ _inputBuffer = buf;}  
+if(resetInput){ _inputBuffer = buf;}  
+if(null != buf){ _inputBuffer = buf;}  
+if(fillInput){ _inputBuffer = buf;}  
+if(start == end){ _inputBuffer = buf;}  
+if(haveInput){ _inputBuffer = buf;}  
+if(isInput){ _inputBuffer = buf;}  
+if(end<start){ _inputBuffer = buf;}  
+if(end > 0){ _inputBuffer = buf;}  
+if(start == 0){ _inputBuffer = buf;}  
+if(logInput){ _inputBuffer = buf;}  
+if(buffered){ _inputBuffer = buf;}  
+if(copy){ _inputBuffer = buf;}  
+if(end == 0){ _inputBuffer = buf;}  
+if( _inputBuf == null){ _inputBuffer = buf;}  
+if( _inputBuf != null){ _inputBuffer = buf;}  
+if(buf != -1){ _inputBuffer = buf;}  
+if(verbose){ _inputBuffer = buf;}  
+if(buf.length >= start){ _inputBuffer = buf;}  
+if(buf == NULL){ _inputBuffer = buf;}  
+if(open){ _inputBuffer = buf;}  
+if(inputBuffer != null){ _inputBuffer = buf;}  
+if(null!=_inputBuffer){ _inputBuffer = buf;}  
+if(buf.length < start){ _inputBuffer = buf;}  
+if(readMore){ _inputBuffer = buf;}  
+if(_buffer != null){ _inputBuffer = buf;}  
+if(appendInput){ _inputBuffer = buf;}  
+if(finished){ _inputBuffer = buf;}  
+if(reset){ _inputBuffer = buf;}  
+if(buf.length){ _inputBuffer = buf;}  
+if(buf==_inputBuffer){ _inputBuffer = buf;}  
+if(end==0){ _inputBuffer = buf;}  
+if(buf != this){ _inputBuffer = buf;}  
+if(this){ _inputBuffer = buf;}  
+if(buf!=NULL){ _inputBuffer = buf;}  
+if(eof){ _inputBuffer = buf;}  
+if( _inputBuffer!=null){ _inputBuffer = buf;}  
+if(buffer!=null){ _inputBuffer = buf;}  
+if(shouldFeedInput){ _inputBuffer = buf;}  
+if(canFeedInput){ _inputBuffer = buf;}  
+if(checkInput){ _inputBuffer = buf;}  
+if(inputBuffer==null){ _inputBuffer = buf;}  
+if(start >= 0){ _inputBuffer = buf;}  
+if(_buf == null){ _inputBuffer = buf;}  
+if(_buf != null){ _inputBuffer = buf;}  
+if(buf is not null){ _inputBuffer = buf;}  
+if(end == _inputEnd){ _inputBuffer = buf;}  
+if(checkEOF){ _inputBuffer = buf;}  
+if(needInputBuffer){ _inputBuffer = buf;}  
+if(useBuffers){ _inputBuffer = buf;}  
+if(isClosed){ _inputBuffer = buf;}  
+if(start == _inputPtr){ _inputBuffer = buf;}  
+if(err == null){ _inputBuffer = buf;}  
+if(start > _inputPtr){ _inputBuffer = buf;}  
+if(length > 0){ _inputBuffer = buf;}  
+if( !_eof){ _inputBuffer = buf;}  
+if(start == _inputEnd){ _inputBuffer = buf;}  
+if(start >= _inputEnd){ _inputBuffer = buf;}  
+if(initialized){ _inputBuffer = buf;}  
+if(AST#binary_expression#Leftbuf!=nullAST#binary_expression#Right){ _inputBuffer = buf;}  
+if(isFinished){ _inputBuffer = buf;}  
+if( _eof){ _inputBuffer = buf;}  
+if(started){ _inputBuffer = buf;}  
+if(req){ _inputBuffer = buf;}  
+if(in == null){ _inputBuffer = buf;}  
+if(_buffer == null){ _inputBuffer = buf;}  
+if(_eofReached){ _inputBuffer = buf;}  
+if(_isFirstInput){ _inputBuffer = buf;}  
+if(start <= end){ _inputBuffer = buf;}  
+if( buf.length > 0){ _inputBuffer = buf;}  
+if(in){ _inputBuffer = buf;}  
+if(isEmpty){ _inputBuffer = buf;}  
+if(out == null){ _inputBuffer = buf;}  
+if(buf ==null){ _inputBuffer = buf;}  
+if(isInputComplete){ _inputBuffer = buf;}  
+if(end>0){ _inputBuffer = buf;}  
+if(initInput){ _inputBuffer = buf;}  
+if(length == 0){ _inputBuffer = buf;}  
+if(out){ _inputBuffer = buf;}  
+if(end < _inputPtr){ _inputBuffer = buf;}  
+if(start >= end){ _inputBuffer = buf;}  
+if(buf!=nil){ _inputBuffer = buf;}  
+if(_isDone){ _inputBuffer = buf;}  
+if(consumed){ _inputBuffer = buf;}  
+if(buf instanceof byte[]){ _inputBuffer = buf;}  
+if(buf != EMPTY_BUFFER){ _inputBuffer = buf;}  
+if(useInputBuffer){ _inputBuffer = buf;}  
+if(hasMoreInput){ _inputBuffer = buf;}  
+if(requireBuffer){ _inputBuffer = buf;}  
+if(buf >= 0){ _inputBuffer = buf;}  
+if(needBuffer){ _inputBuffer = buf;}  
+if(_inputBuffer > 0){ _inputBuffer = buf;}  
+if(buf.length!=0){ _inputBuffer = buf;}  
+if(start==0){ _inputBuffer = buf;}  
+if( buf==null){ _inputBuffer = buf;}  
+if(feedInput){ _inputBuffer = buf;}  
+if(freeInput){ _inputBuffer = buf;}  
+if(AST#binary_expression#Leftbuf==nullAST#binary_expression#Right){ _inputBuffer = buf;}  
+if(LOG.isDebugEnabled()){ _inputBuffer = buf;}  
+if(buf != undefined){ _inputBuffer = buf;}  
+if(_buffered){ _inputBuffer = buf;}  
+if( !_inputBuffer){ _inputBuffer = buf;}  
+if(buf == EMPTY){ _inputBuffer = buf;}  
+if(TraceInput){ _inputBuffer = buf;}  
+if(buf.length >= end){ _inputBuffer = buf;}  
+if(init){ _inputBuffer = buf;}  
+if( bufSize > 0){ _inputBuffer = buf;}  
+if(_hasMoreInput){ _inputBuffer = buf;}  
+if(buf>=0){ _inputBuffer = buf;}  
+if(out != null){ _inputBuffer = buf;}  
+if(writeInput){ _inputBuffer = buf;}  
+if( _hasInput){ _inputBuffer = buf;}  
+if(copyBuffer){ _inputBuffer = buf;}  
+if(bufferAvailable){ _inputBuffer = buf;}  
+if(buf != 0){ _inputBuffer = buf;}  
+if(byteBuf != null){ _inputBuffer = buf;}  
+if(end > start){ _inputBuffer = buf;}  
+if(pos > 0){ _inputBuffer = buf;}  
+if(byteBuffer != null){ _inputBuffer = buf;}  
+if(buf>_inputBuffer){ _inputBuffer = buf;}  
+if(USE_INPUT){ _inputBuffer = buf;}  
+if(start>=0){ _inputBuffer = buf;}  
+if(buf!=this){ _inputBuffer = buf;}  
+if(start < 0){ _inputBuffer = buf;}  
+if(_inputBuffer == buf){ _inputBuffer = buf;}  
+if(buf!=undefined){ _inputBuffer = buf;}  
+if(byteBuffer == null){ _inputBuffer = buf;}  
+if(tc){ _inputBuffer = buf;}  
+if(binary){ _inputBuffer = buf;}  
+if(buf==NULL){ _inputBuffer = buf;}  
+if(this._endOfInput){ _inputBuffer = buf;}  
+if(merge){ _inputBuffer = buf;}  
+if(endOfInput){ _inputBuffer = buf;}  
+if(err != null){ _inputBuffer = buf;}  
+if(start<end){ _inputBuffer = buf;}  
+if(null!=buf){ _inputBuffer = buf;}  
+if(out==null){ _inputBuffer = buf;}  
+if(buf.length < end){ _inputBuffer = buf;}  
+if(_in == null){ _inputBuffer = buf;}  
+if(start>0){ _inputBuffer = buf;}  
+if(_haveInput){ _inputBuffer = buf;}  
+if(buf.length <= start){ _inputBuffer = buf;}  
+if(autoReset){ _inputBuffer = buf;}  
+if(end >= start){ _inputBuffer = buf;}  
+if(start==end){ _inputBuffer = buf;}  
+if(buf < _inputBuffer){ _inputBuffer = buf;}  
+if(addInput){ _inputBuffer = buf;}  
+if(isInputAllowed){ _inputBuffer = buf;}  
+if(end <= start){ _inputBuffer = buf;}  
+if(LOG.isDebugEnabled){ _inputBuffer = buf;}  
+if(in==null){ _inputBuffer = buf;}  
+if(buf instanceof Buffer){ _inputBuffer = buf;}  
+if(_requireInput){ _inputBuffer = buf;}  
+if(this.isClosed){ _inputBuffer = buf;}  
+if(end == -1){ _inputBuffer = buf;}  
+if(enableInput){ _inputBuffer = buf;}  
+if(makeInput){ _inputBuffer = buf;}  
+if(hasInputBuffer){ _inputBuffer = buf;}  
+if(LOG_INPUT){ _inputBuffer = buf;}  
+if(_bufferedInput){ _inputBuffer = buf;}  
+if(useBufferedInput){ _inputBuffer = buf;}  
+if( _inputPtr > 0){ _inputBuffer = buf;}  
+if(keepInput){ _inputBuffer = buf;}  
+if(_inputDone){ _inputBuffer = buf;}  
+if( buf == _inputBuffer){ _inputBuffer = buf;}  
+if(log.isDebugEnabled()){ _inputBuffer = buf;}  
+if(buf.length<start){ _inputBuffer = buf;}  

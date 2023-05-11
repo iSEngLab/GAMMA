@@ -1,0 +1,250 @@
+if(type!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(parent!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(this!=type){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(duration!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(field!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(this!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(value!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(null!=type){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(value == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(instance!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(total > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(date!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(size > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(manager!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(offset > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(array!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount >= 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(offset == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(this == type){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(currency!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(integer!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(parent == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(total == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(name!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(value == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(total!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(source!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(offset!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(period!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(string!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(element!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(other!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(time!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(object!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(config!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(offset < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(field == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(null!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(int > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(pattern!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(attribute!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(instance == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(child!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(inner!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(resource!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(data!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(address!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count > 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(add!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(format!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(s!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(other == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(value!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(class!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number >= 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(extra!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit == unit){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(percent > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(duration!= null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(base!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(year!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(add == true){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(worker!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if( amount > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(app!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(input!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(offset!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(notNullable){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(fields!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(record!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(tz!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(prefix!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(date == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(now!=now){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(inner == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(model!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(num > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all == true){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(clock!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all!=all){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(limit > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(offset >= 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(this!= null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length > 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(percent!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(label!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount!= 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(percent == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(end == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(size!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(size == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(time == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(root!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(null!= type){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(i!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all == false){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(current!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(current == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(attribute == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number!= null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(start!=end){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(t!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number > 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(message!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(partial == false){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(duration!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(index > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(max > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(builder!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(add == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(end!=end){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(value < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(self!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(options!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(short!=short){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(true!=false){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount>0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(s == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(this!=other){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count>0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(long!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(index < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(condition!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(point!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(more > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if( amount!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(end == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(index == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(percent!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(this!= type){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(info!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(id!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(default == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(day!=day){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(timeout > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(temp!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(monitor!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(expression!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(file!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(duration == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(from!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(seconds!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(language!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(i == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(it!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(c!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(part!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(obj!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit!=unit){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(notNulls){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(output!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(clock == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(int!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(index!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(size == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all!=true){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(address == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(image!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(month!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(seconds == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(null!=field){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(channel!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(addon!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(mon!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(handle!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(number < 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(unit > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(prefix == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(withMillis){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(total == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(text!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(seconds!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(amount!=1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(parent!=this){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(slice!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(pattern == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(all!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(value > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(Amount!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(e!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(start == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(true == type){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(url!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(Amount!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length!=1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(d!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(format == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count!=1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(length >= 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(true == false){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(i > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(integer > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(count!= 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(seconds > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(note!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(or!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(copy!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(delay > 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(util!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(add == false){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(day == day){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(add!=false){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(config == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(diff!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(percent < 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(element == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(manager == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(ms == 0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(component!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(now == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(percent == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(diff!=0){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(extra == null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(true == true){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(path!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(index!=null){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }
+if(percent == 1){ setMillis(type.getField(getChronology()).add(getMillis(), amount)); }

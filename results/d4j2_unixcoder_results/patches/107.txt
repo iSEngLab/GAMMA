@@ -1,0 +1,2000 @@
+return  null;  
+return  uri;  
+return  namespace;  
+return  namespaceURI;  
+return  null;;  
+return  "";;  
+return  String;  
+return null;  
+return  prefix;  
+return  false;  
+return  URI;  
+return  "";  
+return  xmlns;  
+return ;  
+return  uri;;  
+return uri;  
+return  String.class;  
+return  namespaceUri;  
+return  getNamespaceURI;  
+return  node.getNamespaceURI;  
+return  ns;  
+return  node;  
+return  true;  
+return  String uri;  
+return  string;  
+return  (String) node;  
+return URI;  
+return  element;  
+return  getPrefix;  
+return  qualifiedName;  
+return getNamespaceURI;  
+return namespaceURI;  
+return  localName;  
+return  node.getNamespaceURI();  
+return  function;  
+return "";  
+return  getPrefix(node);;  
+return  "xml";;  
+return  element.getNamespaceURI;  
+return   null;  
+return  namespace;;  
+return  "");;  
+return  XML;  
+return  namespacePrefix;  
+return  QName;  
+return  return null;  
+return  nodeName;  
+return  ();  
+return  "", null;  
+return  (String) null;  
+return  this;  
+return def;  
+return  Namespace;  
+return  ""; ;  
+return namespace;  
+return  getNamespace;  
+return  NULL;  
+return  false;;  
+return  "xmlns";;  
+return  def;  
+return  String namespaceURI;  
+return  namespaces;  
+return  qname;  
+return  url;  
+return  xml;  
+return  XMLNS;  
+return  tag;  
+return  getURI;  
+return  (String)node;  
+return  global;  
+return  namespace uri;  
+return  node.namespaceURI;  
+return  null;  
+return Uri;  
+return  undefined;  
+return  defaultNamespace;  
+return  function namespaceURI;  
+return  java.lang.String;  
+return  Uri;  
+return ;;  
+return  root;  
+return  0;  
+return  void;  
+return  empty;  
+return  String.valueOf(uri);;  
+return  name;  
+return  function uri;  
+return  element.getNamespaceURI();  
+return  this.namespaceURI;  
+return  local;  
+return  schema;  
+return  "/";  
+return  "", uri;  
+return  STRING;  
+return  space;  
+return  document;  
+return  prefixes;  
+return  super;  
+return  NS;  
+return  type;  
+return def uri;  
+return  super.getNamespaceURI;  
+return  NamespaceURI;  
+return  getPrefix(node);  
+return  "", "";  
+return  namespace URI;  
+return  null; ;  
+return  href;  
+return  String namespace;  
+return  super.getNamespaceURI(node);;  
+return  s;  
+return  function getPrefix;  
+return  value;  
+return  toString;  
+return  function getNamespaceURI;  
+return  "xmlns";  
+return  node.getNamespaceURI() || null;  
+return  xmlns;;  
+return  getElementNS;  
+return namespaceURI;  
+return  "urn:";  
+return  location;  
+return  prefix;;  
+return ns;  
+return  namespace;  
+return  String.valueOf(namespaceURI);;  
+return  this.getNamespaceURI;  
+return  "urn:" + uri;  
+return  EMPTY;  
+return  URL;  
+return  node.getNodeName();  
+return xmlns;  
+return  n;  
+return  (String)null;  
+return  XML namespace;  
+return  "html";;  
+return  doc;  
+return  this.uri;  
+return  impl;  
+return  node.getNamespaceURI() == null;  
+return  xpath;  
+return   namespace;  
+return  Element.getNamespaceURI;  
+return String uri;  
+return  new String;  
+return  "" + uri;  
+return  '';;  
+return baseURI;  
+return  node.getNamespaceURI();;  
+return  nil;  
+return  baseURI;  
+return  namespaceURI;;  
+return  getNamespaceURI();;  
+return  html;  
+return  nsURI;  
+return  document.getNamespaceURI;  
+return  defaultNS;  
+return  nodeType;  
+return  parent;  
+return def namespaceURI;  
+return localName;  
+return  defaultURI;  
+return  o;  
+return false;  
+return  NAMESPACE;  
+return xml;  
+return  namespaceuri;  
+return  elem;  
+return  string uri;  
+return  ns;;  
+return  ":";  
+return  NS_URI;  
+return  localNamespace;  
+return  doc.getNamespaceURI;  
+return  Element;  
+return  (String) node.getNamespaceURI;  
+return NamespaceURI;  
+return  super.getNamespaceURI();  
+return  func;  
+return  self;  
+return  "http://";  
+return  String[];  
+return  getElementNamespace;  
+return  "xml";  
+return node;  
+return  XML_NS;  
+return  class;  
+return   namespaceURI;  
+return  String.valueOf;  
+return  handler;  
+return  getNameSpace;  
+return  true;;  
+return  path;  
+return  (String) element;  
+return  getLocalNamespace;  
+return  DOCUMENT_URI;  
+return  "urn";;  
+return  String.valueOf(namespaceURI);;  
+return  super.getNamespaceURI(node);  
+return  node.getLocalName();  
+return  "http://example.com";;  
+return  getAttributeNS;  
+return  Element.getNamespaceURI();  
+return  String.valueOf(namespace);;  
+return  namespace_uri;  
+return  getPrefix(node) {;  
+return  "xmlns:" + prefix;  
+return getNamespaceURI();;  
+return  myNamespace;  
+return  prefix + uri;  
+return  defaultNamespaceURI;  
+return  this.namespace;  
+return  DEFAULT_NAMESPACE;  
+return  getElementNamespaceURI;  
+return  {@code null;  
+return def getNamespaceURI;  
+return  uri; ;  
+return  (String) element.getNamespaceURI;  
+return  element.namespaceURI;  
+return getURI;  
+return  static String getNamespaceURI;  
+return  function namespace;  
+return  Node.getNamespaceURI;  
+return  node.getPrefix;  
+return  {uri;  
+return  STYLE;  
+return  String.valueOf(prefix);;  
+return getNamespaceURI(node);;  
+return  getPrefix(element);;  
+return  "xmlns:";  
+return  super.getNamespaceURI();;  
+return  element.getNamespaceURI() || null;  
+return  DEFAULT_NS;  
+return  node.getNodeName;  
+return  "//" + uri;  
+return node.getNamespaceURI;  
+return  "xmlns:" + uri;  
+return  node.getNamespaceURI() != null;  
+return  getElementURI;  
+return  "http";;  
+return  m_namespaceURI;  
+return  NamespaceHelper;  
+return  getClassURI;  
+return  StringUtils.EMPTY;  
+return  node.getLocalName;  
+return  DOM.getNamespaceURI;  
+return  "urn:" + prefix;  
+return  "html";  
+return  String::ascii;  
+return  String.valueOf(uri;  
+return  null;  
+return  uri;  
+return  namespace;  
+return  namespaceURI;  
+return  null;;  
+return  "";;  
+return  String;  
+return null;  
+return  prefix;  
+return  false;  
+return  URI;  
+return  "";  
+return  xmlns;  
+return ;  
+return  uri;;  
+return uri;  
+return  String.class;  
+return  namespaceUri;  
+return  getNamespaceURI;  
+return  node.getNamespaceURI;  
+return  ns;  
+return  node;  
+return  true;  
+return  String uri;  
+return  string;  
+return  (String) node;  
+return URI;  
+return  element;  
+return  getPrefix;  
+return  qualifiedName;  
+return getNamespaceURI;  
+return namespaceURI;  
+return  localName;  
+return  node.getNamespaceURI();  
+return  function;  
+return "";  
+return  getPrefix(node);;  
+return  "xml";;  
+return  element.getNamespaceURI;  
+return   null;  
+return  namespace;;  
+return  "");;  
+return  XML;  
+return  namespacePrefix;  
+return  QName;  
+return  return null;  
+return  nodeName;  
+return  ();  
+return  "", null;  
+return  (String) null;  
+return  this;  
+return def;  
+return  Namespace;  
+return  ""; ;  
+return namespace;  
+return  getNamespace;  
+return  NULL;  
+return  false;;  
+return  "xmlns";;  
+return  def;  
+return  String namespaceURI;  
+return  namespaces;  
+return  qname;  
+return  url;  
+return  xml;  
+return  XMLNS;  
+return  tag;  
+return  getURI;  
+return  (String)node;  
+return  global;  
+return  namespace uri;  
+return  node.namespaceURI;  
+return  null;  
+return Uri;  
+return  undefined;  
+return  defaultNamespace;  
+return  function namespaceURI;  
+return  java.lang.String;  
+return  Uri;  
+return ;;  
+return  root;  
+return  0;  
+return  void;  
+return  empty;  
+return  String.valueOf(uri);;  
+return  name;  
+return  function uri;  
+return  element.getNamespaceURI();  
+return  this.namespaceURI;  
+return  local;  
+return  schema;  
+return  "/";  
+return  "", uri;  
+return  STRING;  
+return  space;  
+return  document;  
+return  prefixes;  
+return  super;  
+return  NS;  
+return  type;  
+return def uri;  
+return  super.getNamespaceURI;  
+return  NamespaceURI;  
+return  getPrefix(node);  
+return  "", "";  
+return  namespace URI;  
+return  null; ;  
+return  href;  
+return  String namespace;  
+return  super.getNamespaceURI(node);;  
+return  s;  
+return  function getPrefix;  
+return  value;  
+return  toString;  
+return  function getNamespaceURI;  
+return  "xmlns";  
+return  node.getNamespaceURI() || null;  
+return  xmlns;;  
+return  getElementNS;  
+return namespaceURI;  
+return  "urn:";  
+return  location;  
+return  prefix;;  
+return ns;  
+return  namespace;  
+return  String.valueOf(namespaceURI);;  
+return  this.getNamespaceURI;  
+return  "urn:" + uri;  
+return  EMPTY;  
+return  URL;  
+return  node.getNodeName();  
+return xmlns;  
+return  n;  
+return  (String)null;  
+return  XML namespace;  
+return  "html";;  
+return  doc;  
+return  this.uri;  
+return  impl;  
+return  node.getNamespaceURI() == null;  
+return  xpath;  
+return   namespace;  
+return  Element.getNamespaceURI;  
+return String uri;  
+return  new String;  
+return  "" + uri;  
+return  '';;  
+return baseURI;  
+return  node.getNamespaceURI();;  
+return  nil;  
+return  baseURI;  
+return  namespaceURI;;  
+return  getNamespaceURI();;  
+return  html;  
+return  nsURI;  
+return  document.getNamespaceURI;  
+return  defaultNS;  
+return  nodeType;  
+return  parent;  
+return def namespaceURI;  
+return localName;  
+return  defaultURI;  
+return  o;  
+return false;  
+return  NAMESPACE;  
+return xml;  
+return  namespaceuri;  
+return  elem;  
+return  string uri;  
+return  ns;;  
+return  ":";  
+return  NS_URI;  
+return  localNamespace;  
+return  doc.getNamespaceURI;  
+return  Element;  
+return  (String) node.getNamespaceURI;  
+return NamespaceURI;  
+return  super.getNamespaceURI();  
+return  func;  
+return  self;  
+return  "http://";  
+return  String[];  
+return  getElementNamespace;  
+return  "xml";  
+return node;  
+return  XML_NS;  
+return  class;  
+return   namespaceURI;  
+return  String.valueOf;  
+return  handler;  
+return  getNameSpace;  
+return  true;;  
+return  path;  
+return  (String) element;  
+return  getLocalNamespace;  
+return  DOCUMENT_URI;  
+return  "urn";;  
+return  String.valueOf(namespaceURI);;  
+return  super.getNamespaceURI(node);  
+return  node.getLocalName();  
+return  "http://example.com";;  
+return  getAttributeNS;  
+return  Element.getNamespaceURI();  
+return  String.valueOf(namespace);;  
+return  namespace_uri;  
+return  getPrefix(node) {;  
+return  "xmlns:" + prefix;  
+return getNamespaceURI();;  
+return  myNamespace;  
+return  prefix + uri;  
+return  defaultNamespaceURI;  
+return  this.namespace;  
+return  DEFAULT_NAMESPACE;  
+return  getElementNamespaceURI;  
+return  {@code null;  
+return def getNamespaceURI;  
+return  uri; ;  
+return  (String) element.getNamespaceURI;  
+return  element.namespaceURI;  
+return getURI;  
+return  static String getNamespaceURI;  
+return  function namespace;  
+return  Node.getNamespaceURI;  
+return  node.getPrefix;  
+return  {uri;  
+return  STYLE;  
+return  String.valueOf(prefix);;  
+return getNamespaceURI(node);;  
+return  getPrefix(element);;  
+return  "xmlns:";  
+return  super.getNamespaceURI();;  
+return  element.getNamespaceURI() || null;  
+return  DEFAULT_NS;  
+return  node.getNodeName;  
+return  "//" + uri;  
+return node.getNamespaceURI;  
+return  "xmlns:" + uri;  
+return  node.getNamespaceURI() != null;  
+return  getElementURI;  
+return  "http";;  
+return  m_namespaceURI;  
+return  NamespaceHelper;  
+return  getClassURI;  
+return  StringUtils.EMPTY;  
+return  node.getLocalName;  
+return  DOM.getNamespaceURI;  
+return  "urn:" + prefix;  
+return  "html";  
+return  String::ascii;  
+return  String.valueOf(uri;  
+return  null;  
+return  uri;  
+return  namespace;  
+return  namespaceURI;  
+return  null;;  
+return  "";;  
+return  String;  
+return null;  
+return  prefix;  
+return  false;  
+return  URI;  
+return  "";  
+return  xmlns;  
+return ;  
+return  uri;;  
+return uri;  
+return  String.class;  
+return  namespaceUri;  
+return  getNamespaceURI;  
+return  node.getNamespaceURI;  
+return  ns;  
+return  node;  
+return  true;  
+return  String uri;  
+return  string;  
+return  (String) node;  
+return URI;  
+return  element;  
+return  getPrefix;  
+return  qualifiedName;  
+return getNamespaceURI;  
+return namespaceURI;  
+return  localName;  
+return  node.getNamespaceURI();  
+return  function;  
+return "";  
+return  getPrefix(node);;  
+return  "xml";;  
+return  element.getNamespaceURI;  
+return   null;  
+return  namespace;;  
+return  "");;  
+return  XML;  
+return  namespacePrefix;  
+return  QName;  
+return  return null;  
+return  nodeName;  
+return  ();  
+return  "", null;  
+return  (String) null;  
+return  this;  
+return def;  
+return  Namespace;  
+return  ""; ;  
+return namespace;  
+return  getNamespace;  
+return  NULL;  
+return  false;;  
+return  "xmlns";;  
+return  def;  
+return  String namespaceURI;  
+return  namespaces;  
+return  qname;  
+return  url;  
+return  xml;  
+return  XMLNS;  
+return  tag;  
+return  getURI;  
+return  (String)node;  
+return  global;  
+return  namespace uri;  
+return  node.namespaceURI;  
+return  null;  
+return Uri;  
+return  undefined;  
+return  defaultNamespace;  
+return  function namespaceURI;  
+return  java.lang.String;  
+return  Uri;  
+return ;;  
+return  root;  
+return  0;  
+return  void;  
+return  empty;  
+return  String.valueOf(uri);;  
+return  name;  
+return  function uri;  
+return  element.getNamespaceURI();  
+return  this.namespaceURI;  
+return  local;  
+return  schema;  
+return  "/";  
+return  "", uri;  
+return  STRING;  
+return  space;  
+return  document;  
+return  prefixes;  
+return  super;  
+return  NS;  
+return  type;  
+return def uri;  
+return  super.getNamespaceURI;  
+return  NamespaceURI;  
+return  getPrefix(node);  
+return  "", "";  
+return  namespace URI;  
+return  null; ;  
+return  href;  
+return  String namespace;  
+return  super.getNamespaceURI(node);;  
+return  s;  
+return  function getPrefix;  
+return  value;  
+return  toString;  
+return  function getNamespaceURI;  
+return  "xmlns";  
+return  node.getNamespaceURI() || null;  
+return  xmlns;;  
+return  getElementNS;  
+return namespaceURI;  
+return  "urn:";  
+return  location;  
+return  prefix;;  
+return ns;  
+return  namespace;  
+return  String.valueOf(namespaceURI);;  
+return  this.getNamespaceURI;  
+return  "urn:" + uri;  
+return  EMPTY;  
+return  URL;  
+return  node.getNodeName();  
+return xmlns;  
+return  n;  
+return  (String)null;  
+return  XML namespace;  
+return  "html";;  
+return  doc;  
+return  this.uri;  
+return  impl;  
+return  node.getNamespaceURI() == null;  
+return  xpath;  
+return   namespace;  
+return  Element.getNamespaceURI;  
+return String uri;  
+return  new String;  
+return  "" + uri;  
+return  '';;  
+return baseURI;  
+return  node.getNamespaceURI();;  
+return  nil;  
+return  baseURI;  
+return  namespaceURI;;  
+return  getNamespaceURI();;  
+return  html;  
+return  nsURI;  
+return  document.getNamespaceURI;  
+return  defaultNS;  
+return  nodeType;  
+return  parent;  
+return def namespaceURI;  
+return localName;  
+return  defaultURI;  
+return  o;  
+return false;  
+return  NAMESPACE;  
+return xml;  
+return  namespaceuri;  
+return  elem;  
+return  string uri;  
+return  ns;;  
+return  ":";  
+return  NS_URI;  
+return  localNamespace;  
+return  doc.getNamespaceURI;  
+return  Element;  
+return  (String) node.getNamespaceURI;  
+return NamespaceURI;  
+return  super.getNamespaceURI();  
+return  func;  
+return  self;  
+return  "http://";  
+return  String[];  
+return  getElementNamespace;  
+return  "xml";  
+return node;  
+return  XML_NS;  
+return  class;  
+return   namespaceURI;  
+return  String.valueOf;  
+return  handler;  
+return  getNameSpace;  
+return  true;;  
+return  path;  
+return  (String) element;  
+return  getLocalNamespace;  
+return  DOCUMENT_URI;  
+return  "urn";;  
+return  String.valueOf(namespaceURI);;  
+return  super.getNamespaceURI(node);  
+return  node.getLocalName();  
+return  "http://example.com";;  
+return  getAttributeNS;  
+return  Element.getNamespaceURI();  
+return  String.valueOf(namespace);;  
+return  namespace_uri;  
+return  getPrefix(node) {;  
+return  "xmlns:" + prefix;  
+return getNamespaceURI();;  
+return  myNamespace;  
+return  prefix + uri;  
+return  defaultNamespaceURI;  
+return  this.namespace;  
+return  DEFAULT_NAMESPACE;  
+return  getElementNamespaceURI;  
+return  {@code null;  
+return def getNamespaceURI;  
+return  uri; ;  
+return  (String) element.getNamespaceURI;  
+return  element.namespaceURI;  
+return getURI;  
+return  static String getNamespaceURI;  
+return  function namespace;  
+return  Node.getNamespaceURI;  
+return  node.getPrefix;  
+return  {uri;  
+return  STYLE;  
+return  String.valueOf(prefix);;  
+return getNamespaceURI(node);;  
+return  getPrefix(element);;  
+return  "xmlns:";  
+return  super.getNamespaceURI();;  
+return  element.getNamespaceURI() || null;  
+return  DEFAULT_NS;  
+return  node.getNodeName;  
+return  "//" + uri;  
+return node.getNamespaceURI;  
+return  "xmlns:" + uri;  
+return  node.getNamespaceURI() != null;  
+return  getElementURI;  
+return  "http";;  
+return  m_namespaceURI;  
+return  NamespaceHelper;  
+return  getClassURI;  
+return  StringUtils.EMPTY;  
+return  node.getLocalName;  
+return  DOM.getNamespaceURI;  
+return  "urn:" + prefix;  
+return  "html";  
+return  String::ascii;  
+return  String.valueOf(uri;  
+if(uri==null){return  null;} return uri;  
+if(uri==null){return  null;;} return uri;  
+if(uri==null){return  "";;} return uri;  
+if(uri==null){return  "";} return uri;  
+if(uri==null){return  "xmlns";;} return uri;  
+if(uri==null){return  "xml";;} return uri;  
+if(uri==null){return  uri;} return uri;  
+if(uri==null){return  "urn:";} return uri;  
+if(uri==null){return  prefix;} return uri;  
+if(uri==null){return  null; ;} return uri;  
+if(uri==null){return null;} return uri;  
+if(uri==null){return  "urn";;} return uri;  
+if(uri==null){return  "xmlns";} return uri;  
+if(uri==null){return  defaultNamespace;} return uri;  
+if(uri==null){return  namespace;} return uri;  
+if(uri==null){return  false;} return uri;  
+if(uri==null){return "";;} return uri;  
+if(uri==null){return  NULL;} return uri;  
+if(uri==null){return  "/";} return uri;  
+if(uri==null){return  ns;} return uri;  
+if(uri==null){return  false;;} return uri;  
+if(uri==null){return  "default";;} return uri;  
+if(uri==null){return  uri;;} return uri;  
+if(uri==null){return  "html";;} return uri;  
+if(uri==null){return  "/";;} return uri;  
+if(uri==null){return  null;};} return uri;  
+if(uri==null){return  "xmlns:";} return uri;  
+if(uri==null){return  "http";;} return uri;  
+if(uri==null){return  "http://";} return uri;  
+if(uri==null){return  "";};} return uri;  
+if(uri==null){return  defaultNS;} return uri;  
+if(uri==null){return  prefix;;} return uri;  
+if(uri==null){return  "//";;} return uri;  
+if(uri==null){return  defaultURI;} return uri;  
+if(uri==null){return  "");;} return uri;  
+if(uri==null){return  "http://";;} return uri;  
+if(uri==null){return ;;} return uri;  
+if(uri==null){return  "xmlns;} return uri;  
+if(uri==null){return  '';;} return uri;  
+if(uri==null){return  defaultPrefix;} return uri;  
+if(uri==null){return  "*";;} return uri;  
+if(uri==null){return  null; };} return uri;  
+if(uri==null){return  xmlns;} return uri;  
+if(uri==null){return  "<unknown>";;} return uri;  
+if(uri==null){return null;;} return uri;  
+if(uri==null){return  DEFAULT_NS;} return uri;  
+if(uri==null){return  null ;;} return uri;  
+if(uri==null){return  DEFAULT_NAMESPACE;} return uri;  
+if(uri==null){return  EMPTY;} return uri;  
+if(uri==null){return  "urn;} return uri;  
+if(uri==null){return  "unknown";;} return uri;  
+if(uri==null){return  "urn:";;} return uri;  
+if(uri==null){return  defaultUri;} return uri;  
+if(uri==null){return  "http;} return uri;  
+if(uri==null){return  "CDATA";;} return uri;  
+if(uri==null){return  "http://"};;} return uri;  
+if(uri==null){return  ""; ;} return uri;  
+if(uri==null){return  StringUtils.EMPTY;} return uri;  
+if(uri==null){return  "default";} return uri;  
+if(uri==null){return  node.getNamespaceURI;} return uri;  
+if(uri==null){return  "null";;} return uri;  
+if(uri==null){return  XML;} return uri;  
+if(uri==null){return  "en";;} return uri;  
+if(uri==null){return  "/xml";;} return uri;  
+if(uri==null){return  ns;;} return uri;  
+if(uri==null){return  "http";} return uri;  
+if(uri==null){return  "xhtml";;} return uri;  
+if(uri==null){return  node;} return uri;  
+if(uri==null){return  ""; };} return uri;  
+if(uri==null){return  DEFAULT_URI;} return uri;  
+if(uri==null){return  "urn";} return uri;  
+if(uri==null){return  namespace;;} return uri;  
+if(uri==null){return  namespaceURI;} return uri;  
+if(uri==null){return  true;} return uri;  
+if(uri==null){return  "?";;} return uri;  
+if(uri==null){return "";} return uri;  
+if(uri==null){return  DEFAULT;} return uri;  
+if(uri==null){return  "xmlns:";;} return uri;  
+if(uri==null){return  xml;} return uri;  
+if(uri==null){return  "xml";} return uri;  
+if(uri==null){return  location;} return uri;  
+if(uri==null){return  "root";;} return uri;  
+if(uri==null){return  XMLNS;} return uri;  
+if(uri==null){return  url;} return uri;  
+if(uri==null){return  localName;} return uri;  
+if(uri==null){return  defaultNamespaceURI;} return uri;  
+if(uri==null){return  "http://;} return uri;  
+if(uri==null){return  null; ;} return uri;  
+if(uri==null){return  URI;} return uri;  
+if(uri==null){return  "/";;} return uri;  
+if(uri==null){return  true;;} return uri;  
+if(uri==null){return  "javascript";;} return uri;  
+if(uri==null){return  "+";;} return uri;  
+if(uri==null){return  undefined;} return uri;  
+if(uri==null){return  "#";} return uri;  
+if(uri==null){return  "http:";} return uri;  
+if(uri==null){return  EMPTY_STRING;} return uri;  
+if(uri==null){return  "<";} return uri;  
+if(uri==null){return  "#";;} return uri;  
+if(uri==null){return  "<html>";;} return uri;  
+if(uri==null){return  "www";;} return uri;  
+if(uri==null){return  "http:";;} return uri;  
+if(uri==null){return ;} return uri;  
+if(uri==null){return  ".";;} return uri;  
+if(uri==null){return  ""};;} return uri;  
+if(uri==null){return  href;} return uri;  
+if(uri==null){return  namespacePrefix;} return uri;  
+if(uri==null){return  local;} return uri;  
+if(uri==null){return  null; };} return uri;  
+if(uri==null){return  "unknown";} return uri;  
+if(uri==null){return  "//";} return uri;  
+if(uri==null){return  ""},;} return uri;  
+if(uri==null){return  "<null>";;} return uri;  
+if(uri==null){return  String.class;} return uri;  
+if(uri==null){return  global;} return uri;  
+if(uri==null){return  ""};} return uri;  
+if(uri==null){return  ";;} return uri;  
+if(uri==null){return  XSD;} return uri;  
+if(uri==null){return  element.getNamespaceURI;} return uri;  
+if(uri==null){return  ":";} return uri;  
+if(uri==null){return  Null;} return uri;  
+if(uri==null){return  prefixes;} return uri;  
+if(uri==null){return  defaultNamespace;;} return uri;  
+if(uri==null){return  empty;} return uri;  
+if(uri==null){return  DefaultNamespace;} return uri;  
+if(uri==null){return  "/unknown";;} return uri;  
+if(uri==null){return  "http://"};} return uri;  
+if(uri==null){return  "<xml>";;} return uri;  
+if(uri==null){return  name;} return uri;  
+if(uri==null){return  default;} return uri;  
+if(uri==null){return  "<root>";;} return uri;  
+if(uri==null){return  SYSTEM;} return uri;  
+if(uri==null){return  '/';;} return uri;  
+if(uri==null){return  NULL;;} return uri;  
+if(uri==null){return  namespaceUri;} return uri;  
+if(uri==null){return  "foo";;} return uri;  
+if(uri==null){return  "", "";} return uri;  
+if(uri==null){return  "null";} return uri;  
+if(uri==null){return  QNAME;} return uri;  
+if(uri==null){return  null;};} return uri;  
+if(uri==null){return  ".";} return uri;  
+if(uri==null){return  "html";} return uri;  
+if(uri==null){return  "unknown;} return uri;  
+if(uri==null){return  "us";;} return uri;  
+if(uri==null){return  doc;} return uri;  
+if(uri==null){return  nsPrefix;} return uri;  
+if(uri==null){return  "/default";;} return uri;  
+if(uri==null){return  ";} return uri;  
+if(uri==null){return  defaultValue;} return uri;  
+if(uri==null){return  "xmpp";;} return uri;  
+if(uri==null){return  String;} return uri;  
+if(uri==null){return  document;} return uri;  
+if(uri==null){return  root;} return uri;  
+if(uri==null){return  def;} return uri;  
+if(uri==null){return  "{}";;} return uri;  
+if(uri==null){return  "&";;} return uri;  
+if(uri==null){return  0;} return uri;  
+if(uri==null){return  "ns1";;} return uri;  
+if(uri==null){return  "./";;} return uri;  
+if(uri==null){return  null;  ;} return uri;  
+if(uri==null){return  super.getNamespaceURI;} return uri;  
+if(uri==null){return  XML_NS;} return uri;  
+if(uri==null){return  NO_URI;} return uri;  
+if(uri==null){return  'xmlns';} return uri;  
+if(uri==null){return  "None";;} return uri;  
+if(uri==null){return  "&amp;";;} return uri;  
+if(uri==null){return  src;} return uri;  
+if(uri==null){return  "urn:";;} return uri;  
+if(uri==null){return  "Unknown";;} return uri;  
+if(uri==null){return  ";";;} return uri;  
+if(uri==null){return ("");;} return uri;  
+if(uri==null){return  'xmlns';;} return uri;  
+if(uri==null){return  nodeName;} return uri;  
+if(uri==null){return  "xlink";;} return uri;  
+if(uri==null){return  "xmpp:";} return uri;  
+if(uri==null){return  XSLT;} return uri;  
+if(uri==null){return  UNKNOWN;} return uri;  
+if(uri==null){return  defaults;} return uri;  
+if(uri==null){return  element;} return uri;  
+if(uri==null){return  '#';;} return uri;  
+if(uri==null){return  qualifiedName;} return uri;  
+if(uri==null){return  -1;} return uri;  
+if(uri==null){return  "root";} return uri;  
+if(uri==null){return  "/;} return uri;  
+if(uri==null){return  NS;} return uri;  
+if(uri==null){return  System.identity;} return uri;  
+if(uri==null){return  Namespace;} return uri;  
+if(uri==null){return  "http";};} return uri;  
+if(uri==null){return  Undefined;} return uri;  
+if(uri==null){return  qname;} return uri;  
+if(uri==null){return  defaultNamespaceUri;} return uri;  
+if(uri==null){return  xmlns;;} return uri;  
+if(uri==null){return  "xmlns/";;} return uri;  
+if(uri==null){return  """;} return uri;  
+if(uri==null){return  "&nbsp;";;} return uri;  
+if(uri==null){return  null;} return uri;  
+if(uri==null){return  "global";;} return uri;  
+if(uri==null){return  "<default>";;} return uri;  
+if(uri==null){return  doc.getNamespaceURI;} return uri;  
+if(uri==null){return  "/"};;} return uri;  
+if(uri==null){return  localNamespace;} return uri;  
+if(uri==null){return  "xlink:";} return uri;  
+if(uri==null){return  defaultPrefix;;} return uri;  
+if(uri==null){return  "none";;} return uri;  
+if(uri==null){return  UNDEFINED;} return uri;  
+if(uri==null){return  "#default";;} return uri;  
+if(uri==null){return  "http:"};;} return uri;  
+if(uri==null){return  "xml;} return uri;  
+if(uri==null){return  "xmlns"; ;} return uri;  
+if(uri==null){return  "undefined";;} return uri;  
+if(uri==null){return  NULL_URI;} return uri;  
+if(uri==null){return  document.baseURI;} return uri;  
+if(uri==null){return  "<";;} return uri;  
+if(uri==null){return  "XML";;} return uri;  
+if(uri==null){return  "(unknown)";;} return uri;  
+if(uri==null){return  getLocalNamespace;} return uri;  
+if(uri==null){return  NAMESPACE;} return uri;  
+if(uri==null){return  defaultURI;;} return uri;  
+if(uri==null){return  "xmlns":null;} return uri;  
+if(uri==null){return  "xmlns";};} return uri;  
+if(uri==null){return  doc.baseURI;} return uri;  
+if(uri==null){return  DEFAULT_PREFIX;} return uri;  
+if(uri==null){return  defaultNS;;} return uri;  
+if(uri==null){return  DOCUMENT_URI;} return uri;  
+if(uri==null){return  "xml";};} return uri;  
+if(uri==null){return  "urn:;} return uri;  
+if(uri==null){return  node.getPrefix();;} return uri;  
+if(uri==null){return  "CDATA:";;} return uri;  
+if(uri==null){return  "http:";;} return uri;  
+if(uri==null){return  "data";;} return uri;  
+if(uri==null){return  "javascript:";} return uri;  
+if(uri==null){return  NS_URI;} return uri;  
+if(uri==null){return  "CDATA";} return uri;  
+if(uri==null){return  "unspecified";;} return uri;  
+if(uri==null){return  "[default]";;} return uri;  
+if(uri==null){return  "xsi";;} return uri;  
+if(uri==null){return  (String) node;} return uri;  
+if(uri==null){return  Constants.XMLNS;} return uri;  
+if(uri==null){return  xsi:nil;} return uri;  
+if(uri==null){return  document.getNamespaceURI;} return uri;  
+if(uri==null){return  "http://www;} return uri;  
+if(uri==null){return  (String) null;} return uri;  
+if(uri==null){return  (String)node;} return uri;  
+if(uri==null){return  (String)null;} return uri;  
+if(uri==null){return  "http://localhost;} return uri;  
+if(uri==null){return  "UTF-8;} return uri;  
+if(uri==null){return  StringUtils.defaultString;} return uri;  
+if(uri==null){return  "urn:"+node;} return uri;  
+if(uri==null){return  null; else;} return uri;  
+if(uri==null){return  "urn:uuid;} return uri;  
+if(uri==null){ uri=null; } return uri;  
+if(uri==null){ uri=""; } return uri;  
+if(uri==null){ uri=prefix; } return uri;  
+if(uri==null){ uri= ""; }; } return uri;  
+if(uri==null){ uri=namespace; } return uri;  
+if(uri==null){ uri=defaultNamespace; } return uri;  
+if(uri==null){ uri=getURI; } return uri;  
+if(uri==null){ uri= "";; } return uri;  
+if(uri==null){ uri=defaultNS; } return uri;  
+if(uri==null){ uri=defaultURI; } return uri;  
+if(uri==null){ uri= "urn:"; } return uri;  
+if(uri==null){ uri= "http://"; } return uri;  
+if(uri==null){ uri= ""; return uri; } return uri;  
+if(uri==null){ uri=DEFAULT_NS; } return uri;  
+if(uri==null){ uri=node.getNamespaceURI; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/1999/xhtml"; } return uri;  
+if(uri==null){ uri=ns; } return uri;  
+if(uri==null){ uri=xml; } return uri;  
+if(uri==null){ uri=XMLNS; } return uri;  
+if(uri==null){ uri=DEFAULT_NAMESPACE; } return uri;  
+if(uri==null){ uri= ""; } return uri;  
+if(uri==null){ uri= null; } return uri;  
+if(uri==null){ uri=Prefix; } return uri;  
+if(uri==null){ uri= prefix; } return uri;  
+if(uri==null){ uri=xmlns; } return uri;  
+if(uri==null){ uri=getNamespaceURI; } return uri;  
+if(uri==null){ uri=namespaceURI; } return uri;  
+if(uri==null){ uri= "xmlns:"; } return uri;  
+if(uri==null){ uri=http; } return uri;  
+if(uri==null){ uri=element.getNamespaceURI; } return uri;  
+if(uri==null){ uri=defaultPrefix; } return uri;  
+if(uri==null){ uri=defaultUri; } return uri;  
+if(uri==null){ uri=null; }; } return uri;  
+if(uri==null){ uri= "xmlns"; } return uri;  
+if(uri==null){ uri=DEFAULT_URI; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns"; } return uri;  
+if(uri==null){ uri=XML; } return uri;  
+if(uri==null){ uri=defaultNamespaceURI; } return uri;  
+if(uri==null){ uri=localName; } return uri;  
+if(uri==null){ uri=XML_NS; } return uri;  
+if(uri==null){ uri=baseURI; } return uri;  
+if(uri==null){ uri= "xmlns"; }; } return uri;  
+if(uri==null){ uri=http://www.w3.org/1999/xhtml; } return uri;  
+if(uri==null){ uri=NULL; } return uri;  
+if(uri==null){ uri=URI; } return uri;  
+if(uri==null){ uri=DEFAULT; } return uri;  
+if(uri==null){ uri=uri; } return uri;  
+if(uri==null){ uri=Constants.XMLNS; } return uri;  
+if(uri==null){ uri=name; } return uri;  
+if(uri==null){ uri=local; } return uri;  
+if(uri==null){ uri= "http"; } return uri;  
+if(uri==null){ uri=getPrefix; } return uri;  
+if(uri==null){ uri=getDefaultURI; } return uri;  
+if(uri==null){ uri=env; } return uri;  
+if(uri==null){ uri=namespacePrefix; } return uri;  
+if(uri==null){ uri= "/"; } return uri;  
+if(uri==null){ uri=getPrefix(node); }; } return uri;  
+if(uri==null){ uri= defaultNamespace; } return uri;  
+if(uri==null){ uri=uriPrefix; } return uri;  
+if(uri==null){ uri= "http:"; } return uri;  
+if(uri==null){ uri=getNamespace; } return uri;  
+if(uri==null){ uri=DefaultNamespace; } return uri;  
+if(uri==null){ uri=getDefaultNamespaceURI; } return uri;  
+if(uri==null){ uri=getDefaultNamespace; } return uri;  
+if(uri==null){ uri=DefaultNS; } return uri;  
+if(uri==null){ uri=PREFIX; } return uri;  
+if(uri==null){ uri= "";}; } return uri;  
+if(uri==null){ uri=getURI(); }; } return uri;  
+if(uri==null){ uri=namespaceURI; } return uri;  
+if(uri==null){ uri=DEFAULT_NS_URI; } return uri;  
+if(uri==null){ uri=document.getNamespaceURI; } return uri;  
+if(uri==null){ uri=http://www.w3.org/2000/xmlns; } return uri;  
+if(uri==null){ uri=xmlNS; } return uri;  
+if(uri==null){ uri=node; } return uri;  
+if(uri==null){ uri=u; } return uri;  
+if(uri==null){ uri=Constants; } return uri;  
+if(uri==null){ uri= "//"; } return uri;  
+if(uri==null){ uri= ""; return null; } return uri;  
+if(uri==null){ uri=getPrefix; } return uri;  
+if(uri==null){ uri=getPrefix(node); return uri; } return uri;  
+if(uri==null){ uri=""; }; } return uri;  
+if(uri==null){ uri=urn; } return uri;  
+if(uri==null){ uri=StringUtils.EMPTY; } return uri;  
+if(uri==null){ uri=NS; } return uri;  
+if(uri==null){ uri=n; } return uri;  
+if(uri==null){ uri= defaultURI; } return uri;  
+if(uri==null){ uri=baseURI; } return uri;  
+if(uri==null){ uri=":"; } return uri;  
+if(uri==null){ uri=protocol; } return uri;  
+if(uri==null){ uri=namespaces; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns/"; } return uri;  
+if(uri==null){ uri=xmlNamespace; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns; } return uri;  
+if(uri==null){ uri=false; } return uri;  
+if(uri==null){ uri=html; } return uri;  
+if(uri==null){ uri= "http://example.com"; } return uri;  
+if(uri==null){ uri=true; } return uri;  
+if(uri==null){ uri= namespace; } return uri;  
+if(uri==null){ uri=XML_NAMESPACE; } return uri;  
+if(uri==null){ uri=null; return null; } return uri;  
+if(uri==null){ uri= "xml"; } return uri;  
+if(uri==null){ uri="";; } return uri;  
+if(uri==null){ uri=getElementNS; } return uri;  
+if(uri==null){ uri=getUri; } return uri;  
+if(uri==null){ uri=localNamespace; } return uri;  
+if(uri==null){ uri=BASE; } return uri;  
+if(uri==null){ uri=Constants.NS; } return uri;  
+if(uri==null){ uri= "http://www."; } return uri;  
+if(uri==null){ uri=NSPrefix; } return uri;  
+if(uri==null){ uri=getURI(node); }; } return uri;  
+if(uri==null){ uri=o; } return uri;  
+if(uri==null){ uri=nsPrefix; } return uri;  
+if(uri==null){ uri=baseUri; } return uri;  
+if(uri==null){ uri=doc.getNamespaceURI; } return uri;  
+if(uri==null){ uri=Constants.URI; } return uri;  
+if(uri==null){ uri=element; } return uri;  
+if(uri==null){ uri=url; } return uri;  
+if(uri==null){ uri=value; } return uri;  
+if(uri==null){ uri=localPrefix; } return uri;  
+if(uri==null){ uri=Constants.DEFAULT_NS; } return uri;  
+if(uri==null){ uri=getURI(); } return uri;  
+if(uri==null){ uri=getPrefix(node); }; } return uri;  
+if(uri==null){ uri=BASE_URI; } return uri;  
+if(uri==null){ uri=encoding; } return uri;  
+if(uri==null){ uri=nodeName; } return uri;  
+if(uri==null){ uri=global; } return uri;  
+if(uri==null){ uri= defaultPrefix; } return uri;  
+if(uri==null){ uri=src; } return uri;  
+if(uri==null){ uri= "xml"; }; } return uri;  
+if(uri==null){ uri=node.getNamespaceURI(); }; } return uri;  
+if(uri==null){ uri=Constants.DEFAULT_NAMESPACE; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns;"; } return uri;  
+if(uri==null){ uri=Namespace; } return uri;  
+if(uri==null){ uri=Element.getNamespaceURI; } return uri;  
+if(uri==null){ uri=XML_NS_URI; } return uri;  
+if(uri==null){ uri=e; } return uri;  
+if(uri==null){ uri= "http; } return uri;  
+if(uri==null){ uri=1; } return uri;  
+if(uri==null){ uri= defaultNS; } return uri;  
+if(uri==null){ uri= "http://www"; } return uri;  
+if(uri==null){ uri=getBaseURI; } return uri;  
+if(uri==null){ uri=getDefaultUri; } return uri;  
+if(uri==null){ uri=DEFAULT_PREFIX; } return uri;  
+if(uri==null){ uri= "http"; }; } return uri;  
+if(uri==null){ uri=defaultNamespaceUri; } return uri;  
+if(uri==null){ uri= ns; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/1999/xhtml";; } return uri;  
+if(uri==null){ uri=StringUtils.defaultString; } return uri;  
+if(uri==null){ uri=window.location.protocol; } return uri;  
+if(uri==null){ uri=default; } return uri;  
+if(uri==null){ uri=UI; } return uri;  
+if(uri==null){ uri=getDefaultNS; } return uri;  
+if(uri==null){ uri=prefix; }; } return uri;  
+if(uri==null){ uri=getPrefix(node);; } return uri;  
+if(uri==null){ uri= defaultUri; } return uri;  
+if(uri==null){ uri=s; } return uri;  
+if(uri==null){ uri=""; return uri; } return uri;  
+if(uri==null){ uri=namespaceUri; } return uri;  
+if(uri==null){ uri=getXMLNS; } return uri;  
+if(uri==null){ uri=xm; } return uri;  
+if(uri==null){ uri=XMLConstants.W3C_XML_SCHEMA_NS_URI; } return uri;  
+if(uri==null){ uri=x; } return uri;  
+if(uri==null){ uri=Constants.DEFAULT_NS_URI; } return uri;  
+if(uri==null){ uri=Constants.NS_URI; } return uri;  
+if(uri==null){ uri=root; } return uri;  
+if(uri==null){ uri= "http://www"; }; } return uri;  
+if(uri==null){ uri=Node.getNamespaceURI; } return uri;  
+if(uri==null){ uri= "");; } return uri;  
+if(uri==null){ uri=parent; } return uri;  
+if(uri==null){ uri= "http://example.com"; }; } return uri;  
+if(uri==null){ uri=Constants.NULL; } return uri;  
+if(uri==null){ uri= "http://www.example.com"; } return uri;  
+if(uri==null){ uri= "http://www.ibm.com"; } return uri;  
+if(uri==null){ uri=uriDefault; } return uri;  
+if(uri==null){ uri=DefaultURI; } return uri;  
+if(uri==null){ uri=String.valueOf; } return uri;  
+if(uri==null){ uri=element.getNamespaceURI(); }; } return uri;  
+if(uri==null){ uri=DEFAULT_NAMESPACE_URI; } return uri;  
+if(uri==null){ uri=getPrefix(node); return uri; } return uri;  
+if(uri==null){ uri=node.getNamespaceURI(); } return uri;  
+if(uri==null){ uri=getSystemPrefix; } return uri;  
+if(uri==null){ uri=nsprefix; } return uri;  
+if(uri==null){ uri=NS_URI; } return uri;  
+if(uri==null){ uri= "http://; } return uri;  
+if(uri==null){ uri=www; } return uri;  
+if(uri==null){ uri=domain; } return uri;  
+if(uri==null){ uri= uri; } return uri;  
+if(uri==null){ uri=host; } return uri;  
+if(uri==null){ uri= "xmlns"; return uri; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/"; } return uri;  
+if(uri==null){ uri= "urn"; } return uri;  
+if(uri==null){ uri=ROOT; } return uri;  
+if(uri==null){ uri=getNamespaceURI(); }; } return uri;  
+if(uri==null){ uri=tag; } return uri;  
+if(uri==null){ uri=scheme; } return uri;  
+if(uri==null){ uri=schema; } return uri;  
+if(uri==null){ uri=defaults; } return uri;  
+if(uri==null){ uri=Uri; } return uri;  
+if(uri==null){ uri=Null; } return uri;  
+if(uri==null){ uri=0; } return uri;  
+if(uri==null){ uri=window.location.href; } return uri;  
+if(uri==null){ uri=toString; } return uri;  
+if(uri==null){ uri=getURI(); return uri; } return uri;  
+if(uri==null){ uri=location; } return uri;  
+if(uri==null){ uri=element.getNamespaceURI(); } return uri;  
+if(uri==null){ uri=getAttributeNS; } return uri;  
+if(uri==null){ uri=ownerDocument.getNamespaceURI; } return uri;  
+if(uri==null){ uri=getElement().getNamespaceURI; } return uri;  
+if(uri==null){ uri= "/"; }; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns/";; } return uri;  
+if(uri==null){ uri=XMLConstants; } return uri;  
+if(uri==null){ uri=getElementNamespace; } return uri;  
+if(uri==null){ uri=getDefaultPrefix; } return uri;  
+if(uri==null){ uri=getNamespaceURI(node); }; } return uri;  
+if(uri==null){ uri=java.lang.String; } return uri;  
+if(uri==null){ uri= ""; return uri; } return uri;  
+if(uri==null){ uri=getPrefix(node);; } return uri;  
+if(uri==null){ uri= getPrefix(node); }; } return uri;  
+if(uri==null){ uri=XMLConstants.W3C_XML_NS_URI; } return uri;  
+if(uri==null){ uri=document.baseURI; } return uri;  
+if(uri==null){ uri=getNamespace(); }; } return uri;  
+if(uri==null){ uri=super.getNamespaceURI; } return uri;  
+if(uri==null){ uri= element.getNamespaceURI; } return uri;  
+if(uri==null){ uri= "//" + prefix; } return uri;  
+if(uri==null){ uri=XmlConsts.xmlns; } return uri;  
+if(uri==null){ uri=getNamespacePrefix; } return uri;  
+if(uri==null){ uri=getUri(); }; } return uri;  
+if(uri==null){ uri=getElementNamespaceURI; } return uri;  
+if(uri==null){ uri=Constants.xmlns; } return uri;  
+if(uri==null){ uri=getLocalNamespace; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns";; } return uri;  
+if(uri==null){ uri=Node.getLocalName; } return uri;  
+if(uri==null){ uri=namespace; }; } return uri;  
+if(uri==null){ uri= "http://"; }; } return uri;  
+if(uri==null){ uri=getNameSpace; } return uri;  
+if(uri==null){ uri= "";  }; } return uri;  
+if(uri==null){ uri=getURI(node);; } return uri;  
+if(uri==null){ uri= "xmlns:" + prefix; } return uri;  
+if(uri==null){ uri=getDefaultURI(); }; } return uri;  
+if(uri==null){ uri=Constants.NAMESPACE; } return uri;  
+if(uri==null){ uri=""; return null; } return uri;  
+if(uri==null){ uri= node.getNamespaceURI; } return uri;  
+if(uri==null){ uri=XMLConstants.XMLNS_URI; } return uri;  
+if(uri==null){ uri=http://www.w3.org; } return uri;  
+if(uri==null){ uri= "http://example.org"; } return uri;  
+if(uri==null){ uri= "//"; return uri; } return uri;  
+if(uri==null){ uri= DEFAULT_NS; } return uri;  
+if(uri==null){ uri=getLocalName; } return uri;  
+if(uri==null){ uri= "http://example.com/"; } return uri;  
+if(uri==null){ uri=node.getNodeName; } return uri;  
+if(uri==null){return  null;} return uri;  
+if(uri==null){return  null;;} return uri;  
+if(uri==null){return  "";;} return uri;  
+if(uri==null){return  "";} return uri;  
+if(uri==null){return  "xmlns";;} return uri;  
+if(uri==null){return  "xml";;} return uri;  
+if(uri==null){return  uri;} return uri;  
+if(uri==null){return  "urn:";} return uri;  
+if(uri==null){return  prefix;} return uri;  
+if(uri==null){return  null; ;} return uri;  
+if(uri==null){return null;} return uri;  
+if(uri==null){return  "urn";;} return uri;  
+if(uri==null){return  "xmlns";} return uri;  
+if(uri==null){return  defaultNamespace;} return uri;  
+if(uri==null){return  namespace;} return uri;  
+if(uri==null){return  false;} return uri;  
+if(uri==null){return "";;} return uri;  
+if(uri==null){return  NULL;} return uri;  
+if(uri==null){return  "/";} return uri;  
+if(uri==null){return  ns;} return uri;  
+if(uri==null){return  false;;} return uri;  
+if(uri==null){return  "default";;} return uri;  
+if(uri==null){return  uri;;} return uri;  
+if(uri==null){return  "html";;} return uri;  
+if(uri==null){return  "/";;} return uri;  
+if(uri==null){return  null;};} return uri;  
+if(uri==null){return  "xmlns:";} return uri;  
+if(uri==null){return  "http";;} return uri;  
+if(uri==null){return  "http://";} return uri;  
+if(uri==null){return  "";};} return uri;  
+if(uri==null){return  defaultNS;} return uri;  
+if(uri==null){return  prefix;;} return uri;  
+if(uri==null){return  "//";;} return uri;  
+if(uri==null){return  defaultURI;} return uri;  
+if(uri==null){return  "");;} return uri;  
+if(uri==null){return  "http://";;} return uri;  
+if(uri==null){return ;;} return uri;  
+if(uri==null){return  "xmlns;} return uri;  
+if(uri==null){return  '';;} return uri;  
+if(uri==null){return  defaultPrefix;} return uri;  
+if(uri==null){return  "*";;} return uri;  
+if(uri==null){return  null; };} return uri;  
+if(uri==null){return  xmlns;} return uri;  
+if(uri==null){return  "<unknown>";;} return uri;  
+if(uri==null){return null;;} return uri;  
+if(uri==null){return  DEFAULT_NS;} return uri;  
+if(uri==null){return  null ;;} return uri;  
+if(uri==null){return  DEFAULT_NAMESPACE;} return uri;  
+if(uri==null){return  EMPTY;} return uri;  
+if(uri==null){return  "urn;} return uri;  
+if(uri==null){return  "unknown";;} return uri;  
+if(uri==null){return  "urn:";;} return uri;  
+if(uri==null){return  defaultUri;} return uri;  
+if(uri==null){return  "http;} return uri;  
+if(uri==null){return  "CDATA";;} return uri;  
+if(uri==null){return  "http://"};;} return uri;  
+if(uri==null){return  ""; ;} return uri;  
+if(uri==null){return  StringUtils.EMPTY;} return uri;  
+if(uri==null){return  "default";} return uri;  
+if(uri==null){return  node.getNamespaceURI;} return uri;  
+if(uri==null){return  "null";;} return uri;  
+if(uri==null){return  XML;} return uri;  
+if(uri==null){return  "en";;} return uri;  
+if(uri==null){return  "/xml";;} return uri;  
+if(uri==null){return  ns;;} return uri;  
+if(uri==null){return  "http";} return uri;  
+if(uri==null){return  "xhtml";;} return uri;  
+if(uri==null){return  node;} return uri;  
+if(uri==null){return  ""; };} return uri;  
+if(uri==null){return  DEFAULT_URI;} return uri;  
+if(uri==null){return  "urn";} return uri;  
+if(uri==null){return  namespace;;} return uri;  
+if(uri==null){return  namespaceURI;} return uri;  
+if(uri==null){return  true;} return uri;  
+if(uri==null){return  "?";;} return uri;  
+if(uri==null){return "";} return uri;  
+if(uri==null){return  DEFAULT;} return uri;  
+if(uri==null){return  "xmlns:";;} return uri;  
+if(uri==null){return  xml;} return uri;  
+if(uri==null){return  "xml";} return uri;  
+if(uri==null){return  location;} return uri;  
+if(uri==null){return  "root";;} return uri;  
+if(uri==null){return  XMLNS;} return uri;  
+if(uri==null){return  url;} return uri;  
+if(uri==null){return  localName;} return uri;  
+if(uri==null){return  defaultNamespaceURI;} return uri;  
+if(uri==null){return  "http://;} return uri;  
+if(uri==null){return  null; ;} return uri;  
+if(uri==null){return  URI;} return uri;  
+if(uri==null){return  "/";;} return uri;  
+if(uri==null){return  true;;} return uri;  
+if(uri==null){return  "javascript";;} return uri;  
+if(uri==null){return  "+";;} return uri;  
+if(uri==null){return  undefined;} return uri;  
+if(uri==null){return  "#";} return uri;  
+if(uri==null){return  "http:";} return uri;  
+if(uri==null){return  EMPTY_STRING;} return uri;  
+if(uri==null){return  "<";} return uri;  
+if(uri==null){return  "#";;} return uri;  
+if(uri==null){return  "<html>";;} return uri;  
+if(uri==null){return  "www";;} return uri;  
+if(uri==null){return  "http:";;} return uri;  
+if(uri==null){return ;} return uri;  
+if(uri==null){return  ".";;} return uri;  
+if(uri==null){return  ""};;} return uri;  
+if(uri==null){return  href;} return uri;  
+if(uri==null){return  namespacePrefix;} return uri;  
+if(uri==null){return  local;} return uri;  
+if(uri==null){return  null; };} return uri;  
+if(uri==null){return  "unknown";} return uri;  
+if(uri==null){return  "//";} return uri;  
+if(uri==null){return  ""},;} return uri;  
+if(uri==null){return  "<null>";;} return uri;  
+if(uri==null){return  String.class;} return uri;  
+if(uri==null){return  global;} return uri;  
+if(uri==null){return  ""};} return uri;  
+if(uri==null){return  ";;} return uri;  
+if(uri==null){return  XSD;} return uri;  
+if(uri==null){return  element.getNamespaceURI;} return uri;  
+if(uri==null){return  ":";} return uri;  
+if(uri==null){return  Null;} return uri;  
+if(uri==null){return  prefixes;} return uri;  
+if(uri==null){return  defaultNamespace;;} return uri;  
+if(uri==null){return  empty;} return uri;  
+if(uri==null){return  DefaultNamespace;} return uri;  
+if(uri==null){return  "/unknown";;} return uri;  
+if(uri==null){return  "http://"};} return uri;  
+if(uri==null){return  "<xml>";;} return uri;  
+if(uri==null){return  name;} return uri;  
+if(uri==null){return  default;} return uri;  
+if(uri==null){return  "<root>";;} return uri;  
+if(uri==null){return  SYSTEM;} return uri;  
+if(uri==null){return  '/';;} return uri;  
+if(uri==null){return  NULL;;} return uri;  
+if(uri==null){return  namespaceUri;} return uri;  
+if(uri==null){return  "foo";;} return uri;  
+if(uri==null){return  "", "";} return uri;  
+if(uri==null){return  "null";} return uri;  
+if(uri==null){return  QNAME;} return uri;  
+if(uri==null){return  null;};} return uri;  
+if(uri==null){return  ".";} return uri;  
+if(uri==null){return  "html";} return uri;  
+if(uri==null){return  "unknown;} return uri;  
+if(uri==null){return  "us";;} return uri;  
+if(uri==null){return  doc;} return uri;  
+if(uri==null){return  nsPrefix;} return uri;  
+if(uri==null){return  "/default";;} return uri;  
+if(uri==null){return  ";} return uri;  
+if(uri==null){return  defaultValue;} return uri;  
+if(uri==null){return  "xmpp";;} return uri;  
+if(uri==null){return  String;} return uri;  
+if(uri==null){return  document;} return uri;  
+if(uri==null){return  root;} return uri;  
+if(uri==null){return  def;} return uri;  
+if(uri==null){return  "{}";;} return uri;  
+if(uri==null){return  "&";;} return uri;  
+if(uri==null){return  0;} return uri;  
+if(uri==null){return  "ns1";;} return uri;  
+if(uri==null){return  "./";;} return uri;  
+if(uri==null){return  null;  ;} return uri;  
+if(uri==null){return  super.getNamespaceURI;} return uri;  
+if(uri==null){return  XML_NS;} return uri;  
+if(uri==null){return  NO_URI;} return uri;  
+if(uri==null){return  'xmlns';} return uri;  
+if(uri==null){return  "None";;} return uri;  
+if(uri==null){return  "&amp;";;} return uri;  
+if(uri==null){return  src;} return uri;  
+if(uri==null){return  "urn:";;} return uri;  
+if(uri==null){return  "Unknown";;} return uri;  
+if(uri==null){return  ";";;} return uri;  
+if(uri==null){return ("");;} return uri;  
+if(uri==null){return  'xmlns';;} return uri;  
+if(uri==null){return  nodeName;} return uri;  
+if(uri==null){return  "xlink";;} return uri;  
+if(uri==null){return  "xmpp:";} return uri;  
+if(uri==null){return  XSLT;} return uri;  
+if(uri==null){return  UNKNOWN;} return uri;  
+if(uri==null){return  defaults;} return uri;  
+if(uri==null){return  element;} return uri;  
+if(uri==null){return  '#';;} return uri;  
+if(uri==null){return  qualifiedName;} return uri;  
+if(uri==null){return  -1;} return uri;  
+if(uri==null){return  "root";} return uri;  
+if(uri==null){return  "/;} return uri;  
+if(uri==null){return  NS;} return uri;  
+if(uri==null){return  System.identity;} return uri;  
+if(uri==null){return  Namespace;} return uri;  
+if(uri==null){return  "http";};} return uri;  
+if(uri==null){return  Undefined;} return uri;  
+if(uri==null){return  qname;} return uri;  
+if(uri==null){return  defaultNamespaceUri;} return uri;  
+if(uri==null){return  xmlns;;} return uri;  
+if(uri==null){return  "xmlns/";;} return uri;  
+if(uri==null){return  """;} return uri;  
+if(uri==null){return  "&nbsp;";;} return uri;  
+if(uri==null){return  null;} return uri;  
+if(uri==null){return  "global";;} return uri;  
+if(uri==null){return  "<default>";;} return uri;  
+if(uri==null){return  doc.getNamespaceURI;} return uri;  
+if(uri==null){return  "/"};;} return uri;  
+if(uri==null){return  localNamespace;} return uri;  
+if(uri==null){return  "xlink:";} return uri;  
+if(uri==null){return  defaultPrefix;;} return uri;  
+if(uri==null){return  "none";;} return uri;  
+if(uri==null){return  UNDEFINED;} return uri;  
+if(uri==null){return  "#default";;} return uri;  
+if(uri==null){return  "http:"};;} return uri;  
+if(uri==null){return  "xml;} return uri;  
+if(uri==null){return  "xmlns"; ;} return uri;  
+if(uri==null){return  "undefined";;} return uri;  
+if(uri==null){return  NULL_URI;} return uri;  
+if(uri==null){return  document.baseURI;} return uri;  
+if(uri==null){return  "<";;} return uri;  
+if(uri==null){return  "XML";;} return uri;  
+if(uri==null){return  "(unknown)";;} return uri;  
+if(uri==null){return  getLocalNamespace;} return uri;  
+if(uri==null){return  NAMESPACE;} return uri;  
+if(uri==null){return  defaultURI;;} return uri;  
+if(uri==null){return  "xmlns":null;} return uri;  
+if(uri==null){return  "xmlns";};} return uri;  
+if(uri==null){return  doc.baseURI;} return uri;  
+if(uri==null){return  DEFAULT_PREFIX;} return uri;  
+if(uri==null){return  defaultNS;;} return uri;  
+if(uri==null){return  DOCUMENT_URI;} return uri;  
+if(uri==null){return  "xml";};} return uri;  
+if(uri==null){return  "urn:;} return uri;  
+if(uri==null){return  node.getPrefix();;} return uri;  
+if(uri==null){return  "CDATA:";;} return uri;  
+if(uri==null){return  "http:";;} return uri;  
+if(uri==null){return  "data";;} return uri;  
+if(uri==null){return  "javascript:";} return uri;  
+if(uri==null){return  NS_URI;} return uri;  
+if(uri==null){return  "CDATA";} return uri;  
+if(uri==null){return  "unspecified";;} return uri;  
+if(uri==null){return  "[default]";;} return uri;  
+if(uri==null){return  "xsi";;} return uri;  
+if(uri==null){return  (String) node;} return uri;  
+if(uri==null){return  Constants.XMLNS;} return uri;  
+if(uri==null){return  xsi:nil;} return uri;  
+if(uri==null){return  document.getNamespaceURI;} return uri;  
+if(uri==null){return  "http://www;} return uri;  
+if(uri==null){return  (String) null;} return uri;  
+if(uri==null){return  (String)node;} return uri;  
+if(uri==null){return  (String)null;} return uri;  
+if(uri==null){return  "http://localhost;} return uri;  
+if(uri==null){return  "UTF-8;} return uri;  
+if(uri==null){return  StringUtils.defaultString;} return uri;  
+if(uri==null){return  "urn:"+node;} return uri;  
+if(uri==null){return  null; else;} return uri;  
+if(uri==null){return  "urn:uuid;} return uri;  
+if(uri==null){ uri=null; } return uri;  
+if(uri==null){ uri=""; } return uri;  
+if(uri==null){ uri=prefix; } return uri;  
+if(uri==null){ uri= ""; }; } return uri;  
+if(uri==null){ uri=namespace; } return uri;  
+if(uri==null){ uri=defaultNamespace; } return uri;  
+if(uri==null){ uri=getURI; } return uri;  
+if(uri==null){ uri= "";; } return uri;  
+if(uri==null){ uri=defaultNS; } return uri;  
+if(uri==null){ uri=defaultURI; } return uri;  
+if(uri==null){ uri= "urn:"; } return uri;  
+if(uri==null){ uri= "http://"; } return uri;  
+if(uri==null){ uri= ""; return uri; } return uri;  
+if(uri==null){ uri=DEFAULT_NS; } return uri;  
+if(uri==null){ uri=node.getNamespaceURI; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/1999/xhtml"; } return uri;  
+if(uri==null){ uri=ns; } return uri;  
+if(uri==null){ uri=xml; } return uri;  
+if(uri==null){ uri=XMLNS; } return uri;  
+if(uri==null){ uri=DEFAULT_NAMESPACE; } return uri;  
+if(uri==null){ uri= ""; } return uri;  
+if(uri==null){ uri= null; } return uri;  
+if(uri==null){ uri=Prefix; } return uri;  
+if(uri==null){ uri= prefix; } return uri;  
+if(uri==null){ uri=xmlns; } return uri;  
+if(uri==null){ uri=getNamespaceURI; } return uri;  
+if(uri==null){ uri=namespaceURI; } return uri;  
+if(uri==null){ uri= "xmlns:"; } return uri;  
+if(uri==null){ uri=http; } return uri;  
+if(uri==null){ uri=element.getNamespaceURI; } return uri;  
+if(uri==null){ uri=defaultPrefix; } return uri;  
+if(uri==null){ uri=defaultUri; } return uri;  
+if(uri==null){ uri=null; }; } return uri;  
+if(uri==null){ uri= "xmlns"; } return uri;  
+if(uri==null){ uri=DEFAULT_URI; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns"; } return uri;  
+if(uri==null){ uri=XML; } return uri;  
+if(uri==null){ uri=defaultNamespaceURI; } return uri;  
+if(uri==null){ uri=localName; } return uri;  
+if(uri==null){ uri=XML_NS; } return uri;  
+if(uri==null){ uri=baseURI; } return uri;  
+if(uri==null){ uri= "xmlns"; }; } return uri;  
+if(uri==null){ uri=http://www.w3.org/1999/xhtml; } return uri;  
+if(uri==null){ uri=NULL; } return uri;  
+if(uri==null){ uri=URI; } return uri;  
+if(uri==null){ uri=DEFAULT; } return uri;  
+if(uri==null){ uri=uri; } return uri;  
+if(uri==null){ uri=Constants.XMLNS; } return uri;  
+if(uri==null){ uri=name; } return uri;  
+if(uri==null){ uri=local; } return uri;  
+if(uri==null){ uri= "http"; } return uri;  
+if(uri==null){ uri=getPrefix; } return uri;  
+if(uri==null){ uri=getDefaultURI; } return uri;  
+if(uri==null){ uri=env; } return uri;  
+if(uri==null){ uri=namespacePrefix; } return uri;  
+if(uri==null){ uri= "/"; } return uri;  
+if(uri==null){ uri=getPrefix(node); }; } return uri;  
+if(uri==null){ uri= defaultNamespace; } return uri;  
+if(uri==null){ uri=uriPrefix; } return uri;  
+if(uri==null){ uri= "http:"; } return uri;  
+if(uri==null){ uri=getNamespace; } return uri;  
+if(uri==null){ uri=DefaultNamespace; } return uri;  
+if(uri==null){ uri=getDefaultNamespaceURI; } return uri;  
+if(uri==null){ uri=getDefaultNamespace; } return uri;  
+if(uri==null){ uri=DefaultNS; } return uri;  
+if(uri==null){ uri=PREFIX; } return uri;  
+if(uri==null){ uri= "";}; } return uri;  
+if(uri==null){ uri=getURI(); }; } return uri;  
+if(uri==null){ uri=namespaceURI; } return uri;  
+if(uri==null){ uri=DEFAULT_NS_URI; } return uri;  
+if(uri==null){ uri=document.getNamespaceURI; } return uri;  
+if(uri==null){ uri=http://www.w3.org/2000/xmlns; } return uri;  
+if(uri==null){ uri=xmlNS; } return uri;  
+if(uri==null){ uri=node; } return uri;  
+if(uri==null){ uri=u; } return uri;  
+if(uri==null){ uri=Constants; } return uri;  
+if(uri==null){ uri= "//"; } return uri;  
+if(uri==null){ uri= ""; return null; } return uri;  
+if(uri==null){ uri=getPrefix; } return uri;  
+if(uri==null){ uri=getPrefix(node); return uri; } return uri;  
+if(uri==null){ uri=""; }; } return uri;  
+if(uri==null){ uri=urn; } return uri;  
+if(uri==null){ uri=StringUtils.EMPTY; } return uri;  
+if(uri==null){ uri=NS; } return uri;  
+if(uri==null){ uri=n; } return uri;  
+if(uri==null){ uri= defaultURI; } return uri;  
+if(uri==null){ uri=baseURI; } return uri;  
+if(uri==null){ uri=":"; } return uri;  
+if(uri==null){ uri=protocol; } return uri;  
+if(uri==null){ uri=namespaces; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns/"; } return uri;  
+if(uri==null){ uri=xmlNamespace; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns; } return uri;  
+if(uri==null){ uri=false; } return uri;  
+if(uri==null){ uri=html; } return uri;  
+if(uri==null){ uri= "http://example.com"; } return uri;  
+if(uri==null){ uri=true; } return uri;  
+if(uri==null){ uri= namespace; } return uri;  
+if(uri==null){ uri=XML_NAMESPACE; } return uri;  
+if(uri==null){ uri=null; return null; } return uri;  
+if(uri==null){ uri= "xml"; } return uri;  
+if(uri==null){ uri="";; } return uri;  
+if(uri==null){ uri=getElementNS; } return uri;  
+if(uri==null){ uri=getUri; } return uri;  
+if(uri==null){ uri=localNamespace; } return uri;  
+if(uri==null){ uri=BASE; } return uri;  
+if(uri==null){ uri=Constants.NS; } return uri;  
+if(uri==null){ uri= "http://www."; } return uri;  
+if(uri==null){ uri=NSPrefix; } return uri;  
+if(uri==null){ uri=getURI(node); }; } return uri;  
+if(uri==null){ uri=o; } return uri;  
+if(uri==null){ uri=nsPrefix; } return uri;  
+if(uri==null){ uri=baseUri; } return uri;  
+if(uri==null){ uri=doc.getNamespaceURI; } return uri;  
+if(uri==null){ uri=Constants.URI; } return uri;  
+if(uri==null){ uri=element; } return uri;  
+if(uri==null){ uri=url; } return uri;  
+if(uri==null){ uri=value; } return uri;  
+if(uri==null){ uri=localPrefix; } return uri;  
+if(uri==null){ uri=Constants.DEFAULT_NS; } return uri;  
+if(uri==null){ uri=getURI(); } return uri;  
+if(uri==null){ uri=getPrefix(node); }; } return uri;  
+if(uri==null){ uri=BASE_URI; } return uri;  
+if(uri==null){ uri=encoding; } return uri;  
+if(uri==null){ uri=nodeName; } return uri;  
+if(uri==null){ uri=global; } return uri;  
+if(uri==null){ uri= defaultPrefix; } return uri;  
+if(uri==null){ uri=src; } return uri;  
+if(uri==null){ uri= "xml"; }; } return uri;  
+if(uri==null){ uri=node.getNamespaceURI(); }; } return uri;  
+if(uri==null){ uri=Constants.DEFAULT_NAMESPACE; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns;"; } return uri;  
+if(uri==null){ uri=Namespace; } return uri;  
+if(uri==null){ uri=Element.getNamespaceURI; } return uri;  
+if(uri==null){ uri=XML_NS_URI; } return uri;  
+if(uri==null){ uri=e; } return uri;  
+if(uri==null){ uri= "http; } return uri;  
+if(uri==null){ uri=1; } return uri;  
+if(uri==null){ uri= defaultNS; } return uri;  
+if(uri==null){ uri= "http://www"; } return uri;  
+if(uri==null){ uri=getBaseURI; } return uri;  
+if(uri==null){ uri=getDefaultUri; } return uri;  
+if(uri==null){ uri=DEFAULT_PREFIX; } return uri;  
+if(uri==null){ uri= "http"; }; } return uri;  
+if(uri==null){ uri=defaultNamespaceUri; } return uri;  
+if(uri==null){ uri= ns; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/1999/xhtml";; } return uri;  
+if(uri==null){ uri=StringUtils.defaultString; } return uri;  
+if(uri==null){ uri=window.location.protocol; } return uri;  
+if(uri==null){ uri=default; } return uri;  
+if(uri==null){ uri=UI; } return uri;  
+if(uri==null){ uri=getDefaultNS; } return uri;  
+if(uri==null){ uri=prefix; }; } return uri;  
+if(uri==null){ uri=getPrefix(node);; } return uri;  
+if(uri==null){ uri= defaultUri; } return uri;  
+if(uri==null){ uri=s; } return uri;  
+if(uri==null){ uri=""; return uri; } return uri;  
+if(uri==null){ uri=namespaceUri; } return uri;  
+if(uri==null){ uri=getXMLNS; } return uri;  
+if(uri==null){ uri=xm; } return uri;  
+if(uri==null){ uri=XMLConstants.W3C_XML_SCHEMA_NS_URI; } return uri;  
+if(uri==null){ uri=x; } return uri;  
+if(uri==null){ uri=Constants.DEFAULT_NS_URI; } return uri;  
+if(uri==null){ uri=Constants.NS_URI; } return uri;  
+if(uri==null){ uri=root; } return uri;  
+if(uri==null){ uri= "http://www"; }; } return uri;  
+if(uri==null){ uri=Node.getNamespaceURI; } return uri;  
+if(uri==null){ uri= "");; } return uri;  
+if(uri==null){ uri=parent; } return uri;  
+if(uri==null){ uri= "http://example.com"; }; } return uri;  
+if(uri==null){ uri=Constants.NULL; } return uri;  
+if(uri==null){ uri= "http://www.example.com"; } return uri;  
+if(uri==null){ uri= "http://www.ibm.com"; } return uri;  
+if(uri==null){ uri=uriDefault; } return uri;  
+if(uri==null){ uri=DefaultURI; } return uri;  
+if(uri==null){ uri=String.valueOf; } return uri;  
+if(uri==null){ uri=element.getNamespaceURI(); }; } return uri;  
+if(uri==null){ uri=DEFAULT_NAMESPACE_URI; } return uri;  
+if(uri==null){ uri=getPrefix(node); return uri; } return uri;  
+if(uri==null){ uri=node.getNamespaceURI(); } return uri;  
+if(uri==null){ uri=getSystemPrefix; } return uri;  
+if(uri==null){ uri=nsprefix; } return uri;  
+if(uri==null){ uri=NS_URI; } return uri;  
+if(uri==null){ uri= "http://; } return uri;  
+if(uri==null){ uri=www; } return uri;  
+if(uri==null){ uri=domain; } return uri;  
+if(uri==null){ uri= uri; } return uri;  
+if(uri==null){ uri=host; } return uri;  
+if(uri==null){ uri= "xmlns"; return uri; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/"; } return uri;  
+if(uri==null){ uri= "urn"; } return uri;  
+if(uri==null){ uri=ROOT; } return uri;  
+if(uri==null){ uri=getNamespaceURI(); }; } return uri;  
+if(uri==null){ uri=tag; } return uri;  
+if(uri==null){ uri=scheme; } return uri;  
+if(uri==null){ uri=schema; } return uri;  
+if(uri==null){ uri=defaults; } return uri;  
+if(uri==null){ uri=Uri; } return uri;  
+if(uri==null){ uri=Null; } return uri;  
+if(uri==null){ uri=0; } return uri;  
+if(uri==null){ uri=window.location.href; } return uri;  
+if(uri==null){ uri=toString; } return uri;  
+if(uri==null){ uri=getURI(); return uri; } return uri;  
+if(uri==null){ uri=location; } return uri;  
+if(uri==null){ uri=element.getNamespaceURI(); } return uri;  
+if(uri==null){ uri=getAttributeNS; } return uri;  
+if(uri==null){ uri=ownerDocument.getNamespaceURI; } return uri;  
+if(uri==null){ uri=getElement().getNamespaceURI; } return uri;  
+if(uri==null){ uri= "/"; }; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns/";; } return uri;  
+if(uri==null){ uri=XMLConstants; } return uri;  
+if(uri==null){ uri=getElementNamespace; } return uri;  
+if(uri==null){ uri=getDefaultPrefix; } return uri;  
+if(uri==null){ uri=getNamespaceURI(node); }; } return uri;  
+if(uri==null){ uri=java.lang.String; } return uri;  
+if(uri==null){ uri= ""; return uri; } return uri;  
+if(uri==null){ uri=getPrefix(node);; } return uri;  
+if(uri==null){ uri= getPrefix(node); }; } return uri;  
+if(uri==null){ uri=XMLConstants.W3C_XML_NS_URI; } return uri;  
+if(uri==null){ uri=document.baseURI; } return uri;  
+if(uri==null){ uri=getNamespace(); }; } return uri;  
+if(uri==null){ uri=super.getNamespaceURI; } return uri;  
+if(uri==null){ uri= element.getNamespaceURI; } return uri;  
+if(uri==null){ uri= "//" + prefix; } return uri;  
+if(uri==null){ uri=XmlConsts.xmlns; } return uri;  
+if(uri==null){ uri=getNamespacePrefix; } return uri;  
+if(uri==null){ uri=getUri(); }; } return uri;  
+if(uri==null){ uri=getElementNamespaceURI; } return uri;  
+if(uri==null){ uri=Constants.xmlns; } return uri;  
+if(uri==null){ uri=getLocalNamespace; } return uri;  
+if(uri==null){ uri= "http://www.w3.org/2000/xmlns";; } return uri;  
+if(uri==null){ uri=Node.getLocalName; } return uri;  
+if(uri==null){ uri=namespace; }; } return uri;  
+if(uri==null){ uri= "http://"; }; } return uri;  
+if(uri==null){ uri=getNameSpace; } return uri;  
+if(uri==null){ uri= "";  }; } return uri;  
+if(uri==null){ uri=getURI(node);; } return uri;  
+if(uri==null){ uri= "xmlns:" + prefix; } return uri;  
+if(uri==null){ uri=getDefaultURI(); }; } return uri;  
+if(uri==null){ uri=Constants.NAMESPACE; } return uri;  
+if(uri==null){ uri=""; return null; } return uri;  
+if(uri==null){ uri= node.getNamespaceURI; } return uri;  
+if(uri==null){ uri=XMLConstants.XMLNS_URI; } return uri;  
+if(uri==null){ uri=http://www.w3.org; } return uri;  
+if(uri==null){ uri= "http://example.org"; } return uri;  
+if(uri==null){ uri= "//"; return uri; } return uri;  
+if(uri==null){ uri= DEFAULT_NS; } return uri;  
+if(uri==null){ uri=getLocalName; } return uri;  
+if(uri==null){ uri= "http://example.com/"; } return uri;  
+if(uri==null){ uri=node.getNodeName; } return uri;  
+if(uri != null){ return uri;}  
+if(node != null){ return uri;}  
+if(uri!=null){ return uri;}  
+if(node!=null){ return uri;}  
+if(node instanceof Element){ return uri;}  
+if(null != uri){ return uri;}  
+if(uri){ return uri;}  
+if(node){ return uri;}  
+if( uri != null){ return uri;}  
+if(null!=uri){ return uri;}  
+if(null != node){ return uri;}  
+if(namespaceURI != null){ return uri;}  
+if(null!=node){ return uri;}  
+if(element != null){ return uri;}  
+if(uri == null){ return uri;}  
+if( node != null){ return uri;}  
+if(node instanceof Document){ return uri;}  
+if(node instanceof Node){ return uri;}  
+if(node!= null){ return uri;}  
+if(node.namespaceURI != null){ return uri;}  
+if(true){ return uri;}  
+if(node == null){ return uri;}  
+if(ns != null){ return uri;}  
+if(namespace != null){ return uri;}  
+if(uri!= null){ return uri;}  
+if( uri){ return uri;}  
+if(false){ return uri;}  
+if(URI){ return uri;}  
+if(element!=null){ return uri;}  
+if(namespaceURI!=null){ return uri;}  
+if(namespaceURI){ return uri;}  
+if(document != null){ return uri;}  
+if(node.getNamespaceURI != null){ return uri;}  
+if(ns!=null){ return uri;}  
+if(prefix != null){ return uri;}  
+if(null){ return uri;}  
+if(null != namespaceURI){ return uri;}  
+if(uri !=null){ return uri;}  
+if(uri==null){ return uri;}  
+if(element){ return uri;}  
+if(URI != null){ return uri;}  
+if(element instanceof Element){ return uri;}  
+if(null!= uri){ return uri;}  
+if(namespaceURI != null){ return uri;}  
+if(node==null){ return uri;}  
+if(hasNamespace){ return uri;}  
+if(null != element){ return uri;}  
+if(namespace){ return uri;}  
+if(node.namespaceURI){ return uri;}  
+if(node.getNamespaceURI){ return uri;}  
+if(namespaceURI == null){ return uri;}  
+if(node.getNamespaceURI()!=null){ return uri;}  
+if( null != uri){ return uri;}  
+if( node instanceof Element){ return uri;}  
+if(node !=null){ return uri;}  
+if(document!=null){ return uri;}  
+if(xml){ return uri;}  
+if(namespace!=null){ return uri;}  
+if( uri!=null){ return uri;}  
+if(isURI(node){ return uri;}  
+if(URI!=null){ return uri;}  
+if(isNamespaceURI(node){ return uri;}  
+if(String uri){ return uri;}  
+if(uri instanceof String){ return uri;}  
+if(node is not null){ return uri;}  
+if(hasPrefix(node){ return uri;}  
+if(xml != null){ return uri;}  
+if(value != null){ return uri;}  
+if(url != null){ return uri;}  
+if(ns){ return uri;}  
+if(null!= node){ return uri;}  
+if(StringUtils.isNotEmpty(uri){ return uri;}  
+if(null != namespace){ return uri;}  
+if(baseURI != null){ return uri;}  
+if(hasPrefix){ return uri;}  
+if( node){ return uri;}  
+if(node.namespaceURI == null){ return uri;}  
+if(StringUtils.isNotBlank(uri){ return uri;}  
+if(handler != null){ return uri;}  
+if(prefix!=null){ return uri;}  
+if(doc != null){ return uri;}  
+if(isNamespaceURI(node)){ return uri;}  
+if( element != null){ return uri;}  
+if(StringUtils.hasText(uri){ return uri;}  
+if(isPrefix(node){ return uri;}  
+if(null == uri){ return uri;}  
+if(isURI){ return uri;}  
+if(prefix){ return uri;}  
+if(element.namespaceURI != null){ return uri;}  
+if(null!=element){ return uri;}  
+if(null !== uri){ return uri;}  
+if(element == null){ return uri;}  
+if(node instanceof DOMElement){ return uri;}  
+if(isURI(node)){ return uri;}  
+if(node instanceof Attr){ return uri;}  
+if(qname != null){ return uri;}  
+if(node instanceof DOM Node){ return uri;}  
+if(StringUtils.isNotEmpty(uri)){ return uri;}  
+if(node.getPrefix() != null){ return uri;}  
+if(String uri != null){ return uri;}  
+if(namespaceUri != null){ return uri;}  
+if(DEBUG){ return uri;}  
+if( null != node){ return uri;}  
+if(namespaceURI!=null){ return uri;}  
+if(namespaces != null){ return uri;}  
+if(localName != null){ return uri;}  
+if( node!=null){ return uri;}  
+if(uri is not null){ return uri;}  
+if( namespace != null){ return uri;}  
+if(document instanceof Element){ return uri;}  
+if(doc!=null){ return uri;}  
+if(xmlns != null){ return uri;}  
+if(tag != null){ return uri;}  
+if(url!=null){ return uri;}  
+if(String != null){ return uri;}  
+if(node.getNamespaceURI()==null){ return uri;}  
+if(getURI(node)==null){ return uri;}  
+if(id != null){ return uri;}  
+if(node.namespaceURI!=null){ return uri;}  
+if(isNamespaceURI){ return uri;}  
+if(isElement(node){ return uri;}  
+if(hasNamespaceURI){ return uri;}  
+if(uri != ""){ return uri;}  
+if(node.hasAttributes()){ return uri;}  
+if(isEmpty){ return uri;}  
+if(useURI){ return uri;}  
+if(namespace == null){ return uri;}  
+if(uri != NULL){ return uri;}  
+if(uri.length() > 0){ return uri;}  
+if(null != prefix){ return uri;}  
+if(isPrefix){ return uri;}  
+if(name != null){ return uri;}  
+if(node.getNamespaceURI!=null){ return uri;}  
+if(isValidURI){ return uri;}  
+if(null != ns){ return uri;}  
+if(node.hasAttribute){ return uri;}  
+if(usePrefix){ return uri;}  
+if(n != null){ return uri;}  
+if(null==uri){ return uri;}  
+if(node instanceof HTMLElement){ return uri;}  
+if(prefix == null){ return uri;}  
+if(path != null){ return uri;}  
+if(node.getPrefix()==null){ return uri;}  
+if(URI == null){ return uri;}  
+if(isPrefix(node)){ return uri;}  
+if(debug){ return uri;}  
+if(node.getNamespaceURI == null){ return uri;}  
+if(null != null){ return uri;}  
+if( uri == null){ return uri;}  
+if(u){ return uri;}  
+if(Boolean.TRUE){ return uri;}  
+if(isBlank(uri){ return uri;}  
+if(node.hasAttributes){ return uri;}  
+if(isXML(node){ return uri;}  
+if(uri != null ){ return uri;}  
+if(string != null){ return uri;}  
+if(value!=null){ return uri;}  
+if(xpath != null){ return uri;}  
+if(namespaceURI==null){ return uri;}  
+if(uri.length()>0){ return uri;}  
+if(element.getNamespaceURI != null){ return uri;}  
+if(uri.length()==0){ return uri;}  
+if(isNode(node){ return uri;}  
+if(isXML){ return uri;}  
+if(node != NULL){ return uri;}  
+if(element.getNamespaceURI()!=null){ return uri;}  
+if(isDefined(node){ return uri;}  
+if(node != null ){ return uri;}  
+if(isValidURI(uri)){ return uri;}  
+if(element.getNamespaceURI){ return uri;}  
+if(Boolean){ return uri;}  
+if(ni != null){ return uri;}  
+if(node != null ){ return uri;}  
+if(hasNamespace(node){ return uri;}  
+if(notNull(node){ return uri;}  
+if(xml!=null){ return uri;}  
+if(isNamespace(node){ return uri;}  
+if(dom){ return uri;}  
+if("".equals(uri){ return uri;}  
+if(null!=null){ return uri;}  
+if(handler){ return uri;}  
+if(isNamespace){ return uri;}  
+if(isValidURI(uri){ return uri;}  
+if(uri > null){ return uri;}  
+if(namespaceURI){ return uri;}  
+if(n!=null){ return uri;}  
+if(nodeName != null){ return uri;}  
+if(ns == null){ return uri;}  
+if(uri != null ){ return uri;}  
+if(isXML(node)){ return uri;}  
+if(dom != null){ return uri;}  
+if(element.namespaceURI){ return uri;}  
+if(null != namespaceUri){ return uri;}  
+if(nodes != null){ return uri;}  
+if(node is null){ return uri;}  
+if(getNamespaceURI != null){ return uri;}  
+if(isBlank(uri)){ return uri;}  
+if(isValid){ return uri;}  
+if(xmlns){ return uri;}  
+if(node instanceof ElementNode){ return uri;}  
+if(null!=){ return uri;}  
+if(nsURI != null){ return uri;}  
+if(handler == null){ return uri;}  
+if(node instanceof String){ return uri;}  
+if( !(node instanceof Element)){ return uri;}  
+if(Node){ return uri;}  
+if(isDefined(node)){ return uri;}  
+if(hasURI){ return uri;}  
+if(hasPrefix(node)){ return uri;}  
+if(baseURI!=null){ return uri;}  
+if(node !== null){ return uri;}  
+if( document != null){ return uri;}  
+if(scheme != null){ return uri;}  
+if(null!==uri){ return uri;}  
+if(isDefined(uri)){ return uri;}  
+if(node.getPrefix()!=null){ return uri;}  
+if(xmlSchema != null){ return uri;}  
+if(NODE != null){ return uri;}  
+if(href != null){ return uri;}  
+if( node instanceof Document){ return uri;}  
+if(useNamespace){ return uri;}  
+if(localName){ return uri;}  
+if(node != null && uri){ return uri;}  
+if(validation){ return uri;}  
+if(document){ return uri;}  
+if(uri != null) {){ return uri;}  
+if(isNode(node)){ return uri;}  
+if(isNamespace(node)){ return uri;}  
+if(Node.ELEMENT_NODE){ return uri;}  
+if(Node.getNamespaceURI != null){ return uri;}  
+if( node.getNamespaceURI != null){ return uri;}  
+if(node.getNamespaceURI()){ return uri;}  
+if(StringUtil.isEmpty(uri){ return uri;}  
+if(node.hasChildNodes()){ return uri;}  
+if(getURI(node)!=null){ return uri;}  
+if(getNodeName(node)==null){ return uri;}  
+if(hasNamespace(node)){ return uri;}  
+if(StringUtils.isBlank(uri){ return uri;}  
+if(isString(uri)){ return uri;}  
+if(uri != null)){ return uri;}  
+if(node.getLocalName()!=null){ return uri;}  
+if(node.isDefaultNamespaceURI()){ return uri;}  
+if(node.isNamespaceAware()){ return uri;}  
+if(node.getNamespaceURI()!= null){ return uri;}  
+if(node!=null && uri){ return uri;}  
+if(Node.getNamespaceURI){ return uri;}  
+if(StringUtils.isEmpty(uri){ return uri;}  
+if(StringUtil.isNotEmpty(uri){ return uri;}  
+if(isNotBlank(uri)){ return uri;}  
+if(StringUtils.hasLength(uri){ return uri;}  

@@ -1,0 +1,2000 @@
+ return result;  
+ ;  
+ return result << 3;  
+  return result;  
+ //return result;  
+ };  
+ return 0L;  
+ return (long) result;  
+ return result >>> 3;  
+ return (long)result;  
+;  
+ --;  
+ long result = 0L;  
+ long    result = 0L;  
+ return result;;  
+ final long result = 0L;  
+  @return;  
+  };  
+ return result >>> 1;  
+ /*package;  
+ return result; };  
+ long   result = 0L;  
+ return result >> 3;  
+ end;  
+ return 1L;  
+ // return result;  
+ return result >>> 8;  
+ @return;  
+ return result<<3;  
+ //    return result;  
+  @param buffer;  
+ long result = 0;  
+ return (byte) result;  
+ return result >>> 24;  
+  ;  
+ ++ offset;  
+ result = 0L;  
+ //return 0L;  
+ return result >>> 0;  
+ ...;  
+ return result & 0xFFFFFFFFL;  
+ return (byte)result;  
+ long result;  
+ internal;  
+  return 0L;  
+ return result >>> 4;  
+  return result;;  
+ final long result = 0;  
+ return result & 0xff;  
+ return result & 0xFF;  
+ return result * 256;  
+ return result >>> 5;  
+ return result << 1;  
+  @param buffer @return;  
+ //return result;;  
+ byte currentByte = buffer[offset];;  
+ //	return result;  
+ return result >>> 6;  
+ return long;  
+ start;  
+ return (int)result;  
+ long  result = 0L;  
+ main;  
+ long    result = 0;  
+ return result & 0xffff;  
+ return;  
+  return result << 3;  
+ final int start = offset;  
+ final int length = 2;;  
+ return result << 5;  
+ {@inheritDoc};  
+ return result * 8;  
+ return (int) result;  
+ long   result   = 0L;  
+ ;  
+ ++offset;  
+ //        return result;  
+ //};  
+ return result << 4;  
+ return result >>> 16;  
+ //;  
+ //throw new IllegalArgumentException();;  
+ return result * 10;  
+ return result * 2;  
+ long     result = 0L;  
+ return result / 10;  
+ /* package;  
+  return (long) result;  
+  --;  
+ final byte[] buffer;;  
+;;  
+ return 0;  
+ return length;  
+ return currentByte;  
+ @param buffer;  
+ return result & 0xffffffffL;  
+ return result << 2;  
+ // };  
+  ;  
+ return result << 6;  
+ ++;  
+  long    result = 0L;  
+ long    result   = 0L;  
+ final long result = 0;;  
+ returns 0L;  
+ -1;  
+  long result = 0L;  
+ return int;  
+ int start = offset;  
+ ---;  
+ final long  result = 0L;  
+ result = 0;  
+ return value;  
+ return result >>> 7;  
+  return (long)result;  
+ return result >>> 31;  
+  @return long;  
+ return result | 0;  
+   return result;  
+  @return result;  
+ return result << 7;  
+ return result; };  
+ return result ;  
+ 	;  
+ //long result = 0L;  
+ long   result;  
+ length;  
+ long    result;  
+ long   result  = 0L;  
+ //CHECKSTYLE:OFF;  
+ return result >>> 15;  
+ byte currentByte;  
+  @throws IllegalArgumentException;  
+ return -1L;  
+ return result << 3 + currentByte;  
+ //System.out.println;  
+ long   result = 0;  
+ -----------------------------------------------------------------------;  
+ int     start = offset;  
+ final long   result = 0L;  
+ return result<mask1>;;  
+ return result >> 4;  
+ final int length = 4;;  
+  return result >>> 3;  
+ final int length = 2;  
+ long result = 0;;  
+ );  
+ while (true) {;  
+ //throw new UnsupportedOperationException();;  
+ returns a long;  
+ long    result  = 0L;  
+ final long    result = 0L;  
+ return result / 8;  
+ -1L;  
+ long    result = 0;;  
+ // return 0L;  
+ return result << 3 | currentByte;  
+ //return currentByte;  
+  @param buffer @param offset;  
+ int length = 2;;  
+  final long result = 0L;  
+ return result >>> 10;  
+ int currentByte = buffer[offset];;  
+ int end = offset + length;;  
+ int    start = offset;  
+  return result; };  
+ int result = 0L;  
+ long result   = 0L;  
+ return result & 0xFFFF;  
+ return result & 0x7F;  
+ long    result    = 0L;  
+ //return result << 3;  
+ return result ^ 0;  
+  long   result = 0L;  
+ int   result = 0L;  
+ final int length = offset + length;;  
+ final int end = offset + length;;  
+ switch (length) {;  
+ return (long)currentByte;  
+  @return int;  
+ return result >>> 32;  
+ return 0L;;  
+ int   start = offset;  
+ //    return 0L;  
+ long   result    = 0L;  
+ var result = 0L;  
+ @param buffer @return;  
+ for (; offset < length; offset++);  
+ for (; start < end; start++);  
+ return result | 0L;  
+ byte currentByte = buffer[offset++];;  
+ //return (long) result;  
+ return result << 3;;  
+ //assert length >= 2;  
+ int     result = 0L;  
+};  
+ return result & 0xFFFFFFFF;  
+ return result >>> 3;;  
+ final long result   = 0L;  
+ return (result << 3) + 1;  
+ final int start = offset;;  
+ //return (long)result;  
+ int     end = offset + length;;  
+ long result = 0L;;  
+ long   result = 0;;  
+ final int length = 4;  
+  @param buffer  @return;  
+ return result & 0xFFFFFF;  
+ return result & 0x7f;  
+ //echo "parseOctal";;  
+ for (;start < end; start++);  
+ //assert length >= 2;;  
+ int     length = 2;;  
+ int   result = 0;  
+ @param buffer @param offset;  
+ return (result << 3) + length;  
+ int     start = offset;;  
+ //if (length == 2) {;  
+ int    end = offset + length;;  
+ final long result = 0L;;  
+ return (result << 3) + trailer;  
+ return result & 0xffffL;  
+ return (result << 3) + result;  
+ return result ^ 0x80;  
+ int    result = 0L;  
+ long    result = 0L;;  
+ long  result = 0;  
+ return result >>> 24 & 0xff;  
+ int     result = 0;  
+ int    start = offset;;  
+ //if (start < end) {;  
+ int   start = offset;;  
+ final byte[] buffer = buffer;;  
+ final int length = 8;;  
+ return (result << 3) + 0;  
+ long   result = 0L;;  
+ int end = offset + length;  
+ //if (length < 2) {;  
+ return result & 0x000000FF;  
+ final int end = offset + length;  
+ int currentByte = buffer[offset++];;  
+ //System.err.println;  
+ if (length < 2) {;  
+ final int offset = offset;;  
+ return (result << 3) + value;  
+ final int length = (int)length;  
+ //System.out.println(buffer;  
+ final int length = (int) length;  
+ //if (length > 2) {;  
+ return (result << 3) + offset;  
+ return result; if (currentByte == 0) { break; }   
+; if (currentByte == 0) { break; }   
+ ; if (currentByte == 0) { break; }   
+ return 0L; if (currentByte == 0) { break; }   
+ }; if (currentByte == 0) { break; }   
+ long result = 0L; if (currentByte == 0) { break; }   
+ --; if (currentByte == 0) { break; }   
+ ; if (currentByte == 0) { break; }   
+ //return result; if (currentByte == 0) { break; }   
+ /*package; if (currentByte == 0) { break; }   
+ return result << 3; if (currentByte == 0) { break; }   
+ return result;; if (currentByte == 0) { break; }   
+ final long result = 0L; if (currentByte == 0) { break; }   
+  ; if (currentByte == 0) { break; }   
+;; if (currentByte == 0) { break; }   
+  @return; if (currentByte == 0) { break; }   
+ @return; if (currentByte == 0) { break; }   
+ long    result = 0L; if (currentByte == 0) { break; }   
+ //return 0L; if (currentByte == 0) { break; }   
+ return result >>> 3; if (currentByte == 0) { break; }   
+  return result; if (currentByte == 0) { break; }   
+ private static final long serialVersionUID = 1L;; if (currentByte == 0) { break; }   
+ long   result = 0L; if (currentByte == 0) { break; }   
+ end; if (currentByte == 0) { break; }   
+ return (long) result; if (currentByte == 0) { break; }   
+ return (long)result; if (currentByte == 0) { break; }   
+}; if (currentByte == 0) { break; }   
+ final int start = offset; if (currentByte == 0) { break; }   
+  @param buffer; if (currentByte == 0) { break; }   
+ /* package; if (currentByte == 0) { break; }   
+ return result; }; if (currentByte == 0) { break; }   
+ ...; if (currentByte == 0) { break; }   
+ return 1L; if (currentByte == 0) { break; }   
+ internal; if (currentByte == 0) { break; }   
+ //if (currentByte == 0) { break; }; if (currentByte == 0) { break; }   
+ long result; if (currentByte == 0) { break; }   
+  @param buffer @param offset @param length; if (currentByte == 0) { break; }   
+ return 0L;; if (currentByte == 0) { break; }   
+  }; if (currentByte == 0) { break; }   
+ final byte currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+ result = 0L; if (currentByte == 0) { break; }   
+ {@inheritDoc}; if (currentByte == 0) { break; }   
+ @param buffer; if (currentByte == 0) { break; }   
+ }; if (currentByte == 0) { break; }   
+  return 0L; if (currentByte == 0) { break; }   
+   return result; if (currentByte == 0) { break; }   
+long result; if (currentByte == 0) { break; }   
+ long result = 0; if (currentByte == 0) { break; }   
+ main; if (currentByte == 0) { break; }   
+ final long result = 0; if (currentByte == 0) { break; }   
+.; if (currentByte == 0) { break; }   
+ ---; if (currentByte == 0) { break; }   
+ // }; if (currentByte == 0) { break; }   
+ //; if (currentByte == 0) { break; }   
+0; if (currentByte == 0) { break; }   
+ returns 0L; if (currentByte == 0) { break; }   
+ // return result; if (currentByte == 0) { break; }   
+byte currentByte; if (currentByte == 0) { break; }   
+ long  result = 0L; if (currentByte == 0) { break; }   
+ start; if (currentByte == 0) { break; }   
+ int start = offset; if (currentByte == 0) { break; }   
+  private static final long serialVersionUID = 1L;; if (currentByte == 0) { break; }   
+ ++ offset; if (currentByte == 0) { break; }   
+ return 0; if (currentByte == 0) { break; }   
+ //long result = 0L; if (currentByte == 0) { break; }   
+ //}; if (currentByte == 0) { break; }   
+  ; if (currentByte == 0) { break; }   
+ //CHECKSTYLE:OFF; if (currentByte == 0) { break; }   
+ return result<mask1>;; if (currentByte == 0) { break; }   
+ return currentByte; if (currentByte == 0) { break; }   
+ ++; if (currentByte == 0) { break; }   
+ -----------------------------------------------------------------------; if (currentByte == 0) { break; }   
+ return result >>> 1; if (currentByte == 0) { break; }   
+ long result = 0L;; if (currentByte == 0) { break; }   
+ final long result = 0;; if (currentByte == 0) { break; }   
+ return parseOctal(buffer, offset, length);; if (currentByte == 0) { break; }   
+ final int currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+  @param buffer @return; if (currentByte == 0) { break; }   
+ return result >> 3; if (currentByte == 0) { break; }   
+ return (result << 3) + currentByte; if (currentByte == 0) { break; }   
+ long result = 0;; if (currentByte == 0) { break; }   
+ byte currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+ byte; if (currentByte == 0) { break; }   
+ -1; if (currentByte == 0) { break; }   
+; }; if (currentByte == 0) { break; }   
+ return long; if (currentByte == 0) { break; }   
+ Long; if (currentByte == 0) { break; }   
+ long     result = 0L; if (currentByte == 0) { break; }   
+ long   result   = 0L; if (currentByte == 0) { break; }   
+ try; if (currentByte == 0) { break; }   
+ return result >>> 8; if (currentByte == 0) { break; }   
+ @param buffer @param offset @param length; if (currentByte == 0) { break; }   
+ return result<<3; if (currentByte == 0) { break; }   
+--; if (currentByte == 0) { break; }   
+ //return result;; if (currentByte == 0) { break; }   
+ --; if (currentByte == 0) { break; }   
+ // return 0L; if (currentByte == 0) { break; }   
+ //throw new IllegalArgumentException();; if (currentByte == 0) { break; }   
+	; if (currentByte == 0) { break; }   
+ long result = 0L; if (currentByte == 0) { break; }   
+ parseOctal(buffer, offset, length);; if (currentByte == 0) { break; }   
+ final byte[] buffer;; if (currentByte == 0) { break; }   
+ //TODO; if (currentByte == 0) { break; }   
+ CHECKSTYLE:OFF; if (currentByte == 0) { break; }   
+ //	return result; if (currentByte == 0) { break; }   
+ final int length = 2;; if (currentByte == 0) { break; }   
+ parseOctal; if (currentByte == 0) { break; }   
+  @param buffer @param offset @return; if (currentByte == 0) { break; }   
+  @throws IllegalArgumentException; if (currentByte == 0) { break; }   
+ final byte currentByte = buffer[offset++];; if (currentByte == 0) { break; }   
+ int result = 0L; if (currentByte == 0) { break; }   
+ @throws IllegalArgumentException; if (currentByte == 0) { break; }   
+ //return currentByte; if (currentByte == 0) { break; }   
+ int     start = offset; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[length];; if (currentByte == 0) { break; }   
+ final long  result = 0L; if (currentByte == 0) { break; }   
+  @return long; if (currentByte == 0) { break; }   
+ result = 0; if (currentByte == 0) { break; }   
+ long   result; if (currentByte == 0) { break; }   
+  @return result; if (currentByte == 0) { break; }   
+ int currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+ return result<mask5> ; if (currentByte == 0) { break; }   
+ return result; }; if (currentByte == 0) { break; }   
+ //byte currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+long result = 0L; if (currentByte == 0) { break; }   
+ //    return result; if (currentByte == 0) { break; }   
+ byte currentByte; if (currentByte == 0) { break; }   
+ final long   result = 0L; if (currentByte == 0) { break; }   
+ int   start = offset; if (currentByte == 0) { break; }   
+ final int currentByte = buffer[offset++];; if (currentByte == 0) { break; }   
+ long   result  = 0L; if (currentByte == 0) { break; }   
+long result = 0; if (currentByte == 0) { break; }   
+ return result >>> 24; if (currentByte == 0) { break; }   
+ return result >>> 0; if (currentByte == 0) { break; }   
+ final long result = 0L;; if (currentByte == 0) { break; }   
+ /*#endif; if (currentByte == 0) { break; }   
+ long    result   = 0L; if (currentByte == 0) { break; }   
+ return (int)result; if (currentByte == 0) { break; }   
+ final int length = offset + length;; if (currentByte == 0) { break; }   
+ return (byte) result; if (currentByte == 0) { break; }   
+ @param buffer @return; if (currentByte == 0) { break; }   
+ return result >>> 4; if (currentByte == 0) { break; }   
+ long    result = 0; if (currentByte == 0) { break; }   
+  @param buffer @param offset; if (currentByte == 0) { break; }   
+ if (length < 2) { return 0L; }; if (currentByte == 0) { break; }   
+ for ( ;start < end; start++) {; if (currentByte == 0) { break; }   
+ int end = offset + length;; if (currentByte == 0) { break; }   
+ //throw new UnsupportedOperationException();; if (currentByte == 0) { break; }   
+ final long    result = 0L; if (currentByte == 0) { break; }   
+ final int end = offset + length;; if (currentByte == 0) { break; }   
+ final int length = 4;; if (currentByte == 0) { break; }   
+ static final long serialVersionUID = 1L;; if (currentByte == 0) { break; }   
+ return (int) result; if (currentByte == 0) { break; }   
+ return result >>> 5; if (currentByte == 0) { break; }   
+ // if (currentByte == 0) { break; }; if (currentByte == 0) { break; }   
+ int   result = 0L; if (currentByte == 0) { break; }   
+ return Long.parseLong(buffer, offset, length);; if (currentByte == 0) { break; }   
+ for ( ; start < end; start++) {; if (currentByte == 0) { break; }   
+ int    start = offset; if (currentByte == 0) { break; }   
+ static private static final long serialVersionUID = 1L;; if (currentByte == 0) { break; }   
+ //return 0L;; if (currentByte == 0) { break; }   
+ byte currentByte = buffer[offset++];; if (currentByte == 0) { break; }   
+ return (long)currentByte; if (currentByte == 0) { break; }   
+ int length = 2;; if (currentByte == 0) { break; }   
+ long    result = 0;; if (currentByte == 0) { break; }   
+ long   result = 0;; if (currentByte == 0) { break; }   
+ final int start = offset;; if (currentByte == 0) { break; }   
+ result = 0L;; if (currentByte == 0) { break; }   
+ final int end = offset + length; if (currentByte == 0) { break; }   
+ long   result    = 0L; if (currentByte == 0) { break; }   
+ long   result = 0; if (currentByte == 0) { break; }   
+byte currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+ parseOctal(buffer, offset, length); if (currentByte == 0) { break; }   
+ if (currentByte == 0) { break; }; if (currentByte == 0) { break; }   
+ @param buffer @param offset @return; if (currentByte == 0) { break; }   
+ return result & 0xff; if (currentByte == 0) { break; }   
+ for (; start < end; start++) {; if (currentByte == 0) { break; }   
+ return (long) length; if (currentByte == 0) { break; }   
+ @param buffer @param offset; if (currentByte == 0) { break; }   
+  Parse an octal number; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[2];; if (currentByte == 0) { break; }   
+ for (;start < end; start++) {; if (currentByte == 0) { break; }   
+ //System.out.println; if (currentByte == 0) { break; }   
+ int currentByte = buffer[offset++];; if (currentByte == 0) { break; }   
+ final long result   = 0L; if (currentByte == 0) { break; }   
+ final int length = 2; if (currentByte == 0) { break; }   
+ long   result = 0L;; if (currentByte == 0) { break; }   
+ //assert length >= 2; if (currentByte == 0) { break; }   
+ switch (length) {; if (currentByte == 0) { break; }   
+ while (true) {; if (currentByte == 0) { break; }   
+ int     result = 0L; if (currentByte == 0) { break; }   
+  @param buffer  @return; if (currentByte == 0) { break; }   
+ public static final long serialVersionUID = 1L;; if (currentByte == 0) { break; }   
+ long    result = 0L;; if (currentByte == 0) { break; }   
+  Parse an octal value; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[8];; if (currentByte == 0) { break; }   
+ return (long)0; if (currentByte == 0) { break; }   
+ return (long) 0; if (currentByte == 0) { break; }   
+ for (; offset < length; offset++) {; if (currentByte == 0) { break; }   
+ int end = offset + length; if (currentByte == 0) { break; }   
+  Parse an octal number.; if (currentByte == 0) { break; }   
+ int     currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+ int   currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+ //byte currentByte = buffer[offset++];; if (currentByte == 0) { break; }   
+ long result = 0<mask1>;; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[4];; if (currentByte == 0) { break; }   
+ //assert length >= 2;; if (currentByte == 0) { break; }   
+ final byte[] buffer = buffer;; if (currentByte == 0) { break; }   
+ final byte[] buffer = buffer; if (currentByte == 0) { break; }   
+ if (length < 2) { throw new IllegalArgumentException(); }; if (currentByte == 0) { break; }   
+  Parse an octal value.; if (currentByte == 0) { break; }   
+ final int length = (int)length; if (currentByte == 0) { break; }   
+ int   start = offset;; if (currentByte == 0) { break; }   
+ int    currentByte = buffer[offset];; if (currentByte == 0) { break; }   
+ //if (length < 2) { break; }; if (currentByte == 0) { break; }   
+ //if (length < 2) return 0L; if (currentByte == 0) { break; }   
+  parseOctal(buffer, offset, length);; if (currentByte == 0) { break; }   
+ byte[] buffer = new byte[length];; if (currentByte == 0) { break; }   
+ //if (length < 2) { return 0L; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[]{};; if (currentByte == 0) { break; }   
+ final int length = offset + length; if (currentByte == 0) { break; }   
+ //echo "parseOctal";; if (currentByte == 0) { break; }   
+ //parseOctal(buffer, offset, length);; if (currentByte == 0) { break; }   
+ //if (currentByte == 0) return 0L; if (currentByte == 0) { break; }   
+ for ( ;start < end; start++); if (currentByte == 0) { break; }   
+ for ( ; start < end; start++); if (currentByte == 0) { break; }   
+ for (;offset < length;offset++) {; if (currentByte == 0) { break; }   
+ final int length = (int) length; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[16];; if (currentByte == 0) { break; }   
+ if (length == 0) { return 0L; }; if (currentByte == 0) { break; }   
+ //if (currentByte != 0) { break; }; if (currentByte == 0) { break; }   
+ //System.out.println(currentByte);; if (currentByte == 0) { break; }   
+  @see #parseOctal(byte[]); if (currentByte == 0) { break; }   
+ //parseOctal(buffer, offset, length); if (currentByte == 0) { break; }   
+ /* private static final long serialVersionUID = 1L;; if (currentByte == 0) { break; }   
+ if (length == 2) { return 0L; }; if (currentByte == 0) { break; }   
+  @param buffer @param offset  @return; if (currentByte == 0) { break; }   
+ //if (length < 2) { return 0; }; if (currentByte == 0) { break; }   
+ final char[] buffer = new char[length];; if (currentByte == 0) { break; }   
+ if (length < 2) { return 0; }; if (currentByte == 0) { break; }   
+ //if (start < end) { break; }; if (currentByte == 0) { break; }   
+ //for ( ;start < end; start++) {; if (currentByte == 0) { break; }   
+ if (length < 2) { return 0L; if (currentByte == 0) { break; }   
+ //for ( ; start < end; start++) {; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[] { 0 };; if (currentByte == 0) { break; }   
+ //if (currentByte == 0) { continue; }; if (currentByte == 0) { break; }   
+ final byte[] buffer = new byte[offset + length];; if (currentByte == 0) { break; }   
+ final int currentByte = buffer[offset] & 0xff; if (currentByte == 0) { break; }   
+ //if (length == 0) { return 0; }; if (currentByte == 0) { break; }   
+ //if (length == 2) { return 0L; if (currentByte == 0) { break; }   
+if (currentByte  == 0x 0) { break; }   
+if (currentByte  == ' 0) { break; }   
+if (currentByte  == - 0) { break; }   
+if (currentByte == 0) { break; }   
+if (currentByte  == 0) { break; }   
+if (currentByte  == '\ 0) { break; }   
+if (currentByte  == '0' 0) { break; }   
+if (currentByte  == '\0' 0) { break; }   
+if (currentByte  == b'\ 0) { break; }   
+if (currentByte  == b 0) { break; }   
+if (currentByte  == 0xff 0) { break; }   
+if (currentByte  == 0x00 0) { break; }   
+if (currentByte  == ( 0) { break; }   
+if (currentByte  == '<mask1>; 0) { break; }   
+if (currentByte  == 'x' 0) { break; }   
+if (currentByte  == (byte) 0) { break; }   
+if (currentByte  < ' 0) { break; }   
+if (currentByte  ==  0) { break; }   
+if (currentByte  < '0' 0) { break; }   
+if (currentByte  == 0xFF 0) { break; }   
+if (currentByte  == 0 0) { break; }   
+if (currentByte  < 0x 0) { break; }   
+if (currentByte  != ' 0) { break; }   
+if (currentByte  == 0 || currentByte == ' 0) { break; }   
+if (currentByte  == \ 0) { break; }   
+if (currentByte  == 0b 0) { break; }   
+if (currentByte  == 0xA 0) { break; }   
+if (currentByte  == 0l 0) { break; }   
+if (currentByte  == 0x<mask1>; 0) { break; }   
+if (currentByte  == _ 0) { break; }   
+if (currentByte  == '\<mask1>; 0) { break; }   
+if (currentByte  == '\x 0) { break; }   
+if (currentByte  == '9' 0) { break; }   
+if (currentByte  == ~ 0) { break; }   
+if (currentByte  ==  0) { break; }   
+if (currentByte  == '\n' 0) { break; }   
+if (currentByte  == ^ 0) { break; }   
+if (currentByte  == 0x0 0) { break; }   
+if (currentByte  == -<mask1>; 0) { break; }   
+if (currentByte  == 'X' 0) { break; }   
+if (currentByte  != 0x 0) { break; }   
+if (currentByte  == '1' 0) { break; }   
+if (currentByte  == 255 0) { break; }   
+if (currentByte  == '\u0000' 0) { break; }   
+if (currentByte  == "\ 0) { break; }   
+if (currentByte  == 'Z' 0) { break; }   
+if (currentByte  == 0. 0) { break; }   
+if (currentByte  == 0x7 0) { break; }   
+if (currentByte  == '\n 0) { break; }   
+if (currentByte < 0) { break; }   
+if (currentByte  ==  0x 0) { break; }   
+if (currentByte  == 0xFFFD 0) { break; }   
+if (currentByte  == '\x00' 0) { break; }   
+if (currentByte  == < 0) { break; }   
+if (currentByte  == '. 0) { break; }   
+if (currentByte  == '! 0) { break; }   
+if (currentByte  == '= 0) { break; }   
+if (currentByte  == 0X 0) { break; }   
+if (currentByte  != '\ 0) { break; }   
+if (currentByte  == '7' 0) { break; }   
+if (currentByte  < 0 0) { break; }   
+if (currentByte  == 0x7F 0) { break; }   
+if (currentByte  == 32 0) { break; }   
+if (currentByte  == 0xfb 0) { break; }   
+if (currentByte  == b' 0) { break; }   
+if (currentByte  == c 0) { break; }   
+if (currentByte  == 0x7f 0) { break; }   
+if (currentByte  == NULL 0) { break; }   
+if (currentByte  == '\u0000 0) { break; }   
+if (currentByte  == 1 0) { break; }   
+if (currentByte  == 0) { break; } 0) { break; }   
+if (currentByte  == NUL 0) { break; }   
+if (currentByte  == 'a' 0) { break; }   
+if (currentByte  == '-' 0) { break; }   
+if (currentByte  == byte. 0) { break; }   
+if (currentByte  == 0  0) { break; }   
+if (currentByte  == 'b' 0) { break; }   
+if (currentByte  == '<mask1>} 0) { break; }   
+if (currentByte  == 0 && length == 2 0) { break; }   
+if (currentByte  == '0'  0) { break; }   
+if (currentByte  == ? 0) { break; }   
+if (currentByte  == 0xFEFF 0) { break; }   
+if (currentByte  == '^ 0) { break; }   
+if (currentByte  == " 0) { break; }   
+if (currentByte  == 0 && length > 0 0) { break; }   
+if (currentByte  == & 0) { break; }   
+if (currentByte  < 0 || currentByte > 7 0) { break; }   
+if (currentByte  == B 0) { break; }   
+if (currentByte  == 0 && length >= 2 0) { break; }   
+if (currentByte != 0) { break; }   
+if (currentByte  == 0xC 0) { break; }   
+if (currentByte  == '\t' 0) { break; }   
+if (currentByte  == 0; 0) { break; }   
+if (currentByte  == '\0'  0) { break; }   
+if (currentByte  == 0L; 0) { break; }   
+if (currentByte  ==  0 0) { break; }   
+if (currentByte  == '\\ 0) { break; }   
+if (currentByte  == '<mask1> 0) { break; }   
+if (currentByte  <= 0x7F 0) { break; }   
+if (currentByte  == 0x01 0) { break; }   
+if (currentByte  == '- 0) { break; }   
+if (currentByte  == '0 0) { break; }   
+if (currentByte  == <mask1>; 0) { break; }   
+if (currentByte  == + 0) { break; }   
+if (currentByte  == ----- 0) { break; }   
+if (currentByte  == 0 || length == 0 0) { break; }   
+if (currentByte  == . 0) { break; }   
+if (currentByte  == 0.. 0) { break; }   
+if (currentByte  != - 0) { break; }   
+if (currentByte  == 0x8 0) { break; }   
+if (currentByte  == 'x 0) { break; }   
+if (currentByte  == 0| 0) { break; }   
+if (currentByte ==' 0) { break; }   
+if (currentByte  == '0'<mask1>; 0) { break; }   
+if (currentByte  == 0) return 0L; 0) { break; }   
+if (currentByte  ==  '0' 0) { break; }   
+if (currentByte  < '9' 0) { break; }   
+if (currentByte  == '0'. 0) { break; }   
+if (currentByte  == 0 && length < 2 0) { break; }   
+if (currentByte  == 10 0) { break; }   
+if (currentByte  == 45 0) { break; }   
+if (currentByte  == -- 0) { break; }   
+if (currentByte  == 'A' 0) { break; }   
+if (currentByte  == 0x0000 0) { break; }   
+if (currentByte  == '0x 0) { break; }   
+if (currentByte  == 'z' 0) { break; }   
+if (currentByte  == 0 || currentByte == - 0) { break; }   
+if (currentByte  == 0x20 0) { break; }   
+if (currentByte  < '<mask1>; 0) { break; }   
+if (currentByte  == '\x0 0) { break; }   
+if (currentByte  == NUL_ 0) { break; }   
+if (currentByte  == 0x0F 0) { break; }   
+if (currentByte  <= 0x7f 0) { break; }   
+if (currentByte  == b'\0' 0) { break; }   
+if (currentByte  == 0xc 0) { break; }   
+if (currentByte  == 0..7 0) { break; }   
+if (currentByte  != '0' 0) { break; }   
+if (currentByte  == 0^ 0) { break; }   
+if (currentByte  == 0 && length == 2  0) { break; }   
+if (currentByte  == 0xFFFFFFFFFFFFFFFF 0) { break; }   
+if (currentByte  == 0x9 0) { break; }   
+if (currentByte  < 10 0) { break; }   
+if (currentByte  == 'N' 0) { break; }   
+if (currentByte  == b"\ 0) { break; }   
+if (currentByte  == 0xa 0) { break; }   
+if (currentByte  == 0xfe 0) { break; }   
+if (currentByte  == CHAR_ 0) { break; }   
+if (currentByte  == b<mask1>; 0) { break; }   
+if (currentByte  == 0xFFFF 0) { break; }   
+if (currentByte  == '\0'. 0) { break; }   
+if (currentByte  == 0x02 0) { break; }   
+if (currentByte  == '0x' 0) { break; }   
+if (currentByte  == \\ 0) { break; }   
+if (currentByte  == 16 0) { break; }   
+if (currentByte <= 0) { break; }   
+if (currentByte  == 'n' 0) { break; }   
+if (currentByte  == '~ 0) { break; }   
+if (currentByte > 0) { break; }   
+if (currentByte  < '\ 0) { break; }   
+if (currentByte  == 127. 0) { break; }   
+if (currentByte  == 0 && length > 0) { break; }   
+if (currentByte  == 0x07 0) { break; }   
+if (currentByte  == 0 && length > 2 0) { break; }   
+if (currentByte  ==  ' 0) { break; }   
+if (currentByte  == 'e' 0) { break; }   
+if (currentByte  == '8' 0) { break; }   
+if (currentByte  ==<mask1>; 0) { break; }   
+if (currentByte  == 4 0) { break; }   
+if (currentByte  == '\<mask1> 0) { break; }   
+if (currentByte  ==	 0) { break; }   
+if (currentByte  == '\0'<mask1>; 0) { break; }   
+if (currentByte  == 0..<mask1>; 0) { break; }   
+if (currentByte  == 46 0) { break; }   
+if (currentByte  == '\<mask1>} 0) { break; }   
+if (currentByte  == '0'* 0) { break; }   
+if (currentByte  == L 0) { break; }   
+if (currentByte  == b'' 0) { break; }   
+if (currentByte  == 0x0b 0) { break; }   
+if (currentByte  == $ 0) { break; }   
+if (currentByte  >= ' 0) { break; }   
+if (currentByte  == U 0) { break; }   
+if (currentByte  == 0 && length == 0 0) { break; }   
+if (currentByte  == 'f' 0) { break; }   
+if (currentByte  == 0x0a 0) { break; }   
+if (currentByte  == = 0) { break; }   
+if (currentByte  == 255. 0) { break; }   
+if (currentByte  == 254 0) { break; }   
+if (currentByte  == 0x30 0) { break; }   
+if (currentByte  == '\n'. 0) { break; }   
+if (currentByte  == '<mask1>. 0) { break; }   
+if (currentByte ==- 0) { break; }   
+if (currentByte  == '0'... 0) { break; }   
+if (currentByte  == '\n') 0) { break; }   
+if (currentByte  == 0x0f 0) { break; }   
+if (currentByte  == 'Z 0) { break; }   
+if (currentByte  == == 0) { break; }   
+if (currentByte  == 655 0) { break; }   
+if (currentByte  == 15 0) { break; }   
+if (currentByte  == (char) 0) { break; }   
+if (currentByte  == 0xFFFE 0) { break; }   
+if (currentByte  == 0 || currentByte == 7 0) { break; }   
+if (currentByte  == '\b' 0) { break; }   
+if (currentByte  == 127 0) { break; }   
+if (currentByte  == '<mask1>; } 0) { break; }   
+if (currentByte  == 0x4 0) { break; }   
+if (currentByte  == l 0) { break; }   
+if (currentByte  == 0x7E 0) { break; }   
+if (currentByte  == 0x0d 0) { break; }   
+if (currentByte  ==<mask5>== 0) { break; }   
+if (currentByte  == '\000' 0) { break; }   
+if (currentByte  == 'L' 0) { break; }   
+if (currentByte  == 0x00000000 0) { break; }   
+if (currentByte  == 'l' 0) { break; }   
+if (currentByte  == 5 0) { break; }   
+if (currentByte  == 0 || length < 2 0) { break; }   
+if (currentByte  == 0x0C 0) { break; }   
+if (currentByte  == 100 0) { break; }   
+if (currentByte  ==  - 0) { break; }   
+if (currentByte  == 'X 0) { break; }   
+if (currentByte  =='\ 0) { break; }   
+if (currentByte  == 07 0) { break; }   
+if (currentByte  == 0) return 0; 0) { break; }   
+if (currentByte  == '0'..7 0) { break; }   
+if (currentByte  == '\0' } 0) { break; }   
+if (currentByte  == 0x00b 0) { break; }   
+if (currentByte  == '\n\r' 0) { break; }   
+if (currentByte  == 0 || currentByte > 7 0) { break; }   
+if (currentByte  == '+ 0) { break; }   
+if (currentByte  == 0x00FF 0) { break; }   
+if (currentByte  == '\n'  0) { break; }   
+if (currentByte  == 0 && length > 1 0) { break; }   
+if (currentByte  == 0x0E 0) { break; }   
+if (currentByte  == 8 0) { break; }   
+if (currentByte  == pad 0) { break; }   
+if (currentByte  == 0x00a 0) { break; }   
+if (currentByte  == 0 && length == 4 0) { break; }   
+if (currentByte  == 0x0A 0) { break; }   
+if (currentByte  == '0' ... 0) { break; }   
+if (currentByte  == 0 && length == 1 0) { break; }   
+if (currentByte  == 0||currentByte == ' 0) { break; }   
+if (currentByte  == '\ufeff' 0) { break; }   
+if (currentByte  == 0){ break; } 0) { break; }   
+if (currentByte  == b'\x00' 0) { break; }   
+if (currentByte  == 0 or currentByte == ' 0) { break; }   
+if (currentByte  == 0 && length == 2; 0) { break; }   
+if (currentByte  == 0 || currentByte == '- 0) { break; }   
+if (currentByte  == '\uFEFF' 0) { break; }   
+if (currentByte  == 127){ return 0; } 0) { break; }   
+if (currentByte  ==  '\0' 0) { break; }   
+if (currentByte  == 0 || currentByte == '. 0) { break; }   
+if (currentByte == 0) { break; }   
+if (length == 0) { break; }   
+if (currentByte<mask5>currentByte == 0) { break; }   
+if (start == 0) { break; }   
+if (buffer[start] == 0) { break; }   
+if ( currentByte == 0) { break; }   
+if (result == 0) { break; }   
+if (trailer == 0) { break; }   
+if (length-1 == 0) { break; }   
+if (byteCurrentByte == 0) { break; }   
+if (currentByte  == 0) { break; }   
+if (firstByte == 0) { break; }   
+if (start+length == 0) { break; }   
+if (value == 0) { break; }   
+if (nextByte == 0) { break; }   
+if (end-start == 0) { break; }   
+if (length<mask5>length == 0) { break; }   
+if (count == 0) { break; }   
+if (start+1 == 0) { break; }   
+if (currentByte<mask5>current == 0) { break; }   
+if (currByte == 0) { break; }   
+if (byteVal == 0) { break; }   
+if (currentByte	 == 0) { break; }   
+if (remaining() == 0) { break; }   
+if (end == 0) { break; }   
+if (byte currentByte == 0) { break; }   
+if (currentByte <mask5>currentByte == 0) { break; }   
+if (lastByte == 0) { break; }   
+if (offset == 0) { break; }   
+if (length<mask5>currentByte == 0) { break; }   
+if (currentChar == 0) { break; }   
+if (byte == 0) { break; }   
+if (currentbyte == 0) { break; }   
+if (currentBit == 0) { break; }   
+if (offset+length == 0) { break; }   
+if (level == 0) { break; }   
+if (initialByte == 0) { break; }   
+if (previousByte == 0) { break; }   
+if (curByte == 0) { break; }   
+if (currentByte   == 0) { break; }   
+if (remainingByte == 0) { break; }   
+if (currentByte  == 0) { break; }   
+if (value<mask5>value == 0) { break; }   
+if (currentByte<mask6>currentByte == 0) { break; }   
+if (valueByte == 0) { break; }   
+if (start<mask5>currentByte == 0) { break; }   
+if (limit == 0) { break; }   
+if (currentValue == 0) { break; }   
+if (length-- == 0) { break; }   
+if (byte<mask5>byte == 0) { break; }   
+if (code == 0) { break; }   
+if (length-start == 0) { break; }   
+if (currentByte<mask5>result == 0) { break; }   
+if (readByte == 0) { break; }   
+if (currentByte==0) { break; } == 0) { break; }   
+if (end<mask5>currentByte == 0) { break; }   
+if (byte.length == 0) { break; }   
+if (trailer<mask5>currentByte == 0) { break; }   
+if (1 == 0) { break; }   
+if (totalByte == 0) { break; }   
+if (currentElement == 0) { break; }   
+if (byte0 == 0) { break; }   
+if (index == 0) { break; }   
+if (byte(currentByte) == 0) { break; }   
+if (remaining == 0) { break; }   
+if (currentByte == 0) { break; } == 0) { break; }   
+if (final byte currentByte == 0) { break; }   
+if (currentByte<mask7>+1 == 0) { break; }   
+if (begin == 0) { break; }   
+if (Character.codePointAt(buffer, offset) == 0) { break; }   
+if (result<mask5>currentByte == 0) { break; }   
+if (end-offset == 0) { break; }   
+if (targetByte == 0) { break; }   
+if (depth == 0) { break; }   
+if (i == 0) { break; }   
+if (CurrentByte == 0) { break; }   
+if (remaining(buffer) == 0) { break; }   
+if (length<mask1>length must be at least 2 bytes == 0) { break; }   
+if (length<mask1>length == 0) { break; }   
+if (end - start == 0) { break; }   
+if (nowByte == 0) { break; }   
+if (currentByte    == 0) { break; }   
+if (eof == 0) { break; }   
+if (currentByte<mask7> == 0) { break; }   
+if (byteval == 0) { break; }   
+if (currentByte==0 || currentByte == 0) { break; }   
+if (end-- == 0) { break; }   
+if (bytecurrentByte == 0) { break; }   
+if (length<mask1>return result; } == 0) { break; }   
+if (length<mask1>return result; } == 0) { break; }   
+if (currentByte.length == 0) { break; }   
+if (startingByte == 0) { break; }   
+if (state == 0) { break; }   
+if (currentPosition == 0) { break; }   
+if (finalByte == 0) { break; }   
+if (currentByte     == 0) { break; }   
+if (AST#binary_expression#LeftcurrentByte == 0) { break; }   
+if (currentByte<mask9>} == 0) { break; }   
+if (length==0) { return 0; } == 0) { break; }   
+if (start+length-1 == 0) { break; }   
+if (currentByte<mask7>  == 0) { break; }   
+if (currentToken == 0) { break; }   
+if (length<mask1>length < 2 == 0) { break; }   
+if (currentByte<mask5>start == 0) { break; }   
+if (length%2 == 0) { break; }   
+if (start<mask5>start == 0) { break; }   
+if (end-1 == 0) { break; }   
+if (length-offset == 0) { break; }   
+if (currentByte<mask7> } == 0) { break; }   
+if (header == 0) { break; }   
+if (totalLength == 0) { break; }   
+if (byteTail == 0) { break; }   
+if (counter == 0) { break; }   
+if (currentByte<mask5>length == 0) { break; }   
+if (current byte == 0) { break; }   
+if (len == 0) { break; }   
+if (result<mask5>result == 0) { break; }   
+if (0 == 0) { break; }   
+if (byteChar == 0) { break; }   
+if (currentByte == '0' || currentByte == 0) { break; }   
+if (length-2 == 0) { break; }   
+if (startOffset == 0) { break; }   
+if (originalByte == 0) { break; }   
+if (length+1 == 0) { break; }   
+if (byteCurrent == 0) { break; }   
+if (getCurrentByte() == 0) { break; }   
+if (length<mask1>length<mask2>currentByte == 0) { break; }   
+if (currentByte<mask7>. == 0) { break; }   
+if (byteValue == 0) { break; }   
+if (tempChar == 0) { break; }   
+if (buffer[offset] == 0) { break; }   
+if (leadSurrogate == 0) { break; }   
+if (start<mask5>length == 0) { break; }   
+if (this.currentByte == 0) { break; }   
+if (start++ == 0) { break; }   
+if (buf[start] == 0) { break; }   
+if (length<mask1>length must be at least 2 == 0) { break; }   
+if (rawByte == 0) { break; }   
+if (curChar == 0) { break; }   
+if (length==0) { break; } == 0) { break; }   
+if (latch == 0) { break; }   
+if (status == 0) { break; }   
+if (buffer[end] == 0) { break; }   
+if (characterCount == 0) { break; }   
+if (byte[start] == 0) { break; }   
+if (direction == 0) { break; }   
+if (readByte() == 0) { break; }   
+if (actualByte == 0) { break; }   
+if (remainder == 0) { break; }   
+if (ending == 0) { break; }   
+if (currentByte<mask7>  == 0) { break; }   
+if (currentByte<mask1>length == 0) { break; }   
+if (currentState == 0) { break; }   
+if (currentByte[0] == 0) { break; }   
+if (headerByte == 0) { break; }   
+if (currentByte-1 == 0) { break; }   
+if (remainingBytes == 0) { break; }   
+if (byteByte == 0) { break; }   
+if (base == 0) { break; }   
+if (currentLine == 0) { break; }   
+if (inputByte == 0) { break; }   
+if (parsedByte == 0) { break; }   
+if (0x80 == 0) { break; }   
+if (return currentByte == 0) { break; }   
+if (endingByte == 0) { break; }   
+if (totalBytes == 0) { break; }   
+if (currentByte<mask5>byte == 0) { break; }   
+if (currentByte+1 == 0) { break; }   
+if (present == 0) { break; }   
+if (byteLen == 0) { break; }   
+if (oldByte == 0) { break; }   
+if (trace == 0) { break; }   
+if (cursor == 0) { break; }   
+if (existingByte == 0) { break; }   
+if (currentByte 	 == 0) { break; }   
+if (type == 0) { break; }   
+if (currentByte<mask7> } == 0) { break; }   
+if (nextByte() == 0) { break; }   
+if (length<mask5>result == 0) { break; }   
+if (byte<mask5>currentByte == 0) { break; }   
+if (currentRow == 0) { break; }   
+if (byte value == 0) { break; }   
+if (int currentByte == 0) { break; }   
+if (tc == 0) { break; }   
+if (charAt(buffer, offset) == 0) { break; }   
+if (charCount == 0) { break; }   
+if (charAt(buffer, offset, length) == 0) { break; }   
+if (otherByte == 0) { break; }   
+if (currentBitLength == 0) { break; }   
+if (currentByte<mask7>   } == 0) { break; }   
+if (currentByte<mask7>  == 0) { break; }   
+if (currentByte == 0 || currentByte == 0) { break; }   
+if (currentByte&0xff == 0) { break; }   
+if (total == 0) { break; }   
+if (currentByte.length() == 0) { break; }   
+if (length<mask1>end--; == 0) { break; }   
+if (position == 0) { break; }   
+if (currentByte<mask1>length < 2 == 0) { break; }   
+if (start-offset == 0) { break; }   
+if (currentByte|0x80 == 0) { break; }   
+if (value.length == 0) { break; }   
+if (currentByte<mask7> && length == 0) { break; }   
+if (length<mask5>currentByte<mask6>currentByte == 0) { break; }   
+if (buffer[currentByte] == 0) { break; }   
+if (byteLevel == 0) { break; }   
+if (ccc == 0) { break; }   
+if (byteCount == 0) { break; }   
+if (currentByte<mask7> || == 0) { break; }   
+if (currentObject == 0) { break; }   
+if (Byte.MIN_VALUE == 0) { break; }   
+if (start+length+1 == 0) { break; }   
+if (currentByte<mask9> } == 0) { break; }   
+if (offset+length-1 == 0) { break; }   
+if (length<mask1>length-1; == 0) { break; }   
+if (currentByte&0xFF == 0) { break; }   
+if (length == 0) { return 0; } == 0) { break; }   
+if (buffer[start+1] == 0) { break; }   
+if (currentByte&0x80 == 0) { break; }   
+if (currentByte<mask9> } == 0) { break; }   
+if (character(buffer, offset, length) == 0) { break; }   
+if (readByte(buffer, offset, length) == 0) { break; }   
+if (length<mask1>offset = offset + length; == 0) { break; }   
+if (end-start+1 == 0) { break; }   
+if (length==0){ return 0L; } == 0) { break; }   
+if (start == end) { return 0; } == 0) { break; }   
+if ( == 0) { break; }   
+if (end-offset+1 == 0) { break; }   
+if (currentByte <mask1>return result; } == 0) { break; }   
+if (length<mask1>buffer[offset]] == 0) { break; }   
+if (Character.getType(currentByte) == 0) { break; }   
+if (length<mask5>currentByte>7 == 0) { break; }   
+if (length<2){ return 0L; } == 0) { break; }   
+if (currentByte<mask9> return result; } == 0) { break; }   
+if (length<mask1>buffer[offset]]; == 0) { break; }   
+if (start+length<mask1>length<mask2>currentByte == 0) { break; }   
+if (length<mask5>currentByte > 127 == 0) { break; }   
+if (length<mask1>start=0; == 0) { break; }   
+if (currentByte==0){ break; } == 0) { break; }   
+if (length<mask1>length-1) == 0) { break; }   
+if (length<=0) { return 0; } == 0) { break; }   
+if (length<mask1>length=2; == 0) { break; }   
+if (length<mask1>offset + length; == 0) { break; }   
+if (length<mask1>buffer[offset] == 0) { break; }   
+if (length<2) { return 0; } == 0) { break; }   
+if (currentByte == 0) { } == 0) { break; }   
+if (length<mask1>buffer[offset]] = 0; == 0) { break; }   
+if (length<mask1>end-1; == 0) { break; }   
+if (length<mask1>length >= 2) { == 0) { break; }   
+if (start==end) { return 0; } == 0) { break; }   
+if (Character.codePointAt(buffer, start) == 0) { break; }   
+if (currentByte ==  0) { break; }   
+if (currentByte ==  0x00) { break; }   
+if (currentByte ==  '0') { break; }   
+if (currentByte ==  0<mask1>;) { break; }   
+if (currentByte ==  127) { break; }   
+if (currentByte ==  0L) { break; }   
+if (currentByte ==  0xFF) { break; }   
+if (currentByte ==  0xff) { break; }   
+if (currentByte ==  ' ') { break; }   
+if (currentByte ==  '-') { break; }   
+if (currentByte ==  '\0') { break; }   
+if (currentByte ==  0x0) { break; }   
+if (currentByte ==  0l) { break; }   
+if (currentByte ==  -1) { break; }   
+if (currentByte ==  0x80) { break; }   
+if (currentByte ==  1) { break; }   
+if (currentByte ==  NULL) { break; }   
+if (currentByte ==  255) { break; }   
+if (currentByte ==  '.') { break; }   
+if (currentByte ==  0<mask1>) { break; }   
+if (currentByte ==  'x') { break; }   
+if (currentByte ==  NUL) { break; }   
+if (currentByte ==  0x7F) { break; }   
+if (currentByte ==  127<mask1>;) { break; }   
+if (currentByte ==  0<mask1>}) { break; }   
+if (currentByte ==  '7') { break; }   
+if (currentByte ==  9) { break; }   
+if (currentByte ==  '9') { break; }   
+if (currentByte ==  0x01) { break; }   
+if (currentByte ==  27) { break; }   
+if (currentByte ==  0<mask5> 0) { break; }   
+if (currentByte ==  0x00000000) { break; }   
+if (currentByte ==  10) { break; }   
+if (currentByte ==  63) { break; }   
+if (currentByte ==  EOF) { break; }   
+if (currentByte ==  '\n') { break; }   
+if (currentByte ==  0xfb) { break; }   
+if (currentByte ==  PAD) { break; }   
+if (currentByte ==  0x7f) { break; }   
+if (currentByte ==  0<mask1> ;) { break; }   
+if (currentByte ==  6) { break; }   
+if (currentByte ==  'X') { break; }   
+if (currentByte ==  3) { break; }   
+if (currentByte ==  4) { break; }   
+if (currentByte ==  8) { break; }   
+if (currentByte ==  7) { break; }   
+if (currentByte ==  '1') { break; }   
+if (currentByte ==  61) { break; }   
+if (currentByte ==  0x0000) { break; }   
+if (currentByte ==  'Z') { break; }   
+if (currentByte ==  32) { break; }   
+if (currentByte ==  1L) { break; }   
+if (currentByte ==  currentByte) { break; }   
+if (currentByte == 0) { break; }   
+if (currentByte ==  null) { break; }   
+if (currentByte ==  0<mask1>.) { break; }   
+if (currentByte ==  0x20) { break; }   
+if (currentByte ==  0<mask1>; }) { break; }   
+if (currentByte ==  (byte)0) { break; }   
+if (currentByte ==  0x0F) { break; }   
+if (currentByte ==  0x30) { break; }   
+if (currentByte ==  13) { break; }   
+if (currentByte ==  0b000) { break; }   
+if (currentByte ==  '=') { break; }   
+if (currentByte ==  0xFFFD) { break; }   
+if (currentByte ==  256) { break; }   
+if (currentByte ==  terminator) { break; }   
+if (currentByte ==  length) { break; }   
+if (currentByte ==  '#') { break; }   
+if (currentByte ==  0xFFFF) { break; }   
+if (currentByte ==  byte0) { break; }   
+if (currentByte ==  ZERO) { break; }   
+if (currentByte ==  254) { break; }   
+if (currentByte ==  '\x00') { break; }   
+if (currentByte ==  46) { break; }   
+if (currentByte ==  128) { break; }   
+if (currentByte ==  -1L) { break; }   
+if (currentByte ==  0xfe) { break; }   
+if (currentByte ==  ',') { break; }   
+if (currentByte ==  31) { break; }   
+if (currentByte ==  0x07) { break; }   
+if (currentByte ==  0xDEAD) { break; }   
+if (currentByte ==  0x0a) { break; }   
+if (currentByte ==  'e') { break; }   
+if (currentByte ==  0x02) { break; }   
+if (currentByte ==  '+') { break; }   
+if (currentByte ==  0x09) { break; }   
+if (currentByte ==  15) { break; }   
+if (currentByte ==  126) { break; }   
+if (currentByte ==  NIL) { break; }   
+if (currentByte ==  0x9) { break; }   
+if (currentByte ==  '0) { break; }   
+if (currentByte ==  0<mask1> ) { break; }   
+if (currentByte ==  2) { break; }   
+if (currentByte ==  0x0A) { break; }   
+if (currentByte ==  '0' ...) { break; }   
+if (currentByte ==  0x7) { break; }   
+if (currentByte ==  0<mask1> }) { break; }   
+if (currentByte ==  '?') { break; }   
+if (currentByte ==  45) { break; }   
+if (currentByte ==  0<mask1> ;)) { break; }   
+if (currentByte ==  0x0f) { break; }   
+if (currentByte ==  0;) { break; }   
+if (currentByte ==  0x04) { break; }   
+if (currentByte ==  pad) { break; }   
+if (currentByte ==  0xFFFFFFFF) { break; }   
+if (currentByte ==  EMPTY) { break; }   
+if (currentByte ==  0xffff) { break; }   
+if (currentByte ==  0 ) { break; }   
+if (currentByte ==  0x10) { break; }   
+if (currentByte ==  127L) { break; }   
+if (currentByte ==  EOS) { break; }   
+if (currentByte ==  eof) { break; }   
+if (currentByte ==  '*') { break; }   
+if (currentByte ==  0d) { break; }   
+if (currentByte ==  24) { break; }   
+if (currentByte ==  0xEF) { break; }   
+if (currentByte ==  0x0C) { break; }   
+if (currentByte ==  5) { break; }   
+if (currentByte ==  '\t') { break; }   
+if (currentByte ==  '8') { break; }   
+if (currentByte ==  0xFFFFFFFFFFFFFFFF) { break; }   
+if (currentByte ==  0x03) { break; }   
+if (currentByte ==  'b') { break; }   
+if (currentByte ==  0x0d) { break; }   
+if (currentByte ==  (byte) 0) { break; }   
+if (currentByte ==  64) { break; }   
+if (currentByte ==  '0' ) { break; }   
+if (currentByte ==  'E') { break; }   
+if (currentByte ==  0x7E) { break; }   
+if (currentByte ==  12) { break; }   
+if (currentByte ==  0x0E) { break; }   
+if (currentByte ==  0x00FF) { break; }   
+if (currentByte ==  0x8) { break; }   
+if (currentByte ==  STOP) { break; }   
+if (currentByte ==  '5') { break; }   
+if (currentByte ==  '') { break; }   
+if (currentByte ==  delimiter) { break; }   
+if (currentByte ==  127<mask1>) { break; }   
+if (currentByte ==  0xFD) { break; }   
+if (currentByte ==  'N') { break; }   
+if (currentByte ==  0xFE) { break; }   
+if (currentByte ==  0x0b) { break; }   
+if (currentByte ==  48) { break; }   
+if (currentByte ==  57) { break; }   
+if (currentByte ==  '~') { break; }   
+if (currentByte ==  'z') { break; }   
+if (currentByte ==  byte 0) { break; }   
+if (currentByte ==  't') { break; }   
+if (currentByte ==   0) { break; }   
+if (currentByte ==  '[') { break; }   
+if (currentByte ==  zero) { break; }   
+if (currentByte ==  34) { break; }   
+if (currentByte ==  0xaa) { break; }   
+if (currentByte ==  0<mask1>;;) { break; }   
+if (currentByte ==  0xdf) { break; }   
+if (currentByte ==  0x36) { break; }   
+if (currentByte ==  0x0D) { break; }   
+if (currentByte ==  b'') { break; }   
+if (currentByte ==  0x24) { break; }   
+if (currentByte ==  0<mask1>,) { break; }   
+if (currentByte ==  HEX) { break; }   
+if (currentByte ==  60) { break; }   
+if (currentByte ==  0x08) { break; }   
+if (currentByte ==  '\u0000') { break; }   
+if (currentByte ==  0xef) { break; }   
+if (currentByte ==  0x007F) { break; }   
+if (currentByte ==  0x0001) { break; }   
+if (currentByte ==  0xFFFFFF) { break; }   
+if (currentByte ==  '\') { break; }   
+if (currentByte ==  '\\') { break; }   
+if (currentByte ==  END) { break; }   
+if (currentByte ==  'a') { break; }   
+if (currentByte ==  false) { break; }   
+if (currentByte ==  0x81) { break; }   
+if (currentByte ==  26) { break; }   
+if (currentByte ==  0<mask1>?) { break; }   
+if (currentByte ==  'f') { break; }   
+if (currentByte ==  32<mask1>;) { break; }   
+if (currentByte ==  end) { break; }   
+if (currentByte ==  0x06) { break; }   
+if (currentByte ==  separator) { break; }   
+if (currentByte ==  BOM) { break; }   
+if (currentByte ==  0xFEFF) { break; }   
+if (currentByte ==  ALPHA) { break; }   
+if (currentByte ==  "\0") { break; }   
+if (currentByte ==  0xfffd) { break; }   
+if (currentByte ==  ']') { break; }   
+if (currentByte ==  'T') { break; }   
+if (currentByte ==  0x0B) { break; }   
+if (currentByte ==  00) { break; }   
+if (currentByte ==  marker) { break; }   
+if (currentByte ==  '\0' ) { break; }   
+if (currentByte ==  255<mask1>;) { break; }   
+if (currentByte ==  0x00FFFFFF) { break; }   
+if (currentByte ==  0<mask1>  ) { break; }   
+if (currentByte ==  16383) { break; }   
+if (currentByte ==  0x22) { break; }   
+if (currentByte ==  0X00) { break; }   
+if (currentByte ==  '/') { break; }   
+if (currentByte ==  0b00000000) { break; }   
+if (currentByte ==  0 or 1) { break; }   
+if (currentByte ==  0x1F) { break; }   
+if (currentByte ==  63<mask1>;) { break; }   
+if (currentByte ==  0xFFFFFFFFL) { break; }   
+if (currentByte ==  0<mask7> || 0) { break; }   
+if (currentByte ==  03) { break; }   
+if (currentByte ==  0s) { break; }   
+if (currentByte ==  ASCII) { break; }   
+if (currentByte ==  '0'...) { break; }   
+if (currentByte ==  '>') { break; }   
+if (currentByte ==  0<mask1>};) { break; }   
+if (currentByte ==  0x3F) { break; }   
+if (currentByte ==  0<mask1>0;) { break; }   
+if (currentByte ==  0<mask1>0) { break; }   
+if (currentByte ==  0x89) { break; }   
+if (currentByte ==  0<mask1>;}) { break; }   
+if (currentByte ==  0xfd) { break; }   
+if (currentByte ==  35) { break; }   
+if (currentByte ==  byte.0) { break; }   
+if (currentByte ==  NULL_BYTE) { break; }   
+if (currentByte ==  127<mask1>}) { break; }   
+if (currentByte ==  0<mask1> { }) { break; }   
+if (currentByte ==  DONE) { break; }   
+if (currentByte ==  0 }) { break; }   
+if (currentByte ==  padding) { break; }   
+if (currentByte ==  65248) { break; }   
+if (currentByte ==  ';') { break; }   
+if (currentByte ==  16) { break; }   
+if (currentByte ==  160) { break; }   
+if (currentByte ==  0 ) { break; }   
+if (currentByte ==  '\n) { break; }   
+if (currentByte ==  0X80) { break; }   
+if (currentByte ==  '0'.) { break; }   
+if (currentByte ==  90) { break; }   
+if (currentByte ==  '\b') { break; }   
+if (currentByte ==  0x41) { break; }   
+if (currentByte ==  'L') { break; }   
+if (currentByte ==  'n') { break; }   
+if (currentByte ==  shift) { break; }   
+if (currentByte ==  0X7F) { break; }   
+if (currentByte ==  0x0e) { break; }   
+if (currentByte ==  0x0000ffff) { break; }   
+if (currentByte ==  14) { break; }   
+if (currentByte ==  'c') { break; }   
+if (currentByte ==  0<mask1> &&) { break; }   
+if (currentByte ==  95) { break; }   
+if (currentByte ==  0x1f) { break; }   
+if (currentByte ==  DECIMAL) { break; }   
+if (currentByte ==  56) { break; }   
+if(currentByte==null){return 0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return };} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0L;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;};} if (currentByte == 0) { break; }   
+if(currentByte==null){return };;} if (currentByte == 0) { break; }   
+if(currentByte==null){return null;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0l;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return long;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 1;} if (currentByte == 0) { break; }   
+if(currentByte==null){return false;} if (currentByte == 0) { break; }   
+if(currentByte==null){return -1L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return value;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 1L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return -1;} if (currentByte == 0) { break; }   
+if(currentByte==null){return null;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return l;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0L;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x00;} if (currentByte == 0) { break; }   
+if(currentByte==null){return false;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return zero;} if (currentByte == 0) { break; }   
+if(currentByte==null){return Long;} if (currentByte == 0) { break; }   
+if(currentByte==null){return NULL;} if (currentByte == 0) { break; }   
+if(currentByte==null){return L;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return int;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;};} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0l;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  null;} if (currentByte == 0) { break; }   
+if(currentByte==null){return NaN;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 1;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return false; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return true;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;};;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 2;} if (currentByte == 0) { break; }   
+if(currentByte==null){return default;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x00000000;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0;};} if (currentByte == 0) { break; }   
+if(currentByte==null){return return 0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return null; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  ;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0};} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0L ;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return result;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 3;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x0000;} if (currentByte == 0) { break; }   
+if(currentByte==null){return true;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0<mask1>};} if (currentByte == 0) { break; }   
+if(currentByte==null){return  -1L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return L; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return  null;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ; ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x80;} if (currentByte == 0) { break; }   
+if(currentByte==null){return (-1);} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0l;} if (currentByte == 0) { break; }   
+if(currentByte==null){return l;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return |0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 255;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 10;} if (currentByte == 0) { break; }   
+if(currentByte==null){return Infinity;} if (currentByte == 0) { break; }   
+if(currentByte==null){return length;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 ;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return AST#ternary_expression#Right;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 1L;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 127;} if (currentByte == 0) { break; }   
+if(currentByte==null){return !;} if (currentByte == 0) { break; }   
+if(currentByte==null){return NONE;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 8;} if (currentByte == 0) { break; }   
+if(currentByte==null){return +1L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0L ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return {};} if (currentByte == 0) { break; }   
+if(currentByte==null){return result;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  -1;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return x;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 1; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return  };;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ();;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  null; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return true; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 4;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0xFF;} if (currentByte == 0) { break; }   
+if(currentByte==null){return Integer;} if (currentByte == 0) { break; }   
+if(currentByte==null){return number;} if (currentByte == 0) { break; }   
+if(currentByte==null){return AST#return_statement#Right;} if (currentByte == 0) { break; }   
+if(currentByte==null){return longValue;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return /;} if (currentByte == 0) { break; }   
+if(currentByte==null){return .;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x01;} if (currentByte == 0) { break; }   
+if(currentByte==null){return VALUE;} if (currentByte == 0) { break; }   
+if(currentByte==null){return +1;} if (currentByte == 0) { break; }   
+if(currentByte==null){return null};} if (currentByte == 0) { break; }   
+if(currentByte==null){return undefined;} if (currentByte == 0) { break; }   
+if(currentByte==null){return -1l;} if (currentByte == 0) { break; }   
+if(currentByte==null){return int 0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 long;} if (currentByte == 0) { break; }   
+if(currentByte==null){return }};} if (currentByte == 0) { break; }   
+if(currentByte==null){return Number;} if (currentByte == 0) { break; }   
+if(currentByte==null){return -1;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0xff;} if (currentByte == 0) { break; }   
+if(currentByte==null){return value;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0.0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return short;} if (currentByte == 0) { break; }   
+if(currentByte==null){return code;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ; ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return EOF;} if (currentByte == 0) { break; }   
+if(currentByte==null){return negative;} if (currentByte == 0) { break; }   
+if(currentByte==null){return byte;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 9;} if (currentByte == 0) { break; }   
+if(currentByte==null){return INVALID;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  NaN;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 6;} if (currentByte == 0) { break; }   
+if(currentByte==null){return [];;} if (currentByte == 0) { break; }   
+if(currentByte==null){return }});;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  long;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 1l;} if (currentByte == 0) { break; }   
+if(currentByte==null){return =;} if (currentByte == 0) { break; }   
+if(currentByte==null){return NOP;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0<mask1> };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 L;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return LONG;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0L  ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0<mask1>;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  false;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 l;} if (currentByte == 0) { break; }   
+if(currentByte==null){return l; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return :;} if (currentByte == 0) { break; }   
+if(currentByte==null){return *;} if (currentByte == 0) { break; }   
+if(currentByte==null){return a;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0/*;} if (currentByte == 0) { break; }   
+if(currentByte==null){return EMPTY;} if (currentByte == 0) { break; }   
+if(currentByte==null){return (0);} if (currentByte == 0) { break; }   
+if(currentByte==null){return initialValue;} if (currentByte == 0) { break; }   
+if(currentByte==null){return (-1);;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0 L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return unknown;} if (currentByte == 0) { break; }   
+if(currentByte==null){return nil;} if (currentByte == 0) { break; }   
+if(currentByte==null){return VOID;} if (currentByte == 0) { break; }   
+if(currentByte==null){return "";} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0<mask5>0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 64;} if (currentByte == 0) { break; }   
+if(currentByte==null){return (0);;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0L ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return |0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0<mask1>;} if (currentByte == 0) { break; }   
+if(currentByte==null){return AST#if_statement#Right;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 999;} if (currentByte == 0) { break; }   
+if(currentByte==null){return integer;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0xFFFFFFFF;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x10000;} if (currentByte == 0) { break; }   
+if(currentByte==null){return null;};} if (currentByte == 0) { break; }   
+if(currentByte==null){return ?0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return -2;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  1L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0D;} if (currentByte == 0) { break; }   
+if(currentByte==null){return defaultValue;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  1;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;} ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return UNDEFINED;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ++;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x10;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 };} if (currentByte == 0) { break; }   
+if(currentByte==null){return ?-1;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0;};} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0,0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x20;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0xDEAD;} if (currentByte == 0) { break; }   
+if(currentByte==null){return static;} if (currentByte == 0) { break; }   
+if(currentByte==null){return (); };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0d;} if (currentByte == 0) { break; }   
+if(currentByte==null){return LE;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  false;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x100;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 2;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0};;} if (currentByte == 0) { break; }   
+if(currentByte==null){return NaN;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ()};} if (currentByte == 0) { break; }   
+if(currentByte==null){return left;} if (currentByte == 0) { break; }   
+if(currentByte==null){return }; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return ; };;} if (currentByte == 0) { break; }   
+if(currentByte==null){return DEFAULT;} if (currentByte == 0) { break; }   
+if(currentByte==null){return }; ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x80000000;} if (currentByte == 0) { break; }   
+if(currentByte==null){return }.;} if (currentByte == 0) { break; }   
+if(currentByte==null){return   ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;},;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;   };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 12;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 00;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 32;} if (currentByte == 0) { break; }   
+if(currentByte==null){return nan;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x000000;} if (currentByte == 0) { break; }   
+if(currentByte==null){return *};} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0X80;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0  ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return eof;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0 };} if (currentByte == 0) { break; }   
+if(currentByte==null){return ();} if (currentByte == 0) { break; }   
+if(currentByte==null){return value 0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return max;} if (currentByte == 0) { break; }   
+if(currentByte==null){return (-1;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0X0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return +0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;  };} if (currentByte == 0) { break; }   
+if(currentByte==null){return a;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return null;};} if (currentByte == 0) { break; }   
+if(currentByte==null){return +1;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return return 0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  false; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x8000;} if (currentByte == 0) { break; }   
+if(currentByte==null){return INVALID_CHAR;} if (currentByte == 0) { break; }   
+if(currentByte==null){return false;};} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0L   ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return int 0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x0001;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0X00;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0L ;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return return 0;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return value; };} if (currentByte == 0) { break; }   
+if(currentByte==null){return +0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x7;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0x00;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0X07;} if (currentByte == 0) { break; }   
+if(currentByte==null){return  0l;;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x30;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x1000;} if (currentByte == 0) { break; }   
+if(currentByte==null){return long 0L;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0xFFFFFFFFL;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0|0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0; ;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0, 0;} if (currentByte == 0) { break; }   
+if(currentByte==null){return 0x8;} if (currentByte == 0) { break; }   
+if(currentByte==null){return ;} if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0l; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x00; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=null; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>0;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; break; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0L; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=1L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; continue; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=1; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=NULL; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x80; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=255; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=127; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xff; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= 0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0AST#assignment_expression#Right; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=';; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0L;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0b000; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=-1; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0000; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0l;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='\0'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x01; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x7F; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 ;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=''; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x20; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x00000000; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=-1L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=null; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x10; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>1;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x30; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0;}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=2; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=byte0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0l; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= '0'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= 0L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask5>0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=UNDEFINED; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=eof; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=1; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=10; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=initialValue; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=8; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= -1; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; continue;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='0'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=INITIAL; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=false; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=7; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>};; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=9; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= '0' }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=};; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0;}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>null;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0d; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=zero; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0AST#variable_declarator#Right; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=Integer; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0AST#ternary_expression#Right; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0AST#conditional_expression#Right; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=254; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x7f; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x07; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=length; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xFFFFFFFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=NIL; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xfffd; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=126; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xDEAD; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=255; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0F; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=';'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask7>0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x00;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0B; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x36; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; break;}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=1l; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=value; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xFFFFFFFFL; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xAB; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0;continue; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=';'}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; continue;}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=127;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=256; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0X80; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x02; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= ' '; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=3; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>2;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=defaultByte; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 ; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0A; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=EMPTY; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x100; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0a; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0|0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xFFFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0L ;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x8; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= 0; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x7; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=6; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0;break; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 l; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x7fffffff; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=""; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x03; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=NONE; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x9; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0.0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0b; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0A; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='\0' ;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0C; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=length-1; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0d; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= -1L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x7E; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=undefined; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1> ; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1> 0;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='\0';; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=32; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=00; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xffff; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0E; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0X7F; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=NULL_BYTE; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xFFFD; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x81; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=currentByte; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0000; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x00FFFFFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x04; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='\0'; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=4; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=1L; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x00FF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0D; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='-'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>1; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask3>0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0a; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=EOF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=DIGIT; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>8;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x7FFFFFFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x1F; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=NULLBUFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x10000; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0D; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=true; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=255L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0byte; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0L; break; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xFFFFFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x09; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>255;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x10FFFF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=128; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=64; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0X00; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=' '; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='0'; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x000000; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0f; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x7FF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0;   }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x0001; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x41; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= null; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=1024; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1> }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>8; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0s; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0; break;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=12; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=2; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0L;}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0;  }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0xEF; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=10; }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x08; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=AST#unary_expression#Left-1AST#unary_expression#Right; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=';';; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 byte; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x80000000; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x40; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x24; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=defaultChar; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=byte; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=2147483647; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='\n'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x3F; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>.; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=255 ;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x06; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0X; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x22; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=null;}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=ZERO; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0 ;}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x85; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0b11; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=16; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0X0; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=blank; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=7L; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= 0l; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= '0' ;; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x89; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='}; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='\x00'; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0x21; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=INITIAL_VALUE; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte= ' ' }; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=100; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=','; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0<mask1>();; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0L; continue; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=SPACE; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte=0b1111; } if (currentByte == 0) { break; }   
+if(currentByte==null){ currentByte='\0' }; } if (currentByte == 0) { break; }   
+if(currentByte == 0){ if (currentByte == 0) { break; } }  
+if(trailer == 0){ if (currentByte == 0) { break; } }  
+if(trailer==0){ if (currentByte == 0) { break; } }  
+if(trailer != 0){ if (currentByte == 0) { break; } }  
+if(trailer == '0'){ if (currentByte == 0) { break; } }  
+if(trailer == ' '){ if (currentByte == 0) { break; } }  
+if(currentByte == '0'){ if (currentByte == 0) { break; } }  
+if(trailer!=0){ if (currentByte == 0) { break; } }  
+if(eof){ if (currentByte == 0) { break; } }  
+if(currentByte != 0){ if (currentByte == 0) { break; } }  
+if(trailer != ' '){ if (currentByte == 0) { break; } }  
+if(length == 2){ if (currentByte == 0) { break; } }  
+if(start == end){ if (currentByte == 0) { break; } }  
+if(trailer != '0'){ if (currentByte == 0) { break; } }  
+if(currentByte==0){ if (currentByte == 0) { break; } }  
+if(length < 2){ if (currentByte == 0) { break; } }  
+if(trailer){ if (currentByte == 0) { break; } }  
+if(false){ if (currentByte == 0) { break; } }  
+if(start < end){ if (currentByte == 0) { break; } }  
+if(length == 0){ if (currentByte == 0) { break; } }  
+if(true){ if (currentByte == 0) { break; } }  
+if(currentByte == ' '){ if (currentByte == 0) { break; } }  
+if(end == 0){ if (currentByte == 0) { break; } }  
+if(trailer == 'x'){ if (currentByte == 0) { break; } }  
+if(trailer == 1){ if (currentByte == 0) { break; } }  
+if(DEBUG){ if (currentByte == 0) { break; } }  
+if(currentByte == 0x00){ if (currentByte == 0) { break; } }  
+if(trailer == 0L){ if (currentByte == 0) { break; } }  
+if(currentByte == '\0'){ if (currentByte == 0) { break; } }  
+if(currentByte != '0'){ if (currentByte == 0) { break; } }  
+if(trailer == '\0'){ if (currentByte == 0) { break; } }  
+if(length == 1){ if (currentByte == 0) { break; } }  
+if(start == 0){ if (currentByte == 0) { break; } }  
+if(trailer > 0){ if (currentByte == 0) { break; } }  
+if(trailer == 'X'){ if (currentByte == 0) { break; } }  
+if(currentByte == 'x'){ if (currentByte == 0) { break; } }  
+if(trailer != null){ if (currentByte == 0) { break; } }  
+if(trace){ if (currentByte == 0) { break; } }  
+if(length > 0){ if (currentByte == 0) { break; } }  
+if(trailer == null){ if (currentByte == 0) { break; } }  
+if(trailer == '1'){ if (currentByte == 0) { break; } }  
+if(start == end-1){ if (currentByte == 0) { break; } }  
+if(currentByte == 1){ if (currentByte == 0) { break; } }  
+if(trailer==1){ if (currentByte == 0) { break; } }  
+if(currentByte == '1'){ if (currentByte == 0) { break; } }  
+if(trailer == 0x00){ if (currentByte == 0) { break; } }  
+if(trailer == 'Z'){ if (currentByte == 0) { break; } }  
+if(trailer>0){ if (currentByte == 0) { break; } }  
+if(trailers){ if (currentByte == 0) { break; } }  
+if(length==2){ if (currentByte == 0) { break; } }  
+if(continuation){ if (currentByte == 0) { break; } }  
+if(null == currentByte){ if (currentByte == 0) { break; } }  
+if(trailers == null){ if (currentByte == 0) { break; } }  
+if(currentByte == -1){ if (currentByte == 0) { break; } }  
+if(trailer == NULL){ if (currentByte == 0) { break; } }  
+if(trailers != null){ if (currentByte == 0) { break; } }  
+if(trailer == 'a'){ if (currentByte == 0) { break; } }  
+if(trailer==-1){ if (currentByte == 0) { break; } }  
+if( trailer == 0){ if (currentByte == 0) { break; } }  
+if(trailer == 'N'){ if (currentByte == 0) { break; } }  
+if(currentByte == 0L){ if (currentByte == 0) { break; } }  
+if(TracingEnabled()){ if (currentByte == 0) { break; } }  
+if(start != end){ if (currentByte == 0) { break; } }  
+if(trailer < 0){ if (currentByte == 0) { break; } }  
+if(trailer == 'b'){ if (currentByte == 0) { break; } }  
+if(currentByte == 'X'){ if (currentByte == 0) { break; } }  
+if(trailer<0){ if (currentByte == 0) { break; } }  
+if(trailer == 'L'){ if (currentByte == 0) { break; } }  
+if(length >= 2){ if (currentByte == 0) { break; } }  
+if(start == offset){ if (currentByte == 0) { break; } }  
+if(trailer != 0x00){ if (currentByte == 0) { break; } }  
+if(trailer == 0){ if (currentByte == 0) { break; } }  
+if(begin){ if (currentByte == 0) { break; } }  
+if(currentByte == '7'){ if (currentByte == 0) { break; } }  
+if(trailer != 0L){ if (currentByte == 0) { break; } }  
+if(trailer == 'T'){ if (currentByte == 0) { break; } }  
+if(length==0){ if (currentByte == 0) { break; } }  
+if(currentByte == '\n'){ if (currentByte == 0) { break; } }  
+if(length <= 2){ if (currentByte == 0) { break; } }  
+if(trailer == ' ')){ if (currentByte == 0) { break; } }  
+if(currentByte == '-'){ if (currentByte == 0) { break; } }  
+if(isWhitespace(currentByte)){ if (currentByte == 0) { break; } }  
+if(trailer == -1){ if (currentByte == 0) { break; } }  
+if(skipWhiteSpaces){ if (currentByte == 0) { break; } }  
+if(0 < currentByte){ if (currentByte == 0) { break; } }  
+if(strict){ if (currentByte == 0) { break; } }  
+if(currentByte == '9'){ if (currentByte == 0) { break; } }  
+if(trailer != ' ')){ if (currentByte == 0) { break; } }  
+if(currentByte == 0<mask1>}){ if (currentByte == 0) { break; } }  
+if(trailer != '\0'){ if (currentByte == 0) { break; } }  
+if(trailer=="0"){ if (currentByte == 0) { break; } }  
+if(debug){ if (currentByte == 0) { break; } }  
+if(trailer=='\0'){ if (currentByte == 0) { break; } }  
+if(trailer == '7'){ if (currentByte == 0) { break; } }  
+if(break){ if (currentByte == 0) { break; } }  
+if(boundary){ if (currentByte == 0) { break; } }  
+if(trailer == NUL){ if (currentByte == 0) { break; } }  
+if(start >= end){ if (currentByte == 0) { break; } }  
+if(null == trailer){ if (currentByte == 0) { break; } }  
+if(null != currentByte){ if (currentByte == 0) { break; } }  
+if(leadSurrogate){ if (currentByte == 0) { break; } }  
+if(length > 2){ if (currentByte == 0) { break; } }  
+if(currentByte == 'Z'){ if (currentByte == 0) { break; } }  
+if(trailer != NULL){ if (currentByte == 0) { break; } }  
+if(trailer==0L){ if (currentByte == 0) { break; } }  
+if(length < 3){ if (currentByte == 0) { break; } }  
+if(trailer == '9'){ if (currentByte == 0) { break; } }  
+if(end < start){ if (currentByte == 0) { break; } }  
+if(currentByte != ' '){ if (currentByte == 0) { break; } }  
+if(end==0){ if (currentByte == 0) { break; } }  
+if(0 != currentByte){ if (currentByte == 0) { break; } }  
+if(start > 0){ if (currentByte == 0) { break; } }  
+if(trailer < '0'){ if (currentByte == 0) { break; } }  
+if(trailer == '='){ if (currentByte == 0) { break; } }  
+if(length <= 0){ if (currentByte == 0) { break; } }  
+if(currentByte == 0xFF){ if (currentByte == 0) { break; } }  
+if(byte == 0){ if (currentByte == 0) { break; } }  
+if(0 == length){ if (currentByte == 0) { break; } }  
+if(trailer >= '0'){ if (currentByte == 0) { break; } }  
+if(header){ if (currentByte == 0) { break; } }  
+if(isDigit(currentByte)){ if (currentByte == 0) { break; } }  
+if(end == offset){ if (currentByte == 0) { break; } }  
+if(0 <= currentByte){ if (currentByte == 0) { break; } }  
+if(isEOS){ if (currentByte == 0) { break; } }  
+if(trailer>=0){ if (currentByte == 0) { break; } }  
+if( trailer != 0){ if (currentByte == 0) { break; } }  
+if(trailer == '\n'){ if (currentByte == 0) { break; } }  
+if(reserved){ if (currentByte == 0) { break; } }  
+if(start == end - 1){ if (currentByte == 0) { break; } }  
+if(skipWhiteSpace){ if (currentByte == 0) { break; } }  
+if(trailer != -1){ if (currentByte == 0) { break; } }  
+if(trailer == 'A'){ if (currentByte == 0) { break; } }  
+if( trailer == ' '){ if (currentByte == 0) { break; } }  
+if(trailer == ''){ if (currentByte == 0) { break; } }  
+if(length != 0){ if (currentByte == 0) { break; } }  
+if(skipped){ if (currentByte == 0) { break; } }  
+if(trailer is 0){ if (currentByte == 0) { break; } }  
+if(byte != 0){ if (currentByte == 0) { break; } }  
+if(length == 3){ if (currentByte == 0) { break; } }  
+if(trailer != 0){ if (currentByte == 0) { break; } }  
+if(result == 0L){ if (currentByte == 0) { break; } }  
+if(trailer == 'B'){ if (currentByte == 0) { break; } }  
+if(trailer == 'l'){ if (currentByte == 0) { break; } }  
+if(currentByte == NULL){ if (currentByte == 0) { break; } }  
+if(isTrail(currentByte)){ if (currentByte == 0) { break; } }  
+if(test){ if (currentByte == 0) { break; } }  
+if(length != 2){ if (currentByte == 0) { break; } }  
+if(trailer== 0){ if (currentByte == 0) { break; } }  
+if(isASCII(currentByte)){ if (currentByte == 0) { break; } }  
+if(currentByte == 127){ if (currentByte == 0) { break; } }  
+if(trailer != 1){ if (currentByte == 0) { break; } }  
+if(trailer == 't'){ if (currentByte == 0) { break; } }  
+if(0 == currentByte){ if (currentByte == 0) { break; } }  
+if(isOdd(currentByte)){ if (currentByte == 0) { break; } }  
+if(tc){ if (currentByte == 0) { break; } }  
+if(end == offset+length){ if (currentByte == 0) { break; } }  
+if(result == 0){ if (currentByte == 0) { break; } }  
+if(currentByte == 0l){ if (currentByte == 0) { break; } }  
+if(trailer == 'I'){ if (currentByte == 0) { break; } }  
+if(Trace){ if (currentByte == 0) { break; } }  
+if(start > offset){ if (currentByte == 0) { break; } }  
+if(trailer >= 0){ if (currentByte == 0) { break; } }  
+if(trailer != null){ if (currentByte == 0) { break; } }  
+if(trailer == 'e'){ if (currentByte == 0) { break; } }  
+if(offset == end){ if (currentByte == 0) { break; } }  
+if(currentByte == 'b'){ if (currentByte == 0) { break; } }  
+if(stop){ if (currentByte == 0) { break; } }  
+if(currentByte < '0'){ if (currentByte == 0) { break; } }  
+if(length > 1){ if (currentByte == 0) { break; } }  
+if(Trailer == 0){ if (currentByte == 0) { break; } }  
+if(trailer == 'n'){ if (currentByte == 0) { break; } }  
+if(trailer == 0l){ if (currentByte == 0) { break; } }  
+if(currentByte == 'e'){ if (currentByte == 0) { break; } }  
+if(end < length){ if (currentByte == 0) { break; } }  
+if(length<2){ if (currentByte == 0) { break; } }  
+if(trailer==null){ if (currentByte == 0) { break; } }  
+if(finished){ if (currentByte == 0) { break; } }  
+if(isHex(currentByte)){ if (currentByte == 0) { break; } }  
+if(end > 0){ if (currentByte == 0) { break; } }  
+if(eof?){ if (currentByte == 0) { break; } }  
+if(EOF){ if (currentByte == 0) { break; } }  
+if(buffer[start] == 0){ if (currentByte == 0) { break; } }  
+if(currentByte == '.'){ if (currentByte == 0) { break; } }  
+if(start >= length){ if (currentByte == 0) { break; } }  
+if(currentByte == 0x80){ if (currentByte == 0) { break; } }  
+if(trailer == '8'){ if (currentByte == 0) { break; } }  
+if(trailer == 0 ){ if (currentByte == 0) { break; } }  
+if(NULL){ if (currentByte == 0) { break; } }  
+if(trailier == 0){ if (currentByte == 0) { break; } }  
+if(currentByte == null){ if (currentByte == 0) { break; } }  
+if(trailer == ' ';){ if (currentByte == 0) { break; } }  
+if(start >= offset){ if (currentByte == 0) { break; } }  
+if(trailer == '\x00'){ if (currentByte == 0) { break; } }  
+if(separator){ if (currentByte == 0) { break; } }  
+if(currentByte == 0xff){ if (currentByte == 0) { break; } }  
+if(length==1){ if (currentByte == 0) { break; } }  
+if(trailer == 'd'){ if (currentByte == 0) { break; } }  
+if(blank){ if (currentByte == 0) { break; } }  
+if(TRAILER == null){ if (currentByte == 0) { break; } }  
+if(null == buffer){ if (currentByte == 0) { break; } }  
+if(isAscii(currentByte)){ if (currentByte == 0) { break; } }  
+if(currentByte == 0<mask1>){ if (currentByte == 0) { break; } }  
+if(trailer == '0){ if (currentByte == 0) { break; } }  
+if(inTerminator){ if (currentByte == 0) { break; } }  
+if(trailer == 2){ if (currentByte == 0) { break; } }  
+if( trailer==0){ if (currentByte == 0) { break; } }  
+if( currentByte == 0){ if (currentByte == 0) { break; } }  
+if(isBlank(currentByte)){ if (currentByte == 0) { break; } }  
+if(currentByte != '\0'){ if (currentByte == 0) { break; } }  
+if(trailer=='0'){ if (currentByte == 0) { break; } }  
+if(currentByte == 'a'){ if (currentByte == 0) { break; } }  
+if(trailer == "0"){ if (currentByte == 0) { break; } }  
+if(trailingWhitespace){ if (currentByte == 0) { break; } }  
+if(trailer == 'E'){ if (currentByte == 0) { break; } }  
+if(trailer == 'z'){ if (currentByte == 0) { break; } }  
+if(ascii){ if (currentByte == 0) { break; } }  
+if(trailer == 'f'){ if (currentByte == 0) { break; } }  
+if(caseSensitive){ if (currentByte == 0) { break; } }  
+if(trailingZeroes){ if (currentByte == 0) { break; } }  
+if(length == 4){ if (currentByte == 0) { break; } }  
+if(trailer == '-'){ if (currentByte == 0) { break; } }  
+if(isTerminator(currentByte)){ if (currentByte == 0) { break; } }  
+if(trailer != ''){ if (currentByte == 0) { break; } }  
+if(trailer == 0x0){ if (currentByte == 0) { break; } }  
+if(isWhiteSpace(currentByte)){ if (currentByte == 0) { break; } }  
+if(LITTLE_ENDIAN){ if (currentByte == 0) { break; } }  
+if(trailers == 0){ if (currentByte == 0) { break; } }  
+if(value == 0){ if (currentByte == 0) { break; } }  
+if(trailer != 'x'){ if (currentByte == 0) { break; } }  
+if(currentByte == NUL){ if (currentByte == 0) { break; } }  
+if(length < 4){ if (currentByte == 0) { break; } }  
+if(offset < end){ if (currentByte == 0) { break; } }  
+if(isOdd){ if (currentByte == 0) { break; } }  
+if(currentByte == 0x0){ if (currentByte == 0) { break; } }  
+if(currentByte == 'N'){ if (currentByte == 0) { break; } }  
+if(start == length-1){ if (currentByte == 0) { break; } }  
+if(currentByte == 9){ if (currentByte == 0) { break; } }  
+if(currentByte == 0x01){ if (currentByte == 0) { break; } }  
+if(trailer != '1'){ if (currentByte == 0) { break; } }  
+if(trailers > 0){ if (currentByte == 0) { break; } }  
+if(separators){ if (currentByte == 0) { break; } }  
+if(currentByte == 0 ){ if (currentByte == 0) { break; } }  
+if(trailer == 0x80){ if (currentByte == 0) { break; } }  
+if(trailer == 'c'){ if (currentByte == 0) { break; } }  
+if(isNaN(currentByte)){ if (currentByte == 0) { break; } }  
+if(currentByte == 0<mask1> }){ if (currentByte == 0) { break; } }  
+if(trailer != 'X'){ if (currentByte == 0) { break; } }  
+if(isEmpty){ if (currentByte == 0) { break; } }  
+if(trailer == 'F'){ if (currentByte == 0) { break; } }  
+if(isSpace(currentByte)){ if (currentByte == 0) { break; } }  

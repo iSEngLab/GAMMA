@@ -1,0 +1,750 @@
+if(this.runningState== STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState.isRunning()){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NAME){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_DATA){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NO){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_WARNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ON){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STOPED){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SET){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_READ){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_WARNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STOPING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TIME){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_IVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_KNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOPED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DATA){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NAME){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NAME){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ON){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NO){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOPED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.currentTimeMillis > 0){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NOW){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= stopTime){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SET){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_UN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOPING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_GREEN){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState== state_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NO){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ING){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_Starting){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_DEBUG){stopTime = System.currentTimeMillis(); }
+if(this.runningState.isEmpty()){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOPING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== State_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_IVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NOT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_UPDATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STOP){stopTime = System.currentTimeMillis(); }
+if(this.currentTimeMillis!= 0){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_TIME){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= CONTINUE){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WARNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_IN){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_ING){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STOPED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FINE){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PASS){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_OUT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ALL){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NOT){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= CONTINUE){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STOPED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TRY){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_READ){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_READ){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_WARNING){stopTime = System.currentTimeMillis(); }
+if(this.currentTimeMillis < 0){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== State_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState.isZero()){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATUS){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState >= STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_ DEAD){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_DEBUG){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState== State_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_KNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_DATA){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState== State_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState==state_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState== State_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_GREEN){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.stopTime.isZero()){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NOW){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= stopState){stopTime = System.currentTimeMillis(); }
+if(this.runningState===STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= PEND){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_started){stopTime = System.currentTimeMillis(); }
+if(this.runningState~= RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ST){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATUS){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(stopTime < System.currentTime()){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_KNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_WATCH){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DEBUG){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STAT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_TIME){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState<state_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INFO){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if( this.runningState== STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CON){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_ON){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ACT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= PEND){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NOW){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_HOME){stopTime = System.currentTimeMillis(); }
+if(this.runningState===STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_PASS){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_BUS){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_S){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STOPSTATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_DOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PEND){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_COMPLETE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STopped){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_UP){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CLOSED){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_IGNORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_WORKING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_Running){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ABORT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_PEND){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_REGULAR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DATA){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PLAYING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_END){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NAME){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_ABORT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_ENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ON){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_CLOSED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FINALLY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CLOSED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SET){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_IGNORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_COMPLETE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_KILL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DATA){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_FULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_READY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NAME){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CURRENT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ON){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CREATED){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FOUND){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NO){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ING){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState>STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CLEAN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_USED){stopTime = System.currentTimeMillis(); }
+if(this.runningState>STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INSTANCE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STATED){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SET){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STATES){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_COMPLETE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FINAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TERM){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_FREE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState>STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_IVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PARTIAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ABORT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_FIXED){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_IGNORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_Started){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_DRIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STABLE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STopped){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_AUTO){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PEND){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_FINALLY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NO){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CREATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SYSTEM){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_OK){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_KILL){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ADMIN){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_NING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WARNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState<state.runningState){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_PENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_STopped){stopTime = System.currentTimeMillis(); }
+if(this.runningState> STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_EXITED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_OFF){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CONTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!~ STATE_NEW){stopTime = System.currentTimeMillis(); }
+if(this.runningState<State_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_BUSY){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NORMAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PID){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_IVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_STATE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SYNC){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_RUN){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_DATA){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WORKING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SAME){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_ERROR){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_FOUND){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_READ){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_HALT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STATUS){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TTY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_KILL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_running){stopTime = System.currentTimeMillis(); }
+if(this.runningState>STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PARED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_LIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_OPEN){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState<SUSPENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WARNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CONNECT){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TRUN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_NAME){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_KNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CLOSED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_PENDING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CLOSED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_CANCEL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_COMPLETE){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INITIAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ABORT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_IGNORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_UNKNOWN){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STopped){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PEND){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_COMPLETE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ABORT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TRUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_ACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_IGNORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INTERNAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STopped){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PEND){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_NONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState<state_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WORKING){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_KILL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_INACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState<State_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CREATED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_STOPING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WORKING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PED){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_INACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_SUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_KILL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PLAYING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STORED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_STOPING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PENDING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CLEAN){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CREATED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CURRENT){stopTime = System.currentTimeMillis(); }
+if(this.runningState= STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_MISSING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATES){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FOUND){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_ACTIVATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PLAYING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FINAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_BUSY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STABLE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_USED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_INSTANCE){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_PENDING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_REGULAR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_READY){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_STOP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CLEAN){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CURRENT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_USPENDED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FINALLY){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATES){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FOUND){stopTime = System.currentTimeMillis(); }
+if(this.runningState > STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INFINITE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CREATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_PING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FIXED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_AUTO){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_TERM){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FINAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_BUSY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STABLE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_USED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_INSTANCE){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_CANCEL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_INITIAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CANCEL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_REGULAR){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_READY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_EXITED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_SUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ADMIN){stopTime = System.currentTimeMillis(); }
+if(this.runningState == STATE_INTERNAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INVALID){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SINGLE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FINALLY){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SYSTEM){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATUS){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CREATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_FIXED){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_STARTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_AUTO){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SENSIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState>STATE_STARTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_REJECTED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_TERM){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_COMPLETED){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_REGISTERED){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_SUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_Started){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PID){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_EXITED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_HALT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ADMIN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_INSTANCED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SYNC){stopTime = System.currentTimeMillis(); }
+if(this.runningState=== STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState< STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DRIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState<> STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_AGIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CONTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SENT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SYSTEM){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_NIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState==STATE_INACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_LIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UPPER){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STATUS){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WAIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PARED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PARTIAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OPEN){stopTime = System.currentTimeMillis(); }
+if(this.runningState>= STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_Started){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PID){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_TTY){stopTime = System.currentTimeMillis(); }
+if(this.runningState<STATE_INACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_HALT){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_STOPP){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WATCHING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SYNC){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_SUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_INIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_FINISH){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_DRIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_AGIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CONTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_DONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SENT){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_NOSON){stopTime = System.currentTimeMillis(); }
+if(this.runningState!== STATE_STATING){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_STOPING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_ISIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_LIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_UPPER){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STONE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_STED){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PULL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_CONNECT){stopTime = System.currentTimeMillis(); }
+if(this.runningState === STATE_INACTIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_WAIT){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PARED){stopTime = System.currentTimeMillis(); }
+if(this.runningState < STATE_RUNNING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_SIVE){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_PARTIAL){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_OPEN){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_TESTING){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_TEST){stopTime = System.currentTimeMillis(); }
+if(this.runningState!~ STATE_START){stopTime = System.currentTimeMillis(); }
+if(this.runningState!= STATE_EMPTY){stopTime = System.currentTimeMillis(); }
+if(this.runningState== STATE_SUSED){stopTime = System.currentTimeMillis(); }

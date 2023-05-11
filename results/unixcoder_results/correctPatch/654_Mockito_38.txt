@@ -1,0 +1,1 @@
+return StringDescription.toString(m).equals(arg == null ? "" : arg.toString()); 

@@ -1,0 +1,1 @@
+int g = (int) ((v - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);

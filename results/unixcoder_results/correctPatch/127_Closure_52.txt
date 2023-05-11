@@ -1,0 +1,1 @@
+return len > 0 && s.charAt(0) != '0';

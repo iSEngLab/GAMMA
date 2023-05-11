@@ -1,0 +1,1 @@
+return solve(f, min, max);

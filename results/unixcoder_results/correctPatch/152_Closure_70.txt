@@ -1,0 +1,1 @@
+defineSlot(astParameter, functionNode, jsDocParameter.getJSType(), false);

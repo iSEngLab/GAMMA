@@ -1,0 +1,2250 @@
+ return out;  
+;  
+public String consume() {         return queue.substring(start, queue.length());     };  
+ return out;;  
+};  
+public String consume() {         return queue.substring(start, end);     };  
+return out;  
+  return out;  
+ return out; };  
+public String consume() {         return queue.substring(start, pos);     };  
+    };  
+public String consume() {     return queue.substring(start, queue.length());   };  
+public String consume() {         return queue.substring(start);     };  
+public String trim() {         return queue.trim();     };  
+public String consume() {         return queue.substring(start, queue.length() - 1);     };  
+public String consume() {         return consume();     };  
+public String consume() {         return queue.toString();     };  
+public String consume() {         return queue.substring(pos, queue.length());     };  
+public String consume() {         return queue.substring(0, pos);     };  
+public String consume() {     return queue.substring(start, end);   };  
+public String consume(char open, char close) {         return queue.substring(start, end);     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(start, end);     };  
+public String consume() { 		return queue.substring(start, queue.length()); 	};  
+();  
+public String trim() {         return queue.substring(start, queue.length());     };  
+public String chompBalanced(char open, char close) {         return queue.substring(start, end);     };  
+public String consume() {     return queue.substring(start, pos);   };  
+private String consume() {         return queue.substring(start, queue.length());     };  
+public String consume() {     return queue.substring(start);   };  
+public String consume() {         return queue.substring(pos);     };  
+public String consume() { 		return queue.substring(start, end); 	};  
+public String consume() {         if (isEmpty())             return "";         return queue.substring(start, end);     };  
+protected String consume() {         return queue.substring(start, queue.length());     };  
+public String substring(int start, int end) {         return queue.substring(start, end);     };  
+public String consume() {     return queue.substring(start, queue.length() - 1);   };  
+public String peek() {         return queue.substring(start, end);     };  
+public String trim() {         if (isEmpty()) return "";         return queue.substring(start, end);     };  
+public String consume(char open, char close) {         return consume(open, close);     };  
+public String consume(char open) {         return queue.substring(start, end);     };  
+public String consume() { 		return queue.substring(start, pos); 	};  
+@Override     public String consume() {         return queue.substring(start, end);     };  
+public String consume() {         if (isEmpty()) return null;         return queue.substring(start, end);     };  
+public String trim() {         return queue.substring(start, queue.length() - 1);     };  
+public String consume() {     return queue.substring(0, pos);   };  
+public String consume() {         return queue.substring(pos, end);     };  
+public String trim() {         return queue.substring(start, end);     };  
+public String consume()     {         return queue.substring(start, queue.length());     };  
+public String consume() {     return queue.substring(pos, queue.length());   };  
+public String peek() {         return queue.substring(start, queue.length());     };  
+public String consume(char close) {         return queue.substring(start, end);     };  
+@Override   public String consume() {     return queue.substring(start, end);   };  
+@Override     public String consume() {         return queue.substring(start, queue.length());     };  
+public String trim() {     return queue.substring(start, queue.length());   };  
+public final String consume() {         return queue.substring(start, queue.length());     };  
+public String consume(char open, char close) {         return consume(open, close, false);     };  
+public String consume(char open, char close) {         return consumeBalanced(open, close);     };  
+public String consume(char open, char close) {     return queue.substring(start, end);   };  
+public String consume() {         if (isEmpty()) {             return "";         }         return queue.substring(start, end);     };  
+public String consume() {         queue.setLength(0);         return queue.toString();     };  
+public String consume() { 		return queue.substring(start, queue.length() - 1); 	};  
+public String consume()     {         return queue.substring(start, end);     };  
+@Override   public String consume() {     return queue.substring(start, queue.length());   };  
+public String consume() {         return queue.substring(start, queue.length()-1);     };  
+public String consume() {     if (isEmpty()) return "";     return queue.substring(start, end);   };  
+public String consume()   {     return queue.substring(start, end);   };  
+@Override     public String consume() {         return queue.substring(start, pos);     };  
+public String consume() {         consume();         return queue.substring(start, end);     };  
+public String consume()   {     return queue.substring(start, queue.length());   };  
+public String chopBalanced(char open, char close) {         return queue.substring(start, end);     };  
+public String chompBalanced(char open, char close) {     return queue.substring(start, end);   };  
+public String consume() {         return queue.substring(start, queue.length());;  
+public String trim() {         if (isEmpty())             return "";         return queue.substring(start, end);     };  
+public String consume(char open, char close) { 		return queue.substring(start, end); 	};  
+public String consume(char open, char close) {         return consume(open, close, true);     };  
+public String chompBalanced() {         return queue.substring(start, queue.length());     };  
+@Override   public String consume() {     return queue.substring(start, pos);   };  
+public String consume() { 		if (isEmpty()) return ""; 		return queue.substring(start, end); 	};  
+public String chompBalanced(char open, char close) { 		return queue.substring(start, end); 	};  
+public String chompBalanced() {         return queue.substring(start, queue.length() - 1);     };  
+@Override 	public String consume() { 		return queue.substring(start, end); 	};  
+public String consume(char open, char close) {         return queue.substring(start, pos);     };  
+public String consume() {         if (isEmpty())             return null;         return queue.substring(start, end);     };  
+@Override 	public String consume() { 		return queue.substring(start, queue.length()); 	};  
+public String consume() {     if (isEmpty())       return "";     return queue.substring(start, end);   };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(start, end).trim();     };  
+public String consume() {         if (queue.length() == 0)             return "";         return queue.substring(start, end);     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(start);     };  
+public String consume() {         if (!isEmpty()) return queue.substring(start, end);         return "";     };  
+public String trim() {         if (isEmpty()) return null;         return queue.substring(start, end);     };  
+public String consume() {         if (queue.length() == 0) return "";         return queue.substring(start, end);     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(0, pos);     };  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(pos);         }         return "";     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(start, pos);     };  
+public String consume() {         if (pos < queue.length()) return queue.substring(pos);         return "";     };  
+public String consume() {         if (queue.isEmpty()) return "";         return queue.substring(start, end);     };  
+public String trim() {     if (isEmpty()) return "";     return queue.substring(start, end);   };  
+public String consume() {         if (!isEmpty())             return queue.substring(start, end);         return "";     };  
+public String consume() {         if (!isEmpty())             return queue.substring(start, end);         else             return "";     };  
+@Override     public String consume() {         return queue.substring(start, queue.length() - 1);     };  
+public String trim() {         if (isEmpty()) {             return "";         }         return queue.substring(start, end);     };  
+public String consume() { 		if (isEmpty()) 			return ""; 		return queue.substring(start, end); 	};  
+public String consume() {         if (pos >= queue.length()) return "";         return queue.substring(start, pos);     };  
+public String consumeUntil(char open, char close) {         return consumeUntil(open, close, false);     };  
+public String trim() {         if (isEmpty()) return "";         return queue.substring(start, end).trim();     };  
+public String consume() {         if (pos >= queue.length()) return "";         return queue.substring(pos);     };  
+public String trim() { 		if (isEmpty()) return ""; 		return queue.substring(start, end); 	};  
+@Override     public String consume() {         if (isEmpty()) return "";         return queue.substring(start, end);     };  
+public String consume() {         if (isEmpty()) {             return null;         }         return queue.substring(start, end);     };  
+public String chompBalanced(char open, char close) {         return queue.substring(start, end).trim();     };  
+public String consume() {         if (pos >= queue.length()) return null;         return queue.substring(start, pos);     };  
+public String consume() {         if (pos >= queue.length())             return "";         return queue.substring(pos);     };  
+public String consume() {         if (pos >= queue.length()) return null;         return queue.substring(pos);     };  
+public String consume() {         if (pos >= queue.length()) {             return "";         }         return queue.substring(pos);     };  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(pos);         }         return null;     };  
+public String consume() {         String out = queue.substring(start, queue.length());         return out;  
+public String consume() {         char c = queue.charAt(pos);         pos++;         return c;     };  
+public String consume() {         int pos = queue.length();         return queue.substring(pos);     };  
+public String consume() {         if (pos >= queue.length())             return "";         return queue.substring(start, pos);     };  
+public String consume(char open, char close) {         if (isEmpty()) return "";         return queue.substring(start, end);     };  
+public String trim() {         if (isEmpty()) return queue;         return queue.substring(start, end);     };  
+public String chompBalanced() {         if (isEmpty()) return "";         return queue.substring(start, end);     };  
+public String trim() {         if (isEmpty()) return "";         return queue.substring(0, pos);     };  
+public String consume() { 		if (isEmpty()) return null; 		return queue.substring(start, end); 	};  
+public String consume() {     if (isEmpty()) {       return "";     }     return queue.substring(start, end);   };  
+public String trim() {         if (isEmpty()) return "";         return queue.substring(start, queue.length() - 1);     };  
+public String consume() {         queue = queue.substring(start, queue.length());         return out;     };  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(pos);         }         return null;  
+public String consume() {         if (!isEmpty()) return queue.substring(start, end);         return null;     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(pos, end);     };  
+public String consume() {         if (pos < queue.length())             return queue.substring(pos);         return "";     };  
+public String consume() {         if (isEmpty()) return null;         return queue.substring(0, pos);     };  
+public String chompBalanced(char open, char close) {         return queue.substring(start, pos);     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(start, queue.length() - 1);     };  
+public String consume() {         if (isEmpty())             return "";         return queue.substring(start, end).trim();     };  
+public String consume() {         if (!isEmpty()) {             return queue.substring(start, end);         }         return "";     };  
+public String consume() {         if (pos >= queue.length()) return "";         return queue.substring(pos, pos + 1);     };  
+public String consume() {         if (!isEmpty())             return queue.substring(start, end);         return null;     };  
+public String consume() {         if (pos >= queue.length())             return "";         return queue.substring(pos, pos + 1);     };  
+public String chompBalanced(char open, char close) {         return queue.substring(start, end) + close;     };  
+public String consume() {         if (queue.isEmpty())             return "";         return queue.substring(start, end);     };  
+public String consume() {         if (isEmpty()) {             return "";         }         return queue.substring(0, pos);     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(start, queue.length());     };  
+public String consume()     {         if (isEmpty())             return "";         return queue.substring(start, end);     };  
+public String chompBalanced(char open, char close) {         if (isEmpty()) return "";         return queue.substring(start, end);     };  
+public String consume() {         if (isEmpty())             return "";         return queue.substring(0, pos);     };  
+public String consume() {         if (pos < queue.length()) return queue.substring(pos);         return null;     };  
+public String consume() {         if (isEmpty()) return null;         return queue.substring(start, pos);     };  
+public String consume() {         return queue.substring(0, pos) + queue.substring(pos, end);     };  
+public String consume() {         if (pos >= queue.length()) return "";         return queue.substring(0, pos);     };  
+public String consume() {         String out = queue.substring(start, queue.length());         return out;     };  
+public String consume() {         return queue.substring(0, pos) + queue.substring(pos + 1);     };  
+public String consume() {         if (pos >= queue.length()) return null;         return queue.substring(0, pos);     };  
+public String consume() {         if (pos < queue.length())             return queue.substring(pos);         else             return "";     };  
+public String consume() { 		if (isEmpty()) { 			return ""; 		} 		return queue.substring(start, end); 	};  
+public String consume() {         if (isEmpty()) {             return "";         }         return queue.substring(start);     };  
+public String consume(char open, char close) {         return queue.substring(start, end) + close;     };  
+public String consume() {         if (!isEmpty())             return queue.substring(start, end);         return null;  
+public String consume() {         if (isEmpty()) return null;         return queue.substring(start, end).trim();     };  
+public String consume() {         if (queue.length() == 0) return null;         return queue.substring(start, end);     };  
+public String consume() {         if (pos >= queue.length())             return null;         return queue.substring(pos);     };  
+public String consume() {         if (pos >= queue.length())             return "";         return queue.substring(0, pos);     };  
+public String consume() {         if (pos >= queue.length()) {             return "";         }         return queue.substring(start, pos);     };  
+public String consume() {         if (pos >= queue.length()) return null;         return queue.substring(pos, pos + 1);     };  
+public String consume() {         if (pos >= queue.length())             return null;         return queue.substring(start, pos);     };  
+public String trim() {         if (isEmpty())             return null;         return queue.substring(start, end);     };  
+public String consume() {         if (pos == queue.length()) return "";         return queue.substring(start, pos);     };  
+public String consume() {         if (queue.isEmpty()) return "";         return queue.substring(start, queue.length() - 1);     };  
+public String consume() {         if (pos < queue.length()) return queue.substring(pos);         return null;  
+public String consume() {         if (pos >= queue.length()) {             return null;         }         return queue.substring(pos);     };  
+public String consume() {         if (pos < queue.length())             return queue.substring(pos);         return null;  
+public String consume() {         if (!isEmpty()) {             return queue.substring(start, end);         }         return null;     };  
+@Override     public String consume() {         if (isEmpty()) {             return "";         }         return queue.substring(start, end);     };  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(pos);         } else {             return null;  
+public String trim() { 		if (isEmpty()) 			return ""; 		return queue.substring(start, end); 	};  
+public String consume() {         if (queue.isEmpty()) return null;         return queue.substring(start, end);     };  
+public String consume() {         if (queue.length() == 0)             return "";         return queue.substring(start, queue.length());     };  
+public String consume() {         if (pos == queue.length())             return "";         return queue.substring(start, pos);     };  
+public String consume() {         if (pos == queue.length()) {             return "";         }         return queue.substring(pos);     };  
+public String consume() {         if (pos == queue.length())             return "";         return queue.substring(pos);     };  
+public String consume() {         if (isEmpty()) {             return "";         }         return queue.substring(start, pos);     };  
+public String consume() {         if (queue.length() == 0) return "";         return queue.substring(start, queue.length());     };  
+public String consume() {         if (isEmpty()) {             return "";         }         return queue.substring(start, queue.length());     };  
+public String consume(char open, char close) {         if (isEmpty())             return "";         return queue.substring(start, end);     };  
+public String consume() {         if (pos >= queue.length()) {             return "";         }         return queue.substring(0, pos);     };  
+public String consume() {         if (pos < queue.length())             return queue.substring(pos);         return null;     };  
+public String consume() {         if (queue.length() == 0)             return null;         return queue.substring(start, end);     };  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(start, pos);         }         return "";     };  
+public String consume() {         if (queue.length() == 0) return "";         return queue.substring(start, queue.length() - 1);     };  
+public String chompBalanced(char open, char close) {         return queue.substring(start, end) + close;  
+public String consume() {         if (queue.length() == 0)             return "";         return queue.substring(start);     };  
+public String consume() {         if (queue.isEmpty()) return "";         return queue.substring(start, queue.length());     };  
+public String consume() {         try {             return queue.substring(pos);         } catch (IndexOutOfBoundsException e) {             return "";         }     };  
+public String consume() {         if (!isEmpty()) {             return queue.substring(start);         } else {             return "";         }     };  
+public String trim() {         if (isEmpty()) {             return "";         }         return queue.substring(0, pos);     };  
+public String consume() {         if (queue.isEmpty()) {             return "";         }         return queue.substring(start, end);     };  
+public String trim() {         if (isEmpty())             return "";         return queue.substring(start, queue.length() - 1);     };  
+public String trim() {         if (queue.length() == 0) return "";         return queue.substring(start, end);     };  
+public String consume()     {         if (isEmpty()) {             return "";         }         return queue.substring(start, end);     };  
+public String consume() {         if (pos >= queue.length())             return null;         return queue.substring(0, pos);     };  
+public String consume() {         if (pos >= queue.length())             return null;         return queue.substring(pos, pos + 1);     };  
+public String consume() {         if (isEmpty())             return "";         return queue.substring(start, queue.length() - 1);     };  
+public String trim() {         if (queue.length() == 0) return "";         return queue.substring(0, queue.length() - 1);     };  
+public String consume() {         if (queue.length() == 0)             return "";         return queue.substring(0, pos);     };  
+public String consume() {         if (queue.length() == 0) return "";         return queue.substring(0, pos);     };  
+public String consume() {     if (queue.length() == 0)       return "";     return queue.substring(start, end);   };  
+public String consume() {         if (isEmpty()) {             return "";         }         return queue.substring(start, end).trim();     };  
+public String trim() {         if (queue.length() == 0)             return "";         return queue.substring(start, end);     };  
+public String consume() {         try {             return queue.substring(start);         } catch (IndexOutOfBoundsException e) {             return "";         }     };  
+public String consume() {         if (pos == queue.length()) {             return "";         }         return queue.substring(start, pos);     };  
+public String consume() {         if (!isEmpty())             return queue.substring(start, end);         else             return null;     };  
+public String consume() {         if (end >= 0) {             return queue.substring(start, end);         }         return "";     };  
+public String consume() {         if (!isEmpty()) {             return queue.substring(start, end);         }         return null;  
+public String consume() {         if (end < queue.length()) {             return queue.substring(start, end);         }         return "";     };  
+public String consume() {         if (pos < queue.length())             return queue.substring(start, pos);         return "";     };  
+public String consume() {         if (isEmpty()) {             return queue;         }         return queue.substring(start, end);     };  
+public String consume() {         if (pos < queue.length())             return queue.substring(start, pos);         else             return "";     };  
+public String consume() {         if (queue.length() == 0) {             return "";         }         return queue.substring(start);     };  
+public String consume() {         if (queue.length() == 0)             return "";         return queue.substring(start, end).trim();     };  
+public String consume() {         if (queue.length() == 0) return "";         return queue.substring(0, queue.length() - 1);     };  
+public String consume() { 		if (queue.length() == 0) 			return ""; 		return queue.substring(start, end); 	};  
+public String consume() {         if (queue.isEmpty())             return "";         return queue.substring(start, queue.length() - 1);     };  
+public String consume() {         if (pos == queue.length())             return "";         return queue.substring(pos, pos + 1);     };  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(start, pos);         }         return null;  
+public String consume() {         if (isEmpty()) {             return "";         } else {             return queue.substring(start);         }     };  
+public String consume() {         if (end >= 0) {             return queue.substring(start, end);         }         return queue;     };  
+public String consume() {         if (isEmpty()) {             return null;         }         return queue.substring(0, pos);     };  
+public String consume() {         if (queue.length() == 0) return null;         return queue.substring(start, queue.length());     };  
+public String consume() {         if (pos < queue.length())             return queue.substring(pos);         else             return null;     };  
+public String consume() { 		if (pos >= queue.length()) 			return ""; 		return queue.substring(start, pos); 	};  
+public String trim() {         if (isEmpty()) return "";         return queue.substring(0, pos) + queue.substring(pos, end);     };  
+public String consume() {         if (pos == queue.length()) {             return "";         }         return queue.substring(0, pos);     };  
+public String trim() {         if (isEmpty()) {             return "";         }         return queue.substring(start, queue.length());     };  
+public String consume() {         if (queue.length() > 0)             return queue.substring(start, queue.length());         return "";     };  
+public String consume() {         if (!queue.isEmpty()) {             return queue.substring(start, end);         }         return "";     };  
+public String trim() {         if (isEmpty()) return "";         return queue.substring(0, pos) + queue.substring(pos + 1);     };  
+public String consume() {         if (isEmpty()) return "";         return queue.substring(0, pos) + queue.substring(pos, end);     };  
+public String consume() {         if (!isEmpty()) {             return queue.substring(start, end);         } else {             return null;  
+public String consume() {         if (end >= 0) {             return queue.substring(start, end);         } else {             return queue;  
+public String consume() {         if (queue.length() == 0)             return null;         return queue.substring(start, queue.length());     };  
+public String consume() {         if (queue.isEmpty()) {             return "";         }         return queue.substring(start, queue.length());     };  
+public String consume() {         if (queue.length() > 0) {             return queue.substring(start);         }         return "";     };  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(start, pos);         } else {             return null;  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(0, pos);         }         return "";     };  
+public String consume() {         if (end < queue.length()) {             return queue.substring(start, end);         }         return null;  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(pos, pos + 1);         }         return null;  
+public String consume() {         if (pos < queue.length()) {             return queue.substring(pos);         } else {             return EMPTY;  
+public String consume() {         if (queue.length() > 0) {             return queue.substring(start, queue.length());         }         return null;  
+;  
+public String consume() {         if (end < queue.length()) {             return queue.substring(start, end);         } else {             return queue;  
+public String consume() {         if (end < queue.length()) {             return queue.substring(start, end);         } else {             return null;  
+return out;  
+return  out;  
+return ;  
+return return out;  
+return  return out;  
+return queue;  
+return  this;  
+return  null;  
+return  queue;  
+return "";  
+return null;  
+return this;  
+return  tail;  
+return  String.valueOf(out);  
+return  out;;  
+return  output;  
+return  q;  
+return  string;  
+return quote;  
+return close;  
+return queue.substring(start, end);;  
+return output;  
+return  close;  
+return string;  
+return q;  
+return  "";;  
+return  queue.substring(start, end);;  
+return  String;  
+return  out;  
+return tail;  
+return  buffer;  
+return buffer;  
+return func;  
+return  tail + out;  
+return };  
+return  o;  
+return "" + out;  
+return ;;  
+return outString;  
+return  out + close;  
+return out;;  
+return op;  
+return  open;  
+return  out; };  
+return substring;  
+return open;  
+return def;  
+return  OUTER;  
+return ""+out;  
+return toString();  
+return (out);;  
+return out; };  
+return  last;  
+return  newline;  
+return  String.valueOf(out);;  
+return  String.valueOf(out;  
+return  quote;  
+return  open + close;  
+return space;  
+return  out.trim();  
+return  out + queue;  
+return  buf;  
+return  ;  
+return  close + out;  
+return  "" + out;  
+return  String out;  
+return out.trim();;  
+return  result;  
+return  EMPTY;  
+return   out;  
+return  back;  
+return  next;  
+return last;  
+return  open + out;  
+return  out; ;  
+return (out) ? out : null;  
+return queueName;  
+return  +out;  
+return  OUT;  
+return substring(start, end);;  
+return  obs;  
+return o;  
+return  "";  
+return out; ;  
+return  (out != null) ? out : null;  
+return OUT;  
+return STRING;  
+return (out);  
+return inQuote;  
+return  trim;  
+return code;  
+return  trim(out);;  
+return toString;  
+return 	out;  
+return  " " + out;  
+return stack;  
+return  text;  
+return  false;  
+return Out;  
+return 0;  
+return  outs;  
+return Queue;  
+return -1;  
+return  finish;  
+return p;  
+return  match;  
+return CLOSE;  
+return result;  
+return  str;  
+return  -1;  
+return  position;  
+return     };  
+return  function;  
+return open + close;  
+return  queue.substring(start, end);  
+return  queue + out;  
+return (out;  
+return  toString();  
+return  end;  
+return open + out;  
+return out.trim();  
+return lastLine;  
+return  ;  
+return  retval;  
+return end;  
+return buf;  
+return tail + out;  
+return  op;  
+return str;  
+return  value;  
+return  out == null ? "" : out;  
+return  true;  
+return  Utility;  
+return  = out;  
+return  CLOSE;  
+return  out.trim();;  
+return  root;  
+return  this.toString() + out;  
+return line;  
+return queue + out;  
+return next;  
+return out + close;  
+return false;  
+return closed;  
+return  outcome;  
+return AST#return_statement#Right;  
+return value;  
+return clean;  
+return  };  
+return  super.chompBalanced(open, close);;  
+return  inQuote ? out : out;  
+return isEmpty() ? "" : out;  
+return text;  
+return ();  
+return EMPTY;  
+return out ;  
+return out == null ? "" : out;  
+return  String.valueOf(out) + close;  
+return  balanced;  
+return name;  
+return  ret;  
+return position;  
+return queue.substring(start, end);  
+return  out + open;  
+return OUTER;  
+return quoting;  
+return  q.substring(start, end);;  
+return  out ;  
+return  trim(out);  
+return  return out;  
+return queue.substring(start, end); ;  
+return String queue;  
+return q.substring(start, end);;  
+return  out != null ? out : null;  
+return  out ? out : null;  
+return balanced(open, close);;  
+return  new String(queue, start, end);;  
+return  (out == null) ? "" : out;  
+return  out.substring(start, end);;  
+return out != null ? out : null;  
+return out.substring(start, end);;  
+return  isEmpty() ? "" : out;  
+return  (out == null) ? null : out;  
+return  String.valueOf(out).trim();;  
+return  buffer.substring(start, end);;  
+return queue.substring(start);;  
+return  this.substring(start, end);;  
+return queue.substring(start, end) + out;  
+return public String consume() {         return queue.substring(start, end);     };  
+return  open + close + out;  
+return inQuote ? out : out;  
+return out.trim(); ;  
+return  queue.substring(start, end); ;  
+return  substring(start, end);;  
+return  inQuote ? out : out + close;  
+return buffer.substring(start, end);;  
+return  out + queue.substring(start, end);;  
+return queue.substring(start, end); };  
+return  queue.substring(start, end) + out;  
+return  queue.substring(start, end); };  
+return public String consume() {         return queue;  
+return  inQuote ? out : out.trim();  
+return public String consume() {         return queue.substring(start, queue.length());     };  
+return public String trim() {         return queue;  
+return  inQuote ? out : out.substring(start, end);;  
+return AST#method_invocation#Leftqueue.substring(start, end); ;  
+return public String consume() {     return queue.substring(start, end);   };  
+return public String consume() {         return queue.substring(start, pos);     };  
+return public String consume() {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume(char open, char close) {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.trim();     };  
+return public String consume() {     return queue.substring(start, queue.length());   };  
+return public String trim() {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.substring(start, queue.length());     };  
+return public String substring(int start, int end) {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume() {         return queue.substring(start, end).trim();     };  
+return public String consume() { 		return queue.substring(start, end); 	};  
+return public String consume() {         return queue.substring(start, end);;  
+return public String consume()   {     return queue.substring(start, end);   };  
+return public String consume(char open, char close) {         return consume(open, close);     };  
+return public String consume()     {         return queue.substring(start, end);     };  
+return public String consume(char open) {         return queue.substring(start, end);     };  
+return public String consume() {     return queue.substring(start, queue.length() - 1);   };  
+return public String consume(char open, char close) {         return consumeBalanced(open, close);     };  
+return public String consume(char open, char close) {         return queue.substring(start, end) + close;  
+return public String consume() { 		return queue.substring(start, queue.length()); 	};  
+return public String chompBalanced() {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {         return consume(open, close, false);     };  
+return public String chomp(char open, char close) {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {     return queue.substring(start, end);   };  
+return public String consume()     {         return queue.substring(start, queue.length());     };  
+return public String consume() { 		return queue.substring(start, queue.length() - 1); 	};  
+return public String chompBalanced() {         return queue.substring(start, queue.length());     };  
+return public String trim(char open, char close) {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {         return consume(open, close, true);     };  
+return public String consume() {         if (!isEmpty())             return queue.substring(start, end);         return null;  
+return public String trim(char open, char close) {         return trim(open, close, false);     };  
+return public String consume()     {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume() {         if (!isEmpty()) return queue.substring(start, end);         return null;  
+return public String consume() {         queue = queue.substring(start, queue.length());         return out;  
+return public String consume() {         queue = queue.substring(start, queue.length() - 1);         return out;  
+return public String chopBalanced(char open, char close) {         return queue.substring(start, end) + close;  
+return public String chomp(char open, char close) {         return queue.substring(start, end) + close;  
+return public String chompBalanced(char open, char close) {         return queue.substring(start, end);;  
+return public String consume() {         String out = queue.substring(start, queue.length());         return out;  
+return public String consume(char open, char close) {         return queue.substring(start, end) + open + close;  
+return public String consume(char open, char close) {     return queue.substring(start, end) + close;  
+return ;  
+return public String trim() {         if (!isEmpty())             return queue.substring(start, end);         return null;  
+return out;  
+return  out;  
+return ;  
+return return out;  
+return  return out;  
+return queue;  
+return  this;  
+return  null;  
+return  queue;  
+return "";  
+return null;  
+return this;  
+return  tail;  
+return  String.valueOf(out);  
+return  out;;  
+return  output;  
+return  q;  
+return  string;  
+return quote;  
+return close;  
+return queue.substring(start, end);;  
+return output;  
+return  close;  
+return string;  
+return q;  
+return  "";;  
+return  queue.substring(start, end);;  
+return  String;  
+return  out;  
+return tail;  
+return  buffer;  
+return buffer;  
+return func;  
+return  tail + out;  
+return };  
+return  o;  
+return "" + out;  
+return ;;  
+return outString;  
+return  out + close;  
+return out;;  
+return op;  
+return  open;  
+return  out; };  
+return substring;  
+return open;  
+return def;  
+return  OUTER;  
+return ""+out;  
+return toString();  
+return (out);;  
+return out; };  
+return  last;  
+return  newline;  
+return  String.valueOf(out);;  
+return  String.valueOf(out;  
+return  quote;  
+return  open + close;  
+return space;  
+return  out.trim();  
+return  out + queue;  
+return  buf;  
+return  ;  
+return  close + out;  
+return  "" + out;  
+return  String out;  
+return out.trim();;  
+return  result;  
+return  EMPTY;  
+return   out;  
+return  back;  
+return  next;  
+return last;  
+return  open + out;  
+return  out; ;  
+return (out) ? out : null;  
+return queueName;  
+return  +out;  
+return  OUT;  
+return substring(start, end);;  
+return  obs;  
+return o;  
+return  "";  
+return out; ;  
+return  (out != null) ? out : null;  
+return OUT;  
+return STRING;  
+return (out);  
+return inQuote;  
+return  trim;  
+return code;  
+return  trim(out);;  
+return toString;  
+return 	out;  
+return  " " + out;  
+return stack;  
+return  text;  
+return  false;  
+return Out;  
+return 0;  
+return  outs;  
+return Queue;  
+return -1;  
+return  finish;  
+return p;  
+return  match;  
+return CLOSE;  
+return result;  
+return  str;  
+return  -1;  
+return  position;  
+return     };  
+return  function;  
+return open + close;  
+return  queue.substring(start, end);  
+return  queue + out;  
+return (out;  
+return  toString();  
+return  end;  
+return open + out;  
+return out.trim();  
+return lastLine;  
+return  ;  
+return  retval;  
+return end;  
+return buf;  
+return tail + out;  
+return  op;  
+return str;  
+return  value;  
+return  out == null ? "" : out;  
+return  true;  
+return  Utility;  
+return  = out;  
+return  CLOSE;  
+return  out.trim();;  
+return  root;  
+return  this.toString() + out;  
+return line;  
+return queue + out;  
+return next;  
+return out + close;  
+return false;  
+return closed;  
+return  outcome;  
+return AST#return_statement#Right;  
+return value;  
+return clean;  
+return  };  
+return  super.chompBalanced(open, close);;  
+return  inQuote ? out : out;  
+return isEmpty() ? "" : out;  
+return text;  
+return ();  
+return EMPTY;  
+return out ;  
+return out == null ? "" : out;  
+return  String.valueOf(out) + close;  
+return  balanced;  
+return name;  
+return  ret;  
+return position;  
+return queue.substring(start, end);  
+return  out + open;  
+return OUTER;  
+return quoting;  
+return  q.substring(start, end);;  
+return  out ;  
+return  trim(out);  
+return  return out;  
+return queue.substring(start, end); ;  
+return String queue;  
+return q.substring(start, end);;  
+return  out != null ? out : null;  
+return  out ? out : null;  
+return balanced(open, close);;  
+return  new String(queue, start, end);;  
+return  (out == null) ? "" : out;  
+return  out.substring(start, end);;  
+return out != null ? out : null;  
+return out.substring(start, end);;  
+return  isEmpty() ? "" : out;  
+return  (out == null) ? null : out;  
+return  String.valueOf(out).trim();;  
+return  buffer.substring(start, end);;  
+return queue.substring(start);;  
+return  this.substring(start, end);;  
+return queue.substring(start, end) + out;  
+return public String consume() {         return queue.substring(start, end);     };  
+return  open + close + out;  
+return inQuote ? out : out;  
+return out.trim(); ;  
+return  queue.substring(start, end); ;  
+return  substring(start, end);;  
+return  inQuote ? out : out + close;  
+return buffer.substring(start, end);;  
+return  out + queue.substring(start, end);;  
+return queue.substring(start, end); };  
+return  queue.substring(start, end) + out;  
+return  queue.substring(start, end); };  
+return public String consume() {         return queue;  
+return  inQuote ? out : out.trim();  
+return public String consume() {         return queue.substring(start, queue.length());     };  
+return public String trim() {         return queue;  
+return  inQuote ? out : out.substring(start, end);;  
+return AST#method_invocation#Leftqueue.substring(start, end); ;  
+return public String consume() {     return queue.substring(start, end);   };  
+return public String consume() {         return queue.substring(start, pos);     };  
+return public String consume() {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume(char open, char close) {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.trim();     };  
+return public String consume() {     return queue.substring(start, queue.length());   };  
+return public String trim() {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.substring(start, queue.length());     };  
+return public String substring(int start, int end) {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume() {         return queue.substring(start, end).trim();     };  
+return public String consume() { 		return queue.substring(start, end); 	};  
+return public String consume() {         return queue.substring(start, end);;  
+return public String consume()   {     return queue.substring(start, end);   };  
+return public String consume(char open, char close) {         return consume(open, close);     };  
+return public String consume()     {         return queue.substring(start, end);     };  
+return public String consume(char open) {         return queue.substring(start, end);     };  
+return public String consume() {     return queue.substring(start, queue.length() - 1);   };  
+return public String consume(char open, char close) {         return consumeBalanced(open, close);     };  
+return public String consume(char open, char close) {         return queue.substring(start, end) + close;  
+return public String consume() { 		return queue.substring(start, queue.length()); 	};  
+return public String chompBalanced() {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {         return consume(open, close, false);     };  
+return public String chomp(char open, char close) {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {     return queue.substring(start, end);   };  
+return public String consume()     {         return queue.substring(start, queue.length());     };  
+return public String consume() { 		return queue.substring(start, queue.length() - 1); 	};  
+return public String chompBalanced() {         return queue.substring(start, queue.length());     };  
+return public String trim(char open, char close) {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {         return consume(open, close, true);     };  
+return public String consume() {         if (!isEmpty())             return queue.substring(start, end);         return null;  
+return public String trim(char open, char close) {         return trim(open, close, false);     };  
+return public String consume()     {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume() {         if (!isEmpty()) return queue.substring(start, end);         return null;  
+return public String consume() {         queue = queue.substring(start, queue.length());         return out;  
+return public String consume() {         queue = queue.substring(start, queue.length() - 1);         return out;  
+return public String chopBalanced(char open, char close) {         return queue.substring(start, end) + close;  
+return public String chomp(char open, char close) {         return queue.substring(start, end) + close;  
+return public String chompBalanced(char open, char close) {         return queue.substring(start, end);;  
+return public String consume() {         String out = queue.substring(start, queue.length());         return out;  
+return public String consume(char open, char close) {         return queue.substring(start, end) + open + close;  
+return public String consume(char open, char close) {     return queue.substring(start, end) + close;  
+return ;  
+return public String trim() {         if (!isEmpty())             return queue.substring(start, end);         return null;  
+return out;  
+return  out;  
+return ;  
+return return out;  
+return  return out;  
+return queue;  
+return  this;  
+return  null;  
+return  queue;  
+return "";  
+return null;  
+return this;  
+return  tail;  
+return  String.valueOf(out);  
+return  out;;  
+return  output;  
+return  q;  
+return  string;  
+return quote;  
+return close;  
+return queue.substring(start, end);;  
+return output;  
+return  close;  
+return string;  
+return q;  
+return  "";;  
+return  queue.substring(start, end);;  
+return  String;  
+return  out;  
+return tail;  
+return  buffer;  
+return buffer;  
+return func;  
+return  tail + out;  
+return };  
+return  o;  
+return "" + out;  
+return ;;  
+return outString;  
+return  out + close;  
+return out;;  
+return op;  
+return  open;  
+return  out; };  
+return substring;  
+return open;  
+return def;  
+return  OUTER;  
+return ""+out;  
+return toString();  
+return (out);;  
+return out; };  
+return  last;  
+return  newline;  
+return  String.valueOf(out);;  
+return  String.valueOf(out;  
+return  quote;  
+return  open + close;  
+return space;  
+return  out.trim();  
+return  out + queue;  
+return  buf;  
+return  ;  
+return  close + out;  
+return  "" + out;  
+return  String out;  
+return out.trim();;  
+return  result;  
+return  EMPTY;  
+return   out;  
+return  back;  
+return  next;  
+return last;  
+return  open + out;  
+return  out; ;  
+return (out) ? out : null;  
+return queueName;  
+return  +out;  
+return  OUT;  
+return substring(start, end);;  
+return  obs;  
+return o;  
+return  "";  
+return out; ;  
+return  (out != null) ? out : null;  
+return OUT;  
+return STRING;  
+return (out);  
+return inQuote;  
+return  trim;  
+return code;  
+return  trim(out);;  
+return toString;  
+return 	out;  
+return  " " + out;  
+return stack;  
+return  text;  
+return  false;  
+return Out;  
+return 0;  
+return  outs;  
+return Queue;  
+return -1;  
+return  finish;  
+return p;  
+return  match;  
+return CLOSE;  
+return result;  
+return  str;  
+return  -1;  
+return  position;  
+return     };  
+return  function;  
+return open + close;  
+return  queue.substring(start, end);  
+return  queue + out;  
+return (out;  
+return  toString();  
+return  end;  
+return open + out;  
+return out.trim();  
+return lastLine;  
+return  ;  
+return  retval;  
+return end;  
+return buf;  
+return tail + out;  
+return  op;  
+return str;  
+return  value;  
+return  out == null ? "" : out;  
+return  true;  
+return  Utility;  
+return  = out;  
+return  CLOSE;  
+return  out.trim();;  
+return  root;  
+return  this.toString() + out;  
+return line;  
+return queue + out;  
+return next;  
+return out + close;  
+return false;  
+return closed;  
+return  outcome;  
+return AST#return_statement#Right;  
+return value;  
+return clean;  
+return  };  
+return  super.chompBalanced(open, close);;  
+return  inQuote ? out : out;  
+return isEmpty() ? "" : out;  
+return text;  
+return ();  
+return EMPTY;  
+return out ;  
+return out == null ? "" : out;  
+return  String.valueOf(out) + close;  
+return  balanced;  
+return name;  
+return  ret;  
+return position;  
+return queue.substring(start, end);  
+return  out + open;  
+return OUTER;  
+return quoting;  
+return  q.substring(start, end);;  
+return  out ;  
+return  trim(out);  
+return  return out;  
+return queue.substring(start, end); ;  
+return String queue;  
+return q.substring(start, end);;  
+return  out != null ? out : null;  
+return  out ? out : null;  
+return balanced(open, close);;  
+return  new String(queue, start, end);;  
+return  (out == null) ? "" : out;  
+return  out.substring(start, end);;  
+return out != null ? out : null;  
+return out.substring(start, end);;  
+return  isEmpty() ? "" : out;  
+return  (out == null) ? null : out;  
+return  String.valueOf(out).trim();;  
+return  buffer.substring(start, end);;  
+return queue.substring(start);;  
+return  this.substring(start, end);;  
+return queue.substring(start, end) + out;  
+return public String consume() {         return queue.substring(start, end);     };  
+return  open + close + out;  
+return inQuote ? out : out;  
+return out.trim(); ;  
+return  queue.substring(start, end); ;  
+return  substring(start, end);;  
+return  inQuote ? out : out + close;  
+return buffer.substring(start, end);;  
+return  out + queue.substring(start, end);;  
+return queue.substring(start, end); };  
+return  queue.substring(start, end) + out;  
+return  queue.substring(start, end); };  
+return public String consume() {         return queue;  
+return  inQuote ? out : out.trim();  
+return public String consume() {         return queue.substring(start, queue.length());     };  
+return public String trim() {         return queue;  
+return  inQuote ? out : out.substring(start, end);;  
+return AST#method_invocation#Leftqueue.substring(start, end); ;  
+return public String consume() {     return queue.substring(start, end);   };  
+return public String consume() {         return queue.substring(start, pos);     };  
+return public String consume() {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume(char open, char close) {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.trim();     };  
+return public String consume() {     return queue.substring(start, queue.length());   };  
+return public String trim() {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.substring(start, queue.length());     };  
+return public String substring(int start, int end) {         return queue.substring(start, end);     };  
+return public String trim() {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume() {         return queue.substring(start, end).trim();     };  
+return public String consume() { 		return queue.substring(start, end); 	};  
+return public String consume() {         return queue.substring(start, end);;  
+return public String consume()   {     return queue.substring(start, end);   };  
+return public String consume(char open, char close) {         return consume(open, close);     };  
+return public String consume()     {         return queue.substring(start, end);     };  
+return public String consume(char open) {         return queue.substring(start, end);     };  
+return public String consume() {     return queue.substring(start, queue.length() - 1);   };  
+return public String consume(char open, char close) {         return consumeBalanced(open, close);     };  
+return public String consume(char open, char close) {         return queue.substring(start, end) + close;  
+return public String consume() { 		return queue.substring(start, queue.length()); 	};  
+return public String chompBalanced() {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {         return consume(open, close, false);     };  
+return public String chomp(char open, char close) {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {     return queue.substring(start, end);   };  
+return public String consume()     {         return queue.substring(start, queue.length());     };  
+return public String consume() { 		return queue.substring(start, queue.length() - 1); 	};  
+return public String chompBalanced() {         return queue.substring(start, queue.length());     };  
+return public String trim(char open, char close) {         return queue.substring(start, end);     };  
+return public String consume(char open, char close) {         return consume(open, close, true);     };  
+return public String consume() {         if (!isEmpty())             return queue.substring(start, end);         return null;  
+return public String trim(char open, char close) {         return trim(open, close, false);     };  
+return public String consume()     {         return queue.substring(start, queue.length() - 1);     };  
+return public String consume() {         if (!isEmpty()) return queue.substring(start, end);         return null;  
+return public String consume() {         queue = queue.substring(start, queue.length());         return out;  
+return public String consume() {         queue = queue.substring(start, queue.length() - 1);         return out;  
+return public String chopBalanced(char open, char close) {         return queue.substring(start, end) + close;  
+return public String chomp(char open, char close) {         return queue.substring(start, end) + close;  
+return public String chompBalanced(char open, char close) {         return queue.substring(start, end);;  
+return public String consume() {         String out = queue.substring(start, queue.length());         return out;  
+return public String consume(char open, char close) {         return queue.substring(start, end) + open + close;  
+return public String consume(char open, char close) {     return queue.substring(start, end) + close;  
+return ;  
+return public String trim() {         if (!isEmpty())             return queue.substring(start, end);         return null;  
+if(out==null){return null;} return out;  
+if(out==null){return ;;} return out;  
+if(out==null){return null;;} return out;  
+if(out==null){return ;};} return out;  
+if(out==null){return false;} return out;  
+if(out==null){return };} return out;  
+if(out==null){return null;};} return out;  
+if(out==null){return  "";;} return out;  
+if(out==null){return out;} return out;  
+if(out==null){return  null;} return out;  
+if(out==null){return "";} return out;  
+if(out==null){return };;} return out;  
+if(out==null){return  null;;} return out;  
+if(out==null){return false;;} return out;  
+if(out==null){return 0;} return out;  
+if(out==null){return ;} return out;  
+if(out==null){return ";;} return out;  
+if(out==null){return return null;;} return out;  
+if(out==null){return "";;} return out;  
+if(out==null){return NULL;} return out;  
+if(out==null){return out;;} return out;  
+if(out==null){return ; };} return out;  
+if(out==null){return true;} return out;  
+if(out==null){return ";};} return out;  
+if(out==null){return q;} return out;  
+if(out==null){return ();;} return out;  
+if(out==null){return return null;} return out;  
+if(out==null){return queue;} return out;  
+if(out==null){return ("");;} return out;  
+if(out==null){return string;} return out;  
+if(out==null){return return "";;} return out;  
+if(out==null){return toString();;} return out;  
+if(out==null){return buffer;} return out;  
+if(out==null){return EMPTY;} return out;  
+if(out==null){return false;};} return out;  
+if(out==null){return -1;} return out;  
+if(out==null){return empty;} return out;  
+if(out==null){return true;;} return out;  
+if(out==null){return "};} return out;  
+if(out==null){return null; };} return out;  
+if(out==null){return quote;} return out;  
+if(out==null){return close;} return out;  
+if(out==null){return  null;};} return out;  
+if(out==null){return 1;} return out;  
+if(out==null){return this;} return out;  
+if(out==null){return open;} return out;  
+if(out==null){return (null);;} return out;  
+if(out==null){return } else;} return out;  
+if(out==null){return 0;;} return out;  
+if(out==null){return null};} return out;  
+if(out==null){return ";";;} return out;  
+if(out==null){return ; ;} return out;  
+if(out==null){return  false;} return out;  
+if(out==null){return q;;} return out;  
+if(out==null){return  ;} return out;  
+if(out==null){return [];;} return out;  
+if(out==null){return  EMPTY;} return out;  
+if(out==null){return *;} return out;  
+if(out==null){return null;};} return out;  
+if(out==null){return home;} return out;  
+if(out==null){return }else;} return out;  
+if(out==null){return output;} return out;  
+if(out==null){return code;} return out;  
+if(out==null){return ;};} return out;  
+if(out==null){return  false;;} return out;  
+if(out==null){return (out);;} return out;  
+if(out==null){return }";;} return out;  
+if(out==null){return  "";};} return out;  
+if(out==null){return NULL;;} return out;  
+if(out==null){return ="";;} return out;  
+if(out==null){return } else {;} return out;  
+if(out==null){return } else {return out;} return out;  
+if(out==null){return str;} return out;  
+if(out==null){return str;;} return out;  
+if(out==null){return text;} return out;  
+if(out==null){return head;} return out;  
+if(out==null){return undefined;} return out;  
+if(out==null){return AST#return_statement#Right;} return out;  
+if(out==null){return "";};} return out;  
+if(out==null){return } else { return out;} return out;  
+if(out==null){return tail;} return out;  
+if(out==null){return string;;} return out;  
+if(out==null){return /;} return out;  
+if(out==null){return ;};;} return out;  
+if(out==null){return ";"};} return out;  
+if(out==null){return );};} return out;  
+if(out==null){return ":";} return out;  
+if(out==null){return  ;} return out;  
+if(out==null){return Null;} return out;  
+if(out==null){return :;} return out;  
+if(out==null){return value;} return out;  
+if(out==null){return "};;} return out;  
+if(out==null){return p;} return out;  
+if(out==null){return  null; };} return out;  
+if(out==null){return ?;} return out;  
+if(out==null){return n;} return out;  
+if(out==null){return (null);};} return out;  
+if(out==null){return STRING;} return out;  
+if(out==null){return queue;;} return out;  
+if(out==null){return back;} return out;  
+if(out==null){return exit;} return out;  
+if(out==null){return out;};} return out;  
+if(out==null){return Queue;} return out;  
+if(out==null){return null; ;} return out;  
+if(out==null){return space;} return out;  
+if(out==null){return window;} return out;  
+if(out==null){return v;} return out;  
+if(out==null){return input;} return out;  
+if(out==null){return c;;} return out;  
+if(out==null){return }.;} return out;  
+if(out==null){return ";":;} return out;  
+if(out==null){return g;} return out;  
+if(out==null){return return;;} return out;  
+if(out==null){return VOID;} return out;  
+if(out==null){return (out);};} return out;  
+if(out==null){return StringUtils.EMPTY;} return out;  
+if(out==null){return blank;} return out;  
+if(out==null){return return;} return out;  
+if(out==null){return ='';;} return out;  
+if(out==null){return true;};} return out;  
+if(out==null){return !inQuote;} return out;  
+if(out==null){return null};;} return out;  
+if(out==null){return  "";} return out;  
+if(out==null){return return null;};} return out;  
+if(out==null){return ("");};} return out;  
+if(out==null){return c;} return out;  
+if(out==null){return a;} return out;  
+if(out==null){return ?null;} return out;  
+if(out==null){return ;} ;} return out;  
+if(out==null){return '';} return out;  
+if(out==null){return q.toString();;} return out;  
+if(out==null){return buf;} return out;  
+if(out==null){return CLOSE;} return out;  
+if(out==null){return this;;} return out;  
+if(out==null){return gc;} return out;  
+if(out==null){return  "}";;} return out;  
+if(out==null){return NOP;} return out;  
+if(out==null){return trim();;} return out;  
+if(out==null){return ; };} return out;  
+if(out==null){return result;} return out;  
+if(out==null){return  };} return out;  
+if(out==null){return root;} return out;  
+if(out==null){return encoding;} return out;  
+if(out==null){return +1;} return out;  
+if(out==null){return +;} return out;  
+if(out==null){return return queue;} return out;  
+if(out==null){return } ;} return out;  
+if(out==null){return return out;;} return out;  
+if(out==null){return inline;} return out;  
+if(out==null){return ';;} return out;  
+if(out==null){return nil;} return out;  
+if(out==null){return esc;} return out;  
+if(out==null){return close;;} return out;  
+if(out==null){return <;} return out;  
+if(out==null){return tail;;} return out;  
+if(out==null){return ==null;} return out;  
+if(out==null){return -1;;} return out;  
+if(out==null){return 	null;} return out;  
+if(out==null){return Q;} return out;  
+if(out==null){return open;;} return out;  
+if(out==null){return ();};} return out;  
+if(out==null){return ;},;} return out;  
+if(out==null){return end;} return out;  
+if(out==null){return ""; };} return out;  
+if(out==null){return short;} return out;  
+if(out==null){return UTF8;} return out;  
+if(out==null){return pos;} return out;  
+if(out==null){return _;} return out;  
+if(out==null){return isEmpty() ? "" : out;} return out;  
+if(out==null){return  };} return out;  
+if(out==null){return base;} return out;  
+if(out==null){return NIL;} return out;  
+if(out==null){return buffer;;} return out;  
+if(out==null){return out; };} return out;  
+if(out==null){return AST#else#Right;} return out;  
+if(out==null){return false; };} return out;  
+if(out==null){return name;} return out;  
+if(out==null){return DELIMITER;} return out;  
+if(out==null){return ?null:out;} return out;  
+if(out==null){return =null;;} return out;  
+if(out==null){return  null;} return out;  
+if(out==null){return !empty;} return out;  
+if(out==null){return } else { return queue;} return out;  
+if(out==null){return "}";;} return out;  
+if(out==null){return } @return;} return out;  
+if(out==null){return head;;} return out;  
+if(out==null){return return out;} return out;  
+if(out==null){return return EMPTY;} return out;  
+if(out==null){return }  @return;} return out;  
+if(out==null){return null;} ;} return out;  
+if(out==null){return .length;} return out;  
+if(out==null){return buffer.toString();;} return out;  
+if(out==null){return (queue);;} return out;  
+if(out==null){return } else {return queue;} return out;  
+if(out==null){return quoting;} return out;  
+if(out==null){return }else{return queue;} return out;  
+if(out==null){return null;++pos;} return out;  
+if(out==null){return return null; };} return out;  
+if(out==null){return =null;} return out;  
+if(out==null){return } else return out;} return out;  
+if(out==null){return  return null;;} return out;  
+if(out==null){return _null;} return out;  
+if(out==null){return String queue;} return out;  
+if(out==null){return isEmpty()?null:out;} return out;  
+if(out==null){return return queue;;} return out;  
+if(out==null){return quot;;} return out;  
+if(out==null){return return null; ;} return out;  
+if(out==null){return new String(queue);;} return out;  
+if(out==null){return return false;;} return out;  
+if(out==null){return } else { return null;} return out;  
+if(out==null){return ?null:out;;} return out;  
+if(out==null){return 	null;;} return out;  
+if(out==null){return return false;} return out;  
+if(out==null){return queue.substring(start, end);;} return out;  
+if(out==null){return out; ;} return out;  
+if(out==null){return null; };} return out;  
+if(out==null){return q.trim();;} return out;  
+if(out==null){return String str;;} return out;  
+if(out==null){return out;};} return out;  
+if(out==null){return java.lang.String;} return out;  
+if(out==null){return ;}  @return;} return out;  
+if(out==null){return isEmpty() ? null : out;} return out;  
+if(out==null){return } {@inheritDoc;} return out;  
+if(out==null){return } else { return out;} return out;  
+if(out==null){return throw new IllegalStateException();;} return out;  
+if(out==null){return ";"; ;} return out;  
+if(out==null){return isEmpty()?null:out;;} return out;  
+if(out==null){return queue.substring(start);;} return out;  
+if(out==null){return queue.substring(start, end);};} return out;  
+if(out==null){return ;} @return;} return out;  
+if(out==null){return String out;;} return out;  
+if(out==null){return } else { return out; };} return out;  
+if(out==null){return q.substring(start, end);;} return out;  
+if(out==null){return new String(queue);};} return out;  
+if(out==null){return isEmpty() ? "" : out;;} return out;  
+if(out==null){return } else {return null;} return out;  
+if(out==null){return } else{return out;} return out;  
+if(out==null){return AST#method_invocation#Leftqueue.trim();;} return out;  
+if(out==null){return } else { return "";;} return out;  
+if(out==null){return } else { return queue;} return out;  
+if(out==null){return isEmpty() ? null : out;;} return out;  
+if(out==null){return } else { return out;;} return out;  
+if(out==null){return } else {return out;;} return out;  
+if(out==null){return  String.valueOf(out);;} return out;  
+if(out==null){return } @return out;} return out;  
+if(out==null){return null;}  @return;} return out;  
+if(out==null){return }  @return out;} return out;  
+if(out==null){return queue.substring(start, pos);;} return out;  
+if(out==null){return }  @return String;} return out;  
+if(out==null){return public String consume() throws IOException;} return out;  
+if(out==null){ out=queue; } return out;  
+if(out==null){ out= ""; }; } return out;  
+if(out==null){ out=open; } return out;  
+if(out==null){ out=""; } return out;  
+if(out==null){ out=null; } return out;  
+if(out==null){ out= "";; } return out;  
+if(out==null){ out=EMPTY; } return out;  
+if(out==null){ out= ""; return out; } return out;  
+if(out==null){ out=open; }; } return out;  
+if(out==null){ out=OPEN; } return out;  
+if(out==null){ out=queue; }; } return out;  
+if(out==null){ out=buffer; } return out;  
+if(out==null){ out=null; }; } return out;  
+if(out==null){ out=str; } return out;  
+if(out==null){ out=empty; } return out;  
+if(out==null){ out=open+close; } return out;  
+if(out==null){ out=";; } return out;  
+if(out==null){ out= EMPTY; } return out;  
+if(out==null){ out=close; } return out;  
+if(out==null){ out=q; } return out;  
+if(out==null){ out= "";}; } return out;  
+if(out==null){ out=CLOSE; } return out;  
+if(out==null){ out=ESC; } return out;  
+if(out==null){ out=quote; } return out;  
+if(out==null){ out=NULL; } return out;  
+if(out==null){ out=esc; } return out;  
+if(out==null){ out=escape; } return out;  
+if(out==null){ out= queue; } return out;  
+if(out==null){ out= " "; } return out;  
+if(out==null){ out=StringUtils.EMPTY; } return out;  
+if(out==null){ out=toString(); }; } return out;  
+if(out==null){ out=open + close; } return out;  
+if(out==null){ out=buf; } return out;  
+if(out==null){ out=QUEUE; } return out;  
+if(out==null){ out=start; } return out;  
+if(out==null){ out=""; }; } return out;  
+if(out==null){ out=name; } return out;  
+if(out==null){ out=";";; } return out;  
+if(out==null){ out=string; } return out;  
+if(out==null){ out=";"}; } return out;  
+if(out==null){ out= "");; } return out;  
+if(out==null){ out=next; } return out;  
+if(out==null){ out= ""; } return out;  
+if(out==null){ out= open; } return out;  
+if(out==null){ out=open; return out; } return out;  
+if(out==null){ out= " "; }; } return out;  
+if(out==null){ out=line; } return out;  
+if(out==null){ out=Queue.EMPTY; } return out;  
+if(out==null){ out=queue; return out; } return out;  
+if(out==null){ out=str; }; } return out;  
+if(out==null){ out="";; } return out;  
+if(out==null){ out=this; } return out;  
+if(out==null){ out=false; } return out;  
+if(out==null){ out=pattern; } return out;  
+if(out==null){ out=fallback; } return out;  
+if(out==null){ out=c; } return out;  
+if(out==null){ out=substring; } return out;  
+if(out==null){ out=clean; } return out;  
+if(out==null){ out=head; } return out;  
+if(out==null){ out= ""; return out; } return out;  
+if(out==null){ out=null; return out; } return out;  
+if(out==null){ out=emptyString; } return out;  
+if(out==null){ out=text; } return out;  
+if(out==null){ out=null;}; } return out;  
+if(out==null){ out=delimiter; } return out;  
+if(out==null){ out=STRING; } return out;  
+if(out==null){ out=0; } return out;  
+if(out==null){ out=value; } return out;  
+if(out==null){ out=toString(); } return out;  
+if(out==null){ out=query; } return out;  
+if(out==null){ out= null; } return out;  
+if(out==null){ out=content; } return out;  
+if(out==null){ out=trim(); }; } return out;  
+if(out==null){ out=new String; } return out;  
+if(out==null){ out=queue.substring; } return out;  
+if(out==null){ out=NO_MATCH; } return out;  
+if(out==null){ out=p; } return out;  
+if(out==null){ out=toString; } return out;  
+if(out==null){ out= ""; };; } return out;  
+if(out==null){ out=queue.toString(); } return out;  
+if(out==null){ out=trim; } return out;  
+if(out==null){ out=index; } return out;  
+if(out==null){ out=input; } return out;  
+if(out==null){ out= "";  }; } return out;  
+if(out==null){ out=DELIMITER; } return out;  
+if(out==null){ out=""+queue; } return out;  
+if(out==null){ out=closed; } return out;  
+if(out==null){ out=esc; }; } return out;  
+if(out==null){ out=id; } return out;  
+if(out==null){ out=defaultString; } return out;  
+if(out==null){ out=EMPTYSTRING; } return out;  
+if(out==null){ out=prefix; } return out;  
+if(out==null){ out=EMPTY_STRING; } return out;  
+if(out==null){ out=""; return out; } return out;  
+if(out==null){ out=url; } return out;  
+if(out==null){ out=path; } return out;  
+if(out==null){ out=escapable; } return out;  
+if(out==null){ out=queueName; } return out;  
+if(out==null){ out=lc; } return out;  
+if(out==null){ out=position; } return out;  
+if(out==null){ out=StringUtil.EMPTY; } return out;  
+if(out==null){ out=space; } return out;  
+if(out==null){ out= ""; } ; } return out;  
+if(out==null){ out=NO; } return out;  
+if(out==null){ out= "; } return out;  
+if(out==null){ out=delim; } return out;  
+if(out==null){ out=pos; } return out;  
+if(out==null){ out= "";   }; } return out;  
+if(out==null){ out=raw; } return out;  
+if(out==null){ out=escaper; } return out;  
+if(out==null){ out=eos; } return out;  
+if(out==null){ out=open;}; } return out;  
+if(out==null){ out=DEFAULT; } return out;  
+if(out==null){ out=blank; } return out;  
+if(out==null){ out=MAGIC; } return out;  
+if(out==null){ out=EOS; } return out;  
+if(out==null){ out=token; } return out;  
+if(out==null){ out=UTF8; } return out;  
+if(out==null){ out=u; } return out;  
+if(out==null){ out=current; } return out;  
+if(out==null){ out=eof; } return out;  
+if(out==null){ out= ""; end = pos; } return out;  
+if(out==null){ out=stack; } return out;  
+if(out==null){ out=unbalanced; } return out;  
+if(out==null){ out="}; } return out;  
+if(out==null){ out=encoding; } return out;  
+if(out==null){ out= "*"; }; } return out;  
+if(out==null){ out=filename; } return out;  
+if(out==null){ out=cs; } return out;  
+if(out==null){ out=String.valueOf; } return out;  
+if(out==null){ out= " "; return out; } return out;  
+if(out==null){ out=key; } return out;  
+if(out==null){ out=open;}; } return out;  
+if(out==null){ out=getString; } return out;  
+if(out==null){ out=peek(); }; } return out;  
+if(out==null){ out=code; } return out;  
+if(out==null){ out=initialValue; } return out;  
+if(out==null){ out="";}; } return out;  
+if(out==null){ out=prev; } return out;  
+if(out==null){ out="};; } return out;  
+if(out==null){ out= " "}; } return out;  
+if(out==null){ out=msg; } return out;  
+if(out==null){ out=eat; } return out;  
+if(out==null){ out=close; }; } return out;  
+if(out==null){ out=window; } return out;  
+if(out==null){ out=Open; } return out;  
+if(out==null){ out=cv; } return out;  
+if(out==null){ out=new StringBuilder; } return out;  
+if(out==null){ out=get(); }; } return out;  
+if(out==null){ out=';; } return out;  
+if(out==null){ out=';'}; } return out;  
+if(out==null){ out=toString(); return out; } return out;  
+if(out==null){ out=emptyQueue; } return out;  
+if(out==null){ out=template; } return out;  
+if(out==null){ out=c; }; } return out;  
+if(out==null){ out=qp; } return out;  
+if(out==null){ out=INITIAL; } return out;  
+if(out==null){ out=queue; return null; } return out;  
+if(out==null){ out=message; } return out;  
+if(out==null){ out=unquoted; } return out;  
+if(out==null){ out=StringUtil; } return out;  
+if(out==null){ out=EMPTY; }; } return out;  
+if(out==null){ out=this.queue; } return out;  
+if(out==null){ out=NIL; } return out;  
+if(out==null){ out= ";; } return out;  
+if(out==null){ out=";}; } return out;  
+if(out==null){ out=clearQueue; } return out;  
+if(out==null){ out=""+open; } return out;  
+if(out==null){ out= "}";; } return out;  
+if(out==null){ out=Q; } return out;  
+if(out==null){ out=charset; } return out;  
+if(out==null){ out=getString(); }; } return out;  
+if(out==null){ out=unclosed; } return out;  
+if(out==null){ out=''; } return out;  
+if(out==null){ out=queue.trim(); } return out;  
+if(out==null){ out=NONE; } return out;  
+if(out==null){ out=END; } return out;  
+if(out==null){ out=queue.toString();; } return out;  
+if(out==null){ out=sequence; } return out;  
+if(out==null){ out= ""; start = pos; } return out;  
+if(out==null){ out=Strings.EMPTY; } return out;  
+if(out==null){ out=escapeChar; } return out;  
+if(out==null){ out=end; } return out;  
+if(out==null){ out=trim(); return out; } return out;  
+if(out==null){ out=INVALID; } return out;  
+if(out==null){ out=UNKNOWN; } return out;  
+if(out==null){ out=last; } return out;  
+if(out==null){ out= ''; }; } return out;  
+if(out==null){ out=undefined; } return out;  
+if(out==null){ out= ""; return out;}; } return out;  
+if(out==null){ out=noMatch; } return out;  
+if(out==null){ out=new String() {; } return out;  
+if(out==null){ out=CLOSED; } return out;  
+if(out==null){ out=original; } return out;  
+if(out==null){ out=cat; } return out;  
+if(out==null){ out=src; } return out;  
+if(out==null){ out=";";}; } return out;  
+if(out==null){ out=queue;}; } return out;  
+if(out==null){ out=queue;; } return out;  
+if(out==null){ out=";"; } return out;  
+if(out==null){ out=queue+open; } return out;  
+if(out==null){ out=escapeString; } return out;  
+if(out==null){ out=queue.trim; } return out;  
+if(out==null){ out=quote; }; } return out;  
+if(out==null){ out= ""; }\n; } return out;  
+if(out==null){ out=empty; }; } return out;  
+if(out==null){ out=StrUtil.EMPTY; } return out;  
+if(out==null){ out=OPENED; } return out;  
+if(out==null){ out=OPEN; }; } return out;  
+if(out==null){ out=start+1; } return out;  
+if(out==null){ out=unquote; } return out;  
+if(out==null){ out=unconsume; } return out;  
+if(out==null){ out=open; exit; } return out;  
+if(out==null){ out=trim(); } return out;  
+if(out==null){ out=q; }; } return out;  
+if(out==null){ out=utf8; } return out;  
+if(out==null){ out=str; return out; } return out;  
+if(out==null){ out=DEFAULT_VALUE; } return out;  
+if(out==null){ out= open; }; } return out;  
+if(out==null){ out=open; close; } return out;  
+if(out==null){ out= ""; out+=queue; } return out;  
+if(out==null){ out=queue.trim();; } return out;  
+if(out==null){ out=null;; } return out;  
+if(out==null){ out=queue.toString; } return out;  
+if(out==null){ out= "";} return out; } return out;  
+if(out==null){ out=line; }; } return out;  
+if(out==null){ out=DEFAULT_STRING; } return out;  
+if(out==null){ out= ""; i; } return out;  
+if(out==null){ out=new StringBuffer; } return out;  
+if(out==null){ out= ""; }; } return out;  
+if(out==null){ out=";"; return out; } return out;  
+if(out==null){ out=new String(); }; } return out;  
+if(out==null){ out=start; }; } return out;  
+if(out==null){ out=buffer; }; } return out;  
+if(out==null){ out= ""; close; } return out;  
+if(out==null){ out=queue; exit; } return out;  
+if(out==null){ out= ""; return null; } return out;  
+if(out==null){ out= "  "; }; } return out;  
+if(out==null){ out=escaping; } return out;  
+if(out==null){ out=new String(){; } return out;  
+if(out==null){ out= "";} ; } return out;  
+if(out==null){ out= ""; end=pos; } return out;  
+if(out==null){ out=open;   }; } return out;  
+if(out==null){ out= ""; queue; } return out;  
+if(out==null){ out= ""; out+="; } return out;  
+if(out==null){ out=DEFAULT_OUT; } return out;  
+if(out==null){ out=";"; }; } return out;  
+if(out==null){ out=OPEN_STR; } return out;  
+if(out==null){ out=STRING_EMPTY; } return out;  
+if(out==null){ out= " " ;; } return out;  
+if(out==null){return null;} return out;  
+if(out==null){return ;;} return out;  
+if(out==null){return null;;} return out;  
+if(out==null){return ;};} return out;  
+if(out==null){return false;} return out;  
+if(out==null){return };} return out;  
+if(out==null){return null;};} return out;  
+if(out==null){return  "";;} return out;  
+if(out==null){return out;} return out;  
+if(out==null){return  null;} return out;  
+if(out==null){return "";} return out;  
+if(out==null){return };;} return out;  
+if(out==null){return  null;;} return out;  
+if(out==null){return false;;} return out;  
+if(out==null){return 0;} return out;  
+if(out==null){return ;} return out;  
+if(out==null){return ";;} return out;  
+if(out==null){return return null;;} return out;  
+if(out==null){return "";;} return out;  
+if(out==null){return NULL;} return out;  
+if(out==null){return out;;} return out;  
+if(out==null){return ; };} return out;  
+if(out==null){return true;} return out;  
+if(out==null){return ";};} return out;  
+if(out==null){return q;} return out;  
+if(out==null){return ();;} return out;  
+if(out==null){return return null;} return out;  
+if(out==null){return queue;} return out;  
+if(out==null){return ("");;} return out;  
+if(out==null){return string;} return out;  
+if(out==null){return return "";;} return out;  
+if(out==null){return toString();;} return out;  
+if(out==null){return buffer;} return out;  
+if(out==null){return EMPTY;} return out;  
+if(out==null){return false;};} return out;  
+if(out==null){return -1;} return out;  
+if(out==null){return empty;} return out;  
+if(out==null){return true;;} return out;  
+if(out==null){return "};} return out;  
+if(out==null){return null; };} return out;  
+if(out==null){return quote;} return out;  
+if(out==null){return close;} return out;  
+if(out==null){return  null;};} return out;  
+if(out==null){return 1;} return out;  
+if(out==null){return this;} return out;  
+if(out==null){return open;} return out;  
+if(out==null){return (null);;} return out;  
+if(out==null){return } else;} return out;  
+if(out==null){return 0;;} return out;  
+if(out==null){return null};} return out;  
+if(out==null){return ";";;} return out;  
+if(out==null){return ; ;} return out;  
+if(out==null){return  false;} return out;  
+if(out==null){return q;;} return out;  
+if(out==null){return  ;} return out;  
+if(out==null){return [];;} return out;  
+if(out==null){return  EMPTY;} return out;  
+if(out==null){return *;} return out;  
+if(out==null){return null;};} return out;  
+if(out==null){return home;} return out;  
+if(out==null){return }else;} return out;  
+if(out==null){return output;} return out;  
+if(out==null){return code;} return out;  
+if(out==null){return ;};} return out;  
+if(out==null){return  false;;} return out;  
+if(out==null){return (out);;} return out;  
+if(out==null){return }";;} return out;  
+if(out==null){return  "";};} return out;  
+if(out==null){return NULL;;} return out;  
+if(out==null){return ="";;} return out;  
+if(out==null){return } else {;} return out;  
+if(out==null){return } else {return out;} return out;  
+if(out==null){return str;} return out;  
+if(out==null){return str;;} return out;  
+if(out==null){return text;} return out;  
+if(out==null){return head;} return out;  
+if(out==null){return undefined;} return out;  
+if(out==null){return AST#return_statement#Right;} return out;  
+if(out==null){return "";};} return out;  
+if(out==null){return } else { return out;} return out;  
+if(out==null){return tail;} return out;  
+if(out==null){return string;;} return out;  
+if(out==null){return /;} return out;  
+if(out==null){return ;};;} return out;  
+if(out==null){return ";"};} return out;  
+if(out==null){return );};} return out;  
+if(out==null){return ":";} return out;  
+if(out==null){return  ;} return out;  
+if(out==null){return Null;} return out;  
+if(out==null){return :;} return out;  
+if(out==null){return value;} return out;  
+if(out==null){return "};;} return out;  
+if(out==null){return p;} return out;  
+if(out==null){return  null; };} return out;  
+if(out==null){return ?;} return out;  
+if(out==null){return n;} return out;  
+if(out==null){return (null);};} return out;  
+if(out==null){return STRING;} return out;  
+if(out==null){return queue;;} return out;  
+if(out==null){return back;} return out;  
+if(out==null){return exit;} return out;  
+if(out==null){return out;};} return out;  
+if(out==null){return Queue;} return out;  
+if(out==null){return null; ;} return out;  
+if(out==null){return space;} return out;  
+if(out==null){return window;} return out;  
+if(out==null){return v;} return out;  
+if(out==null){return input;} return out;  
+if(out==null){return c;;} return out;  
+if(out==null){return }.;} return out;  
+if(out==null){return ";":;} return out;  
+if(out==null){return g;} return out;  
+if(out==null){return return;;} return out;  
+if(out==null){return VOID;} return out;  
+if(out==null){return (out);};} return out;  
+if(out==null){return StringUtils.EMPTY;} return out;  
+if(out==null){return blank;} return out;  
+if(out==null){return return;} return out;  
+if(out==null){return ='';;} return out;  
+if(out==null){return true;};} return out;  
+if(out==null){return !inQuote;} return out;  
+if(out==null){return null};;} return out;  
+if(out==null){return  "";} return out;  
+if(out==null){return return null;};} return out;  
+if(out==null){return ("");};} return out;  
+if(out==null){return c;} return out;  
+if(out==null){return a;} return out;  
+if(out==null){return ?null;} return out;  
+if(out==null){return ;} ;} return out;  
+if(out==null){return '';} return out;  
+if(out==null){return q.toString();;} return out;  
+if(out==null){return buf;} return out;  
+if(out==null){return CLOSE;} return out;  
+if(out==null){return this;;} return out;  
+if(out==null){return gc;} return out;  
+if(out==null){return  "}";;} return out;  
+if(out==null){return NOP;} return out;  
+if(out==null){return trim();;} return out;  
+if(out==null){return ; };} return out;  
+if(out==null){return result;} return out;  
+if(out==null){return  };} return out;  
+if(out==null){return root;} return out;  
+if(out==null){return encoding;} return out;  
+if(out==null){return +1;} return out;  
+if(out==null){return +;} return out;  
+if(out==null){return return queue;} return out;  
+if(out==null){return } ;} return out;  
+if(out==null){return return out;;} return out;  
+if(out==null){return inline;} return out;  
+if(out==null){return ';;} return out;  
+if(out==null){return nil;} return out;  
+if(out==null){return esc;} return out;  
+if(out==null){return close;;} return out;  
+if(out==null){return <;} return out;  
+if(out==null){return tail;;} return out;  
+if(out==null){return ==null;} return out;  
+if(out==null){return -1;;} return out;  
+if(out==null){return 	null;} return out;  
+if(out==null){return Q;} return out;  
+if(out==null){return open;;} return out;  
+if(out==null){return ();};} return out;  
+if(out==null){return ;},;} return out;  
+if(out==null){return end;} return out;  
+if(out==null){return ""; };} return out;  
+if(out==null){return short;} return out;  
+if(out==null){return UTF8;} return out;  
+if(out==null){return pos;} return out;  
+if(out==null){return _;} return out;  
+if(out==null){return isEmpty() ? "" : out;} return out;  
+if(out==null){return  };} return out;  
+if(out==null){return base;} return out;  
+if(out==null){return NIL;} return out;  
+if(out==null){return buffer;;} return out;  
+if(out==null){return out; };} return out;  
+if(out==null){return AST#else#Right;} return out;  
+if(out==null){return false; };} return out;  
+if(out==null){return name;} return out;  
+if(out==null){return DELIMITER;} return out;  
+if(out==null){return ?null:out;} return out;  
+if(out==null){return =null;;} return out;  
+if(out==null){return  null;} return out;  
+if(out==null){return !empty;} return out;  
+if(out==null){return } else { return queue;} return out;  
+if(out==null){return "}";;} return out;  
+if(out==null){return } @return;} return out;  
+if(out==null){return head;;} return out;  
+if(out==null){return return out;} return out;  
+if(out==null){return return EMPTY;} return out;  
+if(out==null){return }  @return;} return out;  
+if(out==null){return null;} ;} return out;  
+if(out==null){return .length;} return out;  
+if(out==null){return buffer.toString();;} return out;  
+if(out==null){return (queue);;} return out;  
+if(out==null){return } else {return queue;} return out;  
+if(out==null){return quoting;} return out;  
+if(out==null){return }else{return queue;} return out;  
+if(out==null){return null;++pos;} return out;  
+if(out==null){return return null; };} return out;  
+if(out==null){return =null;} return out;  
+if(out==null){return } else return out;} return out;  
+if(out==null){return  return null;;} return out;  
+if(out==null){return _null;} return out;  
+if(out==null){return String queue;} return out;  
+if(out==null){return isEmpty()?null:out;} return out;  
+if(out==null){return return queue;;} return out;  
+if(out==null){return quot;;} return out;  
+if(out==null){return return null; ;} return out;  
+if(out==null){return new String(queue);;} return out;  
+if(out==null){return return false;;} return out;  
+if(out==null){return } else { return null;} return out;  
+if(out==null){return ?null:out;;} return out;  
+if(out==null){return 	null;;} return out;  
+if(out==null){return return false;} return out;  
+if(out==null){return queue.substring(start, end);;} return out;  
+if(out==null){return out; ;} return out;  
+if(out==null){return null; };} return out;  
+if(out==null){return q.trim();;} return out;  
+if(out==null){return String str;;} return out;  
+if(out==null){return out;};} return out;  
+if(out==null){return java.lang.String;} return out;  
+if(out==null){return ;}  @return;} return out;  
+if(out==null){return isEmpty() ? null : out;} return out;  
+if(out==null){return } {@inheritDoc;} return out;  
+if(out==null){return } else { return out;} return out;  
+if(out==null){return throw new IllegalStateException();;} return out;  
+if(out==null){return ";"; ;} return out;  
+if(out==null){return isEmpty()?null:out;;} return out;  
+if(out==null){return queue.substring(start);;} return out;  
+if(out==null){return queue.substring(start, end);};} return out;  
+if(out==null){return ;} @return;} return out;  
+if(out==null){return String out;;} return out;  
+if(out==null){return } else { return out; };} return out;  
+if(out==null){return q.substring(start, end);;} return out;  
+if(out==null){return new String(queue);};} return out;  
+if(out==null){return isEmpty() ? "" : out;;} return out;  
+if(out==null){return } else {return null;} return out;  
+if(out==null){return } else{return out;} return out;  
+if(out==null){return AST#method_invocation#Leftqueue.trim();;} return out;  
+if(out==null){return } else { return "";;} return out;  
+if(out==null){return } else { return queue;} return out;  
+if(out==null){return isEmpty() ? null : out;;} return out;  
+if(out==null){return } else { return out;;} return out;  
+if(out==null){return } else {return out;;} return out;  
+if(out==null){return  String.valueOf(out);;} return out;  
+if(out==null){return } @return out;} return out;  
+if(out==null){return null;}  @return;} return out;  
+if(out==null){return }  @return out;} return out;  
+if(out==null){return queue.substring(start, pos);;} return out;  
+if(out==null){return }  @return String;} return out;  
+if(out==null){return public String consume() throws IOException;} return out;  
+if(out==null){ out=queue; } return out;  
+if(out==null){ out= ""; }; } return out;  
+if(out==null){ out=open; } return out;  
+if(out==null){ out=""; } return out;  
+if(out==null){ out=null; } return out;  
+if(out==null){ out= "";; } return out;  
+if(out==null){ out=EMPTY; } return out;  
+if(out==null){ out= ""; return out; } return out;  
+if(out==null){ out=open; }; } return out;  
+if(out==null){ out=OPEN; } return out;  
+if(out==null){ out=queue; }; } return out;  
+if(out==null){ out=buffer; } return out;  
+if(out==null){ out=null; }; } return out;  
+if(out==null){ out=str; } return out;  
+if(out==null){ out=empty; } return out;  
+if(out==null){ out=open+close; } return out;  
+if(out==null){ out=";; } return out;  
+if(out==null){ out= EMPTY; } return out;  
+if(out==null){ out=close; } return out;  
+if(out==null){ out=q; } return out;  
+if(out==null){ out= "";}; } return out;  
+if(out==null){ out=CLOSE; } return out;  
+if(out==null){ out=ESC; } return out;  
+if(out==null){ out=quote; } return out;  
+if(out==null){ out=NULL; } return out;  
+if(out==null){ out=esc; } return out;  
+if(out==null){ out=escape; } return out;  
+if(out==null){ out= queue; } return out;  
+if(out==null){ out= " "; } return out;  
+if(out==null){ out=StringUtils.EMPTY; } return out;  
+if(out==null){ out=toString(); }; } return out;  
+if(out==null){ out=open + close; } return out;  
+if(out==null){ out=buf; } return out;  
+if(out==null){ out=QUEUE; } return out;  
+if(out==null){ out=start; } return out;  
+if(out==null){ out=""; }; } return out;  
+if(out==null){ out=name; } return out;  
+if(out==null){ out=";";; } return out;  
+if(out==null){ out=string; } return out;  
+if(out==null){ out=";"}; } return out;  
+if(out==null){ out= "");; } return out;  
+if(out==null){ out=next; } return out;  
+if(out==null){ out= ""; } return out;  
+if(out==null){ out= open; } return out;  
+if(out==null){ out=open; return out; } return out;  
+if(out==null){ out= " "; }; } return out;  
+if(out==null){ out=line; } return out;  
+if(out==null){ out=Queue.EMPTY; } return out;  
+if(out==null){ out=queue; return out; } return out;  
+if(out==null){ out=str; }; } return out;  
+if(out==null){ out="";; } return out;  
+if(out==null){ out=this; } return out;  
+if(out==null){ out=false; } return out;  
+if(out==null){ out=pattern; } return out;  
+if(out==null){ out=fallback; } return out;  
+if(out==null){ out=c; } return out;  
+if(out==null){ out=substring; } return out;  
+if(out==null){ out=clean; } return out;  
+if(out==null){ out=head; } return out;  
+if(out==null){ out= ""; return out; } return out;  
+if(out==null){ out=null; return out; } return out;  
+if(out==null){ out=emptyString; } return out;  
+if(out==null){ out=text; } return out;  
+if(out==null){ out=null;}; } return out;  
+if(out==null){ out=delimiter; } return out;  
+if(out==null){ out=STRING; } return out;  
+if(out==null){ out=0; } return out;  
+if(out==null){ out=value; } return out;  
+if(out==null){ out=toString(); } return out;  
+if(out==null){ out=query; } return out;  
+if(out==null){ out= null; } return out;  
+if(out==null){ out=content; } return out;  
+if(out==null){ out=trim(); }; } return out;  
+if(out==null){ out=new String; } return out;  
+if(out==null){ out=queue.substring; } return out;  
+if(out==null){ out=NO_MATCH; } return out;  
+if(out==null){ out=p; } return out;  
+if(out==null){ out=toString; } return out;  
+if(out==null){ out= ""; };; } return out;  
+if(out==null){ out=queue.toString(); } return out;  
+if(out==null){ out=trim; } return out;  
+if(out==null){ out=index; } return out;  
+if(out==null){ out=input; } return out;  
+if(out==null){ out= "";  }; } return out;  
+if(out==null){ out=DELIMITER; } return out;  
+if(out==null){ out=""+queue; } return out;  
+if(out==null){ out=closed; } return out;  
+if(out==null){ out=esc; }; } return out;  
+if(out==null){ out=id; } return out;  
+if(out==null){ out=defaultString; } return out;  
+if(out==null){ out=EMPTYSTRING; } return out;  
+if(out==null){ out=prefix; } return out;  
+if(out==null){ out=EMPTY_STRING; } return out;  
+if(out==null){ out=""; return out; } return out;  
+if(out==null){ out=url; } return out;  
+if(out==null){ out=path; } return out;  
+if(out==null){ out=escapable; } return out;  
+if(out==null){ out=queueName; } return out;  
+if(out==null){ out=lc; } return out;  
+if(out==null){ out=position; } return out;  
+if(out==null){ out=StringUtil.EMPTY; } return out;  
+if(out==null){ out=space; } return out;  
+if(out==null){ out= ""; } ; } return out;  
+if(out==null){ out=NO; } return out;  
+if(out==null){ out= "; } return out;  
+if(out==null){ out=delim; } return out;  
+if(out==null){ out=pos; } return out;  
+if(out==null){ out= "";   }; } return out;  
+if(out==null){ out=raw; } return out;  
+if(out==null){ out=escaper; } return out;  
+if(out==null){ out=eos; } return out;  
+if(out==null){ out=open;}; } return out;  
+if(out==null){ out=DEFAULT; } return out;  
+if(out==null){ out=blank; } return out;  
+if(out==null){ out=MAGIC; } return out;  
+if(out==null){ out=EOS; } return out;  
+if(out==null){ out=token; } return out;  
+if(out==null){ out=UTF8; } return out;  
+if(out==null){ out=u; } return out;  
+if(out==null){ out=current; } return out;  
+if(out==null){ out=eof; } return out;  
+if(out==null){ out= ""; end = pos; } return out;  
+if(out==null){ out=stack; } return out;  
+if(out==null){ out=unbalanced; } return out;  
+if(out==null){ out="}; } return out;  
+if(out==null){ out=encoding; } return out;  
+if(out==null){ out= "*"; }; } return out;  
+if(out==null){ out=filename; } return out;  
+if(out==null){ out=cs; } return out;  
+if(out==null){ out=String.valueOf; } return out;  
+if(out==null){ out= " "; return out; } return out;  
+if(out==null){ out=key; } return out;  
+if(out==null){ out=open;}; } return out;  
+if(out==null){ out=getString; } return out;  
+if(out==null){ out=peek(); }; } return out;  
+if(out==null){ out=code; } return out;  
+if(out==null){ out=initialValue; } return out;  
+if(out==null){ out="";}; } return out;  
+if(out==null){ out=prev; } return out;  
+if(out==null){ out="};; } return out;  
+if(out==null){ out= " "}; } return out;  
+if(out==null){ out=msg; } return out;  
+if(out==null){ out=eat; } return out;  
+if(out==null){ out=close; }; } return out;  
+if(out==null){ out=window; } return out;  
+if(out==null){ out=Open; } return out;  
+if(out==null){ out=cv; } return out;  
+if(out==null){ out=new StringBuilder; } return out;  
+if(out==null){ out=get(); }; } return out;  
+if(out==null){ out=';; } return out;  
+if(out==null){ out=';'}; } return out;  
+if(out==null){ out=toString(); return out; } return out;  
+if(out==null){ out=emptyQueue; } return out;  
+if(out==null){ out=template; } return out;  
+if(out==null){ out=c; }; } return out;  
+if(out==null){ out=qp; } return out;  
+if(out==null){ out=INITIAL; } return out;  
+if(out==null){ out=queue; return null; } return out;  
+if(out==null){ out=message; } return out;  
+if(out==null){ out=unquoted; } return out;  
+if(out==null){ out=StringUtil; } return out;  
+if(out==null){ out=EMPTY; }; } return out;  
+if(out==null){ out=this.queue; } return out;  
+if(out==null){ out=NIL; } return out;  
+if(out==null){ out= ";; } return out;  
+if(out==null){ out=";}; } return out;  
+if(out==null){ out=clearQueue; } return out;  
+if(out==null){ out=""+open; } return out;  
+if(out==null){ out= "}";; } return out;  
+if(out==null){ out=Q; } return out;  
+if(out==null){ out=charset; } return out;  
+if(out==null){ out=getString(); }; } return out;  
+if(out==null){ out=unclosed; } return out;  
+if(out==null){ out=''; } return out;  
+if(out==null){ out=queue.trim(); } return out;  
+if(out==null){ out=NONE; } return out;  
+if(out==null){ out=END; } return out;  
+if(out==null){ out=queue.toString();; } return out;  
+if(out==null){ out=sequence; } return out;  
+if(out==null){ out= ""; start = pos; } return out;  
+if(out==null){ out=Strings.EMPTY; } return out;  
+if(out==null){ out=escapeChar; } return out;  
+if(out==null){ out=end; } return out;  
+if(out==null){ out=trim(); return out; } return out;  
+if(out==null){ out=INVALID; } return out;  
+if(out==null){ out=UNKNOWN; } return out;  
+if(out==null){ out=last; } return out;  
+if(out==null){ out= ''; }; } return out;  
+if(out==null){ out=undefined; } return out;  
+if(out==null){ out= ""; return out;}; } return out;  
+if(out==null){ out=noMatch; } return out;  
+if(out==null){ out=new String() {; } return out;  
+if(out==null){ out=CLOSED; } return out;  
+if(out==null){ out=original; } return out;  
+if(out==null){ out=cat; } return out;  
+if(out==null){ out=src; } return out;  
+if(out==null){ out=";";}; } return out;  
+if(out==null){ out=queue;}; } return out;  
+if(out==null){ out=queue;; } return out;  
+if(out==null){ out=";"; } return out;  
+if(out==null){ out=queue+open; } return out;  
+if(out==null){ out=escapeString; } return out;  
+if(out==null){ out=queue.trim; } return out;  
+if(out==null){ out=quote; }; } return out;  
+if(out==null){ out= ""; }\n; } return out;  
+if(out==null){ out=empty; }; } return out;  
+if(out==null){ out=StrUtil.EMPTY; } return out;  
+if(out==null){ out=OPENED; } return out;  
+if(out==null){ out=OPEN; }; } return out;  
+if(out==null){ out=start+1; } return out;  
+if(out==null){ out=unquote; } return out;  
+if(out==null){ out=unconsume; } return out;  
+if(out==null){ out=open; exit; } return out;  
+if(out==null){ out=trim(); } return out;  
+if(out==null){ out=q; }; } return out;  
+if(out==null){ out=utf8; } return out;  
+if(out==null){ out=str; return out; } return out;  
+if(out==null){ out=DEFAULT_VALUE; } return out;  
+if(out==null){ out= open; }; } return out;  
+if(out==null){ out=open; close; } return out;  
+if(out==null){ out= ""; out+=queue; } return out;  
+if(out==null){ out=queue.trim();; } return out;  
+if(out==null){ out=null;; } return out;  
+if(out==null){ out=queue.toString; } return out;  
+if(out==null){ out= "";} return out; } return out;  
+if(out==null){ out=line; }; } return out;  
+if(out==null){ out=DEFAULT_STRING; } return out;  
+if(out==null){ out= ""; i; } return out;  
+if(out==null){ out=new StringBuffer; } return out;  
+if(out==null){ out= ""; }; } return out;  
+if(out==null){ out=";"; return out; } return out;  
+if(out==null){ out=new String(); }; } return out;  
+if(out==null){ out=start; }; } return out;  
+if(out==null){ out=buffer; }; } return out;  
+if(out==null){ out= ""; close; } return out;  
+if(out==null){ out=queue; exit; } return out;  
+if(out==null){ out= ""; return null; } return out;  
+if(out==null){ out= "  "; }; } return out;  
+if(out==null){ out=escaping; } return out;  
+if(out==null){ out=new String(){; } return out;  
+if(out==null){ out= "";} ; } return out;  
+if(out==null){ out= ""; end=pos; } return out;  
+if(out==null){ out=open;   }; } return out;  
+if(out==null){ out= ""; queue; } return out;  
+if(out==null){ out= ""; out+="; } return out;  
+if(out==null){ out=DEFAULT_OUT; } return out;  
+if(out==null){ out=";"; }; } return out;  
+if(out==null){ out=OPEN_STR; } return out;  
+if(out==null){ out=STRING_EMPTY; } return out;  
+if(out==null){ out= " " ;; } return out;  
+if(out != null){ return out;}  
+if(out!=null){ return out;}  
+if(inQuote){ return out;}  
+if(out){ return out;}  
+if(out == null){ return out;}  
+if(out.length()==0){ return out;}  
+if(out==null){ return out;}  
+if(out.length()>0){ return out;}  
+if(DEBUG){ return out;}  
+if(debug){ return out;}  
+if(closed){ return out;}  
+if(out.endsWith(close){ return out;}  
+if(start >= 0){ return out;}  
+if(open == close){ return out;}  
+if(end >= 0){ return out;}  
+if(depth > 0){ return out;}  
+if(inQuote==false){ return out;}  
+if(isEmpty){ return out;}  
+if(depth == 0){ return out;}  
+if(close != null){ return out;}  
+if(out.length()!=0){ return out;}  
+if(isEmpty()){ return out;}  
+if(out != EMPTY){ return out;}  
+if(last != ESC){ return out;}  
+if(out != ""){ return out;}  
+if( out != null){ return out;}  
+if(queue != null){ return out;}  
+if(out.isEmpty()){ return out;}  
+if(inQuotes){ return out;}  
+if(out.equals(close){ return out;}  
+if(start != -1){ return out;}  
+if(open != null){ return out;}  
+if(open == ESC){ return out;}  
+if(empty){ return out;}  
+if(quote){ return out;}  
+if(out !=null){ return out;}  
+if(last != 0){ return out;}  
+if(depth==0){ return out;}  
+if(inQuote == false){ return out;}  
+if(start < 0){ return out;}  
+if(length() > 0){ return out;}  
+if(null != out){ return out;}  
+if(out.contains(close){ return out;}  
+if(open != close){ return out;}  
+if(verbose){ return out;}  
+if(open != ESC){ return out;}  
+if(inQuote==true){ return out;}  
+if(output){ return out;}  
+if(output != null){ return out;}  
+if(out!= null){ return out;}  
+if(out.startsWith("\"")){ return out;}  
+if(inQuote!=false){ return out;}  
+if(false){ return out;}  
+if(clean){ return out;}  
+if(out.isEmpty()==false){ return out;}  
+if(null!=out){ return out;}  
+if(isEmpty()==false){ return out;}  
+if(escape){ return out;}  
+if(true){ return out;}  
+if(isBalanced){ return out;}  
+if(inQuote!=null){ return out;}  
+if(out.equals(CLOSE){ return out;}  
+if(out != NULL){ return out;}  
+if(close!=null){ return out;}  
+if(out.endsWith(CLOSE){ return out;}  
+if(start == -1){ return out;}  
+if(start > 0){ return out;}  
+if(open != 0){ return out;}  
+if( inQuote){ return out;}  
+if(done){ return out;}  
+if(pos < queue.length){ return out;}  
+if(close == ESC){ return out;}  
+if(buffer != null){ return out;}  
+if(open == CLOSE){ return out;}  
+if(close){ return out;}  
+if(out.equals(ESC){ return out;}  
+if(out.equalsIgnoreCase(close){ return out;}  
+if(indent){ return out;}  
+if(strict){ return out;}  
+if(out != -1){ return out;}  
+if(open==close){ return out;}  
+if(pos > 0){ return out;}  
+if("".equals(out){ return out;}  
+if(indent > 0){ return out;}  
+if(depth>0){ return out;}  
+if(isOpen){ return out;}  
+if(isClosed){ return out;}  
+if(inQuote != false){ return out;}  
+if(depth >= 0){ return out;}  
+if(close != ESC){ return out;}  
+if(finish){ return out;}  
+if(outString){ return out;}  
+if(output == null){ return out;}  
+if(depth == 1){ return out;}  
+if(out!=""){ return out;}  
+if(out >= 0){ return out;}  
+if(q != null){ return out;}  
+if(len == 0){ return out;}  
+if(depth != 0){ return out;}  
+if(out instanceof String){ return out;}  
+if(return out){ return out;}  
+if(inQuote == true){ return out;}  
+if(keepQuotes){ return out;}  
+if(length > 0){ return out;}  
+if(queue.length()==0){ return out;}  
+if(out.startsWith(close){ return out;}  
+if(StringUtils.isNotEmpty(out){ return out;}  
+if(trace){ return out;}  
+if(end > 0){ return out;}  
+if(last == ESC){ return out;}  
+if(open.equals(close){ return out;}  
+if(first){ return out;}  
+if(buf != null){ return out;}  
+if(out.length()){ return out;}  
+if(start>=0){ return out;}  
+if(stack.isEmpty()){ return out;}  
+if(inQuote != null){ return out;}  
+if(end < queue.length){ return out;}  
+if(complete){ return out;}  
+if(stop){ return out;}  
+if(outString != null){ return out;}  
+if( !inQuote){ return out;}  
+if(len > 0){ return out;}  
+if(isEmpty()==true){ return out;}  
+if(out.equals("\"")){ return out;}  
+if(stack != null){ return out;}  
+if(finished){ return out;}  
+if(out != "";){ return out;}  
+if(root){ return out;}  
+if(opened){ return out;}  
+if(isQuote){ return out;}  
+if(hasBalanced){ return out;}  
+if(close != 0){ return out;}  
+if(out!=undefined){ return out;}  
+if(StringUtils.isEmpty(out){ return out;}  
+if(last != -1){ return out;}  
+if(buffer == null){ return out;}  
+if(end>=0){ return out;}  
+if(length == 0){ return out;}  
+if(end != -1){ return out;}  
+if(out.isEmpty()==true){ return out;}  
+if(depth > 1){ return out;}  
+if(out > 0){ return out;}  
+if(out.startsWith){ return out;}  
+if(log){ return out;}  
+if(out == EMPTY){ return out;}  
+if(out.equals){ return out;}  
+if(inQuote=true){ return out;}  
+if(output!=null){ return out;}  
+if(length()==0){ return out;}  
+if(pos >= queue.length){ return out;}  
+if(isInQuote){ return out;}  
+if(trim){ return out;}  
+if(open!=null){ return out;}  
+if(end == -1){ return out;}  
+if(open != ""){ return out;}  
+if(out != 0){ return out;}  
+if(queue.length()>0){ return out;}  
+if(stripQuotes){ return out;}  
+if(length() == 0){ return out;}  
+if(out != null;){ return out;}  
+if(queue == null){ return out;}  
+if(start < pos){ return out;}  
+if(output==null){ return out;}  
+if(flush){ return out;}  
+if(queue!=null){ return out;}  
+if(last == 0){ return out;}  
+if(quiet){ return out;}  
+if(newline){ return out;}  
+if(start > -1){ return out;}  
+if(out.equals("\"){ return out;}  
+if(out.endsWith){ return out;}  
+if(OUTER){ return out;}  
+if(depth==1){ return out;}  
+if(start < end){ return out;}  
+if(break){ return out;}  
+if(StringUtils.isBlank(out){ return out;}  
+if(inline){ return out;}  
+if(exit){ return out;}  
+if(open != EMPTY){ return out;}  
+if(depth <= 0){ return out;}  
+if(size() > 0){ return out;}  
+if(out.isEmpty){ return out;}  
+if(out!=-1){ return out;}  
+if(inQuote=false){ return out;}  
+if(out.contains){ return out;}  
+if(open == '\\'){ return out;}  
+if(pos >= 0){ return out;}  
+if(preserveQuotes){ return out;}  
+if(str != null){ return out;}  
+if(null == out){ return out;}  
+if(out.equals(open){ return out;}  
+if(asString){ return out;}  
+if(null==out){ return out;}  
+if(out != undefined){ return out;}  
+if(free){ return out;}  
+if( !isEmpty()){ return out;}  
+if(out!=NULL){ return out;}  
+if(balance){ return out;}  
+if(indent != null){ return out;}  
+if( out){ return out;}  
+if(prettyPrint){ return out;}  
+if(close == null){ return out;}  
+if(escaped){ return out;}  
+if(wrap){ return out;}  
+if(active){ return out;}  
+if(needQuotes){ return out;}  
+if(!inQuote){ return out;}  
+if( out!=null){ return out;}  
+if(out.length()==1){ return out;}  
+if(isBlank(out){ return out;}  
+if(start<0){ return out;}  
+if(open != -1){ return out;}  
+if(AST#binary_expression#Leftout!=nullAST#binary_expression#Right){ return out;}  
+if(len() > 0){ return out;}  
+if(closing){ return out;}  
+if(out!='){ return out;}  
+if(append){ return out;}  
+if(close != ""){ return out;}  
+if(indent>0){ return out;}  
+if(empty()){ return out;}  
+if(inArray){ return out;}  
+if(stack){ return out;}  
+if(indent!=null){ return out;}  
+if(compress){ return out;}  
+if(out.endsWith("\"")){ return out;}  
+if(cleanup){ return out;}  
+if(collapse){ return out;}  
+if(safe){ return out;}  
+if(isQuoted){ return out;}  
+if(this.isEmpty()){ return out;}  
+if(out != EMPTY_STRING){ return out;}  
+if(out.endsWith("\""){ return out;}  
+if(out.startsWith("\"){ return out;}  
+if(queue.isEmpty()){ return out;}  
+if(queue.endsWith(close){ return out;}  
+if(out.endsWith("\\")){ return out;}  
+if(queue.contains(out){ return out;}  
+if(start < queue.length){ return out;}  
+if(out.equals(OPEN){ return out;}  
+if(inQuote(out){ return out;}  
+if(out.equals(queue){ return out;}  
+if(open != ' '){ return out;}  
+if(out.startsWith("'"){ return out;}  
+if(out != null && out){ return out;}  
+if(out.equalsIgnoreCase(CLOSE){ return out;}  
+if(out != null ){ return out;}  
+if(out.endsWith(ESC){ return out;}  
+if(out.length()>1){ return out;}  
+if(inQuote || out){ return out;}  

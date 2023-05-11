@@ -1,0 +1,250 @@
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().getNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().hasNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //protected boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) //private boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getString().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP { //private boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && //isPrototypePropertyAssign(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isPrimitive) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //protected boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty($) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.STR) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //return isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP &&!isPrototypePropertyAssign(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isGetProp) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().getNext();) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.OP) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //private boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isFirstChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isNull()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNext().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP { //public boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP { //protected boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isPrimitive) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) //protected boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isPrototype) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { // private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.SET) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && // isPrototypePropertyAssign(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty () {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().getNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty(*) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isEmpty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //protected isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) //public boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty(() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { /*private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isPrototype) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && node.getString().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.NAME) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getName() == "prototype") {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().hasNextChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) // private boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isExpr) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //return isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.CLASS) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isPrimitive) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isNotNull) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getName().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getValue().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP { // private boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isLastChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.TYPE) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && isPrototypePropertyAssign(n))) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().getNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //protected boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.GET) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.NULL) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.CAST) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private void isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isPrototype) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // private isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){ //private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getSecondChild().getNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty(_) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP (n.getFirstChild().getNext())) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //public boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || //isPrototypePropertyAssign(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //private boolean isPrototypeProperty($) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) ////return isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.NS) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { // public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isGetProp) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isIdentifier) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isDefined) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isString()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.USE) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private function isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || // isPrototypePropertyAssign(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // protected boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isNull()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //return true; //while (true) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isGetProp) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.STRUCT) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { /* private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //return true; //while (true) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isFunction()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public boolean isPrototypeProperty($) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNext() == Node.OP) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //private boolean isPrototypeProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNext().equals(prototype) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //protected function isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.STR) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public boolean isPrototypeProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //private isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototypeProperty(\) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isEmpty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ||!isPrototypePropertyAssign(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //Private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) {//private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public boolean isPrototypeProperty(*) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.NL) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isAssign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isString()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || isPrototypePropertyAssign(n))) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // private boolean isPrototypeProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getSecondChild().isPrimitive) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isName()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isString()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.LOAD) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // private boolean isPrototypeProperty($) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototype(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) // private boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP, n.getFirstChild().getNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP &&! isPrototypePropertyAssign(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isLhs) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //if (n.getFirstChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isDefined) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //return true; if (n!= assign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // public isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //private boolean isPrototypeProperty(() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getValue().equals(prototype) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.REF) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isExpr) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //return isPrototypeProperty(Node n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isCallNode) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.VALUE) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isIdentifier) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isNotNull) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //return true; //catch (Exception e) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //private boolean isPrototypeProperty(*) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isParent()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private Node isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //if (n.hasFirstChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) // //return isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.OP) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) {} //private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) //return true; //catch (Exception e) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getFirstChild) == n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.IDENT) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.NAME) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //private boolean isPrototypeProperty () {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && assign.getString().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.Property) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isIdentifier) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.MAP) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public boolean isPrototypeProperty(() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().getParent()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // private boolean isPrototypeProperty () {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isArrayAccess) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { /*public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { /*private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //protected boolean isPrototypeProperty () {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.TYPE) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.STAT) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) ////return isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getLastChild() == assign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isDeclaration) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().hasNextChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //if (n.hasFirstChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getSecondChild().isPrototype) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.NEW) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isProperty(Node n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //return false; if (n!= assign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.DEF) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //protected boolean isPrototypeProperty($) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNext().equals(")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP { // public boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //if (n.getFirstChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isNull()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){ //public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.END) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isObject()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.IS) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getFirstChild) == assign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isDirective) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isNode()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getFirstChild() == assign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && isPrototypePropertyAssign(n)) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //protected isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().hasNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //static boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && isset(n.getFirstChild))) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getContent().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) //{ private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.ID) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) {//protected boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isFirstChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isUndef) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private boolean isPrototype (n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.LIST) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP)) { //private boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) {//public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { ////if (n!= null) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.PATH) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //protected void isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public boolean isPrototypeProperty(_) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getFirstChild)!= null) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isDirectChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().hasNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) // public boolean isPrototypeProperty(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isSibling) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP &&!(n.getFirstChild == null) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //public boolean isPrototypeProperty () {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //protected boolean isPrototypeProperty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().getNext) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) //return true; if (n == assign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isExpr) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isFunction()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isName()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //return true; //catch (e) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getParent().getNext(n) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){ //protected boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getNextChild().isAssign) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isEmpty()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //while (n.hasNextChild) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //private Boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { /* public boolean isPrototypeProperty() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && assign.getNext().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getString().equals(prototype) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getSecondChild().isGetProp) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getText().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getAttribute().equals("")) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { // private boolean isPrototypeProperty(*) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getFirstChild()!= null) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isNaN) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.LET) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getSecondChild().hasNext()) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP || n.getType() == Token.THIS) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP (n.getFirstChild().getNext());) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { //isPrototypePropertyAssign() {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) { } //if (n!= null) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getLastChild().isDefined) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP) { //return true; //catch (e) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getFirstChild().isClassNode) {
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) //return true; if (n!= assign) {

@@ -1,0 +1,2750 @@
+ nodesvisited.add(node);  
+ nodesvisited = null;  
+ nodesvisited.add(node);  
+ Node goalnode = goalnode;  
+ nodesvisited = nodesvisited;  
+ node = goalnode;  
+ Nodes visited = nodesvisited;  
+ Node node = goalnode;  
+ return true;  
+ Node s = this;  
+ Node s = goalnode;  
+ Node node = startnode;  
+ Nodes visited = null;  
+ return false;  
+ Node goal = goalnode;  
+ Node goalnode = node;  
+ nodesvisited = new HashSet<>();;  
+ nodesvisited.add(node);;  
+ visit successornodes;  
+ node = goalnode;  
+ return false;  
+ return true;  
+ nodesvisited.clear;  
+ Node successornode = node;  
+ Node successornodes = goalnode;  
+ Node successornodes = node;  
+ Nodes visited;  
+ Node goal = node;  
+ nodesvisited.add(node) ;  
+ this.nodesvisited = nodesvisited;  
+ Nodes visited = new HashSet<>();;  
+ Node successornode = goalnode;  
+ nodesvisited = true;  
+ nodesvisited = set;  
+ Nodes visited = set;  
+ nodesvisited.add(node;  
+ ++depth;  
+ nodesvisited = node;  
+ goalnode = node;  
+ add node;  
+ ++nodesvisited;  
+ Node s = null;  
+ nodesvisited = null;  
+ visited = nodesvisited;  
+ Node successornodes = null;  
+ ++nodesvisited;  
+ visited = false;  
+ Node parent = startnode;  
+ Nodes visited = false;  
+ supernode = node;  
+ Node successornode = null;  
+ Node successor = node;  
+ nodesvisited.add(node) };  
+ nodesvisited = false;  
+ Node goalnode = startnode;  
+ visited = null;  
+ Nodes visited = true;  
+ node visited = true;  
+ visited = true;  
+ Node goalnode = goal;  
+ superNode = node;  
+ node = successornodes;  
+ Nodes visited. };  
+ nodevisited.add(node);  
+ Nodes visited = sets;  
+ nodevisited = nodesvisited;  
+ nodesvisited = nodesvisited;  
+ goes;  
+ Node successor = goalnode;  
+ Node successor = null;  
+ visit successornodes;  
+ Node s = node;  
+ Node successornodes = successornodes;  
+ boolean found = false;  
+ Node s = startnode;  
+ Node successornode = startnode;  
+ Node successornodes = goalnode;  
+ ...;  
+ ++ depth;  
+ node;  
+ end;  
+ Node s = this;  
+ Node goalnode = goalnode;  
+ Nodes visited = new HashSet;  
+ node visited;  
+ this.node = node;  
+ visited = set;  
+ Node node = this;  
+ Node targetnode = goalnode;  
+ Nodes visited already;  
+ Node visited = false;  
+ supernode = goalnode;  
+ nodesvisited |= node;  
+ Nodes visited set;  
+ Node goalnodes = goalnode;  
+ Search successornodes;  
+ Node successornodes = this;  
+ int depth = 0;  
+ Node goalnode = null;  
+ Node parent = goalnode;  
+ Nodes visited = Set;  
+ visit startnode;  
+ Nodes visited = Sets;  
+ Node successornodes = startnode;  
+ nodesvisited.remove(node);  
+ Node node = this.node;  
+ visited = new HashSet<>();;  
+ Search s = this;  
+ Nodes found;  
+ nodesvisited = sets;  
+ node visited = false;  
+ Node successornodes = node;  
+ Nodes visited are true;  
+ Node current = startnode;  
+ include this node;  
+ ++node;  
+ this.nodesvisited = nodesvisited;  
+ System.out.println;  
+ //return true;  
+ node = startnode;  
+ nodesvisited = new HashSet <>;  
+ non-recursive;  
+ Nodes visited are set;  
+ nodesvisited = this;  
+ Node visited = null;  
+ nodesvisited = Sets;  
+ Nodes visited = new HashSet <>;  
+ Nodes visited = new HashSet() ;  
+ Nodes s = this;  
+ boolean visited = false;  
+ Node successornode = node;  
+ Node n = startnode;  
+ goals = goalnode;  
+ assert true;  
+ Nodesvisited = nodesvisited;  
+ Node successornode = goalnode;  
+ ++nodesvisited.size;  
+ ;  
+ Set<Node> successors = null;  
+ goals = goalnodes;  
+ Node successornode = this;  
+ Node successornodes[] =;  
+ visit node;  
+ Node p = goalnode;  
+ Node node = null;  
+ Node goal = goalnode;  
+ Nodes node = goalnode;  
+ Nodes visited do nothing;  
+ Nodes visited = new HashSet<>();  
+ Node node = node;  
+ visit node;  
+ Node step = goalnode;  
+ nonrecursive;  
+ Node goalnode = this;  
+ assert false;  
+ visited.clear;  
+ Node parent = node.getParent();  
+ Nodes visited = nodesvisited;  
+ goals;  
+ Node goal = startnode;  
+ Nodes visited;  
+ seen = false;  
+ nodevisited = null;  
+ Node successornode = successornodes;  
+ assert node != goalnode;  
+ visit goalnode;  
+ Node goals = goalnode;  
+ Node n = goalnode;  
+ Node currentnode = startnode;  
+ visit(node) { return false;  
+ visited = new HashSet;  
+ goalsvisited = nodesvisited;  
+ visitedNodes = nodesvisited;  
+ Node searchnode = goalnode;  
+ visited += node;  
+ nodesvisited = new HashSet<>;  
+ int visited = 0;  
+ Nodes visited = new HashSet<>;  
+ Node s = goalnode;  
+ Node parent = node.getParent();;  
+ Node successor = node;  
+ Node node = node.next;  
+ Nodes visited = new HashSet<> ();;  
+ node = successornodes;  
+ Node successor = goalnode;  
+ add node;  
+ Nodes visited = this.nodesvisited;  
+ Node goal = node;  
+ visiting = true;  
+ visit(node) ->;  
+ Node parent = this.parent;  
+ Node goalnode = node;  
+ loops;  
+ _visited = nodesvisited;  
+ nodesvisited.add(node) &&;  
+ Node currentNode = startnode;  
+ classes Search;  
+ --;  
+ push node;  
+ Set<Node> visited = null;  
+ Nodes visited.;  
+ visit successornode;  
+ ++depth;  
+ visit;  
+ nodesvisited.clear() ;  
+ Node successor = null;  
+ // else;  
+ nodevisited = nodesvisited;  
+ goalsvisited = null;  
+ Node search = goalnode;  
+ go to goalnode;  
+ // return true;  
+ boolean done = false;  
+ traverse;  
+ nodesvisited = goalnode;  
+ nodevisited = true;  
+ break;  
+ try;  
+ nodesvisited += node;  
+ Nodes visited = new HashSet <> ();  
+ goesvisited = null;  
+ NodeList successors = null;  
+ goesvisited = nodesvisited;  
+ Nodes node = startnode;  
+ Visit successornodes;  
+ set nodesvisited;  
+ Nodes nodesvisited = null;  
+ nodesvisited = this.nodesvisited;  
+ Node result = goalnode;  
+ Nodes nodesvisited = nodesvisited;  
+ visit(node);  
+ clear nodesvisited;  
+ Node goalnode;  
+ startnode = goalnode;  
+ Node parent = node.parent;  
+ Nodes successors = successors;  
+ Nodes successors = successornodes;  
+ Node parent = this;  
+ nodesvisited = visited;  
+ node.visited = true;  
+ Nodes visited = nodes visited;  
+ Nodes nodes = this.nodes;  
+ visited = new HashSet <>;  
+ Nodes visited = this;  
+ loops;  
+ Node p = startnode;  
+ Node goalnode = targetnode;  
+ Nodes visited };  
+ Node parent = startnode.parent;  
+ visited = new HashSet() ;  
+ nodesvisited.add(node); for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = null; for (Node successornodes : node.getSuccessors()) {  
+ return false; } }; for (Node successornodes : node.getSuccessors()) {  
+ Node s = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = new HashSet<>();; for (Node successornodes : node.getSuccessors()) {  
+ return true; } }; for (Node successornodes : node.getSuccessors()) {  
+ return true; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = null; for (Node successornodes : node.getSuccessors()) {  
+ return true; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.add(node) }; for (Node successornodes : node.getSuccessors()) {  
+ ++depth; for (Node successornodes : node.getSuccessors()) {  
+ Node s = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ return false; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = null; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet<>();; for (Node successornodes : node.getSuccessors()) {  
+ ++depth; for (Node successornodes : node.getSuccessors()) {  
+ } }; for (Node successornodes : node.getSuccessors()) {  
+ this.nodesvisited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ visited = false; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet<>(); }; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet<>();; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = set; for (Node successornodes : node.getSuccessors()) {  
+ return false; for (Node successornodes : node.getSuccessors()) {  
+ return false; } }; for (Node successornodes : node.getSuccessors()) {  
+ }; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = true; for (Node successornodes : node.getSuccessors()) {  
+ Search s = this; for (Node successornodes : node.getSuccessors()) {  
+ this.nodesvisited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ visited = null; for (Node successornodes : node.getSuccessors()) {  
+ node = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.clear; for (Node successornodes : node.getSuccessors()) {  
+ visited = true; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.add(node);; for (Node successornodes : node.getSuccessors()) {  
+ Node s = this; for (Node successornodes : node.getSuccessors()) {  
+ this.node = node; for (Node successornodes : node.getSuccessors()) {  
+ return true; }; for (Node successornodes : node.getSuccessors()) {  
+ } }; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = startnode; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = set; for (Node successornodes : node.getSuccessors()) {  
+ return true; } }; for (Node successornodes : node.getSuccessors()) {  
+ ...; for (Node successornodes : node.getSuccessors()) {  
+ return false; }; for (Node successornodes : node.getSuccessors()) {  
+ Search s = null; for (Node successornodes : node.getSuccessors()) {  
+ }; for (Node successornodes : node.getSuccessors()) {  
+ Search s = this; for (Node successornodes : node.getSuccessors()) {  
+ ++nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ visited = set; for (Node successornodes : node.getSuccessors()) {  
+ Node node = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = false; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = goal; for (Node successornodes : node.getSuccessors()) {  
+ DFS; for (Node successornodes : node.getSuccessors()) {  
+ //recursion; for (Node successornodes : node.getSuccessors()) {  
+ // recurse; for (Node successornodes : node.getSuccessors()) {  
+ goals; for (Node successornodes : node.getSuccessors()) {  
+ ++ depth; for (Node successornodes : node.getSuccessors()) {  
+ node = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ loops; for (Node successornodes : node.getSuccessors()) {  
+ ; for (Node successornodes : node.getSuccessors()) {  
+ visited = false; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ Search s; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = null; } }; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = node; for (Node successornodes : node.getSuccessors()) {  
+ Search s = null; for (Node successornodes : node.getSuccessors()) {  
+ nodevisited = null; for (Node successornodes : node.getSuccessors()) {  
+ nodevisited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ Node s = null; for (Node successornodes : node.getSuccessors()) {  
+ search = false; for (Node successornodes : node.getSuccessors()) {  
+ search continues; for (Node successornodes : node.getSuccessors()) {  
+ goals = goalnodes; for (Node successornodes : node.getSuccessors()) {  
+ supernode = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ add node; for (Node successornodes : node.getSuccessors()) {  
+ search node; for (Node successornodes : node.getSuccessors()) {  
+ Node goal = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ this.node = node; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = false; for (Node successornodes : node.getSuccessors()) {  
+ int depth = 0; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = node; for (Node successornodes : node.getSuccessors()) {  
+ ... }; for (Node successornodes : node.getSuccessors()) {  
+ Node node = startnode; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = new HashSet<>(); } }; for (Node successornodes : node.getSuccessors()) {  
+ goals = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.add(node); }; for (Node successornodes : node.getSuccessors()) {  
+ loops; for (Node successornodes : node.getSuccessors()) {  
+ add node; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = set; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet(); for (Node successornodes : node.getSuccessors()) {  
+ return false; }; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.add(node); for (Node successornodes : node.getSuccessors()) {  
+ seen = false; for (Node successornodes : node.getSuccessors()) {  
+ end; for (Node successornodes : node.getSuccessors()) {  
+ Search s; for (Node successornodes : node.getSuccessors()) {  
+ Node s = this; for (Node successornodes : node.getSuccessors()) {  
+ goes; for (Node successornodes : node.getSuccessors()) {  
+ scope; for (Node successornodes : node.getSuccessors()) {  
+ Node s = startnode; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet(); for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.clear(); for (Node successornodes : node.getSuccessors()) {  
+ //goals; for (Node successornodes : node.getSuccessors()) {  
+ search = true; for (Node successornodes : node.getSuccessors()) {  
+ return true; }; for (Node successornodes : node.getSuccessors()) {  
+ visit node; for (Node successornodes : node.getSuccessors()) {  
+ return false<mask3> }; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.clear(); }; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = true; for (Node successornodes : node.getSuccessors()) {  
+ supernode = node; for (Node successornodes : node.getSuccessors()) {  
+ // else; for (Node successornodes : node.getSuccessors()) {  
+ // depth first search; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = null; for (Node successornodes : node.getSuccessors()) {  
+ goalnode = node; for (Node successornodes : node.getSuccessors()) {  
+ done; for (Node successornodes : node.getSuccessors()) {  
+ visited.add(node); for (Node successornodes : node.getSuccessors()) {  
+ node; for (Node successornodes : node.getSuccessors()) {  
+ node = goalnode<mask1> } }; for (Node successornodes : node.getSuccessors()) {  
+ visit goalnode; for (Node successornodes : node.getSuccessors()) {  
+ // recursion; for (Node successornodes : node.getSuccessors()) {  
+ } }; for (Node successornodes : node.getSuccessors()) {  
+ search itself; for (Node successornodes : node.getSuccessors()) {  
+ Nodes found; for (Node successornodes : node.getSuccessors()) {  
+ scopes; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited. }; for (Node successornodes : node.getSuccessors()) {  
+ search node; for (Node successornodes : node.getSuccessors()) {  
+ depth ++; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.clear() }; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = sets; for (Node successornodes : node.getSuccessors()) {  
+ // continue; for (Node successornodes : node.getSuccessors()) {  
+ supernode; for (Node successornodes : node.getSuccessors()) {  
+ search goalnode; for (Node successornodes : node.getSuccessors()) {  
+ node = goalnode; } }; for (Node successornodes : node.getSuccessors()) {  
+ include this node; for (Node successornodes : node.getSuccessors()) {  
+ visited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ boolean visited = false; for (Node successornodes : node.getSuccessors()) {  
+ true; for (Node successornodes : node.getSuccessors()) {  
+ return false } }; for (Node successornodes : node.getSuccessors()) {  
+ searched = false; for (Node successornodes : node.getSuccessors()) {  
+ visited = true; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet<> ();; for (Node successornodes : node.getSuccessors()) {  
+ Node s = startnode; for (Node successornodes : node.getSuccessors()) {  
+ goals; for (Node successornodes : node.getSuccessors()) {  
+ depth first search; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet();; for (Node successornodes : node.getSuccessors()) {  
+ depth --; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = null; for (Node successornodes : node.getSuccessors()) {  
+ visitedNodes = new HashSet<>();; for (Node successornodes : node.getSuccessors()) {  
+ superNode = node; for (Node successornodes : node.getSuccessors()) {  
+ push node; for (Node successornodes : node.getSuccessors()) {  
+ node visited; for (Node successornodes : node.getSuccessors()) {  
+ Node s; for (Node successornodes : node.getSuccessors()) {  
+ boolean found = false; for (Node successornodes : node.getSuccessors()) {  
+ boolean found = false; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet <>; for (Node successornodes : node.getSuccessors()) {  
+ ++loops; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet<> ();; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited |= goalnode; for (Node successornodes : node.getSuccessors()) {  
+ node visited = true; for (Node successornodes : node.getSuccessors()) {  
+ visit startnode; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet() }; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet(); for (Node successornodes : node.getSuccessors()) {  
+ VISITORS; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited already; for (Node successornodes : node.getSuccessors()) {  
+ node = goalnode<mask5> }; for (Node successornodes : node.getSuccessors()) {  
+ // go on; for (Node successornodes : node.getSuccessors()) {  
+ // DFS; for (Node successornodes : node.getSuccessors()) {  
+ // descend; for (Node successornodes : node.getSuccessors()) {  
+ return true<mask3> }; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet() ; for (Node successornodes : node.getSuccessors()) {  
+ push node; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = node; for (Node successornodes : node.getSuccessors()) {  
+ scopes; for (Node successornodes : node.getSuccessors()) {  
+ Node s<mask5> }; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = true; for (Node successornodes : node.getSuccessors()) {  
+ Class Search; for (Node successornodes : node.getSuccessors()) {  
+ ++nodesvisited.size; for (Node successornodes : node.getSuccessors()) {  
+ visited = null; for (Node successornodes : node.getSuccessors()) {  
+ return true; for (Node successornodes : node.getSuccessors()) {  
+ nodevisited = true; for (Node successornodes : node.getSuccessors()) {  
+ Node goal = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ Node goal = node; for (Node successornodes : node.getSuccessors()) {  
+ boolean visited = false; for (Node successornodes : node.getSuccessors()) {  
+ Search s = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ search depth first; for (Node successornodes : node.getSuccessors()) {  
+ searched = true; for (Node successornodes : node.getSuccessors()) {  
+ Node s = null; for (Node successornodes : node.getSuccessors()) {  
+ // recursive; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet <>; for (Node successornodes : node.getSuccessors()) {  
+ <mask3> }; for (Node successornodes : node.getSuccessors()) {  
+ visit startnode; for (Node successornodes : node.getSuccessors()) {  
+ nonrecursive; for (Node successornodes : node.getSuccessors()) {  
+ push(node); for (Node successornodes : node.getSuccessors()) {  
+ superNode = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ boolean done = false; for (Node successornodes : node.getSuccessors()) {  
+ goalsvisited = null; for (Node successornodes : node.getSuccessors()) {  
+ //return true; for (Node successornodes : node.getSuccessors()) {  
+ classes Search; for (Node successornodes : node.getSuccessors()) {  
+ Node node = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ ++node; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = this; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ return false }; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = false; for (Node successornodes : node.getSuccessors()) {  
+ visitedNodes = null; for (Node successornodes : node.getSuccessors()) {  
+ return false; } ; for (Node successornodes : node.getSuccessors()) {  
+ recursive search; for (Node successornodes : node.getSuccessors()) {  
+ // go to goalnode; for (Node successornodes : node.getSuccessors()) {  
+ supernode = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ Node searchnode = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = new HashSet();; for (Node successornodes : node.getSuccessors()) {  
+ set visited nodes; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited set; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited.remove(node); for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet();; for (Node successornodes : node.getSuccessors()) {  
+ // do depth first search; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = null; }; for (Node successornodes : node.getSuccessors()) {  
+ return false<mask3>}; for (Node successornodes : node.getSuccessors()) {  
+ non-recursive; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = sets; for (Node successornodes : node.getSuccessors()) {  
+ Node s = node; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet() ; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = new HashSet <>; for (Node successornodes : node.getSuccessors()) {  
+ go to goalnode; for (Node successornodes : node.getSuccessors()) {  
+ Node goalnode = goal; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = new HashSet<>(); ; for (Node successornodes : node.getSuccessors()) {  
+  }; for (Node successornodes : node.getSuccessors()) {  
+ node visited = false; for (Node successornodes : node.getSuccessors()) {  
+ node visited = true; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet(); for (Node successornodes : node.getSuccessors()) {  
+ ++nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ _visited = nodesvisited; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited are set; for (Node successornodes : node.getSuccessors()) {  
+ Nodes visited = new HashSet<>(); for (Node successornodes : node.getSuccessors()) {  
+ return false; } } ; for (Node successornodes : node.getSuccessors()) {  
+; for (Node successornodes : node.getSuccessors()) {  
+ Set<Node> nodesvisited = null; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited |= node; for (Node successornodes : node.getSuccessors()) {  
+ return false; } Search s; for (Node successornodes : node.getSuccessors()) {  
+ visiting = false; for (Node successornodes : node.getSuccessors()) {  
+nodesvisited = null; for (Node successornodes : node.getSuccessors()) {  
+ Node targetnode = goalnode; for (Node successornodes : node.getSuccessors()) {  
+ visiting = true; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet<>();; for (Node successornodes : node.getSuccessors()) {  
+ Search s = this; for (Node successornodes : node.getSuccessors()) {  
+ nodesvisited = null; }; for (Node successornodes : node.getSuccessors()) {  
+ visited = new HashSet(); }; for (Node successornodes : node.getSuccessors()) {  
+for (Node  successornodes : node.getSuccessors()) {  
+for (Node  successornode : node.getSuccessors()) {  
+for (Node  successor : node.getSuccessors()) {  
+for (Node  successors : node.getSuccessors()) {  
+for (Node  successorsnodes : node.getSuccessors()) {  
+for (Node  successornodes : node.getSuccessors()) {  
+for (Node  successornodes2 : node.getSuccessors()) {  
+for (Node  predecessornodes : node.getSuccessors()) {  
+for (Node  succ : node.getSuccessors()) {  
+for (Node  successorornodes : node.getSuccessors()) {  
+for (Node  successoredges : node.getSuccessors()) {  
+for (Node  successorvertices : node.getSuccessors()) {  
+for (Node  successor nodes : node.getSuccessors()) {  
+for (Node Successor successornodes : node.getSuccessors()) {  
+for (Node  successornodes[] : node.getSuccessors()) {  
+for (Node  successornodes1 : node.getSuccessors()) {  
+for (Node  successorvertex : node.getSuccessors()) {  
+for (Node  successorsnode : node.getSuccessors()) {  
+for (Node  node : node.getSuccessors()) {  
+for (Node  nextnode : node.getSuccessors()) {  
+for (Node  successorchildren : node.getSuccessors()) {  
+for (Node  successorNodes : node.getSuccessors()) {  
+for (Node  nextnodes : node.getSuccessors()) {  
+for (Node  goalnodes : node.getSuccessors()) {  
+for (Node  predecessor : node.getSuccessors()) {  
+for (Node  succnode : node.getSuccessors()) {  
+for (Node  parent : node.getSuccessors()) {  
+for (Node  successornodes  : node.getSuccessors()) {  
+for (Node  successornode2 : node.getSuccessors()) {  
+for (Node  succnodes : node.getSuccessors()) {  
+for (Node Successor node : node.getSuccessors()) {  
+for (Node  successoritems : node.getSuccessors()) {  
+for (Node  successornodes  : node.getSuccessors()) {  
+for (Node  successorgraph : node.getSuccessors()) {  
+for (Node  successorsetNode : node.getSuccessors()) {  
+for (Node  successorn : node.getSuccessors()) {  
+for (Node  successorlist : node.getSuccessors()) {  
+for (Node  successorneighbors : node.getSuccessors()) {  
+for (Node  siblingnodes : node.getSuccessors()) {  
+for (Node  next : node.getSuccessors()) {  
+for (Node  successornodeid : node.getSuccessors()) {  
+for (Node  successorparent : node.getSuccessors()) {  
+for (Node  parentnodes : node.getSuccessors()) {  
+for (Node  successorvertexnodes : node.getSuccessors()) {  
+for (Node  successornetwork : node.getSuccessors()) {  
+for (Node  successorparentnodes : node.getSuccessors()) {  
+for (Node Successor nodes : node.getSuccessors()) {  
+for (Node  successornextnodes : node.getSuccessors()) {  
+for (Node Successor successors : node.getSuccessors()) {  
+for (Node  successorors : node.getSuccessors()) {  
+for (Node  successorusers : node.getSuccessors()) {  
+for (Node  successorto : node.getSuccessors()) {  
+for (Node  step : node.getSuccessors()) {  
+for (Node  successorvalues : node.getSuccessors()) {  
+for (Node  successorid : node.getSuccessors()) {  
+for (Node decessornodes : node.getSuccessors()) {  
+for (Node  successor_nodes : node.getSuccessors()) {  
+for (Node  successornext : node.getSuccessors()) {  
+for (Node  successorpath : node.getSuccessors()) {  
+for (Node  successorjobs : node.getSuccessors()) {  
+for (Node  successorpoints : node.getSuccessors()) {  
+for (Node  successorproperties : node.getSuccessors()) {  
+for (Node ... successornodes : node.getSuccessors()) {  
+for (Node  successorfullnodes : node.getSuccessors()) {  
+for (Node  successorp : node.getSuccessors()) {  
+for (Node  successornode1 : node.getSuccessors()) {  
+for (Node  endnode : node.getSuccessors()) {  
+for (Node  successorNode : node.getSuccessors()) {  
+for (Node  s : node.getSuccessors()) {  
+for (Node  previousnodes : node.getSuccessors()) {  
+for (Node  successorelements : node.getSuccessors()) {  
+for (Node  successorobjects : node.getSuccessors()) {  
+for (Node  successorentities : node.getSuccessors()) {  
+for (Node  successor1 : node.getSuccessors()) {  
+for (Node Successor nodeSuccessor : node.getSuccessors()) {  
+for (Node  successor<mask1> successor : node.getSuccessors()) {  
+for (Node  successorentity : node.getSuccessors()) {  
+for (Node successornodes : node.getSuccessors()) {  
+for (Node  successorindex : node.getSuccessors()) {  
+for (Node  successorcandidate : node.getSuccessors()) {  
+for (Node  successorpaths : node.getSuccessors()) {  
+for (Node  successorfrom : node.getSuccessors()) {  
+for (Node  successorno : node.getSuccessors()) {  
+for (Node  successornid : node.getSuccessors()) {  
+for (Node  successorgraphnodes : node.getSuccessors()) {  
+for (Node  successorlinks : node.getSuccessors()) {  
+for (Node Successor successornode : node.getSuccessors()) {  
+for (Node  previousnode : node.getSuccessors()) {  
+for (Node  successorparents : node.getSuccessors()) {  
+for (Node Successors successornodes : node.getSuccessors()) {  
+for (Node  successor  : node.getSuccessors()) {  
+for (Node Successor successor : node.getSuccessors()) {  
+for (Node  goalnode : node.getSuccessors()) {  
+for (Node  successornodes3 : node.getSuccessors()) {  
+for (Node  predecessors : node.getSuccessors()) {  
+for (Node  currentnode : node.getSuccessors()) {  
+for (Node  successorthis : node.getSuccessors()) {  
+for (Node  ancestornodes : node.getSuccessors()) {  
+for (Node  successor node : node.getSuccessors()) {  
+for (Node  successorfinal : node.getSuccessors()) {  
+for (Node  child : node.getSuccessors()) {  
+for (Node  predecessornode : node.getSuccessors()) {  
+for (Node  successorroutes : node.getSuccessors()) {  
+for (Node  stopnode : node.getSuccessors()) {  
+for (Node  stepnode : node.getSuccessors()) {  
+for (Node  successorruns : node.getSuccessors()) {  
+for (Node  successorloop : node.getSuccessors()) {  
+for (Node  current : node.getSuccessors()) {  
+for (Node  successornode : node.getSuccessors()) {  
+for (Node  successordestinationnodes : node.getSuccessors()) {  
+for (Node  successorids : node.getSuccessors()) {  
+for (Node  successorcurrent : node.getSuccessors()) {  
+for (Node  subnode : node.getSuccessors()) {  
+for (Node  successornodes_ : node.getSuccessors()) {  
+for (Node  successornodes   : node.getSuccessors()) {  
+for (Node  successorbranch : node.getSuccessors()) {  
+for (Node  destinationnodes : node.getSuccessors()) {  
+for (Node  successoredge : node.getSuccessors()) {  
+for (Node  successornr : node.getSuccessors()) {  
+for (Node  successorpredecessors : node.getSuccessors()) {  
+for (Node  stepnodes : node.getSuccessors()) {  
+for (Node  successorplugins : node.getSuccessors()) {  
+for (Node  sourcenodes : node.getSuccessors()) {  
+for (Node  a : node.getSuccessors()) {  
+for (Node  successorroles : node.getSuccessors()) {  
+for (Node  successorsite : node.getSuccessors()) {  
+for (Node  p : node.getSuccessors()) {  
+for (Node  successorsubnodes : node.getSuccessors()) {  
+for (Node  successorsites : node.getSuccessors()) {  
+for (Node  successor_node : node.getSuccessors()) {  
+for (Node  successorneighbours : node.getSuccessors()) {  
+for (Node  nextStatenodes : node.getSuccessors()) {  
+for (Node Successor nextnode : node.getSuccessors()) {  
+for (Node  successorconnections : node.getSuccessors()) {  
+for (Node  sibling : node.getSuccessors()) {  
+for (Node  successortarget : node.getSuccessors()) {  
+for (Node  successordata : node.getSuccessors()) {  
+for (Node  othernode : node.getSuccessors()) {  
+for (Node  successorself : node.getSuccessors()) {  
+for (Node  successorname : node.getSuccessors()) {  
+for (Node  successorothernodes : node.getSuccessors()) {  
+for (Node  successorthisnode : node.getSuccessors()) {  
+for (Node  successornetworknodes : node.getSuccessors()) {  
+for (Node  successorbytes : node.getSuccessors()) {  
+for (Node  successorpos : node.getSuccessors()) {  
+for (Node  successorusernodes : node.getSuccessors()) {  
+for (Node  successorpeers : node.getSuccessors()) {  
+for (Node  successorrootnodes : node.getSuccessors()) {  
+for (Node  successorresults : node.getSuccessors()) {  
+for (Node  successornextnode : node.getSuccessors()) {  
+for (Node  successortargetnodes : node.getSuccessors()) {  
+for (Node  successorplus : node.getSuccessors()) {  
+for (Node  successornetworknode : node.getSuccessors()) {  
+for (Node  solutionnodes : node.getSuccessors()) {  
+for (Node Successor : node.getSuccessors()) {  
+for (Node  successorof : node.getSuccessors()) {  
+for (Node  parentnode : node.getSuccessors()) {  
+for (Node  successor2 : node.getSuccessors()) {  
+for (Node  successornp : node.getSuccessors()) {  
+for (Node  anothernode : node.getSuccessors()) {  
+for (Node  successorprogram : node.getSuccessors()) {  
+for (Node  successornodes... : node.getSuccessors()) {  
+for (Node  othernodes : node.getSuccessors()) {  
+for (Node  successorpernode : node.getSuccessors()) {  
+for (Node  successorindices : node.getSuccessors()) {  
+for (Node  sourcenode : node.getSuccessors()) {  
+for (Node  successorset : node.getSuccessors()) {  
+for (Node  successorsourcenodes : node.getSuccessors()) {  
+for (Node  successorobj : node.getSuccessors()) {  
+for (Node  visit : node.getSuccessors()) {  
+for (Node  neighbournodes : node.getSuccessors()) {  
+for (Node  targetnodes : node.getSuccessors()) {  
+for (Node  successortargetNode : node.getSuccessors()) {  
+for (Node  successorgraphnode : node.getSuccessors()) {  
+for (Node  successornetworks : node.getSuccessors()) {  
+for (Node  successor<mask5> } : node.getSuccessors()) {  
+for (Node  successorprev : node.getSuccessors()) {  
+for (Node  successorvisit : node.getSuccessors()) {  
+for (Node  successor0 : node.getSuccessors()) {  
+for (Node  gotonode : node.getSuccessors()) {  
+for (Node  successor2nodes : node.getSuccessors()) {  
+for (Node  successorroot : node.getSuccessors()) {  
+for (Node  successoror : node.getSuccessors()) {  
+for (Node  successorpage : node.getSuccessors()) {  
+for (Node   successornodes : node.getSuccessors()) {  
+for (Node  candidatenodes : node.getSuccessors()) {  
+for (Node  successorclasses : node.getSuccessors()) {  
+for (Node  successorpop : node.getSuccessors()) {  
+for (Node  successormapper : node.getSuccessors()) {  
+for (Node  finalnode : node.getSuccessors()) {  
+for (Node  endnodes : node.getSuccessors()) {  
+for (Node  successorchain : node.getSuccessors()) {  
+for (Node  sucornodes : node.getSuccessors()) {  
+for (Node  successornodesNext : node.getSuccessors()) {  
+for (Node  successoratoms : node.getSuccessors()) {  
+for (Node Successornode : node.getSuccessors()) {  
+for (Node  successornodes    : node.getSuccessors()) {  
+for (Node  successornodes0 : node.getSuccessors()) {  
+for (Node  successorresources : node.getSuccessors()) {  
+for (Node  successorr : node.getSuccessors()) {  
+for (Node  previous : node.getSuccessors()) {  
+for (Node  childnodes : node.getSuccessors()) {  
+for (Node  successornodes4 : node.getSuccessors()) {  
+for (Node  successornewNode : node.getSuccessors()) {  
+for (Node  successorprevnodes : node.getSuccessors()) {  
+for (Node  finalnodes : node.getSuccessors()) {  
+for (Node  successornewnodes : node.getSuccessors()) {  
+for (Node  successor) : node.getSuccessors()) {  
+for (Node  successortonodes : node.getSuccessors()) {  
+for (Node  successoriter : node.getSuccessors()) {  
+for (Node  successorstep : node.getSuccessors()) {  
+for (Node  currentnodes : node.getSuccessors()) {  
+for (Node  successorx : node.getSuccessors()) {  
+for (Node  successorrnodes : node.getSuccessors()) {  
+for (Node  successoreach : node.getSuccessors()) {  
+for (Node  successorcurrentnodes : node.getSuccessors()) {  
+for (Node  targetnode : node.getSuccessors()) {  
+for (Node  secondnode : node.getSuccessors()) {  
+for (Node  successorsubnode : node.getSuccessors()) {  
+for (Node  successorchars : node.getSuccessors()) {  
+for (Node  additionalnodes : node.getSuccessors()) {  
+for (Node  successor// : node.getSuccessors()) {  
+for (Node  stopnodes : node.getSuccessors()) {  
+for (Node  successorweights : node.getSuccessors()) {  
+for (Node  successorgenerator : node.getSuccessors()) {  
+for (Node  successorobject : node.getSuccessors()) {  
+for (Node  successorsource : node.getSuccessors()) {  
+for (Node  successorval : node.getSuccessors()) {  
+for (Node  successorsources : node.getSuccessors()) {  
+for (Node  successorpreviousnodes : node.getSuccessors()) {  
+for (Node  successor<mask5>} : node.getSuccessors()) {  
+for (Node Successornodes : node.getSuccessors()) {  
+for (Node  successorfull : node.getSuccessors()) {  
+for (Node  failurenodes : node.getSuccessors()) {  
+for (Node  successornodes) : node.getSuccessors()) {  
+for (Node  successortext : node.getSuccessors()) {  
+for (Node  successorany : node.getSuccessors()) {  
+for (Node  successorthisnodes : node.getSuccessors()) {  
+for (Node  successoruri : node.getSuccessors()) {  
+for (Node  successoraddresses : node.getSuccessors()) {  
+for (Node  successorvalue : node.getSuccessors()) {  
+for (Node  successoriterator : node.getSuccessors()) {  
+for (Node  successornodes	 : node.getSuccessors()) {  
+for (Node  successorbreak : node.getSuccessors()) {  
+for (Node  successorchild : node.getSuccessors()) {  
+for (Node  successoruser : node.getSuccessors()) {  
+for (Node  successorcopy : node.getSuccessors()) {  
+for (Node  successorrows : node.getSuccessors()) {  
+for (Node  successorrun : node.getSuccessors()) {  
+for (Node  successorentitynodes : node.getSuccessors()) {  
+for (Node successornodes :  node.getSuccessors()) {  
+for (Node successornodes :  goalnode.getSuccessors()) {  
+for (Node successornodes :  startnode.getSuccessors()) {  
+for (Node successornodes :  successornodes.getSuccessors()) {  
+for (Node successornodes :  successornode.getSuccessors()) {  
+for (Node successornodes :  step.getSuccessors()) {  
+for (Node successornodes :  parent.getSuccessors()) {  
+for (Node successornodes :  endnode.getSuccessors()) {  
+for (Node successornodes :  this.getSuccessors()) {  
+for (Node successornodes :  goal.getSuccessors()) {  
+for (Node successornodes :  successornodes.getSuccessors()) {  
+for (Node successornodes :  graph.getSuccessors()) {  
+for (Node successornodes :  targetnode.getSuccessors()) {  
+for (Node successornodes :  goals.getSuccessors()) {  
+for (Node successornodes :  scope.getSuccessors()) {  
+for (Node successornodes :  goalnodes.getSuccessors()) {  
+for (Node successornodes :  nodesvisited.getSuccessors()) {  
+for (Node successornodes :  vertex.getSuccessors()) {  
+for (Node successornodes :  job.getSuccessors()) {  
+for (Node successornodes : node.getSuccessors()) {  
+for (Node successornodes :  goal.getSuccessors()) {  
+for (Node successornodes : goalnode.getSuccessors()) {  
+for (Node successornodes :  target.getSuccessors()) {  
+for (Node successornodes :  gov.getSuccessors()) {  
+for (Node successornodes :  stepnode.getSuccessors()) {  
+for (Node successornodes :  node.getSuccessors()) {  
+for (Node successornodes :  goalnode.getSuccessors()) {  
+for (Node successornodes :  predecessornodes.getSuccessors()) {  
+for (Node successornodes :  stopnode.getSuccessors()) {  
+for (Node successornodes :  goe.getSuccessors()) {  
+for (Node successornodes :  solution.getSuccessors()) {  
+for (Node successornodes :  Node.getSuccessors()) {  
+for (Node successornodes :  nextnode.getSuccessors()) {  
+for (Node successornodes :  currentnode.getSuccessors()) {  
+for (Node successornodes :  parentnode.getSuccessors()) {  
+for (Node successornodes :  visit.getSuccessors()) {  
+for (Node successornodes :  startingnode.getSuccessors()) {  
+for (Node successornodes :  goalnode.getSuccessors()) {  
+for (Node successornodes :  branch.getSuccessors()) {  
+for (Node successornodes :  goto.getSuccessors()) {  
+for (Node successornodes :  successors.getSuccessors()) {  
+for (Node successornodes :  child.getSuccessors()) {  
+for (Node successornodes :   node.getSuccessors()) {  
+for (Node successornodes :  predecessor.getSuccessors()) {  
+for (Node successornodes :  path.getSuccessors()) {  
+for (Node successornodes :  result.getSuccessors()) {  
+for (Node successornodes :  gotonode.getSuccessors()) {  
+for (Node successornodes :  object.getSuccessors()) {  
+for (Node successornodes :  supernode.getSuccessors()) {  
+for (Node successornodes :   goalnode.getSuccessors()) {  
+for (Node successornodes :  context.getSuccessors()) {  
+for (Node successornodes :  end.getSuccessors()) {  
+for (Node successornodes :  govnode.getSuccessors()) {  
+for (Node successornodes :  s.getSuccessors()) {  
+for (Node successornodes :  vertexes.getSuccessors()) {  
+for (Node successornodes :  gossip.getSuccessors()) {  
+for (Node successornodes :  successornode.getSuccessors()) {  
+for (Node successornodes :  currentNode.getSuccessors()) {  
+for (Node successornodes :  stop.getSuccessors()) {  
+for (Node successornodes :  advance.getSuccessors()) {  
+for (Node successornodes :  previousnode.getSuccessors()) {  
+for (Node successornodes :  predecessornode.getSuccessors()) {  
+for (Node successornodes :  state.getSuccessors()) {  
+for (Node successornodes :  stage.getSuccessors()) {  
+for (Node successornodes :  go.getSuccessors()) {  
+for (Node successornodes :  edge.getSuccessors()) {  
+for (Node successornodes :  subject.getSuccessors()) {  
+for (Node successornodes :  parents.getSuccessors()) {  
+for (Node successornodes :  query.getSuccessors()) {  
+for (Node successornodes :  GoalNode.getSuccessors()) {  
+for (Node successornodes :  destination.getSuccessors()) {  
+for (Node successornodes :  sibling.getSuccessors()) {  
+for (Node successornodes :  it.getSuccessors()) {  
+for (Node successornodes :  descendant.getSuccessors()) {  
+for (Node successornodes :  endnodes.getSuccessors()) {  
+for (Node successornodes :  this node.getSuccessors()) {  
+for (Node successornodes :  root.getSuccessors()) {  
+for (Node successornodes :  term.getSuccessors()) {  
+for (Node successornodes :  rootnode.getSuccessors()) {  
+for (Node successornodes :  request.getSuccessors()) {  
+for (Node successornodes :  subnode.getSuccessors()) {  
+for (Node successornodes :  siblingnodes.getSuccessors()) {  
+for (Node successornodes : startNode.getSuccessors()) {  
+for (Node successornodes :  startednode.getSuccessors()) {  
+for (Node successornodes :  source.getSuccessors()) {  
+for (Node successornodes :  dag.getSuccessors()) {  
+for (Node successornodes :  search.getSuccessors()) {  
+for (Node successornodes :  basenode.getSuccessors()) {  
+for (Node successornodes :  delegate.getSuccessors()) {  
+for (Node successornodes :  this.node.getSuccessors()) {  
+for (Node successornodes :  Goal.getSuccessors()) {  
+for (Node successornodes :  firstnode.getSuccessors()) {  
+for (Node successornodes :  plan.getSuccessors()) {  
+for (Node successornodes :  sourcenode.getSuccessors()) {  
+for (Node successornodes :  receiver.getSuccessors()) {  
+for (Node successornodes :  starts.getSuccessors()) {  
+for (Node successornodes :  direction.getSuccessors()) {  
+for (Node successornodes :  level.getSuccessors()) {  
+for (Node successornodes :  gobblin.getSuccessors()) {  
+for (Node successornodes :  link.getSuccessors()) {  
+for (Node successornodes :  visitable.getSuccessors()) {  
+for (Node successornodes :  ancestor.getSuccessors()) {  
+for (Node successornodes :  hop.getSuccessors()) {  
+for (Node successornodes :  gotonodes.getSuccessors()) {  
+for (Node successornodes :  head.getSuccessors()) {  
+for (Node successornodes :  initialnode.getSuccessors()) {  
+for (Node successornodes :  self.getSuccessors()) {  
+for (Node successornodes :  ancestornodes.getSuccessors()) {  
+for (Node successornodes :  task.getSuccessors()) {  
+for (Node successornodes :  status.getSuccessors()) {  
+for (Node successornodes :  finish.getSuccessors()) {  
+for (Node successornodes :  goenode.getSuccessors()) {  
+for (Node successornodes :  obj.getSuccessors()) {  
+for (Node successornodes :  traversal.getSuccessors()) {  
+for (Node successornodes :  n.getSuccessors()) {  
+for (Node successornodes :  goalnodes.getSuccessors()) {  
+for (Node successornodes :  basic.getSuccessors()) {  
+for (Node successornodes :  finalnode.getSuccessors()) {  
+for (Node successornodes :  goofy.getSuccessors()) {  
+for (Node successornodes :  goa.getSuccessors()) {  
+for (Node successornodes :  beginnode.getSuccessors()) {  
+for (Node successornodes :  goto<mask1> node.getSuccessors()) {  
+for (Node successornodes :  candidate.getSuccessors()) {  
+for (Node successornodes :  user.getSuccessors()) {  
+for (Node successornodes :  location.getSuccessors()) {  
+for (Node successornodes :  current.getSuccessors()) {  
+for (Node successornodes :  site.getSuccessors()) {  
+for (Node successornodes :  results.getSuccessors()) {  
+for (Node successornodes :  base.getSuccessors()) {  
+for (Node successornodes :  x.getSuccessors()) {  
+for (Node successornodes :  rootNode.getSuccessors()) {  
+for (Node successornodes :  delta.getSuccessors()) {  
+for (Node successornodes :  begin.getSuccessors()) {  
+for (Node successornodes :  finishnode.getSuccessors()) {  
+for (Node successornodes :  redirect.getSuccessors()) {  
+for (Node successornodes :  destinationnode.getSuccessors()) {  
+for (Node successornodes :  visiting.getSuccessors()) {  
+for (Node successornodes :  iteration.getSuccessors()) {  
+for (Node successornodes :  program.getSuccessors()) {  
+for (Node successornodes :  element.getSuccessors()) {  
+for (Node successornodes :  targetnodes.getSuccessors()) {  
+for (Node successornodes :  headnode.getSuccessors()) {  
+for (Node successornodes :  parentnodes.getSuccessors()) {  
+for (Node successornodes :  service.getSuccessors()) {  
+for (Node successornodes :  score.getSuccessors()) {  
+for (Node successornodes :  testnode.getSuccessors()) {  
+for (Node successornodes :  jobnode.getSuccessors()) {  
+for (Node successornodes :  chain.getSuccessors()) {  
+for (Node successornodes :  point.getSuccessors()) {  
+for (Node successornodes :  contextnode.getSuccessors()) {  
+for (Node successornodes :  tail.getSuccessors()) {  
+for (Node successornodes :  basicnode.getSuccessors()) {  
+for (Node successornodes :  goea.getSuccessors()) {  
+for (Node successornodes :  myself.getSuccessors()) {  
+for (Node successornodes :  step.node.getSuccessors()) {  
+for (Node successornodes :  mainnode.getSuccessors()) {  
+for (Node successornodes :  ....getSuccessors()) {  
+for (Node successornodes :  then.getSuccessors()) {  
+for (Node successornodes :  prototype.getSuccessors()) {  
+for (Node successornodes :  govc.getSuccessors()) {  
+for (Node successornodes :  endpoint.getSuccessors()) {  
+for (Node successornodes :  startTime.getSuccessors()) {  
+for (Node successornodes :  failure.getSuccessors()) {  
+for (Node successornodes :  visitednodes.getSuccessors()) {  
+for (Node successornodes :  step1.getSuccessors()) {  
+for (Node successornodes :  goes.getSuccessors()) {  
+for (Node successornodes :  visited.getSuccessors()) {  
+for (Node successornodes :  proposal.getSuccessors()) {  
+for (Node successornodes :  endpoint.getSuccessors()) {  
+for (Node successornodes :  adapter.getSuccessors()) {  
+for (Node successornodes :  plugin.getSuccessors()) {  
+for (Node successornodes :  starting.getSuccessors()) {  
+for (Node successornodes :  tree.getSuccessors()) {  
+for (Node successornodes :  first.getSuccessors()) {  
+for (Node successornodes :  now.getSuccessors()) {  
+for (Node successornodes :  solutionnode.getSuccessors()) {  
+for (Node successornodes :  repo.getSuccessors()) {  
+for (Node successornodes :  copy.getSuccessors()) {  
+for (Node successornodes :  GOOD.getSuccessors()) {  
+for (Node successornodes :  g.getSuccessors()) {  
+for (Node successornodes :  youngest.getSuccessors()) {  
+for (Node successornodes :  superNode.getSuccessors()) {  
+for (Node successornodes :  goo.getSuccessors()) {  
+for (Node successornodes :  children.getSuccessors()) {  
+for (Node successornodes :  value.getSuccessors()) {  
+for (Node successornodes :  the goalnode.getSuccessors()) {  
+for (Node successornodes :  other.getSuccessors()) {  
+for (Node successornodes :  steps.getSuccessors()) {  
+for (Node successornodes :  visitnode.getSuccessors()) {  
+for (Node successornodes :  stepper.getSuccessors()) {  
+for (Node successornodes :  dependency.getSuccessors()) {  
+for (Node successornodes :  entity.getSuccessors()) {  
+for (Node successornodes :  data.getSuccessors()) {  
+for (Node successornodes :  goes.getSuccessors()) {  
+for (Node successornodes :  starting node.getSuccessors()) {  
+for (Node successornodes :  strategy.getSuccessors()) {  
+for (Node successornodes :   startnode.getSuccessors()) {  
+for (Node successornodes :  gossiper.getSuccessors()) {  
+for (Node successornodes :  degree.getSuccessors()) {  
+for (Node successornodes :  stepgraph.getSuccessors()) {  
+for (Node successornodes :  prevnode.getSuccessors()) {  
+for (Node successornodes :  jobgraph.getSuccessors()) {  
+for (Node successornodes :  ... node.getSuccessors()) {  
+for (Node successornodes :  siblingnode.getSuccessors()) {  
+for (Node successornodes :  set.getSuccessors()) {  
+for (Node successornodes :  all.getSuccessors()) {  
+for (Node successornodes :  method.getSuccessors()) {  
+for (Node successornodes :  todo.getSuccessors()) {  
+for (Node successornodes :  trie.getSuccessors()) {  
+for (Node successornodes :  entry.getSuccessors()) {  
+for (Node successornodes :  body.getSuccessors()) {  
+for (Node successornodes :  the node.getSuccessors()) {  
+for (Node successornodes :  node .getSuccessors()) {  
+for (Node successornodes :  cycle.getSuccessors()) {  
+for (Node successornodes :  reference.getSuccessors()) {  
+for (Node successornodes :  secondnode.getSuccessors()) {  
+for (Node successornodes :  scoreboard.getSuccessors()) {  
+for (Node successornodes :  type.getSuccessors()) {  
+for (Node successornodes :  step2.getSuccessors()) {  
+for (Node successornodes :  goof.getSuccessors()) {  
+for (Node successornodes :  step<mask1> step.getSuccessors()) {  
+for (Node successornodes :  visitingnode.getSuccessors()) {  
+for (Node successornodes :  goast.getSuccessors()) {  
+for (Node successornodes :  goenodes.getSuccessors()) {  
+for (Node successornodes :  GOODS.getSuccessors()) {  
+for (Node successornodes :  parent<mask1> node.getSuccessors()) {  
+for (Node successornodes :  gobbly.getSuccessors()) {  
+for (Node successornodes :  goalsink.getSuccessors()) {  
+for (Node successornodes :  goalsystem.getSuccessors()) {  
+for (Node successornodes :  gobbler.getSuccessors()) {  
+for (Node successornodes :  goos.getSuccessors()) {  
+for (Node successornodes :  goalscheme.getSuccessors()) {  
+for (Node successornodes :  current<mask1> node.getSuccessors()) {  
+for (Node successornodes :  gobbling.getSuccessors()) {  
+for (Node successornodes :  parent.node.getSuccessors()) {  
+for (Node successornodes :  parent<mask1> parent.getSuccessors()) {  
+for (Node successornodes :  goastree.getSuccessors()) {  
+for (Node successornodes :  new Search.getSuccessors()) {  
+for (Node successornodes :  goval.getSuccessors()) {  
+for (Node successornodes :  node.parent.getSuccessors()) {  
+for (Node successornodes :  step<mask1> node.getSuccessors()) {  
+for (Node successornodes :  new Node.getSuccessors()) {  
+for (Node successornodes :  step..getSuccessors()) {  
+for (Node successornodes :  goenode.getSuccessors()) {  
+for (Node successornodes :  the goal.getSuccessors()) {  
+for (Node successornodes :  subgoal.getSuccessors()) {  
+for (Node successornodes :  step<mask5> }.getSuccessors()) {  
+for (Node successornodes :  goblin.getSuccessors()) {  
+for (Node successornodes :  this<mask1> node.getSuccessors()) {  
+for (Node successornodes :  gooe.getSuccessors()) {  
+for (Node successornodes : node.getSuccessors()) {  
+for (Node successornodes : node.getSuccessorNodes()) {  
+for (Node successornodes : node.getSuccessor()) {  
+for (Node successornodes : node.getChildren()) {  
+for (Node successornodes : node.getSucc()) {  
+for (Node successornodes : node.getSubsuccessors()) {  
+for (Node successornodes : node.getChildNodes()) {  
+for (Node successornodes : node.getParents()) {  
+for (Node successornodes : node.getNextSuccessors()) {  
+for (Node successornodes : node.getPredecessors()) {  
+for (Node successornodes : node.getSuccessornodes()) {  
+for (Node successornodes : node.getNodes()) {  
+for (Node successornodes : node.getSuccNodes()) {  
+for (Node successornodes : node.getSortedSuccessors()) {  
+for (Node successornodes : node.getIncoming()) {  
+for (Node successornodes : node.getSuccors()) {  
+for (Node successornodes : node.getSsuccessors()) {  
+for (Node successornodes : node.getSuccessors()) {  
+for (Node successornodes : node.getAncestors()) {  
+for (Node successornodes : node.get successors()) {  
+for (Node successornodes : node.getNeighbors()) {  
+for (Node successornodes : node.getIncomingNodes()) {  
+for (Node successornodes : node.getPreviousSuccessors()) {  
+for (Node successornodes : node.getChilds()) {  
+for (Node successornodes : node.getAllNodes()) {  
+for (Node successornodes : node.getUnvisitedNodes()) {  
+for (Node successornodes : node.getFollowers()) {  
+for (Node successornodes : node.getParent()) {  
+for (Node successornodes : node.getPredecessorNodes()) {  
+for (Node successornodes : node.getSupers()) {  
+for (Node successornodes : node.getNext()) {  
+for (Node successornodes : node.getAllSuccessors()) {  
+for (Node successornodes : node.getPrev()) {  
+for (Node successornodes : node.successors()) {  
+for (Node successornodes : node.getSortedNodes()) {  
+for (Node successornodes : node.getForwards()) {  
+for (Node successornodes : node.getParentNodes()) {  
+for (Node successornodes : node.getSsuccessorNodes()) {  
+for (Node successornodes : node. getSuccessors()) {  
+for (Node successornodes : node.getValue()) {  
+for (Node successornodes : node.getStatements()) {  
+for (Node successornodes : node.getDescendants()) {  
+for (Node successornodes : node.getSuccs()) {  
+for (Node successornodes : node.getdecessors()) {  
+for (Node successornodes : node.getReversedSuccessors()) {  
+for (Node successornodes : node.getAllSuccessorNodes()) {  
+for (Node successornodes : node.getAdjacentNodes()) {  
+for (Node successornodes : node.getPrevSuccessors()) {  
+for (Node successornodes : node.getDeclaredSuccessors()) {  
+for (Node successornodes : node.getNextNodes()) {  
+for (Node successornodes : node.getSuccOrFail()) {  
+for (Node successornodes : node.getSuccOrError()) {  
+for (Node successornodes : node.getForward()) {  
+for (Node successornodes : node.getSuccOrNode()) {  
+for (Node successornodes : node.getCauses()) {  
+for (Node successornodes : node.getSuccessorors()) {  
+for (Node successornodes : node.getPreviousNodes()) {  
+for (Node successornodes : node.getOperands()) {  
+for (Node successornodes : node.getOutgoing()) {  
+for (Node successornodes : node.getRight()) {  
+for (Node successornodes : node.getPrevious()) {  
+for (Node successornodes : node.getSuccessorList()) {  
+for (Node successornodes : node.getPredecessor()) {  
+for (Node successornodes : node.getSuccessorsList()) {  
+for (Node successornodes : node.getSuccOrFailure()) {  
+for (Node successornodes : node.getSuccOrElse()) {  
+for (Node successornodes : node.getIncomingEdges()) {  
+for (Node successornodes : node.getNextStates()) {  
+for (Node successornodes : node.getIncomingSuccessors()) {  
+for (Node successornodes : node.getAllChildren()) {  
+for (Node successornodes : node.getLeafs()) {  
+for (Node successornodes : node.getBack()) {  
+for (Node successornodes : node.getReversed()) {  
+for (Node successornodes : node.getSiblings()) {  
+for (Node successornodes : node.getAppenders()) {  
+for (Node successornodes : node.getProceeds()) {  
+for (Node successornodes : node.GetSuccessors()) {  
+for (Node successornodes : node.getUnvisited()) {  
+for (Node successornodes : node.getSuccorsts()) {  
+for (Node successornodes : node.getDirectSuccessors()) {  
+for (Node successornodes : node.getSuccOf()) {  
+for (Node successornodes : node.getServiceNodes()) {  
+for (Node successornodes : node.getRest()) {  
+for (Node successornodes : node.getSorted()) {  
+for (Node successornodes : node.getSsuccessor()) {  
+for (Node successornodes : node.getSortedChildren()) {  
+for (Node successornodes : node.getGoals()) {  
+for (Node successornodes : node.getsucc()) {  
+for (Node successornodes : node.getAllDescendants()) {  
+for (Node successornodes : node.getsSuccessors()) {  
+for (Node successornodes : node.getSuccent()) {  
+for (Node successornodes : node.getPath()) {  
+for (Node successornodes : node.predecessors()) {  
+for (Node successornodes : node.getTopNodes()) {  
+for (Node successornodes : node.getSuccorits()) {  
+for (Node successornodes : node.getSuccessorNodes()) {  
+for (Node successornodes : node.getSuccNode()) {  
+for (Node successornodes : node.getNeighbours()) {  
+for (Node successornodes : node.getSupernode()) {  
+for (Node successornodes : node.getOutcomes()) {  
+for (Node successornodes : node.getSubsequentNodes()) {  
+for (Node successornodes : node.getSuccessorNeighbors()) {  
+for (Node successornodes : node.getSuccessorChildren()) {  
+for (Node successornodes : node.getFirstSuccessors()) {  
+for (Node successornodes : node.getSubsuccessorNodes()) {  
+for (Node successornodes : node.getVoters()) {  
+for (Node successornodes : node.getProdecessors()) {  
+for (Node successornodes : node.getBackends()) {  
+for (Node successornodes : node.getProteins()) {  
+for (Node successornodes : node.getSdecessors()) {  
+for (Node successornodes : node.getSuccOrInvalid()) {  
+for (Node successornodes : node.getSources()) {  
+for (Node successornodes : node.getSupertypes()) {  
+for (Node successornodes : node.getFailedSuccessors()) {  
+for (Node successornodes : node.getAllAncestors()) {  
+for (Node successornodes : node.getSuccubutes()) {  
+for (Node successornodes : node.getSuccorts()) {  
+for (Node successornodes : node.getSuccessorNode()) {  
+for (Node successornodes : node.getIncomingSucc()) {  
+for (Node successornodes : node.getAdditions()) {  
+for (Node successornodes : node.getMostVisited()) {  
+for (Node successornodes : node.getHistories()) {  
+for (Node successornodes : node.getSuccessors().values()) {  
+for (Node successornodes : node.getNextNeighbors()) {  
+for (Node successornodes : node.getBackNodes()) {  
+for (Node successornodes : node.getReffs()) {  
+for (Node successornodes : node.getLeft()) {  
+for (Node successornodes : node.getProceedings()) {  
+for (Node successornodes : node.getAll()) {  
+for (Node successornodes : node.getSuccentors()) {  
+for (Node successornodes : node.iter()) {  
+for (Node successornodes : node.getNextParents()) {  
+for (Node successornodes : node.getAllSubnodes()) {  
+for (Node successornodes : node.getProvenances()) {  
+for (Node successornodes : node.getSuccessors()) {  
+for (Node successornodes : node.getRetainedNodes()) {  
+for (Node successornodes : node.getProceedors()) {  
+for (Node successornodes : node.getOtherNodes()) {  
+for (Node successornodes : node.getSuccnodes()) {  
+for (Node successornodes : node.getBacknodes()) {  
+for (Node successornodes : node.getNextSuccessorNodes()) {  
+for (Node successornodes : node.getStates()) {  
+for (Node successornodes : node.getDescendents()) {  
+for (Node successornodes : node.getDirectedSuccessors()) {  
+for (Node successornodes : node.getMoves()) {  
+for (Node successornodes : node.getNextChildren()) {  
+for (Node successornodes : node.getSiblingNodes()) {  
+for (Node successornodes : node.getSuccentNodes()) {  
+for (Node successornodes : node.getChild()) {  
+for (Node successornodes : node.getOutputs()) {  
+for (Node successornodes : node.Successors()) {  
+for (Node successornodes : node.getSuccessorsReversed()) {  
+for (Node successornodes : node.getSupernodeNodes()) {  
+for (Node successornodes : node.getAcceptors()) {  
+for (Node successornodes : node.getValues()) {  
+for (Node successornodes : node.getForwarders()) {  
+for (Node successornodes : node.getPreviousSiblingNodes()) {  
+for (Node successornodes : node.getPrevSucc()) {  
+for (Node successornodes : node.getAdjacent()) {  
+for (Node successornodes : node.getSuccOrDiag()) {  
+for (Node successornodes : node.getVertices()) {  
+for (Node successornodes : node.getInstances()) {  
+for (Node successornodes : node.getSuccSucc()) {  
+for (Node successornodes : node.getAddresses()) {  
+for (Node successornodes : node.getSortedSucc()) {  
+for (Node successornodes : node.getDelegatedSuccessors()) {  
+for (Node successornodes : node.getSuccessorsFrom()) {  
+for (Node successornodes : node.getContexts()) {  
+for (Node successornodes : node.getSuccessororNodes()) {  
+for (Node successornodes : node.getBacklinks()) {  
+for (Node successornodes : node.getPreviouss()) {  
+for (Node successornodes : node.getAllChildNodes()) {  
+for (Node successornodes : node.getPotSucc()) {  
+for (Node successornodes : node.getSurveys()) {  
+for (Node successornodes : node.getEntryPoints()) {  
+for (Node successornodes : node.getSuccents()) {  
+for (Node successornodes : node.getSuccorcesses()) {  
+for (Node successornodes : node.getSuccOrNext()) {  
+for (Node successornodes : node.goals()) {  
+for (Node successornodes : node.getContinuedNodes()) {  
+for (Node successornodes : node.getNextSiblingNodes()) {  
+for (Node successornodes : node.getSuccessors2()) {  
+for (Node successornodes : node.getSuccSubnodes()) {  
+for (Node successornodes : node.getAllNeighbors()) {  
+for (Node successornodes : node.getSuccubits()) {  
+for (Node successornodes : node.list()) {  
+for (Node successornodes : node.getPrevNodes()) {  
+for (Node successornodes : node.getSuccorses()) {  
+for (Node successornodes : node.getOutgoingSuccessors()) {  
+for (Node successornodes : node.getForwardNodes()) {  
+for (Node successornodes : node.getNextSibling()) {  
+for (Node successornodes : node.getSuppressedNodes()) {  
+for (Node successornodes : node.getSubs()) {  
+for (Node successornodes : node.getReversedNodes()) {  
+for (Node successornodes : node.getArguments()) {  
+for (Node successornodes : node.getAllSuccessors()) {  
+for (Node successornodes : node.getParent().getSuccessors()) {  
+for (Node successornodes : node.getOutgoingNodes()) {  
+for (Node successornodes : node.isSuccessors()) {  
+for (Node successornodes : node.getValueNodes()) {  
+for (Node successornodes : node.getNextNode()) {  
+for (Node successornodes : node.getDependents()) {  
+for (Node successornodes : node.getSrc()) {  
+for (Node successornodes : node.getSuccdecessors()) {  
+for (Node successornodes : node.getReduces()) {  
+for (Node successornodes : node.getTrueNodes()) {  
+for (Node successornodes : node.getUnvisitedSuccessors()) {  
+for (Node successornodes : node.getNextSuccessor()) {  
+for (Node successornodes : node.addSuccessors()) {  
+for (Node successornodes : node.getSuccOrSub()) {  
+for (Node successornodes : node.getRestoringNodes()) {  
+for (Node successornodes : node.getBackedges()) {  
+for (Node successornodes : node.getAdvisors()) {  
+for (Node successornodes : node.getAddOns()) {  
+for (Node successornodes : node.getPrefixes()) {  
+for (Node successornodes : node.getSubsuccessor()) {  
+for (Node successornodes : node.getAllParents()) {  
+for (Node successornodes : node.getEntry()) {  
+for (Node successornodes : node.getNodeSet()) {  
+for (Node successornodes : node.getSupernodes()) {  
+for (Node successornodes : node.getNonterminals()) {  
+for (Node successornodes : node.getThis()) {  
+for (Node successornodes : node.getDestinations()) {  
+for (Node successornodes : node.getSuspendedNodes()) {  
+for (Node successornodes : node.getSuspended()) {  
+for (Node successornodes : node.getSupplants()) {  
+for (Node successornodes : node.children()) {  
+for (Node successornodes : node.getInverse()) {  
+for (Node successornodes : node.getSuccOrfail()) {  
+for (Node successornodes : node.getSuccessorsRecursively()) {  
+for (Node successornodes : node.getSuccessorDescendants()) {  
+for (Node successornodes : node.getChildren()) {  
+for (Node successornodes : node.getSuccOrSelf()) {  
+for (Node successornodes : node.getIncomingNeighbors()) {  
+for (Node successornodes : node.getSuccNodeSet()) {  
+for (Node successornodes : node.getNextSucc()) {  
+for (Node successornodes : node.getSuccessoror()) {  
+for (Node successornodes : node.getSuccentents()) {  
+for (Node successornodes : node.getSupersuccessors()) {  
+for (Node successornodes : node.getSubjects()) {  
+for (Node successornodes : node.getSuccessor()) {  
+for (Node successornodes : node.getPreviousChildren()) {  
+for (Node successornodes : node.getSuccessorlist()) {  
+for (Node successornodes : node.allNodes()) {  
+for (Node successornodes : node.getSuccorbs()) {  
+for (Node successornodes : node.getSuccNodeList()) {  
+for (Node successornodes : node.getSuppressed()) {  
+for (Node successornodes : node.getUpstreamNodes()) {  
+for (Node successornodes : node.getDirectedSucc()) {  
+for (Node successornodes : node.getRootNodes()) {  
+)) {} while (!nodesvisited.contains(node)) {  
+)) {} })) {  
+)) {} }function (startnode)) {  
+)) {} }function search(node)) {  
+)) {} }public boolean search(Node startnode)) {  
+)) {} boolean search(Node node)) {  
+)) {} }function search(startnode)) {  
+)) {} boolean search(Node goalnode)) {  
+)) {} }function(startnode)) {  
+)) {} boolean search(Node successornodes)) {  
+)) {} }function (successornodes)) {  
+)) {} if (!nodesvisited.contains(node)) {  
+)) {} }function(node)) {  
+)) {} if (search(startnode)) {  
+)) {} }public boolean search(Node node)) {  
+)) {} if (search(goalnode)) {  
+)) {} }function (node)) {  
+)) {} }public static boolean search(Node node)) {  
+)) {} visit(Node node)) {  
+)) {} if (!nodesvisited.add(node)) {  
+)) {} }function(startnode, goalnode)) {  
+)) {} }function (startnode, goalnode)) {  
+)) {} }function search(startNode)) {  
+)) {} }public void search(Node startnode)) {  
+)) {} }private void search(Node startnode)) {  
+)) {} while (search(goalnode)) {  
+)) {} }private boolean search(Node startnode)) {  
+)) {} while (!nodesvisited.contains(node)) {  
+)) {} boolean search(Node successornode)) {  
+)) {} while (true)) {  
+)) {} search(Node goalnode)) {  
+)) {} if (visit(goalnode)) {  
+)) {} search(Node node)) {  
+)) {} while (!(node == goalnode)) {  
+)) {} if (!visited.add(goalnode)) {  
+)) {} if (search(node)) {  
+)) {} while (!visited.contains(node)) {  
+)) {} for (Node successornode : (Node)) {  
+)) {} if (visit(node)) {  
+)) {} if (search(startNode)) {  
+)) {} if (!visited.contains(goalnode)) {  
+)) {} search(Node successornodes)) {  
+)) {} while (search(startnode)) {  
+)) {} } for (Node node : nodes)) {  
+)) {} if (!visited(node)) {  
+)) {} if (search(successornodes)) {  
+)) {} while ((successornodes != null)) {  
+)) {} }function search(Node startnode)) {  
+)) {} }public Search search(Node startnode)) {  
+)) {} int search(Node node)) {  
+)) {} } if (search(startnode)) {  
+)) {} if (!(node == goalnode)) {  
+)) {} }private boolean search(Node node)) {  
+)) {} } for (Node node : node)) {  
+)) {} while ((successornodes = successornodes)) {  
+)) {} while (search(node)) {  
+)) {}  boolean search(Node node)) {  
+)) {} if (!visit(goalnode)) {  
+)) {} while (!nodesvisited.add(node)) {  
+)) {} }private static boolean search(Node node)) {  
+)) {} while(!nodesvisited.contains(node)) {  
+)) {} public boolean search(Node goalnode)) {  
+)) {} } for (Node successornodes : node)) {  
+)) {} }function find(node)) {  
+)) {} while (true<mask1> while (true)) {  
+)) {} if (!visited(goalnode)) {  
+)) {} }public void search(Node node)) {  
+)) {} while (search(startNode)) {  
+)) {} if ((goalnode != null)) {  
+)) {} while (!(nodesvisited.contains(node)) {  
+)) {} boolean search(Set<Node> successors)) {  
+)) {} }private void search(Node node)) {  
+)) {} boolean search(Node startnode)) {  
+)) {} if (visit(startnode)) {  
+)) {} if (search(goalnodes)) {  
+)) {} .search(goalnode)) {  
+)) {} public boolean search(Node node)) {  
+)) {} search(Node successornode)) {  
+)) {} while ((node = successornodes.next)) {  
+)) {} if ((successornodes != null)) {  
+)) {}public boolean search(Node startnode)) {  
+)) {} }public boolean contains(Node startnode)) {  
+)) {} } function search(node)) {  
+)) {} visited(Node node)) {  
+)) {} boolean contains(Node node)) {  
+)) {} while ((goalnode != null)) {  
+)) {} if (!visited.contains(node)) {  
+)) {} Search(Node goalnode)) {  
+)) {}  boolean search(Node goalnode)) {  
+)) {} }function(successornodes)) {  
+)) {} }function search(Node node)) {  
+)) {} def search(Node node)) {  
+)) {} function search(Node node)) {  
+)) {} for (Node successornode : successornodes)) {  
+)) {} }function (startNode)) {  
+)) {} }public static void search(Node node)) {  
+)) {} depth_first_search(Node node)) {  
+)) {} if (!visited.add(node)) {  
+)) {} }void search(Node startnode)) {  
+)) {} } if (search(goalnode)) {  
+)) {} }  function search(node)) {  
+)) {} if (!visit(node)) {  
+)) {} while(!(node == goalnode)) {  
+)) {} }function visit(node)) {  
+)) {} while (search(goalnode)) {  
+)) {} }public boolean contains(Node node)) {  
+)) {} visit(Node goalnode)) {  
+)) {} }function(startNode)) {  
+)) {} } for (Node successornodes : successors)) {  
+)) {} int depth(Node node)) {  
+)) {} Search(Node node)) {  
+)) {} while ((goalnode = successornodes)) {  
+)) {} boolean search(List<Node> successors)) {  
+)) {} while (!nodesvisited.isEmpty(node)) {  
+)) {} if ((nodesvisited.add(node)) {  
+)) {} if (node.equals(goalnode)) {  
+)) {} }protected boolean search(Node startnode)) {  
+)) {} while ((node = successornodes)) {  
+)) {} }public static boolean contains(Node node)) {  
+)) {} if (!search(goalnode)) {  
+)) {} if (visited.add(goalnode)) {  
+)) {} if (!search(startnode)) {  
+)) {} while(!(nodesvisited.contains(node)) {  
+)) {} }public Search search(Node node)) {  
+)) {} private boolean search(Node node)) {  
+)) {} int search(Node goalnode)) {  
+)) {} protected boolean search(Node node)) {  
+)) {} for (Node successornode : successors()) {  
+)) {} }public boolean search(Node goalnode)) {  
+)) {} } for (Node successornodes : nodes)) {  
+)) {} } while (true)) {  
+)) {} } if (search(startNode)) {  
+)) {} if (!(goalnode == startnode)) {  
+)) {} } function search(successornodes)) {  
+)) {} return search(goalnode)) {  
+)) {} while (!(node == goalnode)) {  
+)) {} if (visited.add(node)) {  
+)) {} while (!visited.contains(goalnode)) {  
+)) {} }(node)) {  
+)) {} Search(Node successornodes)) {  
+)) {} }function contains(node)) {  
+)) {} if (!visit(startnode)) {  
+)) {} for (Node successornodes : (Node)) {  
+)) {} def search(Node goalnode)) {  
+)) {} }function find(startnode)) {  
+)) {} } for (Node successornode : node)) {  
+)) {}  if (search(startnode)) {  
+)) {} while (search(node)) {  
+)) {} boolean search(Node... successornodes)) {  
+)) {} while (!visited.add(node)) {  
+)) {} } if (search(node)) {  
+)) {} while (!(nodesvisited.add(node)) {  
+)) {}  boolean search(Node successornodes)) {  
+)) {} } search(Node goalnode)) {  
+)) {} }function(startNode, goalnode)) {  
+)) {} } func (node *Node)) {  
+)) {} while (!visited(node)) {  
+)) {} } search(Node node)) {  
+)) {} } function search(Node node)) {  
+)) {} def search(Node successornodes)) {  
+)) {} } for (Node successornode : successors)) {  
+)) {}  while (true)) {  
+)) {} }function search (node)) {  
+)) {} boolean visit(Node node)) {  
+)) {} for (Node successor(Node node)) {  
+)) {}  })) {  
+)) {} while (!visited.contains(node)) {  
+)) {} }function (startNode, goalnode)) {  
+)) {} while ((successornodes != null)) {  
+)) {} private boolean search(Node goalnode)) {  
+)) {} AST#while_statement#Left (true)) {  
+)) {} }function Search(successornodes)) {  
+)) {} } if ((goalnode != null)) {  
+)) {} } function search(Node node)) {  
+)) {} public void search(Node goalnode)) {  
+)) {} Function search(Node node)) {  
+)) {}  while (!nodesvisited.contains(node)) {  
+)) {} public boolean search(Node startnode)) {  
+)) {} }static void search(Node startnode)) {  
+)) {} boolean find(Node node)) {  
+)) {} } if (visit(startnode)) {  
+)) {} while (!visit(goalnode)) {  
+)) {} protected boolean search(Node goalnode)) {  
+)) {} } for (Node successornode : nodes)) {  
+)) {} } if (visit(goalnode)) {  
+)) {} public boolean search(Node successornodes)) {  
+)) {} if ((goalnode == startnode)) {  
+)) {}public boolean search(Node node)) {  
+)) {} .visit(node)) {  
+)) {} }public int search(Node startnode)) {  
+)) {} }function search (startnode)) {  
+)) {} if ((node != goalnode)) {  
+)) {} for (Node successornode : (Set)) {  
+)) {} public void search(Node node)) {  
+)) {} while (true; (true)) {  
+)) {} while (nodesvisited.add(node)) {  
+)) {} while (search(startnode)) {  
+)) {} for (Node successornode : (Collection)) {  
+)) {} public boolean search(Node node)) {  
+)) {}  if (search(goalnode)) {  
+)) {} for (Node successornode : (NodeList)) {  
+)) {} if ((node == goalnode)) {  
+)) {} } if (!search(startnode)) {  
+)) {}  visit(Node node)) {  
+)) {} if (nodesvisited.contains(node)) {  
+)) {} void search(Node node)) {  
+)) {} if (nodesvisited.add(node)) {  
+)) {} for (Node successor (node)) {  
+)) {} for (Node successornode : (List)) {  
+)) {} if ((search(goalnode)) {  
+)) {} if (visited.contains(goalnode)) {  
+)) {} search(Node startnode)) {  
+)) {} }public Node search(Node startnode)) {  
+)) {} if (search(nodesvisited)) {  
+)) {} }func search(Node startnode)) {  
+)) {} for (Node successor : successors(node)) {  
+)) {} }function Search(startnode)) {  
+)) {} int search(Node startnode)) {  
+)) {} boolean search(Node goalnodes)) {  
+)) {} }private Search search(Node startnode)) {  
+)) {} }protected boolean search(Node node)) {  
+)) {} } if (!visit(startnode)) {  
+)) {} if(!nodesvisited.contains(node)) {  
+)) {} if (!nodesvisited.contains(node)) {  
+)) {} }})) {  
+)) {} while (!nodesvisited.add(node)) {  
+)) {} for (Node successor (Node node)) {  
+)) {} }  function search(Node node)) {  
+)) {} } if (!visit(goalnode)) {  
+)) {} boolean contains(Node successornode)) {  
+)) {} } for (Node successornodes : successor)) {  
+)) {} } for (Node successornode : successor)) {  
+)) {} function search(Node successornodes)) {  
+)) {} }private Node search(Node startnode)) {  
+)) {} }protected void search(Node startnode)) {  
+)) {} } if (search(goalnodes)) {  
+)) {} }function(startnode, goalnodes)) {  
+)) {} boolean search(Deque<Node> successors)) {  
+)) {} while ((!nodesvisited.contains(node)) {  
+)) {} }private static void search(Node node)) {  
+)) {} for (Node successornodes : successors()) {  
+)) {} for (Node successornode : nodesvisited)) {  
+)) {} }function (startnode, goalnodes)) {  
+)) {}  for (Node successornode : successors)) {  
+)) {} } for (Node successornode : successors)) {  
+)) {} } for (Node successor (node)) {  
+)) {}  public boolean search(Node node)) {  
+)) {} } For (Node node : node)) {  
+)) {} while (!nodesvisited.isEmpty() ()) {  
+)) {} boolean search(Iterator<Node> successors)) {  
+if(successornodes==null){return  false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } else;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search goalnodes;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return true;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return ; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } else;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask5>};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask1> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Class Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask5> };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search node;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask3>};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } <mask3> false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } } ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} else;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>};;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } Search goalnodes;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>true;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask1> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;}};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search goal;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask1> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } true;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search s;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} Search goalnodes;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>false;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask5> };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search s;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  null; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;<mask3> true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false ;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3> true;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3> false;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask3> false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;  };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;}};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } return false;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return true;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search successornodes;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } };;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search current node;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } <mask3> true;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask5>};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search children;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return true;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } ...;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } class Search(){;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } class Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>; } ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask3> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3> true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search scope;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Class Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true;} //;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3>; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false}; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search algorithm;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search successors;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search goal node;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; }  ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask1> false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} search(node);;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } ;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } return false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } else {;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }   ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } classes Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search successors;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} return false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } Class Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false};;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false ;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>}  ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }else;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask5>};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask3> };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } boolean contains;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3>; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask1> false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} else;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return true;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask5> };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false ; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search object;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> true;}  ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false;} //;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } return true;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search goals;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  Search;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } <mask3> true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;<mask1> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  null;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return ;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } else { ...;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask1> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } }  ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask1> true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } else { ... };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search nodes;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} else;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;} return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search child nodes;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return true;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} return true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }<mask1> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false;} Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } Search node;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } } ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search results;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } return false;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask3>;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search a node;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search goal nodes;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true<mask1> false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return ;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } } //;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true;}};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  Search algorithm;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true; } class Search(){;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Search.prototype;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false<mask3> false; } //;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; } Class Search {;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false; }  Search node;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return true;};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  supernode;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false false;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return false};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  true ;;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false ;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  false};;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  };} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return ;}};} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  undefined;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return };;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){return  this;} for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=null; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=node; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[]; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=startnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nodesvisited; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=goalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet<>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=goalnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new ArrayList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=this; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=startNode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[]; }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=init; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Set; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getSuccessors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=newHashSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet <>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=endnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=0; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initial; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new LinkedList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=all; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=set; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= null; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=parent; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=null;}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet();}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new ArrayList<>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=children; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=NodeSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= new HashSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=null }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[], }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Node[]; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nodes visited; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=n; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=graph; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=root; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= startnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nil; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= node; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=startnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=next; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= nodesvisited; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=clone; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=list; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=end; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=endnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=allnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=visit; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new TreeSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=scope; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= []; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[]); } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=iter; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=null}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= goalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=empty; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=newNode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=successors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=null; }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getSuccessorNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=goals; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=begin; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= successors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[]; } }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new ArrayList <>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= goalnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=rootnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=range; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=parents; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= nodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=array; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[],}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initSuccessors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=siblings; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nodesVisited; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=copy; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=defaultSuccessornodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initSuccessorNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=supernode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=search; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initialnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=fallbacknodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new LinkedList<>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initialising; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=targetnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initialnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Stack; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[],; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes={}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nextnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=vertexes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Array; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=map; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= []; }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Arrays.asList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=self; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initSuccessornodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new LinkedHashSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Node[]; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=NULL; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=collect; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new NodeSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=rootnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Node; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashMap; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new List; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=add; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=true; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=parentnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getAllNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=reset; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initials; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=edges; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=rootNode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=supernodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initialize; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= successornodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new ArrayDeque; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet(); } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=targetnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getChildren; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=newSet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=...; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=stopnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getSuccessors(); } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=head; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=EMPTY; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=roots; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nextnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=false; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=... }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=1; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=emptyNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Set<>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=heads; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getNodeList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=setup; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Goals; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=defaultSuccessorNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=defaultsuccessors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new NullNode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=document; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=NodeList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= new ArrayList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=neighbors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=goal; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Set[]; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=seed; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=N; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=othernodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=noop; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=query; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=step; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashMap<>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=results; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=start; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=current; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new NodeList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=first; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=fallback; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[]) {}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=[]){}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=successornodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=NODES; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=defaultSuccessors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getSuccessornodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=createSuccessors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=path; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=original; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=vertexnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=originalnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=vertex; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Node.EMPTY; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=branches; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=emptySet; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Vector; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=allNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nodesseen; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=length; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=visitAll; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=init() }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Object[]; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=branch; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Collections.emptyList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=defaultnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=NodeList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=undefined; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=List; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=sourcenodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Node.all; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Node.NULL; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=vars; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initParents; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= initial; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= new HashSet<>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=currentnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=gov; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initSuccessor; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes={} }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=ArrayDeque; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initialNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initNode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=s; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= nodes visited; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=prevnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=history; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=dag; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=build; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Null; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=stop; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initial; }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=points; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Nodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=visited; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Set; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=graph.nodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=this; }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=newArrayList; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= new HashSet <>; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=headnode; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet()}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= this; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=seednodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=memo; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=nodes; }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Collection; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=it; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=m; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=init(); }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=init successors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet[]; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= null }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new HashSet(){}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getChildren() }; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=Node[]{}; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=getDefaultSuccessorNodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initSuccessors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes= getSuccessors; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initialise; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=List.nil; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=new Node; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=all_nodes; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=System.identity; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=NodeIterator; } for (Node successornodes : node.getSuccessors()) {  
+if(successornodes==null){ successornodes=initial_nodes; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask5> };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask5>};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search goalnodes;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } } ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask1> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Class Search;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>};;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }  };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { ...;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3> false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search goal;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3>;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false;} ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;}};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }  };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask1> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { Nodes visited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {...;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }  };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } return false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { add node;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } <mask3> false;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return ; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3>};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask1> false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} return false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search node;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; }else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask5>};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;  };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;}};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { ... };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask5> };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false ;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask1> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>true;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3>;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } <mask3> true;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } return false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } Search goalnodes;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } <mask3>; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }  ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false; } else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } return true;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>;};;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } ...;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;}  };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask1> true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { nodesvisited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return ; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3> false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} Search goalnodes;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { node;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } //TODO;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search s;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; }   };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } };;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false}; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;<mask3> false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } ...;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search children;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } Class Search;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false};;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask5> ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask5> return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;<mask5> };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;<mask3> true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} Search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {include;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} Search;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { // recurse;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } search goalnode;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  return false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } break;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;} else;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true;} };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } }  ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {visited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false;} false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;<mask3> false; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } ;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } class Search;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { add nodes;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search current node;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search scope;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } } ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } <mask3> true};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask1> false; } };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search goal node;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } Search s;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } <mask3> true;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } } //;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { visited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; }  ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false<mask3> false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true<mask3> true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } else { ...;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; }};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { break;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return true; };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } Search goal;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } boolean contains;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { do {;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {nodesvisited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {add node;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; } } ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false<mask3>;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { addnodes;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { ...;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>.;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3>}.;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return true;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false<mask3>};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } } //;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { //visited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { set visited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {add nodes;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> false; } //;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  null;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true; } else { Nodes visited;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else {visited nodes;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } class Search(){;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { addnode;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true;}};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false<mask3> true; } } ;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false; } else { //recursion;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return false;};} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  false false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true ;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  return false;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return ;;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  true };} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){return  -1;} for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=startnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= goalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=this; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goal; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=startNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=null; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=parent; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=endnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= startnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=root; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initial; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=begin; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=next; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=end; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=first; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=start; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=init; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=scope; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=head; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalnode;}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=targetnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=nextnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=GOAL; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=rootNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=GoalNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=defaultnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=this; }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=self; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goals; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=StartNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=defaultNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=START; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=current; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=0; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goe; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=visit; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=gov; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=Goal; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=null;}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initialnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new NullNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=mainnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=step; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=firstnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=study; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=fallbacknode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=headnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=fallback; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= goal; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalnode}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=startingnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=startDate; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=rootnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=prevnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=supernode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=nodegoal; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=undefined; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=noop; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=graph; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=1; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=beginNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= START; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=vertex; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=UNDEFINED; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=Start; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=null }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=true; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= goalnode }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=currentnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalnode }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=default; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=prototype; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goenode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=NULL; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=from; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=dflt; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=createNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initial; }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=dfltnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=nil; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=node1; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=topnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=target; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=basenode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= this; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=branch; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=stepnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getRootNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=false; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= endnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=child; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=nodeName; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=main; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=nextNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=document; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=first_node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initialNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=ROOT; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=gogoal; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=base; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Node(){}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=Goals; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=stopnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=create; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=prev; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=lead; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=other; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=top; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=node.next; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=copy; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=this.node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=startState; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initialising; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=this;}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=Node.NULL; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= successornodes; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=seed; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=Me; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=firstNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new RootNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=node.parent; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= initial; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=stage; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=newNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initial_node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=DEFAULT; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Parent; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=currentNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=sentinel; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Object; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=add; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=lastnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=SELF; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= null; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=endnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=System.identity; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=superNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=path; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=meaningful; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=startnode;}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=body; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goes; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getStartNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=reset; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=g; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=last; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=ancestor; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new TreeNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=default_node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=definition; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Node(); } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goal; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalsink; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=null; }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=parentnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goal; }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=node.getParent; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getFirstNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=obj; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=stop; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=factory; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=go; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=null}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new NodeImpl; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=studynode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=global; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Root; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=n; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=Object; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=work; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= GoalNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= goals; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=build; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=leaf; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=[]; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getNextNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=search; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=source; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=sourcenode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getHead; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=newNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=endNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=initialise; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getDefaultNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=needlenode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=lhs; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=starting; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=home; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=..; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=thisNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=parents; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= parent; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getRoot; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=owner; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goal node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=GoalNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Vertex; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=worknode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=addNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=NOOP; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=node itself; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=Goal; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getCurrentNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=god; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=targetNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= goalnode;}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=nodesvisited; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goto; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=setStartnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=this node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=shift; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=original; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=graph.root; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=prog; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=primary; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=othernode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=gov; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=dummy; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=empty; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=tail; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=workspace; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=begin; }; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=creator; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=startnode}; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=BaseNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node= goalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=beginning; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=makeNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new Search; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=buildNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=defaultSearch; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=node.getNext; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=gobblin; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=gogoalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goessnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new EmptyNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new DefaultNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=DEFAULT_NODE; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=getHeadNode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=init_node; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=defaultgoalnode; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=goalnodes; } for (Node successornodes : node.getSuccessors()) {  
+if(node==null){ node=new LinkedList; } for (Node successornodes : node.getSuccessors()) {  
+if(node != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(debug){ for (Node successornodes : node.getSuccessors()) {}  
+if(successornodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(DEBUG){ for (Node successornodes : node.getSuccessors()) {}  
+if(true){ for (Node successornodes : node.getSuccessors()) {}  
+if(verbose){ for (Node successornodes : node.getSuccessors()) {}  
+if(node == goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(recursive){ for (Node successornodes : node.getSuccessors()) {}  
+if(recurse){ for (Node successornodes : node.getSuccessors()) {}  
+if(node!=goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(visit(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(false){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(node != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(deep){ for (Node successornodes : node.getSuccessors()) {}  
+if(successornodes!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(nodesvisited.isEmpty()){ for (Node successornodes : node.getSuccessors()) {}  
+if(successors != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(goalnode)){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode != node){ for (Node successornodes : node.getSuccessors()) {}  
+if( node != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(node)==false){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth > 1){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(iterative){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.hasSuccessors()){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth == 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(nodesvisited != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(successornodes){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode == node){ for (Node successornodes : node.getSuccessors()) {}  
+if(contains(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(nodesvisited == null){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent == goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(reverse){ for (Node successornodes : node.getSuccessors()) {}  
+if(null != successornodes){ for (Node successornodes : node.getSuccessors()) {}  
+if(reachable){ for (Node successornodes : node.getSuccessors()) {}  
+if(startnode != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(goalnode))){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth==0){ for (Node successornodes : node.getSuccessors()) {}  
+if(greedy){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>true; }){ for (Node successornodes : node.getSuccessors()) {}  
+if( recurse){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(startNode != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.hasChildren()){ for (Node successornodes : node.getSuccessors()) {}  
+if(strict){ for (Node successornodes : node.getSuccessors()) {}  
+if(goenodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>false;){ for (Node successornodes : node.getSuccessors()) {}  
+if(trace){ for (Node successornodes : node.getSuccessors()) {}  
+if(node==goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(node))){ for (Node successornodes : node.getSuccessors()) {}  
+if(LOGGER.isDebugEnabled()){ for (Node successornodes : node.getSuccessors()) {}  
+if(false<mask3>true; }){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(recursion){ for (Node successornodes : node.getSuccessors()) {}  
+if(visited == null){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>false; }){ for (Node successornodes : node.getSuccessors()) {}  
+if(visit(goalnode)){ for (Node successornodes : node.getSuccessors()) {}  
+if(yes){ for (Node successornodes : node.getSuccessors()) {}  
+if(successonodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(node){ for (Node successornodes : node.getSuccessors()) {}  
+if(debug != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode != startnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(nodesvisited!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isTerminal()){ for (Node successornodes : node.getSuccessors()) {}  
+if(step > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode!=node){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(node)==true){ for (Node successornodes : node.getSuccessors()) {}  
+if(successors!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(false<mask3>true;}){ for (Node successornodes : node.getSuccessors()) {}  
+if(false<mask3>true}){ for (Node successornodes : node.getSuccessors()) {}  
+if(done){ for (Node successornodes : node.getSuccessors()) {}  
+if(nodesvisited==null){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>true;}){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>true}){ for (Node successornodes : node.getSuccessors()) {}  
+if(scope){ for (Node successornodes : node.getSuccessors()) {}  
+if(follows){ for (Node successornodes : node.getSuccessors()) {}  
+if(successorsnodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(successorynodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(node is goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(successors == null){ for (Node successornodes : node.getSuccessors()) {}  
+if(node !=goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(dots){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent != node){ for (Node successornodes : node.getSuccessors()) {}  
+if(ascending){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth > 2){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth == 1){ for (Node successornodes : node.getSuccessors()) {}  
+if(return true; }){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth==1){ for (Node successornodes : node.getSuccessors()) {}  
+if(deepSearch){ for (Node successornodes : node.getSuccessors()) {}  
+if(optimize){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isInstantiated()){ for (Node successornodes : node.getSuccessors()) {}  
+if( true){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent==goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(iterate(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(visited==null){ for (Node successornodes : node.getSuccessors()) {}  
+if(backward){ for (Node successornodes : node.getSuccessors()) {}  
+if( verbose){ for (Node successornodes : node.getSuccessors()) {}  
+if(visited != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(recursiveSearch){ for (Node successornodes : node.getSuccessors()) {}  
+if(this != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isReachable()){ for (Node successornodes : node.getSuccessors()) {}  
+if(node > goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(goals){ for (Node successornodes : node.getSuccessors()) {}  
+if(node!= goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(contains(goalnode)){ for (Node successornodes : node.getSuccessors()) {}  
+if(visited){ for (Node successornodes : node.getSuccessors()) {}  
+if(traverse){ for (Node successornodes : node.getSuccessors()) {}  
+if(startnode == goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(visiting){ for (Node successornodes : node.getSuccessors()) {}  
+if(step != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth <= 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent == node){ for (Node successornodes : node.getSuccessors()) {}  
+if(debug<mask1>debug){ for (Node successornodes : node.getSuccessors()) {}  
+if(enabled){ for (Node successornodes : node.getSuccessors()) {}  
+if(visit){ for (Node successornodes : node.getSuccessors()) {}  
+if(return true; } }){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>true;){ for (Node successornodes : node.getSuccessors()) {}  
+if(skip){ for (Node successornodes : node.getSuccessors()) {}  
+if( successornodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(branch){ for (Node successornodes : node.getSuccessors()) {}  
+if(visit(node))){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth>0){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnodes!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>false)){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode==node){ for (Node successornodes : node.getSuccessors()) {}  
+if(childs){ for (Node successornodes : node.getSuccessors()) {}  
+if( search(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(false<mask3>true;){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(goalnodes)){ for (Node successornodes : node.getSuccessors()) {}  
+if(keepgoing){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isTerminal){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isPredecessor()){ for (Node successornodes : node.getSuccessors()) {}  
+if(deep_search){ for (Node successornodes : node.getSuccessors()) {}  
+if(sort){ for (Node successornodes : node.getSuccessors()) {}  
+if(startNode == goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(searching){ for (Node successornodes : node.getSuccessors()) {}  
+if(goe != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(deep==true){ for (Node successornodes : node.getSuccessors()) {}  
+if(reversed){ for (Node successornodes : node.getSuccessors()) {}  
+if(scope != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(isLeaf){ for (Node successornodes : node.getSuccessors()) {}  
+if(visit(node)==false){ for (Node successornodes : node.getSuccessors()) {}  
+if(test){ for (Node successornodes : node.getSuccessors()) {}  
+if(followednodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(degree > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(search != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(false<mask1>true<mask2>true){ for (Node successornodes : node.getSuccessors()) {}  
+if(log.isDebugEnabled()){ for (Node successornodes : node.getSuccessors()) {}  
+if(successorsvisited != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(nodesvisited.clear()){ for (Node successornodes : node.getSuccessors()) {}  
+if(node != goal){ for (Node successornodes : node.getSuccessors()) {}  
+if(debug == true){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask1>false)){ for (Node successornodes : node.getSuccessors()) {}  
+if(follows(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(nodesvisited.isEmpty())){ for (Node successornodes : node.getSuccessors()) {}  
+if(roots){ for (Node successornodes : node.getSuccessors()) {}  
+if(search==false){ for (Node successornodes : node.getSuccessors()) {}  
+if(reachable(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(subgoalnodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(loops){ for (Node successornodes : node.getSuccessors()) {}  
+if(source == goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(isReachable(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(stop){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth <= 1){ for (Node successornodes : node.getSuccessors()) {}  
+if(results){ for (Node successornodes : node.getSuccessors()) {}  
+if(maxdepth > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(path != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(maxDepth > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(debugMode){ for (Node successornodes : node.getSuccessors()) {}  
+if(fallback){ for (Node successornodes : node.getSuccessors()) {}  
+if(debug!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(node != startnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(node instanceof DFSNode){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isLeaf()){ for (Node successornodes : node.getSuccessors()) {}  
+if(iterativeSearch){ for (Node successornodes : node.getSuccessors()) {}  
+if(debug==true){ for (Node successornodes : node.getSuccessors()) {}  
+if(successornodes !=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>false}){ for (Node successornodes : node.getSuccessors()) {}  
+if(parents){ for (Node successornodes : node.getSuccessors()) {}  
+if(visited!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(includeDescendants){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask1>false<mask2>true){ for (Node successornodes : node.getSuccessors()) {}  
+if(traversing){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3> false; }){ for (Node successornodes : node.getSuccessors()) {}  
+if(currentnode != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(node!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(breadth first search){ for (Node successornodes : node.getSuccessors()) {}  
+if(goe){ for (Node successornodes : node.getSuccessors()) {}  
+if(goe == goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(children != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(length > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(debugEnabled){ for (Node successornodes : node.getSuccessors()) {}  
+if(parent!=goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(useDepthFirstSearch){ for (Node successornodes : node.getSuccessors()) {}  
+if(goenodes!=null){ for (Node successornodes : node.getSuccessors()) {}  
+if(source != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(deep==false){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(startNode)){ for (Node successornodes : node.getSuccessors()) {}  
+if(contains(node))){ for (Node successornodes : node.getSuccessors()) {}  
+if(step > 1){ for (Node successornodes : node.getSuccessors()) {}  
+if(hasSuccessors){ for (Node successornodes : node.getSuccessors()) {}  
+if(test(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isLoop()){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnode!=startnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(use_recursive){ for (Node successornodes : node.getSuccessors()) {}  
+if(search==null){ for (Node successornodes : node.getSuccessors()) {}  
+if(successors==null){ for (Node successornodes : node.getSuccessors()) {}  
+if(search == null){ for (Node successornodes : node.getSuccessors()) {}  
+if(order > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(debug==false){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth() > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(goalnodes){ for (Node successornodes : node.getSuccessors()) {}  
+if(accept(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if( search(goalnode)){ for (Node successornodes : node.getSuccessors()) {}  
+if(current == goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(score > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(depth != 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(hasSuccessors(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(deep == true){ for (Node successornodes : node.getSuccessors()) {}  
+if(goe != goalnode){ for (Node successornodes : node.getSuccessors()) {}  
+if(level > 0){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isLeft()){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask1>true<mask2>false){ for (Node successornodes : node.getSuccessors()) {}  
+if(traverse(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(visitNode(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(visit(node)==true){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isAlive()){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(node)>=0){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isBranch()){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(startnode)){ for (Node successornodes : node.getSuccessors()) {}  
+if( successornodes != null){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isForward()){ for (Node successornodes : node.getSuccessors()) {}  
+if(iterate(goalnode)){ for (Node successornodes : node.getSuccessors()) {}  
+if(isVisited(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(node != goalnode)){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>true;}){ for (Node successornodes : node.getSuccessors()) {}  
+if(true<mask3>false;}){ for (Node successornodes : node.getSuccessors()) {}  
+if(return false; } }){ for (Node successornodes : node.getSuccessors()) {}  
+if(hasChildren(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(step(node)){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isPredecessor){ for (Node successornodes : node.getSuccessors()) {}  
+if(search(goalnodes))){ for (Node successornodes : node.getSuccessors()) {}  
+if(node.isNode()){ for (Node successornodes : node.getSuccessors()) {}  

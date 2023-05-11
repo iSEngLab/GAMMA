@@ -1,0 +1,3000 @@
+ return i;  
+ int j = 0;  
+ int pos = offset;  
+ int j;  
+ return i - pos;  
+ int offset = pos;  
+ int j = pos;  
+ ;  
+ for;  
+ int count = 0;  
+ return offset - pos;  
+ int pos = 0;  
+ int j = 1;  
+ int last = i;  
+;  
+ int length = input.length;  
+ int i;  
+ int j=0;  
+ return offset;  
+ int i = pos;  
+ int offset = pos - 1;  
+ int next = pos;  
+ int j = offset;  
+ i = 0;  
+ int len = length - pos;  
+ int index = pos;  
+ //return i;  
+ i = 0;  
+ return i + 1;  
+ return j;  
+ int pos = offset;  
+ int j = pos - 1;  
+ int length = pos - offset;  
+ int pos = offset - pos;  
+ int pos = offset + length;  
+ int pos = pos + 1;  
+ int end = pos;  
+ ++pos;  
+ return i-1;  
+ return -1;  
+ int pos = pos + length;  
+ --;  
+ int pos = offset - length;  
+ end;  
+ int i = 0;  
+ return i;  
+ int start = pos;  
+ int index = 0;  
+ index;  
+ int pos = offset - 1;  
+ int pos = offset + 1;  
+ int offset = pos + 1;  
+ int len = 0;  
+ int j = i;  
+ int nextIndexOf = 0;  
+ int length = length - pos;  
+ int last = 0;  
+ int last = pos;  
+ int n = 0;  
+ int offset;  
+ int offset = 0;  
+ int count;  
+ return last;  
+ int j = -1;  
+ int pos = i;  
+ int j = pos + 1;  
+ return i-pos;  
+ ++offset;  
+ int idx = pos;  
+ int pos = pos - 1;  
+ return 0;  
+  return i;  
+ int index = pos - 1;  
+ int j = 0;  
+ return i+1;  
+ int nextIndexOf = -1;  
+ int last;  
+ int next = 0;  
+  return i;  
+ int len = input.length;  
+ int j;  
+ Int;  
+ i = pos;  
+ int offset = pos - length;  
+ int last = last + 1;  
+ int length = pos - pos;  
+ int last = last;  
+ --i;  
+ int last = length - 1;  
+ i = pos;  
+ int next = pos + 1;  
+ for (;  
+ };  
+ int next = i;  
+ int current = pos;  
+ int len = pos - offset;  
+ int idx = 0;  
+ --last;  
+ int j=pos;  
+ loop;  
+ int last = -1;  
+ return ++pos;  
+ int len = length;  
+ int start = i;  
+ return ++i;  
+ int j = length - 1;  
+ int offset = pos;  
+ int i = pos - 1;  
+ int offset = pos + length;  
+ int start = offset;  
+ int j;;  
+ i = offset;  
+ int nextIndexOf = pos;  
+ int len = length - offset;  
+ return index;  
+ int j=1;  
+ offset += length;  
+ return i - pos + 1;  
+ i++;;  
+ i;  
+ // last;  
+ int j = pos;  
+ while;  
+ int i = offset;  
+ int max = pos;  
+ return i --;  
+ start;  
+ i = offset;  
+ int n = length - pos;  
+ return i - 1;  
+ int offset = pos + offset;  
+ ;  
+ return i - pos - 1;  
+ int offset2 = pos;  
+ int first = pos;  
+ int len;  
+ int c = 0;  
+ int length = pos - length;  
+ int j = j + 1;  
+ index;  
+ for;  
+ i += 1;  
+  };  
+ do;  
+ int j = length;  
+ return ++offset;  
+ int last = i - 1;  
+ int total = 0;  
+ int pos = pos + offset;  
+ int length = 0;  
+ int end = offset;  
+ int length = length;  
+ int pos = pos;  
+ return i;  
+ int pos = i + 1;  
+ int end = offset + length;  
+ int position = pos;  
+ int next = i + 1;  
+ return i - offset;  
+ char c = 0;  
+ int start = 0;  
+ continue;  
+   return i;  
+ return --pos;  
+ int end = pos + length;  
+ i += 1;  
+ index = i;  
+ int length = pos + length;  
+ int lastPos = pos;  
+ i++;  
+ index = 0;  
+ i--;  
+     return i;  
+ int count = 1;  
+ int p = pos;  
+ int offset = pos - offset;  
+ int j = 2;  
+ int j = offset - pos;  
+ int prev = pos - 1;  
+ int next = offset;  
+ int next = pos + length;  
+ i += length;  
+ int idx = pos - 1;  
+ ++pos;  
+ return i + offset;  
+ i += length;  
+ int sum = 0;  
+ int end = i;  
+ int pos = 0;  
+ int max = length;  
+ return --;  
+ int start;  
+ int next = -1;  
+ int last = length;  
+   ;  
+ int prev = pos;  
+ return i-offset;  
+ int first = i;  
+ int len = pos - pos;  
+ char j = 0;  
+ int max = length - pos;  
+i = 0;  
+ ++ offset;  
+ int startPos = pos;  
+ return i; };  
+ i --;  
+ int offset2;  
+ int len = offset - pos;  
+ int cnt = 0;  
+ int n = pos - offset;  
+ int last = offset;  
+ ++i;  
+ int start = pos - 1;  
+ --offset;  
+ int nextOffset = pos;  
+ int pos = 1;  
+ //last;  
+ i++;  
+ return i - pos;  
+ int index = pos - offset;  
+ int pos = last;  
+ int end;  
+ index = offset;  
+ int limit = pos;  
+ int n = pos - pos;  
+ int j = offset + 1;  
+ int first = pos - 1;  
+ ++offset;  
+ while (--i >= 0;  
+ int pos = i - 1;  
+ int length = pos;  
+ int n = 1;  
+ return --offset;  
+ i = last;  
+ int position = 0;  
+ i --;  
+ char nextChar = null;  
+ int end = i + length;  
+ int index = pos + 1;  
+ char next = 0;  
+ int nextPos = pos;  
+  ;  
+ char startChar;  
+ int first = 0;  
+ int nextIndex = pos;  
+ int found = -1;  
+ int result = -1;  
+ for (;;);  
+ int next = i + length;  
+ i = pos - 1;  
+ return i; if (offset < length) {  
+ return i; if (offset < length) {  
+ return i - pos; if (offset < length) {  
+ }; if (offset < length) {  
+ int j; if (offset < length) {  
+ ; if (offset < length) {  
+ int j = 0; if (offset < length) {  
+ for; if (offset < length) {  
+ int offset = pos; if (offset < length) {  
+ }; if (offset < length) {  
+ return offset; if (offset < length) {  
+ return i + 1; if (offset < length) {  
+ int offset = pos; if (offset < length) {  
+ int j; if (offset < length) {  
+ return i - pos; if (offset < length) {  
+ return offset - pos; if (offset < length) {  
+ return i-1; if (offset < length) {  
+ return j; if (offset < length) {  
+ for; if (offset < length) {  
+; if (offset < length) {  
+ int j = pos; if (offset < length) {  
+ return last; if (offset < length) {  
+  }; if (offset < length) {  
+ int pos = offset; if (offset < length) {  
+ index; if (offset < length) {  
+ ++offset; if (offset < length) {  
+ return i+1; if (offset < length) {  
+ index; if (offset < length) {  
+ return i; }; if (offset < length) {  
+ int j = 0; if (offset < length) {  
+ int pos = offset; if (offset < length) {  
+ int i; if (offset < length) {  
+ --offset; if (offset < length) {  
+ return i --; if (offset < length) {  
+ i = 0; if (offset < length) {  
+ int j = 1; if (offset < length) {  
+ ++pos; if (offset < length) {  
+ i = pos; if (offset < length) {  
+ ++offset; if (offset < length) {  
+ return 0; if (offset < length) {  
+ return -1; if (offset < length) {  
+ ++pos; if (offset < length) {  
+}; if (offset < length) {  
+ i; if (offset < length) {  
+ return i-pos; if (offset < length) {  
+ --i; if (offset < length) {  
+ return last; if (offset < length) {  
+ int pos = 0; if (offset < length) {  
+ --last; if (offset < length) {  
+ int j=0; if (offset < length) {  
+ return ++i; if (offset < length) {  
+ return i + 1; if (offset < length) {  
+ } }; if (offset < length) {  
+ //return i; if (offset < length) {  
+ int j = pos; if (offset < length) {  
+ } }; if (offset < length) {  
+  return i; if (offset < length) {  
+ return index; if (offset < length) {  
+ end; if (offset < length) {  
+ --pos; if (offset < length) {  
+ int next = pos; if (offset < length) {  
+ return offset; if (offset < length) {  
+ int pos = 0; if (offset < length) {  
+ i++; if (offset < length) {  
+ return i}; if (offset < length) {  
+ return ++offset; if (offset < length) {  
+ return i<mask1> }; if (offset < length) {  
+ int last = i; if (offset < length) {  
+ return i-1; if (offset < length) {  
+ return ++pos; if (offset < length) {  
+ --; if (offset < length) {  
+ return i + offset; if (offset < length) {  
+ int index = pos; if (offset < length) {  
+ int count = 0; if (offset < length) {  
+ i; if (offset < length) {  
+ end; if (offset < length) {  
+  }; if (offset < length) {  
+ i --; if (offset < length) {  
+ return j; if (offset < length) {  
+ int i = pos; if (offset < length) {  
+  return i; if (offset < length) {  
+ int i; if (offset < length) {  
+ return i - 1; if (offset < length) {  
+ int pos = pos; if (offset < length) {  
+ } ; if (offset < length) {  
+ int last = pos; if (offset < length) {  
+ int offset; if (offset < length) {  
+ int j = offset; if (offset < length) {  
+ return i --; if (offset < length) {  
+ return --; if (offset < length) {  
+ int j = 1; if (offset < length) {  
+ } else; if (offset < length) {  
+ ++ offset; if (offset < length) {  
+   ; if (offset < length) {  
+ }; if (offset < length) {  
+     return i; if (offset < length) {  
+   return i; if (offset < length) {  
+++offset; if (offset < length) {  
+ return i; }; if (offset < length) {  
+ return i+1; if (offset < length) {  
+ ; if (offset < length) {  
+ int end = pos; if (offset < length) {  
+ int last = pos; if (offset < length) {  
+    }; if (offset < length) {  
+ int offset; if (offset < length) {  
+ return -1; if (offset < length) {  
+ while; if (offset < length) {  
+ return offset - pos; if (offset < length) {  
+ int offset = 0; if (offset < length) {  
+ int index = 0; if (offset < length) {  
+ i = 0; if (offset < length) {  
+ return i++; if (offset < length) {  
+return i; if (offset < length) {  
+ int j;; if (offset < length) {  
+   }; if (offset < length) {  
+ return i-offset; if (offset < length) {  
+ Int; if (offset < length) {  
+ ++i; if (offset < length) {  
+ } }; if (offset < length) {  
+ i = offset; if (offset < length) {  
+ return i }; if (offset < length) {  
+ int idx = pos; if (offset < length) {  
+ return i - pos }; if (offset < length) {  
+ int count; if (offset < length) {  
+ return --offset; if (offset < length) {  
+ int j=0; if (offset < length) {  
+ for (;;); if (offset < length) {  
+ i++;; if (offset < length) {  
+ int len = 0; if (offset < length) {  
+ int j = i; if (offset < length) {  
+ ++i; if (offset < length) {  
+ int start = pos; if (offset < length) {  
+ return i<mask1> }; if (offset < length) {  
+ i--; if (offset < length) {  
+ return startChar; if (offset < length) {  
+ last; if (offset < length) {  
+ int last; if (offset < length) {  
+ return --pos; if (offset < length) {  
+ nextChar; if (offset < length) {  
+ next; if (offset < length) {  
+  } }; if (offset < length) {  
+ i++; if (offset < length) {  
+ return offset-pos; if (offset < length) {  
+ return i ++; if (offset < length) {  
+ <mask5>}; if (offset < length) {  
+ loop; if (offset < length) {  
+ } }; if (offset < length) {  
+ return i; if (offset < length) {  
+ pos += 1; if (offset < length) {  
+ i = pos - 1; if (offset < length) {  
+ return offset - pos }; if (offset < length) {  
+ continue; if (offset < length) {  
+ int j=pos; if (offset < length) {  
+ int nextIndexOf = pos; if (offset < length) {  
+ return i<mask5> }; if (offset < length) {  
+ int i = 0; if (offset < length) {  
+ int j=1; if (offset < length) {  
+ return i }; if (offset < length) {  
+ int last = 0; if (offset < length) {  
+ for (;;) {; if (offset < length) {  
+ --; if (offset < length) {  
+ return 1; if (offset < length) {  
+ return; if (offset < length) {  
+ return idx; if (offset < length) {  
+ return i - 1; if (offset < length) {  
+ int n = 0; if (offset < length) {  
+ loop; if (offset < length) {  
+ return i - offset; if (offset < length) {  
+ return i}; if (offset < length) {  
+ return i + offset; if (offset < length) {  
+ i += 1; if (offset < length) {  
+ // found full sequence; if (offset < length) {  
+ do; if (offset < length) {  
+ ++ pos; if (offset < length) {  
+ 0; if (offset < length) {  
+ int pos = i; if (offset < length) {  
+++pos; if (offset < length) {  
+ return 0; if (offset < length) {  
+ found full sequence; if (offset < length) {  
+ // last; if (offset < length) {  
+ int index = pos; if (offset < length) {  
+ ..; if (offset < length) {  
+ i = pos; if (offset < length) {  
+ ...; if (offset < length) {  
+ return ++i; if (offset < length) {  
+ i = 1; if (offset < length) {  
+ return i<mask1>}; if (offset < length) {  
+ ++; if (offset < length) {  
+ int end = pos; if (offset < length) {  
+ int next = 0; if (offset < length) {  
+ for (; if (offset < length) {  
+ int count = 0; if (offset < length) {  
+ index = i; if (offset < length) {  
+ int last; if (offset < length) {  
+ return i + pos; if (offset < length) {  
+ int last = i; if (offset < length) {  
+         return i; if (offset < length) {  
+ int idx = 0; if (offset < length) {  
+  ; if (offset < length) {  
+ i++;; if (offset < length) {  
+ found full sequence; if (offset < length) {  
+ int pos = i; if (offset < length) {  
+ <mask3>}; if (offset < length) {  
+ //last; if (offset < length) {  
+ position; if (offset < length) {  
+ int next = i; if (offset < length) {  
+ int offset = 0; if (offset < length) {  
+ -- offset; if (offset < length) {  
+ return i / length; if (offset < length) {  
+ return ++pos; if (offset < length) {  
+ return --i; if (offset < length) {  
+ i ++; if (offset < length) {  
+ return offset<mask1> }; if (offset < length) {  
+ -1; if (offset < length) {  
+ return i + j; if (offset < length) {  
+ return offset + i; if (offset < length) {  
+ return offset + 1; if (offset < length) {  
+ int next = pos; if (offset < length) {  
+; }; if (offset < length) {  
+ start; if (offset < length) {  
+ return nextIndexOf; if (offset < length) {  
+ <mask3> }; if (offset < length) {  
+ return i--; if (offset < length) {  
+ int i = pos; if (offset < length) {  
+ pos = i; if (offset < length) {  
+ while; if (offset < length) {  
+ return ++offset; if (offset < length) {  
+ <mask3> }; if (offset < length) {  
+ int start = pos; if (offset < length) {  
+ return i+offset; if (offset < length) {  
+ offset++; }; if (offset < length) {  
+ index = 0; if (offset < length) {  
+ last = i; if (offset < length) {  
+ int j = offset; if (offset < length) {  
+ return i + j; if (offset < length) {  
+ int offset - pos; if (offset < length) {  
+ continue; if (offset < length) {  
+ break; if (offset < length) {  
+ } else {; if (offset < length) {  
+ next(seq); if (offset < length) {  
+ int offset;; if (offset < length) {  
+ pos++; }; if (offset < length) {  
+ return first; if (offset < length) {  
+ i = pos + 1; if (offset < length) {  
+ int current = pos; if (offset < length) {  
+ offset += length; }; if (offset < length) {  
+ int idx = pos; if (offset < length) {  
+ return i<mask5>}; if (offset < length) {  
+ return offset}; if (offset < length) {  
+ return i<mask1> } }; if (offset < length) {  
+if (offset  < last && offset < input. length) {  
+if (offset  < last- length) {  
+if (offset  < input. length) {  
+if (offset  < length && offset < input. length) {  
+if (offset  < last+ length) {  
+if (offset  < length && last < input. length) {  
+if (offset  < length && i < input. length) {  
+if (offset  < seq. length) {  
+if (offset  < length && i < seq. length) {  
+if (offset  < last && i < input. length) {  
+if (offset  < length) {  
+if (offset  < last + input. length) {  
+if (offset  < last + seq. length) {  
+if (offset  < length && offset < seq. length) {  
+if (offset  < length && pos < input. length) {  
+if (offset  < last && pos < input. length) {  
+if (offset  < end- length) {  
+if (offset  < last. length) {  
+if (offset  < length && i < last. length) {  
+if (offset  < last && i < seq. length) {  
+if (offset  < last && offset < seq. length) {  
+if (offset  < last && last < input. length) {  
+if (offset  < last - input. length) {  
+if (offset  < sequence. length) {  
+if (offset  < last || offset >= input. length) {  
+if (offset  == input. length) {  
+if (offset  < length && i < last- length) {  
+if (offset  < tail. length) {  
+if (offset  < last || offset > input. length) {  
+if (offset  < length || i < seq. length) {  
+if (offset  < last || offset == input. length) {  
+if (offset  < length && i < sequence. length) {  
+if (offset  <= last && offset < input. length) {  
+if (offset  < startChar. length) {  
+if (offset  < length && i == input. length) {  
+if (offset  == length && i < input. length) {  
+if (offset  < length && pos < seq. length) {  
+if (offset  <= input. length) {  
+if (offset  < length && i < last+ length) {  
+if (offset  < length || offset >= input. length) {  
+if (offset  < last < input. length) {  
+if (offset  < last && offset <= input. length) {  
+if (offset  < length || i == input. length) {  
+if (offset  < length - seq. length) {  
+if (offset  < offset+ length) {  
+if (offset  < pos+ length) {  
+if (offset  < pos + seq. length) {  
+if (offset  < last && pos < seq. length) {  
+if (offset  < i+ length) {  
+if (offset  < first. length) {  
+if (offset  == last && offset < input. length) {  
+if (offset  < last && length < input. length) {  
+if (offset  <  length) {  
+if (offset  < length || offset == input. length) {  
+if (offset  < end length) {  
+if (offset  == length && offset < input. length) {  
+if (offset  < last || offset < input. length) {  
+if (offset  < length && length < input. length) {  
+if (offset  < length && offset < last. length) {  
+if (offset  < length && i == seq. length) {  
+if (offset  < end_ length) {  
+if (offset  < last || i == input. length) {  
+if (offset  < length + seq. length) {  
+if (offset  < length- length) {  
+if (offset < length) {  
+if (offset  < length || offset > input. length) {  
+if (offset  == length) {  
+if (offset  >= length && offset < input. length) {  
+if (offset  <= length && offset < input. length) {  
+if (offset  <  input. length) {  
+if (offset  < end. length) {  
+if (offset  < length && offset < last+ length) {  
+if (offset  == length && last < input. length) {  
+if (offset  == length && pos < input. length) {  
+if (offset  < length && i < length- length) {  
+if (offset  < length+ length) {  
+if (offset  + last < input. length) {  
+if (offset  == length && i == input. length) {  
+if (offset  < last || i < input. length) {  
+if (offset  < pos && last < input. length) {  
+if (offset  < total_ length) {  
+if (offset  < length - input. length) {  
+if (offset  < length || i < input. length) {  
+if (offset  < last && offset != input. length) {  
+if (offset  < len- length) {  
+if (offset  >= input. length) {  
+if (offset  < length && i < length+ length) {  
+if (offset  < output. length) {  
+if (offset  < pos && offset < input. length) {  
+if (offset  < ( length) {  
+if (offset  <= length && pos < input. length) {  
+if (offset  < length && last < seq. length) {  
+if (offset  < text. length) {  
+if (offset  < -- length) {  
+if (offset  < last< length) {  
+if (offset  < endOfInput. length) {  
+if (offset  < last || pos == input. length) {  
+if (offset  < length && end < input. length) {  
+if (offset  < str. length) {  
+if (offset  < last && i == input. length) {  
+if (offset  < length && i < output. length) {  
+if (offset  < last && offset == input. length) {  
+if (offset  < last-pos- length) {  
+if (offset  < last || i < seq. length) {  
+if (offset  <= length && i < input. length) {  
+if (offset  < last && offset <= pos+ length) {  
+if (offset  != last && offset < input. length) {  
+if (offset  < length && index < input. length) {  
+if (offset  == seq. length) {  
+if (offset  <= seq. length) {  
+if (offset  < length && offset < last- length) {  
+if (offset  < last ^ input. length) {  
+if (offset  < total. length) {  
+if (offset  < string. length) {  
+if (offset  < data. length) {  
+if (offset  < $ length) {  
+if (offset  < offset + seq. length) {  
+if (offset  < length && offset < sequence. length) {  
+if (offset  < length && length > input. length) {  
+if (offset  < max length) {  
+if (offset  < length && i < tail. length) {  
+if (offset  < length || i == seq. length) {  
+if (offset  < length && length < seq. length) {  
+if (offset  < last && i < last+ length) {  
+if (offset  < length + input. length) {  
+if (offset  < last && offset < pos+ length) {  
+if (offset  < length && offset <= input. length) {  
+if (offset  < length ^ seq. length) {  
+if (offset  < last && i < length- length) {  
+if (offset  < last && length == seq. length) {  
+if (offset  <= last && offset <= input. length) {  
+if (offset  < length && j < input. length) {  
+if (offset  < last* length) {  
+if (offset  < length && offset < tail. length) {  
+if (offset  <= last && pos < input. length) {  
+if (offset  < last && length > input. length) {  
+if (offset  < length && i < length) {  
+if (offset  < length && last == input. length) {  
+if (offset  < length || i >= input. length) {  
+if (offset  < target. length) {  
+if (offset  < last && i < sequence. length) {  
+if (offset  < last || pos < input. length) {  
+if (offset  == last && pos < input. length) {  
+if (offset  < last && pos < last+ length) {  
+if (offset  <= length) {  
+if (offset  < last - pos+ length) {  
+if (offset  < length && j < seq. length) {  
+if (offset  < s. length) {  
+if (offset  < length || last < input. length) {  
+if (offset  < last || pos >= input. length) {  
+if (offset  < length && offset == input. length) {  
+if (offset  < last && ++offset < input. length) {  
+if (offset  <= pos + seq. length) {  
+if (offset  < length && startChar < input. length) {  
+if (offset  < last && offset < last+ length) {  
+if (offset  < last-input. length) {  
+if (offset  < length * seq. length) {  
+if (offset  <= pos+ length) {  
+if (offset  < last && offset >= input. length) {  
+if (offset  < last && i <= input. length) {  
+if (offset  < last/ length) {  
+if (offset  < last-pos+ length) {  
+if (offset  < length && length != input. length) {  
+if (offset  <= last- length) {  
+if (offset  < length && offset < length+ length) {  
+if (offset  >= length) {  
+if (offset  < last && index < input. length) {  
+if (offset  < length && position < input. length) {  
+if (offset  < last & pos < input. length) {  
+if (offset  < length && index < seq. length) {  
+if (offset  < - length) {  
+if (offset  < length && last <= input. length) {  
+if (offset  < length && offset < end length) {  
+if (offset  < this. length) {  
+if (offset  < last && offset < startChar. length) {  
+if (offset  < length || offset < input. length) {  
+if (offset  < last * seq. length) {  
+if (offset  < last && last != input. length) {  
+if (offset  < last and offset < input. length) {  
+if (offset  == length || i == input. length) {  
+if (offset  < last && offset < length+ length) {  
+if (offset  < last && offset < sequence. length) {  
+if (offset  == length && last == input. length) {  
+if (offset  <= last+ length) {  
+if (offset  < length && length == seq. length) {  
+if (offset  < length && i <= input. length) {  
+if (offset  < end+ length) {  
+if (offset  < last - pos + seq. length) {  
+if (offset  != input. length) {  
+if (offset  < last || i >= input. length) {  
+if (offset  < first length) {  
+if (offset  < last && position < input. length) {  
+if (offset  < head. length) {  
+if (offset  < startChar+ length) {  
+if (offset  == length || offset == input. length) {  
+if (offset  < limit && offset < input. length) {  
+if (offset  < length && i <= length) {  
+if (offset  < last - seq. length) {  
+if (offset  <= pos && offset < input. length) {  
+if (offset  < last - pos + input. length) {  
+if (offset  <= last && i < input. length) {  
+if (offset  <= end- length) {  
+if (offset  < length && offset != input. length) {  
+if (offset  < current. length) {  
+if (offset  < length* length) {  
+if (offset  < total- length) {  
+if (offset  < length && i < startChar. length) {  
+if (offset  <= last + input. length) {  
+if (offset  < length ^ input. length) {  
+if (offset  < pos && i < input. length) {  
+if (offset  < _ length) {  
+if (offset  == last && i < input. length) {  
+if (offset  < < length) {  
+if (offset  < limit- length) {  
+if (offset  < n- length) {  
+if (offset  < last && length < seq. length) {  
+if (offset  < length && last < pos+ length) {  
+if (offset  >= length && pos < input. length) {  
+if (offset  < length && ++offset < input. length) {  
+if (offset  < length && pos < last+ length) {  
+if (offset  != length && i < input. length) {  
+if (offset  < length && end == input. length) {  
+if (offset  < length && i < end length) {  
+if (offset  < length && pos < last. length) {  
+if (offset  < src. length) {  
+if (offset  == last- length) {  
+if (offset  < match. length) {  
+if (offset  <  length) {  
+if (offset  < original. length) {  
+if (offset  < state. length) {  
+if (offset  < firstOf length) {  
+if (offset  < last; offset += seq. length) {  
+if (offset  < last & length) {  
+if (offset  < buffer. length) {  
+if (offset  >= seq. length) {  
+if (offset  < cursor. length) {  
+if (offset  < last^ length) {  
+if (offset  < last && offset < length- length) {  
+if (offset  < last && i <= pos+ length) {  
+if (offset  < length && i <= pos+ length) {  
+if (offset  < list. length) {  
+if (offset  < last && ++offset < length- length) {  
+if (offset  < m. length) {  
+if (offset  < length && i < end- length) {  
+if (offset  < last && offset > pos+ length) {  
+if (offset  != length) {  
+if (offset  != - length) {  
+if (offset  < length && startChar == input[ length) {  
+if (offset  < ++ length) {  
+if (offset  < total length) {  
+if (offset < length && i < last) {  
+if (offset < length - 1) {  
+if (offset < length-1) {  
+if (offset < length && last < pos) {  
+if (offset < length && offset < last) {  
+if (offset < length - pos) {  
+if (offset < length && i == length) {  
+if (offset < length && i == last) {  
+if (offset < length && i < length) {  
+if (offset < length && i <= last) {  
+if (offset < length && last < length) {  
+if (offset < length-pos) {  
+if (offset < length && seq != null) {  
+if (offset < length && last != pos) {  
+if (offset < length && i != last) {  
+if (offset < length || i < last) {  
+if (offset < length && last == pos) {  
+if (offset < length && last > pos) {  
+if (offset < length && pos < last) {  
+if (offset < length || i == length) {  
+if (offset < length + 1) {  
+if (offset < length && last < offset) {  
+if (offset < length && i > pos) {  
+if (offset < length || offset == length) {  
+if (offset < length || i == last) {  
+if (offset < length && last <= pos) {  
+if (offset < length && last >= pos) {  
+if (offset < length && i >= pos) {  
+if (offset < length+1) {  
+if (offset < length - last) {  
+if (offset < length || offset >= length) {  
+if (offset < length ) {  
+if (offset < length && i <= length) {  
+if (offset < length - 2) {  
+if (offset < length && pos < length) {  
+if (offset < length -1) {  
+if (offset < length && offset >= pos) {  
+if (offset < length - 1<mask1> - 1) {  
+if (offset < length || offset > length) {  
+if (offset < length && j < last) {  
+if (offset < length && i >= 0) {  
+if (offset < length && offset > pos) {  
+if (offset < length-2) {  
+if (offset < length && i != length) {  
+if (offset < length && isFull) {  
+if (offset < length && i == 0) {  
+if (offset < length && end) {  
+if (offset < length && length > pos) {  
+if (offset < length) return i; }) {  
+if (offset < length * 2) {  
+if (offset < length || last < pos) {  
+if (offset < length && offset != pos) {  
+if (offset < length && offset <= last) {  
+if (offset < length && last) {  
+if (offset < length + last) {  
+if (offset < length && index < last) {  
+if (offset < length and i < last) {  
+if (offset < length && first) {  
+if (offset < length/2) {  
+if (offset < length ^ last) {  
+if (offset < length && i == pos) {  
+if (offset < length || i >= length) {  
+if (offset < length && offset == length) {  
+if (offset < length && i != pos) {  
+if (offset < length || i < length) {  
+if (offset < length && last < position) {  
+if (offset < length && i == length - 1) {  
+if (offset < length+pos) {  
+if (offset < length && i != 0) {  
+if (offset < length ) {  
+if (offset < length && i <= pos) {  
+if (offset < length && i > 0) {  
+if (offset < length || last == pos) {  
+if (offset < length && j < length) {  
+if (offset < length && offset >= length) {  
+if (offset < length - i) {  
+if (offset < length && length > 0) {  
+if (offset < length && match) {  
+if (offset < length && offset != last) {  
+if (offset < length && first == null) {  
+if (offset < length && length >= pos) {  
+if (offset < length && pos < length - 1) {  
+if (offset < length || i != last) {  
+if (offset < length and offset < last) {  
+if (offset < length && last < input.length) {  
+if (offset < length || i < 0) {  
+if (offset < length / 2) {  
+if (offset < length && i < length - 1) {  
+if (offset < length + pos) {  
+if (offset < length && idx < last) {  
+if (offset < length*2) {  
+if (offset < length && i < len) {  
+if (offset < length - length) {  
+if (offset < length && i == length-1) {  
+if (offset < length + length) {  
+if (offset < length || offset < last) {  
+if (offset < length && last > offset) {  
+if (offset < length || last != pos) {  
+if (offset < length && i >= length) {  
+if (offset < length && last != 0) {  
+if (offset < length & last) {  
+if (offset < length && offset + 1 < length) {  
+if (offset < length) return i; }) {  
+if (offset < length || last > pos) {  
+if (offset < length || pos == length) {  
+if (offset < length || offset < 0) {  
+if (offset < length && startChar != 0) {  
+if (offset < length && sequence != null) {  
+if (offset < length && startChar != null) {  
+if (offset < length || last) {  
+if (offset < length && ++offset < length) {  
+if (offset < length && last < 0) {  
+if (offset < length + 2) {  
+if (offset < length && last < i) {  
+if (offset < length && length != 0) {  
+if (offset < length && last < last) {  
+if (offset < length && last >= 0) {  
+if (offset < length && offset == length - 1) {  
+if (offset < length && offset < length - 1) {  
+if (offset < length && startChar < last) {  
+if (offset < length && end > pos) {  
+if (offset < length || offset == 0) {  
+if (offset < length && startChar == end) {  
+if (offset < length && i != -1) {  
+if (offset < length || i > last) {  
+if (offset < length && ++pos < length) {  
+if (offset < length || i == 0) {  
+if (offset < length && offset != length) {  
+if (offset < length && length < last) {  
+if (offset < length - offset) {  
+if (offset < length && offset < length + 1) {  
+if (offset < length-last) {  
+if (offset < length || offset < pos) {  
+if (offset < length || startChar == 0) {  
+if (offset < length && last == length) {  
+if (offset < length || pos < length) {  
+if (offset < length && last != -1) {  
+if (offset < length || j < length) {  
+if (offset < length && i < length-1) {  
+if (offset < length && end <= pos) {  
+if (offset < length && isFullSequence) {  
+if (offset < length && pos < length-1) {  
+if (offset < length && index < length) {  
+if (offset < length && offset >= 0) {  
+if (offset < length) return offset; }) {  
+if (offset < length && firstOf) {  
+if (offset < length && offset != length - 1) {  
+if (offset < length || i != length) {  
+if (offset < length && last == 0) {  
+if (offset < length and i < length) {  
+if (offset < length && pos == last) {  
+if (offset < length || j < last) {  
+if (offset < length && offset <= pos) {  
+if (offset < length && first == true) {  
+if (offset < length && pos != last) {  
+if (offset < length && pos == length) {  
+if (offset < length && startChar == 0) {  
+if (offset < length && last < pos + length) {  
+if (offset < length - 3) {  
+if (offset < length && loop) {  
+if (offset < length || offset == last) {  
+if (offset < length && first != null) {  
+if (offset < length-offset) {  
+if (offset < length && idx < length) {  
+if (offset < length || last < length) {  
+if (offset < length && idx >= 0) {  
+if (offset < length && hasNext) {  
+if (offset < length && index >= 0) {  
+if (offset < length && end >= pos) {  
+if (offset < length && end < pos) {  
+if (offset < length && offset < length-1) {  
+if (offset < length || offset == length - 1) {  
+if (offset < length && !startChar) {  
+if (offset < length && offset != 0) {  
+if (offset < length && length <= pos) {  
+if (offset < length && pattern) {  
+if (offset < length && first == seq) {  
+if (offset < length-len) {  
+if (offset < length - nextIndexOf) {  
+if (offset < length && i <= length-1) {  
+if (offset < length && i != length - 1) {  
+if (offset < length && !end) {  
+if (offset < length && i <= length - 1) {  
+if (offset < length && offset == last) {  
+if (offset < length || i > length) {  
+if (offset < length && first == startChar) {  
+if (offset < length && stop) {  
+if (offset < length && pos > 0) {  
+if (offset < length || length == 0) {  
+if (offset < length && index == last) {  
+if (offset < length-i) {  
+if (offset < length && position < last) {  
+if (offset < length - 1 && i < last) {  
+if (offset < length || pos >= length) {  
+if (offset < length || i <= last) {  
+if (offset < length && length < pos) {  
+if (offset < length ^ pos) {  
+if (offset < length) return offset; }) {  
+if (offset < length // found full sequence) {  
+if (offset < length && found full sequence) {  
+if (offset < length && i + 1 < length) {  
+if (offset < length && first == 0) {  
+if (offset < length && i <= len) {  
+if (offset < length || offset > pos) {  
+if (offset < length; offset++) {  
+if (offset < length-length) {  
+if (offset < length && j == length) {  
+if (offset < length }) {  
+if (offset < length && end != null) {  
+if (offset < length+2) {  
+if (offset < length && length < i) {  
+if (offset < length && offset <= length) {  
+if (offset < length && offset < length+1) {  
+if (offset < length && first == false) {  
+if (offset < length-3) {  
+if (offset < length && true) {  
+if (offset < length && pos >= length) {  
+if (offset < length || i >= last) {  
+if (offset < length && pos <= last) {  
+if (offset < length; offset += length) {  
+if (offset < length - 4) {  
+if (offset < length - 1;) {  
+if (offset < length && startChar != end) {  
+if (offset < length || i > pos) {  
+if (offset < length && seq == input) {  
+if (offset < length && !empty) {  
+if (offset < length && offset < length) {  
+if (offset < length && idx == last) {  
+if (offset < length - 1<mask5> }) {  
+if (offset < length && offset < pos) {  
+if (offset < length && i == len) {  
+if (offset < length && last < index) {  
+if (offset < length && offset > 0) {  
+if (offset < length && pos <= length) {  
+if (offset < length - startChar) {  
+if (offset < length --) {  
+if (offset < length && offset <= length-1) {  
+if (offset < length; offset++)) {  
+if (offset < length > pos) {  
+if (offset < length - first) {  
+if (offset < length ^ offset) {  
+if (offset < length || offset == length-1) {  
+if (offset < length+last) {  
+if (offset < length && offset <= length - 1) {  
+if (offset < length && i < last - 1) {  
+if (offset < length2) {  
+if (offset < length && pos + 1 < length) {  
+if (offset < length && startChar == endChar) {  
+if (offset < length) {  
+if (offset < length && i < last - pos) {  
+if (offset < length && i < last) {  
+if (offset < length - 1) {  
+if (offset < length-1) {  
+if (offset < length && last < pos) {  
+if (offset < length && offset < last) {  
+if (offset < length - pos) {  
+if (offset < length && i == length) {  
+if (offset < length && i == last) {  
+if (offset < length && i < length) {  
+if (offset < length && i <= last) {  
+if (offset < length && last < length) {  
+if (offset < length-pos) {  
+if (offset < length && seq != null) {  
+if (offset < length && last != pos) {  
+if (offset < length && i != last) {  
+if (offset < length || i < last) {  
+if (offset < length && last == pos) {  
+if (offset < length && last > pos) {  
+if (offset < length && pos < last) {  
+if (offset < length || i == length) {  
+if (offset < length + 1) {  
+if (offset < length && last < offset) {  
+if (offset < length && i > pos) {  
+if (offset < length || offset == length) {  
+if (offset < length || i == last) {  
+if (offset < length && last <= pos) {  
+if (offset < length && last >= pos) {  
+if (offset < length && i >= pos) {  
+if (offset < length+1) {  
+if (offset < length - last) {  
+if (offset < length || offset >= length) {  
+if (offset < length ) {  
+if (offset < length && i <= length) {  
+if (offset < length - 2) {  
+if (offset < length && pos < length) {  
+if (offset < length -1) {  
+if (offset < length && offset >= pos) {  
+if (offset < length - 1<mask1> - 1) {  
+if (offset < length || offset > length) {  
+if (offset < length && j < last) {  
+if (offset < length && i >= 0) {  
+if (offset < length && offset > pos) {  
+if (offset < length-2) {  
+if (offset < length && i != length) {  
+if (offset < length && isFull) {  
+if (offset < length && i == 0) {  
+if (offset < length && end) {  
+if (offset < length && length > pos) {  
+if (offset < length) return i; }) {  
+if (offset < length * 2) {  
+if (offset < length || last < pos) {  
+if (offset < length && offset != pos) {  
+if (offset < length && offset <= last) {  
+if (offset < length && last) {  
+if (offset < length + last) {  
+if (offset < length && index < last) {  
+if (offset < length and i < last) {  
+if (offset < length && first) {  
+if (offset < length/2) {  
+if (offset < length ^ last) {  
+if (offset < length && i == pos) {  
+if (offset < length || i >= length) {  
+if (offset < length && offset == length) {  
+if (offset < length && i != pos) {  
+if (offset < length || i < length) {  
+if (offset < length && last < position) {  
+if (offset < length && i == length - 1) {  
+if (offset < length+pos) {  
+if (offset < length && i != 0) {  
+if (offset < length ) {  
+if (offset < length && i <= pos) {  
+if (offset < length && i > 0) {  
+if (offset < length || last == pos) {  
+if (offset < length && j < length) {  
+if (offset < length && offset >= length) {  
+if (offset < length - i) {  
+if (offset < length && length > 0) {  
+if (offset < length && match) {  
+if (offset < length && offset != last) {  
+if (offset < length && first == null) {  
+if (offset < length && length >= pos) {  
+if (offset < length && pos < length - 1) {  
+if (offset < length || i != last) {  
+if (offset < length and offset < last) {  
+if (offset < length && last < input.length) {  
+if (offset < length || i < 0) {  
+if (offset < length / 2) {  
+if (offset < length && i < length - 1) {  
+if (offset < length + pos) {  
+if (offset < length && idx < last) {  
+if (offset < length*2) {  
+if (offset < length && i < len) {  
+if (offset < length - length) {  
+if (offset < length && i == length-1) {  
+if (offset < length + length) {  
+if (offset < length || offset < last) {  
+if (offset < length && last > offset) {  
+if (offset < length || last != pos) {  
+if (offset < length && i >= length) {  
+if (offset < length && last != 0) {  
+if (offset < length & last) {  
+if (offset < length && offset + 1 < length) {  
+if (offset < length) return i; }) {  
+if (offset < length || last > pos) {  
+if (offset < length || pos == length) {  
+if (offset < length || offset < 0) {  
+if (offset < length && startChar != 0) {  
+if (offset < length && sequence != null) {  
+if (offset < length && startChar != null) {  
+if (offset < length || last) {  
+if (offset < length && ++offset < length) {  
+if (offset < length && last < 0) {  
+if (offset < length + 2) {  
+if (offset < length && last < i) {  
+if (offset < length && length != 0) {  
+if (offset < length && last < last) {  
+if (offset < length && last >= 0) {  
+if (offset < length && offset == length - 1) {  
+if (offset < length && offset < length - 1) {  
+if (offset < length && startChar < last) {  
+if (offset < length && end > pos) {  
+if (offset < length || offset == 0) {  
+if (offset < length && startChar == end) {  
+if (offset < length && i != -1) {  
+if (offset < length || i > last) {  
+if (offset < length && ++pos < length) {  
+if (offset < length || i == 0) {  
+if (offset < length && offset != length) {  
+if (offset < length && length < last) {  
+if (offset < length - offset) {  
+if (offset < length && offset < length + 1) {  
+if (offset < length-last) {  
+if (offset < length || offset < pos) {  
+if (offset < length || startChar == 0) {  
+if (offset < length && last == length) {  
+if (offset < length || pos < length) {  
+if (offset < length && last != -1) {  
+if (offset < length || j < length) {  
+if (offset < length && i < length-1) {  
+if (offset < length && end <= pos) {  
+if (offset < length && isFullSequence) {  
+if (offset < length && pos < length-1) {  
+if (offset < length && index < length) {  
+if (offset < length && offset >= 0) {  
+if (offset < length) return offset; }) {  
+if (offset < length && firstOf) {  
+if (offset < length && offset != length - 1) {  
+if (offset < length || i != length) {  
+if (offset < length && last == 0) {  
+if (offset < length and i < length) {  
+if (offset < length && pos == last) {  
+if (offset < length || j < last) {  
+if (offset < length && offset <= pos) {  
+if (offset < length && first == true) {  
+if (offset < length && pos != last) {  
+if (offset < length && pos == length) {  
+if (offset < length && startChar == 0) {  
+if (offset < length && last < pos + length) {  
+if (offset < length - 3) {  
+if (offset < length && loop) {  
+if (offset < length || offset == last) {  
+if (offset < length && first != null) {  
+if (offset < length-offset) {  
+if (offset < length && idx < length) {  
+if (offset < length || last < length) {  
+if (offset < length && idx >= 0) {  
+if (offset < length && hasNext) {  
+if (offset < length && index >= 0) {  
+if (offset < length && end >= pos) {  
+if (offset < length && end < pos) {  
+if (offset < length && offset < length-1) {  
+if (offset < length || offset == length - 1) {  
+if (offset < length && !startChar) {  
+if (offset < length && offset != 0) {  
+if (offset < length && length <= pos) {  
+if (offset < length && pattern) {  
+if (offset < length && first == seq) {  
+if (offset < length-len) {  
+if (offset < length - nextIndexOf) {  
+if (offset < length && i <= length-1) {  
+if (offset < length && i != length - 1) {  
+if (offset < length && !end) {  
+if (offset < length && i <= length - 1) {  
+if (offset < length && offset == last) {  
+if (offset < length || i > length) {  
+if (offset < length && first == startChar) {  
+if (offset < length && stop) {  
+if (offset < length && pos > 0) {  
+if (offset < length || length == 0) {  
+if (offset < length && index == last) {  
+if (offset < length-i) {  
+if (offset < length && position < last) {  
+if (offset < length - 1 && i < last) {  
+if (offset < length || pos >= length) {  
+if (offset < length || i <= last) {  
+if (offset < length && length < pos) {  
+if (offset < length ^ pos) {  
+if (offset < length) return offset; }) {  
+if (offset < length // found full sequence) {  
+if (offset < length && found full sequence) {  
+if (offset < length && i + 1 < length) {  
+if (offset < length && first == 0) {  
+if (offset < length && i <= len) {  
+if (offset < length || offset > pos) {  
+if (offset < length; offset++) {  
+if (offset < length-length) {  
+if (offset < length && j == length) {  
+if (offset < length }) {  
+if (offset < length && end != null) {  
+if (offset < length+2) {  
+if (offset < length && length < i) {  
+if (offset < length && offset <= length) {  
+if (offset < length && offset < length+1) {  
+if (offset < length && first == false) {  
+if (offset < length-3) {  
+if (offset < length && true) {  
+if (offset < length && pos >= length) {  
+if (offset < length || i >= last) {  
+if (offset < length && pos <= last) {  
+if (offset < length; offset += length) {  
+if (offset < length - 4) {  
+if (offset < length - 1;) {  
+if (offset < length && startChar != end) {  
+if (offset < length || i > pos) {  
+if (offset < length && seq == input) {  
+if (offset < length && !empty) {  
+if (offset < length && offset < length) {  
+if (offset < length && idx == last) {  
+if (offset < length - 1<mask5> }) {  
+if (offset < length && offset < pos) {  
+if (offset < length && i == len) {  
+if (offset < length && last < index) {  
+if (offset < length && offset > 0) {  
+if (offset < length && pos <= length) {  
+if (offset < length - startChar) {  
+if (offset < length --) {  
+if (offset < length && offset <= length-1) {  
+if (offset < length; offset++)) {  
+if (offset < length > pos) {  
+if (offset < length - first) {  
+if (offset < length ^ offset) {  
+if (offset < length || offset == length-1) {  
+if (offset < length+last) {  
+if (offset < length && offset <= length - 1) {  
+if (offset < length && i < last - 1) {  
+if (offset < length2) {  
+if (offset < length && pos + 1 < length) {  
+if (offset < length && startChar == endChar) {  
+if (offset < length) {  
+if (offset < length && i < last - pos) {  
+if (i < length) {  
+if (last < length) {  
+if (offset < length) {  
+if (i+1 < length) {  
+if (offset+1 < length) {  
+if (index < length) {  
+if (pos < length) {  
+if (i+last < length) {  
+if (j < length) {  
+if (offset+last < length) {  
+if (0 < length) {  
+if ( i < length) {  
+if (first < length) {  
+if (i<last && i < length) {  
+if (i < last && offset < length) {  
+if (i < last && i < length) {  
+if (i-pos < length) {  
+if (i<last && offset < length) {  
+if (nextIndexOf < length) {  
+if (i-1 < length) {  
+if (idx < length) {  
+if (firstChar < length) {  
+if (i+2 < length) {  
+if (startChar < length) {  
+if (i++ < length) {  
+if (i > pos && i < length) {  
+if (i>=pos && i < length) {  
+if (i<mask5>} < length) {  
+if (i>pos && i < length) {  
+if (i != last && i < length) {  
+if (i<length && j < length) {  
+if (last+1 < length) {  
+if (n < length) {  
+if (firstIndex < length) {  
+if (i<mask1>i < length) {  
+if (i<=pos && i < length) {  
+if (i <= last && offset < length) {  
+if (1 < length) {  
+if (i + 1 < length) {  
+if (i<=pos && last < length) {  
+if (i <= last && i < length) {  
+if (i-offset < length) {  
+if (i<length && last < length) {  
+if (i > pos && last < length) {  
+if (i<length && offset < length) {  
+if (i!=last && i < length) {  
+if (i>=0 && i < length) {  
+if ( last < length) {  
+if (offset + last < length) {  
+if (len < length) {  
+if (i+length < length) {  
+if (i+len < length) {  
+if (i >= pos && i < length) {  
+if (i<=last && offset < length) {  
+if (i<=length && j < length) {  
+if (i+offset < length) {  
+if (i<mask1>last < length) {  
+if (i != last && offset < length) {  
+if (i>pos && last < length) {  
+if (i < last && j < length) {  
+if (last < pos && i < length) {  
+if (last-pos < length) {  
+if (end < length) {  
+if (i < length && last < length) {  
+if (i<last && pos < length) {  
+if (position < length) {  
+if (id < length) {  
+if (i<=last && i < length) {  
+if (i<mask5> } < length) {  
+if (i > pos && offset < length) {  
+if (i<last && j < length) {  
+if (firstIndexOf < length) {  
+if (nextIndexOf(seq) < length) {  
+if (last-offset < length) {  
+if (last > pos && i < length) {  
+if (last < pos && offset < length) {  
+if (offset + 1 < length) {  
+if (i<=length && offset < length) {  
+if (length < length) {  
+if (limit < length) {  
+if (i < length && j < length) {  
+if (i<mask5> } < length) {  
+if (lastIndex < length) {  
+if (i < last && last < length) {  
+if (i < last && pos < length) {  
+if (i<length && pos < length) {  
+if (count < length) {  
+if (i && last < length) {  
+if (offset<mask1>i < length) {  
+if (i<=length && last < length) {  
+if (i<=pos && offset < length) {  
+if (i >= 0 && i < length) {  
+if (last<pos && offset < length) {  
+if (pos+1 < length) {  
+if (i>pos && offset < length) {  
+if (last<pos && i < length) {  
+if (i*2 < length) {  
+if (last != pos && i < length) {  
+if (offset++ < length) {  
+if (i<mask5>}  < length) {  
+if (last<mask5>} < length) {  
+if (i >= last && i < length) {  
+if (offset+2 < length) {  
+if (i>=0 && last < length) {  
+if (i+0 < length) {  
+if (i!=last && offset < length) {  
+if (offset+len < length) {  
+if (i  < length) {  
+if (x < length) {  
+if ( offset < length) {  
+if (last < pos && pos < length) {  
+if (i!=length && j < length) {  
+if (i  < length) {  
+if (i&1 < length) {  
+if (i<last && last < length) {  
+if (offset-pos < length) {  
+if (i - pos < length) {  
+if (i>0 && last < length) {  
+if (last > pos && offset < length) {  
+if (2 < length) {  
+if (offset < last && i < length) {  
+if (i-last < length) {  
+if (i > 0 && last < length) {  
+if (max < length) {  
+if (i>=pos && last < length) {  
+if (i<=pos && j < length) {  
+if (i == last && offset < length) {  
+if (i>=length && j < length) {  
+if (i>0 && i < length) {  
+if (i >= 0 && last < length) {  
+if (i < last || offset < length) {  
+if (i + last < length) {  
+if (i+pos < length) {  
+if (i>=0 && offset < length) {  
+if (i+4 < length) {  
+if (i==last && offset < length) {  
+if (i!=length && offset < length) {  
+if (i<last || offset < length) {  
+if (i < length && offset < length) {  
+if (i>=pos && offset < length) {  
+if (firstOf < length) {  
+if (last  < length) {  
+if (last > pos && pos < length) {  
+if (i<=length && pos < length) {  
+if (last < pos && last < length) {  
+if (i<length && i < length) {  
+if (last<mask1>i < length) {  
+if (i>=last && i < length) {  
+if (i<mask5>} } < length) {  
+if (i<0 || i < length) {  
+if (i& < length) {  
+if (pos+last < length) {  
+if (i!=length && last < length) {  
+if (i-- < length) {  
+if (i >= last && offset < length) {  
+if (last<mask5> } < length) {  
+if (i. < length) {  
+if (i <= last && pos < length) {  
+if (l < length) {  
+if (i >= pos && last < length) {  
+if (i>=length && offset < length) {  
+if (index+1 < length) {  
+if (i	 < length) {  
+if (i>0 && offset < length) {  
+if (last+pos < length) {  
+if (i >= length && offset < length) {  
+if (i >= length && j < length) {  
+if (maxOffset < length) {  
+if (i != length && last < length) {  
+if (offset<mask5>} < length) {  
+if (total < length) {  
+if (last && offset < length) {  
+if (0 <= offset && offset < length) {  
+if (i > 0 && i < length) {  
+if (i >= 0 && offset < length) {  
+if (i != pos && i < length) {  
+if (i!=pos && i < length) {  
+if (k < length) {  
+if (i>last && i < length) {  
+if (i >= pos && offset < length) {  
+if (offset+length < length) {  
+if (i<last || i < length) {  
+if (i <= length && j < length) {  
+if (i <= length && last < length) {  
+if (i != length && j < length) {  
+if (last > pos && last < length) {  
+if (i<=last && pos < length) {  
+if (i <= last && j < length) {  
+if (I < length) {  
+if (i<last&&i < length) {  
+if (last - pos < length) {  
+if (i>=length || j < length) {  
+if (last + 1 < length) {  
+if (last <= pos && i < length) {  
+if (last != pos && offset < length) {  
+if (last < offset && offset < length) {  
+if (i <= pos && last < length) {  
+if (maxIndex < length) {  
+if (i > last && i < length) {  
+if (i==length && j < length) {  
+if (i>pos && j < length) {  
+if (i<last < length) {  
+if (i+count < length) {  
+if (i+j < length) {  
+if (c < length) {  
+if (last >= pos && i < length) {  
+if (i*last < length) {  
+if (i==length && offset < length) {  
+if (length-offset < length) {  
+if (firstOffset < length) {  
+if (offset<mask5> } < length) {  
+if (offsets < length) {  
+if (i<mask3>i++ < length) {  
+if (i != length && offset < length) {  
+if (last>pos && i < length) {  
+if (i <= length && offset < length) {  
+if (last >= pos && offset < length) {  
+if (i > 0 && offset < length) {  
+if (last  < length) {  
+if (0 < i && i < length) {  
+if (i <= pos && i < length) {  
+if (i<=pos&&j < length) {  
+if (i+startChar < length) {  
+if (last+offset < length) {  
+if (i>last && offset < length) {  
+if (cursor < length) {  
+if (offset+i < length) {  
+if (i >= length && last < length) {  
+if (i != pos && last < length) {  
+if (i ++ < length) {  
+if (firstPos < length) {  
+if (i >= length || j < length) {  
+if (last < offset && i < length) {  
+if (offset<mask1>last < length) {  
+if (i!=0 && last < length) {  
+if (i<=offset && i < length) {  
+if (last && i < length) {  
+if (i!=0 && i < length) {  
+if (i > pos || last < length) {  
+if (last<mask5> } < length) {  
+if (offset < last && offset < length) {  
+if (i<last) < length) {  
+if (m < length) {  
+if (it < length) {  
+if (i<=last && j < length) {  
+if (i<mask5>  } < length) {  
+if (j+1 < length) {  
+if (i != 0 && last < length) {  
+if (last>pos && offset < length) {  
+if ( ++i < length) {  
+if (offset <  length) {  
+if (offset <  last) {  
+if (offset <  length && i < last) {  
+if (offset <  length - 1) {  
+if (offset <  length - pos) {  
+if (offset <  length && last < pos) {  
+if (offset <  length && i < length) {  
+if (offset <  length && offset < last) {  
+if (offset <  length<mask5> }) {  
+if (offset <  length && i == last) {  
+if (offset <  length && i <= last) {  
+if (offset <  length && i == length) {  
+if (offset <  pos) {  
+if (offset <  len) {  
+if (offset <  length<mask1> last) {  
+if (offset <  length && last < length) {  
+if (offset <  length-1) {  
+if (offset <  length || i < last) {  
+if (offset <  length && i != last) {  
+if (offset <  length<mask5> }) {  
+if (offset <  length && i >= pos) {  
+if (offset <  end) {  
+if (offset <  length && i > pos) {  
+if (offset <  length<mask3> length ) {  
+if (offset <  0) {  
+if (offset <  length<mask5>}) {  
+if (offset <  length || i == last) {  
+if (offset <  length && seq != null) {  
+if (offset <  limit) {  
+if (offset <  length && last != pos) {  
+if (offset <  last && i < length) {  
+if (offset <  last + 1) {  
+if (offset <  length || i == length) {  
+if (offset <  last - pos) {  
+if (offset <  length && last > pos) {  
+if (offset <  length-pos) {  
+if (offset <  length && pos < last) {  
+if (offset <  length && i <= length) {  
+if (offset <  length<mask1> length) {  
+if (offset <  length && last == pos) {  
+if (offset <  length<mask3> length; }) {  
+if (offset <  tail) {  
+if (offset <  length && offset >= pos) {  
+if (offset <  length<mask3> length;) {  
+if (offset <  length<mask3> length }) {  
+if (offset <  first) {  
+if (offset <  i) {  
+if (offset <  length<mask3> last;) {  
+if (offset <  last - 1) {  
+if (offset <  length && i >= 0) {  
+if (offset <  length || offset == length) {  
+if (offset <  length && last >= pos) {  
+if (offset <  position) {  
+if (offset <  length && last <= pos) {  
+if (offset <  startChar) {  
+if (offset <  length && i != pos) {  
+if (offset <  last<mask5> }) {  
+if (offset <  length and i < last) {  
+if (offset <  length || offset >= length) {  
+if (offset <  last + length) {  
+if (offset <  length && pos < length) {  
+if (offset <  length + 1) {  
+if (offset <  length ) {  
+if (offset <  length && i != length) {  
+if (offset <  length<mask5> } }) {  
+if (offset <  length && j < last) {  
+if (offset <  length && offset > pos) {  
+if (offset <  last && i < last) {  
+if (offset <  length<mask3> length}) {  
+if (offset <  length && last < offset) {  
+if (offset <  length<mask5> return offset; }) {  
+if (offset <  length<mask5>  }) {  
+if (offset <  length - 2) {  
+if (offset <  length - last) {  
+if (offset <  length && i == pos) {  
+if (offset <  length<mask5> } ) {  
+if (offset <  length<mask3> last)) {  
+if (offset <  last && pos < length) {  
+if (offset <  length && i == 0) {  
+if (offset <  length && offset != pos) {  
+if (offset <  input.length) {  
+if (offset <  length && i <= pos) {  
+if (offset <  length || offset > length) {  
+if (offset <  length<mask14> last) {  
+if (offset <  last && offset < length) {  
+if (offset <  length -1) {  
+if (offset <  length && i > 0) {  
+if (offset <  totalLength) {  
+if (offset <  length || last < pos) {  
+if (offset <  length<mask3> length)) {  
+if (offset <  length && i != 0) {  
+if (offset <  length && offset <= last) {  
+if (offset <  length<mask3> last; }) {  
+if (offset <  length<mask3> last}) {  
+if (offset <  length<mask5>} ) {  
+if (offset <  length && length > pos) {  
+if (offset <  length<mask5>    }) {  
+if (offset <  length && index < last) {  
+if (offset <  last && i == length) {  
+if (offset <  length || i < length) {  
+if (offset <  length) return i; }) {  
+if (offset <  length + length) {  
+if (offset <  last && offset < pos) {  
+if (offset <  length || i >= length) {  
+if (offset <  length<mask14> length) {  
+if (offset <  length<mask5> return i; }) {  
+if (offset <  length + last) {  
+if (offset <  length<mask3> length &&) {  
+if (offset <  last || i == length) {  
+if (offset <  last && i == last) {  
+if (offset <  length && j < length) {  
+if (offset <  last<mask5> }) {  
+if (offset <  length && isFull) {  
+if (offset <  length<mask3> length; }) {  
+if (offset <  length * 2) {  
+if (offset <  length && i < len) {  
+if (offset <  finalLength) {  
+if (offset <  last+1) {  
+if (offset <  length + pos) {  
+if (offset <  firstIndex) {  
+if (offset <  last-pos) {  
+if (offset <  length & last) {  
+if (offset <  length<mask3> last; }) {  
+if (offset <  length - length) {  
+if (offset <  last<mask5>}) {  
+if (offset <  length && last < position) {  
+if (offset <  nextIndexOf) {  
+if (offset <  last || offset == length) {  
+if (offset <  length+1) {  
+if (offset <  length || i != last) {  
+if (offset <  total) {  
+if (offset <  length<mask5>} }) {  
+if (offset <  length<mask3> length }) {  
+if (offset <  length && i != -1) {  
+if (offset <  length<mask3> last ) {  
+if (offset <  length - i) {  
+if (offset <  length && length > 0) {  
+if (offset <  last<mask1> length) {  
+if (offset <  length<mask3> position) {  
+if (offset <  length<mask3> length - offset) {  
+if (offset <  length<mask3> last }) {  
+if (offset <  size) {  
+if (offset <  length<mask3> last) }) {  
+if (offset <  length && length >= pos) {  
+if (offset <  length || i > last) {  
+if (offset <  offset + length) {  
+if (offset <  length<mask3> length } }) {  
+if (offset <  length and offset < last) {  
+if (offset <  length<mask3> pos; }) {  
+if (offset <  length<mask5>}}}) {  
+if (offset <  length<mask3> length; } }) {  
+if (offset <  last && i <= last) {  
+if (offset <  last || offset >= length) {  
+if (offset <  length && i >= length) {  
+if (offset <  finish) {  
+if (offset <  length || i >= last) {  
+if (offset <  length<mask3> length) {  
+if (offset <  length<mask3> length?) {  
+if (offset <  length && offset < pos) {  
+if (offset <  length || pos == length) {  
+if (offset <  length && last) {  
+if (offset <  last && i != pos) {  
+if (offset <  firstPos) {  
+if (offset <  length && startChar < last) {  
+if (offset <  length && first) {  
+if (offset <  length<mask5>) {  
+if (offset <  pos + length) {  
+if (offset <  length<mask2> last) {  
+if (offset <  length<mask5> },) {  
+if (offset <  last && last < pos) {  
+if (offset <  last && last != pos) {  
+if (offset <  length || last == pos) {  
+if (offset <  length<mask3> length - 2) {  
+if (offset <  length || pos < length) {  
+if (offset <  length - pos - 1) {  
+if (offset <  length && offset == length) {  
+if (offset <  length<mask3> i ) {  
+if (offset <  length || i < 0) {  
+if (offset <  length && end) {  
+if (offset <  length<mask5> } }) {  
+if (offset <  last || i < length) {  
+if (offset <  firstOf) {  
+if (offset <  last && i > pos) {  
+if (offset <  length && length != 0) {  
+if (offset <  length-2) {  
+if (offset <  length / 2) {  
+if (offset <  length && last < last) {  
+if (offset <  length<mask5> return pos; }) {  
+if (offset <  last && offset >= pos) {  
+if (offset <  l) {  
+if (offset <  length && ++offset < length) {  
+if (offset <  length > pos) {  
+if (offset <  length<mask5> } }) {  
+if (offset <  pos && i < length) {  
+if (offset <  length && index < length) {  
+if (offset <  length || j < length) {  
+if (offset <  last && i <= length) {  
+if (offset <  length || offset < last) {  
+if (offset <  length && offset < length) {  
+if (offset <  length && last < i) {  
+if (offset <  length && ++pos < length) {  
+if (offset <  length and i < length) {  
+if (offset <  pos && last < length) {  
+if (offset <  last && i >= pos) {  
+if (offset <  length && offset <= pos) {  
+if (offset <  length<mask3> length) }) {  
+if (offset <  last && offset != pos) {  
+if (offset <  last || offset > length) {  
+if (offset <  length || offset < pos) {  
+if (offset <  length && startChar != null) {  
+if (offset <  firstChar) {  
+if (offset <  length2) {  
+if (offset <  length && end > pos) {  
+if (offset <  length<mask3> pos }) {  
+if (offset <  length && startChar != 0) {  
+if (offset <  length<mask5> return 0; }) {  
+if (offset < length) {  
+if (offset <  count) {  
+if (offset <  index) {  
+if (offset <  n) {  
+if (offset <  longest) {  
+if (offset <  sequenceLength) {  
+if (offset <  firstIndexOf) {  
+if (offset <  length && startChar == end) {  
+if (offset <  stop) {  
+if (offset <  tailLength) {  
+if (offset <  width) {  
+if (offset <  head) {  
+if (offset <  offset) {  
+if (offset <  start) {  
+if (offset <  lastIndex) {  
+if (offset <  maxLength) {  
+if (offset <  1) {  
+if (offset <  remaining) {  
+if (offset <  length<mask3> length - pos ;) {  
+if (offset <  int) {  
+if (offset <  length<mask5> } //else) {  
+if (offset <  strlen) {  
+if (offset <  line) {  
+if (offset <  max) {  
+if (offset < last) {  
+if (offset <  range) {  
+if (offset <  result) {  
+if (offset <  rest) {  
+if (offset <  endPos) {  
+if (offset <  height) {  
+if (offset <  lengths) {  
+if (offset <  2) {  
+if (offset <  j) {  
+if (offset <  16) {  
+if(offset==null){return  -1;} if (offset < length) {  
+if(offset==null){return  -1; };} if (offset < length) {  
+if(offset==null){return  null;} if (offset < length) {  
+if(offset==null){return  0;} if (offset < length) {  
+if(offset==null){return  i;} if (offset < length) {  
+if(offset==null){return  -1;};} if (offset < length) {  
+if(offset==null){return -1;} if (offset < length) {  
+if(offset==null){return  0; };} if (offset < length) {  
+if(offset==null){return  -1;;} if (offset < length) {  
+if(offset==null){return  offset;} if (offset < length) {  
+if(offset==null){return  -1};} if (offset < length) {  
+if(offset==null){return  null; };} if (offset < length) {  
+if(offset==null){return  last;} if (offset < length) {  
+if(offset==null){return  pos;} if (offset < length) {  
+if(offset==null){return };} if (offset < length) {  
+if(offset==null){return -1; };} if (offset < length) {  
+if(offset==null){return  null};} if (offset < length) {  
+if(offset==null){return  i;;} if (offset < length) {  
+if(offset==null){return  false; };} if (offset < length) {  
+if(offset==null){return  null;};} if (offset < length) {  
+if(offset==null){return ; };} if (offset < length) {  
+if(offset==null){return  1;} if (offset < length) {  
+if(offset==null){return  -1 };} if (offset < length) {  
+if(offset==null){return  -1;};} if (offset < length) {  
+if(offset==null){return  false;} if (offset < length) {  
+if(offset==null){return  nextIndexOf;} if (offset < length) {  
+if(offset==null){return  0;};} if (offset < length) {  
+if(offset==null){return  offset - pos;} if (offset < length) {  
+if(offset==null){return 0;} if (offset < length) {  
+if(offset==null){return  false;};} if (offset < length) {  
+if(offset==null){return  index;} if (offset < length) {  
+if(offset==null){return  null;};} if (offset < length) {  
+if(offset==null){return  position;} if (offset < length) {  
+if(offset==null){return  null;;} if (offset < length) {  
+if(offset==null){return  i; };} if (offset < length) {  
+if(offset==null){return  -1 ;;} if (offset < length) {  
+if(offset==null){return  1; };} if (offset < length) {  
+if(offset==null){return  length;} if (offset < length) {  
+if(offset==null){return  0;};} if (offset < length) {  
+if(offset==null){return  offset-pos;} if (offset < length) {  
+if(offset==null){return  -1 ;};} if (offset < length) {  
+if(offset==null){return  offset};} if (offset < length) {  
+if(offset==null){return  i - pos;} if (offset < length) {  
+if(offset==null){return  };} if (offset < length) {  
+if(offset==null){return null;} if (offset < length) {  
+if(offset==null){return  i};} if (offset < length) {  
+if(offset==null){return  n;} if (offset < length) {  
+if(offset==null){return  i-1;} if (offset < length) {  
+if(offset==null){return  ++pos;} if (offset < length) {  
+if(offset==null){return -1;};} if (offset < length) {  
+if(offset==null){return  null };} if (offset < length) {  
+if(offset==null){return  pos - pos;} if (offset < length) {  
+if(offset==null){return  first;} if (offset < length) {  
+if(offset==null){return  j;} if (offset < length) {  
+if(offset==null){return  };} if (offset < length) {  
+if(offset==null){return  false;;} if (offset < length) {  
+if(offset==null){return  0};} if (offset < length) {  
+if(offset==null){return ;};} if (offset < length) {  
+if(offset==null){return  int;} if (offset < length) {  
+if(offset==null){return  offset; };} if (offset < length) {  
+if(offset==null){return ;};} if (offset < length) {  
+if(offset==null){return -1};} if (offset < length) {  
+if(offset==null){return  pos; };} if (offset < length) {  
+if(offset==null){return  offset - pos };} if (offset < length) {  
+if(offset==null){return  -1 };} if (offset < length) {  
+if(offset==null){return  i+1;} if (offset < length) {  
+if(offset==null){return  0; } };} if (offset < length) {  
+if(offset==null){return ;;} if (offset < length) {  
+if(offset==null){return  --;} if (offset < length) {  
+if(offset==null){return  0;;} if (offset < length) {  
+if(offset==null){return  end;} if (offset < length) {  
+if(offset==null){return -1;;} if (offset < length) {  
+if(offset==null){return  last};} if (offset < length) {  
+if(offset==null){return  -2;} if (offset < length) {  
+if(offset==null){return  last; };} if (offset < length) {  
+if(offset==null){return  j;;} if (offset < length) {  
+if(offset==null){return  false};} if (offset < length) {  
+if(offset==null){return  false;};} if (offset < length) {  
+if(offset==null){return  offset;;} if (offset < length) {  
+if(offset==null){return  null; } };} if (offset < length) {  
+if(offset==null){return  undefined;} if (offset < length) {  
+if(offset==null){return  +1; };} if (offset < length) {  
+if(offset==null){return 0; };} if (offset < length) {  
+if(offset==null){return } ;} if (offset < length) {  
+if(offset==null){return 1;} if (offset < length) {  
+if(offset==null){return i;} if (offset < length) {  
+if(offset==null){return  max;} if (offset < length) {  
+if(offset==null){return  offset-1;} if (offset < length) {  
+if(offset==null){return  pos};} if (offset < length) {  
+if(offset==null){return  -2; };} if (offset < length) {  
+if(offset==null){return  true; };} if (offset < length) {  
+if(offset==null){return  -1 ;} if (offset < length) {  
+if(offset==null){return } else;} if (offset < length) {  
+if(offset==null){return  -1 ; };} if (offset < length) {  
+if(offset==null){return  j; };} if (offset < length) {  
+if(offset==null){return  +1;} if (offset < length) {  
+if(offset==null){return  -1};;} if (offset < length) {  
+if(offset==null){return } };} if (offset < length) {  
+if(offset==null){return AST#unary_expression#Left-1AST#unary_expression#Right;} if (offset < length) {  
+if(offset==null){return  true;} if (offset < length) {  
+if(offset==null){return  i };} if (offset < length) {  
+if(offset==null){return pos;} if (offset < length) {  
+if(offset==null){return  true;};} if (offset < length) {  
+if(offset==null){return } };} if (offset < length) {  
+if(offset==null){return  ++offset;} if (offset < length) {  
+if(offset==null){return  offset - pos};} if (offset < length) {  
+if(offset==null){return  startChar;} if (offset < length) {  
+if(offset==null){return  EOF;} if (offset < length) {  
+if(offset==null){return  pos-1;} if (offset < length) {  
+if(offset==null){return  1;;} if (offset < length) {  
+if(offset==null){return  false };} if (offset < length) {  
+if(offset==null){return  0 };} if (offset < length) {  
+if(offset==null){return  len;} if (offset < length) {  
+if(offset==null){return  i;};} if (offset < length) {  
+if(offset==null){return  length - pos;} if (offset < length) {  
+if(offset==null){return  length; };} if (offset < length) {  
+if(offset==null){return  n; };} if (offset < length) {  
+if(offset==null){return +1;} if (offset < length) {  
+if(offset==null){return  false; } };} if (offset < length) {  
+if(offset==null){return  0; };} if (offset < length) {  
+if(offset==null){return  i - 1;} if (offset < length) {  
+if(offset==null){return  idx;} if (offset < length) {  
+if(offset==null){return  i + 1;} if (offset < length) {  
+if(offset==null){return  offset;};} if (offset < length) {  
+if(offset==null){return  nil;} if (offset < length) {  
+if(offset==null){return  pos - length;} if (offset < length) {  
+if(offset==null){return  i;};} if (offset < length) {  
+if(offset==null){return   -1;} if (offset < length) {  
+if(offset==null){return  this;} if (offset < length) {  
+if(offset==null){return  2;} if (offset < length) {  
+if(offset==null){return };;} if (offset < length) {  
+if(offset==null){return  0; } ;} if (offset < length) {  
+if(offset==null){return  pos };} if (offset < length) {  
+if(offset==null){return ;} if (offset < length) {  
+if(offset==null){return -1;};} if (offset < length) {  
+if(offset==null){return } return -1;} if (offset < length) {  
+if(offset==null){return offset;} if (offset < length) {  
+if(offset==null){return  eof;} if (offset < length) {  
+if(offset==null){return  last;;} if (offset < length) {  
+if(offset==null){return [];} if (offset < length) {  
+if(offset==null){return  Integer;} if (offset < length) {  
+if(offset==null){return  1;};} if (offset < length) {  
+if(offset==null){return  count;} if (offset < length) {  
+if(offset==null){return ; } };} if (offset < length) {  
+if(offset==null){return null};} if (offset < length) {  
+if(offset==null){return  offset };} if (offset < length) {  
+if(offset==null){return  i; } };} if (offset < length) {  
+if(offset==null){return  -1} };} if (offset < length) {  
+if(offset==null){return  length};} if (offset < length) {  
+if(offset==null){return  -1} ;} if (offset < length) {  
+if(offset==null){return  pos;;} if (offset < length) {  
+if(offset==null){return  -1  };} if (offset < length) {  
+if(offset==null){return  n;;} if (offset < length) {  
+if(offset==null){return  endOfInput;} if (offset < length) {  
+if(offset==null){return  true};} if (offset < length) {  
+if(offset==null){return  null;} };} if (offset < length) {  
+if(offset==null){return  -1 } };} if (offset < length) {  
+if(offset==null){return  offset - pos;;} if (offset < length) {  
+if(offset==null){return  - 1; };} if (offset < length) {  
+if(offset==null){return  value;} if (offset < length) {  
+if(offset==null){return  i --;} if (offset < length) {  
+if(offset==null){return  first char;} if (offset < length) {  
+if(offset==null){return  zero;} if (offset < length) {  
+if(offset==null){return  pos - 1;} if (offset < length) {  
+if(offset==null){return  error;} if (offset < length) {  
+if(offset==null){return  null} };} if (offset < length) {  
+if(offset==null){return  limit;} if (offset < length) {  
+if(offset==null){return null; };} if (offset < length) {  
+if(offset==null){return  - 1;} if (offset < length) {  
+if(offset==null){return  last - pos;} if (offset < length) {  
+if(offset==null){return  offset - pos;};} if (offset < length) {  
+if(offset==null){return  -1;} };} if (offset < length) {  
+if(offset==null){return  last;};} if (offset < length) {  
+if(offset==null){return  found full sequence;} if (offset < length) {  
+if(offset==null){return  true;;} if (offset < length) {  
+if(offset==null){return  length-1;} if (offset < length) {  
+if(offset==null){return false; };} if (offset < length) {  
+if(offset==null){return   0;} if (offset < length) {  
+if(offset==null){return  void;} if (offset < length) {  
+if(offset==null){return  position; };} if (offset < length) {  
+if(offset==null){return  null;} };} if (offset < length) {  
+if(offset==null){return 1; };} if (offset < length) {  
+if(offset==null){return  ++pos; };} if (offset < length) {  
+if(offset==null){return  position};} if (offset < length) {  
+if(offset==null){return  stop;} if (offset < length) {  
+if(offset==null){return +1; };} if (offset < length) {  
+if(offset==null){return  pos;};} if (offset < length) {  
+if(offset==null){return false;};} if (offset < length) {  
+if(offset==null){return  last };} if (offset < length) {  
+if(offset==null){return  offset;};} if (offset < length) {  
+if(offset==null){return  firstIndex;} if (offset < length) {  
+if(offset==null){return  seq;} if (offset < length) {  
+if(offset==null){return  return -1;} if (offset < length) {  
+if(offset==null){return  -1AST#return_statement#Right};} if (offset < length) {  
+if(offset==null){return null;};} if (offset < length) {  
+if(offset==null){return last;} if (offset < length) {  
+if(offset==null){return } return offset;} if (offset < length) {  
+if(offset==null){return  --pos;} if (offset < length) {  
+if(offset==null){return  null} ;} if (offset < length) {  
+if(offset==null){return length;} if (offset < length) {  
+if(offset==null){return  pos;};} if (offset < length) {  
+if(offset==null){return  i - pos };} if (offset < length) {  
+if(offset==null){return  index;;} if (offset < length) {  
+if(offset==null){return -1 };} if (offset < length) {  
+if(offset==null){return  1; } };} if (offset < length) {  
+if(offset==null){return  i ;;} if (offset < length) {  
+if(offset==null){return  --};} if (offset < length) {  
+if(offset==null){return 0;};} if (offset < length) {  
+if(offset==null){return  index};} if (offset < length) {  
+if(offset==null){return  null; } ;} if (offset < length) {  
+if(offset==null){return 0;};} if (offset < length) {  
+if(offset==null){return  offset; } };} if (offset < length) {  
+if(offset==null){return ;} };} if (offset < length) {  
+if(offset==null){return  start;} if (offset < length) {  
+if(offset==null){return ?-1;} if (offset < length) {  
+if(offset==null){return false;} if (offset < length) {  
+if(offset==null){return  -1} else;} if (offset < length) {  
+if(offset==null){return  null;} ;} if (offset < length) {  
+if(offset==null){return   pos;} if (offset < length) {  
+if(offset==null){return  j;};} if (offset < length) {  
+if(offset==null){return  last+1;} if (offset < length) {  
+if(offset==null){return  last;};} if (offset < length) {  
+if(offset==null){return  pos; } };} if (offset < length) {  
+if(offset==null){return   0; };} if (offset < length) {  
+if(offset==null){return  -1; //};} if (offset < length) {  
+if(offset==null){return  null;} else;} if (offset < length) {  
+if(offset==null){return -(1);;} if (offset < length) {  
+if(offset==null){return  (-1);};} if (offset < length) {  
+if(offset==null){return  null; } else;} if (offset < length) {  
+if(offset==null){return  false;} };} if (offset < length) {  
+if(offset==null){return  index; };} if (offset < length) {  
+if(offset==null){return  0; }};} if (offset < length) {  
+if(offset==null){return --;} if (offset < length) {  
+if(offset==null){return }else;} if (offset < length) {  
+if(offset==null){return  NaN;} if (offset < length) {  
+if(offset==null){return  ;} if (offset < length) {  
+if(offset==null){return  0 ;;} if (offset < length) {  
+if(offset==null){return  NULL;} if (offset < length) {  
+if(offset==null){return  maxOffset;} if (offset < length) {  
+if(offset==null){return  3;} if (offset < length) {  
+if(offset==null){return  char;} if (offset < length) {  
+if(offset==null){return  +1;;} if (offset < length) {  
+if(offset==null){return  j;};} if (offset < length) {  
+if(offset==null){return  1;};} if (offset < length) {  
+if(offset==null){return  nextIndexOf();} if (offset < length) {  
+if(offset==null){return ++;} if (offset < length) {  
+if(offset==null){return -(1); };} if (offset < length) {  
+if(offset==null){return ++pos;} if (offset < length) {  
+if(offset==null){return  ++;} if (offset < length) {  
+if(offset==null){return  0;} };} if (offset < length) {  
+if(offset==null){ offset=pos; } if (offset < length) {  
+if(offset==null){ offset=0; } if (offset < length) {  
+if(offset==null){ offset=length; } if (offset < length) {  
+if(offset==null){ offset=null; } if (offset < length) {  
+if(offset==null){ offset=last; } if (offset < length) {  
+if(offset==null){ offset= pos; } if (offset < length) {  
+if(offset==null){ offset=i; } if (offset < length) {  
+if(offset==null){ offset=0 }; } if (offset < length) {  
+if(offset==null){ offset=0;}; } if (offset < length) {  
+if(offset==null){ offset=pos}; } if (offset < length) {  
+if(offset==null){ offset= 0; } if (offset < length) {  
+if(offset==null){ offset=pos }; } if (offset < length) {  
+if(offset==null){ offset=input.length; } if (offset < length) {  
+if(offset==null){ offset=0}; } if (offset < length) {  
+if(offset==null){ offset=pos - 1; } if (offset < length) {  
+if(offset==null){ offset=startChar; } if (offset < length) {  
+if(offset==null){ offset= length; } if (offset < length) {  
+if(offset==null){ offset=len; } if (offset < length) {  
+if(offset==null){ offset=length - pos; } if (offset < length) {  
+if(offset==null){ offset=1; } if (offset < length) {  
+if(offset==null){ offset=length-1; } if (offset < length) {  
+if(offset==null){ offset=pos-1; } if (offset < length) {  
+if(offset==null){ offset=nextIndexOf; } if (offset < length) {  
+if(offset==null){ offset=0; }; } if (offset < length) {  
+if(offset==null){ offset=pos; }; } if (offset < length) {  
+if(offset==null){ offset= -1; } if (offset < length) {  
+if(offset==null){ offset=end; } if (offset < length) {  
+if(offset==null){ offset=pos+length; } if (offset < length) {  
+if(offset==null){ offset=start; } if (offset < length) {  
+if(offset==null){ offset=pos+1; } if (offset < length) {  
+if(offset==null){ offset=pos + length; } if (offset < length) {  
+if(offset==null){ offset=position; } if (offset < length) {  
+if(offset==null){ offset=pos;}; } if (offset < length) {  
+if(offset==null){ offset=first; } if (offset < length) {  
+if(offset==null){ offset=0 } }; } if (offset < length) {  
+if(offset==null){ offset=pos - length; } if (offset < length) {  
+if(offset==null){ offset=null;}; } if (offset < length) {  
+if(offset==null){ offset=pos } }; } if (offset < length) {  
+if(offset==null){ offset= null; } if (offset < length) {  
+if(offset==null){ offset=pos + 1; } if (offset < length) {  
+if(offset==null){ offset=begin; } if (offset < length) {  
+if(offset==null){ offset=undefined; } if (offset < length) {  
+if(offset==null){ offset=pos = 0; } if (offset < length) {  
+if(offset==null){ offset=null}; } if (offset < length) {  
+if(offset==null){ offset=false; } if (offset < length) {  
+if(offset==null){ offset=null; }; } if (offset < length) {  
+if(offset==null){ offset=null }; } if (offset < length) {  
+if(offset==null){ offset=length-pos; } if (offset < length) {  
+if(offset==null){ offset=length; }; } if (offset < length) {  
+if(offset==null){ offset=length - 1; } if (offset < length) {  
+if(offset==null){ offset=pos - pos; } if (offset < length) {  
+if(offset==null){ offset= 0 }; } if (offset < length) {  
+if(offset==null){ offset=n; } if (offset < length) {  
+if(offset==null){ offset=j; } if (offset < length) {  
+if(offset==null){ offset=Pos; } if (offset < length) {  
+if(offset==null){ offset=pos ++; } if (offset < length) {  
+if(offset==null){ offset=pos=0; } if (offset < length) {  
+if(offset==null){ offset= last; } if (offset < length) {  
+if(offset==null){ offset= -pos; } if (offset < length) {  
+if(offset==null){ offset=i+1; } if (offset < length) {  
+if(offset==null){ offset=nil; } if (offset < length) {  
+if(offset==null){ offset=p; } if (offset < length) {  
+if(offset==null){ offset= pos }; } if (offset < length) {  
+if(offset==null){ offset=limit; } if (offset < length) {  
+if(offset==null){ offset=pos -1; } if (offset < length) {  
+if(offset==null){ offset=endOfInput; } if (offset < length) {  
+if(offset==null){ offset=length+pos; } if (offset < length) {  
+if(offset==null){ offset=cursor; } if (offset < length) {  
+if(offset==null){ offset=endpos; } if (offset < length) {  
+if(offset==null){ offset=0;} }; } if (offset < length) {  
+if(offset==null){ offset=offset; } if (offset < length) {  
+if(offset==null){ offset=size; } if (offset < length) {  
+if(offset==null){ offset=eof; } if (offset < length) {  
+if(offset==null){ offset=pos} }; } if (offset < length) {  
+if(offset==null){ offset=pos+len; } if (offset < length) {  
+if(offset==null){ offset=buf.length; } if (offset < length) {  
+if(offset==null){ offset=length*pos; } if (offset < length) {  
+if(offset==null){ offset=head; } if (offset < length) {  
+if(offset==null){ offset=pos }; } if (offset < length) {  
+if(offset==null){ offset=tail; } if (offset < length) {  
+if(offset==null){ offset=Length; } if (offset < length) {  
+if(offset==null){ offset=init; } if (offset < length) {  
+if(offset==null){ offset=count; } if (offset < length) {  
+if(offset==null){ offset=max; } if (offset < length) {  
+if(offset==null){ offset=prevPos; } if (offset < length) {  
+if(offset==null){ offset=length}; } if (offset < length) {  
+if(offset==null){ offset= input.length; } if (offset < length) {  
+if(offset==null){ offset=pos;} }; } if (offset < length) {  
+if(offset==null){ offset= i; } if (offset < length) {  
+if(offset==null){ offset=0} }; } if (offset < length) {  
+if(offset==null){ offset=startPos; } if (offset < length) {  
+if(offset==null){ offset=pos --; } if (offset < length) {  
+if(offset==null){ offset=num; } if (offset < length) {  
+if(offset==null){ offset=min; } if (offset < length) {  
+if(offset==null){ offset=pos} else; } if (offset < length) {  
+if(offset==null){ offset=true; } if (offset < length) {  
+if(offset==null){ offset= pos - 1; } if (offset < length) {  
+if(offset==null){ offset= end; } if (offset < length) {  
+if(offset==null){ offset=firstIndexOf; } if (offset < length) {  
+if(offset==null){ offset=length+1; } if (offset < length) {  
+if(offset==null){ offset=endpos; } if (offset < length) {  
+if(offset==null){ offset=firstPos; } if (offset < length) {  
+if(offset==null){ offset=length*2; } if (offset < length) {  
+if(offset==null){ offset=firstIndex; } if (offset < length) {  
+if(offset==null){ offset=prev; } if (offset < length) {  
+if(offset==null){ offset=index; } if (offset < length) {  
+if(offset==null){ offset=2; } if (offset < length) {  
+if(offset==null){ offset=endPos; } if (offset < length) {  
+if(offset==null){ offset=last=pos; } if (offset < length) {  
+if(offset==null){ offset= len; } if (offset < length) {  
+if(offset==null){ offset=pos-length; } if (offset < length) {  
+if(offset==null){ offset=length }; } if (offset < length) {  
+if(offset==null){ offset=pos = length; } if (offset < length) {  
+if(offset==null){ offset= null }; } if (offset < length) {  
+if(offset==null){ offset= position; } if (offset < length) {  
+if(offset==null){ offset= 0; }; } if (offset < length) {  
+if(offset==null){ offset=pos++ }; } if (offset < length) {  
+if(offset==null){ offset=length/2; } if (offset < length) {  
+if(offset==null){ offset=pos++; } if (offset < length) {  
+if(offset==null){ offset=initial; } if (offset < length) {  
+if(offset==null){ offset=pos } else; } if (offset < length) {  
+if(offset==null){ offset=pos<mask1>length; } if (offset < length) {  
+if(offset==null){ offset=neg; } if (offset < length) {  
+if(offset==null){ offset=cp; } if (offset < length) {  
+if(offset==null){ offset=0 } else; } if (offset < length) {  
+if(offset==null){ offset=i; }; } if (offset < length) {  
+if(offset==null){ offset=-1; } if (offset < length) {  
+if(offset==null){ offset=length + pos; } if (offset < length) {  
+if(offset==null){ offset=NULL; } if (offset < length) {  
+if(offset==null){ offset= length - pos; } if (offset < length) {  
+if(offset==null){ offset=getLast; } if (offset < length) {  
+if(offset==null){ offset=last; }; } if (offset < length) {  
+if(offset==null){ offset=idx; } if (offset < length) {  
+if(offset==null){ offset= 0;}; } if (offset < length) {  
+if(offset==null){ offset=pos;}}; } if (offset < length) {  
+if(offset==null){ offset=zero; } if (offset < length) {  
+if(offset==null){ offset=maxOffset; } if (offset < length) {  
+if(offset==null){ offset=last+1; } if (offset < length) {  
+if(offset==null){ offset=last = pos; } if (offset < length) {  
+if(offset==null){ offset=offset+length; } if (offset < length) {  
+if(offset==null){ offset= startChar; } if (offset < length) {  
+if(offset==null){ offset=pos<mask3>length; } if (offset < length) {  
+if(offset==null){ offset=pos;}; } if (offset < length) {  
+if(offset==null){ offset=length -1; } if (offset < length) {  
+if(offset==null){ offset=firstChar; } if (offset < length) {  
+if(offset==null){ offset=offset+1; } if (offset < length) {  
+if(offset==null){ offset=pos<mask1>0; } if (offset < length) {  
+if(offset==null){ offset=int; } if (offset < length) {  
+if(offset==null){ offset=pos ; } if (offset < length) {  
+if(offset==null){ offset=0;}; } if (offset < length) {  
+if(offset==null){ offset=None; } if (offset < length) {  
+if(offset==null){ offset=null;} }; } if (offset < length) {  
+if(offset==null){ offset= nextIndexOf; } if (offset < length) {  
+if(offset==null){ offset=i+length; } if (offset < length) {  
+if(offset==null){ offset=pos*length; } if (offset < length) {  
+if(offset==null){ offset=pos ++ }; } if (offset < length) {  
+if(offset==null){ offset=pos = null; } if (offset < length) {  
+if(offset==null){ offset=0;} ; } if (offset < length) {  
+if(offset==null){ offset=eos; } if (offset < length) {  
+if(offset==null){ offset=findFirst; } if (offset < length) {  
+if(offset==null){ offset= pos } }; } if (offset < length) {  
+if(offset==null){ offset=ch; } if (offset < length) {  
+if(offset==null){ offset=0 }}; } if (offset < length) {  
+if(offset==null){ offset=pos - 2; } if (offset < length) {  
+if(offset==null){ offset=params.length; } if (offset < length) {  
+if(offset==null){ offset=initialPos; } if (offset < length) {  
+if(offset==null){ offset=i-1; } if (offset < length) {  
+if(offset==null){ offset=defaultOffset; } if (offset < length) {  
+if(offset==null){ offset=i}; } if (offset < length) {  
+if(offset==null){ offset=pos=-1; } if (offset < length) {  
+if(offset==null){ offset= start; } if (offset < length) {  
+if(offset==null){ offset=s; } if (offset < length) {  
+if(offset==null){ offset=makePos; } if (offset < length) {  
+if(offset==null){ offset= pos}; } if (offset < length) {  
+if(offset==null){ offset=NIL; } if (offset < length) {  
+if(offset==null){ offset=12; } if (offset < length) {  
+if(offset==null){ offset=s.length; } if (offset < length) {  
+if(offset==null){ offset=currentPos; } if (offset < length) {  
+if(offset==null){ offset=firstOf; } if (offset < length) {  
+if(offset==null){ offset=minLength; } if (offset < length) {  
+if(offset==null){ offset= pos-1; } if (offset < length) {  
+if(offset==null){ offset=""; } if (offset < length) {  
+if(offset==null){ offset=pos<mask3>last; } if (offset < length) {  
+if(offset==null){ offset= 0 } }; } if (offset < length) {  
+if(offset==null){ offset=all; } if (offset < length) {  
+if(offset==null){ offset= -length; } if (offset < length) {  
+if(offset==null){ offset=originalPos; } if (offset < length) {  
+if(offset==null){ offset=startIndex; } if (offset < length) {  
+if(offset==null){ offset=maxPos; } if (offset < length) {  
+if(offset==null){ offset=pos}-1; } if (offset < length) {  
+if(offset==null){ offset= 1; } if (offset < length) {  
+if(offset==null){ offset=pos }}; } if (offset < length) {  
+if(offset==null){ offset=l; } if (offset < length) {  
+if(offset==null){ offset=pos=length; } if (offset < length) {  
+if(offset==null){ offset=npos; } if (offset < length) {  
+if(offset==null){ offset=maxLength; } if (offset < length) {  
+if(offset==null){ offset=pos-2; } if (offset < length) {  
+if(offset==null){ offset=this.length; } if (offset < length) {  
+if(offset==null){ offset=length = pos; } if (offset < length) {  
+if(offset==null){ offset=endOffset; } if (offset < length) {  
+if(offset==null){ offset=pos<mask1>last; } if (offset < length) {  
+if(offset==null){ offset=0;}}; } if (offset < length) {  
+if(offset==null){ offset= ++pos; } if (offset < length) {  
+if(offset==null){ offset=pos - offset; } if (offset < length) {  
+if(offset==null){ offset=result; } if (offset < length) {  
+if(offset==null){ offset=0AST#assignment_expression#Right; } if (offset < length) {  
+if(offset==null){ offset=pos = last; } if (offset < length) {  
+if(offset==null){ offset= -1 }; } if (offset < length) {  
+if(offset==null){ offset=pos +1; } if (offset < length) {  
+if(offset==null){ offset=lead; } if (offset < length) {  
+if(offset==null){ offset= length-1; } if (offset < length) {  
+if(offset==null){ offset=total; } if (offset < length) {  
+if(offset==null){ offset=pos+2; } if (offset < length) {  
+if(offset==null){ offset=in; } if (offset < length) {  
+if(offset==null){ offset=pos/2; } if (offset < length) {  
+if(offset==null){ offset=offset-1; } if (offset < length) {  
+if(offset==null){ offset=params.offset; } if (offset < length) {  
+if(offset==null){ offset=11; } if (offset < length) {  
+if(offset==null){ offset= pos + length; } if (offset < length) {  
+if(offset==null){ offset=10; } if (offset < length) {  
+if(offset==null){ offset=this.pos; } if (offset < length) {  
+if(offset==null){ offset=pos++; }; } if (offset < length) {  
+if(offset==null){ offset=length<mask1>pos; } if (offset < length) {  
+if(offset==null){ offset=length=pos; } if (offset < length) {  
+if(offset==null){ offset=pos } return; } if (offset < length) {  
+if(offset==null){ offset=isNull; } if (offset < length) {  
+if(offset==null){ offset=prevIndexOf; } if (offset < length) {  
+if(offset==null){ offset= startPos; } if (offset < length) {  
+if(offset==null){ offset=length;}; } if (offset < length) {  
+if(offset==null){ offset= pos; }; } if (offset < length) {  
+if(offset==null){ offset=numChars; } if (offset < length) {  
+if(offset==null){ offset=pos end; } if (offset < length) {  
+if(offset==null){ offset=seq.length; } if (offset < length) {  
+if(offset==null){ offset=strlen; } if (offset < length) {  
+if(offset==null){ offset=last - pos; } if (offset < length) {  
+if(offset==null){ offset=length - offset; } if (offset < length) {  
+if(offset==null){ offset=0<mask1>length; } if (offset < length) {  
+if(offset==null){ offset=beginIndex; } if (offset < length) {  
+if(offset==null){ offset=null } }; } if (offset < length) {  
+if(offset==null){ offset=chars.length; } if (offset < length) {  
+if(offset==null){ offset=lastIndex; } if (offset < length) {  
+if(offset==null){ offset=length()-1; } if (offset < length) {  
+if(offset==null){ offset= pos+1; } if (offset < length) {  
+if(offset==null){ offset=pos += length; } if (offset < length) {  
+if(offset==null){ offset=endOfInput; } if (offset < length) {  
+if(offset==null){ offset=length }; } if (offset < length) {  
+if(offset==null){ offset=Infinity; } if (offset < length) {  
+if(offset==null){ offset=pos + len; } if (offset < length) {  
+if(offset==null){ offset=0} else; } if (offset < length) {  
+if(offset==null){ offset=length -pos; } if (offset < length) {  
+if(length==null){return  -1;} if (offset < length) {  
+if(length==null){return  0;} if (offset < length) {  
+if(length==null){return  i;} if (offset < length) {  
+if(length==null){return  offset;} if (offset < length) {  
+if(length==null){return  -1;;} if (offset < length) {  
+if(length==null){return  null;} if (offset < length) {  
+if(length==null){return  0; };} if (offset < length) {  
+if(length==null){return  last;} if (offset < length) {  
+if(length==null){return -1;} if (offset < length) {  
+if(length==null){return  pos;} if (offset < length) {  
+if(length==null){return  i;;} if (offset < length) {  
+if(length==null){return  length;} if (offset < length) {  
+if(length==null){return  offset - pos;} if (offset < length) {  
+if(length==null){return  -1};} if (offset < length) {  
+if(length==null){return  index;} if (offset < length) {  
+if(length==null){return  1;} if (offset < length) {  
+if(length==null){return  offset-pos;} if (offset < length) {  
+if(length==null){return };} if (offset < length) {  
+if(length==null){return  null; };} if (offset < length) {  
+if(length==null){return  nextIndexOf;} if (offset < length) {  
+if(length==null){return  false;} if (offset < length) {  
+if(length==null){return  position;} if (offset < length) {  
+if(length==null){return  false; };} if (offset < length) {  
+if(length==null){return  0;;} if (offset < length) {  
+if(length==null){return  offset};} if (offset < length) {  
+if(length==null){return ; };} if (offset < length) {  
+if(length==null){return 0;} if (offset < length) {  
+if(length==null){return  i; };} if (offset < length) {  
+if(length==null){return  first;} if (offset < length) {  
+if(length==null){return  offset;;} if (offset < length) {  
+if(length==null){return  i - pos;} if (offset < length) {  
+if(length==null){return  0;};} if (offset < length) {  
+if(length==null){return  j;} if (offset < length) {  
+if(length==null){return  null;;} if (offset < length) {  
+if(length==null){return  i-1;} if (offset < length) {  
+if(length==null){return  1; };} if (offset < length) {  
+if(length==null){return  false;;} if (offset < length) {  
+if(length==null){return ;;} if (offset < length) {  
+if(length==null){return  --;} if (offset < length) {  
+if(length==null){return  n;} if (offset < length) {  
+if(length==null){return  0;};} if (offset < length) {  
+if(length==null){return  -1 };} if (offset < length) {  
+if(length==null){return  offset; };} if (offset < length) {  
+if(length==null){return  -1 ;;} if (offset < length) {  
+if(length==null){return  int;} if (offset < length) {  
+if(length==null){return  i+1;} if (offset < length) {  
+if(length==null){return  false;};} if (offset < length) {  
+if(length==null){return  j;;} if (offset < length) {  
+if(length==null){return  ++pos;} if (offset < length) {  
+if(length==null){return  undefined;} if (offset < length) {  
+if(length==null){return -1;;} if (offset < length) {  
+if(length==null){return  -1;};} if (offset < length) {  
+if(length==null){return  i};} if (offset < length) {  
+if(length==null){return  end;} if (offset < length) {  
+if(length==null){return  pos - pos;} if (offset < length) {  
+if(length==null){return  null};} if (offset < length) {  
+if(length==null){return  offset-1;} if (offset < length) {  
+if(length==null){return  pos; };} if (offset < length) {  
+if(length==null){return  last; };} if (offset < length) {  
+if(length==null){return  null;};} if (offset < length) {  
+if(length==null){return  length; };} if (offset < length) {  
+if(length==null){return  1;;} if (offset < length) {  
+if(length==null){return  };} if (offset < length) {  
+if(length==null){return  };} if (offset < length) {  
+if(length==null){return  0};} if (offset < length) {  
+if(length==null){return  length - pos;} if (offset < length) {  
+if(length==null){return  EOF;} if (offset < length) {  
+if(length==null){return  true;} if (offset < length) {  
+if(length==null){return  len;} if (offset < length) {  
+if(length==null){return  max;} if (offset < length) {  
+if(length==null){return  -2;} if (offset < length) {  
+if(length==null){return i;} if (offset < length) {  
+if(length==null){return ;};} if (offset < length) {  
+if(length==null){return  null;};} if (offset < length) {  
+if(length==null){return  last};} if (offset < length) {  
+if(length==null){return ;};} if (offset < length) {  
+if(length==null){return  length;;} if (offset < length) {  
+if(length==null){return  ++offset;} if (offset < length) {  
+if(length==null){return  length};} if (offset < length) {  
+if(length==null){return  startChar;} if (offset < length) {  
+if(length==null){return  true; };} if (offset < length) {  
+if(length==null){return  last;;} if (offset < length) {  
+if(length==null){return  +1;} if (offset < length) {  
+if(length==null){return  -1 ;} if (offset < length) {  
+if(length==null){return  pos};} if (offset < length) {  
+if(length==null){return  j; };} if (offset < length) {  
+if(length==null){return  i + 1;} if (offset < length) {  
+if(length==null){return  idx;} if (offset < length) {  
+if(length==null){return length;} if (offset < length) {  
+if(length==null){return  false;};} if (offset < length) {  
+if(length==null){return  i;};} if (offset < length) {  
+if(length==null){return  pos;;} if (offset < length) {  
+if(length==null){return  i - 1;} if (offset < length) {  
+if(length==null){return  i };} if (offset < length) {  
+if(length==null){return 1;} if (offset < length) {  
+if(length==null){return 0; };} if (offset < length) {  
+if(length==null){return  true;};} if (offset < length) {  
+if(length==null){return  pos-1;} if (offset < length) {  
+if(length==null){return  offset };} if (offset < length) {  
+if(length==null){return pos;} if (offset < length) {  
+if(length==null){return -1};} if (offset < length) {  
+if(length==null){return null;} if (offset < length) {  
+if(length==null){return  true;;} if (offset < length) {  
+if(length==null){return  this;} if (offset < length) {  
+if(length==null){return  offset;};} if (offset < length) {  
+if(length==null){return  i;};} if (offset < length) {  
+if(length==null){return  first char;} if (offset < length) {  
+if(length==null){return  n; };} if (offset < length) {  
+if(length==null){return  pos - length;} if (offset < length) {  
+if(length==null){return  false};} if (offset < length) {  
+if(length==null){return  n;;} if (offset < length) {  
+if(length==null){return  offset;};} if (offset < length) {  
+if(length==null){return  count;} if (offset < length) {  
+if(length==null){return ;} if (offset < length) {  
+if(length==null){return  nil;} if (offset < length) {  
+if(length==null){return  null };} if (offset < length) {  
+if(length==null){return } ;} if (offset < length) {  
+if(length==null){return  2;} if (offset < length) {  
+if(length==null){return  0 };} if (offset < length) {  
+if(length==null){return  i --;} if (offset < length) {  
+if(length==null){return offset;} if (offset < length) {  
+if(length==null){return } else;} if (offset < length) {  
+if(length==null){return  eof;} if (offset < length) {  
+if(length==null){return  limit;} if (offset < length) {  
+if(length==null){return  index;;} if (offset < length) {  
+if(length==null){return +1;} if (offset < length) {  
+if(length==null){return  -1};;} if (offset < length) {  
+if(length==null){return  offset + length;} if (offset < length) {  
+if(length==null){return  length-1;} if (offset < length) {  
+if(length==null){return   -1;} if (offset < length) {  
+if(length==null){return  last;};} if (offset < length) {  
+if(length==null){return  seq;} if (offset < length) {  
+if(length==null){return  last - pos;} if (offset < length) {  
+if(length==null){return } };} if (offset < length) {  
+if(length==null){return  pos };} if (offset < length) {  
+if(length==null){return  i ;;} if (offset < length) {  
+if(length==null){return [];} if (offset < length) {  
+if(length==null){return  void;} if (offset < length) {  
+if(length==null){return  endOfInput;} if (offset < length) {  
+if(length==null){return  offset};;} if (offset < length) {  
+if(length==null){return  1;};} if (offset < length) {  
+if(length==null){return  false };} if (offset < length) {  
+if(length==null){return  last+1;} if (offset < length) {  
+if(length==null){return   0;} if (offset < length) {  
+if(length==null){return  start;} if (offset < length) {  
+if(length==null){return  Integer;} if (offset < length) {  
+if(length==null){return  found full sequence;} if (offset < length) {  
+if(length==null){return  - 1;} if (offset < length) {  
+if(length==null){return  firstIndex;} if (offset < length) {  
+if(length==null){return  pos - 1;} if (offset < length) {  
+if(length==null){return  offset-length;} if (offset < length) {  
+if(length==null){return  last + 1;} if (offset < length) {  
+if(length==null){return  length;};} if (offset < length) {  
+if(length==null){return  position};} if (offset < length) {  
+if(length==null){return  stop;} if (offset < length) {  
+if(length==null){return  index};} if (offset < length) {  
+if(length==null){return  true};} if (offset < length) {  
+if(length==null){return  +1;;} if (offset < length) {  
+if(length==null){return last;} if (offset < length) {  
+if(length==null){return  position; };} if (offset < length) {  
+if(length==null){return  ++;} if (offset < length) {  
+if(length==null){return  first index;} if (offset < length) {  
+if(length==null){return  ;} if (offset < length) {  
+if(length==null){return  value;} if (offset < length) {  
+if(length==null){return  --length;} if (offset < length) {  
+if(length==null){return  char;} if (offset < length) {  
+if(length==null){return  i++;;} if (offset < length) {  
+if(length==null){return  nextIndexOf();} if (offset < length) {  
+if(length==null){return  pos;};} if (offset < length) {  
+if(length==null){return  pos;};} if (offset < length) {  
+if(length==null){return  return -1;} if (offset < length) {  
+if(length==null){return  zero;} if (offset < length) {  
+if(length==null){return  idx;;} if (offset < length) {  
+if(length==null){return  match;} if (offset < length) {  
+if(length==null){return  ;} if (offset < length) {  
+if(length==null){return  position;;} if (offset < length) {  
+if(length==null){return i;;} if (offset < length) {  
+if(length==null){return  index };} if (offset < length) {  
+if(length==null){return --;} if (offset < length) {  
+if(length==null){return  lastIndex;} if (offset < length) {  
+if(length==null){return  offset+1;} if (offset < length) {  
+if(length==null){return  offset + 1;} if (offset < length) {  
+if(length==null){return  index; };} if (offset < length) {  
+if(length==null){return  0 ;;} if (offset < length) {  
+if(length==null){return  ii;} if (offset < length) {  
+if(length==null){return  --};} if (offset < length) {  
+if(length==null){return   pos;} if (offset < length) {  
+if(length==null){return  j;};} if (offset < length) {  
+if(length==null){return  x;} if (offset < length) {  
+if(length==null){return  firstIndexOf;} if (offset < length) {  
+if(length==null){return  --pos;} if (offset < length) {  
+if(length==null){return  -1 ;} if (offset < length) {  
+if(length==null){return  3;} if (offset < length) {  
+if(length==null){return  i++; };} if (offset < length) {  
+if(length==null){return  i,j;} if (offset < length) {  
+if(length==null){return 0;;} if (offset < length) {  
+if(length==null){return };;} if (offset < length) {  
+if(length==null){return  SKIP;} if (offset < length) {  
+if(length==null){return  last };} if (offset < length) {  
+if(length==null){return } };} if (offset < length) {  
+if(length==null){return  END;} if (offset < length) {  
+if(length==null){return  min;} if (offset < length) {  
+if(length==null){return ++;} if (offset < length) {  
+if(length==null){return ; } };} if (offset < length) {  
+if(length==null){return  startChar;;} if (offset < length) {  
+if(length==null){return  p;} if (offset < length) {  
+if(length==null){return  o;} if (offset < length) {  
+if(length==null){return  offset+length;} if (offset < length) {  
+if(length==null){return  last;};} if (offset < length) {  
+if(length==null){return  position - 1;} if (offset < length) {  
+if(length==null){return  NaN;} if (offset < length) {  
+if(length==null){return   ;} if (offset < length) {  
+if(length==null){return  length;};} if (offset < length) {  
+if(length==null){return -(1);;} if (offset < length) {  
+if(length==null){return  offset - length;} if (offset < length) {  
+if(length==null){return  num;} if (offset < length) {  
+if(length==null){return  i + length;} if (offset < length) {  
+if(length==null){return (-1);;} if (offset < length) {  
+if(length==null){return  true;};} if (offset < length) {  
+if(length==null){return  j;};} if (offset < length) {  
+if(length==null){return  j - 1;} if (offset < length) {  
+if(length==null){return  error;} if (offset < length) {  
+if(length==null){return +1;;} if (offset < length) {  
+if(length==null){return false;} if (offset < length) {  
+if(length==null){return  tail;} if (offset < length) {  
+if(length==null){return  (-1);};} if (offset < length) {  
+if(length==null){return  EOF; };} if (offset < length) {  
+if(length==null){return  N;} if (offset < length) {  
+if(length==null){return  -2;;} if (offset < length) {  
+if(length==null){return  i};;} if (offset < length) {  
+if(length==null){return  input.length;} if (offset < length) {  
+if(length==null){return  len;;} if (offset < length) {  
+if(length==null){return  NULL;} if (offset < length) {  
+if(length==null){return  1;};} if (offset < length) {  
+if(length==null){return  maxOffset;} if (offset < length) {  
+if(length==null){return 0;};} if (offset < length) {  
+if(length==null){return  length-pos;} if (offset < length) {  
+if(length==null){return   1;} if (offset < length) {  
+if(length==null){return -1;};} if (offset < length) {  
+if(length==null){return  length };} if (offset < length) {  
+if(length==null){return  i ++;} if (offset < length) {  
+if(length==null){return  EOF;;} if (offset < length) {  
+if(length==null){return  j-1;} if (offset < length) {  
+if(length==null){return  ++pos;;} if (offset < length) {  
+if(length==null){return  firstChar;} if (offset < length) {  
+if(length==null){return  offset} ;} if (offset < length) {  
+if(length==null){return  1};} if (offset < length) {  
+if(length==null){return 1; };} if (offset < length) {  
+if(length==null){return  i };} if (offset < length) {  
+if(length==null){return false; };} if (offset < length) {  
+if(length==null){ length=input.length; } if (offset < length) {  
+if(length==null){ length=0; } if (offset < length) {  
+if(length==null){ length=pos; } if (offset < length) {  
+if(length==null){ length=length; } if (offset < length) {  
+if(length==null){ length=1; } if (offset < length) {  
+if(length==null){ length=len; } if (offset < length) {  
+if(length==null){ length=last; } if (offset < length) {  
+if(length==null){ length=nextIndexOf; } if (offset < length) {  
+if(length==null){ length= input.length; } if (offset < length) {  
+if(length==null){ length=inputLength; } if (offset < length) {  
+if(length==null){ length=input; } if (offset < length) {  
+if(length==null){ length=i; } if (offset < length) {  
+if(length==null){ length=2; } if (offset < length) {  
+if(length==null){ length=seq.length; } if (offset < length) {  
+if(length==null){ length=length+1; } if (offset < length) {  
+if(length==null){ length=end; } if (offset < length) {  
+if(length==null){ length=offset; } if (offset < length) {  
+if(length==null){ length=chars.length; } if (offset < length) {  
+if(length==null){ length=count; } if (offset < length) {  
+if(length==null){ length=max; } if (offset < length) {  
+if(length==null){ length=length-pos; } if (offset < length) {  
+if(length==null){ length=inputlength; } if (offset < length) {  
+if(length==null){ length=inputLen; } if (offset < length) {  
+if(length==null){ length=totalLength; } if (offset < length) {  
+if(length==null){ length=i+1; } if (offset < length) {  
+if(length==null){ length=length-1; } if (offset < length) {  
+if(length==null){ length=limit; } if (offset < length) {  
+if(length==null){ length=length - pos; } if (offset < length) {  
+if(length==null){ length=0 }; } if (offset < length) {  
+if(length==null){ length=startChar; } if (offset < length) {  
+if(length==null){ length= pos; } if (offset < length) {  
+if(length==null){ length= 0; } if (offset < length) {  
+if(length==null){ length=pos+1; } if (offset < length) {  
+if(length==null){ length= length; } if (offset < length) {  
+if(length==null){ length=pos+length; } if (offset < length) {  
+if(length==null){ length=index; } if (offset < length) {  
+if(length==null){ length=null; } if (offset < length) {  
+if(length==null){ length=first; } if (offset < length) {  
+if(length==null){ length=start; } if (offset < length) {  
+if(length==null){ length=length*2; } if (offset < length) {  
+if(length==null){ length=idx; } if (offset < length) {  
+if(length==null){ length=pos-1; } if (offset < length) {  
+if(length==null){ length=input length; } if (offset < length) {  
+if(length==null){ length=length+pos; } if (offset < length) {  
+if(length==null){ length=n; } if (offset < length) {  
+if(length==null){ length=pos - pos; } if (offset < length) {  
+if(length==null){ length=10; } if (offset < length) {  
+if(length==null){ length=total; } if (offset < length) {  
+if(length==null){ length=position; } if (offset < length) {  
+if(length==null){ length=size; } if (offset < length) {  
+if(length==null){ length=min; } if (offset < length) {  
+if(length==null){ length=remainingLength; } if (offset < length) {  
+if(length==null){ length=3; } if (offset < length) {  
+if(length==null){ length=lengthMax; } if (offset < length) {  
+if(length==null){ length=pos - length; } if (offset < length) {  
+if(length==null){ length=Input.length; } if (offset < length) {  
+if(length==null){ length=tail; } if (offset < length) {  
+if(length==null){ length=0}; } if (offset < length) {  
+if(length==null){ length=length(); } if (offset < length) {  
+if(length==null){ length=lengthDefault; } if (offset < length) {  
+if(length==null){ length=num; } if (offset < length) {  
+if(length==null){ length=pos + length; } if (offset < length) {  
+if(length==null){ length=remaining; } if (offset < length) {  
+if(length==null){ length=inputEnd; } if (offset < length) {  
+if(length==null){ length=offset+length; } if (offset < length) {  
+if(length==null){ length=maxLength; } if (offset < length) {  
+if(length==null){ length=j; } if (offset < length) {  
+if(length==null){ length=0; }; } if (offset < length) {  
+if(length==null){ length=length + 1; } if (offset < length) {  
+if(length==null){ length=numChars; } if (offset < length) {  
+if(length==null){ length=pos + 1; } if (offset < length) {  
+if(length==null){ length=0;}; } if (offset < length) {  
+if(length==null){ length= 1; } if (offset < length) {  
+if(length==null){ length=12; } if (offset < length) {  
+if(length==null){ length=output.length; } if (offset < length) {  
+if(length==null){ length=inp.length; } if (offset < length) {  
+if(length==null){ length= len; } if (offset < length) {  
+if(length==null){ length=charsLength; } if (offset < length) {  
+if(length==null){ length=params.length; } if (offset < length) {  
+if(length==null){ length=length+offset; } if (offset < length) {  
+if(length==null){ length=length; }; } if (offset < length) {  
+if(length==null){ length=1 }; } if (offset < length) {  
+if(length==null){ length=initialLength; } if (offset < length) {  
+if(length==null){ length=pos-offset; } if (offset < length) {  
+if(length==null){ length=inputSize; } if (offset < length) {  
+if(length==null){ length=inputs.length; } if (offset < length) {  
+if(length==null){ length=pos - offset; } if (offset < length) {  
+if(length==null){ length=length+2; } if (offset < length) {  
+if(length==null){ length=buf.length; } if (offset < length) {  
+if(length==null){ length=int; } if (offset < length) {  
+if(length==null){ length=begin; } if (offset < length) {  
+if(length==null){ length= nextIndexOf; } if (offset < length) {  
+if(length==null){ length=inputIndex; } if (offset < length) {  
+if(length==null){ length=pos; }; } if (offset < length) {  
+if(length==null){ length=lengthInt; } if (offset < length) {  
+if(length==null){ length=inputCount; } if (offset < length) {  
+if(length==null){ length=4; } if (offset < length) {  
+if(length==null){ length=offset+1; } if (offset < length) {  
+if(length==null){ length=str.length; } if (offset < length) {  
+if(length==null){ length=minLength; } if (offset < length) {  
+if(length==null){ length=this.length; } if (offset < length) {  
+if(length==null){ length=length-offset; } if (offset < length) {  
+if(length==null){ length=inlength; } if (offset < length) {  
+if(length==null){ length=inLength; } if (offset < length) {  
+if(length==null){ length=offset-pos; } if (offset < length) {  
+if(length==null){ length=getInputLength; } if (offset < length) {  
+if(length==null){ length=inputStart; } if (offset < length) {  
+if(length==null){ length=minLength; } if (offset < length) {  
+if(length==null){ length=pos-length; } if (offset < length) {  
+if(length==null){ length=cp; } if (offset < length) {  
+if(length==null){ length=pos - 1; } if (offset < length) {  
+if(length==null){ length=positions; } if (offset < length) {  
+if(length==null){ length=length() }; } if (offset < length) {  
+if(length==null){ length=length1; } if (offset < length) {  
+if(length==null){ length=6; } if (offset < length) {  
+if(length==null){ length=capacity; } if (offset < length) {  
+if(length==null){ length=lastIndex; } if (offset < length) {  
+if(length==null){ length= last; } if (offset < length) {  
+if(length==null){ length=lengthLimit; } if (offset < length) {  
+if(length==null){ length=text.length; } if (offset < length) {  
+if(length==null){ length=seq; } if (offset < length) {  
+if(length==null){ length=length(); }; } if (offset < length) {  
+if(length==null){ length=5; } if (offset < length) {  
+if(length==null){ length=pos+len; } if (offset < length) {  
+if(length==null){ length=chars; } if (offset < length) {  
+if(length==null){ length=Integer; } if (offset < length) {  
+if(length==null){ length= -1; } if (offset < length) {  
+if(length==null){ length=pos-pos; } if (offset < length) {  
+if(length==null){ length=length2; } if (offset < length) {  
+if(length==null){ length=tailLength; } if (offset < length) {  
+if(length==null){ length=nextIndex; } if (offset < length) {  
+if(length==null){ length=in; } if (offset < length) {  
+if(length==null){ length=11; } if (offset < length) {  
+if(length==null){ length=getLength; } if (offset < length) {  
+if(length==null){ length=1; }; } if (offset < length) {  
+if(length==null){ length=length()-1; } if (offset < length) {  
+if(length==null){ length=i-1; } if (offset < length) {  
+if(length==null){ length=length + pos; } if (offset < length) {  
+if(length==null){ length=Pos; } if (offset < length) {  
+if(length==null){ length=p; } if (offset < length) {  
+if(length==null){ length=s.length; } if (offset < length) {  
+if(length==null){ length=16; } if (offset < length) {  
+if(length==null){ length=length0; } if (offset < length) {  
+if(length==null){ length=originalLength; } if (offset < length) {  
+if(length==null){ length=firstLength; } if (offset < length) {  
+if(length==null){ length=all; } if (offset < length) {  
+if(length==null){ length=startLength; } if (offset < length) {  
+if(length==null){ length=inputlen; } if (offset < length) {  
+if(length==null){ length=length - offset; } if (offset < length) {  
+if(length==null){ length=noLength; } if (offset < length) {  
+if(length==null){ length=last+1; } if (offset < length) {  
+if(length==null){ length=endpos; } if (offset < length) {  
+if(length==null){ length=0 } }; } if (offset < length) {  
+if(length==null){ length=buffer.length; } if (offset < length) {  
+if(length==null){ length=length - 1; } if (offset < length) {  
+if(length==null){ length=1}; } if (offset < length) {  
+if(length==null){ length=Length; } if (offset < length) {  
+if(length==null){ length=inputOffset; } if (offset < length) {  
+if(length==null){ length=100; } if (offset < length) {  
+if(length==null){ length=MAX; } if (offset < length) {  
+if(length==null){ length=defaultLength; } if (offset < length) {  
+if(length==null){ length=inputLimit; } if (offset < length) {  
+if(length==null){ length=readLength; } if (offset < length) {  
+if(length==null){ length=lengthMin; } if (offset < length) {  
+if(length==null){ length=getInputLength(); } if (offset < length) {  
+if(length==null){ length=lengthInString; } if (offset < length) {  
+if(length==null){ length=longest; } if (offset < length) {  
+if(length==null){ length=getInput().length; } if (offset < length) {  
+if(length==null){ length=true; } if (offset < length) {  
+if(length==null){ length=src.length; } if (offset < length) {  
+if(length==null){ length=endOfInput; } if (offset < length) {  
+if(length==null){ length=offset + length; } if (offset < length) {  
+if(length==null){ length=end-pos; } if (offset < length) {  
+if(length==null){ length=8; } if (offset < length) {  
+if(length==null){ length=maxLength; } if (offset < length) {  
+if(length==null){ length=initLength; } if (offset < length) {  
+if(length==null){ length=nr; } if (offset < length) {  
+if(length==null){ length=totalLen; } if (offset < length) {  
+if(length==null){ length=lengthOrDefault; } if (offset < length) {  
+if(length==null){ length= end; } if (offset < length) {  
+if(length==null){ length=currentLength; } if (offset < length) {  
+if(length==null){ length=charCount; } if (offset < length) {  
+if(length==null){ length=cursor; } if (offset < length) {  
+if(length==null){ length=getCharCount; } if (offset < length) {  
+if(length==null){ length=length + offset; } if (offset < length) {  
+if(length==null){ length=endIndex; } if (offset < length) {  
+if(length==null){ length=length*3; } if (offset < length) {  
+if(length==null){ length=strLength; } if (offset < length) {  
+if(length==null){ length=input length }; } if (offset < length) {  
+if(length==null){ length=i-pos; } if (offset < length) {  
+if(length==null){ length=inSize; } if (offset < length) {  
+if(length==null){ length=i + 1; } if (offset < length) {  
+if(length==null){ length=getLast; } if (offset < length) {  
+if(length==null){ length=stringLength; } if (offset < length) {  
+if(length==null){ length=firstIndex; } if (offset < length) {  
+if(length==null){ length=last-pos; } if (offset < length) {  
+if(length==null){ length=items.length; } if (offset < length) {  
+if(length==null){ length=i+length; } if (offset < length) {  
+if(length==null){ length=lengthRequired; } if (offset < length) {  
+if(length==null){ length=offset - pos; } if (offset < length) {  
+if(length==null){ length=128; } if (offset < length) {  
+if(length==null){ length=firstChar; } if (offset < length) {  
+if(length==null){ length=i - pos; } if (offset < length) {  
+if(length==null){ length=pos}; } if (offset < length) {  
+if(length==null){ length=strLen; } if (offset < length) {  
+if(length==null){ length=head; } if (offset < length) {  
+if(length==null){ length=sequenceLength; } if (offset < length) {  
+if(length==null){ length=length()-pos; } if (offset < length) {  
+if(length==null){ length=length * 2; } if (offset < length) {  
+if(length==null){ length=i; }; } if (offset < length) {  
+if(length==null){ length=remainingChars; } if (offset < length) {  
+if(length==null){ length=maxOffset; } if (offset < length) {  
+if(length==null){ length=patternLength; } if (offset < length) {  
+if(length==null){ length=lengthLength; } if (offset < length) {  
+if(length==null){ length= i; } if (offset < length) {  
+if(length==null){ length=lengthFrom; } if (offset < length) {  
+if(length==null){ length=findLength; } if (offset < length) {  
+if(length==null){ length=init; } if (offset < length) {  
+if(length==null){ length=64; } if (offset < length) {  
+if(length==null){ length=9; } if (offset < length) {  
+if(length==null){ length=range; } if (offset < length) {  
+if(length==null){ length=params; } if (offset < length) {  
+if(length==null){ length=initial; } if (offset < length) {  
+if(length==null){ length=inLen; } if (offset < length) {  
+if(length==null){ length=chunkSize; } if (offset < length) {  
+if(length==null){ length=length}; } if (offset < length) {  
+if(length==null){ length=length*4; } if (offset < length) {  
+if(length==null){ length=currLength; } if (offset < length) {  
+if(length==null){ length=textLength; } if (offset < length) {  
+if(length==null){ length=lengthInclusive; } if (offset < length) {  
+if(length==null){ length=lengthLong; } if (offset < length) {  
+if(length==null){ length=lengthOfInput; } if (offset < length) {  
+if(length==null){ length= length(); } if (offset < length) {  
+if(length==null){ length=remainingSize; } if (offset < length) {  
+if(length==null){ length=last - pos; } if (offset < length) {  
+if(length==null){ length=cnt; } if (offset < length) {  
+if(length==null){ length= inputLength; } if (offset < length) {  
+if(length==null){ length=maxLen; } if (offset < length) {  
+if(length==null){ length=lengthWhile; } if (offset < length) {  
+if(length==null){ length=makeLength; } if (offset < length) {  
+if(length==null){ length=partialLength; } if (offset < length) {  
+if(length==null){ length=allLength; } if (offset < length) {  
+if(length==null){ length=pos+2; } if (offset < length) {  
+if(length==null){ length=string.length; } if (offset < length) {  
+if(length==null){ length=endPos; } if (offset < length) {  
+if(length==null){ length=getLength(); } if (offset < length) {  
+if(length==null){ length=in length; } if (offset < length) {  
+if(length==null){ length= length+1; } if (offset < length) {  
+if(length==null){ length= chars.length; } if (offset < length) {  
+if(length==null){ length=String.length; } if (offset < length) {  
+if(i < last){ if (offset < length) {}  
+if(i < length){ if (offset < length) {}  
+if(i <= last){ if (offset < length) {}  
+if(last < length){ if (offset < length) {}  
+if(i != last){ if (offset < length) {}  
+if(i == length){ if (offset < length) {}  
+if(last != pos){ if (offset < length) {}  
+if(i == last){ if (offset < length) {}  
+if(offset < length){ if (offset < length) {}  
+if(offset < last){ if (offset < length) {}  
+if(last < pos){ if (offset < length) {}  
+if(last > pos){ if (offset < length) {}  
+if(last == pos){ if (offset < length) {}  
+if(i >= length){ if (offset < length) {}  
+if( i < last){ if (offset < length) {}  
+if(i <= length){ if (offset < length) {}  
+if(i != length){ if (offset < length) {}  
+if( i < length){ if (offset < length) {}  
+if(last){ if (offset < length) {}  
+if(last >= pos){ if (offset < length) {}  
+if(i > pos){ if (offset < length) {}  
+if(first){ if (offset < length) {}  
+if(offset >= length){ if (offset < length) {}  
+if(i >= last){ if (offset < length) {}  
+if(i > last){ if (offset < length) {}  
+if(last <= pos){ if (offset < length) {}  
+if(i<length){ if (offset < length) {}  
+if(j < last){ if (offset < length) {}  
+if(last != length){ if (offset < length) {}  
+if(offset == length){ if (offset < length) {}  
+if(last >= length){ if (offset < length) {}  
+if(last == length){ if (offset < length) {}  
+if(offset != last){ if (offset < length) {}  
+if(i<last){ if (offset < length) {}  
+if(i < len){ if (offset < length) {}  
+if(offset == last){ if (offset < length) {}  
+if(pos < length){ if (offset < length) {}  
+if(last < offset){ if (offset < length) {}  
+if(true){ if (offset < length) {}  
+if(i > 0){ if (offset < length) {}  
+if(last != offset){ if (offset < length) {}  
+if( offset < last){ if (offset < length) {}  
+if(i != length-1){ if (offset < length) {}  
+if( i == length){ if (offset < length) {}  
+if(offset <= last){ if (offset < length) {}  
+if(j < length){ if (offset < length) {}  
+if(offset <= length){ if (offset < length) {}  
+if(i <= pos){ if (offset < length) {}  
+if(startChar == last){ if (offset < length) {}  
+if(isFull){ if (offset < length) {}  
+if(pos < last){ if (offset < length) {}  
+if( offset < length){ if (offset < length) {}  
+if(offset > pos){ if (offset < length) {}  
+if(startChar == endChar){ if (offset < length) {}  
+if(j == last){ if (offset < length) {}  
+if( last < pos){ if (offset < length) {}  
+if(i == length-1){ if (offset < length) {}  
+if(startChar == end){ if (offset < length) {}  
+if(isFullSequence){ if (offset < length) {}  
+if(last<pos){ if (offset < length) {}  
+if(i > length){ if (offset < length) {}  
+if(i < length-1){ if (offset < length) {}  
+if(length > 0){ if (offset < length) {}  
+if(j == length){ if (offset < length) {}  
+if( i == last){ if (offset < length) {}  
+if(nextIndexOf(seq)){ if (offset < length) {}  
+if(i >= 0){ if (offset < length) {}  
+if( last < length){ if (offset < length) {}  
+if(startChar != last){ if (offset < length) {}  
+if(last >= 0){ if (offset < length) {}  
+if(last < last){ if (offset < length) {}  
+if( last != pos){ if (offset < length) {}  
+if(i == 0){ if (offset < length) {}  
+if(last<length){ if (offset < length) {}  
+if(end){ if (offset < length) {}  
+if(i==length){ if (offset < length) {}  
+if(i >= pos){ if (offset < length) {}  
+if( i != last){ if (offset < length) {}  
+if( i <= last){ if (offset < length) {}  
+if(startChar != end){ if (offset < length) {}  
+if(i < 0){ if (offset < length) {}  
+if(i <= length-1){ if (offset < length) {}  
+if(last==pos){ if (offset < length) {}  
+if(false){ if (offset < length) {}  
+if(index < last){ if (offset < length) {}  
+if(i != 0){ if (offset < length) {}  
+if(index == last){ if (offset < length) {}  
+if(last != 0){ if (offset < length) {}  
+if( last > pos){ if (offset < length) {}  
+if(last == pos+1){ if (offset < length) {}  
+if(last == offset){ if (offset < length) {}  
+if( last == pos){ if (offset < length) {}  
+if(offset >= last){ if (offset < length) {}  
+if(match){ if (offset < length) {}  
+if(j > 0){ if (offset < length) {}  
+if(last > offset){ if (offset < length) {}  
+if(offset > 0){ if (offset < length) {}  
+if( i >= length){ if (offset < length) {}  
+if(i <= len){ if (offset < length) {}  
+if( i != length){ if (offset < length) {}  
+if(last != pos+1){ if (offset < length) {}  
+if(last!=pos){ if (offset < length) {}  
+if(length > pos){ if (offset < length) {}  
+if(last < len){ if (offset < length) {}  
+if(startChar != endChar){ if (offset < length) {}  
+if(index < length){ if (offset < length) {}  
+if(i < end){ if (offset < length) {}  
+if(firstOf){ if (offset < length) {}  
+if(hasNext){ if (offset < length) {}  
+if(offset != length){ if (offset < length) {}  
+if(last > pos+length){ if (offset < length) {}  
+if( i > pos){ if (offset < length) {}  
+if(offset<length){ if (offset < length) {}  
+if(i == pos){ if (offset < length) {}  
+if(last == 0){ if (offset < length) {}  
+if(last <= length){ if (offset < length) {}  
+if(nextIndexOf){ if (offset < length) {}  
+if(pos == last){ if (offset < length) {}  
+if(last < input.length){ if (offset < length) {}  
+if(i<=length){ if (offset < length) {}  
+if(i==last){ if (offset < length) {}  
+if(offset > length){ if (offset < length) {}  
+if(i != pos){ if (offset < length) {}  
+if(last <= offset){ if (offset < length) {}  
+if( i < len){ if (offset < length) {}  
+if( i <= length){ if (offset < length) {}  
+if(seq != null){ if (offset < length) {}  
+if(j > pos){ if (offset < length) {}  
+if(j<last){ if (offset < length) {}  
+if(0 <= offset){ if (offset < length) {}  
+if(first == last){ if (offset < length) {}  
+if(j != last){ if (offset < length) {}  
+if(last != pos+length){ if (offset < length) {}  
+if(0 < last){ if (offset < length) {}  
+if(last>pos){ if (offset < length) {}  
+if(j<length){ if (offset < length) {}  
+if(last < 0){ if (offset < length) {}  
+if(last < i){ if (offset < length) {}  
+if(i < tail){ if (offset < length) {}  
+if( j < last){ if (offset < length) {}  
+if( offset == length){ if (offset < length) {}  
+if(stop){ if (offset < length) {}  
+if(last != i){ if (offset < length) {}  
+if(i >= len){ if (offset < length) {}  
+if(last < position){ if (offset < length) {}  
+if(idx == last){ if (offset < length) {}  
+if(offset > last){ if (offset < length) {}  
+if(offset<last){ if (offset < length) {}  
+if(foundFullSequence){ if (offset < length) {}  
+if(i <= end){ if (offset < length) {}  
+if(last < pos+length){ if (offset < length) {}  
+if(i < pos){ if (offset < length) {}  
+if(firstMatch){ if (offset < length) {}  
+if(i != length - 1){ if (offset < length) {}  
+if( last >= pos){ if (offset < length) {}  
+if(i!=length){ if (offset < length) {}  
+if(last == length-1){ if (offset < length) {}  
+if(i>=length){ if (offset < length) {}  
+if(index >= length){ if (offset < length) {}  
+if(i == len){ if (offset < length) {}  
+if(j == 0){ if (offset < length) {}  
+if(pos == length){ if (offset < length) {}  
+if(first == true){ if (offset < length) {}  
+if( offset >= length){ if (offset < length) {}  
+if(last == pos+length){ if (offset < length) {}  
+if(last != last){ if (offset < length) {}  
+if( last < offset){ if (offset < length) {}  
+if(last > length){ if (offset < length) {}  
+if( last == length){ if (offset < length) {}  
+if(j == length-1){ if (offset < length) {}  
+if(j){ if (offset < length) {}  
+if(pos != last){ if (offset < length) {}  
+if(i < last-1){ if (offset < length) {}  
+if(i){ if (offset < length) {}  
+if(index != last){ if (offset < length) {}  
+if( last){ if (offset < length) {}  
+if(i!=last){ if (offset < length) {}  
+if(idx < last){ if (offset < length) {}  
+if(prefix){ if (offset < length) {}  
+if(idx < length){ if (offset < length) {}  
+if( true){ if (offset < length) {}  
+if(index >= last){ if (offset < length) {}  
+if(startChar != null){ if (offset < length) {}  
+if(last >= offset){ if (offset < length) {}  
+if(i != len){ if (offset < length) {}  
+if(j >= last){ if (offset < length) {}  
+if(hasNext()){ if (offset < length) {}  
+if(startChar == 0){ if (offset < length) {}  
+if(i == length - 1){ if (offset < length) {}  
+if(length >= pos){ if (offset < length) {}  
+if(pos >= length){ if (offset < length) {}  
+if(n){ if (offset < length) {}  
+if(offset >= pos){ if (offset < length) {}  
+if(i<=last){ if (offset < length) {}  
+if(j >= length){ if (offset < length) {}  
+if(n > 0){ if (offset < length) {}  
+if(offset < len){ if (offset < length) {}  
+if(last != pos-1){ if (offset < length) {}  
+if(0 < i){ if (offset < length) {}  
+if(last != -1){ if (offset < length) {}  
+if( last != length){ if (offset < length) {}  
+if(last > 0){ if (offset < length) {}  
+if(index){ if (offset < length) {}  
+if( i != length-1){ if (offset < length) {}  
+if(0 <= i){ if (offset < length) {}  
+if(pattern){ if (offset < length) {}  
+if( nextIndexOf(seq)){ if (offset < length) {}  
+if(pos <= last){ if (offset < length) {}  
+if(i < length - 1){ if (offset < length) {}  
+if(last == pos-1){ if (offset < length) {}  
+if(j > last){ if (offset < length) {}  
+if(last != position){ if (offset < length) {}  
+if( i < length-1){ if (offset < length) {}  
+if(last != input.length){ if (offset < length) {}  
+if(first == false){ if (offset < length) {}  
+if(index > 0){ if (offset < length) {}  
+if(last <= pos+length){ if (offset < length) {}  
+if(last==length){ if (offset < length) {}  
+if(i<=pos){ if (offset < length) {}  
+if(last > pos+1){ if (offset < length) {}  
+if(last != length-1){ if (offset < length) {}  
+if(i != -1){ if (offset < length) {}  
+if(startChar != 0){ if (offset < length) {}  
+if(all){ if (offset < length) {}  
+if(first && last){ if (offset < length) {}  
+if( last <= pos){ if (offset < length) {}  
+if(offset == 0){ if (offset < length) {}  
+if(i > offset){ if (offset < length) {}  
+if(startChar < last){ if (offset < length) {}  
+if(length < last){ if (offset < length) {}  
+if(i<len){ if (offset < length) {}  
+if(offset >= 0){ if (offset < length) {}  
+if(length == last){ if (offset < length) {}  
+if(i < last ){ if (offset < length) {}  
+if(nextIndexOf == null){ if (offset < length) {}  
+if(offset <= pos){ if (offset < length) {}  
+if(length < pos){ if (offset < length) {}  
+if(last == input.length){ if (offset < length) {}  
+if(offset){ if (offset < length) {}  
+if(hasNext){ if (offset < length) {}  
+if(isEmpty){ if (offset < length) {}  
+if(range){ if (offset < length) {}  
+if(i > pos+length){ if (offset < length) {}  
+if(i < last-pos){ if (offset < length) {}  
+if(loop){ if (offset < length) {}  
+if(inSequence){ if (offset < length) {}  
+if(endReached){ if (offset < length) {}  
+if(separator){ if (offset < length) {}  
+if(limit){ if (offset < length) {}  
+if(i < length-pos){ if (offset < length) {}  

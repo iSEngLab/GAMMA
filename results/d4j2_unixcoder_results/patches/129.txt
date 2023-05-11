@@ -1,0 +1,2000 @@
+ return null;  
+ tq.consume();;  
+ return new Attribute;  
+ //return null;  
+ tq.consumeWhitespace();;  
+ return Attribute;  
+ return this;  
+ tq.consume;  
+ System.out.println;  
+ };  
+ null;  
+ return Attribute.EMPTY;  
+ ;  
+ return;  
+ tq.next();;  
+ throw new IllegalArgumentException;  
+ panic;  
+ return Attribute.NULL;  
+ return new Attribute();;  
+ throw new IllegalStateException;  
+ value = null;  
+;  
+ error;  
+ return attribute;  
+ // return null;  
+ return key;  
+ tq.consumeWhitespace;  
+ return value;  
+ System.err.println;  
+ throw new RuntimeException;  
+  return null;  
+ return false;  
+ String value = null;  
+ throw new UnsupportedOperationException;  
+ return nil;  
+ return new Attribute() {;  
+ ...;  
+ value = "";;  
+ return new EmptyAttribute;  
+ return new StringAttribute;  
+ key = null;  
+ //tq.consume();;  
+ return attr;  
+ return parseAttribute;  
+ Return null;  
+ throw new IOException;  
+ tq.nextToken();;  
+ throw new IllegalStateException();;  
+ return new NullAttribute;  
+ Error;  
+ return Attribute.empty;  
+ return Attribute.NONE;  
+ return undefined;  
+ return new AttributeImpl;  
+ tq.reset;  
+ return defaultValue;  
+ //TODO;  
+ //;  
+ AST#return_statement#Leftreturn null;  
+ eof;  
+ return Attribute.createEmpty;  
+ print;  
+ throw new Exception;  
+ --;  
+ assert false;  
+ tq.reset();;  
+ return Attribute.UNDEFINED;  
+   return null;  
+ @return;  
+ throw new Error;  
+ //return null;  
+ tq.consumeWhitespace();  
+ String value = "";;  
+ fail;  
+ tq.fail();;  
+ tq.skipWhitespace();;  
+ tq.consume(); ;  
+ tq.next;  
+ EOF;  
+ key;  
+ delete;  
+ return newValue;  
+ try;  
+ println;  
+ token;  
+ return Attribute.create;  
+ //return new Attribute;  
+ return true;  
+ nextToken();;  
+ return empty;  
+ String key = null;  
+     return null;  
+ break;  
+ throw new NoSuchElementException;  
+ //    return null;  
+ end;  
+ tq.consumeSemicolon();;  
+ tq.error;  
+ return attrs;  
+ throw new IllegalStateException();  
+ tq.consume();  
+ exit;  
+ return Attribute.Empty;  
+ return getAttribute;  
+ return Attribute.emptyAttribute;  
+ stream;  
+ @return Attribute;  
+ "";  
+ //panic;  
+ return parseAttributeKey;  
+ input = null;  
+ TBD;  
+ return EMPTY;  
+  return null;  
+ return new String;  
+ return null;  
+ throw new EOFException;  
+ return "";  
+ token = null;  
+ tq.discardWhitespace();;  
+ return NULL;  
+ returns null;  
+ //throw new IllegalStateException;  
+ return Attribute.INSTANCE;  
+ throw new ParseException;  
+ return EmptyAttribute;  
+ pass;  
+ tq.close();;  
+ return createAttribute;  
+ return Attribute.fromEncoded;  
+ return attributes;  
+ value;  
+ error = true;  
+ return String;  
+ assert true;  
+ continue;  
+ Null;  
+ return null; };  
+ // return null;  
+ TODO;  
+ throw;  
+ throw new NullPointerException;  
+ throw new AssertionError;  
+ close;  
+ throw Error;  
+         return null;  
+ attribute = null;  
+ return Key;  
+ return Attribute.createFromEncoded;  
+ err;  
+ System.err;  
+ tq;  
+  return null;  
+ tq.err;  
+ return new SimpleAttribute;  
+ return emptyAttribute;  
+ throw new IllegalArgumentException();;  
+ p;  
+ return NONE;  
+ reset;  
+ return parseValue;  
+ return parseAttributeKey();;  
+ tq.rewind;  
+ tq.consumeChar();;  
+ //throw new UnsupportedOperationException;  
+ //        return null;  
+ DEBUG;  
+ eof = true;  
+ tq.error();;  
+ //return this;  
+ throw new ParseError;  
+  };  
+ ++;  
+ assert false;;  
+ tq.rewind();;  
+ null is returned;  
+ tq.nextToken;  
+ stream.next();;  
+ index++;;  
+ String defaultValue = null;  
+ return parseAttribute();  
+ //throw new RuntimeException;  
+ return Value;  
+ tq.fail;  
+ @return null;  
+ abort;  
+ parseAttribute;  
+ do something;  
+ return Attribute.ZERO;  
+ return blank;  
+ assert true;;  
+ return decodeAttribute;  
+ //throw new IllegalArgumentException;  
+ tq.throwException;  
+ throw new UnsupportedOperationException();;  
+ throw new IllegalArgumentException();  
+ return parseAttribute();;  
+ *;  
+ return String.class;  
+ throw null;  
+ start;  
+ throw new ParserException;  
+ //return parseAttribute;  
+ return defaultAttribute;  
+ return ParseAttribute;  
+ throw error;  
+ import;  
+ tq.discard();;  
+ nextToken(); return null;  
+ throw exception;  
+ done;  
+ input;  
+ next;  
+ attr = null;  
+ Value value = null;  
+ return "";;  
+ //return Attribute;  
+ return None;  
+ value = "";  
+ return SimpleAttribute;  
+ throw new AttributeException;  
+ return parseAttributeValue;  
+ return String.valueOf;  
+ tq.consume('=');;  
+ // return new Attribute;  
+ return new Attribute() ;  
+ String value;  
+ throw new AttributeNotFoundException;  
+ return parseString;  
+ foo = bar;  
+ tq.dispose();;  
+ return NewAttribute;  
+ console.log;  
+ log.warn;  
+ return new NumericAttribute;  
+ return EMPTY_ATTRIBUTE;  
+ //value = null;  
+ return Attribute.Null;  
+ //throw new IllegalStateException();;  
+ return Attribute.fromString;  
+ assert key != null;  
+ return new BasicAttribute;  
+ tq.consumeBlank();;  
+ return Attribute.getInstance;  
+ throw new ParsingException;  
+ //throw new IOException;  
+  return new Attribute;  
+ return new StringAttribute();;  
+ return Attribute.nullAttribute;  
+ return Attribute.DEFAULT;  
+ return null; tq.consume();  
+ key = null; tq.consume();  
+ //return null; tq.consume();  
+ return new Attribute; tq.consume();  
+ value = null; tq.consume();  
+ tq.consume();; tq.consume();  
+ String value = null; tq.consume();  
+ key; tq.consume();  
+ ; tq.consume();  
+ //tq.consume();; tq.consume();  
+ null; tq.consume();  
+ return key; tq.consume();  
+ return this; tq.consume();  
+ return Attribute; tq.consume();  
+ }; tq.consume();  
+ value = "";; tq.consume();  
+; tq.consume();  
+ return; tq.consume();  
+ String key = null; tq.consume();  
+ tq.reset();; tq.consume();  
+ return new Attribute() {; tq.consume();  
+ tq.next();; tq.consume();  
+ return value; tq.consume();  
+ return attribute; tq.consume();  
+ tq.consumeWhitespace();; tq.consume();  
+ //; tq.consume();  
+ error; tq.consume();  
+ token; tq.consume();  
+ tq.nextToken();; tq.consume();  
+ return new Attribute();; tq.consume();  
+ System.out.println; tq.consume();  
+ eof; tq.consume();  
+ tq.reset; tq.consume();  
+ ++; tq.consume();  
+ return Attribute.NULL; tq.consume();  
+ --; tq.consume();  
+ // return null; tq.consume();  
+ return parseAttribute; tq.consume();  
+ //return null; tq.consume();  
+ ""; tq.consume();  
+ key = ""; tq.consume();  
+ //TODO; tq.consume();  
+ return Attribute.EMPTY; tq.consume();  
+ throw new IllegalStateException();; tq.consume();  
+ panic; tq.consume();  
+ ...; tq.consume();  
+ @return; tq.consume();  
+ value; tq.consume();  
+ return attr; tq.consume();  
+ String value = "";; tq.consume();  
+ token = null; tq.consume();  
+ return false; tq.consume();  
+  return null; tq.consume();  
+ throw new IllegalStateException; tq.consume();  
+ try; tq.consume();  
+ EOF; tq.consume();  
+ return null; tq.consume();  
+ Error; tq.consume();  
+ tq.skipWhitespace();; tq.consume();  
+ Return null; tq.consume();  
+ attribute = null; tq.consume();  
+ throw new IllegalArgumentException; tq.consume();  
+ stream; tq.consume();  
+ return nil; tq.consume();  
+ TBD; tq.consume();  
+ tq.consume; tq.consume();  
+ @return null; tq.consume();  
+ @return Attribute; tq.consume();  
+ key = "";; tq.consume();  
+ nextToken();; tq.consume();  
+ throw new RuntimeException; tq.consume();  
+ return defaultValue; tq.consume();  
+ /*package; tq.consume();  
+ return new EmptyAttribute; tq.consume();  
+ return new NullAttribute; tq.consume();  
+ tag; tq.consume();  
+ Value value = null; tq.consume();  
+ end; tq.consume();  
+ System.err.println; tq.consume();  
+ return undefined; tq.consume();  
+ value = ""; tq.consume();  
+ input = null; tq.consume();  
+ String value; tq.consume();  
+ //value = null; tq.consume();  
+ break; tq.consume();  
+ // return null; tq.consume();  
+ //return key; tq.consume();  
+ throw new IOException; tq.consume();  
+ String value = ""; ; tq.consume();  
+ String defaultValue = null; tq.consume();  
+ throw new UnsupportedOperationException; tq.consume();  
+ decode; tq.consume();  
+ return new StringAttribute; tq.consume();  
+ return new String; tq.consume();  
+ //throw new IllegalStateException();; tq.consume();  
+ attr = null; tq.consume();  
+ AST#return_statement#Leftreturn null; tq.consume();  
+ //return new Attribute; tq.consume();  
+ continue; tq.consume();  
+ tag = null; tq.consume();  
+ /*; tq.consume();  
+ index++;; tq.consume();  
+ null is returned; tq.consume();  
+ return null; }; tq.consume();  
+ Attribute result = null; tq.consume();  
+ eof = true; tq.consume();  
+ return Attribute.NONE; tq.consume();  
+ return newValue; tq.consume();  
+ assert key != null; tq.consume();  
+ this.key = key; tq.consume();  
+ tq.discardWhitespace();; tq.consume();  
+ assert false; tq.consume();  
+ read; tq.consume();  
+ return new Attribute() ; tq.consume();  
+ return new AttributeImpl; tq.consume();  
+ delete; tq.consume();  
+ String value = ""; tq.consume();  
+ Value; tq.consume();  
+ return Attribute.UNDEFINED; tq.consume();  
+ //panic; tq.consume();  
+ tq.rewind();; tq.consume();  
+ //value = "";; tq.consume();  
+ tq.consume('=');; tq.consume();  
+ import; tq.consume();  
+ return NULL; tq.consume();  
+ next; tq.consume();  
+ tq.consume(); ; tq.consume();  
+ //return value; tq.consume();  
+ Token; tq.consume();  
+ this.key = null; tq.consume();  
+ String error = null; tq.consume();  
+ throw new Exception; tq.consume();  
+ return empty; tq.consume();  
+ //return this; tq.consume();  
+ parseAttribute();; tq.consume();  
+ nextToken(); return null; tq.consume();  
+ terminated; tq.consume();  
+ pass; tq.consume();  
+ return parseAttribute();; tq.consume();  
+ Key key = null; tq.consume();  
+ //value; tq.consume();  
+ gc; tq.consume();  
+ throw new UnsupportedOperationException();; tq.consume();  
+ //    return null; tq.consume();  
+ Internal; tq.consume();  
+ error = true; tq.consume();  
+ //throw new IllegalStateException; tq.consume();  
+ return true; tq.consume();  
+ return Key; tq.consume();  
+ //TBD; tq.consume();  
+ stream.next();; tq.consume();  
+ start; tq.consume();  
+ throw new Error; tq.consume();  
+ returns null; tq.consume();  
+ return parseAttribute(); tq.consume();  
+ p; tq.consume();  
+ result = null; tq.consume();  
+ input; tq.consume();  
+   return null; tq.consume();  
+ do something; tq.consume();  
+ fail; tq.consume();  
+ internal; tq.consume();  
+ ++count; tq.consume();  
+ Token token = null; tq.consume();  
+ exit; tq.consume();  
+ done; tq.consume();  
+ return new Attribute(); ; tq.consume();  
+ {; tq.consume();  
+ //else; tq.consume();  
+ Parse error; tq.consume();  
+ byte[] value = null; tq.consume();  
+ Attribute attribute = null; tq.consume();  
+ false; tq.consume();  
+ index = 0; tq.consume();  
+ throw new IllegalArgumentException();; tq.consume();  
+ //import; tq.consume();  
+ return Attribute.empty; tq.consume();  
+ return Attribute.create; tq.consume();  
+ return attrs; tq.consume();  
+ //throw new RuntimeException; tq.consume();  
+ import String; tq.consume();  
+ Attribute key = null; tq.consume();  
+ assert true; tq.consume();  
+ //return parseAttribute; tq.consume();  
+ return EMPTY; tq.consume();  
+ return getAttribute; tq.consume();  
+ tq.next; tq.consume();  
+ String encoded = null; tq.consume();  
+ Attribute attr = null; tq.consume();  
+ data = null; tq.consume();  
+ text = null; tq.consume();  
+ //return; tq.consume();  
+ return parseAttributeKey();; tq.consume();  
+ Key value = null; tq.consume();  
+ parseAttribute = true; tq.consume();  
+ return Attribute.INSTANCE; tq.consume();  
+ return Attribute.createEmpty; tq.consume();  
+ return parseValue; tq.consume();  
+ terminated = false; tq.consume();  
+ return null;; tq.consume();  
+ tq.skipSpaces();; tq.consume();  
+ tq.close();; tq.consume();  
+ //throw new UnsupportedOperationException; tq.consume();  
+ key=null; tq.consume();  
+ try { return null; tq.consume();  
+ Parse an attribute; tq.consume();  
+ name = null; tq.consume();  
+ foo = bar; tq.consume();  
+ e.g; tq.consume();  
+ string value = null; tq.consume();  
+ attribute = new Attribute();; tq.consume();  
+ //throw new IOException; tq.consume();  
+ //        return null; tq.consume();  
+ //throw new IllegalArgumentException; tq.consume();  
+ tq.clear();; tq.consume();  
+ tq.flush();; tq.consume();  
+ return createAttribute; tq.consume();  
+ return parseAttributeKey; tq.consume();  
+ //tq.nextToken();; tq.consume();  
+ this.value = null; tq.consume();  
+ assert true;; tq.consume();  
+ throw new EOFException; tq.consume();  
+ parseAttribute = false; tq.consume();  
+ tq.value = null; tq.consume();  
+ throw new IllegalStateException(); tq.consume();  
+ value = key; tq.consume();  
+ tq.error; tq.consume();  
+ null value = null; tq.consume();  
+ tq.fail();; tq.consume();  
+ return parseAttributeValue; tq.consume();  
+ this.value = value; tq.consume();  
+ return new EmptyAttribute();; tq.consume();  
+ //throw new UnsupportedOperationException();; tq.consume();  
+ tq.error();; tq.consume();  
+ attributeKey = null; tq.consume();  
+ assert value != null; tq.consume();  
+ value = null;; tq.consume();  
+ tq.pos++;; tq.consume();  
+ throw new NoSuchElementException; tq.consume();  
+ //tq.next();; tq.consume();  
+ String valueString = null; tq.consume();  
+ return Attribute.emptyAttribute; tq.consume();  
+ tq.whitespace();; tq.consume();  
+ return Attribute.Empty; tq.consume();  
+ return new NullAttribute();; tq.consume();  
+ parseAttributeKey();; tq.consume();  
+ throw new EOFException();; tq.consume();  
+ byte[] key = null; tq.consume();  
+ return new SimpleAttribute; tq.consume();  
+ //String value = null; tq.consume();  
+tq.consumeWhitespace();  
+tq.consume();  
+tq.next();  
+tq.consumeChar();  
+tq.nextToken();  
+tq.discard();  
+tq.skipWhitespace();  
+tq.consumeSemicolon();  
+tq.discardWhitespace();  
+tq.reset();  
+tq.skip();  
+tq.consumeText();  
+tq.consume();();  
+tq.consumeValue();  
+tq.consumeWhile();  
+tq.consumeSpace();  
+tq.close();  
+tq.fail();  
+tq.error();  
+tq.consumeAttributeKey();  
+tq.rewind();  
+tq.consumeAttributes();  
+tq.eat();  
+tq.consumeNull();  
+tq.consumeWord();  
+tq.consumeComma();  
+tq.consumeEmpty();  
+tq.throwException();  
+tq.consumeString();  
+tq.consumeBlankLine();  
+tq.end();  
+tq.skipSpaces();  
+tq.unconsume();  
+tq.consumeIdentifier();  
+tq.consumeCommaSeparated();  
+tq.flush();  
+tq.consumeError();  
+tq.peek();  
+tq.consumeAll();  
+tq.consumeWS();  
+tq.consumes();  
+tq.consumeBlank();  
+tq.consumeByte();  
+tq.parseWhitespace();  
+tq.skipToEnd();  
+tq.clear();  
+tq.consumeTag();  
+tq.dispose();  
+tq.consumeLength();  
+tq.consumeToken();  
+tq.consumeCharacters();  
+tq.consumeBytes();  
+tq.consumeUnquoted();  
+tq.consumeKeyword();  
+tq.consumeChars();  
+tq.accept();  
+tq.err();  
+tq.consumeUntil();  
+tq.consumeEOF();  
+tq.read();  
+tq.advance();  
+tq.consumeAscii();  
+tq.consumeAttribute();  
+tq.scan();  
+tq.throw();  
+tq.unread();  
+tq.consumeLine();  
+tq.consumeException();  
+tq.consumeUnsafe();  
+tq.consumeBlankLines();  
+tq.consumeSequence();  
+tq.consumeIdentity();  
+tq.consumeEOL();  
+tq.back();  
+tq.consumeSlash();  
+tq.consumeAny();  
+tq.consumeComment();  
+tq.consumeIndentation();  
+tq.consumeCharacter();  
+tq.consumeShort();  
+tq.consumeNext();  
+tq.eof();  
+tq.whitespace();  
+tq.consumeNewLine();  
+tq.terminate();  
+tq.consume2();  
+tq.value();  
+tq.parseError();  
+tq.addError();  
+tq.syntaxError();  
+tq.consumeToEnd();  
+tq.finish();  
+tq.backup();  
+tq.consumeKey();  
+tq.consumeWhitespace();();  
+tq.token();  
+tq.parseAttributeKey();  
+tq.consumeFully();  
+tq.consumeLeft();  
+tq.parseAttribute();  
+tq.consumeWhiteSpace();  
+tq.consumeQuotedString();  
+tq.consumeUnexpected();  
+tq.consumeInt();  
+tq.lookahead();  
+tq.consumesWhitespace();  
+tq.release();  
+tq.abort();  
+tq.consumeNonAscii();  
+tq.consumeRight();  
+tq.consumeNormal();  
+tq.skipToEnd();  
+tq.consumed();  
+tq.position();  
+tq.nextChar();  
+tq.drop();  
+tq.requireWhitespace();  
+tq.consume('=');();  
+tq.pos();  
+tq.consumeRaw();  
+tq.cancel();  
+tq.consumeNone();  
+tq.consumeSeparator();  
+tq.reject();  
+tq.consumeAngleBracket();  
+tq.consumewhitespace();  
+tq.consumeSpaces();  
+tq.readWhitespace();  
+tq.stop();  
+tq.pop();  
+tq.fetch();  
+tq.eatWhitespace();  
+tq.expect();  
+tq.consumeQuietly();  
+tq.consume1();  
+tq.ConsumeWhitespace();  
+tq.consumeUnchecked();  
+tq.consumeNonWhitespace();  
+tq.consume0();  
+tq.usage();  
+tq.ahead();  
+tq.skipWs();  
+tq.remove();  
+tq.consumeEmptyLine();  
+tq.consumeQuoted();  
+tq.failure();  
+tq.ConsumeSemicolon();  
+tq.process();  
+tq.removeWhitespace();  
+tq.finalize();  
+tq.empty();  
+tq.consumeSelf();  
+tq.consumeRequired();  
+tq.consumeSquareBracket();  
+tq.consumeDefault();  
+tq.consumeData();  
+tq.seek();  
+tq.consumeAttributeValue();  
+tq.next();();  
+tq.complete();  
+tq.moveToNext();  
+tq.ignore();  
+tq.parse();  
+tq.take();  
+tq.consumeUI();  
+tq.consumeErrors();  
+tq.consumeDigits();  
+tq.throwError();  
+tq.exit();  
+tq.unexpected();  
+tq.consumeRest();  
+tq.skipSpace();  
+tq.consumeWSP();  
+tq.delete();  
+tq.get();  
+tq.consumeThis();  
+tq.consumeXML();  
+tq.skipWS();  
+tq.skipValue();  
+tq.consumeChar(',');();  
+tq.failed();  
+tq.consumeProperty();  
+tq.consumeCRLF();  
+tq.consumeContent();  
+tq.pause();  
+tq.consumeWs();  
+tq.consumeInvalid();  
+tq.consumeBlock();  
+tq.consumeEntity();  
+tq.consumeMessage();  
+tq.consumeClose();  
+tq.consumeLong();  
+tq.commit();  
+tq.consume()();  
+tq.consumeUnknown();  
+tq.discardChar();  
+tq.consumeIdent();  
+tq.lex();  
+tq.skipWhiteSpaces();  
+tq.consumeWhileWhitespace();  
+tq.stream();  
+tq.exception();  
+tq.consumeVoid();  
+tq.blank();  
+tq.parseAttributes();  
+tq.skipped();  
+tq.consumeNonWs();  
+tq.consumeEnd();  
+tq.consumeIndex();  
+tq.discardSpace();  
+tq.consumeW();  
+tq.consume;();  
+tq.discardText();  
+tq.consumeSentence();  
+tq.consumeOther();  
+tq.skipWhitespaces();  
+tq.consumeAttributeValue();  
+tq.skipPast();  
+tq.consumeEscaped();  
+tq.consumeOptional();  
+tq.consumeCharRight();  
+tq.consumeBlankline();  
+tq.consumeX();  
+tq.consumeLast();  
+tq.consumeAttributeEnd();  
+tq.consumeASCII();  
+tq.consumeBackground();  
+tq.consumeEmptyText();  
+tq.chomp();  
+tq.consumeWidth();  
+tq.consumeRemaining();  
+tq.consumeUnexpectedToken();  
+tq.deleteChar();  
+tq.consumeUnescaped();  
+tq.consumeAllWhitespace();  
+tq.consumeCharAt();  
+tq.consumeEndOfLine();  
+tq.consumeChar('/');();  
+tq.consumeTo();  
+tq.consumeNonSpace();  
+tq.consumeWhite();  
+tq.skipBlankLines();  
+tq.consumeBlanks();  
+tq.unconsumeWhitespace();  
+tq.consumeBracket();  
+tq.consumeUnexpectedChar();  
+tq.consumeUnusedAttributes();  
+tq.consumeWsp();  
+tq.consumeEmptyAttribute();  
+tq.consumeSq();  
+); tq.consume(););  
+); tq.consume(); return parseAttribute(););  
+););  
+); tq.consumeWhitespace(););  
+); tq.consume(true);  
+); tq.consume(); return parseAttribute(); });  
+); tq.consume(false);  
+); tq.consume(null);  
+); tq.consume(); return new Attribute(key, value);  
+); tq.consume(); tq.consume(););  
+);  tq.consume(););  
+); tq.consumeSemicolon(););  
+); tq.consumeWhitespace(); return parseAttribute(););  
+); tq.consume(); return Attribute.createFromEncoded(key);  
+); });  
+); tq.consume(';);  
+); tq.consume(); return Attribute.createFromEncoded(key, value);  
+); tq.consume(); return Attribute.createFromEncoded(null);  
+); tq.consume('='););  
+); tq.consume(0);  
+); );  
+); tq.consume(); return null;);  
+); tq.next(););  
+); tq.consume(); return parseAttribute(true);  
+); tq.consume(); return new Attribute(key);  
+); tq.consume);  
+); tq.consume(); return parseAttribute(false);  
+);;);  
+); tq.consume(); return parseAttributeValue(););  
+);.);  
+); tq.consume(); return parseAttribute(null);  
+); tq.consume(); });  
+); tq.consume(); return parseValue(););  
+); tq.consume(); return parseAttribute(key);  
+); tq.consume(); return parseAttribute(); );  
+); tq.consume();  return parseAttribute(););  
+); return new Attribute(key, value);  
+); tq.consume(); return Attribute.createFromEncoded(null, value);  
+); tq.consume(); return new Attribute(key, value););  
+); return Attribute.createFromEncoded(key, value);  
+); tq.skipWhitespace(););  
+); tq.consume(); return parseAttribute);  
+); tq.consume(); );  
+); tq.consume(whitespace);  
+); tq.consume(value);  
+); tq.consume(); return Attribute.createFromEncoded(null, null);  
+);function);  
+); tq.consumeWhitespace(); return parseAttribute(); });  
+); tq.consume(); return parseAttribute(value);  
+); tq.consume(); return new Attribute(value);  
+); tq.consume(); return null; });  
+); tq.consume(); return Attribute.create(key, value);  
+); tq.consume(); tq.consumeWhitespace(););  
+); tq.consume(); tq.consume('='););  
+); tq.consume(); return Attribute.create(key);  
+); tq.consume(); tq.consume(); return parseAttribute(););  
+); tq.consume(); return parseAttributeValue(value);  
+);  tq.consume(); return parseAttribute(););  
+); tq.consume(); return parseValue(value);  
+); tq.consume(); return Attribute.createFromEncoded(value);  
+);public Attribute parseAttribute() {         return parseAttributeKey();     });  
+); tq.consume(); return parseAttributeValue(key);  
+); tq.consume(); return Attribute.createFromEncoded("", value);  
+); tq.consume(true); return parseAttribute(););  
+); tq.consumeSemicolon(); return parseAttribute(););  
+); tq.skipWhitespace(); return parseAttribute(););  
+); tq.consumeWhitespace(); return new Attribute(key, value);  
+); tq.consume(); return Attribute.fromEncoded(key);  
+); tq.consumeWhitespace(); return parseAttribute(true);  
+); tq.consumeSemicolon(); tq.consumeSemicolon(););  
+); tq.consumeWhitespace(); return parseAttribute(false);  
+); tq.consume(); tq.consume(); tq.consume(););  
+); tq.consume(); return parseAttribute(true););  
+); tq.discardWhitespace(); return parseAttribute(););  
+); tq.consumeWhitespace(); return parseAttribute(key);  
+); tq.consume(); return parseAttribute(key, value);  
+); tq.consume();  return parseAttribute(); });  
+); tq.consumeWhitespace(); return parseAttribute(null);  
+); tq.consume(); return Attribute.createFromEncoded(null, null););  
+); tq.consume(); //tq.consume(););  
+); tq.consumeWhitespace(); return parseAttribute(); );  
+); tq.consumeSemicolon(); tq.consume(););  
+); tq.consume(); return Attribute.createFromEncoded(key, null);  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value);  
+); tq.consume(); return parseAttribute(key););  
+); tq.consume(); return Attribute.fromEncoded(key, value);  
+); tq.consume(); tq.consume(); return Attribute.createFromEncoded(key, value);  
+); tq.consume(); return parseAttribute(false););  
+); tq.consumeWhitespace(); return null; });  
+); tq.consume(); return Attribute.fromEncoded(null);  
+);public Attribute parseAttribute() {         return new Attribute(key, value);  
+); tq.consume(); return Attribute.createFromEncoded(key, value););  
+); tq.consume(); return parseAttributeValue(key, value);  
+); tq.consume(); tq.consumeWhitespace(); return parseAttribute(););  
+); tq.consume(); return ParseAttribute.create(key);  
+); tq.consume(); return parseAttribute(key, value););  
+); tq.consume(); return Attribute.createFromEncoded("", ""););  
+); tq.consumeWhitespace(); return Attribute.createFromEncoded(key);  
+); tq.consume(); return Attribute.createFromEncoded(null, ""););  
+); tq.consume(true); return parseAttribute(); });  
+); tq.consume(); return new Attribute(key, value); });  
+); tq.consumeWhitespace(); return Attribute.createFromEncoded(key, value);  
+); tq.consume(); return Attribute.create(key, value););  
+); tq.consume(); tq.consume(); return parseAttribute(); });  
+); tq.consume(); tq.consume(); return new Attribute(key, value);  
+); tq.consumeWhitespace(); return Attribute.createFromEncoded(null);  
+); tq.consume(); return parseAttribute(null, null););  
+); tq.consumeWhitespace(); return new Attribute(key, value););  
+);public Attribute parseAttribute() {         return parseAttributeKey(true);     });  
+); tq.consume(); if (key.length() != 0) {);  
+); tq.consume(); tq.consume(); return Attribute.createFromEncoded(key);  
+); tq.consume(); tq.consume(); return Attribute.createFromEncoded(null, value);  
+); tq.consume(); tq.consume(); return new Attribute(key, value););  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key);  
+); tq.consume(); tq.consume(); tq.consume(); tq.consume(););  
+); tq.consume(); if (value == null) return null;);  
+); tq.consume(); public Attribute parseAttribute() { return parseAttribute(); });  
+); tq.consume(); tq.consume();  return parseAttribute(););  
+);public Attribute parseAttribute() { 		tq.consume(); 		return parseAttributeKey(); 	});  
+); tq.consume(); tq.consume(); return Attribute.createFromEncoded(key, value););  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, null);  
+); tq.consume(); return Attribute.createFromEncoded(null, null); });  
+); tq.consume(); if (value.length() != 0) return Attribute.createFromEncoded(value);  
+); tq.consume(); tq.consumeWhitespace(); return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (value.length() != 0) return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key.length() != 0) { return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return new Attribute(key, value);  
+);public Attribute createAttribute(String key, String value) {         return createAttribute(key, value);  
+);public Attribute parseAttribute() {         tq.consume();         return parseAttributeKey();     });  
+);public Attribute parseAttribute() {         String key = tq.consume();         String value = tq.consume();         return Attribute.createFromEncoded(key, value);  
+); tq.consume(); public Attribute parseAttribute() { return parseAttributeKey(); });  
+); tq.consume(); tq.consume(); return Attribute.create(key, value);  
+); tq.consume(); tq.consumeWhitespace(); return parseAttribute(); });  
+);public static Attribute createAttribute(String key, String value) {         return new Attribute(key, value);  
+);public Attribute createAttribute(String key, String value) {         return new Attribute(key, value);  
+); tq.consume(); public Attribute parseAttribute() { return Attribute.createFromEncoded(key, value); });  
+); tq.consume(); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value);  
+);public Attribute createAttribute(String key, String value) {         return new Attribute(key, value);     });  
+);public static Attribute fromEncoded(String key, String value) {         return new Attribute(key, value);  
+); tq.consume(); public Attribute parseAttribute() { return new Attribute(key, value); });  
+);public static Attribute createAttribute(String key, String value) {         return new Attribute(key, value);     });  
+); tq.consume(); if (key == null) { return null; });  
+);public static Attribute fromEncoded(String key, String value) {         return new Attribute(key, value);     });  
+); tq.consume(); tq.consume(); tq.consume(); tq.consume(); tq.consume(););  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value););  
+); tq.consume(); tq.consume(); return Attribute.createFromEncoded(null, null););  
+); tq.consume(); if (value == null) { return null; });  
+);public Attribute parseAttribute(String key, String value) {         return parseAttribute(key, value);  
+);public static Attribute createAttribute(String key, String value) {         return createAttribute(key, value);  
+);public Attribute fromEncoded(String key, String value) {         return new Attribute(key, value);  
+); tq.consume(); tq.consume(); tq.consume(); return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return parseAttribute(key, value);  
+);public Attribute fromEncoded(String key, String value) {         return new Attribute(key, value);     });  
+);function Attribute(key, value) {     this.key = key;     this.value = value; });  
+);public Attribute parseAttribute() {         String key = parseAttributeKey();         String value = parseAttributeValue();         return new Attribute(key, value);  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key == null) return null; else return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         Attribute attr = new Attribute();         attr.parse(tq);         return attr;     });  
+); tq.consume(); tq.consume(); return Attribute.createFromEncoded(key, value); });  
+););  
+);public Attribute parseAttribute() { 		tq.consume(); 		return new Attribute(key, value);  
+); tq.consume(); tq.consumeWhitespace(); return Attribute.createFromEncoded(null, value);  
+); tq.consume(); tq.consume(); return new Attribute(key, value); });  
+);function Attribute(key, value) {   this.key = key;   this.value = value; });  
+);public Attribute createAttribute(String key, String value) {         return createAttribute(key, value, null);     });  
+); tq.consume(); if (key == null) return null; return Attribute.createFromEncoded(key, value);  
+);public Attribute createAttribute(String key, String value) {         return createAttribute(key, value);     });  
+);public Attribute createAttribute(String key, String value) {         return createAttribute(key, value, null);  
+); tq.consume(); if (key.length() != 0) { return Attribute.createFromEncoded(key, value); });  
+); tq.consume(); if (value.length() != 0) return Attribute.createFromEncoded(value, null);  
+); tq.consume(); if (key.length() != 0) return Attribute.create(key, value);  
+);public Attribute parseAttribute() { 		tq.consume(); 		return new Attribute(key, value); 	});  
+);public Attribute parseAttribute() {         String key = tq.consume();         String value = tq.consume();         return new Attribute(key, value);  
+);public Attribute parseAttribute() {         Attribute attribute = new Attribute();         attribute.parse(tq);         return attribute;     });  
+);public Attribute createAttribute(String key, String value) {         return createAttribute(key, value, false);     });  
+);public Attribute parseAttribute() { 	String key = tq.consume(); 	String value = tq.consume(); 	return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key.length() != 0) return Attribute.fromEncoded(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consume();         if (key.length() != 0)             return Attribute.createFromEncoded(key, null);  
+);public Attribute parseAttribute() {         String key = parseAttributeKey();         String value = parseAttributeValue();         return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() { 	String key = tq.consumeAttributeKey(); 	String value = tq.consumeAttributeValue(); 	return new Attribute(key, value);  
+);function() { 		tq.consume(); 		return Attribute.createFromEncoded(null, null); 	});  
+);public static Attribute createAttribute(String key, String value) {         return createAttribute(key, value, null);     });  
+); tq.consume(); if (value.length() != 0) return Attribute.createFromEncoded(key, value););  
+); tq.consume(); if (key.length() == 0) return null; else return Attribute.createFromEncoded(key, value);  
+);public static Attribute createAttribute(String key, String value) {         return createAttribute(key, value, false);     });  
+); tq.consume(); return parseAttribute(); public Attribute parseAttribute() { return parseAttributeKey(); });  
+);public Attribute parseAttribute() { 		tq.consume(); 		return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key.length() != 0) { return Attribute.createFromEncoded(key);  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return new Attribute(key, value);  
+);public static Attribute createAttribute(String key, String value) {         return createAttribute(key, value, null);  
+); tq.consume(); if (value.length() != 0) { return Attribute.createFromEncoded(value);  
+);function Attribute(key, value) {     this.key = key;     this.value = value;     return null; });  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value); else return null;);  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, null););  
+); tq.consume(); if (key == null) { return null; } else { return Attribute.createFromEncoded(key, value);  
+);function Attribute(key, value) {         this.key = key;         this.value = value;         return null;     });  
+); tq.consume(); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, null);  
+); tq.consume(); tq.consume(); tq.consume(); tq.consume(); tq.consume(); tq.consume(););  
+);public Attribute parseAttribute() {         try {             return parseAttributeKey();         } catch (IOException e) {             throw new RuntimeException(e);  
+); tq.consume(); if (key == null) { return null; } return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         if (tq.hasNext())             return parseAttributeKey();         else             return parseAttributeValue();     });  
+);public Attribute parseAttribute() {         parseAttributeKey();         parseAttributeValue();         return new Attribute(key, value);     });  
+); tq.consume(); tq.consume(); if (key.length() != 0) { return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consume();         String value = tq.consumeAttributeValue();         return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key.length() != 0) { return Attribute.createFromEncoded(key, value); } else { return null; });  
+);function Attribute(key, value) {     this.key = key;     this.value = value;     return this; });  
+); tq.consume(); if (key == null) return null; else { return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {     String key = tq.consume();     String value = tq.consume();     return Attribute.createFromEncoded(key, value);  
+);private Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return new Attribute(key, value);  
+);public Attribute parseAttribute() {     String key = tq.consumeAttributeKey();     String value = tq.consumeAttributeValue();     return new Attribute(key, value);  
+);public Attribute parseAttribute() {         parseAttributeKey();         parseAttributeValue();         return new Attribute(key, value);  
+);public Attribute consumeAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return new Attribute(key, value);  
+);private Attribute parseAttribute() {         String key = tq.consume();         String value = tq.consume();         return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consume();         if (key.length() != 0)             return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key == null) return null; else return Attribute.createFromEncoded(key, value););  
+);public Attribute consumeAttribute() {         String key = tq.consume();         String value = tq.consume();         return Attribute.createFromEncoded(key, value);  
+); tq.consume(); tq.consume(); tq.consume(); tq.consume(); return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() { 	String key = tq.consumeAttributeKey(); 	String value = tq.consumeAttributeValue(); 	return parseAttribute(key, value);  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, null); else return null;);  
+);function Attribute(key, value) { 	this.key = key; 	this.value = value; 	return null; });  
+); tq.consume(); if (value.length() != 0) { return Attribute.createFromEncoded(key, value); });  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeValue();         String value = tq.consumeAttributeValue();         return Attribute.createFromEncoded(key, value);  
+);function Attribute(key, value) {   this.key = key;   this.value = value;   return null; });  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return parseAttribute(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = parseAttributeValue();         return new Attribute(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consume();         String value = tq.consume();          return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         try {             return parseAttributeKey();         } catch (Exception e) {             throw new RuntimeException(e);  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value); else return null; });  
+); tq.consume(); if (value.length() != 0) return Attribute.createFromEncoded(key, value); else return null;);  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = parseAttributeValue();         return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value); else { return null; });  
+); tq.consume(); if (key == null) return null; if (value == null) return null; return Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consume();         String value = tq.consume();         Attribute attribute = Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         try {             return parseAttributeKey();         } catch (IOException e) {             throw new IllegalStateException(e);  
+); tq.consume(); tq.consume(); tq.consume(); tq.consume(); tq.consume(); tq.consume(); tq.consume(););  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, value); else return null;);  
+);public Attribute parseAttribute() {         String key = tq.consume();         String value = tq.consume();         Attribute attr = Attribute.createFromEncoded(key, value);  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         if (key != null)             return Attribute.createFromEncoded(key, null);  
+);public Attribute parseAttribute() { 		tq.consume(); 		if (key.length() != 0) 			return Attribute.createFromEncoded(key, value);  
+); tq.consume(); if (key.length() != 0) return Attribute.createFromEncoded(key, null); else return null; });  
+);public Attribute parseAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return createAttribute(key, value);  
+);public Attribute consumeAttribute() {         String key = tq.consumeAttributeKey();         String value = tq.consumeAttributeValue();         return parseAttribute(key, value);  
+);public Attribute parseAttribute() {     String key = tq.consumeAttributeKey();     String value = tq.consumeAttributeValue();     return parseAttribute(key, value);  
+);public Attribute consumeAttribute() {         String key = tq.consume();         if (key.length() != 0)             return Attribute.createFromEncoded(key, null);  
+);private Attribute parseAttribute() {         String key = tq.consume();         if (key.length() != 0)             return Attribute.createFromEncoded(key, null);  
+);public Attribute parseAttribute() {         try {             return parseAttributeKey();         } catch (IOException e) {             throw new ParserException(e);  
+);public Attribute parseAttribute() {     String key = tq.consume();     if (key.length() != 0)       return Attribute.createFromEncoded(key, null);  
+);public Attribute parseAttribute() {         try {             return parseAttributeKey();         } catch (Exception e) {             throw new IllegalArgumentException(e);  
+);public Attribute parseAttribute() {         try {             return parseAttributeKey();         } catch (IOException e) {             throw new IllegalArgumentException(e);  
+);public Attribute parseAttribute() { 		tq.consume(); 		if (key.length() != 0) 			return Attribute.createFromEncoded(key, null);  
+ tq.consume();  
+ //tq.consume();  
+ tq.consume(); tq.consume();  
+ tq.consume();  
+tq.consume();  
+ tq.nextToken(); tq.consume();  
+ //tq.consume();  
+ tq.consume();  
+ tq.reset(); tq.consume();  
+ tq.next(); tq.consume();  
+ tq..consume();  
+   tq.consume();  
+.consume();  
+    tq.consume();  
+//tq.consume();  
+  //tq.consume();  
+      tq.consume();  
+ tq.rewind(); tq.consume();  
+        tq.consume();  
+  tq.consume();  
+ // tq.consume();  
+ tq .consume();  
+  tq.consume();  
+             tq.consume();  
+         tq.consume();  
+ tq.close(); tq.consume();  
+          tq.consume();  
+   //tq.consume();  
+       tq.consume();  
+                 tq.consume();  
+ tq.error(); tq.consume();  
+           tq.consume();  
+ tq.fail(); tq.consume();  
+ dq.consume();  
+ tokenizer.consume();  
+   tq.consume();  
+          tq.consume();  
+ tq.discard(); tq.consume();  
+  	tq.consume();  
+ queue.consume();  
+            tq.consume();  
+ tq.nextToken();.consume();  
+ tq.advance(); tq.consume();  
+ return tq.consume();  
+  tq.consume();  
+  tq.consume();  
+           tq.consume();  
+    	tq.consume();  
+ tq.peek(); tq.consume();  
+	tq.consume();  
+ tq.whitespace(); tq.consume();  
+       tq.consume();  
+ tq.flush(); tq.consume();  
+; tq.consume();  
+         tq.consume();  
+ tq.unread(); tq.consume();  
+   tq.consume();  
+ tq.next();.consume();  
+ tq.read(); tq.consume();  
+ this.consume();  
+ tq.consume();.consume();  
+ stream.consume();  
+ rq.consume();  
+  tq.consume();  
+     //tq.consume();  
+ tq.end(); tq.consume();  
+ tq.eof(); tq.consume();  
+     tq.consume();  
+ tq.tq.consume();  
+  tq.consume();  
+ tq.value.consume();  
+ tq.token.consume();  
+ this.consume();  
+ t.consume();  
+  	tq.consume();  
+ tq.eat('='); tq.consume();  
+ tq.skip(); tq.consume();  
+ /*tq.consume();  
+ token.consume();  
+      tq.consume();  
+ /*tq.consume();  
+ tq.err.consume();  
+ //else tq.consume();  
+ tq.stream.consume();  
+ q.consume();  
+ tq.parse(); tq.consume();  
+ nextToken(); tq.consume();  
+ /* tq.consume();  
+   	tq.consume();  
+    tq.consume();  
+ tq = tq.consume();  
+              //tq.consume();  
+ tq.clear(); tq.consume();  
+ tokenizer.consume();  
+ 	tq.consume();  
+ //dq.consume();  
+;.consume();  
+ tq.peek.consume();  
+ ctl.consume();  
+ //$NON-NLS-1$.consume();  
+ token.consume();  
+ .consume();  
+            tq.consume();  
+ input.consume();  
+ //this.consume();  
+             tq.consume();  
+ //eof.consume();  
+    //tq.consume();  
+                tq.consume();  
+                tq.consume();  
+ tq.consume();  
+ tq.tokenizer.consume();  
+       tq.consume();  
+         //tq.consume();  
+ tq.consume('='); tq.consume();  
+        tq.consume();  
+ }.consume();  
+   return tq.consume();  
+           //tq.consume();  
+ tq.lex(); tq.consume();  
+ queue.consume();  
+ tq.eat(); tq.consume();  
+ tx.consume();  
+ return null; }.consume();  
+     tq.consume();  
+                 //tq.consume();  
+/* tq.consume();  
+ tq.backup(); tq.consume();  
+ ....consume();  
+ stream.consume();  
+ //return null; tq.consume();  
+ tq.pos++; tq.consume();  
+ progress.consume();  
+               tq.consume();  
+ tq.process(); tq.consume();  
+ tq.mark(); tq.consume();  
+ tq.p.consume();  
+ ctx.consume();  
+                 tq.consume();  
+ tq.match(); tq.consume();  
+ jwt.consume();  
+ sq.consume();  
+ tq.index(); tq.consume();  
+ tq.reset.consume();  
+ parser.consume();  
+ tq.increment(); tq.consume();  
+		 	tq.consume();  
+....consume();  
+ tq.start(); tq.consume();  
+ iterator.consume();  
+                     tq.consume();  
+             tq.consume();  
+ tq.input.consume();  
+ tq.value(); tq.consume();  
+ else tq.consume();  
+              tq.consume();  
+     tq.consume();  
+ tq.failed(); tq.consume();  
+       //tq.consume();  
+ tq.space(); tq.consume();  
+ tq.scan(); tq.consume();  
+ *tq.consume();  
+  return tq.consume();  
+ tq.get(); tq.consume();  
+ inputStream.consume();  
+ tq.consume(); }.consume();  
+ tq.token(); tq.consume();  
+ tq.parseError(); tq.consume();  
+ parser.consume();  
+              tq.consume();  
+ tq.next.consume();  
+ //.consume();  
+ input.consume();  
+ tq.lookahead(); tq.consume();  
+ tq.reset();.consume();  
+  tq.consume();  
+ //queue.consume();  
+ tq.seek(); tq.consume();  
+ p.consume();  
+ tq.abort(); tq.consume();  
+ tq.throwException(); tq.consume();  
+ reader.consume();  
+ tq.reject(); tq.consume();  
+ (tq.consume();  
+ tq.queue.consume();  
+     	tq.consume();  
+async.consume();  
+ t.consume();  
+          //tq.consume();  
+ tq.buffer.consume();  
+ // else tq.consume();  
+ console.consume();  
+ itr.consume();  
+ tq.state.consume();  
+ it.consume();  
+ x.consume();  
+   tq.consume();  
+               //tq.consume();  
+                                                                      tq.consume();  
+ //tq.consume(); tq.consume();  
+             tq.consume();  
+ tq.consume(); .consume();  
+ tq.queue(); tq.consume();  
+ tq.tokens.consume();  
+ tf.consume();  
+ System.err.consume();  
+         tq.consume();  
+ tq.errors.consume();  
+ tq.skipToEnd(); tq.consume();  
+ tq.tk.consume();  
+ tq.finish(); tq.consume();  
+ tq.error(""); tq.consume();  
+... tq.consume();  
+ tq.readByte(); tq.consume();  
+ tq.pop(); tq.consume();  
+ //q.consume();  
+ System.out.consume();  
+             //tq.consume();  
+ tq.m.consume();  
+ tq.rewind();.consume();  
+ tq.stop(); tq.consume();  
+ tq.lexer.consume();  
+ { tq.consume();  
+ p.consume();  
+ qt.consume();  
+ tq.accumulate(); tq.consume();  
+ tq.eat('/'); tq.consume();  
+ tq.cancel(); tq.consume();  
+ defer tq.consume();  
+ tq.save(); tq.consume();  
+ it.consume();  
+ this.tq.consume();  
+ tk.consume();  
+ next.consume();  
+ tq.hasNext(); tq.consume();  
+ tq.readTag(); tq.consume();  
+ state.consume();  
+ tq.empty(); tq.consume();  
+ tq.fail(); }.consume();  
+ //x.consume();  
+ tq.cursor.consume();  
+ tq.peek();.consume();  
+ dt.consume();  
+ tq.consumeWhitespace();.consume();  
+ tq.skipWhitespace();.consume();  
+ rdr.consume();  
+                //tq.consume();  
+ m.consume();  
+ tq.dispose(); tq.consume();  
+                     tq.consume();  
+if(tq==null){return  null;} tq.consume();  
+if(tq==null){return  null;;} tq.consume();  
+if(tq==null){return  null; };} tq.consume();  
+if(tq==null){return null;} tq.consume();  
+if(tq==null){return ;;} tq.consume();  
+if(tq==null){return  null;};} tq.consume();  
+if(tq==null){return  new Attribute();;} tq.consume();  
+if(tq==null){return  null;};} tq.consume();  
+if(tq==null){return  new Attribute;} tq.consume();  
+if(tq==null){return null;;} tq.consume();  
+if(tq==null){return  null ;;} tq.consume();  
+if(tq==null){return  false;} tq.consume();  
+if(tq==null){return ; };} tq.consume();  
+if(tq==null){return  null; ;} tq.consume();  
+if(tq==null){return  null};} tq.consume();  
+if(tq==null){return  NULL;} tq.consume();  
+if(tq==null){return  parseAttribute;} tq.consume();  
+if(tq==null){return  false;;} tq.consume();  
+if(tq==null){return  parseAttribute();;} tq.consume();  
+if(tq==null){return  Attribute;} tq.consume();  
+if(tq==null){return  null ;} tq.consume();  
+if(tq==null){return  null;} tq.consume();  
+if(tq==null){return  nil;} tq.consume();  
+if(tq==null){return  this;} tq.consume();  
+if(tq==null){return  null};;} tq.consume();  
+if(tq==null){return ;};} tq.consume();  
+if(tq==null){return  new NullAttribute;} tq.consume();  
+if(tq==null){return  defaultValue;} tq.consume();  
+if(tq==null){return  -1;} tq.consume();  
+if(tq==null){return };;} tq.consume();  
+if(tq==null){return  "";;} tq.consume();  
+if(tq==null){return  return null;} tq.consume();  
+if(tq==null){return  new EmptyAttribute;} tq.consume();  
+if(tq==null){return  undefined;} tq.consume();  
+if(tq==null){return ;};} tq.consume();  
+if(tq==null){return  attribute;} tq.consume();  
+if(tq==null){return  true;} tq.consume();  
+if(tq==null){return   null;} tq.consume();  
+if(tq==null){return  EMPTY;} tq.consume();  
+if(tq==null){return  createAttribute;} tq.consume();  
+if(tq==null){return  new Attribute("");;} tq.consume();  
+if(tq==null){return  createAttribute();;} tq.consume();  
+if(tq==null){return ;} tq.consume();  
+if(tq==null){return  super;} tq.consume();  
+if(tq==null){return  NullAttribute;} tq.consume();  
+if(tq==null){return ; };} tq.consume();  
+if(tq==null){return  _null;} tq.consume();  
+if(tq==null){return  parseAttribute();} tq.consume();  
+if(tq==null){return null;};} tq.consume();  
+if(tq==null){return  Attribute.NULL;} tq.consume();  
+if(tq==null){return  null;AST#return_statement#Right;} tq.consume();  
+if(tq==null){return  null };} tq.consume();  
+if(tq==null){return  Attribute.EMPTY;} tq.consume();  
+if(tq==null){return  tag;} tq.consume();  
+if(tq==null){return  null;} ;} tq.consume();  
+if(tq==null){return ; ;} tq.consume();  
+if(tq==null){return  null.;} tq.consume();  
+if(tq==null){return new Attribute();;} tq.consume();  
+if(tq==null){return  null;} else;} tq.consume();  
+if(tq==null){return  null; ;} tq.consume();  
+if(tq==null){return  ;;} tq.consume();  
+if(tq==null){return  true;;} tq.consume();  
+if(tq==null){return null; };} tq.consume();  
+if(tq==null){return  null ;} tq.consume();  
+if(tq==null){return  {};;} tq.consume();  
+if(tq==null){return  attr;} tq.consume();  
+if(tq==null){return  null };} tq.consume();  
+if(tq==null){return null;};} tq.consume();  
+if(tq==null){return  null ;};} tq.consume();  
+if(tq==null){return  0;} tq.consume();  
+if(tq==null){return -1;} tq.consume();  
+if(tq==null){return };} tq.consume();  
+if(tq==null){return  NONE;} tq.consume();  
+if(tq==null){return  null;  ;} tq.consume();  
+if(tq==null){return Attribute;} tq.consume();  
+if(tq==null){return  null; //};} tq.consume();  
+if(tq==null){return  {@code null;} tq.consume();  
+if(tq==null){return (null);;} tq.consume();  
+if(tq==null){return  value;} tq.consume();  
+if(tq==null){return  EMPTY_ATTRIBUTE;} tq.consume();  
+if(tq==null){return  getAttribute;} tq.consume();  
+if(tq==null){return  null;}else;} tq.consume();  
+if(tq==null){return  createEmptyAttribute;} tq.consume();  
+if(tq==null){return  new String();;} tq.consume();  
+if(tq==null){return  null;;;} tq.consume();  
+if(tq==null){return  new Attribute(){;} tq.consume();  
+if(tq==null){return  null null;} tq.consume();  
+if(tq==null){return  empty;} tq.consume();  
+if(tq==null){return  void;} tq.consume();  
+if(tq==null){return  defaultAttribute;} tq.consume();  
+if(tq==null){return  attrs;} tq.consume();  
+if(tq==null){return  new Attribute();} tq.consume();  
+if(tq==null){return  false; };} tq.consume();  
+if(tq==null){return  getAttribute();;} tq.consume();  
+if(tq==null){return  new String;} tq.consume();  
+if(tq==null){return  null<mask1>;;} tq.consume();  
+if(tq==null){return :;} tq.consume();  
+if(tq==null){return  error;} tq.consume();  
+if(tq==null){return  String;} tq.consume();  
+if(tq==null){return  null;},;} tq.consume();  
+if(tq==null){return _null;} tq.consume();  
+if(tq==null){return  "";};} tq.consume();  
+if(tq==null){return  new nullAttribute;} tq.consume();  
+if(tq==null){return :null;} tq.consume();  
+if(tq==null){return  t;} tq.consume();  
+if(tq==null){return  None;} tq.consume();  
+if(tq==null){return  (null);} tq.consume();  
+if(tq==null){return  null;};;} tq.consume();  
+if(tq==null){return  parser;} tq.consume();  
+if(tq==null){return  UnknownAttribute;} tq.consume();  
+if(tq==null){return  null}else;} tq.consume();  
+if(tq==null){return  null;  ;} tq.consume();  
+if(tq==null){return  return null;;} tq.consume();  
+if(tq==null){return .;} tq.consume();  
+if(tq==null){return  none;} tq.consume();  
+if(tq==null){return  Attribute.NONE;} tq.consume();  
+if(tq==null){return  new Attributes();;} tq.consume();  
+if(tq==null){return  this;;} tq.consume();  
+if(tq==null){return  blank;} tq.consume();  
+if(tq==null){return  attributes;} tq.consume();  
+if(tq==null){return  null;}.;} tq.consume();  
+if(tq==null){return  x;} tq.consume();  
+if(tq==null){return  ParseAttribute;} tq.consume();  
+if(tq==null){return  nil;;} tq.consume();  
+if(tq==null){return  null;}};} tq.consume();  
+if(tq==null){return  ParseError;} tq.consume();  
+if(tq==null){return  System.identity;} tq.consume();  
+if(tq==null){return  VOID;} tq.consume();  
+if(tq==null){return  undefined;;} tq.consume();  
+if(tq==null){return  EmptyAttribute;} tq.consume();  
+if(tq==null){return  type;} tq.consume();  
+if(tq==null){return  nullAST#return_statement#Right;} tq.consume();  
+if(tq==null){return  UNKNOWN;} tq.consume();  
+if(tq==null){return  nullAST#ternary_expression#Right;} tq.consume();  
+if(tq==null){return  Undef;} tq.consume();  
+if(tq==null){return  "";} tq.consume();  
+if(tq==null){return  new AttributeImpl;} tq.consume();  
+if(tq==null){return  null;	;} tq.consume();  
+if(tq==null){return new Attribute;} tq.consume();  
+if(tq==null){return  unknown;} tq.consume();  
+if(tq==null){return  new null;} tq.consume();  
+if(tq==null){return  Null;} tq.consume();  
+if(tq==null){return  System.err;} tq.consume();  
+if(tq==null){return  new StringBuilder();;} tq.consume();  
+if(tq==null){return  false;};} tq.consume();  
+if(tq==null){return  String.class;} tq.consume();  
+if(tq==null){return  X;} tq.consume();  
+if(tq==null){return  new StringAttribute;} tq.consume();  
+if(tq==null){return  new Attributes;} tq.consume();  
+if(tq==null){return =;} tq.consume();  
+if(tq==null){return  null, null;} tq.consume();  
+if(tq==null){return null};} tq.consume();  
+if(tq==null){return  Object;} tq.consume();  
+if(tq==null){return  parseAttributes;} tq.consume();  
+if(tq==null){return  new Attribute;;} tq.consume();  
+if(tq==null){return  attribute;;} tq.consume();  
+if(tq==null){return  new String("");;} tq.consume();  
+if(tq==null){return  def;} tq.consume();  
+if(tq==null){return  map;} tq.consume();  
+if(tq==null){return  Attribute.empty;} tq.consume();  
+if(tq==null){return  null;++;} tq.consume();  
+if(tq==null){return  <null>;} tq.consume();  
+if(tq==null){return ();;} tq.consume();  
+if(tq==null){return  IllegalArgumentException;} tq.consume();  
+if(tq==null){return  nullAST#assignment_expression#Right;} tq.consume();  
+if(tq==null){return  null;*/;} tq.consume();  
+if(tq==null){return  NULL;;} tq.consume();  
+if(tq==null){return  NULL_ATTRIBUTE;} tq.consume();  
+if(tq==null){return  NaN;} tq.consume();  
+if(tq==null){return  };} tq.consume();  
+if(tq==null){return  newAttribute;} tq.consume();  
+if(tq==null){return  null;}};} tq.consume();  
+if(tq==null){return  parseValue;} tq.consume();  
+if(tq==null){return  null;};;} tq.consume();  
+if(tq==null){return  null;?;} tq.consume();  
+if(tq==null){return  Attribute.UNDEFINED;} tq.consume();  
+if(tq==null){return  null  ;} tq.consume();  
+if(tq==null){return NullAttribute;} tq.consume();  
+if(tq==null){return  null; };;} tq.consume();  
+if(tq==null){return false;} tq.consume();  
+if(tq==null){return  newAttribute();;} tq.consume();  
+if(tq==null){return =null;} tq.consume();  
+if(tq==null){return  next;} tq.consume();  
+if(tq==null){return  unknownAttribute;} tq.consume();  
+if(tq==null){return  blankAttribute;} tq.consume();  
+if(tq==null){return  superAttribute;} tq.consume();  
+if(tq==null){return  _null;;} tq.consume();  
+if(tq==null){return    null;} tq.consume();  
+if(tq==null){return  new Empty;} tq.consume();  
+if(tq==null){return  null;AST#then#Right;} tq.consume();  
+if(tq==null){return  null;..;} tq.consume();  
+if(tq==null){return  token;} tq.consume();  
+if(tq==null){return NULL;} tq.consume();  
+if(tq==null){return  null} ;} tq.consume();  
+if(tq==null){return ;AST#return_statement#Right;} tq.consume();  
+if(tq==null){return } else {;} tq.consume();  
+if(tq==null){return  att;} tq.consume();  
+if(tq==null){return  null:;} tq.consume();  
+if(tq==null){return  new Object();;} tq.consume();  
+if(tq==null){return  new SimpleAttribute;} tq.consume();  
+if(tq==null){return  Tag;} tq.consume();  
+if(tq==null){return  missingAttribute;} tq.consume();  
+if(tq==null){return  null ; };} tq.consume();  
+if(tq==null){return <null>;} tq.consume();  
+if(tq==null){return  attr;;} tq.consume();  
+if(tq==null){return  root;} tq.consume();  
+if(tq==null){return  default;} tq.consume();  
+if(tq==null){return  = null;} tq.consume();  
+if(tq==null){return  parseEmptyAttribute;} tq.consume();  
+if(tq==null){return  null;return;} tq.consume();  
+if(tq==null){return ;}};} tq.consume();  
+if(tq==null){return {};;} tq.consume();  
+if(tq==null){return  null/*;} tq.consume();  
+if(tq==null){return  null;;} tq.consume();  
+if(tq==null){return  Error;} tq.consume();  
+if(tq==null){return  null:null;} tq.consume();  
+if(tq==null){return attr;} tq.consume();  
+if(tq==null){return tq;} tq.consume();  
+if(tq==null){return  null;},;} tq.consume();  
+if(tq==null){return  null} else;} tq.consume();  
+if(tq==null){return  getInstance();;} tq.consume();  
+if(tq==null){return  name;} tq.consume();  
+if(tq==null){return  _nullAttribute;} tq.consume();  
+if(tq==null){return  throw;} tq.consume();  
+if(tq==null){return  new UnknownAttribute;} tq.consume();  
+if(tq==null){return  tc;} tq.consume();  
+if(tq==null){return  };;} tq.consume();  
+if(tq==null){return  new Attribute());;} tq.consume();  
+if(tq==null){return  null };;} tq.consume();  
+if(tq==null){return  getEmptyAttribute;} tq.consume();  
+if(tq==null){return  defaultValue;;} tq.consume();  
+if(tq==null){return  blank;;} tq.consume();  
+if(tq==null){return  Undefined;} tq.consume();  
+if(tq==null){return  null();;} tq.consume();  
+if(tq==null){return  parseAttributeValue;} tq.consume();  
+if(tq==null){return  "null";} tq.consume();  
+if(tq==null){return  factory;} tq.consume();  
+if(tq==null){return  url;} tq.consume();  
+if(tq==null){return  createAttribute();} tq.consume();  
+if(tq==null){return  MissingAttribute;} tq.consume();  
+if(tq==null){return  new Value();;} tq.consume();  
+if(tq==null){return  new Empty();;} tq.consume();  
+if(tq==null){return  null,null;} tq.consume();  
+if(tq==null){return  new StringBuilder;} tq.consume();  
+if(tq==null){return  super();;} tq.consume();  
+if(tq==null){return  Tq;} tq.consume();  
+if(tq==null){return  new NumericAttribute;} tq.consume();  
+if(tq==null){return  NewAttribute;} tq.consume();  
+if(tq==null){return  create();;} tq.consume();  
+if(tq==null){return ;} tq.consume();  
+if(tq==null){ tq=new Attribute(); return null; } tq.consume();  
+if(tq==null){ tq=new TokenStream; } tq.consume();  
+if(tq==null){ tq=new Attribute; } tq.consume();  
+if(tq==null){ tq=new TextTokenStream; } tq.consume();  
+if(tq==null){ tq=new Attribute(); }; } tq.consume();  
+if(tq==null){ tq=new XmlPullParser; } tq.consume();  
+if(tq==null){ tq=new AttributeParser; } tq.consume();  
+if(tq==null){ tq=new Tq; } tq.consume();  
+if(tq==null){ tq=createAttribute; } tq.consume();  
+if(tq==null){ tq=new Tq();; } tq.consume();  
+if(tq==null){ tq=factory; } tq.consume();  
+if(tq==null){ tq=parser; } tq.consume();  
+if(tq==null){ tq=new TextParser; } tq.consume();  
+if(tq==null){ tq=new Token; } tq.consume();  
+if(tq==null){ tq=new AttributeParser();; } tq.consume();  
+if(tq==null){ tq=new Terminal; } tq.consume();  
+if(tq==null){ tq=null; } tq.consume();  
+if(tq==null){ tq=new Parser; } tq.consume();  
+if(tq==null){ tq=new Scanner; } tq.consume();  
+if(tq==null){ tq=new Attribute();; } tq.consume();  
+if(tq==null){ tq=tokenizer; } tq.consume();  
+if(tq==null){ tq=createAttribute(); return null; } tq.consume();  
+if(tq==null){ tq=new StringTokenizer; } tq.consume();  
+if(tq==null){ tq=new Tq(); }; } tq.consume();  
+if(tq==null){ tq=new ParseTree; } tq.consume();  
+if(tq==null){ tq=new StringBuilder; } tq.consume();  
+if(tq==null){ tq=new TokenStream();; } tq.consume();  
+if(tq==null){ tq=new TokenIterator; } tq.consume();  
+if(tq==null){ tq=this; } tq.consume();  
+if(tq==null){ tq=new QueryToken; } tq.consume();  
+if(tq==null){ tq=new Parser(); return null; } tq.consume();  
+if(tq==null){ tq=new StreamTokenizer; } tq.consume();  
+if(tq==null){ tq= new Attribute(); return null; } tq.consume();  
+if(tq==null){ tq=create; } tq.consume();  
+if(tq==null){ tq=new TextToken; } tq.consume();  
+if(tq==null){ tq=createParser; } tq.consume();  
+if(tq==null){ tq=new Attribute();}; } tq.consume();  
+if(tq==null){ tq=new StringTokenizer; } tq.consume();  
+if(tq==null){ tq=new Text; } tq.consume();  
+if(tq==null){ tq=bt; } tq.consume();  
+if(tq==null){ tq=createAttribute(); }; } tq.consume();  
+if(tq==null){ tq=token; } tq.consume();  
+if(tq==null){ tq=new TextTokenizer; } tq.consume();  
+if(tq==null){ tq=reader; } tq.consume();  
+if(tq==null){ tq=next; } tq.consume();  
+if(tq==null){ tq=init; } tq.consume();  
+if(tq==null){ tq=new AttributeBuilder; } tq.consume();  
+if(tq==null){ tq=xml; } tq.consume();  
+if(tq==null){ tq=new Transaction; } tq.consume();  
+if(tq==null){ tq=createToken; } tq.consume();  
+if(tq==null){ tq=ParseAttribute; } tq.consume();  
+if(tq==null){ tq= new TokenStream; } tq.consume();  
+if(tq==null){ tq=new StringReader; } tq.consume();  
+if(tq==null){ tq=new AttributeStream; } tq.consume();  
+if(tq==null){ tq=T; } tq.consume();  
+if(tq==null){ tq=newRequest; } tq.consume();  
+if(tq==null){ tq= new Attribute(); }; } tq.consume();  
+if(tq==null){ tq=new TextAttribute; } tq.consume();  
+if(tq==null){ tq=new StreamReader; } tq.consume();  
+if(tq==null){ tq=createParser(); return null; } tq.consume();  
+if(tq==null){ tq=new TextTemplate; } tq.consume();  
+if(tq==null){ tq=new XMLStreamReader; } tq.consume();  
+if(tq==null){ tq=NewReader(); return null; } tq.consume();  
+if(tq==null){ tq=parseAttribute; } tq.consume();  
+if(tq==null){ tq=createToken(); return null; } tq.consume();  
+if(tq==null){ tq=createTokenStream; } tq.consume();  
+if(tq==null){ tq=new TextParser();; } tq.consume();  
+if(tq==null){ tq=new StringTokenizer();; } tq.consume();  
+if(tq==null){ tq=new TypedAttribute; } tq.consume();  
+if(tq==null){ tq=new Tag; } tq.consume();  
+if(tq==null){ tq=input; } tq.consume();  
+if(tq==null){ tq=new Parser();; } tq.consume();  
+if(tq==null){ tq=new TokenStreamImpl; } tq.consume();  
+if(tq==null){ tq=Attribute; } tq.consume();  
+if(tq==null){ tq=TokenStream; } tq.consume();  
+if(tq==null){ tq=new Parseable; } tq.consume();  
+if(tq==null){ tq=new Tq();}; } tq.consume();  
+if(tq==null){ tq=new StreamTokenizer();; } tq.consume();  
+if(tq==null){ tq=new StringTokenizer();; } tq.consume();  
+if(tq==null){ tq= new Attribute; } tq.consume();  
+if(tq==null){ tq=new Lexer; } tq.consume();  
+if(tq==null){ tq=getTokenStream; } tq.consume();  
+if(tq==null){ tq=new AttributeParser(); }; } tq.consume();  
+if(tq==null){ tq=new Token(); return null; } tq.consume();  
+if(tq==null){ tq=new StringBuffer; } tq.consume();  
+if(tq==null){ tq=new AutoBuffer; } tq.consume();  
+if(tq==null){ tq=NewReader; } tq.consume();  
+if(tq==null){ tq=new StringParser; } tq.consume();  
+if(tq==null){ tq=t; } tq.consume();  
+if(tq==null){ tq=r; } tq.consume();  
+if(tq==null){ tq=new Attribute(); return tq; } tq.consume();  
+if(tq==null){ tq=new Attribute();}; } tq.consume();  
+if(tq==null){ tq=new Attribute(); return; } tq.consume();  
+if(tq==null){ tq=new XMLTokenStream; } tq.consume();  
+if(tq==null){ tq=Factory.createAttribute; } tq.consume();  
+if(tq==null){ tq=ByteBuffer; } tq.consume();  
+if(tq==null){ tq=new Attribute() {}; } tq.consume();  
+if(tq==null){ tq=new XmlTokenStream; } tq.consume();  
+if(tq==null){ tq=start; } tq.consume();  
+if(tq==null){ tq=new Consume; } tq.consume();  
+if(tq==null){ tq=attr; } tq.consume();  
+if(tq==null){ tq=builder; } tq.consume();  
+if(tq==null){ tq=new AttributeImpl; } tq.consume();  
+if(tq==null){ tq=Head; } tq.consume();  
+if(tq==null){ tq=new ParseAttribute; } tq.consume();  
+if(tq==null){ tq=x; } tq.consume();  
+if(tq==null){ tq=new TextStream; } tq.consume();  
+if(tq==null){ tq=new AttributeFactory; } tq.consume();  
+if(tq==null){ tq=new Attribute(); } tq.consume();  
+if(tq==null){ tq=new CommonTokenStream; } tq.consume();  
+if(tq==null){ tq=new Scanner(); return null; } tq.consume();  
+if(tq==null){ tq=new XmlPullParser();; } tq.consume();  
+if(tq==null){ tq=new Xml; } tq.consume();  
+if(tq==null){ tq=new TokenInputStream; } tq.consume();  
+if(tq==null){ tq=Factory.create; } tq.consume();  
+if(tq==null){ tq=new Tree; } tq.consume();  
+if(tq==null){ tq=new ParsingState; } tq.consume();  
+if(tq==null){ tq=new ConsumeAttribute; } tq.consume();  
+if(tq==null){ tq=new DTM; } tq.consume();  
+if(tq==null){ tq=new ParseAttribute(); }; } tq.consume();  
+if(tq==null){ tq=create(); return null; } tq.consume();  
+if(tq==null){ tq=new Attribute.Builder; } tq.consume();  
+if(tq==null){ tq=new Attribute(){; } tq.consume();  
+if(tq==null){ tq=tq; } tq.consume();  
+if(tq==null){ tq=new Terminal(); return null; } tq.consume();  
+if(tq==null){ tq=head; } tq.consume();  
+if(tq==null){ tq=Factory.createAttribute();; } tq.consume();  
+if(tq==null){ tq=qs; } tq.consume();  
+if(tq==null){ tq=Parser; } tq.consume();  
+if(tq==null){ tq=new TextInput; } tq.consume();  
+if(tq==null){ tq=new StringAttribute; } tq.consume();  
+if(tq==null){ tq= new TextTokenStream; } tq.consume();  
+if(tq==null){ tq=parseAttribute(); return null; } tq.consume();  
+if(tq==null){ tq=new TokenIterator; } tq.consume();  
+if(tq==null){ tq=new StringBuilder(); return null; } tq.consume();  
+if(tq==null){ tq=new Parse; } tq.consume();  
+if(tq==null){ tq=new Expect; } tq.consume();  
+if(tq==null){ tq=new Attribute() {; } tq.consume();  
+if(tq==null){ tq=new AttributeTokenizer; } tq.consume();  
+if(tq==null){ tq=new ConsumeAttribute(); }; } tq.consume();  
+if(tq==null){ tq=new Typed; } tq.consume();  
+if(tq==null){ tq=new AttributeParser() {; } tq.consume();  
+if(tq==null){ tq=new TerminalTokenStream; } tq.consume();  
+if(tq==null){ tq=new ConsumeToken; } tq.consume();  
+if(tq==null){ tq= createAttribute; } tq.consume();  
+if(tq==null){ tq= new Tq();; } tq.consume();  
+if(tq==null){ tq=new Consumeable; } tq.consume();  
+if(tq==null){ tq=new AttributeScanner; } tq.consume();  
+if(tq==null){ tq=new Attribute(); return this; } tq.consume();  
+if(tq==null){ tq=new TextDecoder; } tq.consume();  
+if(tq==null){ tq=new TqParser; } tq.consume();  
+if(tq==null){ tq=new Attribute(null);; } tq.consume();  
+if(tq==null){ tq=q; } tq.consume();  
+if(tq==null){ tq=new StringBuilder();; } tq.consume();  
+if(tq==null){ tq=new IndentingStreamReader; } tq.consume();  
+if(tq==null){ tq=new StandardTokenizer; } tq.consume();  
+if(tq==null){ tq=newTokenStream; } tq.consume();  
+if(tq==null){ tq=new AttributeParser(); return; } tq.consume();  
+if(tq==null){ tq= parser; } tq.consume();  
+if(tq==null){ tq=new Parser(); }; } tq.consume();  
+if(tq==null){ tq=new TokenIterator();; } tq.consume();  
+if(tq==null){ tq=importer; } tq.consume();  
+if(tq==null){ tq=query; } tq.consume();  
+if(tq==null){ tq=new Parse(); return null; } tq.consume();  
+if(tq==null){ tq=new XMLPullParser; } tq.consume();  
+if(tq==null){ tq=new XStream; } tq.consume();  
+if(tq==null){ tq=new TextTokenStream; } tq.consume();  
+if(tq==null){ tq=new AttributeParser(); } tq.consume();  
+if(tq==null){ tq=m; } tq.consume();  
+if(tq==null){ tq=new StringBuilder(); }; } tq.consume();  
+if(tq==null){ tq=new AttributeIterator; } tq.consume();  
+if(tq==null){ tq=new Consume(tq);; } tq.consume();  
+if(tq==null){ tq=new TypedValue; } tq.consume();  
+if(tq==null){ tq=text; } tq.consume();  
+if(tq==null){ tq=getParser(); return null; } tq.consume();  
+if(tq==null){ tq=new AttributeToken; } tq.consume();  
+if(tq==null){ tq=gettq(); return null; } tq.consume();  
+if(tq==null){ tq=createAttributeParser; } tq.consume();  
+if(tq==null){ tq=new QueryToken();; } tq.consume();  
+if(tq==null){ tq=tq.createAttribute; } tq.consume();  
+if(tq==null){ tq=new HtmlTokenizer; } tq.consume();  
+if(tq==null){ tq=new XmlParser; } tq.consume();  
+if(tq==null){ tq=new TokenQueue; } tq.consume();  
+if(tq==null){ tq= new XmlPullParser; } tq.consume();  
+if(tq==null){ tq=new Attribute();return null; } tq.consume();  
+if(tq==null){ tq=new StringReader; } tq.consume();  
+if(tq==null){ tq=new TextAttribute(); }; } tq.consume();  
+if(tq==null){ tq=new Tq(); return; } tq.consume();  
+if(tq==null){ tq=Attribute.create; } tq.consume();  
+if(tq==null){ tq=new TextTokenStream() {; } tq.consume();  
+if(tq==null){ tq=new TypedStream; } tq.consume();  
+if(tq==null){ tq=new ParseState; } tq.consume();  
+if(tq==null){ tq=parseAttribute(); }; } tq.consume();  
+if(tq==null){ tq=new XmlTokenStream; } tq.consume();  
+if(tq==null){ tq=new AttributeList; } tq.consume();  
+if(tq==null){ tq=new TextTree; } tq.consume();  
+if(tq==null){ tq=tq.clone();; } tq.consume();  
+if(tq==null){ tq=new AttributeTree; } tq.consume();  
+if(tq==null){ tq=new Scanner();; } tq.consume();  
+if(tq==null){ tq=new ParseAttribute();; } tq.consume();  
+if(tq==null){ tq=new StringReader(); return null; } tq.consume();  
+if(tq==null){ tq=new Text(); return null; } tq.consume();  
+if(tq==null){ tq=new Scanner(); }; } tq.consume();  
+if(tq==null){ tq=factory.createAttribute; } tq.consume();  
+if(tq==null){ tq=new TextAttributeParser; } tq.consume();  
+if(tq==null){ tq=new StringTokenizer(); return null; } tq.consume();  
+if(tq==null){ tq=new TextTokenStream();; } tq.consume();  
+if(tq==null){ tq=new ConsumeAttribute();; } tq.consume();  
+if(tq==null){ tq=new TokenStream(); } tq.consume();  
+if(tq==null){ tq=new TextTokenStream(); } tq.consume();  
+if(tq==null){ tq=factory.createAttribute();; } tq.consume();  
+if(tq==null){ tq=new AttributeParser();}; } tq.consume();  
+if(tq==null){ tq= new Tq(); }; } tq.consume();  
+if(tq==null){ tq=createToken(); }; } tq.consume();  
+if(tq==null){ tq=new AttributeStream();; } tq.consume();  
+if(tq==null){ tq=tq.createAttribute();; } tq.consume();  
+if(tq==null){ tq=new Text(); }; } tq.consume();  
+if(tq==null){ tq=new Attribute.Builder(); } tq.consume();  
+if(tq==null){ tq=new Tq(); } tq.consume();  
+if(tq==null){ tq=new Attribute();tq; } tq.consume();  
+if(tq==null){ tq=tq.newAttribute; } tq.consume();  
+if(tq==null){ tq=new QueryTokenStream; } tq.consume();  
+if(tq==null){ tq=new TextAttribute();; } tq.consume();  
+if(tq==null){ tq=new TokenStream() {; } tq.consume();  
+if(tq==null){ tq=new TextToken();; } tq.consume();  
+if(tq==null){ tq=new XmlTextParser; } tq.consume();  
+if(tq==null){ tq=new StringAttributeParser; } tq.consume();  
+if(tq==null){ tq=new ConsumeAttributes();; } tq.consume();  
+if(tq==null){ tq=new AttributeBuilder();; } tq.consume();  
+if(tq==null){ tq=new TokenStreamTokenStream; } tq.consume();  
+if(tq==null){ tq=new AttributeFactory();; } tq.consume();  
+if(tq==null){ tq=new ParseAttributes();; } tq.consume();  
+if(tq==null){ tq=new ParseAttributes(); }; } tq.consume();  
+if(tq==null){ tq=new AttributeScanner();; } tq.consume();  
+if(tq==null){ tq=new TextTokenizer();; } tq.consume();  
+if(tq==null){ tq= new TokenStream();; } tq.consume();  
+if(tq==null){ tq=new Attribute() ; } tq.consume();  
+if(tq==null){ tq=new Scanner() {; } tq.consume();  
+if(tq==null){ tq=new StringParser();; } tq.consume();  
+if(tq==null){ tq=new PennTreebank; } tq.consume();  
+if(tq==null){ tq=new Tq() {; } tq.consume();  
+if(tq==null){ tq=new Attribute(key);; } tq.consume();  
+if(tq==null){ tq= new AttributeParser();; } tq.consume();  
+if(tq==null){ tq=new ConsumeAttributes(); }; } tq.consume();  
+if(tq==null){ tq=new Consume(null);; } tq.consume();  
+if(tq==null){ tq=new TqParser();; } tq.consume();  
+if(tq==null){ tq=new TextToken(); }; } tq.consume();  
+if(tq==null){ tq=new TokenStream(); }; } tq.consume();  
+if(tq==null){ tq=new StringTokenizer(string);; } tq.consume();  
+if(tq==null){ tq=new Parser(tq);; } tq.consume();  
+if(tq.hasNext()){ tq.consume();}  
+if(tq.hasNext){ tq.consume();}  
+if(tq.isEmpty){ tq.consume();}  
+if(tq.isEmpty()){ tq.consume();}  
+if(key.length() != 0){ tq.consume();}  
+if(tq.hasNext()==false){ tq.consume();}  
+if(tq.hasNext()==true){ tq.consume();}  
+if(tq.matches("="){ tq.consume();}  
+if(key != null){ tq.consume();}  
+if(tq.hasNextWhitespace){ tq.consume();}  
+if(value.length() != 0){ tq.consume();}  
+if(key!=null){ tq.consume();}  
+if(tq.matchesAny("="){ tq.consume();}  
+if(tq.matchAny("="){ tq.consume();}  
+if(key.length() > 0){ tq.consume();}  
+if(tq.peek() == '=')){ tq.consume();}  
+if(tq.hasMoreTokens()){ tq.consume();}  
+if(key.length() == 0){ tq.consume();}  
+if(tq.empty){ tq.consume();}  
+if(value==null){ tq.consume();}  
+if(tq.peek() != EOF){ tq.consume();}  
+if(key == null){ tq.consume();}  
+if(key==null){ tq.consume();}  
+if(value.length() > 0){ tq.consume();}  
+if(true){ tq.consume();}  
+if(tq.hasMoreTokens){ tq.consume();}  
+if(value!=null){ tq.consume();}  
+if(tq.hasNextWhitespace()){ tq.consume();}  
+if(tq.hasNextChar()){ tq.consume();}  
+if(tq.hasMore){ tq.consume();}  
+if(tq.more){ tq.consume();}  
+if(value == null){ tq.consume();}  
+if(value != null){ tq.consume();}  
+if(tq.peek() == '='){ tq.consume();}  
+if(tq.consumeWhitespace()){ tq.consume();}  
+if(tq.isActive()){ tq.consume();}  
+if(eof){ tq.consume();}  
+if(tq.hasMore()){ tq.consume();}  
+if(tq.empty()){ tq.consume();}  
+if(false){ tq.consume();}  
+if(value){ tq.consume();}  
+if(tq.length() > 0){ tq.consume();}  
+if(key){ tq.consume();}  
+if(value.length() == 0){ tq.consume();}  
+if(tq.hasNext() == true){ tq.consume();}  
+if(tq.matchChomp("="){ tq.consume();}  
+if(tq.peek() == '"'){ tq.consume();}  
+if(tq.hasNextTag){ tq.consume();}  
+if(tq.consumeWhitespace){ tq.consume();}  
+if(tq.hasNextChar){ tq.consume();}  
+if(tq.matchesWhitespace()){ tq.consume();}  
+if(tq.peek() == '&'){ tq.consume();}  
+if(tq.matchesWhitespace){ tq.consume();}  
+if(isEmpty){ tq.consume();}  
+if(tq.peek() == '/'){ tq.consume();}  
+if(tq.matches){ tq.consume();}  
+if(tq.isWhitespace()){ tq.consume();}  
+if(tq.match("="){ tq.consume();}  
+if(tq.hasNext();){ tq.consume();}  
+if(tq.consume("="){ tq.consume();}  
+if(tq.peek() != '=')){ tq.consume();}  
+if(tq.isWhitespace){ tq.consume();}  
+if(tq.hasNextCharacter){ tq.consume();}  
+if(tq.hasNext() == false){ tq.consume();}  
+if(tq.equals("="){ tq.consume();}  
+if(tq.length() != 0){ tq.consume();}  
+if(tq.hasNextLine){ tq.consume();}  
+if(tq.matches("*")){ tq.consume();}  
+if(tq.hasNextSpace){ tq.consume();}  
+if(tq.consume() != null){ tq.consume();}  
+if(tq.peek() != '='){ tq.consume();}  
+if(tq.matchAny("&")){ tq.consume();}  
+if(tq.hasNext){ tq.consume();}  
+if(tq.hasMoreAttributes){ tq.consume();}  
+if(tq.peek() != null){ tq.consume();}  
+if(null){ tq.consume();}  
+if(tq.isActive){ tq.consume();}  
+if(tq.matchesAny){ tq.consume();}  
+if(tq.hasNextValue){ tq.consume();}  
+if(tq.peek() == EOF){ tq.consume();}  
+if(tq.isEnd){ tq.consume();}  
+if(tq.hasNextCharacter()){ tq.consume();}  
+if(tq.peek() != '"'){ tq.consume();}  
+if(tq.peek() != '/'){ tq.consume();}  
+if(tq.peek()==null){ tq.consume();}  
+if(tq.isBlank()){ tq.consume();}  
+if(tq.peek() == ';'){ tq.consume();}  
+if(tq.peek() == '?'){ tq.consume();}  
+if( !tq.isEmpty()){ tq.consume();}  
+if(tq.scan("="){ tq.consume();}  
+if(tq.reset){ tq.consume();}  
+if(tq.hasMoreSpaces()){ tq.consume();}  
+if(tq.hasMoreAttributes()){ tq.consume();}  
+if(tq.nextToken() == '=')){ tq.consume();}  
+if(tq.peek() == null){ tq.consume();}  
+if(tq.peek() == '>')){ tq.consume();}  
+if(tq.match('?')){ tq.consume();}  
+if(tq.eof){ tq.consume();}  
+if(tq.eat("="){ tq.consume();}  
+if(tq.isAtEnd()){ tq.consume();}  
+if(flag){ tq.consume();}  
+if(tq.consumeWhitespace()==null){ tq.consume();}  
+if(tq.isActive()==false){ tq.consume();}  
+if(tq.peek() == '"')){ tq.consume();}  
+if(tq.matchesAny("&")){ tq.consume();}  
+if(tq.hasNextInput){ tq.consume();}  
+if(hasNext){ tq.consume();}  
+if(tq.matchChar('=')){ tq.consume();}  
+if(tq.matchAny("=")){ tq.consume();}  
+if(tq.peek() == '<'){ tq.consume();}  
+if(tq.peek()!=EOF){ tq.consume();}  
+if(tq.consume){ tq.consume();}  
+if(tq.next() == '=')){ tq.consume();}  
+if(tq.next() != EOF){ tq.consume();}  
+if(tq.matchAny){ tq.consume();}  
+if(tq.consumeWhitespace()==true){ tq.consume();}  
+if(tq.size() > 0){ tq.consume();}  
+if(tq.peek() == ','){ tq.consume();}  
+if(tq.hasMoreCharacters){ tq.consume();}  
+if(tq.peek() != '>')){ tq.consume();}  
+if(tq.peek() == "="){ tq.consume();}  
+if(strict){ tq.consume();}  
+if(tq.match){ tq.consume();}  
+if(tq.eos){ tq.consume();}  
+if(tq.consume();){ tq.consume();}  
+if(tq.hasNextSentence){ tq.consume();}  
+if(tq.peek() == '-'){ tq.consume();}  
+if(tq.peek() == '>'){ tq.consume();}  
+if(tq.hasContent){ tq.consume();}  
+if(tq.hasMoreElements){ tq.consume();}  
+if(tq.equal("="){ tq.consume();}  
+if(tq.length() == 0){ tq.consume();}  
+if(tq.peek() == '&){ tq.consume();}  
+if(tq.hasMoreChars()){ tq.consume();}  
+if(tq.lookahead != null){ tq.consume();}  
+if(tq.match() != null){ tq.consume();}  
+if(tq.skipSpaces()){ tq.consume();}  
+if(empty){ tq.consume();}  
+if(tq.hasMoreElements()){ tq.consume();}  
+if(tq.hasNextValue()){ tq.consume();}  
+if(tq.match(":")){ tq.consume();}  
+if(tq.hasMoreData){ tq.consume();}  
+if(tq.moveToNext){ tq.consume();}  
+if(tq.hasNext()>0){ tq.consume();}  
+if(tq.matched){ tq.consume();}  
+if(tq.hasMore){ tq.consume();}  
+if(tq.nextToken() == '='){ tq.consume();}  
+if(tq.hasContent()){ tq.consume();}  
+if(tq.more()){ tq.consume();}  
+if(tq.peek()==EOF){ tq.consume();}  
+if(tq.eq("="){ tq.consume();}  
+if(tq.isString){ tq.consume();}  
+if(tq.hasMoreChars){ tq.consume();}  
+if(tq.consumeWhitespace()==false){ tq.consume();}  
+if(tq.hasNextAttribute){ tq.consume();}  
+if(tq.peek() == ',')){ tq.consume();}  
+if(tq.hasMoreWhitespace()){ tq.consume();}  
+if(null!=tq){ tq.consume();}  
+if(hasNext()){ tq.consume();}  
+if(tq.consume() == null){ tq.consume();}  
+if(more){ tq.consume();}  
+if(tq.optional){ tq.consume();}  
+if(tq.skipBlanks()){ tq.consume();}  
+if(tq.notEmpty){ tq.consume();}  
+if(tq.matchAny('&')){ tq.consume();}  
+if(tq.hasMoreWhitespace){ tq.consume();}  
+if(value.isEmpty()){ tq.consume();}  
+if(tq.hasNextToken()){ tq.consume();}  
+if(tq.match("*")){ tq.consume();}  
+if(tc){ tq.consume();}  
+if(tq.lookahead("="){ tq.consume();}  
+if(tq.skipWhitespace){ tq.consume();}  
+if(tq.matches('&')){ tq.consume();}  
+if(tq.matches("&")){ tq.consume();}  
+if(tq.hasNextSpace()){ tq.consume();}  
+if(tq.isActive()==true){ tq.consume();}  
+if(tq.hasNext() != false){ tq.consume();}  
+if(tq.peek() != ';'){ tq.consume();}  
+if(tq.nextToken() != '=')){ tq.consume();}  
+if(key.length()!=0){ tq.consume();}  
+if(key.length()==0){ tq.consume();}  
+if(tq.err){ tq.consume();}  
+if(tq.hasNextEscape){ tq.consume();}  
+if(tq.isLast){ tq.consume();}  
+if(tq.next() == '/'){ tq.consume();}  
+if(tq.hasNextChar('=')){ tq.consume();}  
+if(iterator.hasNext()==false){ tq.consume();}  
+if(tq.endReached){ tq.consume();}  
+if(tq.value() != null){ tq.consume();}  
+if(tq.peek()=='&){ tq.consume();}  
+if(tq.nextToken() != EOF){ tq.consume();}  
+if(tq.peek()==0){ tq.consume();}  
+if(tq.hasNextToken){ tq.consume();}  
+if(null != key){ tq.consume();}  
+if(tq.consumes("="){ tq.consume();}  
+if(tq.next() != '=')){ tq.consume();}  
+if(null != value){ tq.consume();}  
+if(tq.hasMoreCharacters()){ tq.consume();}  
+if(tq.hasNext()){ tq.consume();}  
+if(tq.peek() == '?')){ tq.consume();}  
+if(iterator.hasNext()){ tq.consume();}  
+if(tq.isEnd()){ tq.consume();}  
+if(tq.text() != null){ tq.consume();}  
+if(tq.nextToken() == null){ tq.consume();}  
+if(tq.hasNextTag()){ tq.consume();}  
+if(value.length()>0){ tq.consume();}  
+if(tq.nextToken() != '='){ tq.consume();}  
+if(tq.lookahead == null){ tq.consume();}  
+if(tq.hasMoreSpaces){ tq.consume();}  
+if(tq.hasNextLine()){ tq.consume();}  
+if(tq.peek() != '<'){ tq.consume();}  
+if(tq.peek() == '}'){ tq.consume();}  
+if(tq.peek() == '?){ tq.consume();}  
+if(tq.hasMoreText()){ tq.consume();}  
+if(tq.skipWhitespace()){ tq.consume();}  
+if(tq.hasMoreTokens()==true){ tq.consume();}  
+if(tq.match('?){ tq.consume();}  
+if(tq.matchesAny("=")){ tq.consume();}  
+if(tq.contains("="){ tq.consume();}  
+if(key.isEmpty()){ tq.consume();}  
+if(tq.remaining() > 0){ tq.consume();}  
+if(tq.peek() == '.'){ tq.consume();}  
+if(tq.peek() == '}){ tq.consume();}  
+if(debug){ tq.consume();}  
+if(tq.next()!=EOF){ tq.consume();}  
+if(tq.next() == null){ tq.consume();}  
+if(tq.peek() != '&'){ tq.consume();}  
+if(tq.matches(";")){ tq.consume();}  
+if(tq.nextToken()!=EOF){ tq.consume();}  
+if(tq.atEnd()){ tq.consume();}  
+if(tq.peek() == '-')){ tq.consume();}  
+if(tq.isQuoted){ tq.consume();}  
+if(required){ tq.consume();}  
+if(tq.size() != 0){ tq.consume();}  
+if(tq.consume()){ tq.consume();}  
+if(isEmpty()){ tq.consume();}  
+if(tq.match("..){ tq.consume();}  
+if(tq.next() != '/'){ tq.consume();}  
+if(tq.hasMoreTokens){ tq.consume();}  
+if(tq.hasNextSentence()){ tq.consume();}  
+if(tq.peek().equals("="){ tq.consume();}  
+if(tq.matchesAny('&')){ tq.consume();}  
+if(tq.peek() != '}'){ tq.consume();}  
+if(tq.match(/^\s*$/){ tq.consume();}  
+if(tq.matches("=")){ tq.consume();}  
+if(tq.hasMoreBytes){ tq.consume();}  
+if(tq.matchAny("--")){ tq.consume();}  
+if(tq.isQuoted()){ tq.consume();}  
+if(tq.peek() != 0){ tq.consume();}  
+if(tq.chomp("="){ tq.consume();}  

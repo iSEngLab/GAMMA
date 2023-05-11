@@ -1,0 +1,1750 @@
+.1;  
+.2;  
+ ;  
+.3;  
+;  
+.4;  
+.5;  
+.6;  
+.7;  
+ line;  
+.9;  
+.12;  
+.8;  
+ };  
+.10;  
+.14;  
+.11;  
+ header;  
+ ;  
+ return;  
+;;  
+.15;  
+.;  
+.0;  
+ else;  
+.2 ;  
+ else;  
+.13;  
+.1 ;  
+-1;  
+x;  
++;  
+ headers;  
+a;  
+.2.1;  
+.20;  
+.1.1;  
+ };  
+-2;  
+.3 ;  
+ return;  
+.1.2;  
+.2.2;  
+ parameter;  
+ field;  
+ request;  
+31;  
+ //else;  
+ ;  
+.2.3;  
+.3.1;  
+i;  
+.3.2;  
+.17;  
+.16;  
+12;  
+.25;  
+.4.1;  
+ cookies;  
+ Headers;  
+ value;  
+.23;  
+";  
+.22;  
+/header;  
+$;  
+.21;  
+ lines;  
+};  
+.4 ;  
+.19;  
+ .;  
+ cookie;  
+.18;  
+: Set-Cookie;  
+ statement;  
+ //;  
+.1 line;  
+ Header;  
+ etc;  
+ of RFC 2616;  
+.35;  
+.1.3;  
+ string;  
+:;  
+/;  
+ fields;  
+ list;  
+ body;  
+.29;  
+.4.2;  
+ loop;  
+ page;  
+ CRLF;  
+ parameters;  
+line;  
+ message;  
+ ||;  
+ values;  
+ ;;  
+-3;  
+ */;  
+.24;  
+ else return;  
+e;  
+.30;  
+ elements;  
+);  
+ pairs;  
+.3.4;  
+.3.3;  
+ --------------------------------------------------------;  
+.2.4;  
+.26;  
+ of rfc2616;  
+2;  
+ 	;  
+ --------------------------------------------------------------------------------;  
+.5.1;  
+ element;  
+ style;  
+.28;  
+.5 ;  
+.4.3;  
+,2;  
+, Set-Cookie;  
+..;  
+ 2;  
+ return true;  
+ ...;  
+.1 header;  
+s;  
+-4;  
+	;  
+/Header;  
+.6 ;  
+...;  
+ format;  
+ method;  
+21;  
+.31;  
+ else return;  
+ =;  
+14;  
+.*;  
+30;  
+:Set-Cookie;  
+_2;  
+.2.5;  
+.1.4;  
+ response;  
+16;  
+,3;  
+  ;  
+  ;  
+26;  
+ array;  
+.1.5;  
+ check;  
+.5.2;  
+.1.;  
+  };  
+.2.6;  
+.3.5;  
+ connection;  
+ break;  
+ standard;  
+ processCookies;  
+d;  
+,Set-Cookie;  
+.1 headers;  
+.3.6;  
+ return this;  
+.x;  
+ type;  
+';  
+.40;  
+ of RFC2616;  
+-6;  
+38;  
+32;  
+ response headers;  
+ property;  
+L;  
+ null;  
+.1.6;  
+ otherwise;  
+ required;  
+ form;  
+header;  
+ behavior;  
+ ....;  
+ value = values;  
+) {;  
+ :;  
+29;  
+ Cookie;  
+  ;  
+ collection;  
+1;  
+11;  
+*;  
+ long;  
+ values = values;  
+ end;  
+ {;  
+ options;  
+.6.1;  
+, set-cookie;  
+ call;  
+ &&;  
+.34;  
+ protocol;  
+.5.3;  
+ value = null;  
+-5;  
+ //};  
+.2.;  
+_1;  
+.7.1;  
+.1 };  
+ continue;  
+.1 ;  
+.4.5;  
+ for example;  
+.2 };  
+ likes;  
+$2;  
+ global;  
+.4.4;  
+  	;  
+ //return;  
+.1 Header;  
+ null;  
+.3 };  
+ headerNames;  
+.2.7;  
+.2 return;  
+, etc;  
+.1 return;  
+ Set-Cookie;  
+ cookies;  
+.4.6;  
+ };  
+, 2;  
+$1;  
+ header;  
+ default;  
+.6.2;  
+; ;  
+.1; if (!values.isEmpty())   
+.2; if (!values.isEmpty())   
+; if (!values.isEmpty())   
+.3; if (!values.isEmpty())   
+ ; if (!values.isEmpty())   
+.4; if (!values.isEmpty())   
+.5; if (!values.isEmpty())   
+ line; if (!values.isEmpty())   
+.6; if (!values.isEmpty())   
+ header; if (!values.isEmpty())   
+.7; if (!values.isEmpty())   
+ }; if (!values.isEmpty())   
+ headers; if (!values.isEmpty())   
+.9; if (!values.isEmpty())   
+;; if (!values.isEmpty())   
+.8; if (!values.isEmpty())   
+ ; if (!values.isEmpty())   
+.12; if (!values.isEmpty())   
+.10; if (!values.isEmpty())   
+.14; if (!values.isEmpty())   
+ }; if (!values.isEmpty())   
+.11; if (!values.isEmpty())   
+-1; if (!values.isEmpty())   
++; if (!values.isEmpty())   
+ //else; if (!values.isEmpty())   
+.15; if (!values.isEmpty())   
+ else; if (!values.isEmpty())   
+-2; if (!values.isEmpty())   
+ Headers; if (!values.isEmpty())   
+ lines; if (!values.isEmpty())   
+ parameter; if (!values.isEmpty())   
+a; if (!values.isEmpty())   
+x; if (!values.isEmpty())   
+.0; if (!values.isEmpty())   
+ Header; if (!values.isEmpty())   
+ etc; if (!values.isEmpty())   
+ else; if (!values.isEmpty())   
+.13; if (!values.isEmpty())   
+ statement; if (!values.isEmpty())   
+ CRLF; if (!values.isEmpty())   
+}; if (!values.isEmpty())   
+.; if (!values.isEmpty())   
+ values; if (!values.isEmpty())   
+ request; if (!values.isEmpty())   
+.20; if (!values.isEmpty())   
+ cookies; if (!values.isEmpty())   
+ parameters; if (!values.isEmpty())   
+2; if (!values.isEmpty())   
+ body; if (!values.isEmpty())   
+ ;; if (!values.isEmpty())   
+ pairs; if (!values.isEmpty())   
+ value; if (!values.isEmpty())   
+ fields; if (!values.isEmpty())   
+ field; if (!values.isEmpty())   
+ cookie; if (!values.isEmpty())   
+ return; if (!values.isEmpty())   
+ string; if (!values.isEmpty())   
+ return; if (!values.isEmpty())   
+/header; if (!values.isEmpty())   
+ //; if (!values.isEmpty())   
+-3; if (!values.isEmpty())   
+i; if (!values.isEmpty())   
+ list; if (!values.isEmpty())   
+31; if (!values.isEmpty())   
+$; if (!values.isEmpty())   
+ 2; if (!values.isEmpty())   
+12; if (!values.isEmpty())   
+ page; if (!values.isEmpty())   
+/; if (!values.isEmpty())   
+.2 ; if (!values.isEmpty())   
+ elements; if (!values.isEmpty())   
+line; if (!values.isEmpty())   
+.1.1; if (!values.isEmpty())   
+e; if (!values.isEmpty())   
+ header values; if (!values.isEmpty())   
+.2.1; if (!values.isEmpty())   
+.1 ; if (!values.isEmpty())   
+ loop; if (!values.isEmpty())   
+ message; if (!values.isEmpty())   
+..; if (!values.isEmpty())   
+ ; if (!values.isEmpty())   
+); if (!values.isEmpty())   
+ method; if (!values.isEmpty())   
+.1.2; if (!values.isEmpty())   
+ style; if (!values.isEmpty())   
+.17; if (!values.isEmpty())   
+ options; if (!values.isEmpty())   
+.16; if (!values.isEmpty())   
+"; if (!values.isEmpty())   
+.23; if (!values.isEmpty())   
+ .; if (!values.isEmpty())   
+.25; if (!values.isEmpty())   
+.22; if (!values.isEmpty())   
+.19; if (!values.isEmpty())   
+header; if (!values.isEmpty())   
+...; if (!values.isEmpty())   
+ null; if (!values.isEmpty())   
+.21; if (!values.isEmpty())   
+ sections; if (!values.isEmpty())   
+ element; if (!values.isEmpty())   
+ response headers; if (!values.isEmpty())   
+: Set-Cookie; if (!values.isEmpty())   
+ standard; if (!values.isEmpty())   
+1; if (!values.isEmpty())   
+ response; if (!values.isEmpty())   
+.*; if (!values.isEmpty())   
+.18; if (!values.isEmpty())   
+21; if (!values.isEmpty())   
+  ; if (!values.isEmpty())   
+.2.3; if (!values.isEmpty())   
+.1 line; if (!values.isEmpty())   
+.3 ; if (!values.isEmpty())   
+ array; if (!values.isEmpty())   
+ collection; if (!values.isEmpty())   
+-4; if (!values.isEmpty())   
+16; if (!values.isEmpty())   
+ --------------------------------------------------------------------------------; if (!values.isEmpty())   
+ headerNames; if (!values.isEmpty())   
+ rules; if (!values.isEmpty())   
+.2.2; if (!values.isEmpty())   
+ params; if (!values.isEmpty())   
++1; if (!values.isEmpty())   
+ properties; if (!values.isEmpty())   
+*; if (!values.isEmpty())   
+s; if (!values.isEmpty())   
+ of RFC 2616; if (!values.isEmpty())   
+ */; if (!values.isEmpty())   
+.35; if (!values.isEmpty())   
+	; if (!values.isEmpty())   
+.29; if (!values.isEmpty())   
+ table; if (!values.isEmpty())   
+32; if (!values.isEmpty())   
+,2; if (!values.isEmpty())   
+ protocol; if (!values.isEmpty())   
+ ...; if (!values.isEmpty())   
+  }; if (!values.isEmpty())   
+ behavior; if (!values.isEmpty())   
+ end; if (!values.isEmpty())   
+ format; if (!values.isEmpty())   
+ separator; if (!values.isEmpty())   
+ ||; if (!values.isEmpty())   
+.3.1; if (!values.isEmpty())   
+ required; if (!values.isEmpty())   
+26; if (!values.isEmpty())   
+/Header; if (!values.isEmpty())   
+.4.1; if (!values.isEmpty())   
+-6; if (!values.isEmpty())   
+_2; if (!values.isEmpty())   
+ --------------------------------------------------------; if (!values.isEmpty())   
+ likes; if (!values.isEmpty())   
+.3.2; if (!values.isEmpty())   
+ connection; if (!values.isEmpty())   
+:; if (!values.isEmpty())   
+ //}; if (!values.isEmpty())   
+ Properties; if (!values.isEmpty())   
+ of rfc2616; if (!values.isEmpty())   
+ 1; if (!values.isEmpty())   
+ header; if (!values.isEmpty())   
+14; if (!values.isEmpty())   
+'; if (!values.isEmpty())   
+d; if (!values.isEmpty())   
+, Set-Cookie; if (!values.isEmpty())   
+ values = values; if (!values.isEmpty())   
+30; if (!values.isEmpty())   
+ code; if (!values.isEmpty())   
+, etc; if (!values.isEmpty())   
+ and; if (!values.isEmpty())   
+ block; if (!values.isEmpty())   
+.30; if (!values.isEmpty())   
+ header names; if (!values.isEmpty())   
++2; if (!values.isEmpty())   
+.1.3; if (!values.isEmpty())   
+ or; if (!values.isEmpty())   
+ segment; if (!values.isEmpty())   
+.24; if (!values.isEmpty())   
+ //return; if (!values.isEmpty())   
+ // else; if (!values.isEmpty())   
+ here; if (!values.isEmpty())   
+  ; if (!values.isEmpty())   
+ entries; if (!values.isEmpty())   
+ responses; if (!values.isEmpty())   
+.28; if (!values.isEmpty())   
+ sequence; if (!values.isEmpty())   
+c; if (!values.isEmpty())   
+L; if (!values.isEmpty())   
+ line 1; if (!values.isEmpty())   
+$2; if (!values.isEmpty())   
+ 2.2; if (!values.isEmpty())   
+ Methods; if (!values.isEmpty())   
+ 2.1; if (!values.isEmpty())   
+ query; if (!values.isEmpty())   
+ type; if (!values.isEmpty())   
+ iteration; if (!values.isEmpty())   
+.26; if (!values.isEmpty())   
+.1 header; if (!values.isEmpty())   
+.4 ; if (!values.isEmpty())   
+ header value; if (!values.isEmpty())   
+ processCookies; if (!values.isEmpty())   
+.1 headers; if (!values.isEmpty())   
+,3; if (!values.isEmpty())   
+ headers; if (!values.isEmpty())   
+.4.2; if (!values.isEmpty())   
+  ; if (!values.isEmpty())   
+ header name; if (!values.isEmpty())   
+ }; if (!values.isEmpty())   
+ //TODO; if (!values.isEmpty())   
+   ; if (!values.isEmpty())   
+$1; if (!values.isEmpty())   
+ of RFC2616; if (!values.isEmpty())   
+ 2.3; if (!values.isEmpty())   
+     ; if (!values.isEmpty())   
+) {; if (!values.isEmpty())   
+-1.1; if (!values.isEmpty())   
++ ; if (!values.isEmpty())   
+.4.3; if (!values.isEmpty())   
+ 	; if (!values.isEmpty())   
+.2.4; if (!values.isEmpty())   
+, setCookie; if (!values.isEmpty())   
+ section 2; if (!values.isEmpty())   
+_1; if (!values.isEmpty())   
+ /*package; if (!values.isEmpty())   
+ list of values; if (!values.isEmpty())   
+.5.1; if (!values.isEmpty())   
+.3.4; if (!values.isEmpty())   
+.1 ; if (!values.isEmpty())   
+.3.3; if (!values.isEmpty())   
+, setCookies; if (!values.isEmpty())   
+ value = values; if (!values.isEmpty())   
+, set-cookie; if (!values.isEmpty())   
+-1.2; if (!values.isEmpty())   
+.5 ; if (!values.isEmpty())   
+ e.g; if (!values.isEmpty())   
+, 2; if (!values.isEmpty())   
+.1.4; if (!values.isEmpty())   
+ values = new ArrayList; if (!values.isEmpty())   
+.1.5; if (!values.isEmpty())   
+ //processResponseHeaders; if (!values.isEmpty())   
+.2.5; if (!values.isEmpty())   
+.1 }; if (!values.isEmpty())   
+ value = null; if (!values.isEmpty())   
+ //else; if (!values.isEmpty())   
+ // }; if (!values.isEmpty())   
+&nbsp;; if (!values.isEmpty())   
+; }; if (!values.isEmpty())   
+.2 }; if (!values.isEmpty())   
+.6 ; if (!values.isEmpty())   
+) ; if (!values.isEmpty())   
+.1 Header; if (!values.isEmpty())   
+ section 3; if (!values.isEmpty())   
+ Content-Type; if (!values.isEmpty())   
+if (!values.isEmpty())   
+if (!values.isEmpty() && !values.isEmpty())   
+if (!values.contains())   
+if (!values.equals())   
+if (!values.containsAll())   
+if (!values.isEmpty() || values.isEmpty())   
+if (!values.size())   
+if (!values. isEmpty())   
+if (!values.isEmpty() || !values.isEmpty())   
+if (!values.containsKey())   
+if (!values.isEmpty() && values.isEmpty())   
+if (!values.empty())   
+if (!values.get(0).isEmpty())   
+if (!values.isEmpty() && value != null())   
+if (!values.isEmpty() && !value.isEmpty())   
+if (!values.isEmpty() && !headers.isEmpty())   
+if (!values.size() > 0())   
+if (!values.containsAny())   
+if (!values.isEmpty() && (!values.isEmpty())   
+if (!values.trim().isEmpty())   
+if (!values.isEmpty() && value.isEmpty())   
+if (!values.isEmptyOrNull())   
+if (!values.isEmpty() && !values.contains(","())   
+if (!values.isEmpty().isEmpty())   
+if (!values.containsNull())   
+if (!values.containsKey())   
+if (!values.isEmpty() && values.contains())   
+if (!values.size() == 1())   
+if (!values.isEmpty() && !headerNames.isEmpty())   
+if (!values.isEmpty() && !names.isEmpty())   
+if (!values.isNotEmpty())   
+if (!values.keySet().isEmpty())   
+if (!values.containsValue())   
+if (!values.toString().isEmpty())   
+if (!values.isEmpty() && values.iterator().hasNext())   
+if (!values.isEmpty()&&!values.isEmpty())   
+if (!values.isEmpty() ())   
+if (!values.size().isEmpty())   
+if (!values.isEmpty() && headers.isEmpty())   
+if (!values.isEmpty() || value.isEmpty())   
+if (!values.isEmpty() && !values.equals())   
+if (!values.isEmpty() && !values.contains())   
+if (!values.isEmpty().contains())   
+if (!values.isPresent())   
+if (!values.size().equals())   
+if (!values.isNull())   
+if (!values.isEmpty().iterator().hasNext())   
+if (!values.isEmpty();())   
+if (!values.isEmpty() && values.size()>0())   
+if (!values.containsEmpty())   
+if (!values.isEmpty() || headers.isEmpty())   
+if (!values.toArray())   
+if (!values.isEmpty() && entries.isEmpty())   
+if (!values.stream())   
+if (!values.stream().anyMatch())   
+if (!values.iterator().hasNext())   
+if (!values.isEmpty() && values.contains(","())   
+if (!values.toString().equals())   
+if (!values.isEmpty() && !headerValues.isEmpty())   
+if (!values.isEmpty() && !values.contains(",")())   
+if (!values.length())   
+if (!values.isEmpty() && values.nonEmpty())   
+if (!values.containsKeys())   
+if (!values.remove())   
+if (!values.isEmpty() && value!=null())   
+if (!values.isEmpty() && header(name).isEmpty())   
+if (!values.containsValues())   
+if (!values.isEmpty() && value == null())   
+if (!values.isEmpty() && !values.contains("="())   
+if (!values.isEmpty() && cookie())   
+if (!values.isEmpty() && !resHeaders.isEmpty())   
+if (!values.isEmpty() && !cookies.isEmpty())   
+if (!values.isEmpty() }())   
+if (!values.isAny())   
+if (!values.IsEmpty())   
+if (!values.isEmptyArray())   
+if (!values.isEmpty() || !headers.isEmpty())   
+if (!values.())   
+if (!values.trim().equals())   
+if (!values.isEmpty<mask5>isEmpty())   
+if (!values.get(0).trim().equals())   
+if (!values.isEmpty() && values[].length > 0())   
+if (!values.get(0).equals())   
+if (!values.isEmpty() && !headerNames.contains())   
+if (!values.isEmpty()==true())   
+if (!values.isEmpty()==false())   
+if (!values.isEmpty() && header())   
+if (!values.isBlank())   
+if (!values.keySet().contains())   
+if (!values.isEmpty() && cookies.isEmpty())   
+if (!values.isEmpty() && values.size()==1())   
+if (!values.isZero())   
+if (!values.isEmpty() && response.isCommitted())   
+if (!values.get(0).trim().isEmpty())   
+if (!values.isEmpty() && name != null())   
+if (!values.containsKey("Set-Cookie())   
+if (!values.isEmpty() && values[0].isEmpty())   
+if (!values.isEmpty() && values.containsAll())   
+if (!values.isEmpty() && ! values.isEmpty())   
+if (!values.emptyList())   
+if (!values.isEmpty() && valueList.isEmpty())   
+if (!values.containsDuplicates())   
+if (!values.size()==1())   
+if (!values.isLast())   
+if (!values.stream().allMatch())   
+if (!values.isEmpty() && values.contains(",")())   
+if (!values.size() > 1())   
+if (!values.isEmpty() && !values.isEmpty())   
+if (!values.isEmpty() && values.isNotEmpty())   
+if (!values.isEmptyObject())   
+if (!values.isEmpty() && names.isEmpty())   
+if (!values.isEmpty() || (!values.isEmpty())   
+if (!values.isEmpty() && !Values.isEmpty())   
+if (!values.isEmpty() && exists())   
+if (!values.stream().forEach())   
+if (!values.clear())   
+if (!values.contains("="())   
+if (!values.isEmpty()())   
+if (!values.isEmptyRight())   
+if (!values.isEmpty() && !response.isCommitted())   
+if (!values.isEmpty() && headerExists())   
+if (!values.isEmpty() && !values[].isEmpty())   
+if (!values.isEmpty() && !headers.contains())   
+if (!values.get())   
+if (!values.containsSeparator())   
+if (!values.size() == 0())   
+if (!values.isEmpty() == false())   
+if (!values.isEmpty() || values.isEmpty())   
+if (!values.isEmptyList())   
+if (!values.hasNext())   
+if (!values.containsKey("Set-Cookie"))())   
+if (!values.isEmptyAny())   
+if (!values.isEmpty() && !header.isEmpty())   
+if (!values.isEmpty() && entry.getValue().isEmpty())   
+if (!values.toString().trim().isEmpty())   
+if (!values.isEmpty().hasNext())   
+if (!values.isEmpty() )())   
+if (!values.hasAny())   
+if (!values.isEmpty() && isValidCookie())   
+if (!values.isEmpty() && !values.containsAll())   
+if (!values.isEmpty() || values.contains())   
+if (!values.isEmpty() == true())   
+if (!values.isEmpty() && !values.remove())   
+if (!values.hasNext())   
+if (!values.size().isZero())   
+if (!values.stream().hasNext())   
+if (!values.isEmpty() && value instanceof TokenQueue())   
+if (!values.isEmpty() || value != null())   
+if (!values.asList().isEmpty())   
+if (!values.isEmpty()  }())   
+if (!values.contains(name))())   
+if (!values.isEmpty() || headerNames.isEmpty())   
+if (!values.isEmpty() && !valueList.isEmpty())   
+if (!values.isEmpty() && values.hasMoreElements())   
+if (!values.isEmpty() && ok())   
+if (!values.isEmpty() && isValid())   
+if (!values.isEmpty() & !values.isEmpty())   
+if (!values.isEmpty() && valueEquals())   
+if (!values.isEmpty() && !values.isEmpty()())   
+if (!values.isEmpty() &&  !values.isEmpty())   
+if (!values.isEmpty() && !name.isEmpty())   
+if (!values.containsString())   
+if (!values.isEmpty() && value.equals())   
+if (!values.isEmpty() && !val.isEmpty())   
+if (!values.isEmpty() && responses.isEmpty())   
+if (!values.contains("Set-Cookie())   
+if (!values.emptyList().isEmpty())   
+if (!values.isEmpty() && values.containsValue())   
+if (!values.isEmpty2())   
+if (!values.isEmpty() && (!headers.isEmpty())   
+if (!values.isEmpty().size())   
+if (!values.isEmpty() && key != null())   
+if (!values.isEmpty() > 0())   
+if (!values.stream().none())   
+if (!values.isEmpty() && value != null)())   
+if (!values.isEmpty() && value())   
+if (!values.isEmpty() || !headerNames.isEmpty())   
+if (!values.isEmpty() and !values.isEmpty())   
+if (!values.isEmpty() && response != null())   
+if (!values.isEmpty() && accept())   
+if (!values.isEmpty() && cookie != null())   
+if (!values.isEmpty() && !values.isEmpty())   
+if (!values.isEmpty() && !response.isEmpty())   
+if (!values.isEmpty() && !cookie.isEmpty())   
+if (!values.isEmpty() || !value.isEmpty())   
+if (!values.isEmpty() && values.equals())   
+if (!values.getAll())   
+if (!values.isEmpty() && values[0].equals())   
+if (!values.hasKey())   
+if (!values.isEmpty() && !values.contains(',')())   
+if (!values.isUndefined())   
+if (!values.stream().all())   
+if (!values.containsNone())   
+if (!values.isEmpty(),())   
+if (!values.getFirst().isEmpty())   
+if (!values.contains("")())   
+if (!values.size()==0())   
+if (!values.containsAnyValue())   
+if (!values.stream().accept())   
+if (!values.get(0())   
+if (!values.isArray())   
+if (!values.isEmptyNow())   
+if (!values.isEmptyExact())   
+if (!values.hasMoreElements())   
+if (!values.peek())   
+if (!values.isSet())   
+if (!values.exists())   
+if (!values.isList())   
+if (!values.contains(",")())   
+if (!values.isOne())   
+if (!values.isEmpty()?())   
+if (!values.isClosed())   
+if (!values.isEmptyOnly())   
+if (!values.isEmptyString())   
+if (!values.isEmpty()}())   
+if (!values.isEmpty ())   
+if (!values.isNone())   
+if (!values.containsLast())   
+if (!values.isEquals())   
+if (!values.containsIgnoreCase())   
+if (!values.containsEverything())   
+if (!values.isEmpty<mask9>())   
+if (!values.getEmpty())   
+if (!values.getLast())   
+if (!values.isEmpty():())   
+if (!values.isEmptyKey())   
+if (!values.isEmptyInt())   
+if (!values.isEmptyLeft())   
+if (!values.hasKeys())   
+if (!values.equals("")())   
+if (!values.isComment())   
+if (!values.isEmpty0())   
+if (!values.containsElement())   
+if (!values.add())   
+if (!values.sizeOf())   
+if (!values.isEmptyValue())   
+if (!values.isEmptyAll())   
+if (!values.isUnmodifiable())   
+if (!values.isEmptyElement())   
+if (!values.contains(","())   
+if (!values.getFirst())   
+if (!values.contains0())   
+if (!values.isInt())   
+if (!values.has())   
+if (!values.matches())   
+if (!values.forEach())   
+if (!values.isEmptyType())   
+if (!values.containsName())   
+if (!values.getSize())   
+if (!values.removeAll())   
+if (!values.isEmpty())   
+if (!names.isEmpty())   
+if (!value.isEmpty())   
+if (!headers.isEmpty())   
+if (!header.isEmpty())   
+if (!name.isEmpty())   
+if (!headerNames.isEmpty())   
+if (!Values.isEmpty())   
+if (! values.isEmpty())   
+if (!resHeaders.isEmpty())   
+if (!val.isEmpty())   
+if (!cookies.isEmpty())   
+if (!vals.isEmpty())   
+if (!entries.isEmpty())   
+if (!keys.isEmpty())   
+if (!headerValues.isEmpty())   
+if (!valueList.isEmpty())   
+if (!response.isEmpty())   
+if (!nameValues.isEmpty())   
+if (!cookie.isEmpty())   
+if (!buffer.isEmpty())   
+if (!params.isEmpty())   
+if (!key.isEmpty())   
+if (!fields.isEmpty())   
+if (!options.isEmpty())   
+if (!data.isEmpty())   
+if (!responseHeaders.isEmpty())   
+if (!valueNames.isEmpty())   
+if (!entry.isEmpty())   
+if (!nameValuePairs.isEmpty())   
+if (!cookieNames.isEmpty())   
+if (!"".isEmpty())   
+if (!result.isEmpty())   
+if (!parameters.isEmpty())   
+if (!isEmpty() && values.isEmpty())   
+if (!VALUES.isEmpty())   
+if (!valueQueue.isEmpty())   
+if (!headerKeys.isEmpty())   
+if (!NAMES.isEmpty())   
+if (!this.values.isEmpty())   
+if (!valuePairs.isEmpty())   
+if (!responses.isEmpty())   
+if (!columns.isEmpty())   
+if (!nameList.isEmpty())   
+if (!headerList.isEmpty())   
+if (!getValues.isEmpty())   
+if (!v.isEmpty())   
+if (!results.isEmpty())   
+if (!query.isEmpty())   
+if (!nameValue.isEmpty())   
+if (!filter.isEmpty())   
+if (!elements.isEmpty())   
+if (!hasValue.isEmpty())   
+if (!collection.isEmpty())   
+if (!list.isEmpty())   
+if (!body.isEmpty())   
+if (!combined.isEmpty())   
+if (!req.isEmpty())   
+if (!String.isEmpty())   
+if (!separators.isEmpty())   
+if (!valueSet.isEmpty())   
+if (!(values.isEmpty())   
+if (!valueMap.isEmpty())   
+if (!responseHeader.isEmpty())   
+if (!variables.isEmpty())   
+if (!url.isEmpty())   
+if (!valList.isEmpty())   
+if (!!values.isEmpty())   
+if (! names.isEmpty())   
+if (!messages.isEmpty())   
+if (!headerName.isEmpty())   
+if (!valueHeader.isEmpty())   
+if (!stack.isEmpty())   
+if (!count.isEmpty())   
+if (!arguments.isEmpty())   
+if (!children.isEmpty())   
+if (!null != values.isEmpty())   
+if (!all.isEmpty())   
+if (!setValues(values);.isEmpty())   
+if (!namesAndValues.isEmpty())   
+if (!responseCookies.isEmpty())   
+if (!allHeaders.isEmpty())   
+if (!value<mask5>values.isEmpty())   
+if (!members.isEmpty())   
+if (!c.isEmpty())   
+if (!map.isEmpty())   
+if (!nameNames.isEmpty())   
+if (!nameMap.isEmpty())   
+if (!valueValues.isEmpty())   
+if (!prefix.isEmpty())   
+if (!allValues.isEmpty())   
+if (!flags.isEmpty())   
+if (!valueStack.isEmpty())   
+if (! Values.isEmpty())   
+if (!attributes.isEmpty())   
+if (!StringUtil.isEmpty())   
+if (!id.isEmpty())   
+if (!lines.isEmpty())   
+if (!domain.isEmpty())   
+if (!Header.isEmpty())   
+if (!strings.isEmpty())   
+if (!isEmpty() && !values.isEmpty())   
+if (!excludes.isEmpty())   
+if (!separator.isEmpty())   
+if (!items.isEmpty())   
+if (!pairs.isEmpty())   
+if (!errors.isEmpty())   
+if (!session.isEmpty())   
+if (!headerValue.isEmpty())   
+if (!StringUtils.isEmpty())   
+if (!Array.isEmpty())   
+if (!values<mask5>values.isEmpty())   
+if (!this.isEmpty())   
+if (!request.isEmpty())   
+if (!comments.isEmpty())   
+if (!this.headers.isEmpty())   
+if (!ids.isEmpty())   
+if (!contents.isEmpty())   
+if (!if (!values.isEmpty())   
+if (!uri.isEmpty())   
+if (!allCookies.isEmpty())   
+if (!Names.isEmpty())   
+if (!defaults.isEmpty())   
+if (!Strings.isEmpty())   
+if (!boundary.isEmpty())   
+if (!customHeaders.isEmpty())   
+if (!valueString.isEmpty())   
+if (!namedCookies.isEmpty())   
+if (!first.isEmpty())   
+if (!group.isEmpty())   
+if (!join.isEmpty())   
+if (!resources.isEmpty())   
+if (!header(name, values.isEmpty())   
+if (!response.headers.isEmpty())   
+if (!vars.isEmpty())   
+if (!tags.isEmpty())   
+if (!buf.isEmpty())   
+if (!e.isEmpty())   
+if (!block.isEmpty())   
+if (!name<mask5>values.isEmpty())   
+if (!setCookies.isEmpty())   
+if (!declarations.isEmpty())   
+if (!getValue.isEmpty())   
+if (!nameAndValue.isEmpty())   
+if (!args.isEmpty())   
+if (!size.isEmpty())   
+if (!name1.isEmpty())   
+if (!req.headers.isEmpty())   
+if (!keyValues.isEmpty())   
+if (!valueHeaders.isEmpty())   
+if (!cookieValues.isEmpty())   
+if (! }.isEmpty())   
+if (!exists.isEmpty())   
+if (!headerName.isEmpty())   
+if (! value.isEmpty())   
+if (! if (!values.isEmpty())   
+if (!exceptions.isEmpty())   
+if (!addresses.isEmpty())   
+if (!headernames.isEmpty())   
+if (!HeaderNames.isEmpty())   
+if (!valueCollection.isEmpty())   
+if (!message.isEmpty())   
+if (!server.isEmpty())   
+if (!Collection.isEmpty())   
+if (! headers.isEmpty())   
+if (!types.isEmpty())   
+if (!path.isEmpty())   
+if (!vHeader.isEmpty())   
+if (!responseHeaderNames.isEmpty())   
+if (!comma.isEmpty())   
+if (!multipleValues.isEmpty())   
+if (!defaultValue.isEmpty())   
+if (!valueSeparator.isEmpty())   
+if (!field.isEmpty())   
+if (!Arrays.isEmpty())   
+if (!css.isEmpty())   
+if (!urls.isEmpty())   
+if (!line.isEmpty())   
+if (!queries.isEmpty())   
+if (!val1.isEmpty())   
+if (!others.isEmpty())   
+if (!.isEmpty())   
+if (!remaining.isEmpty())   
+if (!value<mask1>value.isEmpty())   
+if (!this.cookies.isEmpty())   
+if (!null && values.isEmpty())   
+if (!parts.isEmpty())   
+if (!nameHeader.isEmpty())   
+if (!v2.isEmpty())   
+if (!valueStr.isEmpty())   
+if (!values .isEmpty())   
+if (!captions.isEmpty())   
+if (!nameSet.isEmpty())   
+if (!isEmpty() || values.isEmpty())   
+if (!nameLine.isEmpty())   
+if (! if (values.isEmpty())   
+if (!valueEquals.isEmpty())   
+if (!nameAndValues.isEmpty())   
+if (!req.cookies.isEmpty())   
+if (!valueHeaderNames.isEmpty())   
+if (!val<mask1>val.isEmpty())   
+if (!options.cookies.isEmpty())   
+if (!name2.isEmpty())   
+if (!value<mask5>value.isEmpty())   
+if (!basicAuth.isEmpty())   
+if (!options.headers.isEmpty())   
+if (!isHeader.isEmpty())   
+if (!name.contains(",")).isEmpty())   
+if (!isCookie.isEmpty())   
+if (!name2header.isEmpty())   
+if (!customHeader.isEmpty())   
+if (!isHeaders.isEmpty())   
+if (!values != null && values.isEmpty())   
+if (!_header.isEmpty())   
+if (!name2value.isEmpty())   
+if (!1 == values.isEmpty())   
+if (!containsHeader.isEmpty())   
+if (!hasValue() && values.isEmpty())   
+if (!this.header.isEmpty())   
+if (!value<mask1>value).isEmpty())   
+if (!reponse.isEmpty())   
+if (!name.endsWith(":")).isEmpty())   
+if (!_headerNames.isEmpty())   
+if (!customHeaderNames.isEmpty())   
+if (!name.endsWith(";")).isEmpty())   
+if (!responseHeaderValues.isEmpty())   
+if (!nameValueList.isEmpty())   
+if (!values.values.isEmpty())   
+if (!"Set-Cookie".isEmpty())   
+if (!header(name,values.isEmpty())   
+if (!values.isEmpty() .isEmpty())   
+if (!values.isEmpty().isEmpty())   
+if (!header(name).isEmpty())   
+if (!null && !values.isEmpty())   
+if (!recognizedHeaders.isEmpty())   
+if (!isSecure.isEmpty())   
+if (!recognized.isEmpty())   
+if (! //if (!values.isEmpty())   
+if (!nameEquals.isEmpty())   
+if (!value_list.isEmpty())   
+if (!val<mask1>val).isEmpty())   
+if (!equals(values.isEmpty())   
+if (!request.headers.isEmpty())   
+if (!headers.values.isEmpty())   
+if (!nameEqualsValue.isEmpty())   
+if (!nameEqualsValues.isEmpty())   
+if (!options.cookie.isEmpty())   
+if (!this.response.isEmpty())   
+if (!this.cookie.isEmpty())   
+if (!.isEmpty())   
+if(values==null){return ;;} if (!values.isEmpty())   
+if(values==null){return ;};} if (!values.isEmpty())   
+if(values==null){return  ;;} if (!values.isEmpty())   
+if(values==null){return ; };} if (!values.isEmpty())   
+if(values==null){return  null;} if (!values.isEmpty())   
+if(values==null){return };} if (!values.isEmpty())   
+if(values==null){return ; ;} if (!values.isEmpty())   
+if(values==null){return ;};} if (!values.isEmpty())   
+if(values==null){return  false;} if (!values.isEmpty())   
+if(values==null){return ; };} if (!values.isEmpty())   
+if(values==null){return  null;;} if (!values.isEmpty())   
+if(values==null){return  true;} if (!values.isEmpty())   
+if(values==null){return ; else;} if (!values.isEmpty())   
+if(values==null){return  };} if (!values.isEmpty())   
+if(values==null){return ; // http/1.1 line;} if (!values.isEmpty())   
+if(values==null){return  false;;} if (!values.isEmpty())   
+if(values==null){return  true;;} if (!values.isEmpty())   
+if(values==null){return  ;};} if (!values.isEmpty())   
+if(values==null){return ;} ;} if (!values.isEmpty())   
+if(values==null){return };;} if (!values.isEmpty())   
+if(values==null){return  ; ;} if (!values.isEmpty())   
+if(values==null){return  ; };} if (!values.isEmpty())   
+if(values==null){return ; ;} if (!values.isEmpty())   
+if(values==null){return ; else {;} if (!values.isEmpty())   
+if(values==null){return  ;} if (!values.isEmpty())   
+if(values==null){return  null; };} if (!values.isEmpty())   
+if(values==null){return ;}};} if (!values.isEmpty())   
+if(values==null){return ; else{return;} if (!values.isEmpty())   
+if(values==null){return ; else{return;;} if (!values.isEmpty())   
+if(values==null){return ;  };} if (!values.isEmpty())   
+if(values==null){return ;  ;} if (!values.isEmpty())   
+if(values==null){return  false; };} if (!values.isEmpty())   
+if(values==null){return ;} if (!values.isEmpty())   
+if(values==null){return  ; };} if (!values.isEmpty())   
+if(values==null){return  ; else;} if (!values.isEmpty())   
+if(values==null){return ; // http/1.1;} if (!values.isEmpty())   
+if(values==null){return ;  ;} if (!values.isEmpty())   
+if(values==null){return ;}};} if (!values.isEmpty())   
+if(values==null){return ; //http/1.1 line;} if (!values.isEmpty())   
+if(values==null){return } else {;} if (!values.isEmpty())   
+if(values==null){return  this;} if (!values.isEmpty())   
+if(values==null){return  ;} if (!values.isEmpty())   
+if(values==null){return ; } ;} if (!values.isEmpty())   
+if(values==null){return ;} //;} if (!values.isEmpty())   
+if(values==null){return ; else{;} if (!values.isEmpty())   
+if(values==null){return ;} else {;} if (!values.isEmpty())   
+if(values==null){return ;} //else;} if (!values.isEmpty())   
+if(values==null){return ; //};} if (!values.isEmpty())   
+if(values==null){return ;}  ;} if (!values.isEmpty())   
+if(values==null){return ;} };} if (!values.isEmpty())   
+if(values==null){return  0;} if (!values.isEmpty())   
+if(values==null){return ; if (!values.isEmpty());} if (!values.isEmpty())   
+if(values==null){return ; header(name, values);;} if (!values.isEmpty())   
+if(values==null){return ; else return;;} if (!values.isEmpty())   
+if(values==null){return  true; };} if (!values.isEmpty())   
+if(values==null){return ; if (values==null);} if (!values.isEmpty())   
+if(values==null){return ; //;} if (!values.isEmpty())   
+if(values==null){return ; else{ return; };} if (!values.isEmpty())   
+if(values==null){return ; //else;} if (!values.isEmpty())   
+if(values==null){return ;} //else {;} if (!values.isEmpty())   
+if(values==null){return ; else { return; };} if (!values.isEmpty())   
+if(values==null){return ; processResponseHeaders(resHeaders);;} if (!values.isEmpty())   
+if(values==null){return ;//};} if (!values.isEmpty())   
+if(values==null){return ;else;} if (!values.isEmpty())   
+if(values==null){return ;}  @param resHeaders;} if (!values.isEmpty())   
+if(values==null){return ;//;} if (!values.isEmpty())   
+if(values==null){return ();;} if (!values.isEmpty())   
+if(values==null){return ; if(!values.isEmpty());} if (!values.isEmpty())   
+if(values==null){return  0;;} if (!values.isEmpty())   
+if(values==null){return ; else return;} if (!values.isEmpty())   
+if(values==null){return ;   };} if (!values.isEmpty())   
+if(values==null){return ;return;} if (!values.isEmpty())   
+if(values==null){return ;   ;} if (!values.isEmpty())   
+if(values==null){return ;} else;} if (!values.isEmpty())   
+if(values==null){return ;}  ;} if (!values.isEmpty())   
+if(values==null){return ;  };} if (!values.isEmpty())   
+if(values==null){return ; try {;} if (!values.isEmpty())   
+if(values==null){return false;} if (!values.isEmpty())   
+if(values==null){return } else;} if (!values.isEmpty())   
+if(values==null){return  -1;} if (!values.isEmpty())   
+if(values==null){return [];;} if (!values.isEmpty())   
+if(values==null){return ; //};} if (!values.isEmpty())   
+if(values==null){return   ;} if (!values.isEmpty())   
+if(values==null){return ;} 	;} if (!values.isEmpty())   
+if(values==null){return } else { return;} if (!values.isEmpty())   
+if(values==null){return ;},;} if (!values.isEmpty())   
+if(values==null){return  null;};} if (!values.isEmpty())   
+if(values==null){return ; return;} if (!values.isEmpty())   
+if(values==null){return ; },;} if (!values.isEmpty())   
+if(values==null){return ;  };} if (!values.isEmpty())   
+if(values==null){return ;} else {;} if (!values.isEmpty())   
+if(values==null){return ;} };} if (!values.isEmpty())   
+if(values==null){return ; else  ;} if (!values.isEmpty())   
+if(values==null){return ;	;} if (!values.isEmpty())   
+if(values==null){return  silently;} if (!values.isEmpty())   
+if(values==null){return ;} ;;} if (!values.isEmpty())   
+if(values==null){return ; else {return;} if (!values.isEmpty())   
+if(values==null){return ;} ;} if (!values.isEmpty())   
+if(values==null){return  "";;} if (!values.isEmpty())   
+if(values==null){return  ; else {;} if (!values.isEmpty())   
+if(values==null){return ;/*;} if (!values.isEmpty())   
+if(values==null){return ;;;} if (!values.isEmpty())   
+if(values==null){return ;  };} if (!values.isEmpty())   
+if(values==null){return ; // ignore empty headers;} if (!values.isEmpty())   
+if(values==null){return } ;} if (!values.isEmpty())   
+if(values==null){return }else;} if (!values.isEmpty())   
+if(values==null){return ; else{ return;} if (!values.isEmpty())   
+if(values==null){return ; return;;} if (!values.isEmpty())   
+if(values==null){return ; if(values==null);} if (!values.isEmpty())   
+if(values==null){return ;} //else{return;} if (!values.isEmpty())   
+if(values==null){return ;  ;} if (!values.isEmpty())   
+if(values==null){return null;} if (!values.isEmpty())   
+if(values==null){return ;} @param resHeaders;} if (!values.isEmpty())   
+if(values==null){return ;} //};} if (!values.isEmpty())   
+if(values==null){return   ;} if (!values.isEmpty())   
+if(values==null){return ;}  };} if (!values.isEmpty())   
+if(values==null){return ;} else { return;} if (!values.isEmpty())   
+if(values==null){return ; else return; ;} if (!values.isEmpty())   
+if(values==null){return ; return;} if (!values.isEmpty())   
+if(values==null){return  ; ;} if (!values.isEmpty())   
+if(values==null){return ; return;;} if (!values.isEmpty())   
+if(values==null){return ;///;} if (!values.isEmpty())   
+if(values==null){return  end;} if (!values.isEmpty())   
+if(values==null){return ; else {return;;} if (!values.isEmpty())   
+if(values==null){return ; else { return;} if (!values.isEmpty())   
+if(values==null){return 	;} if (!values.isEmpty())   
+if(values==null){return ;}}};} if (!values.isEmpty())   
+if(values==null){return } else {return;} if (!values.isEmpty())   
+if(values==null){return ; default:;} if (!values.isEmpty())   
+if(values==null){return ; } };} if (!values.isEmpty())   
+if(values==null){return ; };;} if (!values.isEmpty())   
+if(values==null){return ; else  {;} if (!values.isEmpty())   
+if(values==null){return ; else return;} if (!values.isEmpty())   
+if(values==null){return ; else return;;} if (!values.isEmpty())   
+if(values==null){return  1;} if (!values.isEmpty())   
+if(values==null){return ;};;} if (!values.isEmpty())   
+if(values==null){return ; for (String value : values;} if (!values.isEmpty())   
+if(values==null){return ;         ;} if (!values.isEmpty())   
+if(values==null){return ; else {return;;} if (!values.isEmpty())   
+if(values==null){return  ; else{return ;;} if (!values.isEmpty())   
+if(values==null){return ; // do nothing;} if (!values.isEmpty())   
+if(values==null){return ;} else {;} if (!values.isEmpty())   
+if(values==null){return ; else {return;} if (!values.isEmpty())   
+if(values==null){return ; else;} if (!values.isEmpty())   
+if(values==null){return  immediately;} if (!values.isEmpty())   
+if(values==null){return ; List<String> values;;} if (!values.isEmpty())   
+if(values==null){return  void processResponseHeaders;} if (!values.isEmpty())   
+if(values==null){return  null;};} if (!values.isEmpty())   
+if(values==null){return :;} if (!values.isEmpty())   
+if(values==null){return ;}  @return;} if (!values.isEmpty())   
+if(values==null){return  ;  ;} if (!values.isEmpty())   
+if(values==null){return true;} if (!values.isEmpty())   
+if(values==null){return  ;} else {;} if (!values.isEmpty())   
+if(values==null){return ;} processResponseHeaders(resHeaders);;} if (!values.isEmpty())   
+if(values==null){return ; },;} if (!values.isEmpty())   
+if(values==null){return ;});} if (!values.isEmpty())   
+if(values==null){return  };;} if (!values.isEmpty())   
+if(values==null){return ;} //else{;} if (!values.isEmpty())   
+if(values==null){return ;// do nothing;} if (!values.isEmpty())   
+if(values==null){return ; exit;} if (!values.isEmpty())   
+if(values==null){return .;} if (!values.isEmpty())   
+if(values==null){return ; processResponseHeader(resHeaders);;} if (!values.isEmpty())   
+if(values==null){return ; do nothing;} if (!values.isEmpty())   
+if(values==null){return  void header;} if (!values.isEmpty())   
+if(values==null){return ; else header(name);;} if (!values.isEmpty())   
+if(values==null){return ; list;} if (!values.isEmpty())   
+if(values==null){return ; else { return;} if (!values.isEmpty())   
+if(values==null){return ;    };} if (!values.isEmpty())   
+if(values==null){return  undefined;} if (!values.isEmpty())   
+if(values==null){return ; // HTTP/1.1 line;} if (!values.isEmpty())   
+if(values==null){return ; };;} if (!values.isEmpty())   
+if(values==null){return ; } else {;} if (!values.isEmpty())   
+if(values==null){return  none;} if (!values.isEmpty())   
+if(values==null){return ";};} if (!values.isEmpty())   
+if(values==null){return ;} else;} if (!values.isEmpty())   
+if(values==null){return ; {;} if (!values.isEmpty())   
+if(values==null){return ; ...;} if (!values.isEmpty())   
+if(values==null){return ; header(name);;} if (!values.isEmpty())   
+if(values==null){return ; //http/1.1;} if (!values.isEmpty())   
+if(values==null){return ;} //else {return;} if (!values.isEmpty())   
+if(values==null){return  response;} if (!values.isEmpty())   
+if(values==null){return ; // ignore null values;} if (!values.isEmpty())   
+if(values==null){return ; }  ;} if (!values.isEmpty())   
+if(values==null){return  nothing;} if (!values.isEmpty())   
+if(values==null){return ; headers;} if (!values.isEmpty())   
+if(values==null){return ; Collections.sort(values);;} if (!values.isEmpty())   
+if(values==null){return ; or;} if (!values.isEmpty())   
+if(values==null){return ;// http/1.1 line;} if (!values.isEmpty())   
+if(values==null){return ; } ;} if (!values.isEmpty())   
+if(values==null){return ;} //else { return;} if (!values.isEmpty())   
+if(values==null){return ; else{ return;;} if (!values.isEmpty())   
+if(values==null){return ; else  {return;} if (!values.isEmpty())   
+if(values==null){return ; else{return; };} if (!values.isEmpty())   
+if(values==null){return ; else { return;;} if (!values.isEmpty())   
+if(values==null){return  nil;} if (!values.isEmpty())   
+if(values==null){return ; processResponseHeaders(values);;} if (!values.isEmpty())   
+if(values==null){return  -;} if (!values.isEmpty())   
+if(values==null){return  NULL;} if (!values.isEmpty())   
+if(values==null){return ; else{return;};} if (!values.isEmpty())   
+if(values==null){return ; else  return;;} if (!values.isEmpty())   
+if(values==null){return ;};;} if (!values.isEmpty())   
+if(values==null){return );;} if (!values.isEmpty())   
+if(values==null){return ;} else { return;;} if (!values.isEmpty())   
+if(values==null){return ; for (; ; ) {;} if (!values.isEmpty())   
+if(values==null){return ; List<String> values;} if (!values.isEmpty())   
+if(values==null){return ; System.out.println();;} if (!values.isEmpty())   
+if(values==null){return ; if (values!=null);} if (!values.isEmpty())   
+if(values==null){return } else  {;} if (!values.isEmpty())   
+if(values==null){return  ; else{return;} if (!values.isEmpty())   
+if(values==null){return ;} else  {;} if (!values.isEmpty())   
+if(values==null){return ;} //else { return;;} if (!values.isEmpty())   
+if(values==null){return ?;} if (!values.isEmpty())   
+if(values==null){return  next;} if (!values.isEmpty())   
+if(values==null){return ; else  {return;;} if (!values.isEmpty())   
+if(values==null){return ; System.out.println;} if (!values.isEmpty())   
+if(values==null){return ;//;} if (!values.isEmpty())   
+if(values==null){return -;} if (!values.isEmpty())   
+if(values==null){return ; else{ return;} if (!values.isEmpty())   
+if(values==null){return ;} else { return;;} if (!values.isEmpty())   
+if(values==null){return ;} // else {;} if (!values.isEmpty())   
+if(values==null){return ; processHeaders(resHeaders);;} if (!values.isEmpty())   
+if(values==null){return ;} if (values==null);} if (!values.isEmpty())   
+if(values==null){return !;} if (!values.isEmpty())   
+if(values==null){return ; else {;} if (!values.isEmpty())   
+if(values==null){return ; else{return; ;} if (!values.isEmpty())   
+if(values==null){return ; // http/1.0 line;} if (!values.isEmpty())   
+if(values==null){return ;  processResponseHeaders(headers);;} if (!values.isEmpty())   
+if(values==null){return ; // http/1.1 header;} if (!values.isEmpty())   
+if(values==null){return  headers;} if (!values.isEmpty())   
+if(values==null){return [];} if (!values.isEmpty())   
+if(values==null){return  exit;} if (!values.isEmpty())   
+if(values==null){return ;  Process response headers;} if (!values.isEmpty())   
+if(values==null){return  ; else{return;;} if (!values.isEmpty())   
+if(values==null){return  error;} if (!values.isEmpty())   
+if(values==null){return ; //else {;} if (!values.isEmpty())   
+if(values==null){return ; else{return; };} if (!values.isEmpty())   
+if(values==null){return ; for (; ;) {;} if (!values.isEmpty())   
+if(values==null){return ; // http/1.1 lines;} if (!values.isEmpty())   
+if(values==null){return ; else{return null;;} if (!values.isEmpty())   
+if(values==null){return  post;} if (!values.isEmpty())   
+if(values==null){return  FALSE;} if (!values.isEmpty())   
+if(values==null){return ; if (values==null) return;} if (!values.isEmpty())   
+if(values==null){return ; String[] values = null;;} if (!values.isEmpty())   
+if(values==null){return ; header(name, null);;} if (!values.isEmpty())   
+if(values==null){return  ; else return;;} if (!values.isEmpty())   
+if(values==null){return ; else{return ;;} if (!values.isEmpty())   
+if(values==null){return  ;} else { return ;;} if (!values.isEmpty())   
+if(values==null){return ; String name = null;;} if (!values.isEmpty())   
+if(values==null){return ; if(values!=null);} if (!values.isEmpty())   
+if(values==null){return ; //System.out.println;} if (!values.isEmpty())   
+if(values==null){ values=new ArrayList; } if (!values.isEmpty())   
+if(values==null){ values=null; } if (!values.isEmpty())   
+if(values==null){ values=Collections.emptyList(); } if (!values.isEmpty())   
+if(values==null){ values=Collections.emptyList; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>();; } if (!values.isEmpty())   
+if(values==null){ values=new String[]; } if (!values.isEmpty())   
+if(values==null){ values=Collections; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>; } if (!values.isEmpty())   
+if(values==null){ values=[]; } if (!values.isEmpty())   
+if(values==null){ values=values; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>(); }; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList; } if (!values.isEmpty())   
+if(values==null){ values=null; }; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList(); } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>(); } if (!values.isEmpty())   
+if(values==null){ values=new TokenQueue; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<String; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList();; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList(); }; } if (!values.isEmpty())   
+if(values==null){ values=headers; } if (!values.isEmpty())   
+if(values==null){ values=new TokenQueue();; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>(){; } if (!values.isEmpty())   
+if(values==null){ values=defaultValues; } if (!values.isEmpty())   
+if(values==null){ values=new List; } if (!values.isEmpty())   
+if(values==null){ values=DEFAULT_HEADERS; } if (!values.isEmpty())   
+if(values==null){ values= null; } if (!values.isEmpty())   
+if(values==null){ values=list; } if (!values.isEmpty())   
+if(values==null){ values= Collections.emptyList(); } if (!values.isEmpty())   
+if(values==null){ values=Collections.emptyList();; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList <>; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>();; } if (!values.isEmpty())   
+if(values==null){ values=new String[]{}; } if (!values.isEmpty())   
+if(values==null){ values=List; } if (!values.isEmpty())   
+if(values==null){ values=Arrays.asList; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList<>();; } if (!values.isEmpty())   
+if(values==null){ values=new List[]; } if (!values.isEmpty())   
+if(values==null){ values=EMPTY_LIST; } if (!values.isEmpty())   
+if(values==null){ values=null; return; } if (!values.isEmpty())   
+if(values==null){ values=Lists; } if (!values.isEmpty())   
+if(values==null){ values=new TokenQueue(); } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>();}; } if (!values.isEmpty())   
+if(values==null){ values=EMPTY; } if (!values.isEmpty())   
+if(values==null){ values=Array; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>(){}; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<> ();; } if (!values.isEmpty())   
+if(values==null){ values=asList; } if (!values.isEmpty())   
+if(values==null){ values=""; } if (!values.isEmpty())   
+if(values==null){ values= Collections; } if (!values.isEmpty())   
+if(values==null){ values=defaultHeaders; } if (!values.isEmpty())   
+if(values==null){ values=DEFAULT; } if (!values.isEmpty())   
+if(values==null){ values=Arrays; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>(); return; } if (!values.isEmpty())   
+if(values==null){ values=defaultHeaderValues; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList<>(); }; } if (!values.isEmpty())   
+if(values==null){ values=String[]; } if (!values.isEmpty())   
+if(values==null){ values=String; } if (!values.isEmpty())   
+if(values==null){ values=String[] values; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList();}; } if (!values.isEmpty())   
+if(values==null){ values=getCookies; } if (!values.isEmpty())   
+if(values==null){ values=defaultCookies; } if (!values.isEmpty())   
+if(values==null){ values=options; } if (!values.isEmpty())   
+if(values==null){ values={}; } if (!values.isEmpty())   
+if(values==null){ values=new String[]{};; } if (!values.isEmpty())   
+if(values==null){ values=Collections.emptySet; } if (!values.isEmpty())   
+if(values==null){ values=new List<>();; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList<>();; } if (!values.isEmpty())   
+if(values==null){ values=EMPTY_STRINGS; } if (!values.isEmpty())   
+if(values==null){ values=null;; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>(); values; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList<>(); }; } if (!values.isEmpty())   
+if(values==null){ values=new String[] {};; } if (!values.isEmpty())   
+if(values==null){ values=[]; }; } if (!values.isEmpty())   
+if(values==null){ values=Strings; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList(); } if (!values.isEmpty())   
+if(values==null){ values=new String[] {}; } if (!values.isEmpty())   
+if(values==null){ values=new List<>(); }; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList<>; } if (!values.isEmpty())   
+if(values==null){ values=all; } if (!values.isEmpty())   
+if(values==null){ values=newArrayList; } if (!values.isEmpty())   
+if(values==null){ values=[];; } if (!values.isEmpty())   
+if(values==null){ values=emptyList; } if (!values.isEmpty())   
+if(values==null){ values=this.values; } if (!values.isEmpty())   
+if(values==null){ values=new TreeSet; } if (!values.isEmpty())   
+if(values==null){ values=empty; } if (!values.isEmpty())   
+if(values==null){ values=EMPTY_STRING; } if (!values.isEmpty())   
+if(values==null){ values=new String[][]; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList(); }; } if (!values.isEmpty())   
+if(values==null){ values=headerNames; } if (!values.isEmpty())   
+if(values==null){ values=new String; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList(); }; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList();; } if (!values.isEmpty())   
+if(values==null){ values=headerValues; } if (!values.isEmpty())   
+if(values==null){ values=Null; } if (!values.isEmpty())   
+if(values==null){ values= null; }; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<> (); } if (!values.isEmpty())   
+if(values==null){ values=new StringQueue; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList;; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList(); } if (!values.isEmpty())   
+if(values==null){ values=NULL; } if (!values.isEmpty())   
+if(values==null){ values= Collections.emptyList; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList();; } if (!values.isEmpty())   
+if(values==null){ values=EMPTY_HEADERS; } if (!values.isEmpty())   
+if(values==null){ values=result; } if (!values.isEmpty())   
+if(values==null){ values=Values; } if (!values.isEmpty())   
+if(values==null){ values=header; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList(); return; } if (!values.isEmpty())   
+if(values==null){ values=responses; } if (!values.isEmpty())   
+if(values==null){ values=undefined; } if (!values.isEmpty())   
+if(values==null){ values=DEFAULT_VALUES; } if (!values.isEmpty())   
+if(values==null){ values=tokens; } if (!values.isEmpty())   
+if(values==null){ values=emptyList; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList <> ();; } if (!values.isEmpty())   
+if(values==null){ values=default; } if (!values.isEmpty())   
+if(values==null){ values= []; } if (!values.isEmpty())   
+if(values==null){ values=resHeaders; } if (!values.isEmpty())   
+if(values==null){ values=none; } if (!values.isEmpty())   
+if(values==null){ values=EMPTY_ARRAY; } if (!values.isEmpty())   
+if(values==null){ values= "";; } if (!values.isEmpty())   
+if(values==null){ values=defaultCookieValues; } if (!values.isEmpty())   
+if(values==null){ values=new HashSet; } if (!values.isEmpty())   
+if(values==null){ values=[],; } if (!values.isEmpty())   
+if(values==null){ values=value; } if (!values.isEmpty())   
+if(values==null){ values=names; } if (!values.isEmpty())   
+if(values==null){ values=Collections.emptyList; } if (!values.isEmpty())   
+if(values==null){ values=0; } if (!values.isEmpty())   
+if(values==null){ values=[]); } if (!values.isEmpty())   
+if(values==null){ values=response.headers; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList<> ();; } if (!values.isEmpty())   
+if(values==null){ values=defaultResponseHeaders; } if (!values.isEmpty())   
+if(values==null){ values= [];; } if (!values.isEmpty())   
+if(values==null){ values=Headers; } if (!values.isEmpty())   
+if(values==null){ values=newArrayList; } if (!values.isEmpty())   
+if(values==null){ values=parameters; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList<String; } if (!values.isEmpty())   
+if(values==null){ values=init; } if (!values.isEmpty())   
+if(values==null){ values=getDefaultValues; } if (!values.isEmpty())   
+if(values==null){ values=null;}; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList(); values; } if (!values.isEmpty())   
+if(values==null){ values=valuesList; } if (!values.isEmpty())   
+if(values==null){ values=System.out; } if (!values.isEmpty())   
+if(values==null){ values=HttpHeaders; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList <>(); } if (!values.isEmpty())   
+if(values==null){ values=defaultCookie; } if (!values.isEmpty())   
+if(values==null){ values=StringUtil; } if (!values.isEmpty())   
+if(values==null){ values=LIST; } if (!values.isEmpty())   
+if(values==null){ values=lists; } if (!values.isEmpty())   
+if(values==null){ values=nil; } if (!values.isEmpty())   
+if(values==null){ values=DEFAULT_VALUE; } if (!values.isEmpty())   
+if(values==null){ values=EMPTYLIST; } if (!values.isEmpty())   
+if(values==null){ values=new StringQueue();; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList() ; } if (!values.isEmpty())   
+if(values==null){ values=options.cookies; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList() ;; } if (!values.isEmpty())   
+if(values==null){ values=array; } if (!values.isEmpty())   
+if(values==null){ values=new ValueQueue; } if (!values.isEmpty())   
+if(values==null){ values=http; } if (!values.isEmpty())   
+if(values==null){ values=response; } if (!values.isEmpty())   
+if(values==null){ values=params; } if (!values.isEmpty())   
+if(values==null){ values=defaultValue; } if (!values.isEmpty())   
+if(values==null){ values=List.nil; } if (!values.isEmpty())   
+if(values==null){ values=HeaderNames; } if (!values.isEmpty())   
+if(values==null){ values=entries; } if (!values.isEmpty())   
+if(values==null){ values=Http; } if (!values.isEmpty())   
+if(values==null){ values=defaults; } if (!values.isEmpty())   
+if(values==null){ values=map; } if (!values.isEmpty())   
+if(values==null){ values=getHeaders; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList <>();; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList<>(); } if (!values.isEmpty())   
+if(values==null){ values=new Object[]; } if (!values.isEmpty())   
+if(values==null){ values=new ListBuffer; } if (!values.isEmpty())   
+if(values==null){ values=newTokenQueue; } if (!values.isEmpty())   
+if(values==null){ values=(); }; } if (!values.isEmpty())   
+if(values==null){ values=HeaderValues; } if (!values.isEmpty())   
+if(values==null){ values=responseHeaders; } if (!values.isEmpty())   
+if(values==null){ values=items; } if (!values.isEmpty())   
+if(values==null){ values=new List<String; } if (!values.isEmpty())   
+if(values==null){ values=cookie; } if (!values.isEmpty())   
+if(values==null){ values=DEFAULT_COOKIE; } if (!values.isEmpty())   
+if(values==null){ values=getCookies(); } if (!values.isEmpty())   
+if(values==null){ values=cookies; } if (!values.isEmpty())   
+if(values==null){ values=getCookies(); }; } if (!values.isEmpty())   
+if(values==null){ values=newList; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList(){; } if (!values.isEmpty())   
+if(values==null){ values=asList(); } if (!values.isEmpty())   
+if(values==null){ values=new HashMap; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList<>();}; } if (!values.isEmpty())   
+if(values==null){ values=vals; } if (!values.isEmpty())   
+if(values==null){ values=new HashSet<>();; } if (!values.isEmpty())   
+if(values==null){ values= new TokenQueue();; } if (!values.isEmpty())   
+if(values==null){ values=tokenQueue; } if (!values.isEmpty())   
+if(values==null){ values=[]{}; } if (!values.isEmpty())   
+if(values==null){ values=EMPTY_VALUES; } if (!values.isEmpty())   
+if(values==null){ values=String.class; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayList[]; } if (!values.isEmpty())   
+if(values==null){ values=new int[]; } if (!values.isEmpty())   
+if(values==null){ values=EmptyList; } if (!values.isEmpty())   
+if(values==null){ values=query; } if (!values.isEmpty())   
+if(values==null){ values=false; } if (!values.isEmpty())   
+if(values==null){ values=ArrayList; } if (!values.isEmpty())   
+if(values==null){ values= ; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList<>();}; } if (!values.isEmpty())   
+if(values==null){ values=getDefaultResponseHeaders; } if (!values.isEmpty())   
+if(values==null){ values=Object; } if (!values.isEmpty())   
+if(values==null){ values=collectCookies; } if (!values.isEmpty())   
+if(values==null){ values=new StringBuilder; } if (!values.isEmpty())   
+if(values==null){ values=NA; } if (!values.isEmpty())   
+if(values==null){ values=Collections2; } if (!values.isEmpty())   
+if(values==null){ values=new StringTokenizer; } if (!values.isEmpty())   
+if(values==null){ values=ArrayUtils; } if (!values.isEmpty())   
+if(values==null){ values=new Vector; } if (!values.isEmpty())   
+if(values==null){ values= new ArrayList<>(); } if (!values.isEmpty())   
+if(values==null){ values=singletonList; } if (!values.isEmpty())   
+if(values==null){ values=new ArrayDeque; } if (!values.isEmpty())   
+if(values==null){ values= new TokenQueue(); } if (!values.isEmpty())   
+if(values==null){ values=new List[];; } if (!values.isEmpty())   
+if(values==null){ values=ByteBuffer; } if (!values.isEmpty())   
+if(values==null){ values=VALUES; } if (!values.isEmpty())   
+if(values==null){ values=Collections.singletonList; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedHashMap; } if (!values.isEmpty())   
+if(values==null){ values=ALL; } if (!values.isEmpty())   
+if(values==null){ values=defaultHeader; } if (!values.isEmpty())   
+if(values==null){ values=new TreeMap<>();; } if (!values.isEmpty())   
+if(values==null){ values=new CookieQueue();; } if (!values.isEmpty())   
+if(values==null){ values=[]}; } if (!values.isEmpty())   
+if(values==null){ values=new CookieQueue; } if (!values.isEmpty())   
+if(values==null){ values=headerList; } if (!values.isEmpty())   
+if(values==null){ values=cookieValues; } if (!values.isEmpty())   
+if(values==null){ values=Empty; } if (!values.isEmpty())   
+if(values==null){ values=System.identity(); } if (!values.isEmpty())   
+if(values==null){ values= values; } if (!values.isEmpty())   
+if(values==null){ values=true; } if (!values.isEmpty())   
+if(values==null){ values= new String[]; } if (!values.isEmpty())   
+if(values==null){ values=httpHeaders; } if (!values.isEmpty())   
+if(values==null){ values=new TreeMap; } if (!values.isEmpty())   
+if(values==null){ values=setCookies; } if (!values.isEmpty())   
+if(values==null){ values=getAllCookies; } if (!values.isEmpty())   
+if(values==null){ values=new NodeList; } if (!values.isEmpty())   
+if(values==null){ values=new Vector();; } if (!values.isEmpty())   
+if(values==null){ values=Map; } if (!values.isEmpty())   
+if(values==null){ values= EMPTY; } if (!values.isEmpty())   
+if(values==null){ values=new LinkedList<>();; } if (!values.isEmpty())   
+if(values==null){ values=cookieNames; } if (!values.isEmpty())   
+if(values==null){ values= null; } if (!values.isEmpty())   
+if(values==null){ values=new TreeSet<>();; } if (!values.isEmpty())   
+if(values==null){ values=null ;; } if (!values.isEmpty())   
+if(values==null){ values=ImmutableList; } if (!values.isEmpty())   
+if(values==null){ values=Collections#emptyList(); } if (!values.isEmpty())   
+if(values==null){ values=};; } if (!values.isEmpty())   
+if(values==null){ values=this; } if (!values.isEmpty())   
+if(values != null){ if (!values.isEmpty()) {  
+if(values!=null){ if (!values.isEmpty()) {  
+if(name != null){ if (!values.isEmpty()) {  
+if(values.size() > 0){ if (!values.isEmpty()) {  
+if(values != null)){ if (!values.isEmpty()) {  
+if(name!=null){ if (!values.isEmpty()) {  
+if(value != null){ if (!values.isEmpty()) {  
+if(header){ if (!values.isEmpty()) {  
+if(values.size()>0){ if (!values.isEmpty()) {  
+if(values.isEmpty()){ if (!values.isEmpty()) {  
+if(values){ if (!values.isEmpty()) {  
+if(value!=null){ if (!values.isEmpty()) {  
+if(null != values){ if (!values.isEmpty()) {  
+if(headers){ if (!values.isEmpty()) {  
+if(values!=null)){ if (!values.isEmpty()) {  
+if(debug){ if (!values.isEmpty()) {  
+if(values !=null){ if (!values.isEmpty()) {  
+if(values.size() == 1){ if (!values.isEmpty()) {  
+if( values != null){ if (!values.isEmpty()) {  
+if(headerNames){ if (!values.isEmpty()) {  
+if(DEBUG){ if (!values.isEmpty()) {  
+if(name == null){ if (!values.isEmpty()) {  
+if(values.size()==1){ if (!values.isEmpty()) {  
+if(name==null){ if (!values.isEmpty()) {  
+if(header != null){ if (!values.isEmpty()) {  
+if(values!= null){ if (!values.isEmpty()) {  
+if(values.isNotEmpty()){ if (!values.isEmpty()) {  
+if(verbose){ if (!values.isEmpty()) {  
+if(null!=values){ if (!values.isEmpty()) {  
+if(headers != null){ if (!values.isEmpty()) {  
+if(names){ if (!values.isEmpty()) {  
+if( !values.isEmpty()){ if (!values.isEmpty()) {  
+if(headers!=null){ if (!values.isEmpty()) {  
+if(values.size()>1){ if (!values.isEmpty()) {  
+if(name.equalsIgnoreCase("Cookie"))){ if (!values.isEmpty()) {  
+if(headerExists){ if (!values.isEmpty()) {  
+if(header!=null){ if (!values.isEmpty()) {  
+if(names.length > 0){ if (!values.isEmpty()) {  
+if(values.size() > 1){ if (!values.isEmpty()) {  
+if(values.length > 0){ if (!values.isEmpty()) {  
+if(values != null) ){ if (!values.isEmpty()) {  
+if(Values){ if (!values.isEmpty()) {  
+if(values.size()!=0){ if (!values.isEmpty()) {  
+if(values != null ){ if (!values.isEmpty()) {  
+if(name != "Set-Cookie){ if (!values.isEmpty()) {  
+if(values.isEmpty()==false){ if (!values.isEmpty()) {  
+if(header(name, values)){ if (!values.isEmpty()) {  
+if(value == null){ if (!values.isEmpty()) {  
+if(headers.isEmpty()){ if (!values.isEmpty()) {  
+if( values.size() > 0){ if (!values.isEmpty()) {  
+if(logger.isDebugEnabled()){ if (!values.isEmpty()) {  
+if(prefix){ if (!values.isEmpty()) {  
+if(true){ if (!values.isEmpty()) {  
+if(name != null)){ if (!values.isEmpty()) {  
+if(header(name, values))){ if (!values.isEmpty()) {  
+if(cookie){ if (!values.isEmpty()) {  
+if(exists){ if (!values.isEmpty()) {  
+if(hasValue){ if (!values.isEmpty()) {  
+if(false){ if (!values.isEmpty()) {  
+if(values!=null ){ if (!values.isEmpty()) {  
+if(values != null)  ){ if (!values.isEmpty()) {  
+if(header(name)){ if (!values.isEmpty()) {  
+if(log.isDebugEnabled()){ if (!values.isEmpty()) {  
+if(name.equalsIgnoreCase("Connection"))){ if (!values.isEmpty()) {  
+if(headersParsed){ if (!values.isEmpty()) {  
+if(headersEnabled){ if (!values.isEmpty()) {  
+if(values.isEmpty){ if (!values.isEmpty()) {  
+if(containsHeader){ if (!values.isEmpty()) {  
+if(values==null){ if (!values.isEmpty()) {  
+if(enabled){ if (!values.isEmpty()) {  
+if(names != null){ if (!values.isEmpty()) {  
+if(values.size() != 0){ if (!values.isEmpty()) {  
+if(name){ if (!values.isEmpty()) {  
+if(value==null){ if (!values.isEmpty()) {  
+if(headerNames != null){ if (!values.isEmpty()) {  
+if(log){ if (!values.isEmpty()) {  
+if(name == "Cookie"){ if (!values.isEmpty()) {  
+if(name == null)){ if (!values.isEmpty()) {  
+if(values != null) ){ if (!values.isEmpty()) {  
+if(name.equalsIgnoreCase("Accept"))){ if (!values.isEmpty()) {  
+if(val != null){ if (!values.isEmpty()) {  
+if(hasHeader){ if (!values.isEmpty()) {  
+if(name.equalsIgnoreCase("Cookie")){ if (!values.isEmpty()) {  
+if( name != null){ if (!values.isEmpty()) {  
+if(values.isEmpty()==true){ if (!values.isEmpty()) {  
+if(value){ if (!values.isEmpty()) {  
+if(filter){ if (!values.isEmpty()) {  
+if(strict){ if (!values.isEmpty()) {  
+if( values!=null){ if (!values.isEmpty()) {  
+if(value.length() > 0){ if (!values.isEmpty()) {  
+if(key != null){ if (!values.isEmpty()) {  
+if(prefix != null){ if (!values.isEmpty()) {  
+if(values != null ){ if (!values.isEmpty()) {  
+if(headerExist){ if (!values.isEmpty()) {  
+if(useCookies){ if (!values.isEmpty()) {  
+if(headers == null){ if (!values.isEmpty()) {  
+if(values!=null) ){ if (!values.isEmpty()) {  
+if(names!=null){ if (!values.isEmpty()) {  
+if(name == "Set-Cookie){ if (!values.isEmpty()) {  
+if(includeCookies){ if (!values.isEmpty()) {  
+if(name.length()>0){ if (!values.isEmpty()) {  
+if(values != null )){ if (!values.isEmpty()) {  
+if( value != null){ if (!values.isEmpty()) {  
+if(headers==null){ if (!values.isEmpty()) {  
+if(cookies){ if (!values.isEmpty()) {  
+if(names.contains(name)){ if (!values.isEmpty()) {  
+if(header == null){ if (!values.isEmpty()) {  
+if(values == null){ if (!values.isEmpty()) {  
+if(headersOnly){ if (!values.isEmpty()) {  
+if(name==null)){ if (!values.isEmpty()) {  
+if(hasCookies){ if (!values.isEmpty()) {  
+if(header(name) != null){ if (!values.isEmpty()) {  
+if(preserveCookies){ if (!values.isEmpty()) {  
+if(name.equalsIgnoreCase("Authorization"))){ if (!values.isEmpty()) {  
+if(isSecure){ if (!values.isEmpty()) {  
+if(name != ""){ if (!values.isEmpty()) {  
+if(name != "Cookie"){ if (!values.isEmpty()) {  
+if(value.length()>0){ if (!values.isEmpty()) {  
+if(value != null)){ if (!values.isEmpty()) {  
+if(StringUtils.isNotEmpty(name)){ if (!values.isEmpty()) {  
+if(null == values){ if (!values.isEmpty()) {  
+if(contains(name))){ if (!values.isEmpty()) {  
+if(prefix!=null){ if (!values.isEmpty()) {  
+if(values.size()==0){ if (!values.isEmpty()) {  
+if(isHttp){ if (!values.isEmpty()) {  
+if(domain){ if (!values.isEmpty()) {  
+if(names.size()>0){ if (!values.isEmpty()) {  
+if(name.equalsIgnoreCase("Host"))){ if (!values.isEmpty()) {  
+if(multiple){ if (!values.isEmpty()) {  
+if( values.isEmpty()){ if (!values.isEmpty()) {  
+if(multipleValues){ if (!values.isEmpty()) {  
+if(containsCookies){ if (!values.isEmpty()) {  
+if(name!=null)){ if (!values.isEmpty()) {  
+if(headerNames!=null){ if (!values.isEmpty()) {  
+if(values instanceof List){ if (!values.isEmpty()) {  
+if(httpOnly){ if (!values.isEmpty()) {  
+if(debugEnabled){ if (!values.isEmpty()) {  
+if(values.isNotEmpty())){ if (!values.isEmpty()) {  
+if(combined){ if (!values.isEmpty()) {  
+if(names.size() > 0){ if (!values.isEmpty()) {  
+if(debugHeader){ if (!values.isEmpty()) {  
+if(names.isEmpty()){ if (!values.isEmpty()) {  
+if(domain != null){ if (!values.isEmpty()) {  
+if(cookie != null){ if (!values.isEmpty()) {  
+if(setValues){ if (!values.isEmpty()) {  
+if(headers.contains(name)){ if (!values.isEmpty()) {  
+if(headersSent){ if (!values.isEmpty()) {  
+if(debugMode){ if (!values.isEmpty()) {  
+if(containsValue){ if (!values.isEmpty()) {  
+if(LOG.isDebugEnabled()){ if (!values.isEmpty()) {  
+if(headersReceived){ if (!values.isEmpty()) {  
+if(values!=null)  ){ if (!values.isEmpty()) {  
+if(headersExist){ if (!values.isEmpty()) {  
+if(val!=null){ if (!values.isEmpty()) {  
+if(log.isDebugEnabled){ if (!values.isEmpty()) {  
+if(containsValues){ if (!values.isEmpty()) {  
+if(options.headers){ if (!values.isEmpty()) {  
+if(names.length>0){ if (!values.isEmpty()) {  
+if(values.size()!=1){ if (!values.isEmpty()) {  
+if(Values!=null){ if (!values.isEmpty()) {  
+if(headersAccepted){ if (!values.isEmpty()) {  
+if(headersAvailable){ if (!values.isEmpty()) {  
+if(headersPresent){ if (!values.isEmpty()) {  
+if( null != values){ if (!values.isEmpty()) {  
+if(values.nonEmpty){ if (!values.isEmpty()) {  
+if(Values != null){ if (!values.isEmpty()) {  
+if(logger.isDebugEnabled){ if (!values.isEmpty()) {  
+if(values.size()==1){ if (!values.isEmpty()) {  
+if(values.isEmpty())){ if (!values.isEmpty()) {  
+if(null != value){ if (!values.isEmpty()) {  
+if(headers.size()>0){ if (!values.isEmpty()) {  
+if(debugResponse){ if (!values.isEmpty()) {  
+if(values.length>0){ if (!values.isEmpty()) {  
+if(headerHasValue){ if (!values.isEmpty()) {  
+if(isEmpty()){ if (!values.isEmpty()) {  
+if(options){ if (!values.isEmpty()) {  
+if(name.length() > 0){ if (!values.isEmpty()) {  
+if(values!=null) ){ if (!values.isEmpty()) {  
+if(header==null){ if (!values.isEmpty()) {  
+if(isHeader){ if (!values.isEmpty()) {  
+if(names.length() > 0){ if (!values.isEmpty()) {  
+if(name !=null){ if (!values.isEmpty()) {  
+if( values.size() == 1){ if (!values.isEmpty()) {  
+if(isEmpty){ if (!values.isEmpty()) {  
+if(values.size()>0){ if (!values.isEmpty()) {  
+if(value.isEmpty()){ if (!values.isEmpty()) {  
+if(headerValues){ if (!values.isEmpty()) {  
+if(values.size() == 0){ if (!values.isEmpty()) {  
+if(values.size() >0){ if (!values.isEmpty()) {  
+if(headers.containsKey(name)){ if (!values.isEmpty()) {  
+if(headerSet){ if (!values.isEmpty()) {  
+if(name != "Connection"){ if (!values.isEmpty()) {  
+if(params){ if (!values.isEmpty()) {  
+if(values.size() != 1){ if (!values.isEmpty()) {  
+if(trace){ if (!values.isEmpty()) {  
+if(headers.size() > 0){ if (!values.isEmpty()) {  
+if(header(name) == null){ if (!values.isEmpty()) {  
+if(name=="Set-Cookie"){ if (!values.isEmpty()) {  
+if(logEnabled){ if (!values.isEmpty()) {  
+if(containsHeader(name))){ if (!values.isEmpty()) {  
+if( values.size()>0){ if (!values.isEmpty()) {  
+if(isValid){ if (!values.isEmpty()) {  
+if(values.hasMoreElements){ if (!values.isEmpty()) {  
+if(logger){ if (!values.isEmpty()) {  
+if( values){ if (!values.isEmpty()) {  
+if(cookie!=null){ if (!values.isEmpty()) {  
+if(keys){ if (!values.isEmpty()) {  
+if(values.length == 1){ if (!values.isEmpty()) {  
+if(key!=null){ if (!values.isEmpty()) {  
+if(value !=null){ if (!values.isEmpty()) {  
+if(value!=null)){ if (!values.isEmpty()) {  
+if(values!=null ){ if (!values.isEmpty()) {  
+if(defaults){ if (!values.isEmpty()) {  
+if(multipleCookies){ if (!values.isEmpty()) {  
+if(headerName != null){ if (!values.isEmpty()) {  
+if(headerPresent){ if (!values.isEmpty()) {  
+if(hasHeaders){ if (!values.isEmpty()) {  
+if(logger != null){ if (!values.isEmpty()) {  
+if(isValidHeader){ if (!values.isEmpty()) {  
+if(safe){ if (!values.isEmpty()) {  
+if(values.hasMoreElements()){ if (!values.isEmpty()) {  
+if(allowHeaders){ if (!values.isEmpty()) {  
+if(values.nonEmpty()){ if (!values.isEmpty()) {  
+if(headerKeys){ if (!values.isEmpty()) {  
+if(value instanceof TokenQueue){ if (!values.isEmpty()) {  
+if(options.cookies){ if (!values.isEmpty()) {  
+if(headersInUse){ if (!values.isEmpty()) {  
+if(headerNames.length > 0){ if (!values.isEmpty()) {  
+if(Values.isEmpty()){ if (!values.isEmpty()) {  
+if(StringUtil.isNotEmpty(name)){ if (!values.isEmpty()) {  
+if(logHeader){ if (!values.isEmpty()) {  
+if(names.length == 0){ if (!values.isEmpty()) {  
+if(username != null){ if (!values.isEmpty()) {  
+if(defaultValue != null){ if (!values.isEmpty()) {  
+if(header()!=null){ if (!values.isEmpty()) {  
+if( !names.isEmpty()){ if (!values.isEmpty()) {  
+if(init){ if (!values.isEmpty()) {  
+if(NAMES){ if (!values.isEmpty()) {  
+if(resHeaders!=null){ if (!values.isEmpty()) {  
+if(value == null)){ if (!values.isEmpty()) {  
+if(null==values){ if (!values.isEmpty()) {  
+if( values != null )){ if (!values.isEmpty()) {  
+if(headerName){ if (!values.isEmpty()) {  
+if(isNotEmpty){ if (!values.isEmpty()) {  
+if(prefix==null){ if (!values.isEmpty()) {  
+if( !headers.isEmpty()){ if (!values.isEmpty()) {  
+if(headersSeen){ if (!values.isEmpty()) {  
+if(name.equalsIgnoreCase("Expect"))){ if (!values.isEmpty()) {  
+if(domain!=null){ if (!values.isEmpty()) {  
+if( ! values.isEmpty()){ if (!values.isEmpty()) {  

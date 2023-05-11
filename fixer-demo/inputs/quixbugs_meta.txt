@@ -1,0 +1,37 @@
+BITCOUNT	15	15	n = (n & (n - 1));
+BREADTH_FIRST_SEARCH	24	24	while (true) {
+BUCKETSORT	22	22	for (Integer count : arr) {
+DEPTH_FIRST_SEARCH	22	22	for (Node successornodes : node.getSuccessors()) {
+DETECT_CYCLE	18	18	if (hare.getSuccessor() == null)
+FIND_FIRST_IN_SORTED	19	19	while (lo <= hi) {
+FIND_IN_SORTED	20	20	return binsearch(arr, x, mid, end);
+FLATTEN	21	21	result.add(flatten(x));
+FLATTEN	26	26	return flatten(arr);
+GCD	19	19	return gcd(a % b, b);
+GET_FACTORS	27	27	return new ArrayList<Integer>();
+HANOI	27	27	steps.add(new Pair<Integer,Integer>(start, helper));
+IS_VALID_PARENTHESIZATION	24	24	return true;
+KHEAPSORT	27	27	for (Integer x : arr) {
+KNAPSACK	30	30	else if (weight < j) {
+KTH	25	25	return kth(above, k);
+LCS_LENGTH	35	35	if (dp.containsKey(i-1)) {
+LEVENSHTEIN	17	17	return 1 + levenshtein(source.substring(1), target.substring(1));
+LIS	31	31	longest = length + 1;
+LONGEST_COMMON_SUBSEQUENCE	18	18	return a.charAt(0) + longest_common_subsequence(a.substring(1), b);
+MAX_SUBLIST_SUM	19	19	max_ending_here = max_ending_here + x;
+MERGESORT	38	38	if (arr.size() == 0) {
+MINIMUM_SPANNING_TREE	28	28	 groupByNode = update(groupByNode, node, vertex_u);
+NEXT_PALINDROME	35	35	otherwise.addAll(Collections.nCopies(digit_list.length, 0));
+NEXT_PERMUTATION	19	19	if (perm.get(j) < perm.get(i)) {
+PASCAL	22	22	for (int c=0; c<r; c++) {
+POSSIBLE_CHANGE	17	17	if (total < 0) {
+QUICKSORT	26	26	} else if (x > pivot) {
+REVERSE_LINKED_LIST	20	20	node = nextnode;
+RPN_EVAL	34	34	c = bin_op.apply(a,b);
+SHORTEST_PATH_LENGTH	37	38	unvisitedNodes.put(nextnode, Math.min(unvisitedNodes.get(nextnode),unvisitedNodes.get(nextnode) + length_by_edge.get(Arrays.asList(node, nextnode))));
+SHORTEST_PATH_LENGTHS	35	37	int update_length = Math.min(length_by_path.get(Arrays.asList(i,j)),sumLengths(length_by_path.get(Arrays.asList(i,k)),length_by_path.get(Arrays.asList(j,k))));
+SHUNTING_YARD	33	33	}
+SIEVE	41	41	if (any(list_comp(n, primes))) {
+SQRT	16	16	while (Math.abs(x-approx) > epsilon) {
+TOPOLOGICAL_ORDERING	17	17	if (orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode)) {
+WRAP	32	32	return lines;

@@ -1,0 +1,1750 @@
+ shortopt = null;  
+ defaultValue = null;  
+ shortopt = 0;  
+ shortopt = -1;  
+ name = null;  
+ defaultopt = null;  
+ type = null;  
+ optional = false;  
+ flags = 0;  
+ required = false;  
+ nargs = 0;  
+ value = null;  
+ hasArg = false;  
+ nullable = false;  
+ shortopt = false;  
+ defaultOpt = null;  
+ zeroopt = null;  
+ arguments = null;  
+ options = null;  
+ default = null;  
+ args = null;  
+ optName = null;  
+ optionalopt = null;  
+ integeropt = null;  
+ flag = false;  
+ stringopt = null;  
+ booleanopt = false;  
+ nullopt = null;  
+ intopt = null;  
+ typeOpt = null;  
+ nargs = -1;  
+ nargs = null;  
+ boolopt = false;  
+ usage = null;  
+ longdesc = null;  
+ defaultval = null;  
+ numArgs = 0;  
+ requiredArg = false;  
+ minopt = null;  
+ zeroopt = false;  
+ deprecated = false;  
+ multipleArgs = false;  
+ required = true;  
+ argType = null;  
+ longoptName = null;  
+ option = null;  
+ typeopt = null;  
+ shortopt = 1;  
+ requiredOpt = false;  
+ enumopt = null;  
+ mandatory = false;  
+ optional = true;  
+ optType = null;  
+ nargs = 1;  
+ help = null;  
+ length = 0;  
+ version = null;  
+ desc = null;  
+ flag = 0;  
+ optname = null;  
+ optionalOpt = null;  
+ descriptionOpt = null;  
+ flag = null;  
+ oneArg = false;  
+ flags = null;  
+ optionName = null;  
+ size = 0;  
+ alias = null;  
+ isRequired = false;  
+ hasArgs = false;  
+ boolopt = null;  
+ boolean opt = false;  
+ zeroopt = 0;  
+ key = null;  
+ localOpt = null;  
+ argValue = null;  
+ valueType = null;  
+ requiredType = null;  
+ shortopt = true;  
+ longoptLong = null;  
+ booleanopt = null;  
+ zeroOpt = false;  
+ defaultvalue = null;  
+ numberopt = null;  
+ intopt = 0;  
+ unsigned = false;  
+ flagopt = null;  
+ zeroOpt = null;  
+ maxArgs = 0;  
+ enabled = false;  
+ hasArg = false;  
+ doubleopt = null;  
+ longoptname = null;  
+ index = 0;  
+ arrayopt = null;  
+ hasOpt = false;  
+ hasargs = false;  
+ boolean = false;  
+ description = null;  
+ minopt = -1;  
+ nullable = true;  
+ flag = true;  
+ nameopt = null;  
+ byteopt = null;  
+ hasArg = true;  
+ noArgs = false;  
+ maxLength = 0;  
+ optValue = null;  
+ optionalopt = false;  
+ maxopt = null;  
+ boolean required = false;  
+ values = null;  
+ optional = null;  
+ comment = null;  
+ flag;  
+ argument = null;  
+ isOpt = false;  
+ position = 0;  
+ varopt = null;  
+ localopt = null;  
+ voidopt = null;  
+ optionalOpt = false;  
+ argumentName = null;  
+ minopt = 0;  
+ count = 0;  
+ yes = false;  
+ booleanopt = true;  
+ boolean optional = false;  
+ unused = false;  
+ validator = null;  
+ yesopt = null;  
+ label = null;  
+ floatopt = null;  
+ requiredArgs = false;  
+ longoptLen = 0;  
+ uintopt = null;  
+ thisOpt = null;  
+ hasOption = false;  
+ requiredOption = false;  
+ valueopt = null;  
+ requiredOpt = null;  
+ zero = false;  
+ parser = null;  
+ hasDefault = false;  
+ requiredArg = true;  
+ longtype = null;  
+ error = null;  
+ varOpt = null;  
+ optLongOpt = null;  
+ argumentType = null;  
+ prefix = null;  
+ intopt = -1;  
+ yesopt = false;  
+ zeroopt = true;  
+ isOptional = false;  
+ optionalArg = false;  
+ vararg = false;  
+ disabled = false;  
+ optVal = null;  
+ shortopt = 2;  
+ setopt = null;  
+ longOptName = null;  
+ noArg = false;  
+ shortOpt = null;  
+ pos = 0;  
+ offset = 0;  
+ optLength = 0;  
+ optLen = 0;  
+ longstr = null;  
+ index = -1;  
+ requiredFlag = false;  
+ hasValue = false;  
+ longflag = false;  
+ exclusive = false;  
+ deferred = false;  
+ negative = false;  
+ longoptLength = 0;  
+ optDesc = null;  
+ boolopt = true;  
+ idopt = null;  
+ maxLength = null;  
+ integeropt = 0;  
+ mixedopt = null;  
+ boolean required;  
+ param = null;  
+ hasdefault = false;  
+ finalOpt = null;  
+ optarg = null;  
+ verbose = false;  
+ numberOfArgs = 0;  
+ argLongOpt = null;  
+ longopt2 = null;  
+ requiredOpt = true;  
+ syntax = null;  
+ zeroargs = false;  
+ zeroArg = false;  
+ noargs = false;  
+ positionalArgs = null;  
+ min = null;  
+ longarg = false;  
+ argVal = null;  
+ returnval = null;  
+ subopt = null;  
+ pointer = null;  
+ longvalue = null;  
+ longoptType = null;  
+ isSet = false;  
+ maxArgs = -1;  
+ prompt = null;  
+ longvaropt = null;  
+ zeroopt = -1;  
+ hasarg = false;  
+ singleopt = null;  
+ maxArgs = null;  
+ valueOpt = null;  
+ input = null;  
+ nameOpt = null;  
+ firstArg = null;  
+ lowopt = null;  
+ minlength = 0;  
+ minOpt = null;  
+ multiple = false;  
+ noarg = false;  
+ min = 0;  
+ variadic = false;  
+ maxargs = 0;  
+ longshortopt = null;  
+ paramOpt = null;  
+ noOpt = false;  
+ numericopt = null;  
+ singleArg = false;  
+ longoptVal = null;  
+ longval = null;  
+ argDefault = null;  
+ defaultVal = null;  
+ longoptLong = false;  
+ isLongOpt = false;  
+ optLongopt = null;  
+ numberofargs = 0;  
+ longoptLong = 0;  
+ defaultlongopt = null;  
+ longoptlen = 0;  
+ longoptnum = 0;  
+ type = Option.OPTIONAL;  
+ longOptLen = 0;  
+ longOptLong = null;  
+ longoptDefault = null;  
+;  
+ longoptlong = null;  
+ longoptno = 0;  
+ shortopt = null; type = null;  
+ defaultValue = null; type = null;  
+ name = null; type = null;  
+ value = null; type = null;  
+ nargs = 0; type = null;  
+ defaultopt = null; type = null;  
+ nullable = false; type = null;  
+ nargs = null; type = null;  
+ shortopt = 0; type = null;  
+ defaultOpt = null; type = null;  
+ arguments = null; type = null;  
+ args = null; type = null;  
+ options = null; type = null;  
+ default = null; type = null;  
+ optional = false; type = null;  
+ required = false; type = null;  
+ flags = 0; type = null;  
+ usage = null; type = null;  
+ longdesc = null; type = null;  
+ hasArg = false; type = null;  
+ nullopt = null; type = null;  
+ defaultval = null; type = null;  
+ nargs = -1; type = null;  
+ optName = null; type = null;  
+ zeroopt = null; type = null;  
+ integeropt = null; type = null;  
+ argType = null; type = null;  
+ stringopt = null; type = null;  
+ shortopt = -1; type = null;  
+ intopt = null; type = null;  
+ argValue = null; type = null;  
+ description = null; type = null;  
+ desc = null; type = null;  
+ deprecated = false; type = null;  
+ option = null; type = null;  
+ optionName = null; type = null;  
+ flags = null; type = null;  
+ flag = null; type = null;  
+ optional = null; type = null;  
+ minopt = null; type = null;  
+ nargs = 1; type = null;  
+ help = null; type = null;  
+ defaultvalue = null; type = null;  
+ alias = null; type = null;  
+ length = 0; type = null;  
+ typeOpt = null; type = null;  
+ version = null; type = null;  
+ size = 0; type = null;  
+ isRequired = false; type = null;  
+ requiredArg = false; type = null;  
+ optionalopt = null; type = null;  
+ numArgs = 0; type = null;  
+ index = 0; type = null;  
+ required = true; type = null;  
+ descriptionOpt = null; type = null;  
+ key = null; type = null;  
+ enumopt = null; type = null;  
+ longoptLong = null; type = null;  
+ optType = null; type = null;  
+ longoptName = null; type = null;  
+ optionalOpt = null; type = null;  
+ localOpt = null; type = null;  
+ nullable = null; type = null;  
+ booleanopt = null; type = null;  
+ numberopt = null; type = null;  
+ label = null; type = null;  
+ flag = false; type = null;  
+ optionalArg = false; type = null;  
+ index = null; type = null;  
+ type = null; type = null;  
+ nullable = true; type = null;  
+ optname = null; type = null;  
+ multipleArgs = false; type = null;  
+ valueType = null; type = null;  
+ className = null; type = null;  
+ boolopt = null; type = null;  
+ zeroOpt = null; type = null;  
+ mandatory = false; type = null;  
+ flag = 0; type = null;  
+ argVal = null; type = null;  
+ oneArg = false; type = null;  
+ optional = true; type = null;  
+ argLongOpt = null; type = null;  
+ longstr = null; type = null;  
+ doubleopt = null; type = null;  
+ longarg = null; type = null;  
+ kind = null; type = null;  
+ argDescription = null; type = null;  
+ booleanopt = false; type = null;  
+ argumentName = null; type = null;  
+ maxopt = null; type = null;  
+ longvalue = null; type = null;  
+ maxLength = 0; type = null;  
+ index = -1; type = null;  
+ argument = null; type = null;  
+ comment = null; type = null;  
+ optLongOpt = null; type = null;  
+ optValue = null; type = null;  
+ longtype = null; type = null;  
+ vararg = false; type = null;  
+ param = null; type = null;  
+ values = null; type = null;  
+ nameopt = null; type = null;  
+ prefix = null; type = null;  
+ maxLength = null; type = null;  
+ shortopt = 1; type = null;  
+ paramName = null; type = null;  
+ unused = false; type = null;  
+ argDefault = null; type = null;  
+ validator = null; type = null;  
+ length = null; type = null;  
+ idopt = null; type = null;  
+ argDesc = null; type = null;  
+ defaultVal = null; type = null;  
+ maxArgs = 0; type = null;  
+ defaultarg = null; type = null;  
+ uintopt = null; type = null;  
+ arrayopt = null; type = null;  
+ id = null; type = null;  
+ requiredOpt = false; type = null;  
+ hasArg = true; type = null;  
+ typename = null; type = null;  
+ position = 0; type = null;  
+ varopt = null; type = null;  
+ min = null; type = null;  
+ descriptionType = null; type = null;  
+ offset = 0; type = null;  
+ valueopt = null; type = null;  
+ voidopt = null; type = null;  
+ self = null; type = null;  
+ longshortopt = null; type = null;  
+ returnval = null; type = null;  
+ tag = null; type = null;  
+ nullopt; type = null;  
+ boolean opt = false; type = null;  
+ longval = null; type = null;  
+ requiredType = null; type = null;  
+ shortopt = false; type = null;  
+ longvaropt = null; type = null;  
+ longOptName = null; type = null;  
+ symbol = null; type = null;  
+ paramName = null; type = null;  
+ longname = null; type = null;  
+ count = 0; type = null;  
+ syntax = null; type = null;  
+ optVal = null; type = null;  
+ shortOpt = null; type = null;  
+ initialValue = null; type = null;  
+ longflag = null; type = null;  
+ defaultlongopt = null; type = null;  
+ pointer = null; type = null;  
+ zeroopt = false; type = null;  
+ longOptLong = null; type = null;  
+ defaultArg = null; type = null;  
+ longvar = null; type = null;  
+ longopt2 = null; type = null;  
+ paramOpt = null; type = null;  
+ description2 = null; type = null;  
+ varOpt = null; type = null;  
+ parser = null; type = null;  
+ ref = null; type = null;  
+ localopt = null; type = null;  
+ zeroopt = 0; type = null;  
+ typeName = null; type = null;  
+ yesopt = null; type = null;  
+ error = null; type = null;  
+ numberOfArgs = 0; type = null;  
+ floatopt = null; type = null;  
+ method = null; type = null;  
+ pos = 0; type = null;  
+ longoptname = null; type = null;  
+ hasArgs = false; type = null;  
+ size = null; type = null;  
+ thisOpt = null; type = null;  
+ noArgs = false; type = null;  
+ displayName = null; type = null;  
+ noArg = false; type = null;  
+ exception = null; type = null;  
+ argName = null; type = null;  
+ enabled = false; type = null;  
+ byteopt = null; type = null;  
+ mixedopt = null; type = null;  
+ valueOpt = null; type = null;  
+ paramname = null; type = null;  
+ unit = null; type = null;  
+ typeDesc = null; type = null;  
+ optarg = null; type = null;  
+ paramType = null; type = null;  
+ oneof = null; type = null;  
+ longType = null; type = null;  
+ boolopt = false; type = null;  
+ main = null; type = null;  
+ flag; type = null;  
+ optLongopt = null; type = null;  
+ argumentType = null; type = null;  
+ format = null; type = null;  
+ firstArg = null; type = null;  
+ hasArg = false; type = null;  
+ argtype = null; type = null;  
+ varargs = null; type = null;  
+ hasValue = false; type = null;  
+ returnType = null; type = null;  
+ argIndex = 0; type = null;  
+ nullOpt = null; type = null;  
+ position = null; type = null;  
+ maxArgs = null; type = null;  
+ argCount = 0; type = null;  
+ flagopt = null; type = null;  
+ argLongopt = null; type = null;  
+ unsigned = false; type = null;  
+ optLong = null; type = null;  
+ longoptType = null; type = null;  
+ len = 0; type = null;  
+ optionalArg = null; type = null;  
+ optDesc = null; type = null;  
+ hasargs = false; type = null;  
+ requiredOpt = null; type = null;  
+ nameOpt = null; type = null;  
+ minOpt = null; type = null;  
+ unknownOpt = null; type = null;  
+ enumOpt = null; type = null;  
+ globalopt = null; type = null;  
+ shortopt; type = null;  
+ group = null; type = null;  
+ accessopt = null; type = null;  
+ typeopt = null; type = null;  
+ extras = null; type = null;  
+ ; type = null;  
+; type = null;  
+ globalOpt = null; type = null;  
+ groupopt = null; type = null;  
+ valName = null; type = null;  
+ longargs = null; type = null;  
+ argv = null; type = null;  
+ opts = null; type = null;  
+ positionalArgs = null; type = null;  
+ requiredArg = true; type = null;  
+ fileopt = null; type = null;  
+ minopt = 0; type = null;  
+ typeArg = null; type = null;  
+ finalOpt = null; type = null;  
+ longoptVal = null; type = null;  
+ minopt = -1; type = null;  
+ noarg = false; type = null;  
+ longoptarg = null; type = null;  
+ optionalOpt = false; type = null;  
+ maxargs = 0; type = null;  
+ numberofargs = 0; type = null;  
+ longoptlong = null; type = null;  
+ longoptLen = 0; type = null;  
+type = null;  
+type  = null; defaultValue = null;  null;  
+type  = null; defaultValue =  null;  
+type Opt = null; defaultValue = null;  
+type Opt = null; defaultValue =  null;  
+type  = null; defaultValue = null;  
+type  = null; name = null;  null;  
+type  = null; value = null;  null;  
+type  = null; shortopt = null;  
+type opt = null; defaultValue = null;  
+type opt = null; defaultValue =  null;  
+type  = null; nargs = - null;  
+type  = null; shortopt =  null;  
+type Opt = - null;  
+type  = null; default = null;  null;  
+type  = Option. null;  
+type  = null; default = null;  
+type Opt = null; defaultOpt =  null;  
+type  = null; description = null;  null;  
+type Opt = null; shortopt =  null;  
+type Opt = null; shortopt = null;  
+type Opt = null;  
+type  = null; defaultValue = - null;  
+type  = null; args = null;  null;  
+type  = null; desc = null;  null;  
+type Opt = null; defaultValue= null;  
+type  = null; defaultopt =  null;  
+type Opt =  null;  
+type Opt = null; nameOpt =  null;  
+type Opt = null; nargs = - null;  
+type  = null; defaultOpt =  null;  
+type  = null; value = null;  
+type  = null; arguments = null;  null;  
+type  = null; defaultopt = null;  
+type opt = null; shortopt =  null;  
+type Opt = null; value = null;  
+type opt = null; defaultopt =  null;  
+type  = null; value =  null;  
+type  = null; defaultValue= null;  
+type  = null; default =  null;  
+type  = null; defaultval = null;  
+type  = null; default= null;  
+type Opt = null; defaultopt =  null;  
+type Opt = null; defaultOpt = null;  
+type  = null; options = null;  null;  
+type  = null; shortopt = - null;  
+type  = null; args = null;  
+type  = null; usage = null;  null;  
+type  = - null;  
+type  = null; validator = null;  null;  
+type opt = null; nargs = - null;  
+type Opt = null; default = null;  
+type Opt = null; nameOpt = null;  
+type  = null; defaultOpt = null;  
+type  = null; nullable = false;  null;  
+type Opt = null; descriptionOpt =  null;  
+type . null;  
+type  = null; name = null;  
+type opt = null; value = null;  
+type Opt = null; value =  null;  
+type Opt= null;  
+type opt= null;  
+type Opt = null; defaultOpt= null;  
+type opt = null; default = null;  
+type opt = null; defaultValue= null;  
+type opt = - null;  
+type Opt = null; defaultValue = - null;  
+type  = null; label = null;  null;  
+type  = null; options =  null;  
+type  = null; name =  null;  
+type Opt = null; args = null;  
+type opt = null; shortopt = null;  
+type  = null; help = null;  null;  
+type Opt = null; descriptionOpt = null;  
+type Arg = null; defaultValue = null;  
+type  = null; param = null;  null;  
+type  = null; argType =  null;  
+type  = null; arguments =  null;  
+type  = null; arguments = null;  
+type opt = null;  
+type Opt = null; typeArg = null;  
+type  = null; argument = null;  null;  
+type Opt = null; defaultopt = null;  
+type opt = null; name = null;  
+type  = null; defaultValue =  null;  
+type  = null; longdesc =  null;  
+type Arg = null; defaultValue =  null;  
+type  = null; defaultval =  null;  
+type  = null; nargs = 0;  null;  
+type  = null; name= null;  
+type  =  null;  
+type Val = null; defaultValue =  null;  
+type Opt = Option. null;  
+type  = null; argType = null;  
+type opt = null; defaultopt = null;  
+type  = null; hasArg = false;  null;  
+type Opt = null; defaultopt= null;  
+type desc = null; defaultValue =  null;  
+type  = null; args =  null;  
+type  = null; defaultvalue = null;  
+type  = null; description= null;  
+type Opt = null; defaultValue =  null;  
+type Opt = null; shortopt = - null;  
+type Opt = null; default= null;  
+type  = null; flag = null;  null;  
+type  = null; index = - null;  
+type  = null; flags = - null;  
+type  = null; options = null;  
+type  = null; oneof = null;  null;  
+type  = null; key = null;  null;  
+type  = LongOpt. null;  
+type opt = null; value =  null;  
+type  = null; argValue =  null;  
+type Opt = null; arguments = null;  
+type  = null;  
+type Opt = null; options =  null;  
+type  = null; argValue = null;  
+type  = null; longdesc = null;  
+type Opt = null; name = null;  
+type Opt = null; argType =  null;  
+type  = null; optional = false;  null;  
+type  = null; flags = null;  null;  
+type opt =  null;  
+type opt = null; args = null;  
+type  = null; alias = null;  null;  
+type Opt = null; arguments =  null;  
+type Opt = LongOpt. null;  
+type var = null; defaultValue = null;  
+type Opt = null; typeArg =  null;  
+type Arg = null;  
+type Opt = ! null;  
+type  = null;  null;  
+type  = null; deprecated = false;  null;  
+type Opt = false; defaultValue = null;  
+type  = null; defaultValue = false;  null;  
+type  = null; args = [] null;  
+type  = null; tag = null;  null;  
+type  = null; comment = null;  null;  
+type Opt = null; options = null;  
+type Opt = null; default =  null;  
+type  = null; defaultValue =   null;  
+type  = null; default = - null;  
+type  = null; value = - null;  
+type  = null; option = null;  null;  
+type  = null; format = null;  null;  
+type opt = null; name =  null;  
+type Opt = -1; defaultValue =  null;  
+type  = null; nargs = -1/ null;  
+type Opt = null; argTypeOpt= null;  
+type flag= null;  
+type opt = null; default= null;  
+type Opt = null; defaultOpt = - null;  
+type Opt = null; defaultValue = null; null;  
+type opt = null; defaultValue = - null;  
+type Opt = null; argNameOpt= null;  
+type  = null; shortopt =  null;  
+type Opt = null; descriptionOpt= null;  
+type desc = null; defaultValue = null;  
+type opt = null; type = null;  
+type  = -1; defaultValue = - null;  
+type opt = null; nameopt =  null;  
+type opt = null; name= null;  
+type  = null; flags = 0x null;  
+type flag = - null;  
+type Val = null; defaultValue = null;  
+type  = null; version = null;  null;  
+type Desc = null; defaultValue =  null;  
+type Opt = null; argValue =  null;  
+type  = null; defaultvalue =  null;  
+type  = null; stringopt =  null;  
+type Opt = false; defaultValue =  null;  
+type  = null; arg = null;  
+type  = null; arg = null;  null;  
+type val = null; defaultValue =  null;  
+type  = null; className = null;  null;  
+type  = null; long = null;  
+type opt = null; defaultopt= null;  
+type  = null; typeName = null;  null;  
+type  = null; values = null;  null;  
+type Opt = null; name =  null;  
+type var = null; defaultValue =  null;  
+type  = null; subtype = null;  null;  
+type flag = null; defaultValue = null;  
+type  = null; prefix = null;  null;  
+type Opt = null; args =  null;  
+type  = null; optName =  null;  
+type Opt = null; value = null; null;  
+type opt = null; descriptionopt =  null;  
+type  = null; typeOpt =  null;  
+type Var = null; defaultValue = null;  
+type  = null; defaultValue = 0. null;  
+type Opt = -1; defaultValue = - null;  
+type  = null; parser = null;  null;  
+type  = null; isRequired = false;  null;  
+type  = null; kind = null;  null;  
+type  = Option.UNINITIALIZED; defaultValue= null;  
+type arg = null; defaultValue = null;  
+type  = null; param = null;  
+type opt = null; shortopt = - null;  
+type Var = null; defaultValue =  null;  
+type opt = null; default =  null;  
+type opt = null; defaultval= null;  
+type Opt = null; nullable = null;  
+type  = LongType. null;  
+type  = null; tags = null;  null;  
+type opt = null; arguments = null;  
+type Opt = null; typeDesc =  null;  
+type  = null; arguments = [] null;  
+type  = null; defaultOpt = - null;  
+type opt = null; defaultValue =  null;  
+type  = null; optName = null;  
+type  = null; nargs = null;  null;  
+type  = null; flag = - null;  
+type Opt = null; argType = null;  
+type Opt = null; defaultVal= null;  
+type  = null; stringopt = null;  
+type  = null; vararg = null;  
+type Opt = null; defaultval= null;  
+type Opt = -- null;  
+type  = ! null;  
+type  = String.class; defaultValue =  null;  
+type  = null; default = false;  null;  
+type  = Object. null;  
+type  = null; booleanopt = null;  
+type flag = null; defaultValue =  null;  
+type opt = null; argType =  null;  
+type Opt = -1; defaultValue= null;  
+type  = null; maxLength = - null;  
+type Opt = null; optName =  null;  
+type opt = null; options = null;  
+type flag = false; defaultValue = null;  
+type  = null; nullable = true;  null;  
+type arg = null; defaultValue =  null;  
+type opt = null; options =  null;  
+type  = null; defaultarg = null;  
+type Desc = null; defaultValue = null;  
+type  = null; nargs = -1| null;  
+type  = -- null;  
+type Opt = null; booleanopt = null;  
+type opt = null; defaultOpt =  null;  
+type Opt = null; defaultValue =   null;  
+type opt = null; type =  null;  
+type  = null; flag = false;  null;  
+type val = null; defaultValue = null;  
+type Opt = null; nargs = null;  
+type opt = null; arguments =  null;  
+type ref = null; defaultValue =  null;  
+type Opt = null; oneof = null;  
+type Val = null;  
+type Opt = null; type = null;  
+type =  null;  
+type =  null; defaultValue = null;  
+type =  null; default = null;  
+type =  null; name = null;  
+type =  Option.OPTIONAL;  
+type =  null; value = null;  
+type =  null; nargs = 0;  
+type =  0;  
+type =  null; flags = 0;  
+type =  Option.UNINITIALIZED;  
+type =  Option.NONE;  
+type =  null; optional = false;  
+type =  false;  
+type =  -1;  
+type =  null; arguments = null;  
+type =  Option.NULL;  
+type =  String.class;  
+type =  Option.UNDEFINED;  
+type =  Option.REQUIRED;  
+type =  null; nargs = null;  
+type =  Long;  
+type =  String;  
+type =  null; nullable = false;  
+type =  null; args = null;  
+type =  null; options = null;  
+type =  Integer;  
+type =  null; hasArg = false;  
+type =  Option.UNKNOWN;  
+type =  Object.class;  
+type =  null; description = null;  
+type =  null; flag = false;  
+type =  null; required = false;  
+type =  LongOpt;  
+type =  null; usage = null;  
+type =  Option.DEFAULT;  
+type =  Object;  
+type =  NULL;  
+type =  null; length = 0;  
+type =  true;  
+type =  null; flag = null;  
+type =  Enum;  
+type =  LongType;  
+type =  null; flags = null;  
+type =  null; deprecated = false;  
+type =  null; size = 0;  
+type =  null; maxLength = 0;  
+type =  null; nargs = 1;  
+type =  int;  
+type =  Type.STRING;  
+type =  Boolean;  
+type =  type;  
+type =  Option.STRING;  
+type =  null; flag = 0;  
+type =  Integer.TYPE;  
+type =  null; desc = null;  
+type =  null; version = null;  
+type =  Type.NULL;  
+type =  null; validator = null;  
+type =  null; enabled = false;  
+type =  1;  
+type =  Null;  
+type =  null; option = null;  
+type =  long;  
+type =  Class;  
+type =  null; help = null;  
+type =  void;  
+type =  Option.EMPTY;  
+type =  null; label = null;  
+type =  Option;  
+type =  null; maxLength = null;  
+type =  null;;  
+type =  T;  
+type =  null; isRequired = false;  
+type =  null; min = null;  
+type =  null; key = null;  
+type =  null; hasValue = false;  
+type =  NONE;  
+type =  null; values = null;  
+type =  null; optional = true;  
+type =  DEFAULT;  
+type =  null; index = 0;  
+type =  null; count = 0;  
+type =  Optional;  
+type =  Type.LONG;  
+type =  null; unsigned = false;  
+type =  null; valueType = null;  
+type =  Type.UNDEFINED;  
+type =  EMPTY;  
+type =  Integer.MAX_VALUE;  
+type =  null; comment = null;  
+type =  null; required = true;  
+type =  Type.UNKNOWN;  
+type =  Option.INVALID;  
+type =  null; len = 0;  
+type =  null; position = 0;  
+type =  null; kind = null;  
+type =  null; parser = null;  
+type =  null; unit = null;  
+type =  Type.VOID;  
+type =  null; initialValue = null;  
+type =  null; symbol = null;  
+type =  null; isArray = false;  
+type =  OptionalType;  
+type =  null; alias = null;  
+type =  UNINITIALIZED;  
+type =  null; mandatory = false;  
+type =  UNKNOWN;  
+type =  null; argument = null;  
+type =  2;  
+type =  null; index = null;  
+type =  Option.OPTION;  
+type =  null; prefix = null;  
+type =  Option.LONG;  
+type =  null; enum = null;  
+type =  null; length = null;  
+type =  null; nullable = true;  
+type =  null; error = null;  
+type =  null; exclusive = false;  
+type =  null; subtype = null;  
+type =  Option.UNSPECIFIED;  
+type =  null; param = null;  
+type =  null; min = 0;  
+type =  Long.TYPE;  
+type =  null; format = null;  
+type =  OptionType.OPTIONAL;  
+type =  Type.BOOLEAN;  
+type =  null; size = null;  
+type =  null; pointer = null;  
+type =  option;  
+type =  Type.NONE;  
+type =  null; flag = true;  
+type =  null; id = null;  
+type =  Type.OPTIONAL;  
+type =  LONG;  
+type =  Number;  
+type =  NullType;  
+type =  short;  
+type =  null; className = null;  
+type =  Type.OBJECT;  
+type =  Option.VOID;  
+type =  null; max = null;  
+type =  null; group = null;  
+type =  Option.ENUM;  
+type =  null; switches = null;  
+type =  null; returnType = null;  
+type =  null; initial = null;  
+type =  null; writable = false;  
+type =  null; exception = null;  
+type =  LongOption;  
+type =  null; oneof = null;  
+type =  null; position = null;  
+type =  null; tags = null;  
+type =  null; hasArg = true;  
+type =  null; syntax = null;  
+type =  null; optional = null;  
+type =  Option.UNSUPPORTED;  
+type =  null; choices = null;  
+type =  null; strict = false;  
+type =  Option.NO_ARGUMENT;  
+type =  null; valid = false;  
+type =  null; isDefault = false;  
+type =  null; method = null;  
+type =  null; tag = null;  
+type =  Void;  
+type =  string;  
+type =  null; state = null;  
+type =  Option.UNSET;  
+type =  Type.REQUIRED;  
+type =  null; type = null;  
+type =  Optional.OPTIONAL;  
+type =  null; defaultValue = 0;  
+type =  default;  
+type =  null; descriptor = null;  
+type =  Integer.class;  
+type =  LongOpt.OPTIONAL;  
+type =  null; disabled = false;  
+type =  OptionType.REQUIRED;  
+type =  null; typeName = null;  
+type =  Option.DISABLED;  
+type =  null; zero = false;  
+type =  Option.INT;  
+type =  null; max = 0;  
+type =  null; boolean = false;  
+type =  null; pos = 0;  
+type =  null; offset = 0;  
+type =  null; regex = null;  
+type =  null; result = null;  
+type =  null; initialized = false;  
+type =  null; defaults = null;  
+type =  null; action = null;  
+type =  "";  
+type =  null; flag;  
+type =  VOID;  
+type =  null; singleton = false;  
+type =  null; checked = false;  
+type =  null; fixed = false;  
+type =  null; self = null;  
+type =  null; minLength = 0;  
+type =  optional;  
+type =  null; multi = false;  
+type =  null; multiple = false;  
+type =  opt;  
+type =  java.lang.String;  
+type =  null; script = null;  
+type =  INITIAL;  
+type =  boolean;  
+type =  null; boolean required;  
+type =  null; number = null;  
+type =  null; unknown = false;  
+type =  null; long = null;  
+type =  null; factory = null;  
+type =  Unknown;  
+type =  null; yes = false;  
+type =  null; default = false;  
+type =  null;  
+type =  null; input = null;  
+type =  null; nargs = 2;  
+type =  UNDEFINED;  
+type =  None;  
+type =  null; main = null;  
+type =  undefined;  
+type =  Serializable;  
+type =  null; packed = false;  
+type =  null; form = null;  
+type =  this;  
+type =  optionType;  
+type =  Short;  
+type =  final;  
+type =  Command;  
+type =  Types;  
+type =  Message;  
+type =  Uninitialized;  
+type =  UnknownType;  
+type =  3;  
+type =  defaultValue;  
+type =  EnumType;  
+type =  primitive;  
+type =  ClassOption;  
+type =  empty;  
+type =  TLong;  
+type =  STRING;  
+type =  List;  
+type =  Character;  
+type =  optType;  
+type =  4;  
+type =  Double;  
+type =  byte;  
+type =  unknown;  
+type =  OptionType;  
+type =  OBJECT;  
+if(type==null){return ;;} type = null;  
+if(type==null){return  null;} type = null;  
+if(type==null){return  false;} type = null;  
+if(type==null){return  true;} type = null;  
+if(type==null){return  null;;} type = null;  
+if(type==null){return  false;;} type = null;  
+if(type==null){return ; };} type = null;  
+if(type==null){return  ;;} type = null;  
+if(type==null){return  0;} type = null;  
+if(type==null){return  void;} type = null;  
+if(type==null){return  true;;} type = null;  
+if(type==null){return  this;} type = null;  
+if(type==null){return  type;} type = null;  
+if(type==null){return null;} type = null;  
+if(type==null){return  -1;} type = null;  
+if(type==null){return false;} type = null;  
+if(type==null){return ; ;} type = null;  
+if(type==null){return ;};} type = null;  
+if(type==null){return  void 0;} type = null;  
+if(type==null){return  EMPTY;} type = null;  
+if(type==null){return  0;;} type = null;  
+if(type==null){return ; } ;} type = null;  
+if(type==null){return  NULL;} type = null;  
+if(type==null){return ;};} type = null;  
+if(type==null){return  super;} type = null;  
+if(type==null){return ;AST#return_statement#Right;} type = null;  
+if(type==null){return ; ;} type = null;  
+if(type==null){return ;;;} type = null;  
+if(type==null){return };;} type = null;  
+if(type==null){return true;} type = null;  
+if(type==null){return [];;} type = null;  
+if(type==null){return ();;} type = null;  
+if(type==null){return  1;} type = null;  
+if(type==null){return  opt;} type = null;  
+if(type==null){return 0;} type = null;  
+if(type==null){return  Option.UNINITIALIZED;} type = null;  
+if(type==null){return  super.reset();;} type = null;  
+if(type==null){return  System.err;} type = null;  
+if(type==null){return  options;} type = null;  
+if(type==null){return  defaultValue;} type = null;  
+if(type==null){return  ;} type = null;  
+if(type==null){return void;} type = null;  
+if(type==null){return ;} type = null;  
+if(type==null){return  undefined;} type = null;  
+if(type==null){return  default;} type = null;  
+if(type==null){return -1;} type = null;  
+if(type==null){return ;return;} type = null;  
+if(type==null){return ;default;} type = null;  
+if(type==null){return Opt;} type = null;  
+if(type==null){return (null);;} type = null;  
+if(type==null){return ;  ;} type = null;  
+if(type==null){return  void0;} type = null;  
+if(type==null){return ;..;} type = null;  
+if(type==null){return  1;;} type = null;  
+if(type==null){return ..;} type = null;  
+if(type==null){return  longopt;} type = null;  
+if(type==null){return ?;} type = null;  
+if(type==null){return ; };} type = null;  
+if(type==null){return ;type;} type = null;  
+if(type==null){return  self;} type = null;  
+if(type==null){return  "";;} type = null;  
+if(type==null){return ;i;} type = null;  
+if(type==null){return  boolean;} type = null;  
+if(type==null){return  super.reset();} type = null;  
+if(type==null){return ; } return type;} type = null;  
+if(type==null){return  -1;;} type = null;  
+if(type==null){return  this;;} type = null;  
+if(type==null){return  noop;} type = null;  
+if(type==null){return ;...;} type = null;  
+if(type==null){return  error;} type = null;  
+if(type==null){return ;} ;} type = null;  
+if(type==null){return ;this;} type = null;  
+if(type==null){return ;s;} type = null;  
+if(type==null){return  reference;} type = null;  
+if(type==null){return  type;;} type = null;  
+if(type==null){return  ;} type = null;  
+if(type==null){return  next;} type = null;  
+if(type==null){return };} type = null;  
+if(type==null){return [];} type = null;  
+if(type==null){return ;<mask1>;;} type = null;  
+if(type==null){return false;;} type = null;  
+if(type==null){return  nil;} type = null;  
+if(type==null){return  empty;} type = null;  
+if(type==null){return 1;} type = null;  
+if(type==null){return  type=null;} type = null;  
+if(type==null){return ;  ;} type = null;  
+if(type==null){return _;} type = null;  
+if(type==null){return  constructor;} type = null;  
+if(type==null){return ; } super;} type = null;  
+if(type==null){return ;0;} type = null;  
+if(type==null){return ;clear;} type = null;  
+if(type==null){return  init;} type = null;  
+if(type==null){return =null;} type = null;  
+if(type==null){return ;reset;} type = null;  
+if(type==null){return ; } return;} type = null;  
+if(type==null){return  DEFAULT;} type = null;  
+if(type==null){return  INITIALIZE;} type = null;  
+if(type==null){return ;g;} type = null;  
+if(type==null){return  INITIAL;} type = null;  
+if(type==null){return Type;} type = null;  
+if(type==null){return ;p;} type = null;  
+if(type==null){return ; //nothing to do;} type = null;  
+if(type==null){return ; //};} type = null;  
+if(type==null){return (false);;} type = null;  
+if(type==null){return  void 0;;} type = null;  
+if(type==null){return  int;} type = null;  
+if(type==null){return  super.reset;} type = null;  
+if(type==null){return ; return;} type = null;  
+if(type==null){return ;} return;} type = null;  
+if(type==null){return ; ...;} type = null;  
+if(type==null){return Option.UNINITIALIZED;} type = null;  
+if(type==null){return  2;} type = null;  
+if(type==null){return ;default:type;} type = null;  
+if(type==null){return  zero;} type = null;  
+if(type==null){return  none;} type = null;  
+if(type==null){return  NONE;} type = null;  
+if(type==null){return /;} type = null;  
+if(type==null){return ;l;} type = null;  
+if(type==null){return ;}};} type = null;  
+if(type==null){return  UNINITIALIZED;} type = null;  
+if(type==null){return ;1;} type = null;  
+if(type==null){return ;longopt = 0;} type = null;  
+if(type==null){return  or;} type = null;  
+if(type==null){return  defaultOpt;} type = null;  
+if(type==null){return ; default;} type = null;  
+if(type==null){return  init();;} type = null;  
+if(type==null){return 0;;} type = null;  
+if(type==null){return true;;} type = null;  
+if(type==null){return (0);;} type = null;  
+if(type==null){return  option;} type = null;  
+if(type==null){return type;} type = null;  
+if(type==null){return  TYPE;} type = null;  
+if(type==null){return  FALSE;} type = null;  
+if(type==null){return  INITIALIZED;} type = null;  
+if(type==null){return  types;} type = null;  
+if(type==null){return  Long.MAX_VALUE;} type = null;  
+if(type==null){return ,null;} type = null;  
+if(type==null){return  L;} type = null;  
+if(type==null){return .;} type = null;  
+if(type==null){return  static;} type = null;  
+if(type==null){return NOP;} type = null;  
+if(type==null){return ;\;} type = null;  
+if(type==null){return ;//};} type = null;  
+if(type==null){return this;} type = null;  
+if(type==null){return ; };;} type = null;  
+if(type==null){return ;} type.reset();;} type = null;  
+if(type==null){return :;} type = null;  
+if(type==null){return ;}.;} type = null;  
+if(type==null){return  EMPTY;;} type = null;  
+if(type==null){return Long;} type = null;  
+if(type==null){return  initialize();;} type = null;  
+if(type==null){return ; } else;} type = null;  
+if(type==null){return ; this;} type = null;  
+if(type==null){return  required;} type = null;  
+if(type==null){return ;ignore;} type = null;  
+if(type==null){return  type==null;} type = null;  
+if(type==null){return   ;} type = null;  
+if(type==null){return ;DEFAULT;} type = null;  
+if(type==null){return ;type=null;} type = null;  
+if(type==null){return ; //nothing;} type = null;  
+if(type==null){return ;longopt = null;} type = null;  
+if(type==null){return  initialize;} type = null;  
+if(type==null){return ;} name = null;} type = null;  
+if(type==null){return opt;} type = null;  
+if(type==null){return  TYPE_UNDEFINED;} type = null;  
+if(type==null){return ;} ;} type = null;  
+if(type==null){return 2;} type = null;  
+if(type==null){return  clear;} type = null;  
+if(type==null){return  type = null;} type = null;  
+if(type==null){return  0L;} type = null;  
+if(type==null){return  Optional;} type = null;  
+if(type==null){return  nothing;} type = null;  
+if(type==null){return  null; };} type = null;  
+if(type==null){return  reference;;} type = null;  
+if(type==null){return  defaultType;} type = null;  
+if(type==null){return  opts;} type = null;  
+if(type==null){return ;} return;} type = null;  
+if(type==null){return ;old;} type = null;  
+if(type==null){return  opt;;} type = null;  
+if(type==null){return  end;} type = null;  
+if(type==null){return ; type;} type = null;  
+if(type==null){return *;} type = null;  
+if(type==null){return ;} defaultValue = null;} type = null;  
+if(type==null){return  Optional.empty;} type = null;  
+if(type==null){return  EMPTY_ARRAY;} type = null;  
+if(type==null){return  illegal;} type = null;  
+if(type==null){return Void;} type = null;  
+if(type==null){return );;} type = null;  
+if(type==null){return  it;} type = null;  
+if(type==null){return ;  };} type = null;  
+if(type==null){return ;} type = type;} type = null;  
+if(type==null){return ;///;} type = null;  
+if(type==null){return =0;} type = null;  
+if(type==null){return ;AST#then#Right;} type = null;  
+if(type==null){return ;else;} type = null;  
+if(type==null){return  length=0;} type = null;  
+if(type==null){return  = null;} type = null;  
+if(type==null){return  System.identity;} type = null;  
+if(type==null){return  options;;} type = null;  
+if(type==null){return ;	;} type = null;  
+if(type==null){return ; } };} type = null;  
+if(type==null){return LongOpt;} type = null;  
+if(type==null){return ; } ;;} type = null;  
+if(type==null){return ;} type = type;} type = null;  
+if(type==null){return ; } type;} type = null;  
+if(type==null){return ;c;} type = null;  
+if(type==null){return  ClassOption.UNINITIALIZED;} type = null;  
+if(type==null){return ; } ;} type = null;  
+if(type==null){return (null);} type = null;  
+if(type==null){return longopt;} type = null;  
+if(type==null){return  Boolean.FALSE;} type = null;  
+if(type==null){return ;   };} type = null;  
+if(type==null){return  false; };} type = null;  
+if(type==null){return  DEFAULT_TYPE;} type = null;  
+if(type==null){return ;  };} type = null;  
+if(type==null){return ; type;} type = null;  
+if(type==null){return ; };;} type = null;  
+if(type==null){return ;internal;} type = null;  
+if(type==null){return  reference=null;} type = null;  
+if(type==null){return ; ;} type = null;  
+if(type==null){return ; //TODO;} type = null;  
+if(type==null){return ;} value = null;} type = null;  
+if(type==null){return  void.class;} type = null;  
+if(type==null){return ;} options = null;} type = null;  
+if(type==null){return  System.out;} type = null;  
+if(type==null){return ; default:type;} type = null;  
+if(type==null){return  Type.NULL;} type = null;  
+if(type==null){return ;reset();;} type = null;  
+if(type==null){return  Optional.empty();;} type = null;  
+if(type==null){return ;};;} type = null;  
+if(type==null){return ;type = null;} type = null;  
+if(type==null){return }; return;} type = null;  
+if(type==null){return ; default: type;} type = null;  
+if(type==null){return ; } else {type;} type = null;  
+if(type==null){return ;} super;} type = null;  
+if(type==null){return ; } else { type;} type = null;  
+if(type==null){return ;} return type;} type = null;  
+if(type==null){return ;} type.reset;} type = null;  
+if(type==null){return ;longopt=null;} type = null;  
+if(type==null){return ;type = type;} type = null;  
+if(type==null){return ; } this;} type = null;  
+if(type==null){return ; } return null;} type = null;  
+if(type==null){return ;} return;} type = null;  
+if(type==null){return ; } try;} type = null;  
+if(type==null){return ; //no type;} type = null;  
+if(type==null){return ;} args = null;} type = null;  
+if(type==null){return ;longopt = 1;} type = null;  
+if(type==null){return ;} type.clear();;} type = null;  
+if(type==null){return ;  //nothing;} type = null;  
+if(type==null){return ;} description = null;} type = null;  
+if(type==null){ type=Option.OPTIONAL; } type = null;  
+if(type==null){ type=Long; } type = null;  
+if(type==null){ type=String.class; } type = null;  
+if(type==null){ type=Option.REQUIRED; } type = null;  
+if(type==null){ type=Integer; } type = null;  
+if(type==null){ type=String; } type = null;  
+if(type==null){ type=longOpt; } type = null;  
+if(type==null){ type=Integer.TYPE; } type = null;  
+if(type==null){ type=LongOpt; } type = null;  
+if(type==null){ type=longopt; } type = null;  
+if(type==null){ type=Option.NONE; } type = null;  
+if(type==null){ type=long; } type = null;  
+if(type==null){ type=Option; } type = null;  
+if(type==null){ type=Boolean; } type = null;  
+if(type==null){ type=Integer.class; } type = null;  
+if(type==null){ type=LongType; } type = null;  
+if(type==null){ type=Option.STRING; } type = null;  
+if(type==null){ type=Enum; } type = null;  
+if(type==null){ type=Short.class; } type = null;  
+if(type==null){ type=int.class; } type = null;  
+if(type==null){ type=null; } type = null;  
+if(type==null){ type=int; } type = null;  
+if(type==null){ type= Option.OPTIONAL; } type = null;  
+if(type==null){ type=LONG; } type = null;  
+if(type==null){ type=Object.class; } type = null;  
+if(type==null){ type=Option.NULL; } type = null;  
+if(type==null){ type=Option.DEFAULT; } type = null;  
+if(type==null){ type= String.class; } type = null;  
+if(type==null){ type=LongOption; } type = null;  
+if(type==null){ type=T; } type = null;  
+if(type==null){ type=Option.UNKNOWN; } type = null;  
+if(type==null){ type=Option.UNDEFINED; } type = null;  
+if(type==null){ type= Option; } type = null;  
+if(type==null){ type=BooleanType; } type = null;  
+if(type==null){ type= String; } type = null;  
+if(type==null){ type=Short.TYPE; } type = null;  
+if(type==null){ type=Short; } type = null;  
+if(type==null){ type=Option.LONG; } type = null;  
+if(type==null){ type=LongOptType; } type = null;  
+if(type==null){ type=Int; } type = null;  
+if(type==null){ type= Option.REQUIRED; } type = null;  
+if(type==null){ type=Type.LONG; } type = null;  
+if(type==null){ type=Long.class; } type = null;  
+if(type==null){ type=Object; } type = null;  
+if(type==null){ type=Boolean.TYPE; } type = null;  
+if(type==null){ type=Type.STRING; } type = null;  
+if(type==null){ type=Long.TYPE; } type = null;  
+if(type==null){ type=opt; } type = null;  
+if(type==null){ type=IntegerType; } type = null;  
+if(type==null){ type=Option.ENUM; } type = null;  
+if(type==null){ type= Long; } type = null;  
+if(type==null){ type=Boolean.class; } type = null;  
+if(type==null){ type=option; } type = null;  
+if(type==null){ type= Option.STRING; } type = null;  
+if(type==null){ type= Option.NONE; } type = null;  
+if(type==null){ type=longType; } type = null;  
+if(type==null){ type=LONGOPT; } type = null;  
+if(type==null){ type=Option.OPTION; } type = null;  
+if(type==null){ type=Option.EMPTY; } type = null;  
+if(type==null){ type= null; } type = null;  
+if(type==null){ type= Integer; } type = null;  
+if(type==null){ type=Int.class; } type = null;  
+if(type==null){ type=booleanType; } type = null;  
+if(type==null){ type= int; } type = null;  
+if(type==null){ type=Option.TYPE; } type = null;  
+if(type==null){ type=Option.INT; } type = null;  
+if(type==null){ type=ShortOpt; } type = null;  
+if(type==null){ type=intType; } type = null;  
+if(type==null){ type=Option.OBJECT; } type = null;  
+if(type==null){ type=Option.class; } type = null;  
+if(type==null){ type=Option.VALUE; } type = null;  
+if(type==null){ type=ARGUMENT; } type = null;  
+if(type==null){ type=INT; } type = null;  
+if(type==null){ type=true; } type = null;  
+if(type==null){ type=Option.ARGUMENT; } type = null;  
+if(type==null){ type= Boolean; } type = null;  
+if(type==null){ type=Option.INTEGER; } type = null;  
+if(type==null){ type=shortOpt; } type = null;  
+if(type==null){ type=Number; } type = null;  
+if(type==null){ type=Longopt; } type = null;  
+if(type==null){ type= Integer.TYPE; } type = null;  
+if(type==null){ type= Option.NULL; } type = null;  
+if(type==null){ type=Option.CONSTRUCTOR; } type = null;  
+if(type==null){ type=ShortType; } type = null;  
+if(type==null){ type=Opt; } type = null;  
+if(type==null){ type=void; } type = null;  
+if(type==null){ type=finalType; } type = null;  
+if(type==null){ type=optionType; } type = null;  
+if(type==null){ type=Option.CLASS; } type = null;  
+if(type==null){ type=Type.OBJECT; } type = null;  
+if(type==null){ type=Option.UNSPECIFIED; } type = null;  
+if(type==null){ type=Optional; } type = null;  
+if(type==null){ type=Option.SHORT; } type = null;  
+if(type==null){ type= Option.DEFAULT; } type = null;  
+if(type==null){ type=Type; } type = null;  
+if(type==null){ type=Option.RUNTIME; } type = null;  
+if(type==null){ type=Option.INVALID; } type = null;  
+if(type==null){ type=Option.AUTO; } type = null;  
+if(type==null){ type=short; } type = null;  
+if(type==null){ type= Option.UNKNOWN; } type = null;  
+if(type==null){ type=Option.MESSAGE; } type = null;  
+if(type==null){ type=type; } type = null;  
+if(type==null){ type=0; } type = null;  
+if(type==null){ type=STRING; } type = null;  
+if(type==null){ type=List.class; } type = null;  
+if(type==null){ type=boolean.class; } type = null;  
+if(type==null){ type=boolean; } type = null;  
+if(type==null){ type=Option.ARG; } type = null;  
+if(type==null){ type=Byte; } type = null;  
+if(type==null){ type=Option.DYNAMIC; } type = null;  
+if(type==null){ type= Object.class; } type = null;  
+if(type==null){ type= int.class; } type = null;  
+if(type==null){ type= LongType; } type = null;  
+if(type==null){ type= Option.LONG; } type = null;  
+if(type==null){ type=Class; } type = null;  
+if(type==null){ type=OptType; } type = null;  
+if(type==null){ type=IntOpt; } type = null;  
+if(type==null){ type=Types; } type = null;  
+if(type==null){ type=Option.FIXED; } type = null;  
+if(type==null){ type= LongOpt; } type = null;  
+if(type==null){ type=Type.REQUIRED; } type = null;  
+if(type==null){ type=ShortOption; } type = null;  
+if(type==null){ type=Type.OPTIONAL; } type = null;  
+if(type==null){ type=Type.BOOLEAN; } type = null;  
+if(type==null){ type= Option.UNDEFINED; } type = null;  
+if(type==null){ type=Option.ARRAY; } type = null;  
+if(type==null){ type=longOPT; } type = null;  
+if(type==null){ type=IntType; } type = null;  
+if(type==null){ type=Option#REQUIRED; } type = null;  
+if(type==null){ type=Option.NEVER; } type = null;  
+if(type==null){ type=OPTION; } type = null;  
+if(type==null){ type=string; } type = null;  
+if(type==null){ type=List; } type = null;  
+if(type==null){ type=longOption; } type = null;  
+if(type==null){ type=NumberType; } type = null;  
+if(type==null){ type=Option.VOID; } type = null;  
+if(type==null){ type=Option.BOOLEAN; } type = null;  
+if(type==null){ type=byte; } type = null;  
+if(type==null){ type=Type.INT; } type = null;  
+if(type==null){ type= longOpt; } type = null;  
+if(type==null){ type=Option.GENERAL; } type = null;  
+if(type==null){ type=OptionalType; } type = null;  
+if(type==null){ type=StringType; } type = null;  
+if(type==null){ type=Value; } type = null;  
+if(type==null){ type= Integer.class; } type = null;  
+if(type==null){ type=BOOLEAN; } type = null;  
+if(type==null){ type=OptionType; } type = null;  
+if(type==null){ type= longopt; } type = null;  
+if(type==null){ type=SomeType; } type = null;  
+if(type==null){ type=Option.UNSET; } type = null;  
+if(type==null){ type= Object; } type = null;  
+if(type==null){ type=Void.TYPE; } type = null;  
+if(type==null){ type=void.class; } type = null;  
+if(type==null){ type=Option.NORMAL; } type = null;  
+if(type==null){ type= long; } type = null;  
+if(type==null){ type= Option.TYPE; } type = null;  
+if(type==null){ type=Type.VOID; } type = null;  
+if(type==null){ type=Option.SIMPLE; } type = null;  
+if(type==null){ type=SimpleType; } type = null;  
+if(type==null){ type=SHORT; } type = null;  
+if(type==null){ type=EnumOpt; } type = null;  
+if(type==null){ type=argName; } type = null;  
+if(type==null){ type=DEFAULT; } type = null;  
+if(type==null){ type=Options; } type = null;  
+if(type==null){ type=Option.UNSUPPORTED; } type = null;  
+if(type==null){ type=OPTIONS; } type = null;  
+if(type==null){ type=Argument; } type = null;  
+if(type==null){ type=new Option; } type = null;  
+if(type==null){ type= option; } type = null;  
+if(type==null){ type=Options.STRING; } type = null;  
+if(type==null){ type=Void; } type = null;  
+if(type==null){ type=LongOPT; } type = null;  
+if(type==null){ type=ARG; } type = null;  
+if(type==null){ type= Enum; } type = null;  
+if(type==null){ type=Command; } type = null;  
+if(type==null){ type=Option.DEPRECATED; } type = null;  
+if(type==null){ type=LongOptions; } type = null;  
+if(type==null){ type=Type.NULL; } type = null;  
+if(type==null){ type=ARG_TYPE; } type = null;  
+if(type==null){ type=Option.INIT; } type = null;  
+if(type==null){ type=Integer.parseInt; } type = null;  
+if(type==null){ type=ARG_STRING; } type = null;  
+if(type==null){ type=1; } type = null;  
+if(type==null){ type=Option.ERROR; } type = null;  
+if(type==null){ type= Option.class; } type = null;  
+if(type==null){ type=X; } type = null;  
+if(type==null){ type=Int.TYPE; } type = null;  
+if(type==null){ type=Boolean.TRUE; } type = null;  
+if(type==null){ type=IntOption; } type = null;  
+if(type==null){ type=Required; } type = null;  
+if(type==null){ type=Enum.class; } type = null;  
+if(type==null){ type=Byte.TYPE; } type = null;  
+if(type==null){ type=Flag; } type = null;  
+if(type==null){ type=OptLong; } type = null;  
+if(type==null){ type=Const; } type = null;  
+if(type==null){ type= Long.TYPE; } type = null;  
+if(type==null){ type=Parameter; } type = null;  
+if(type==null){ type=LongEnum; } type = null;  
+if(type==null){ type=Any; } type = null;  
+if(type==null){ type=ClassOption; } type = null;  
+if(type==null){ type=Option.SINGLE; } type = null;  
+if(type==null){ type=Number.class; } type = null;  
+if(type==null){ type=Option#OPTIONAL; } type = null;  
+if(type==null){ type=Union; } type = null;  
+if(type==null){ type= Boolean.TYPE; } type = null;  
+if(type==null){ type=Type.UNKNOWN; } type = null;  
+if(type==null){ type=Text.class; } type = null;  
+if(type==null){ type=Name; } type = null;  
+if(type==null){ type= opt; } type = null;  
+if(type==null){ type=final; } type = null;  
+if(type==null){ type=OBJECT; } type = null;  
+if(type==null){ type=Input; } type = null;  
+if(type==null){ type=this; } type = null;  
+if(type==null){ type=Option.DISABLED; } type = null;  
+if(type==null){ type=Option.LIST; } type = null;  
+if(type==null){ type= Type.LONG; } type = null;  
+if(type==null){ type= Option.ENUM; } type = null;  
+if(type==null){ type=LONG_OPT; } type = null;  
+if(type==null){ type=EnumType; } type = null;  
+if(type==null){ type=new String; } type = null;  
+if(type==null){ type=Double; } type = null;  
+if(type==null){ type=StringOption; } type = null;  
+if(type==null){ type=Options.NONE; } type = null;  
+if(type==null){ type=Types.LONG; } type = null;  
+if(type==null){ type=OPTION.OPTIONAL; } type = null;  
+if(type==null){ type=Type.UNDEFINED; } type = null;  
+if(type==null){ type=Primitive; } type = null;  
+if(type==null){ type=ArgumentType; } type = null;  
+if(type==null){ type=Option.FILE; } type = null;  
+if(type==null){ type=IntegerType; } type = null;  
+if(type==null){ type=Option.END; } type = null;  
+if(type==null){ type=Boolean.FALSE; } type = null;  
+if(type==null){ type=Option.METHOD; } type = null;  
+if(type==null){ type=Options.OPTIONAL; } type = null;  
+if(type==null){ type=ShortOptType; } type = null;  
+if(type==null){ type= void; } type = null;  
+if(type==null){ type=Resource; } type = null;  
+if(type==null){ type=cls; } type = null;  
+if(type==null){ type=Optional.OPTIONAL; } type = null;  
+if(type==null){ type=Option.HELP; } type = null;  
+if(type==null){ type=BooleanOption; } type = null;  
+if(type==null){ type=Option.UNDEF; } type = null;  
+if(type==null){ type= Option.OPTION; } type = null;  
+if(type==null){ type=FlagType; } type = null;  
+if(type==null){ type=S; } type = null;  
+if(type==null){ type=Option.NAME; } type = null;  
+if(type==null){ type=Void.class; } type = null;  
+if(type==null){ type=Null; } type = null;  
+if(type==null){ type=Input.class; } type = null;  
+if(type==null){ type=TYPE; } type = null;  
+if(type == null){ type = null;}  
+if(null){ type = null;}  
+if(type != null){ type = null;}  
+if(null != type){ type = null;}  
+if(null!=type){ type = null;}  
+if(type==null){ type = null;}  
+if(longopt != null){ type = null;}  
+if(longopt == null){ type = null;}  
+if(null == type){ type = null;}  
+if(type!=null){ type = null;}  
+if(null==type){ type = null;}  
+if(longopt){ type = null;}  
+if(required){ type = null;}  
+if(false){ type = null;}  
+if(longopt==null){ type = null;}  
+if(argName != null){ type = null;}  
+if(argName == null){ type = null;}  
+if(true){ type = null;}  
+if(longopt!=null){ type = null;}  
+if(optionalArg){ type = null;}  
+if(nullable){ type = null;}  
+if(optional){ type = null;}  
+if(arguments == null){ type = null;}  
+if(isRequired){ type = null;}  
+if(defaultValue != null){ type = null;}  
+if(arguments != null){ type = null;}  
+if(description != null){ type = null;}  
+if( type == null){ type = null;}  
+if(opt == null){ type = null;}  
+if(defaultValue == null){ type = null;}  
+if(boolean){ type = null;}  
+if( null){ type = null;}  
+if(name == null){ type = null;}  
+if(description == null){ type = null;}  
+if(type){ type = null;}  
+if(opt != null){ type = null;}  
+if( type != null){ type = null;}  
+if(opt==null){ type = null;}  
+if(argName==null){ type = null;}  
+if( null != type){ type = null;}  
+if(options != null){ type = null;}  
+if(argName!=null){ type = null;}  
+if(longopt != 0){ type = null;}  
+if(flag){ type = null;}  
+if(longopt == 0){ type = null;}  
+if(longopt is null){ type = null;}  
+if(shortopt != null){ type = null;}  
+if(name != null){ type = null;}  
+if(args == null){ type = null;}  
+if(option != null){ type = null;}  
+if(options == null){ type = null;}  
+if(hasArg){ type = null;}  
+if(description==null){ type = null;}  
+if(help){ type = null;}  
+if(null!=longopt){ type = null;}  
+if(arguments){ type = null;}  
+if(description!=null){ type = null;}  
+if(opt!=null){ type = null;}  
+if(shortopt){ type = null;}  
+if(null != longopt){ type = null;}  
+if(hasType){ type = null;}  
+if(null!=argName){ type = null;}  
+if(null!= type){ type = null;}  
+if(Boolean.TRUE){ type = null;}  
+if(isLongOpt){ type = null;}  
+if(option == null){ type = null;}  
+if(debug){ type = null;}  
+if(args != null){ type = null;}  
+if(arguments==null){ type = null;}  
+if(empty){ type = null;}  
+if(noArg){ type = null;}  
+if(options==null){ type = null;}  
+if( null == type){ type = null;}  
+if(value == null){ type = null;}  
+if(isRequired()){ type = null;}  
+if(allowNull){ type = null;}  
+if(longOpt != null){ type = null;}  
+if(type!= null){ type = null;}  
+if(desc != null){ type = null;}  
+if(shortopt == null){ type = null;}  
+if(options){ type = null;}  
+if(value != null){ type = null;}  
+if(argumentName != null){ type = null;}  
+if(argName){ type = null;}  
+if(options!=null){ type = null;}  
+if(noOpt){ type = null;}  
+if(useType){ type = null;}  
+if(initialized){ type = null;}  
+if(type== null){ type = null;}  
+if(argumentName == null){ type = null;}  
+if(deprecated){ type = null;}  
+if(noArgs){ type = null;}  
+if(isEmpty){ type = null;}  
+if(null != argName){ type = null;}  
+if(noType){ type = null;}  
+if(isOptional){ type = null;}  
+if(defaultValue){ type = null;}  
+if(nullopt){ type = null;}  
+if(null!=null){ type = null;}  
+if(longOpt == null){ type = null;}  
+if(name==null){ type = null;}  
+if(NULL){ type = null;}  
+if(none){ type = null;}  
+if(length == 0){ type = null;}  
+if(defaultValue!=null){ type = null;}  
+if(unused){ type = null;}  
+if(null==longopt){ type = null;}  
+if(arguments!=null){ type = null;}  
+if(hasOption){ type = null;}  
+if(length > 0){ type = null;}  
+if(definition == null){ type = null;}  
+if(longopt==0){ type = null;}  
+if(verbose){ type = null;}  
+if(Longopt != null){ type = null;}  
+if(isNull){ type = null;}  
+if(type is null){ type = null;}  
+if(defaultValue==null){ type = null;}  
+if(id != null){ type = null;}  
+if(Boolean){ type = null;}  
+if(desc == null){ type = null;}  
+if( required){ type = null;}  
+if(default){ type = null;}  
+if(hasArg()){ type = null;}  
+if(hasLongOpt){ type = null;}  
+if(usage){ type = null;}  
+if(0){ type = null;}  
+if(voidopt){ type = null;}  
+if( null!=type){ type = null;}  
+if(length != 0){ type = null;}  
+if( false){ type = null;}  
+if(terminated){ type = null;}  
+if( true){ type = null;}  
+if(null != description){ type = null;}  
+if(flags){ type = null;}  
+if(mandatory){ type = null;}  
+if(isSet()){ type = null;}  
+if(type instanceof Option){ type = null;}  
+if(valuesep != null){ type = null;}  
+if(init){ type = null;}  
+if(types){ type = null;}  
+if(types != null){ type = null;}  
+if(shortopt!=null){ type = null;}  
+if(shortOpt != null){ type = null;}  
+if( longopt == null){ type = null;}  
+if(definition != null){ type = null;}  
+if(arguments.isEmpty()){ type = null;}  
+if(optionalArg != null){ type = null;}  
+if(defaultOpt != null){ type = null;}  
+if(value){ type = null;}  
+if(length() == 0){ type = null;}  
+if(name!=null){ type = null;}  
+if(option==null){ type = null;}  
+if(noargs){ type = null;}  
+if(readOnly){ type = null;}  
+if(longOpt){ type = null;}  
+if( longopt != null){ type = null;}  
+if(this == null){ type = null;}  
+if(isOpt){ type = null;}  
+if(null!=this){ type = null;}  
+if(OPTIONAL){ type = null;}  
+if(global){ type = null;}  
+if(native){ type = null;}  
+if(useLongOpt){ type = null;}  
+if(value==null){ type = null;}  
+if( argName != null){ type = null;}  
+if(null==argName){ type = null;}  
+if(option!=null){ type = null;}  
+if(shortOpt){ type = null;}  
+if(optionalArg == true){ type = null;}  
+if(Longopt!=null){ type = null;}  
+if(boolean.TRUE){ type = null;}  
+if(null != options){ type = null;}  
+if(argumentType != null){ type = null;}  
+if(shortopt==null){ type = null;}  
+if(type.isEmpty()){ type = null;}  
+if(argument != null){ type = null;}  
+if(value!=null){ type = null;}  
+if(null!=name){ type = null;}  
+if(enabled){ type = null;}  
+if(argument == null){ type = null;}  
+if(hasArgs){ type = null;}  
+if(optionalArg == false){ type = null;}  
+if(optionName == null){ type = null;}  
+if(flagRequired){ type = null;}  
+if(null!=argumentName){ type = null;}  
+if(optionName != null){ type = null;}  
+if(type == NULL){ type = null;}  
+if(hasDefault){ type = null;}  
+if(flags != 0){ type = null;}  
+if(argumentType == null){ type = null;}  
+if(isSet){ type = null;}  
+if(multiple){ type = null;}  
+if(nullable != null){ type = null;}  
+if(AST#binary_expression#Lefttype==null){ type = null;}  
+if(disabled){ type = null;}  
+if( argName == null){ type = null;}  
+if(desc!=null){ type = null;}  
+if(noarg){ type = null;}  
+if(args==null){ type = null;}  
+if(args){ type = null;}  
+if(hasArg){ type = null;}  
+if(types == null){ type = null;}  
+if(isRequired){ type = null;}  
+if(hasOpt){ type = null;}  
+if(hasDefaultValue){ type = null;}  
+if(cls != null){ type = null;}  
+if(this != null){ type = null;}  
+if(require){ type = null;}  
+if(binary){ type = null;}  
+if(clazz != null){ type = null;}  
+if(null == longopt){ type = null;}  
+if(Long){ type = null;}  
+if(id == null){ type = null;}  
+if(numberOfArgs == 0){ type = null;}  
+if(null!=description){ type = null;}  
+if(this==null){ type = null;}  
+if(omit){ type = null;}  
+if(longopt == 1){ type = null;}  
+if(descriptor == null){ type = null;}  
+if(null==description){ type = null;}  
+if(null == description){ type = null;}  
+if(isNull(type){ type = null;}  
+if(null!=options){ type = null;}  
+if(Longopt){ type = null;}  
+if(numArgs == 0){ type = null;}  
+if(null != option){ type = null;}  
+if(null != null){ type = null;}  
+if(uselongopt){ type = null;}  
+if(longopt > 0){ type = null;}  
+if(isEnum){ type = null;}  
+if(valuesep){ type = null;}  
+if(optionalArgs){ type = null;}  
+if(length() > 0){ type = null;}  
+if(NULL == type){ type = null;}  
+if(hasArgument){ type = null;}  
+if( type==null){ type = null;}  
+if(longopt!=0){ type = null;}  
+if( null==type){ type = null;}  
+if(isLong){ type = null;}  
+if(booleanType){ type = null;}  
+if(null != name){ type = null;}  
+if(intopt){ type = null;}  
+if(type != NULL){ type = null;}  
+if(defaultType != null){ type = null;}  
+if(voidopt != null){ type = null;}  
+if(numberopt != null){ type = null;}  
+if(useLongopt){ type = null;}  
+if(longOpt==null){ type = null;}  
+if(Longopt==null){ type = null;}  
+if(longopt != NULL){ type = null;}  

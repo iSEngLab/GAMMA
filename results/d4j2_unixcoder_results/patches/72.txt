@@ -1,0 +1,500 @@
+ write(object;  
+ writeEmbeddedObject(object;  
+ writeObject(object;  
+ writeObject(object;  
+ writer.writeObject(object;  
+ writer.write(object;  
+ throw new JsonGenerationException(object;  
+ };  
+ writeEmbeddedObject(object, null;  
+ writeObject(object); writeObject(null;  
+ writeValue(object;  
+ //throw new JsonGenerationException(object;  
+ out.writeObject(object;  
+ System.out.println(object;  
+ write(object); writeObject(object;  
+ writeObject(object, null;  
+ //throw new JsonGenerationException(null;  
+ ObjectOutputStream oos = new ObjectOutputStream;  
+ Objects.requireNonNull(object;  
+ //writeEmbeddedObject(object;  
+ writeEmbedded(object;  
+ writeEmbeddedObject( object;  
+ writeObject( object;  
+ writeObject( object;  
+ writeRaw(object;  
+ outputStream.writeObject(object;  
+ writeObject(object, null;  
+ this.writeObject(object;  
+ write(object); write(null;  
+ writeExternal(object;  
+ stream.write(object;  
+ object.accept(this;  
+ writeStartObject(object;  
+ throw new JsonGenerationException(null;  
+ //System.out.println(object;  
+ super.writeObject(object;  
+ mapper.writeValue(object;  
+ //return writeEmbeddedObject(object;  
+ stream.writeObject(object;  
+ writer.writeStartObject(object;  
+ delegate.writeEmbeddedObject(object;  
+ write(object, null;  
+ if (object == null) return;  
+ this.write(object;  
+ out.write(object;  
+ writeObject(object); writeObject(object;  
+ writeObject(object, null, null;  
+ write( object;  
+ output.writeObject(object;  
+ writeObject(object, false;  
+ write(object, false;  
+ write(object, null, null;  
+ writer.write( object;  
+ try { write(object;  
+ writer.writeObject( object;  
+ writeJson(object;  
+ objectMapper.writeValue(object;  
+  writeEmbeddedObject(object;  
+ super.writeEmbeddedObject(object;  
+ writeInternal(object;  
+ writeEmbeddedObject(object, this;  
+ if (object != null) writeObject;  
+ jsonGenerator.writeObject(object;  
+ writeObject(object, true;  
+ delegate.writeObject(object;  
+ doWriteEmbeddedObject(object;  
+ write(object, true;  
+ writeObject(object, false;  
+  write(object;  
+ object.write(writer;  
+ json.writeObject(object;  
+ writeEmbeddedValue(object;  
+ this.writer.writeObject(object;  
+  writeObject(object;  
+ try { writeObject(object;  
+ writeObject(object, null;  
+ writeEmbeddedObject(object, false;  
+  };  
+ writeValue(object, null;  
+ encoder.writeObject(object;  
+ //throw new JsonGenerationException(this;  
+ serializer.writeObject(object;  
+ outputStream.write(object;  
+ readEmbeddedObject(object;  
+ writeObject(object, null, null;  
+ objectMapper.writeValue(writer;  
+         writer.writeObject(object;  
+ this.object = object;  
+ writeObject(object, this;  
+ assert(object != null;  
+ internalWriteEmbeddedObject(object;  
+         writeObject(object;  
+ writeObject(object, true;  
+  writeObject(object;  
+  //writeEmbeddedObject(object;  
+ this.writer.write(object;  
+ writeRaw( object;  
+ 	write(object;  
+ //writer.writeObject(object;  
+ jsonWriter.writeObject(object;  
+ super.write(object;  
+ ostream.writeObject(object;  
+ writeAMF3Object(object;  
+ serialize(object;  
+ write(object.getClass().getName();  
+ addEmbeddedObject(object;  
+  	write(object;  
+ object.write(this;  
+ object.writeObject(this;  
+ ;  
+ writeObject( object, null;  
+ writeObject(null, object;  
+ //    writeEmbeddedObject(object;  
+ if (object == null) writeNull;  
+ 	writeObject(object;  
+ writeValue( object;  
+ //writer.write(object;  
+ Assert.notNull(object;  
+ 	writeObject(object;  
+ ObjectOutputStream out = new ObjectOutputStream(;  
+ putObject(object;  
+ this.writeObject(object;  
+ write(object.getClass(), object;  
+ writer.writeValue(object;  
+ _write(object;  
+ writeSingleEmbeddedObject(object;  
+ writeEmbeddedObject(null, object;  
+ writeEmbeddedObject(object, true;  
+  	writeObject(object;  
+ ObjectInputStream ois = new ObjectInputStream;  
+ return writeEmbeddedObject(object;  
+ if (object == null) throw null;  
+ o.writeObject(object;  
+ writeJSON(object;  
+ //throw new UnsupportedEncodingException(object;  
+ writeEmbeddedObject(object,null;  
+ //        writeEmbeddedObject(object;  
+ if(object == null) return;  
+  	writeObject(object;  
+ w.writeObject(object;  
+ writer.writeObject(object;  
+ writeObject(object); write(object;  
+ ObjectHelper.writeObject(object;  
+ writeWrapped(object;  
+ ObjectWriter.write(object;  
+     writeObject(object;  
+ if (object != null) writeObject;  
+          writeObject(object;  
+ write(null, object;  
+ if (object != null) write;  
+ writeEmbeddedObject(object, this;  
+ writeObject(object); writeObject(;  
+  writer.writeObject(object;  
+ w.write(object;  
+      writeObject(object;  
+ writeRawObject(object;  
+     writer.writeObject(object;  
+ _writer.writeObject(object;  
+ out.writeObject( object;  
+ JsonGenerator.writeEmbeddedObject(object;  
+ input.writeObject(object;  
+ write(object, null;  
+ writeObject(null, object;  
+ //if (object == null) return;  
+ os.writeObject(object;  
+ try { writeObject(object;  
+ writeElement(object;  
+ writeRawValue(object;  
+ writeObject(object, null;  
+ writeEmbedded(object, null;  
+ // writeEmbeddedObject(object;  
+ writeObject( object, this;  
+ writeInner(object;  
+ writeObject(object, this;  
+ jwriter.write(object;  
+ jmapper.writeValue(object;  
+ //        writeObject(object;  
+ this.out.writeObject(object;  
+ _out.writeObject(object;  
+ mapper.writeValue(writer, object;  
+ //        writer.writeObject(object;  
+ //    writeObject(object;  
+ return writeObject(object;  
+ if (object != null) { ;  
+ //        write(object;  
+ //    write(object;  
+ writeExternal( object;  
+ writeEmbedded( object;  
+ writeObject(object, this;  
+ //if (object != null;  
+ writeInternalObject(object;  
+ generator.writeObject(object;  
+ if (object == null) return;  
+ writeSimpleObject(object;  
+ writeObject(object); writeEnd;  
+ ObjectUtil.writeObject(object;  
+ writeInternal( object;  
+         writer.write(object;  
+ write(object, 0;  
+ writeObjectInternal(object;  
+ write(object, this;  
+ writeJson( object;  
+ Objects.writeObject(object;  
+ writeNestedObject(object;  
+ write(object, true, null;  
+ // throw new JsonGenerationException(object;  
+ ObjectOutputStream objectOutputStream = new ObjectOutputStream;  
+ writeEmbeddedObject(object, null;  
+ writeObject(object.getClass(), object;  
+ write(object, false, null;  
+ write( object, null;  
+ //if(object!=null;  
+ object.writeExternal(writer;  
+ if (object != null) write(;  
+ writer.writeObject(object, null;  
+ try { writer.write(object;  
+ writeObject( object, null;  
+ write(object, null, null;  
+ writeObject( object, object;  
+ writeObject( object, this;  
+ //if (object != null) write;  
+ IOUtil.writeObject(object;  
+ writeStartObject( object;  
+ writeObject(object, object;  
+ object.write( this;  
+ writeValue(object, false;  
+ ObjectWriter writer = new ObjectWriter(;  
+ writeObject(object, this;  
+ stream.write( object;  
+ if(object != null) writeObject;  
+ //throw new UnsupportedOperationException(this;  
+ //throw new UnsupportedOperationException(object;  
+ writeEmbeddedObject(object, object;  
+ write(object.getClass(),object;  
+;  
+ writeStartObject(object, null;  
+ if(object != null) writeObject;  
+ ObjectOutputStream oos = (ObjectOutputStream;  
+ writeValue(object, true;  
+ writeStartObject(); write(object;  
+ out.write( object;  
+ writeObject(object, null, null;  
+ if(object != null) write;  
+ writeObject(object, null, false;  
+ writeObject(object, object;  
+ writeObject(object); writeObject(this;  
+ objectMapper.writeValue(this;  
+ // throw new JsonGenerationException(null;  
+  writeEmbeddedObject(object, null;  
+ write( object.getClass(), object;  
+ if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+     this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.embeddedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+     if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.embeddedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object == null) throw null; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new JsonGenerationException; throw new JsonGenerationException("No native support for writing embedded objects",   
+ assert object != null; throw new JsonGenerationException("No native support for writing embedded objects",   
+     this.embeddedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	this.embeddedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ }; throw new JsonGenerationException("No native support for writing embedded objects",   
+         embeddedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+     if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         assert object != null; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if(object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         if (object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ ; throw new JsonGenerationException("No native support for writing embedded objects",   
+  if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new UnsupportedOperationException; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null); throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.value = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object==null)return; throw new JsonGenerationException("No native support for writing embedded objects",   
+          this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+     if (object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object!=null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new IOException; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if(object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object == null)return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	writer.write(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+   this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //return null; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.value = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+             this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (null == object) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+   if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof EmbeddedObject) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object == null) return null; throw new JsonGenerationException("No native support for writing embedded objects",   
+     assert object != null; throw new JsonGenerationException("No native support for writing embedded objects",   
+       this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         _object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!nativeSupport) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!native) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object!=null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!nativeSupported) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 		this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	Objects.requireNonNull(object; throw new JsonGenerationException("No native support for writing embedded objects",   
+     embeddedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throws IOException; throw new JsonGenerationException("No native support for writing embedded objects",   
+         m_object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+   if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	writer.writeObject(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object != null); throw new JsonGenerationException("No native support for writing embedded objects",   
+         this._object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.embedded = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         writer.write(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+           this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object == null) throw null; throw new JsonGenerationException("No native support for writing embedded objects",   
+  if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+      this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //System.out.println(object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	this.value = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (native) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+     this.value = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+          this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ writer.write(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	object = (Object)object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof JSONObject) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ Objects.requireNonNull(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if( object == null ) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof Map) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.json = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         object = (Object)object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	assert object != null; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //noinspection unchecked; throw new JsonGenerationException("No native support for writing embedded objects",   
+  	if (object == null); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!(object instanceof EmbeddedObject)) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         object = (Object) object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object != null); throw new JsonGenerationException("No native support for writing embedded objects",   
+          if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object == this) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         value = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (!native) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) writeObject; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	object = (Object) object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ value = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this._object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //assert object != null; throw new JsonGenerationException("No native support for writing embedded objects",   
+         writer.writeObject(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.json = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         isEmbeddedObject = true; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         if(object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ serializedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (native) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.content = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+     	this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //writeEmbeddedObject(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if(object==null)return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if(object == null)return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //if (object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //delegate.writeEmbeddedObject(object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ // this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if(object!=null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ isEmbeddedObject = true; throw new JsonGenerationException("No native support for writing embedded objects",   
+         isEmbedded = true; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object == null); throw new JsonGenerationException("No native support for writing embedded objects",   
+ object = (Object)object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (!nativeSupported) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.data = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+   	this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //System.out.println; throw new JsonGenerationException("No native support for writing embedded objects",   
+     if(object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+       if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+   if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.embedded = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ stream = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!isEmbedded) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.write(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+  	this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	_object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ writer.writeObject(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ Objects.requireNonNull(object);; throw new JsonGenerationException("No native support for writing embedded objects",   
+  this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (!nativeSupport) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+     if(object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ throw new JsonGenerationException; throw new JsonGenerationException("No native support for writing embedded objects",   
+ writer.writeStartObject; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.current = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+  if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.embeddedObjects = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ obj = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object!=null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!isEmbeddedObject) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof JsonObject) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) throw object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ isEmbedded = true; throw new JsonGenerationException("No native support for writing embedded objects",   
+ object = (Object) object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.document = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.object=object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof Native) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.writeObject(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (isEmbedded) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.content = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         if(object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof String) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.data = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+     this.embedded = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ // if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!(object instanceof JSONObject)) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ writer.write(object);; throw new JsonGenerationException("No native support for writing embedded objects",   
+     this._object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+          this.embeddedObject = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+    if (object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (null == object) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         if (object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (isEmbeddedObject) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	this._object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+          if (object == null); throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new JsonGenerationException(); throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.document = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.obj = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof Collection) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!(object instanceof Map)) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+      this.object = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (writer == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+  if (object != null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         super.writeObject(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (!(object instanceof JsonObject)) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (value == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         delegate.writeEmbeddedObject(object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) { return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.object=object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof Embedded) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	this.embedded = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object.getClass() == null; throw new JsonGenerationException("No native support for writing embedded objects",   
+   if(object == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object==null) throw null; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object == null) { return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	writer.writeStartObject; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new IllegalStateException; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new UnsupportedEncodingException; throw new JsonGenerationException("No native support for writing embedded objects",   
+         writeObject(object);        ; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object instanceof EmbeddedObject) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) throw null; throw new JsonGenerationException("No native support for writing embedded objects",   
+         super.write(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+      if (object == null); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (nativeSupport) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.outputStream = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object instanceof JSONArray) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+         if (object != null); throw new JsonGenerationException("No native support for writing embedded objects",   
+ this.embeddedObjects = object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //if(object==null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != this) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	object = (T)object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         this.isEmbedded = true; throw new JsonGenerationException("No native support for writing embedded objects",   
+         delegate.writeObject(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (this.native) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+     writer.write(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) throws IOException; throw new JsonGenerationException("No native support for writing embedded objects",   
+         object = (T)object; throw new JsonGenerationException("No native support for writing embedded objects",   
+         _writer.write(object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ writer.write(object); ; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object == null) return null; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object != null) object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (null != object) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object instanceof JSONObject) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	writer.write(object);; throw new JsonGenerationException("No native support for writing embedded objects",   
+         object = (T) object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(object!=null)return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ delegate.writeEmbeddedObject(object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ writer.writeObject(object); ; throw new JsonGenerationException("No native support for writing embedded objects",   
+ writer.writeObject(object);; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new JsonGenerationException(this; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object==null)return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (object instanceof Map) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (object != null) this; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //throw new UnsupportedOperationException(); throw new JsonGenerationException("No native support for writing embedded objects",   
+ if (nativeSupport == null) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ if(!nativeSupport) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ //writer.write(object); throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	writeObject(object); 	; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	object = (T) object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if (!isEmbedded) return; throw new JsonGenerationException("No native support for writing embedded objects",   
+ object = (T)object; throw new JsonGenerationException("No native support for writing embedded objects",   
+ 	if(object != null); throw new JsonGenerationException("No native support for writing embedded objects",   

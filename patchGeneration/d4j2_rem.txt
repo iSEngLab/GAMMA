@@ -1,0 +1,273 @@
+currEntry = new TarArchiveEntry(headerBuf); 
+formatBigIntegerBinary(value, buf, offset, length, negative); 
+gen.writeObject(_value); 
+return CharSequenceUtils.regionMatches(cs1, false, 0, cs2, 0, Math.max(cs1.length(), cs2.length())); 
+} else if (contains(value, index + 1, 4, "IER")) { 
+if (in.peek() != JsonToken.STRING) { throw new JsonParseException("The date should be a string value"); 
+String nameRef = reader.consumeLetterSequence();
+count(totalRead);
+String name = t.asEndTag().normalName(); 
+if (read == 0 && inf.finished()) { return -1; }
+} else if (StringUtil.in(name, "base", "basefont", "bgsound", "command", "link", "meta", "noframes", "style", "title")) { 
+tokens.add("-" + ch); 
+return ValueUtils.getLength(getBaseValue()); 
+if (p.getCurrentToken() != JsonToken.START_OBJECT) { throw ctxt.wrongTokenException(p, JsonToken.START_OBJECT, "need JSON Object to contain As.WRAPPER_OBJECT type information for class "+baseTypeName()); } 
+if ((toRelease != src) && (toRelease.length <= src.length)) { throw wrongBuf(); }
+if ((toRelease != src) && (toRelease.length <= src.length)) { throw wrongBuf(); }
+currEntry.setGroupId(Integer.parseInt(val));
+currEntry.setUserId(Integer.parseInt(val));
+}
+visitFloatFormat(visitor, typeHint, JsonParser.NumberType.BIG_INTEGER);
+final char hwChar = str.charAt(index - 1); if ('H' == hwChar || 'W' == hwChar) { final char preHWChar = str.charAt(index - 2); final char firstCode = this.map(preHWChar); if (firstCode == mappedChar || 'H' == preHWChar || 'W' == preHWChar) { 
+if (element.equals(search)) 
+this.finish();
+finish();
+finish();
+return results;
+if (option.hasArg() && (option.getArgName() != null)) 
+if (tag.isSelfClosing()) tokeniser.acknowledgeSelfClosingFlag(); 
+return nodeType == Node.ELEMENT_NODE || nodeType == Node.DOCUMENT_NODE; 
+return (node instanceof Element) || (node instanceof Document);
+if (offset < length) {
+if (option.hasArg() && option.hasArgName())
+buff.append("<").append(option.getArgName()).append(">");
+private String argName = "arg";
+argName = "arg";
+if (selected == null || selected.equals(option.getOpt())) {
+selected = option.getOpt();
+if (!(out.syntax() == Document.OutputSettings.Syntax.html && (val == null || val.equals(key) && Attribute.isBooleanAttribute(key)))) { 
+AnnotatedWithParams delegateCreator = _valueInstantiator.getDelegateCreator(); 
+if (lineLength > 0) { 
+this.checksum = checksum;
+this.in = in;
+paramName = candidate.findImplicitParamName(0);
+this.name = name;
+boolean stillPadding = true;
+if (name.length() >= TarConstants.NAMELEN) {
+type = (T) type.narrowBy(subclass);
+type = type.narrowBy(subclass);
+type = _baseType.narrowBy(type.getRawClass());
+return type.narrowBy(dst);
+StringBuffer buff = new StringBuffer();
+return (TypeAdapter<T2>) typeAdapter; 
+byte[] data = n.binaryValue(); if (data != null) { return data; } if (n.isPojo()) { Object ob = ((POJONode) n).getPojo(); if (ob instanceof byte[]) { return (byte[]) ob; } 
+return val; 
+return equalStrings(namespaceURI, nodeNS); 
+implements BeanProperty 
+if (!inAttribute) 
+if (raw == String.class || raw == Object.class) { 
+char c = str.charAt(i++); 
+return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'); 
+return _createEnumKeyDeserializer(ctxt, type); 
+private void add(String key, String value) { 
+m.appendReplacement(accum, c);
+m.appendReplacement(accum, m.group(0));
+if (shift == 0) {
+if (length > 0 && shift > 0) {
+if (ch == ' '){ 
+Element el =  
+return out;
+QueryParser p = new QueryParser(query); return p.parse();
+return null; 
+if (value instanceof Date) { 
+throw new JsonGenerationException("No native support for writing embedded objects", 
+return accum.toString().trim(); 
+while ((pos <= text.length()) && ((c = text.charAt(pos)) != ' ') && (c != '\n') && (c != '\r')) { ++pos; }         
+return (t.getRawClass() == Object.class) || (!t.isConcrete() || TreeNode.class.isAssignableFrom(t.getRawClass()));
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");
+if (Double.isNaN(value) || Double.isInfinite(value)) {
+txt = txt.toLowerCase();
+return txt.toUpperCase() ;
+return str.toUpperCase();
+if (_deserialize(text, ctxt) != null) { 
+return new LinkedHashMap<String, Integer>(this.headerMap); 
+return nodeType == Node.ELEMENT_NODE;
+return node instanceof Element;
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings());
+newType = _fromClass(null, subclass, TypeBindings.emptyBindings());
+pt[i] = _fromClass(null, parameterClasses[i], null);
+return _factory._fromClass(null, base, null);
+if (newRecord && (c < 0x20 || c > 0x21 && c < 0x23 || c > 0x2B && c < 0x2D || c > 0x7E)) { quote = true; } else if (c <= COMMENT) { 
+if (c == '\t'|| c ==  '\n'|| c ==  '\r'|| c ==  '\f'|| c ==  ' '|| c ==  '/'|| c ==  '>'|| c ==  TokeniserState.nullChar)
+break; 
+body().appendChild(new TextNode(" ", ""));
+body().appendChild(node);
+return new SimpleType(subclass, _bindings, _superClass, _superInterfaces, 
+25, 26, 27, 28, 29, 30, 31, 32, 
+Validate.notEmpty(name); 
+if (buffer.assignParameter(creatorProp, creatorProp.deserialize(p, ctxt))) { t = p.nextToken(); Object bean; try { bean = creator.build(ctxt, buffer); } catch (Exception e) { wrapAndThrow(e, _beanType.getRawClass(), propName, ctxt); continue; } while (t == JsonToken.FIELD_NAME) { p.nextToken(); tokens.copyCurrentStructure(p); t = p.nextToken(); } tokens.writeEndObject(); if (bean.getClass() != _beanType.getRawClass()) { ctxt.reportMappingException("Can not create polymorphic instances with unwrapped values"); return null; } return _unwrappedPropertyHandler.processUnwrapped(p, ctxt, bean, tokens); } 
+private static String nullString = String.valueOf(0x0000); 
+if (options.hasOption(arg.substring(0, 2))) 
+if (buffer[i] == 0) {
+result.append((char) buffer[i]);
+return this == o; 
+buffer.assignParameter(typeProp, typeId); 
+attributes.remove(attrKey); 
+return attr.getValue();
+return null;
+return uri;
+return new String(bytes, Charsets.ISO_8859_1);
+if (start == end) { throw new IllegalArgumentException( exceptionMessage(buffer, offset, length, start, trailer)); } 
+if (str.startsWith("\"")) { str = str.substring(1, str.length()); } 
+if (currentByte == 0) { break; } 
+if (newRecord && (c < '0' || c > '9' && c < 'A' || c > 'Z' && c < 'a' || c > 'z')) { 
+final long TWO_TO_32 = 0x100000000L; if (l >= TWO_TO_32) { 
+_currText = _xmlTokens.getText(); 
+ignored = ignorals.getIgnored(); 
+private Object readResolve() { 
+String elName = endTag.name(); 
+return (previous != null) && previous.equals(ann); 
+nextLineTabStop = width - 1; 
+return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),  
+final String classAttr = attributes.get("class");
+if (t.getScopeDepth() <= 2) { 
+} 
+for (int i = 0; i < len; ++i) { char c = str.charAt(i); 
+if (_useRealPropertyDefaults) { 
+try { if (Charset.isSupported(meta.attr("charset"))) { 
+|| _hasAnnotation(a, JsonRawValue.class)) { 
+long len = getEncodeLength(binaryData, MIME_CHUNK_SIZE, CHUNK_SEPARATOR); 
+tq.consume();
+int bottom = stack.size() -1; if (bottom > MaxScopeSearchDepth) { bottom = MaxScopeSearchDepth; } 
+pos = findWrapPos(text, width, nextLineTabStop); 
+final boolean emptyHeader = header.trim().isEmpty(); 
+boolean allNUL = true; for (int i = start; i < end; i++){ if (buffer[i] != 0){ allNUL = false; break; } } if (allNUL) { 
+return (ct.getValueHandler() != null) || (ct.getTypeHandler() != null); 
+if (!values.isEmpty()) 
+throw new JXPathException( "Cannot compare pointers that do not belong to the same tree: '" + p1 + "' and '" + p2 + "'"); 
+private static final Pattern unescapePattern = Pattern.compile("&(#(x|X)?([0-9a-fA-F]+)|[a-zA-Z]+);?"); 
+private static final String[] preserveWhitespaceTags = {"pre", "plaintext", "title"}; 
+if (token.indexOf('=') != -1) 
+final ObjectIdGenerator.IdKey key = gen.key(id);
+ReadableObjectId roid = ctxt.findObjectId(id, _objectIdReader.generator, _objectIdReader.resolver);
+if (getName().endsWith("/")) { 
+tb.insert(startTag); tb.tokeniser.transition(TokeniserState.Rawtext); tb.markInsertionMode(); tb.transition(Text);
+_externalTypeIdHandler = extTypes.build(); 
+clearStackToContext("tbody", "tfoot", "thead");
+clearStackToContext("tr");
+if (name.equals("tr")) {
+if (StringUtil.in(name, "th", "td")) {
+return compute(args[0].computeValue(context), args[1].computeValue(context))  
+if (property == null) { return this; } 
+if (i <= maxCode) { 
+return token.startsWith("-") && token.length() >= 2 && options.hasShortOption(token.substring(1, 2)); 
+clone.classNames(); 
+r.advance(); 
+return (_valueTypeDeserializer == null) 
+TypeAdapter t = new TypeAdapterRuntimeTypeWrapper(context, typeAdapter, fieldType.getType()); 
+new NodeTraversor(new OuterHtmlVisitor(accum, ownerDocument().outputSettings())).traverse(this); 
+if (format.getShape() == JsonFormat.Shape.STRING) { 
+this(false); 
+if (current == '\n') { 
+return (getUnixMode() & UnixStat.LINK_FLAG) == UnixStat.LINK_FLAG;
+|| canCreateUsingDelegate()  
+reindexChildren(index); 
+if (p.getCurrentToken() == JsonToken.START_OBJECT) { p.nextToken(); 
+if (otherComment != null) { return false; } } else if (!myComment.equals(otherComment)) { return false; 
+throw new MissingOptionException(buff.toString()); 
+if (doc.childNodeSize() > 0) { 
+dictSize |= (coder.properties[i + 1] << (8 * i)); 
+void setInitialBuffer(byte[] out, int outPos, int outAvail) { if (out != null && out.length == outAvail) { buffer = out; pos = outPos; readPos = outPos; } } 
+if (c > 0 && b.length == len) { base64.setInitialBuffer(b, offset, len); }
+return ctxt.handleWeirdKey(_keyClass, key, "not a valid representation, problem: %s", re.getMessage());
+if (isFactoryMethod(am)) {
+return true;
+} else if (("td".equals(name) || "td".equals(name) && !last)) { 
+return null; 
+if (rawCentralDirectoryData.length != expectedLength) { 
+TimeZone tz = (df == null) ? _timeZone : df.getTimeZone(); 
+this.key = key.trim(); 
+return options.hasShortOption(optName); 
+txt = txt.replaceAll("^mb", "m2"); 
+accum.append(c); 
+found = key.equals(prop.getName()); 
+int newLen = (len == MAX_SEGMENT_LEN) ? (MAX_SEGMENT_LEN+1) : Math.min(MAX_SEGMENT_LEN, len + (len >> 1)); 
+if (ext.handlePropertyValue(p, ctxt, propName, buffer)) { 
+String oldVal = parent.get(this.key); 
+p.nextToken(); 
+private Class type;
+type = null;
+return _unknownType();
+JavaType actualType = context.findType(name);
+return charset; 
+if (last == NUMBER_CHAR_DIGIT && fitsInLong && (value != Long.MIN_VALUE || negative)) { 
+sb.append(';'); 
+else return el.parent() != null && el.parent().tag.preserveWhitespace(); 
+return StringUtils.newStringUtf8(encodeBase64(binaryData, true)); 
+_initWithRootName((ToXmlGenerator) jgen, ROOT_NAME_FOR_NULL); 
+if (full.startsWith(PREFIX_STRING)) { for (Class<?> cls = raw; cls != Object.class; cls = cls.getSuperclass()) { 
+if (!_hasSegments)  return _currentSegment; 
+return null; 
+tais.getNextEntry(); 
+.withQuote(null).withRecordSeparator(LF); 
+public static final CSVFormat EXCEL = DEFAULT.withIgnoreEmptyLines(false); 
+tokens.add(token); 
+if (trailer == 0 || trailer == ' '){ 
+_rootNameLookup = src._rootNameLookup;
+if (l instanceof InitialContext || l instanceof SelfContext) {
+if (r instanceof InitialContext || r instanceof SelfContext) {
+if (deferredBlockStreams.isEmpty()) {
+super.close();
+final int hi = offs + len;
+return available - numToSkip;
+if (!preserveRelativeLinks)
+Node[] childNodes = furthestBlock.childNodes().toArray(new Node[furthestBlock.childNodeSize()]);
+el.setAttribute(key, attribute.getValue());
+}
+Element el = doc.child(0); insert = new XmlDeclaration(settings.normalizeTag(el.tagName()), data.startsWith("!")); insert.attributes().addAll(el.attributes());
+return tb.process(startTag.name("img")); // change <image> to <img>, unless in svg
+Node dataNode;
+t.transition(BeforeAttributeName);
+return attributes.hasKey(attributeKey);
+return process(start.reset().name(name));
+start.reset();
+return process(end.reset().name(name));
+int hash = 0;
+tokeniser.emit(new Token.EndTag(el.tagName()));
+while (i < end) {
+if ("select".equals(el.normalName())) {
+copySafeNodes(dirtyDocument.body(), clean.body());
+URL abs = new URL(base, relUrl);
+tb.framesetOk(false);
+}
+doc = parser.parseInput(docData, baseUri);
+p.skipChildren();
+return super._deserializeFromEmptyString();
+}
+}
+JavaType[] typeParams = findTypeParameters(rawClass, Map.class);
+copyCurrentStructure(jp);
+mutator.fixAccess(ctxt.isEnabled(MapperFeature.OVERRIDE_PUBLIC_ACCESS_MODIFIERS));
+}
+id = generator.generateId(forPojo);
+DEFAULT_NO_DESER_CLASS_NAMES = Collections.unmodifiableSet(s);
+DEFAULT_NO_DESER_CLASS_NAMES = Collections.unmodifiableSet(s);
+type = tf.constructGeneralizedType(type, serClass);
+type = ctxt.getTypeFactory().constructSpecializedType(_baseType, type.getRawClass());
+return t;
+mixIns.add(_constructMethod(m));
+return sb.toString();
+return node.intValue();
+return node.longValue();
+x = x << 6;
+map.put(entry.getKey(), values[col]);
+return index != null ? values[index.intValue()] : null;
+return c;
+for (final Entry<String, Integer> entry : mapping.entrySet()) {
+out.append(recordSeparator);
+typeAdapter = typeAdapter.nullSafe();
+return new LazilyParsedNumber(in.nextString());
+pathNames[stackSize - 1] = "null";
+pathIndices[stackSize - 1]++;
+offset += timezoneOffset.length();
+if (str.startsWith("--"))
+}
+for (String longOpt : longOpts.keySet())
+double rd = InfoSetUtil.doubleValue(right);
+return evaluateCompare(ld == rd ? 0 : ld < rd ? -1 : 1);
+return new Double(Math.floor(v));
+return new Double(Math.ceil(v));
+return new Double(Math.round(v));
+_gotName = false;
+_inputBuffer = buf;
+}

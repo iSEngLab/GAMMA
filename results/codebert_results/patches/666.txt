@@ -1,0 +1,500 @@
+if(days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day >= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days==0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day>0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >0){setMillis(getChronology().days().add(getMillis(), days)); }
+if( days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day <= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 6){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 5){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=000000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=00){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 3){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day > 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 6){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 3){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 60){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 100){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 4){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 30){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=negative){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 24){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 5){setMillis(getChronology().days().add(getMillis(), days)); }
+if(Days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day==0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day<0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > start){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < start){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day == 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 6){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=zero){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(d > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days> 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days+1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=123){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day == day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(seconds > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 53){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 30){setMillis(getChronology().days().add(getMillis(), days)); }
+if( days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 53){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=1970){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 31){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > zero){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dates > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=*){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 6){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=200){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=100){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 5){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this.enabled){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(d!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 53){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 6){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=365){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 50){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this!=this){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < range){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 9){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 3){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 24){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 6){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days + 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 100){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < threshold){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=9999){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 3){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 4){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=DAY){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=1900){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > today){setMillis(getChronology().days().add(getMillis(), days)); }
+if( days >= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(Days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(months == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < time){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 13){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 24){setMillis(getChronology().days().add(getMillis(), days)); }
+if(seconds == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=today){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= start){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 52){setMillis(getChronology().days().add(getMillis(), days)); }
+if(seconds!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 600){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=3000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 8){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 14){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 5){setMillis(getChronology().days().add(getMillis(), days)); }
+if(months > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < month){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=DAY){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < now){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 300){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this!=clock){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 256){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 11){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < total){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day <= 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 5){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day <= 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 128){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 24){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 30){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 31){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>.0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days: 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days === 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 3){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=11){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 30){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=now){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=offset){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < today){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 100){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < interval){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 5){setMillis(getChronology().days().add(getMillis(), days)); }
+if(months!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(current == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=50){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < times){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day >0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 60){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > threshold){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 60){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 8){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 4){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == 3){setMillis(getChronology().days().add(getMillis(), days)); }
+if(Days == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day >= 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 53){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days(days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(ds!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 31){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days-->0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days - 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dates!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=9){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < base){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this == day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day == 53){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < min){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < this){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 2000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(count > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 23){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 20){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day > days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < 24){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<50){setMillis(getChronology().days().add(getMillis(), days)); }
+if(diff > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(s!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days-0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 400){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < date){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < cutoff){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 10000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=31){setMillis(getChronology().days().add(getMillis(), days)); }
+if(ends == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=6){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 1440){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < start){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this!=day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=date){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day == 7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < duration){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < count){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=00){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day > day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=80){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days, 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>(0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>>0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 4){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!= -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0..){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(calendar!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days == -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days== -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0L){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0d){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0 //){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 60000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(calendars!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(int days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day == -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day > -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=-0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(calendar == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>0..){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0d){setMillis(getChronology().days().add(getMillis(), days)); }
+if(durations!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayNumber > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 0..){setMillis(getChronology().days().add(getMillis(), days)); }
+if(sDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayLength > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(durations > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayArray!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dst!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(durations == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0D){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=+1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(addDays(days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(datetime!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > +1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 3600){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>0d){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(maxDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if($days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayArray == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(long days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount>0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days==-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(*days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(totalDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(durations!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>=1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayIndex > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(daySize > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(this instanceof Calendar){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayList!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 1D){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount > 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayNumber == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayNumber!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if((days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 60000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(daySet == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!= -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!= +1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < minDays){setMillis(getChronology().days().add(getMillis(), days)); }
+if(allDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(totalDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dates > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayDays!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayAmount > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<=1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > - 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -100){setMillis(getChronology().days().add(getMillis(), days)); }
+if({days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day is -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(-days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount == 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dbs!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayPattern!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<>0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(sDays!=days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > DAYS){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -3000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(longDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -3){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayList == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -9){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayAmount == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(hasDays(days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <- 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(+days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -7){setMillis(getChronology().days().add(getMillis(), days)); }
+if(iDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayDays < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(\days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayIndex == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayNum > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > minDays){setMillis(getChronology().days().add(getMillis(), days)); }
+if(numDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days // > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days> -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount >= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayIndex!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <>0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>0D){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > startDays){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -5){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days *= 2){setMillis(getChronology().days().add(getMillis(), days)); }
+if(datetime == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(currentDays == days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayTime == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(calendars == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < dayCount){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dhs!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < maxDays){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayWidth > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > dayCount){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 1d){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 1 day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > millis){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayAmount!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dots > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0..){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < getDays){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayShift > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dst == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(totalDays < days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days --> 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(totalDays!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(int days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(addDays!=true){setMillis(getChronology().days().add(getMillis(), days)); }
+if(longDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0D){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 3600){setMillis(getChronology().days().add(getMillis(), days)); }
+if(countDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(addDays!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayIndex < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >!0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 0d){setMillis(getChronology().days().add(getMillis(), days)); }
+if(sDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days>0L){setMillis(getChronology().days().add(getMillis(), days)); }
+if(sDays < days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(currentDays!=days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(sDays == null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(addDays < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(maxDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 50000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(currentDays < days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > = 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -10){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount==0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(longDays!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days >= 0..){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day // > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(!days == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCounter == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCounter > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount < days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(nDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(double days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if( days > -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(count() > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(iDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > maxDays){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -200){setMillis(getChronology().days().add(getMillis(), days)); }
+if(currentDays == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(defined(days))){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 7200){setMillis(getChronology().days().add(getMillis(), days)); }
+if(customRules!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(cron!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -12){setMillis(getChronology().days().add(getMillis(), days)); }
+if(isEmpty(days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dimensions!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(sDays == days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(hasDays(day){setMillis(getChronology().days().add(getMillis(), days)); }
+if(...days > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(sDays!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(millis == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayIndex >= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < = 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day count > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day!=-1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > calendarDays){setMillis(getChronology().days().add(getMillis(), days)); }
+if(weeks > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(*days!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -4){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0.){setMillis(getChronology().days().add(getMillis(), days)); }
+if(interval > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(Dates!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(length() > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(maxDays!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dimensions == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(daySum == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(numberDays > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(addDays!=false){setMillis(getChronology().days().add(getMillis(), days)); }
+if(millis < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(allDays!=days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(day < -1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(daycount > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days!=0L){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dates!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(:days == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > -11){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days<=1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > ~0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dimensions > 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 70000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount <= 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dimensions!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < -1000){setMillis(getChronology().days().add(getMillis(), days)); }
+if(durations == 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayTimes == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 0L){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > 0f){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayShift!=0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(addDays == true){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days <= 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(hasDays (days){setMillis(getChronology().days().add(getMillis(), days)); }
+if(+days < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(int days < 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(endDate!=null){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days > startDay){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayLength == 0){setMillis(getChronology().days().add(getMillis(), days)); }
+if(dayCount < 1){setMillis(getChronology().days().add(getMillis(), days)); }
+if(days < +1){setMillis(getChronology().days().add(getMillis(), days)); }

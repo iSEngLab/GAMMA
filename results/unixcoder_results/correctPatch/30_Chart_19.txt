@@ -1,0 +1,1 @@
+if(axis==null){ throw new IllegalArgumentException(); } int result = this.rangeAxes.indexOf(axis);

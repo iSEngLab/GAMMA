@@ -1,0 +1,750 @@
+ };  
+ ;  
+ return;  
+ return true;  
+ return true;;  
+ @param token;  
+;  
+};  
+ return true; };  
+ return false;  
+ --;  
+ return false;;  
+ @return;  
+return;  
+  };  
+ @param token @param stopAtNonOption;  
+ continue;  
+ break;  
+ end;  
+ return false; };  
+ process;  
+ return token;  
+break;  
+ });  
+ else;  
+ returns;  
+ };  
+  return;  
+ process(token);;  
+ } ;  
+ return null;  
+ return;  
+  @param token;  
+ <mask1> };  
+ @param token @return;  
+  return true;  
+ return<mask1> };  
+ stop;  
+ }};  
+ break;  
+ process();  
+ or;  
+ ++;  
+ returns true;  
+ //;  
+ return this;  
+  return true;;  
+ );  
+ }}};  
+;;  
+ },;  
+ });;  
+ return null;;  
+  ;  
+return true;  
+  @return;  
+ }AST#program#Left;  
+  @param token @param stopAtNonOption;  
+ } };  
+ finally;  
+ */;  
+ <mask5> };  
+ process(token); };  
+ /;  
+continue;  
+ TODO;  
+ @deprecated;  
+return false;  
+ )};  
+ ---------------------------;  
+ if (stopAtNonOption) return;  
+ ...;  
+ /////////;  
+ returns false;  
+ } @return;  
+ return;;  
+  };  
+ exit;  
+ @throws ParseException;  
+ method;  
+ return tokens;  
+  return false;  
+ returns null;  
+ }//;  
+ process(token); return;  
+ //////////////;  
+ endif;  
+ @hide;  
+ Return;  
+ @throws IOException;  
+  return token;  
+  break;  
+ // process;  
+  return false;;  
+ return null; };  
+ @return token;  
+ ---;  
+ } //;  
+ Process token;  
+ try;  
+ @Override;  
+  ;  
+  continue;  
+ return<mask5> };  
+ return this;;  
+ } @param token;  
+   };  
+ // TODO;  
+ // };  
+     };  
+ }/;  
+  --;  
+ }  @param token;  
+ continue;  
+ }  @return;  
+ <mask3> };  
+ /////////////////;  
+   };  
+ return token;;  
+ Returns;  
+ true;  
+ }private void process;  
+ return 0;  
+ } */;  
+  return true; };  
+    };  
+ };;  
+ //$NON-NLS-1$;  
+ super;  
+ @param stopAtNonOption;  
+ finish;  
+ //};  
+ Otherwise;  
+	;  
+ loop;  
+ @ignore;  
+ Override;  
+ } };  
+ -;  
+ next;  
+ returns token;  
+ Process;  
+ }));  
+ done;  
+  @param token @return;  
+ return 1;  
+ interrupt;  
+ start;  
+ pass;  
+  process(token);;  
+ ;;  
+ protected void process(String token) { process(token); };  
+ return false;  
+ @throws Exception;  
+ /////////////;  
+ add;  
+ nextToken();  
+ {;  
+ //process;  
+ segments;  
+ token;  
+ Process tokens;  
+ ();  
+ -------------------------------------------------;  
+ @param token @param options;  
+ Return token;  
+ }-;  
+ public void process(String token) { process(token); };  
+ } TODO;  
+ @param token String;  
+  process;  
+ @private;  
+ @param token @throws IOException;  
+ false;  
+ } //;  
+ iterations;  
+ finishToken();  
+ finished;  
+  return null;  
+ ----;  
+ if (currentOption == null) return;  
+ return; };  
+ if (stopAtNonOption) break;  
+ //////////;  
+ @internal;  
+ //TODO;  
+ }}};  
+ @return true;  
+  end;  
+ do something;  
+ @param token @throws ParseException;  
+ return true; };  
+ @access protected;  
+ @return null;  
+ processToken();  
+ return stopAtNonOption;  
+  process();  
+ processToken;  
+ @throws IllegalArgumentException;  
+ finishToken;  
+ else { process(token); };  
+ return false; };  
+ return i;  
+ stopAtNonOption;  
+ } /;  
+ return true; ;  
+  return this;  
+ return token; };  
+ returns true;;  
+ <mask2> };  
+ if (!stopAtNonOption) return;  
+ }protected void process;  
+  return null;;  
+  return false; };  
+ if (stopAtNonOption) { return;  
+ return 0; };  
+ @param token @throws Exception;  
+ @see #process(String);  
+ }  };  
+ return this; };  
+ return 1; };  
+ }  @param token @param stopAtNonOption;  
+ @see #process;  
+ private void process(String token) { process(token); };  
+ }public void process;  
+ @param token @param currentOption;  
+ if (currentOption != null) continue;  
+ if (currentOption != null) break;  
+ if (currentOption == null) continue;  
+ }  @param token @return;  
+ }public void process(String token)     {         if (tokens.isEmpty())             return;  
+ if (currentOption != null) return;  
+ protected void process(String token) { break;  
+ } @param token @param stopAtNonOption;  
+ protected void process(String token) { continue;  
+ @param token String @param stopAtNonOption;  
+ protected void process(String token) { return;  
+ }public void process(String token)     {         if (token == null)             return;  
+ }private void process(String token)     {         if (tokens.isEmpty())             return;  
+ }public void process(String token)     {         if (currentOption == null)             return;  
+ }private void process(String token)     {         if (token == null)             return;  
+ }private void process(String token)     {         if (currentOption == null)             return;  
+ }protected void process(String token)     {         if (tokens.isEmpty())             return;  
+ }public void process(String token)     {         if (stopAtNonOption)             return;  
+ if (currentOption != null) { process(token.substring(i)); };  
+ }protected void process(String token)     {         if (token == null)             return;  
+ }public void process(String token)   {     if (tokens.isEmpty())       return;  
+ }public void process(String token)   {     if (token == null)       return;  
+ }public void process(String token)     {         if (token.startsWith("-"))             return;  
+ }protected void process(String token)     {         if (currentOption == null)             return;  
+; }  
+ ; }  
+ }; }  
+ return; }  
+ @param token; }  
+ return true; }  
+ @return; }  
+ return true;; }  
+return; }  
+ return; }  
+ @param token @param stopAtNonOption; }  
+ --; }  
+ return false; }  
+ {; }  
+  return; }  
+ return false;; }  
+ process; }  
+;; }  
+ continue; }  
+ returns; }  
+ end; }  
+ else; }  
+ break; }  
+  return true; }  
+break; }  
+ process(token);; }  
+ @param token @return; }  
+ break; }  
+  @param token; }  
+  ; }  
+  return true;; }  
+ returns true; }  
+ return token; }  
+ finally; }  
+ ++; }  
+  @return; }  
+  }; }  
+ return this; }  
+ ;; }  
+return true; }  
+ or; }  
+ //; }  
+ {@inheritDoc}; }  
+  continue; }  
+ @deprecated; }  
+ stop; }  
+ continue; }  
+ TODO; }  
+ @throws ParseException; }  
+ return true; }  
+  break; }  
+ */; }  
+ process(); }  
+ return null; }  
+ @throws IOException; }  
+ return false; }  
+ @hide; }  
+ @Override; }  
+  return false; }  
+ /; }  
+continue; }  
+return false; }  
+ @return token; }  
+ ---; }  
+ return true; }; }  
+ process(token); return; }  
+ }); }  
+ try; }  
+  return token; }  
+  --; }  
+  return false;; }  
+ <mask1> break; }  
+ Return; }  
+ returns false; }  
+ method; }  
+ //////////////; }  
+ Process token; }  
+ ---------------------------; }  
+ Returns; }  
+}; }  
+  process(token);; }  
+ ); }  
+ @ignore; }  
+ Process; }  
+  ; }  
+ @param stopAtNonOption; }  
+ @throws Exception; }  
+ add; }  
+ <mask1> continue; }  
+ returns null; }  
+ --; }  
+ -; }  
+ /////////; }  
+ if (stopAtNonOption) { break; }  
+synchronized; }  
+ else; }  
+ { break; }  
+  @param token @return; }  
+ Override; }  
+  return this; }  
+ exit; }  
+ /////////////////; }  
+ ...; }  
+ start; }  
+ if (stopAtNonOption) { return; }  
+ @private; }  
+ return null;; }  
+ //$NON-NLS-1$; }  
+ /*; }  
+ });; }  
+--; }  
+  process; }  
+else; }  
+ @param token String; }  
+ @return true; }  
+++; }  
+ Process tokens; }  
+ {@inheritDoc; }  
+ interrupt; }  
+ ;; }  
+ // TODO; }  
+ return true;; }  
+	; }  
+ return false; }; }  
+ @internal; }  
+ @param token @throws IOException; }  
+ }}; }  
+ return tokens; }  
+ (); }  
+ } ; }  
+ { }; }  
+ @param token @param options; }  
+/; }  
+  return null; }  
+ // process; }  
+ -------------------------------------------------; }  
+ },; }  
+ @access protected; }  
+ *; }  
+ /////////////; }  
+   return; }  
+ loop; }  
+ returns token; }  
+ return true; ; }  
+ @throws IllegalArgumentException; }  
+ token; }  
+ implementation; }  
+    ; }  
+ return false;; }  
+ true; }  
+ @return null; }  
+ iterations; }  
+ Otherwise; }  
+ return this;; }  
+ }}}; }  
+ finish; }  
+ and; }  
+ @param token @throws ParseException; }  
+void process; }  
+  return; }  
+  process(); }  
+ {}; }  
+ ----; }  
+ Return token; }  
+ nextToken(); }  
+ segments; }  
+ @generated; }  
+  end; }  
+ { }; }  
+ //////////; }  
+ return;; }  
+ returns true;; }  
+ //process; }  
+  {; }  
+ @param tokens; }  
+ return 0; }  
+ @see #process(String); }  
+ @api; }  
+ return 1; }  
+ { continue; }  
+ { return true; }; }  
+ ///////////; }  
+ @return Token; }  
+ { process(token); return; }  
+ //TODO; }  
+  returns; }  
+ @param token @throws Exception; }  
+ <mask1> if (currentOption != null) break; }  
+ @return tokens; }  
+  @throws ParseException; }  
+ else { process(token); break; }  
+ return false; ; }  
+ <mask1> }; }  
+ { process(token); }; }  
+  stop; }  
+ { process(token); break; }  
+ Process the token; }  
+ @return this; }  
+ @see #process; }  
+ @throws OptionParserException; }  
+  @throws IOException; }  
+  return null;; }  
+ finishToken(); }  
+ @param token @param currentOption; }  
+  return tokens; }  
+ <mask1> return; }  
+ process(token); ; }  
+  @return token; }  
+  return true; }; }  
+ Process the next token; }  
+ burstToken(token);; }  
+ Process a token; }  
+ @return String; }  
+ @throws OptionException; }  
+ @param options; }  
+ @param option; }  
+  return this;; }  
+ @param token token; }  
+ process(token); break; }  
+ } @return; }  
+ if (!stopAtNonOption) { break; }  
+ @see #burstToken; }  
+ return<mask1> ; }  
+ finally {; }  
+ tokens.add(token);; }  
+ burstToken(token, true);; }  
+ if (stopAtNonOption) return; }  
+ this.process(token);; }  
+ if (currentOption != null) { break; }  
+ @see #burstToken(String); }  
+ stopAtNonOption; }  
+ }  @return; }  
+ @SuppressWarnings("unchecked"); }  
+ return<mask1> return; }  
+  @param stopAtNonOption; }  
+ @since 1.0; }  
+ burstToken(token, false);; }  
+ { return false; }; }  
+ }  @param token; }  
+ else { process(token);; }  
+ protected void process(String token) {; }  
+void process(String token) { return; }  
+ else { process(token); }; }  
+  @param token @throws IOException; }  
+ public void process(String token) {; }  
+ @param token @throws IllegalArgumentException; }  
+ private void process(String token) {; }  
+  @param token @param options; }  
+ if (currentOption == null) return; }  
+ @see #burstToken(String, boolean); }  
+return  false; }  
+return  true; }  
+return ;; }  
+return  null; }  
+return  ;; }  
+return ; ; }  
+return  0; }  
+return false; }  
+return  1; }  
+return  false;; }  
+return ; }; }  
+return ; }  
+return  true;; }  
+return true; }  
+return  continue; }  
+return  break; }  
+return ; return; }  
+return ; }; }  
+return  this; }  
+return  ; }  
+return  ; }  
+return  --; }  
+return  FALSE; }  
+return  -1; }  
+return  token; }  
+return  TRUE; }  
+return  process; }  
+return  count; }  
+return  false; ; }  
+return  loop; }  
+return  i; }  
+return ;}; }  
+return  true; ; }  
+return  false; }; }  
+return  2; }  
+return 1; }  
+return  end; }  
+return  ++; }  
+return  self; }  
+return 0; }  
+return  super; }  
+return ; return; }  
+return  True; }  
+return }; }  
+return  tokens; }  
+return  true ; }  
+return ;}; }  
+return  }; }  
+return  ++i; }  
+return  ; ; }  
+return ; return true; }  
+return   }; }  
+return ; process; }  
+return  value; }  
+return  immediately; }  
+return  void process; }  
+return  now; }  
+return  true; }; }  
+return   break; }  
+return  false; break; }  
+return !; }  
+return  false ; }  
+return   ; }  
+return  False; }  
+return   continue; }  
+return ; return false; }  
+return  exit; }  
+return  ;); }  
+return  next; }  
+return .; }  
+return  length; }  
+return  return true; }  
+return  stop; }  
+return ; end; }  
+return  it; }  
+return ; break; }  
+return  return false; }  
+return ; break; }  
+return  line; }  
+return  -; }  
+return  Boolean; }  
+return  EXIT; }  
+return  go; }  
+return  false ; }  
+return  false<mask5> false; }  
+return null; }  
+return  return; }  
+return  nextToken; }  
+return CONTINUE; }  
+return AST#assignment_expression#Right; }  
+return  null;; }  
+return  ++count; }  
+return ;  ; }  
+return 	; }  
+return   return; }  
+return ; ); }  
+return  3; }  
+return ; exit; }  
+return  1); }  
+return ; process; }  
+return  time; }  
+return  exitCode; }  
+return  t; }  
+return ;); }  
+return :; }  
+return ; }); }  
+return  finally; }  
+return );; }  
+return  ; }; }  
+return -1; }  
+return --; }  
+return ; // stop; }  
+return ; }); }  
+return 2; }  
+return  while; }  
+return ; continue; }  
+return []; }  
+return  true ; }  
+return   false; }  
+return  latch; }  
+return  counter; }  
+return  0;; }  
+return  path; }  
+return ++; }  
+return  --continue; }  
+return  itself; }  
+return  true  ; }  
+return  too; }  
+return  false<mask5> true; }  
+return ,; }  
+return  &&; }  
+return  = false; }  
+return  void process(); }  
+return     ; }  
+return  = true; }  
+return  method; }  
+return  else; }  
+return ; ;; }  
+return  directly; }  
+return  right; }  
+return  p; }  
+return ; end; }  
+return  Long; }  
+return  once; }  
+return  x; }  
+return ;return; }  
+return   return true; }  
+return  false; continue; }  
+return  nil; }  
+return  DONE; }  
+return  boolean; }  
+return ;//; }  
+return  ""; }  
+return ();; }  
+return  again; }  
+return  ; return; }  
+return  option; }  
+return  cancel; }  
+return  undefined; }  
+return ;*/; }  
+return ; } ; }  
+return BREAK; }  
+return ;//; }  
+return ;}}; }  
+return  not; }  
+return  true; break; }  
+return  increment; }  
+return  count ++; }  
+return FALSE; }  
+return  always; }  
+return ; continue; }  
+return  options; }  
+return True; }  
+return ;;; }  
+return  limit; }  
+return Token; }  
+return  error; }  
+return  me; }  
+return Tokens; }  
+return  ++ i; }  
+return  step; }  
+return  success; }  
+return  action; }  
+return  start; }  
+return  currentOption; }  
+return ; //; }  
+return  silently; }  
+return  STOP; }  
+return  progress; }  
+return  quit; }  
+return ; --; }  
+return  NULL; }  
+return AST#ternary_expression#Right; }  
+return  null; ; }  
+return ; },; }  
+return   return false; }  
+return  here; }  
+return ; //; }  
+return  ACTION; }  
+return  X; }  
+return  +1; }  
+return ;s; }  
+return ; else; }  
+return ; exit; }  
+return  !stopped; }  
+return  process(); }  
+return  ;}; }  
+return  1;; }  
+return ; else; }  
+return  1) break; }  
+return  false  ; }  
+return true;; }  
+return false;; }  
+return  false ;; }  
+return ;  }; }  
+return ;   }; }  
+return  0; ; }  
+return ; --; }  
+return ; // TODO; }  
+return  return true; }  
+return  return; }  
+return ; stop; }  
+return ;return true; }  
+return ; },; }  
+return ; i; }  
+return ;/*; }  
+return  balanced; }  
+return    return; }  
+return  1.; }  
+return  ; }; }  
+return ; return null; }  
+return  from this method; }  
+return ; /*; }  
+return ; ); }  
+return  false<mask1> false; }  
+return  return false; }  
+return ;  ; }  
+return  true, false; }  
+return ; // ignore; }  
+return  true;  ; }  
+return  boolean stop; }  
+return  false;  ; }  
+return ; // process; }  
+return  false<mask1> true; }  
+return  false, false; }  
+return  endOfInput; }  
+return ; // end; }  
+return ; this; }  
+return ;  }; }  
+return ; /* }; }  

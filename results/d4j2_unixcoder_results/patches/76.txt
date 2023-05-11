@@ -1,0 +1,1500 @@
+ return text;  
+ return sb;  
+ return sb;  
+ return null;  
+ return text;  
+ return;  
+return sb;  
+ };  
+ break;  
+ return sb;;  
+ continue;  
+ return sb;;  
+ return null;  
+ break;  
+ return;  
+  return sb;  
+return text;  
+ ;  
+   return sb;  
+ return text;;  
+ return this;  
+return;  
+ return "";  
+  return text;  
+ return buf;  
+ //return sb;  
+ exit;  
+ return defaultNewLine;  
+    return sb;  
+ return null;;  
+ end;  
+break;  
+     return sb;  
+ throw new IllegalStateException;  
+ return "";;  
+ return false;  
+ return buffer;  
+ return text;  
+ 	return sb;  
+return null;  
+ return sb;  
+  return sb;  
+  return text;  
+         return sb;  
+ //return text;  
+ returnsb;  
+ return b;  
+ //return sb;  
+ sb;  
+ continue;  
+ return string;  
+  return text;  
+       return sb;  
+ return s;  
+	return sb;  
+ do nothing;  
+ returns;  
+ return super;  
+ return new StringBuffer;  
+      return sb;  
+return sb;;  
+     return sb;  
+ return sb; };  
+ returns text;  
+ // return sb;  
+   return text;  
+ throw new IllegalStateException;  
+    break;  
+ --;  
+ return true;  
+ ...;  
+AST#break_statement#Leftbreak;  
+ return html;  
+     return sb;  
+ return this;  
+ return sb;  
+ return '';  
+ AST#break_statement#Leftbreak;  
+ done;  
+ AST#return_statement#Leftreturn sb;  
+ return data;  
+;  
+ return 0;  
+ return pb;  
+ return msg;  
+ return buf;  
+ {;  
+ returns null;  
+ return empty;  
+ return content;  
+         return sb;  
+ ..;  
+ 	return text;  
+ return indent;  
+ return text;  
+ // return sb;  
+ return null;;  
+ return sb; ;  
+  return null;  
+ return<mask1> return sb;  
+ return "";  
+ return false;  
+; return sb;  
+ return  text;  
+ return "";;  
+                 return sb;  
+ return ws;  
+ returntext;  
+ return str;  
+ //return text;  
+ return nil;  
+  	return sb;  
+ returnsb;  
+ return sb;  
+ return defaultValue;  
+ return tb;  
+ return line;  
+  return sb;  
+continue;  
+ pass;  
+          return sb;  
+    return sb;  
+         return sb;  
+ return bb;  
+ return buffer;  
+  return;  
+ TODO;  
+ return text;;  
+ return '';;  
+ returns sb;  
+                  return sb;  
+ start;  
+   return sb;  
+ return pad;  
+ return sb ;;  
+                 return sb;  
+ separator;  
+ return nothing;  
+    return text;  
+AST#return_statement#Leftreturn sb;  
+ AST#continue_statement#Leftcontinue;  
+ throw new IllegalStateException();;  
+     return text;  
+        return sb;  
+          return sb;  
+      return sb;  
+ null;  
+ return $text;  
+                return sb;  
+            return sb;  
+ //continue;  
+ return EMPTY;  
+ return mb;  
+ return end;  
+ /*package;  
+ AST#return_statement#Leftreturn text;  
+ return config;  
+ @return;  
+ return fb;  
+   	return sb;  
+ return;;  
+ Return;  
+ loop;  
+ return String;  
+ return br;  
+ return txt;  
+ return<mask5> ;  
+ return box;  
+ return tail;  
+ return $;  
+ return text<mask5>;  
+         return text;  
+ ++;  
+ 0;  
+ return -1;  
+ back;  
+   return null;  
+ exit;  
+  break;  
+ broken;  
+  return;  
+ //continue;  
+ finish;  
+ //return;  
+ return sep;  
+ RETURN;  
+             return sb;  
+ return name;  
+ return plainText;  
+ return plain text;  
+ eof;  
+   return text;  
+ return body;  
+ return width;  
+ return str;;  
+ return b;  
+           return sb;  
+        return sb;  
+ proceed;  
+ //return null;  
+ abort;  
+ return obj;  
+ return new StringBuffer;  
+ returnText;  
+             return sb;  
+ //    break;  
+ return cb;  
+ // return text;  
+  return null;  
+     return text;  
+	 	return sb;  
+ return s;;  
+ return layout;  
+ return padText;  
+;;  
+ return blank;  
+ return new StringBuilder;  
+ throw new IllegalStateException();  
+ do something;  
+};  
+ goto end;  
+ return span;  
+  ;  
+...;  
+ return<mask5>;  
+ continued;  
+ return the text;  
+ return buf;;  
+ return context;  
+ return indentText;  
+ return log;  
+ return newLine;  
+ return return sb;  
+ return rb;  
+ 	return null;  
+throw new IllegalStateException;  
+ return text ;  
+..;  
+ return emptyStringBuffer;  
+ return  sb;  
+ return textView;  
+ return StringUtil;  
+ Return text;  
+ return<mask5> ;  
+ 	return;  
+ return ""; ;  
+       return text;  
+   return sb;  
+ return<mask5> };  
+ };  
+ return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ }; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw new IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //TODO; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //TODO; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw new IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //continue; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5>}; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5>return; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //continue; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ throw new IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // throw new IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ...; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // TODO; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ TODO; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ exit; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throws IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ++width; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //code; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ code; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return defaultNewLine; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //exception; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//continue; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+    ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+  }; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //exception; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throws IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ --; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //done; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//TODO; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5>//; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//throw new IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+   return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // done; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ..; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return text<mask5>;; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //NOSONAR; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ continue; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //    return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+     return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ }; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ end; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return this; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //    return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ break; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask3>; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // continue; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+code; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ++; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5> ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //System.out; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //done; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ sb = null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ @throws IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //break; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ done; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ 	; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ internal; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask6> ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // ok; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+   return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //Error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+     return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+return; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //    return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //failed; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //break; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //err; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ int pos; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+  return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //do nothing; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // NOPMD; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ /*package; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+..; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // return; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+// return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask2> return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+		; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw new IllegalStateException(); throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //System.out; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return null;; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ break; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //echo; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // }; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //code; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5>/*; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+     ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //exit; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //Error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+  ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ throws IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // failed; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //todo; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //panic; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+     return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+...; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ 		; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return ""; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // NOSONAR; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ); throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5>int; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //illegal; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+// return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ++nextLineTabStop; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //@Override; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ import; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //System.err; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //problem; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //System.err; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // todo; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+}; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ throw new IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ returns null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ 1; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //err; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //...; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // exception; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ super; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //noinspection unchecked; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+  return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //========================================================================; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //panic; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //debug; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //import; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // throw new IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ string; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ s; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //todo; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //non-Javadoc; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ try; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask2> return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //exit; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ System.out; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //@Override; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ 	; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5>; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+  ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // throws IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ e.g; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // TODO; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //NOPMD; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //debug; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ ++pos; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ eof; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // do nothing; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // Error; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // panic; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ 	return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // continue; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //RETURN; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+             return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //failed; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //     return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return this; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return defaultNewLine; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ assert true; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return text<mask5>; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+     return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //        return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //     return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //...; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //do nothing; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ System.err; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ 		return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //        return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //     return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //try; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //  return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ int pos = 0; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+         return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask1> return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //noinspection ConstantConditions; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //  return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // break up; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //bad; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //                return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //  return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //                return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ 	return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return text<mask5> ; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //        return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //print; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //                return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //            return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //      return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ // throw new IllegalStateException(); throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw exception; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //noinspection unchecked; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask4> return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ text = null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask1> }; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ throw new IllegalStateException(); throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw IllegalStateException; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ return text<mask5>}; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+     return text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+  return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //throw this; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //            return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+//System.out; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+             return null; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //Throw; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //      return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //          return sb; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ String text = text; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ //return ""; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+     ++width; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+ <mask5>final; throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text);  
+throw new IllegalStateException(this);  
+throw new IllegalStateException(width);  
+throw new IllegalStateException(EOL);  
+throw new IllegalStateException(null);  
+throw new IllegalStateException(message);  
+throw new IllegalStateException("");  
+throw new IllegalStateException(title);  
+throw new IllegalStateException(errorMessage);  
+throw new IllegalStateException(0);  
+throw new IllegalStateException(text + defaultNewLine);  
+throw new IllegalStateException(msg);  
+throw new IllegalStateException(defaultNewLine);  
+throw new IllegalStateException(false);  
+throw new IllegalStateException(description);  
+throw new IllegalStateException(BAD_WIDTH);  
+throw new IllegalStateException(NO_SPACES);  
+throw new IllegalStateException(text<mask3>text);  
+throw new IllegalStateException(indentError);  
+throw new IllegalStateException(text<mask5>});  
+throw new IllegalStateException(DISABLED);  
+throw new IllegalStateException(separator);  
+throw new IllegalStateException(cw);  
+throw new IllegalStateException(ERROR);  
+throw new IllegalStateException(text<mask5>;);  
+throw new IllegalStateException(indentation);  
+throw new IllegalStateException(i18n);  
+throw new IllegalStateException(HORIZONTAL);  
+throw new IllegalStateException(maxLength);  
+throw new IllegalStateException(1);  
+throw new IllegalStateException(true);  
+throw new IllegalStateException(indentString);  
+throw new IllegalStateException(arguments);  
+throw new IllegalStateException(text<mask5> });  
+throw new IllegalStateException(nextLineTabStop);  
+throw new IllegalStateException(text<mask1>text);  
+throw new IllegalStateException(width - nextLineTabStop);  
+throw new IllegalStateException( text);  
+throw new IllegalStateException("" + width);  
+throw new IllegalStateException(err);  
+throw new IllegalStateException(TEXT_TOO_LONG);  
+throw new IllegalStateException(maxWidth);  
+throw new IllegalStateException(name);  
+throw new IllegalStateException(MSG);  
+throw new IllegalStateException(indentText);  
+throw new IllegalStateException(WTF);  
+throw new IllegalStateException(""+width);  
+throw new IllegalStateException(indent);  
+throw new IllegalStateException(String.format);  
+throw new IllegalStateException(text<mask5>return sb;);  
+throw new IllegalStateException(format);  
+throw new IllegalStateException(error);  
+throw new IllegalStateException(Message);  
+throw new IllegalStateException(TEXT_TOO_SHORT);  
+throw new IllegalStateException(2);  
+throw new IllegalStateException(text<mask5>););  
+throw new IllegalStateException(stacktrace);  
+throw new IllegalStateException(ellipsis);  
+throw new IllegalStateException(null<mask1>null);  
+throw new IllegalStateException(error message);  
+throw new IllegalStateException(indentMessage);  
+throw new IllegalStateException(text<mask5>);  
+throw new IllegalStateException(maxLineLength);  
+throw new IllegalStateException(size);  
+throw new IllegalStateException(sep);  
+throw new IllegalStateException(indentationError);  
+throw new IllegalStateException(4);  
+throw new IllegalStateException(usage);  
+throw new IllegalStateException(line);  
+throw new IllegalStateException(context);  
+throw new IllegalStateException(messages);  
+throw new IllegalStateException(args);  
+throw new IllegalStateException(state);  
+throw new IllegalStateException(text<mask5>text);  
+throw new IllegalStateException(introduced);  
+throw new IllegalStateException(text == null);  
+throw new IllegalStateException(lineNumber);  
+throw new IllegalStateException(MESSAGE);  
+throw new IllegalStateException(config);  
+throw new IllegalStateException(width, nextLineTabStop);  
+throw new IllegalStateException(INDENT);  
+throw new IllegalStateException(text<mask5> @return);  
+throw new IllegalStateException(NULL);  
+throw new IllegalStateException(indentStr);  
+throw new IllegalStateException(padding);  
+throw new IllegalStateException(s);  
+throw new IllegalStateException(text<mask5> );  
+throw new IllegalStateException(str);  
+throw new IllegalStateException(text<mask5> @param sb @param width);  
+throw new IllegalStateException(IllegalArgumentException);  
+throw new IllegalStateException(t);  
+throw new IllegalStateException(errorText);  
+throw new IllegalStateException(text<mask1>text<mask2>text);  
+throw new IllegalStateException(text.length() > width);  
+throw new IllegalStateException(direction);  
+throw new IllegalStateException(text<mask5> );  
+throw new IllegalStateException(text, width);  
+throw new IllegalStateException(w);  
+throw new IllegalStateException(Messages);  
+throw new IllegalStateException(stackTrace);  
+throw new IllegalStateException(Error);  
+throw new IllegalStateException(TEXT_TOO_BIG);  
+throw new IllegalStateException(defaultValue);  
+throw new IllegalStateException(indentationMessage);  
+throw new IllegalStateException(nextLineTabStop + 1);  
+throw new IllegalStateException(NO_MORE_TABS);  
+throw new IllegalStateException(indentExceeded);  
+throw new IllegalStateException(40);  
+throw new IllegalStateException(requiredWidth);  
+throw new IllegalStateException(null text);  
+throw new IllegalStateException(totalWidth);  
+throw new IllegalStateException(NO_SPACE);  
+throw new IllegalStateException(indentationString);  
+throw new IllegalStateException(text<mask5>.);  
+throw new IllegalStateException(reason);  
+throw new IllegalStateException(ERR);  
+throw new IllegalStateException(eof);  
+throw new IllegalStateException(indent<mask5>;);  
+throw new IllegalStateException(pos);  
+throw new IllegalStateException(eol);  
+throw new IllegalStateException(text<mask5>return text;);  
+throw new IllegalStateException(String);  
+throw new IllegalStateException(10);  
+throw new IllegalStateException(style);  
+throw new IllegalStateException(tag);  
+throw new IllegalStateException(INDENTATION);  
+throw new IllegalStateException(TEXT);  
+throw new IllegalStateException(WRONG_WIDTH);  
+throw new IllegalStateException(text<mask5>+defaultNewLine);  
+throw new IllegalStateException(text<mask5>  @return);  
+throw new IllegalStateException(firstLine);  
+throw new IllegalStateException(width + 1);  
+throw new IllegalStateException(errors);  
+throw new IllegalStateException(rightPad);  
+throw new IllegalStateException(text<mask5> return sb;);  
+throw new IllegalStateException(text<mask5>return sb);  
+throw new IllegalStateException(code);  
+throw new IllegalStateException(this.toString() + defaultNewLine);  
+throw new IllegalStateException(DEFAULT_EOL);  
+throw new IllegalStateException(done);  
+throw new IllegalStateException(type);  
+throw new IllegalStateException(EMPTY);  
+throw new IllegalStateException(value);  
+throw new IllegalStateException(p);  
+throw new IllegalStateException(lineWidth);  
+throw new IllegalStateException(caller);  
+throw new IllegalStateException(toString() + defaultNewLine);  
+throw new IllegalStateException(text<mask5>null);  
+throw new IllegalStateException(this<mask1>this);  
+throw new IllegalStateException(width - 1);  
+throw new IllegalStateException(null<mask3>text);  
+throw new IllegalStateException(8);  
+throw new IllegalStateException(maxWidth);  
+throw new IllegalStateException(errorMessage);  
+throw new IllegalStateException(header);  
+throw new IllegalStateException(widths);  
+throw new IllegalStateException(e);  
+throw new IllegalStateException(errorMsg);  
+throw new IllegalStateException(""+text);  
+throw new IllegalStateException(this.description);  
+throw new IllegalStateException(INVALID_WIDTH);  
+throw new IllegalStateException(text<mask5> return text;);  
+throw new IllegalStateException(wrong width);  
+throw new IllegalStateException(Exception);  
+throw new IllegalStateException(NO_MORE_SPACES);  
+throw new IllegalStateException(white space);  
+throw new IllegalStateException(currentLineTabStop);  
+throw new IllegalStateException(end);  
+throw new IllegalStateException(3);  
+throw new IllegalStateException(INCORRECT_WIDTH);  
+throw new IllegalStateException(pattern);  
+throw new IllegalStateException(TEXT_TOO_WIDE);  
+throw new IllegalStateException(NL);  
+throw new IllegalStateException(stack);  
+throw new IllegalStateException(text<mask5>));  
+throw new IllegalStateException(6);  
+throw new IllegalStateException(WARNING);  
+throw new IllegalStateException(label);  
+throw new IllegalStateException(width<mask5>;);  
+throw new IllegalStateException(indent<mask5>});  
+throw new IllegalStateException(right);  
+throw new IllegalStateException(width+1);  
+throw new IllegalStateException(sentence);  
+throw new IllegalStateException(locale);  
+throw new IllegalStateException(width<mask1>width);  
+throw new IllegalStateException(method);  
+throw new IllegalStateException(text<mask5>"");  
+throw new IllegalStateException(ws);  
+throw new IllegalStateException(log);  
+throw new IllegalStateException(width + 2);  
+throw new IllegalStateException(text+defaultNewLine);  
+throw new IllegalStateException(null<mask1>text);  
+throw new IllegalStateException(width<mask5>});  
+throw new IllegalStateException(Text too long);  
+throw new IllegalStateException(width == 0);  
+throw new IllegalStateException(width<mask5> });  
+throw new IllegalStateException(EMPTY_STRING);  
+throw new IllegalStateException(indent<mask5>text);  
+throw new IllegalStateException(maxLengthExceeded);  
+throw new IllegalStateException(displayError);  
+throw new IllegalStateException(indent+1);  
+throw new IllegalStateException(EOL + EOL);  
+throw new IllegalStateException(new IllegalStateException);  
+throw new IllegalStateException(nextLineTabStop >= width);  
+throw new IllegalStateException(text<mask5> ;);  
+throw new IllegalStateException(text<mask5> + defaultNewLine);  
+throw new IllegalStateException(text<mask5>break);  
+throw new IllegalStateException(""+ width);  
+throw new IllegalStateException(text<mask5>  });  
+throw new IllegalStateException(indent + text);  
+throw new IllegalStateException(width > 0);  
+throw new IllegalStateException(indentWidth);  
+throw new IllegalStateException(indent + text + defaultNewLine);  
+throw new IllegalStateException(width<mask1>text);  
+throw new IllegalStateException(invalid width);  
+throw new IllegalStateException(indentation<mask1>indentation);  
+throw new IllegalStateException(indent<mask3>indent);  
+throw new IllegalStateException(indent<mask5> });  
+throw new IllegalStateException(DEFAULT_INDENT);  
+throw new IllegalStateException(text<mask5> ););  
+throw new IllegalStateException(HORIZONTAL_RULE);  
+throw new IllegalStateException(text<mask5>");  
+throw new IllegalStateException(MAX_WIDTH);  
+throw new IllegalStateException(CAPTION);  
+throw new IllegalStateException(text<mask5> {@inheritDoc});  
+throw new IllegalStateException(null, null);  
+throw new IllegalStateException(text<mask5>);});  
+throw new IllegalStateException(text<mask5>return);  
+throw new IllegalStateException(System.err);  
+throw new IllegalStateException(indent<mask5>););  
+throw new IllegalStateException(maximum width);  
+throw new IllegalStateException(text.length() - width);  
+throw new IllegalStateException(NO_SPACE_CHAR);  
+throw new IllegalStateException(no space needed);  
+throw new IllegalStateException(expectedWidth);  
+throw new IllegalStateException(HORIZONTAL_PADDING);  
+throw new IllegalStateException(UNKNOWN_WIDTH);  
+throw new IllegalStateException(width + " exceeded"););  
+throw new IllegalStateException(indent + width);  
+throw new IllegalStateException(nextLineTabStop > width);  
+throw new IllegalStateException(String.class);  
+throw new IllegalStateException(text.toString() + defaultNewLine);  
+throw new IllegalStateException(required width);  
+throw new IllegalStateException(this<mask3>text);  
+throw new IllegalStateException(nextLineTabStop + width);  
+throw new IllegalStateException(this.message);  
+throw new IllegalStateException(EMPTY_TEXT);  
+throw new IllegalStateException(text<mask5>toString(););  
+throw new IllegalStateException(text<mask5> @param text @return);  
+throw new IllegalStateException(text<mask5> @hide);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",true);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", true);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",null);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", this);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",false);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", null);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", false);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", width);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",text);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", text);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 0);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",0);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",width);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",sb);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",nextLineTabStop);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",new IllegalStateException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", indent);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",indent);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", sb);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description","");  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", nextLineTabStop);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", new IllegalStateException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",arguments);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",message);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",1);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", message);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",i);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",line);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 1);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",msg);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", i);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",indentation);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",separator);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",lineNumber);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", tc);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", this method);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", lineNumber);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", pos);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",error);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", arguments);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",caller);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", msg);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",stack);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 2);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",w);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", text);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this method);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", ""););  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",e);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",2);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",state);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",args);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", line);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", "");  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", type);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",cw);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",EOL);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",errorMessage);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", error);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", IllegalArgumentException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", EOL);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",pos);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",code);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 4);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",newLine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",maxLength);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",length);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",lineno);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", w);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", null;);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",context);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", );  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", separator);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",t);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", -1);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",x);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",arity);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", signature);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", exception);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", true);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", null text);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",arg);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 3);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",config);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",defaultValue);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",usage);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",defaultNewLine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", nullText);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",ctx);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",exitCode);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",end);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", t);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", end);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",size);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",ex);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", ());  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", ctx);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", s);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", size);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",  false);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", throwable);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", sep);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", this);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",display);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",value);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",ws);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", indentation);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",name);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",indentWidth);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",undefined);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",description);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", true;);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", length);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",right);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",maxWidth);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", defaultNewLine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",int width);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",firstLine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",title);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", title);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", config);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", stack);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", lineno);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", errorMessage);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",  null);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", args);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", code);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", eol);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",4);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", state);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", name);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",ch);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",  true);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", description);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", });  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", position);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 8);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",3);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", err);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",type);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",ts);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", x);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", IllegalStateException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", caller);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", bug);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",startLine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",thisMethod);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",firstLineTabStop);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",s);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",tc);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this.indent);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", sb);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", errorMsg);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",depth);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",new IllegalArgumentException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",a);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", argument);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",toString());  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", indentWidth);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",10);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", _indent);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",true;);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",buffer);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", m);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",errorMsg);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",nextToken);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 0;);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", newLine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", false);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",stackTrace);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", indent);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", value);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", thisMethod);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",header);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", null, null);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", true););  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", editor);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",string);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", "}");  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", errors);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",action);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",true););  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", string);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",err);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", method);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", IndexOutOfBoundsException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",separators);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",position);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", arg);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",exception);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",input);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",currentIndex);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",engine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",7);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", log);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",id);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", defaultValue);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",tabId);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",expression);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",index);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",throw new IllegalStateException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", context);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", width);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",statement);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", tail);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",count);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",cb);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", - 1);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",editor);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", EMPTY);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",workspace);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",null;);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",numberOfSpaces);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this );  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", new IllegalArgumentException);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",currentLineTabStop);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", separator);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", nullCheck);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", true, true);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",int width;);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", currLine);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", toString());  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",  });  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", nullSafe);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", int width);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this.text);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", 0, 0);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", currLineTabStop);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",int indentWidth);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this.indentation);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",true, true);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",new IllegalStateException());  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", true, false);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this.width);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",int indent);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",true, null);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", this.indent);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", int width;);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this, text);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", false, null);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",false, false);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", true, null);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", this method);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", false, false);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",this, width);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description", "\n");  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",false, true);  
+throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description",true, false);  
+throw new IllegalStateException(this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(null,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(sb,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException("","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(0,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(msg,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(false,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(message,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(true,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(title,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(1,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>"","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(Messages,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(4,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(EOL,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TAG,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(MSG,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(2,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>"","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(cw,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(errorMessage,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(i18n,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(toString(),"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(tc,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(name,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(messages,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(defaultValue,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(description,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(3,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(String.format,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>null,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(locale,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(""+width,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(log,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indent<mask5>indent,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>null,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(10,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(LOGGER,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(reason,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(pos,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(5,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(6,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(width,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(state,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(tag,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(arguments,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(HORIZONTAL,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(config,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(8,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(7,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(className,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(BAD_WIDTH,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(LOG,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(MESSAGE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(defaultNewLine,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(context,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>false,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(format,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT<mask5>TEXT,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ERROR,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(DISABLED,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(null<mask5>null,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(this<mask5>this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(methodName,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indentString,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(640,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(MessageFormat,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(NL,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>0,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(code,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(fmt,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(caller,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(err,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>sb,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>0,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indentText,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(NULL,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(value,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(id,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(separator,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>true,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(40,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(400,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException("" + width,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(s,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(label,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(sb<mask5>sb,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(WARNING,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(lineNumber,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(cause,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(args,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(usage,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT<mask5>"","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(type,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indent,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(caption,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(position,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(nbsp,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(x,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(method,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(t,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(str,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(INDENTATION,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(sep,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ASSERT_FAILED,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>message,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(appName,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ERR,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(fileName,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(50,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(line,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(formatString,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(INDENT,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(cb,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indentError,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(errorMsg,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indentation,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( ,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(prefix,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(p,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT<mask5>text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>false,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(MESSAGES,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ASSERT_STATE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(DEBUG,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(pos<mask5>pos,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indentation<mask5>indentation,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(stackTrace,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(errmsg,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(78,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( "","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(12,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(1004,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(20,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(nls,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(desc,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5> ,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(propertyName,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(DEFAULT_MESSAGE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(SB,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(encoding,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(Message,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( title,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(clazz,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>1,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(errMsg,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(StringUtils,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(class,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(RB,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(buffer,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(NLS,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(errors,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>1,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(fieldName,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ASSERT<mask5>ASSERT,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT<mask5>MESSAGE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indent<mask5>text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(bp,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask1>text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(report,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(MessageUtils,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(html,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(sb<mask5>text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(e,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( sb,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(new IllegalStateException,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(nextLineTabStop,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(lang,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(lines,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(1000,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( message,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(100,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(HORIZONTAL_RULE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( "","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(txt,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(statusText,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(key,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ctx,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(u,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(pageContext,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(String.class,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>true,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(StringUtil,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indentMessage,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(this ,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(titleText,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(bundle,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(EMPTY,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(format<mask5>format,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(style,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(sc,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(stacktrace,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(status,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(500,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(action,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(Exception,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(width<mask5>"","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(path,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(CODE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indentStr,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT<mask5>null,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(""+this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( true,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(errorText,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(tagName,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(nls,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(display,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>TEXT,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(options,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ASSERT_ERROR,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( errorMessage,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(e<mask5>e,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT_WIDTH,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>title,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>TEXT,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>msg,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>description,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(""+text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text, width,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ERROR_MESSAGE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(sb<mask5>"","Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>2,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(titleTitle,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>sb,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TextUtils,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(indent<mask5>this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(t<mask5>t,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(lang.IllegalStateException,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>toString,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(text<mask5>message,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(""+ width,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(pos + 1,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(sb<mask5>this,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>EOL,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException( <mask5>String,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(width<mask5>text,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT_OVERFLOW,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(this.description,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(TEXT_MISMATCH,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+throw new IllegalStateException(ASSERT_MESSAGE,"Total width is less than the width of the argument and indent " +  "- no room for the description");  
+if(debug){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(DEBUG){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(verbose){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(text == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(debugMode){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width <= 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width==0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(strict){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos == width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(false){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(disabled){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(text==null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(sb==null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(text != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop >= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayError){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 2){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(sb == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentRequired){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(true){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width<=0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < indentWidth){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(debug<mask5>debug){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width != 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop == width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < indent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(done){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos == -1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(collapsed){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 4){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent>0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < nextLineTabStop){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( width == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(debugEnabled){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(isEmpty()){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent == -1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop < 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(enabled){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(noWrap){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos < 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( text == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(closed){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width > 1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(noIndent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop <= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(showSpaces){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent >= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position == -1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(length == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( pos < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(text!=null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(log.isDebugEnabled()){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(defaultNewLine != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayWrappedText){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayIndent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(length() < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(length() == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(padding==null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 8){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width>0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(closed<mask5>closed){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(optional){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(null==sb){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(sb != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent==null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(firstLineVisible){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent <= 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentError){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(length() > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( nextLineTabStop < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent==0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos==width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos >= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentLeft){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(padding == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 10){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(sb!=null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width > 2){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent!=null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(null == sb){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(text.isEmpty()){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(text.length()==0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(renderer == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos==-1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(multiline){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(padding != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width <= 2){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width == 1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(verbose<mask5>verbose){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(separators){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( pos == width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( indent > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent > 1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(depth > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width <= 1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(showWrappedText){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(eof){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( width <= 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(len(text)==0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(content == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos == width-1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width == -1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(separator != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayHeader){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop<width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width<0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos<width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(length()==0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(config.debug){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(null==text){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(autoIndent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(firstLine){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position >= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(footer){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(echo){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(debugLogging){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 3){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(VERBOSE){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(showIndent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(isEmpty){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(display){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(size() == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(required<mask5>required){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(debug != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(locked){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(lenient){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(style != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(maxLength > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 5){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width <=0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(err != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent < 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(break){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(doIndent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(firstLineTabStop >= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(renderer==null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayDescription){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(text.length()>width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(logger.isDebugEnabled()){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displaySpaces){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(failed){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent<width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayNewline){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(description == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(size() < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(count == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(defaultNewLine == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width<2){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width > maxWidth){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(optional<mask5>optional){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentable){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(strictMode){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayDetails){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(depth == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(debug<mask3>debug){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( width > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(size == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentEmpty){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent<mask5>indent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(depth > 1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( indent > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayAll){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(null == text){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(isBlank(text)){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayLine){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(style == null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(noWrapText){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(debug<mask1>debug){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentWidth == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width!=0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(depth > 2){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(size() > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width != null){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(count > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos<0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent>width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayText){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(requiredWidth == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(isEmpty(text)){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width != -1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(null != sb){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(position == width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos <= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(maxLineLength > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentWidth < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < 7){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( !indentRequired){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop != width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( width < 2){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayMode){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayEmpty){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(firstLineTabStop < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(firstLineTabStop > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(noNewLine){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos != -1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayEmptyLines){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(i == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent > 2){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indenting){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentNewLine){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(firstLine){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(trace<mask5>trace){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width > indentWidth){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(0 == width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentShort){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(currentIndent > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( width < 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( indent == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(length > width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentWidth <= 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentLevel == 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width==1){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayShortDescription){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(size() > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if( !indentable){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indentLevel > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(indent <= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(pos != width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(length() <= width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < minWidth){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width <= indent){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(maxIndent > 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop <= 0){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(throw new IllegalStateException){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(nextLineTabStop>=width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width > maxWidth){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(displayEmptyLine){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  
+if(width < width){ throw new IllegalStateException("Total width is less than the width of the argument and indent " +  "- no room for the description");}  

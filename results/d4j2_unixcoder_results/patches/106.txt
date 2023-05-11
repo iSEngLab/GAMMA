@@ -1,0 +1,750 @@
+return  null;  
+return  uri;  
+return  node;  
+return  "";  
+return  null;;  
+return null;  
+return  false;  
+return  namespace;  
+return  String;  
+return  "";;  
+return  URI;  
+return  return null;  
+return  prefix;  
+return   null;  
+return  element;  
+return ;  
+return  ns;  
+return uri;  
+return  null;  
+return  namespaceURI;  
+return  true;  
+return  this;  
+return  localName;  
+return  NULL;  
+return  node.namespaceURI;  
+return  uri;;  
+return  -1;  
+return  String.class;  
+return  "" + uri;  
+return  String uri;  
+return  xmlns;  
+return  xml;  
+return  qname;  
+return  nil;  
+return  0;  
+return  undefined;  
+return  nodeName;  
+return  string;  
+return  def;  
+return  root;  
+return  void;  
+return  uri = null;  
+return  namespaceUri;  
+return  "");;  
+return  null ;  
+return  tag;  
+return  this.namespaceURI;  
+return  (null);  
+return  node == null;  
+return  url;  
+return "";  
+return  "", null;  
+return ;;  
+return  "/";  
+return Uri;  
+return  None;  
+return  uri || null;  
+return  href;  
+return  schema;  
+return  XML;  
+return  empty;  
+return  undef;  
+return  <null>;  
+return  "", uri;  
+return  xpath;  
+return  ();  
+return URI;  
+return  name;  
+return  this.uri;  
+return  value;  
+return  doc;  
+return  si;  
+return  n;  
+return  super;  
+return  "xml";  
+return  node.getPrefix;  
+return  Uri;  
+return  ni;  
+return  "xml";;  
+return  node != null;  
+return  defaultNamespace;  
+return  handler;  
+return  "", "";  
+return  '';;  
+return  '';  
+return  html;  
+return  namespace uri;  
+return  "xmlns";  
+return  str;  
+return  getNamespaceURI;  
+return  nodeId;  
+return  Null;  
+return  {@code null;  
+return  uri == null;  
+return  r;  
+return  ret;  
+return    null;  
+return  //return null;  
+return  location;  
+return  not found;  
+return  ;;  
+return  false;;  
+return  src;  
+return  nul;  
+return  ur;  
+return  qualifiedName;  
+return  EMPTY;  
+return  XMLNS;  
+return  --;  
+return  function;  
+return  u;  
+return  elem;  
+return  "/" + uri;  
+return  space;  
+return  element.namespaceURI;  
+return  uri;  
+return  namespacePrefix;  
+return  local;  
+return  ""; ;  
+return  path;  
+return  xmlNamespace;  
+return String uri;  
+return  Boolean;  
+return  ""+uri;  
+return  "");  
+return  prefix + uri;  
+return  document;  
+return  "null";  
+return  +null;  
+return  this.namespace;  
+return  _null;  
+return  id;  
+return  StringUtils.EMPTY;  
+return  s;  
+return  new String;  
+return  /;  
+return  _xmlns;  
+return  uri != null;  
+return  returns null;  
+return  null ;  
+return 	null;  
+return  $;  
+return  code;  
+return  = null;  
+return  fragment;  
+return  string uri;  
+return  NullPointerException;  
+return  version;  
+return  p;  
+return  e;  
+return  text;  
+return  tree;  
+return  return uri;  
+return  parent;  
+return  blank;  
+return  ":";  
+return  method;  
+return  uri null;  
+return  UNDEFINED;  
+return  node instanceof Element;  
+return  clazz;  
+return  class;  
+return  or null;  
+return node;  
+return  QName;  
+return  host;  
+return  el;  
+return  nodeNS;  
+return  result;  
+return  topic;  
+return  o;  
+return  1;  
+return  _namespaceURI;  
+return  "xmlns";;  
+return  type;  
+return  rootNamespace;  
+return  namespace null;  
+return  nt;  
+return  _namespace;  
+return (null);  
+return  namespace URI;  
+return  m_namespaceURI;  
+return  this.prefix;  
+return  null; ;  
+return  x;  
+return  "urn:";  
+return  +uri;  
+return  myNamespace;  
+return  null<mask1> null;  
+return  error;  
+return  uri ;  
+return  XmlNode.NULL;  
+return  "html";  
+return  EMPTY_STRING;  
+return  localNamespace;  
+return  String null;  
+return  node._namespaceURI;  
+return  XML namespace;  
+return  "default";  
+return  this.baseURI;  
+return  "unknown";  
+return  getPrefix;  
+return  XML_NS;  
+return  m_namespace;  
+return  == null;  
+return  ":" + uri;  
+return  "http";  
+return  "" + node;  
+return  "<unknown>";;  
+return  uri<mask1> null;  
+return  DEFAULT_NAMESPACE;  
+return  "urn";  
+return  null, null;  
+return  String.FALSE;  
+return  this.ns;  
+return  aNode;  
+return  "http://";  
+return  "<unknown>";  
+return  DEFAULT_NS;  
+return  _defaultNamespace;  
+return  node.baseURI;  
+return  UriUtils;  
+return  !element;  
+return  String.valueOf;  
+return  "urn;  
+return  !node;  
+return  element == null;  
+return  node.prefix;  
+return  this.xmlns;  
+return  "html";;  
+return  node.nodeName;  
+return  String.BLANK;  
+return  String.NULL;  
+return  m_prefix;  
+return  isNamespace;  
+return  <null;  
+return  _null_;  
+return  document.xmlns;  
+return  XmlUtil;  
+return  NO_NAMESPACE;  
+return  root.namespaceURI;  
+return  String.EMPTY;  
+return  xml_ns;  
+return  "" + prefix;  
+return  XML_NAMESPACE;  
+return  node.getNamespace;  
+return  element != null;  
+return  the default namespace;  
+return  ""; };  
+return  uri; ;  
+return  null;  
+return  uri;  
+return  node;  
+return  "";  
+return  null;;  
+return null;  
+return  false;  
+return  namespace;  
+return  String;  
+return  "";;  
+return  URI;  
+return  return null;  
+return  prefix;  
+return   null;  
+return  element;  
+return ;  
+return  ns;  
+return uri;  
+return  null;  
+return  namespaceURI;  
+return  true;  
+return  this;  
+return  localName;  
+return  NULL;  
+return  node.namespaceURI;  
+return  uri;;  
+return  -1;  
+return  String.class;  
+return  "" + uri;  
+return  String uri;  
+return  xmlns;  
+return  xml;  
+return  qname;  
+return  nil;  
+return  0;  
+return  undefined;  
+return  nodeName;  
+return  string;  
+return  def;  
+return  root;  
+return  void;  
+return  uri = null;  
+return  namespaceUri;  
+return  "");;  
+return  null ;  
+return  tag;  
+return  this.namespaceURI;  
+return  (null);  
+return  node == null;  
+return  url;  
+return "";  
+return  "", null;  
+return ;;  
+return  "/";  
+return Uri;  
+return  None;  
+return  uri || null;  
+return  href;  
+return  schema;  
+return  XML;  
+return  empty;  
+return  undef;  
+return  <null>;  
+return  "", uri;  
+return  xpath;  
+return  ();  
+return URI;  
+return  name;  
+return  this.uri;  
+return  value;  
+return  doc;  
+return  si;  
+return  n;  
+return  super;  
+return  "xml";  
+return  node.getPrefix;  
+return  Uri;  
+return  ni;  
+return  "xml";;  
+return  node != null;  
+return  defaultNamespace;  
+return  handler;  
+return  "", "";  
+return  '';;  
+return  '';  
+return  html;  
+return  namespace uri;  
+return  "xmlns";  
+return  str;  
+return  getNamespaceURI;  
+return  nodeId;  
+return  Null;  
+return  {@code null;  
+return  uri == null;  
+return  r;  
+return  ret;  
+return    null;  
+return  //return null;  
+return  location;  
+return  not found;  
+return  ;;  
+return  false;;  
+return  src;  
+return  nul;  
+return  ur;  
+return  qualifiedName;  
+return  EMPTY;  
+return  XMLNS;  
+return  --;  
+return  function;  
+return  u;  
+return  elem;  
+return  "/" + uri;  
+return  space;  
+return  element.namespaceURI;  
+return  uri;  
+return  namespacePrefix;  
+return  local;  
+return  ""; ;  
+return  path;  
+return  xmlNamespace;  
+return String uri;  
+return  Boolean;  
+return  ""+uri;  
+return  "");  
+return  prefix + uri;  
+return  document;  
+return  "null";  
+return  +null;  
+return  this.namespace;  
+return  _null;  
+return  id;  
+return  StringUtils.EMPTY;  
+return  s;  
+return  new String;  
+return  /;  
+return  _xmlns;  
+return  uri != null;  
+return  returns null;  
+return  null ;  
+return 	null;  
+return  $;  
+return  code;  
+return  = null;  
+return  fragment;  
+return  string uri;  
+return  NullPointerException;  
+return  version;  
+return  p;  
+return  e;  
+return  text;  
+return  tree;  
+return  return uri;  
+return  parent;  
+return  blank;  
+return  ":";  
+return  method;  
+return  uri null;  
+return  UNDEFINED;  
+return  node instanceof Element;  
+return  clazz;  
+return  class;  
+return  or null;  
+return node;  
+return  QName;  
+return  host;  
+return  el;  
+return  nodeNS;  
+return  result;  
+return  topic;  
+return  o;  
+return  1;  
+return  _namespaceURI;  
+return  "xmlns";;  
+return  type;  
+return  rootNamespace;  
+return  namespace null;  
+return  nt;  
+return  _namespace;  
+return (null);  
+return  namespace URI;  
+return  m_namespaceURI;  
+return  this.prefix;  
+return  null; ;  
+return  x;  
+return  "urn:";  
+return  +uri;  
+return  myNamespace;  
+return  null<mask1> null;  
+return  error;  
+return  uri ;  
+return  XmlNode.NULL;  
+return  "html";  
+return  EMPTY_STRING;  
+return  localNamespace;  
+return  String null;  
+return  node._namespaceURI;  
+return  XML namespace;  
+return  "default";  
+return  this.baseURI;  
+return  "unknown";  
+return  getPrefix;  
+return  XML_NS;  
+return  m_namespace;  
+return  == null;  
+return  ":" + uri;  
+return  "http";  
+return  "" + node;  
+return  "<unknown>";;  
+return  uri<mask1> null;  
+return  DEFAULT_NAMESPACE;  
+return  "urn";  
+return  null, null;  
+return  String.FALSE;  
+return  this.ns;  
+return  aNode;  
+return  "http://";  
+return  "<unknown>";  
+return  DEFAULT_NS;  
+return  _defaultNamespace;  
+return  node.baseURI;  
+return  UriUtils;  
+return  !element;  
+return  String.valueOf;  
+return  "urn;  
+return  !node;  
+return  element == null;  
+return  node.prefix;  
+return  this.xmlns;  
+return  "html";;  
+return  node.nodeName;  
+return  String.BLANK;  
+return  String.NULL;  
+return  m_prefix;  
+return  isNamespace;  
+return  <null;  
+return  _null_;  
+return  document.xmlns;  
+return  XmlUtil;  
+return  NO_NAMESPACE;  
+return  root.namespaceURI;  
+return  String.EMPTY;  
+return  xml_ns;  
+return  "" + prefix;  
+return  XML_NAMESPACE;  
+return  node.getNamespace;  
+return  element != null;  
+return  the default namespace;  
+return  ""; };  
+return  uri; ;  
+if(node == null){ return null;}  
+if(uri == null){ return null;}  
+if(node==null){ return null;}  
+if(uri==null){ return null;}  
+if(null == uri){ return null;}  
+if(null==uri){ return null;}  
+if(element == null){ return null;}  
+if( node == null){ return null;}  
+if(null == node){ return null;}  
+if( uri == null){ return null;}  
+if(node != null){ return null;}  
+if(false){ return null;}  
+if(uri != null){ return null;}  
+if(null){ return null;}  
+if(node is null){ return null;}  
+if(node instanceof Element){ return null;}  
+if(null==node){ return null;}  
+if(element==null){ return null;}  
+if(ns == null){ return null;}  
+if(namespaceURI == null){ return null;}  
+if(true){ return null;}  
+if( null == uri){ return null;}  
+if(node!=null){ return null;}  
+if(null != node){ return null;}  
+if(document == null){ return null;}  
+if(node ==null){ return null;}  
+if(null!=node){ return null;}  
+if(uri!=null){ return null;}  
+if(node instanceof Document){ return null;}  
+if(node== null){ return null;}  
+if( element == null){ return null;}  
+if(doc == null){ return null;}  
+if(return null){ return null;}  
+if(null != uri){ return null;}  
+if(ni == null){ return null;}  
+if(element != null){ return null;}  
+if(prefix == null){ return null;}  
+if(aNode == null){ return null;}  
+if(DEBUG){ return null;}  
+if(namespace == null){ return null;}  
+if(xml == null){ return null;}  
+if( node==null){ return null;}  
+if( null == node){ return null;}  
+if(NULL){ return null;}  
+if(ns==null){ return null;}  
+if(n == null){ return null;}  
+if(null!=uri){ return null;}  
+if(elem == null){ return null;}  
+if(uri is null){ return null;}  
+if( null){ return null;}  
+if(uri ==null){ return null;}  
+if(debug){ return null;}  
+if(error){ return null;}  
+if(null == element){ return null;}  
+if(NULL == uri){ return null;}  
+if(document==null){ return null;}  
+if( uri==null){ return null;}  
+if(node instanceof Node){ return null;}  
+if(tree == null){ return null;}  
+if(node==NULL){ return null;}  
+if(xpath != null){ return null;}  
+if(null== uri){ return null;}  
+if(xml != null){ return null;}  
+if(tag == null){ return null;}  
+if(null ==uri){ return null;}  
+if(ni){ return null;}  
+if(id == null){ return null;}  
+if(handler == null){ return null;}  
+if( false){ return null;}  
+if(namespaceURI==null){ return null;}  
+if(n==null){ return null;}  
+if(ni != null){ return null;}  
+if( uri != null){ return null;}  
+if(Node.NULL == node){ return null;}  
+if(node){ return null;}  
+if(elem==null){ return null;}  
+if(URI_NOT_FOUND){ return null;}  
+if(node == NULL){ return null;}  
+if( node != null){ return null;}  
+if(doc==null){ return null;}  
+if(ns != null){ return null;}  
+if(path == null){ return null;}  
+if(null == namespaceURI){ return null;}  
+if(name == null){ return null;}  
+if(uri){ return null;}  
+if(xpath == null){ return null;}  
+if(isEmpty(node){ return null;}  
+if(namespaceURI != null){ return null;}  
+if(URI == null){ return null;}  
+if(prefix==null){ return null;}  
+if(uri== null){ return null;}  
+if(qname == null){ return null;}  
+if(nodeName == null){ return null;}  
+if(url == null){ return null;}  
+if(xml){ return null;}  
+if(noURI){ return null;}  
+if(NULL_NODE == node){ return null;}  
+if(null==element){ return null;}  
+if(URI != null){ return null;}  
+if(value == null){ return null;}  
+if(null === uri){ return null;}  
+if(root){ return null;}  
+if(xmlns == null){ return null;}  
+if(not found){ return null;}  
+if(error != null){ return null;}  
+if(ni==null){ return null;}  
+if(e == null){ return null;}  
+if(err != null){ return null;}  
+if( null==uri){ return null;}  
+if(isEmpty){ return null;}  
+if(xpath){ return null;}  
+if(isEmpty(node)){ return null;}  
+if( node is null){ return null;}  
+if(aNode==null){ return null;}  
+if(namespaceURI == null){ return null;}  
+if(nil){ return null;}  
+if("".equals(uri){ return null;}  
+if(namespaceNotFound){ return null;}  
+if(locator == null){ return null;}  
+if( (uri == null)){ return null;}  
+if(element!=null){ return null;}  
+if(nodes == null){ return null;}  
+if(NULL == node){ return null;}  
+if(document != null){ return null;}  
+if( !node){ return null;}  
+if(root==null){ return null;}  
+if(dom == null){ return null;}  
+if( aNode == null){ return null;}  
+if( null != node){ return null;}  
+if(node.getNamespaceURI == null){ return null;}  
+if(namespace != null){ return null;}  
+if(root == null){ return null;}  
+if(uri == NULL){ return null;}  
+if(null === node){ return null;}  
+if(result == null){ return null;}  
+if( null != uri){ return null;}  
+if( node instanceof Element){ return null;}  
+if(rootNode == null){ return null;}  
+if(none){ return null;}  
+if(namespace==null){ return null;}  
+if(xml==null){ return null;}  
+if(elem != null){ return null;}  
+if(xmlNull){ return null;}  
+if(prefix != null){ return null;}  
+if(NODE_NOT_FOUND){ return null;}  
+if( ns == null){ return null;}  
+if(localName == null){ return null;}  
+if(log.isDebugEnabled()){ return null;}  
+if(node null){ return null;}  
+if(null===uri){ return null;}  
+if(u==null){ return null;}  
+if(xmlNode == null){ return null;}  
+if(){ return null;}  
+if(error!=null){ return null;}  
+if(tree==null){ return null;}  
+if(noNamespaceURI){ return null;}  
+if(xml is null){ return null;}  
+if(Node.NOT_FOUND){ return null;}  
+if(parent == null){ return null;}  
+if(null != element){ return null;}  
+if(nz == null){ return null;}  
+if(NULL != node){ return null;}  
+if(nodeId == null){ return null;}  
+if(src == null){ return null;}  
+if(i){ return null;}  
+if(node==document){ return null;}  
+if(exception){ return null;}  
+if(noNode){ return null;}  
+if(namespaceError){ return null;}  
+if(baseURI == null){ return null;}  
+if(isBlank(uri)){ return null;}  
+if( document == null){ return null;}  
+if(this == null){ return null;}  
+if( doc == null){ return null;}  
+if(noNamespace){ return null;}  
+if(id==null){ return null;}  
+if(warn){ return null;}  
+if(node == document){ return null;}  
+if(handler != null){ return null;}  
+if(xmlnull){ return null;}  
+if(name==null){ return null;}  
+if(xmlNamespace == null){ return null;}  
+if(node == null ){ return null;}  
+if(node == null ){ return null;}  
+if(namespace){ return null;}  
+if(null is returned){ return null;}  
+if(tag==null){ return null;}  
+if( true){ return null;}  
+if(nr == null){ return null;}  
+if(return null;){ return null;}  
+if(element is null){ return null;}  
+if(ni!=null){ return null;}  
+if(AST#binary_expression#Lefturi==null){ return null;}  
+if(attr == null){ return null;}  
+if(xpath!=null){ return null;}  
+if(StringUtil.isEmpty(uri)){ return null;}  
+if(isBlank(uri){ return null;}  
+if(ns!=null){ return null;}  
+if(bnode == null){ return null;}  
+if(element instanceof Element){ return null;}  
+if("".equals(uri)){ return null;}  
+if(node = null){ return null;}  
+if(elt == null){ return null;}  
+if(selector == null){ return null;}  
+if(  node == null){ return null;}  
+if(href == null){ return null;}  
+if(Node.NULL != node){ return null;}  
+if(rtn == null){ return null;}  
+if(xmlnull == null){ return null;}  
+if(xmlParser == null){ return null;}  
+if(node=null){ return null;}  
+if( element != null){ return null;}  
+if(StringUtil.isEmpty(uri){ return null;}  
+if(this==null){ return null;}  
+if(node.namespaceURI == null){ return null;}  
+if( node ==null){ return null;}  
+if(null ==node){ return null;}  
+if(null===node){ return null;}  
+if(node.isEmpty()){ return null;}  
+if(node!= null){ return null;}  
+if(String.isEmpty(uri)){ return null;}  
+if(null == ns){ return null;}  
+if(AST#binary_expression#Leftnode==null){ return null;}  
+if(Node.NULL == uri){ return null;}  
+if(node.isEmpty){ return null;}  
+if( node == null ){ return null;}  
+if(AST#binary_expression#Lefturi == null){ return null;}  
+if(noNode(node)){ return null;}  
+if(uri.isEmpty()){ return null;}  
+if( !(node instanceof Element)){ return null;}  
+if(getURI(node)==null){ return null;}  
+if(String.isEmpty(uri){ return null;}  
+if(isEmpty(uri)){ return null;}  
+if(node.getNamespaceURI()==null){ return null;}  
+if( (node == null)){ return null;}  
+if( ! (node instanceof Element)){ return null;}  
+if(StringUtils.isEmpty(uri){ return null;}  
+if(node.getParentNode()==null){ return null;}  
+if(StringUtils.isEmpty(uri)){ return null;}  
+if(AST#binary_expression#Lefturi==nullAST#binary_expression#Right){ return null;}  
+if(log.isTraceEnabled()){ return null;}  
+if(element.getNamespaceURI == null){ return null;}  
+if(node == null)){ return null;}  
+if(isWhitespace(node)){ return null;}  
+if(node.getDocumentElement()==null){ return null;}  
+if(isExcluded(node)){ return null;}  
+if(AST#binary_expression#Lefturi == nullAST#binary_expression#Right){ return null;}  
+if(node.getNamespaceURI != null){ return null;}  
+if(AST#binary_expression#Leftnode==nullAST#binary_expression#Right){ return null;}  
+if(isExcluded(node){ return null;}  
