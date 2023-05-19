@@ -17,15 +17,13 @@ public class FileReader {
             CsvReader reader = new CsvReader(filePath, ',', Charset.forName("UTF-8"));
             reader.readHeaders();
             while (reader.readRecord()) {
-                arrList.add(reader.getValues()); // 按行读取，并把每一行的数据添加到list集合
+                arrList.add(reader.getValues());
             }
             reader.close();
             System.out.println("读取的行数：" + arrList.size());
-            // 如果要返回 String[] 类型的 list 集合，则直接返回 arrList
-            // 以下步骤是把 String[] 类型的 list 集合转化为 String 类型的 list 集合
+
             for (int row = 0; row < arrList.size(); row++) {
-                // 组装String字符串
-                // 如果不知道有多少列，则可再加一个循环
+
                 String ele = arrList.get(row)[0] + "," + arrList.get(row)[1] + ","
                         + arrList.get(row)[2] + "," + arrList.get(row)[3] ;
 				System.out.println(ele);
@@ -57,7 +55,7 @@ public class FileReader {
 //                System.out.println(line);
                 records.add(line);
             }
-//            System.out.println("csv表格读取行数：" + records.size());
+
         } catch (IOException e) {
             e.printStackTrace();
         }

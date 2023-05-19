@@ -21,7 +21,7 @@ public class ReturnStatementMutator extends FixPattern{
 //		}
 		res.add("return <mask0>;");
 		
-		//后面加一串东西
+
 //		for(int i=1;i<=10;i++) {
 //			String temp=code;
 //			for(int j=1;j<=i;j++) {

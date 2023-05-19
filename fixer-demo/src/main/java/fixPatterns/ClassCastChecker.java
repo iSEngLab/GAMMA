@@ -8,24 +8,24 @@ import fixer.Tree;
 
 public class ClassCastChecker extends FixPattern{
     public List<String> generatePatch(Tree tree,String code) {
-    	//找到CastExpression节点
+
         Tree castExp=findCastExpression(tree);
 		String varName = castExp.getLabel();
 		
-		//转换到的类型
+
 		Tree castingType = castExp.getChildren().get(0);
 		int castTypeStartPos = castingType.getPos();
 		int castTypeEndPos = castTypeStartPos + castingType.getLen();
 		String castTypeStr=code.substring(castTypeStartPos,castTypeEndPos);
 		
-		//被转换的表达式
+
 		Tree castedExp = castExp.getChildren().get(1);
 		int castedExpStartPos = castedExp.getPos();
 		int castedExpEndPos = castedExpStartPos + castedExp.getLen();
 		String castedExpStr = code.substring(castedExpStartPos, castedExpEndPos);
 		int castedExpType = castedExp.getType();
 		
-		//加类型检查
+
 		String fixedCodeStr1 = "";
 		if (Checker.isSimpleName(castedExpType) || Checker.isFieldAccess(castedExpType) 
 				|| Checker.isQualifiedName(castedExpType) || Checker.isSuperFieldAccess(castedExpType)) {

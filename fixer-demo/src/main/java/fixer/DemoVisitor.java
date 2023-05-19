@@ -140,11 +140,7 @@ public class DemoVisitor extends ASTVisitor{
 		addNode(node.getNodeType(),node.getStartPosition(),node.getLength(),methodLabel);
 //		push(node.getNodeType(), node.getClass().getSimpleName(), methodLabel, startPosition, nodeStartPosition + length - startPosition);
 		
-        /*
-		 *  The visiting of the below elements (except modifiers and body) can be removed, 
-		 *  because there is no any fix pattern can be mined from these elements.
-		 *  Even though some fix patterns can be mined, they are not what we want.
-		 */
+
         visitList(realModifiers);
 		if (returnType != null) {
 			returnType.accept(this);

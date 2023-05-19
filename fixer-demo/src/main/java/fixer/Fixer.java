@@ -10,13 +10,13 @@ import fixPatterns.*;
 
 public class Fixer {
     public List<String> fix(String code) {
-    	//判断特殊情况
+
     	if(code.equals("}")) {
     		FixPattern fp=new StatementInserter();
     		return fp.generatePatch(null, code);
     	}
     	
-    	//生成AST
+
 	    ASTParser parser = ASTParser.newParser(AST.JLS8);
 	    parser.setSource(code.toCharArray());
 	    parser.setKind(ASTParser.K_STATEMENTS);
@@ -25,7 +25,7 @@ public class Fixer {
 	    DemoVisitor visitor=new DemoVisitor();
 	    parser.createAST(null).accept(visitor);
 	    
-	    //获取节点类型
+
 	    List<Integer> typeList=getAllNodeTypes(visitor.getTree());
 		List<Integer> distinctTypes = new ArrayList();
 		for (Integer type : typeList) {

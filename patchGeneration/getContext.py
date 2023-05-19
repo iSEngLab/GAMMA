@@ -75,23 +75,23 @@ def get_context(path,start_line_no,end_line_no,replaceStr):
     with open(path, 'r') as buggy_class:
         buggy_class = buggy_class.readlines()
     buggy_tree=get_ast(buggy_class)
-    #获取所有函数的位置
+
     buggy_funtions_position = get_function_positions(buggy_tree, buggy_class)
-    # 获取目标函数的位置
+
     target_position = buggy_funtions_position[0]
     for position in buggy_funtions_position:
         if position[0] + 1 <= start_line_no <= position[1] + 1:
             # print(position)
             target_position = position
             break
-        # 替换buggy line,抠出目标函数上下文
+
     buggy_class[start_line_no-1] = replaceStr
     if end_line_no!=start_line_no:
         for i in range(start_line_no+1,end_line_no+1):
             buggy_class[i-1]=""
     context = ""
     for i in range(target_position[0], target_position[1] + 1):
-        # 去注释
+
         if buggy_class[i].startswith("//") or buggy_class[i].startswith("\n"):
             continue
 
@@ -104,7 +104,7 @@ def get_context(path,start_line_no,end_line_no,replaceStr):
         if buggy_class[i][startPos:].startswith("//"):
             continue
         context += buggy_class[i][startPos:]
-    pos = str(target_position[0])+','+str(target_position[1]) #从0开始的行号
+    pos = str(target_position[0])+','+str(target_position[1])
     context += "position:"
     context += pos
     context += "\n"
@@ -128,7 +128,7 @@ def generate_input():
             bug_info=meta_lines[line_no]
             project_name=bug_info.split("\t")[0]
             bug_id=bug_info.split("\t")[1]
-            #切换git分支
+
             git_branch=project_name+bug_id
             repo.git.checkout(git_branch)
 

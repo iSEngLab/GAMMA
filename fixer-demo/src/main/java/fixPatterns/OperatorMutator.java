@@ -9,7 +9,7 @@ import fixer.Tree;
 public class OperatorMutator extends FixPattern{
 	
 	public List<String> generatePatch(Tree tree,String code) {
-		//找到操作符节点
+
 		List<Tree> operatorNodes=findOperatorNode(tree);
 		List<String> result=new ArrayList();
 		
@@ -24,7 +24,7 @@ public class OperatorMutator extends FixPattern{
 		result.add(res);
 		}
 		
-		//一次改多个操作符
+
 //		StringBuilder sb=new StringBuilder(code);
 //		int move=0;
 //		for(Tree operatorNode:operatorNodes) {

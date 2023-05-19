@@ -17,14 +17,14 @@ import fixer.Fixer;
 
 public class Main {
 	public static void main(String[] args) throws IOException {
-		//获取bugid
+
 //		List<String> allBugs=FileReader.readByBufferedReader("");
 //	    List<String> bugIds=new ArrayList();
 //	    for(int i=0;i<allBugs.size();i+=1) {
 //	    	bugIds.add(allBugs.get(i));
 //	    }
 	    
-	    //获取每个bug对应的输入行
+
 //	    List<String> paths=FileReader.readByBufferedReader("inputs/meta.txt");
 //	    List<Integer> inputLineNos=new ArrayList();
 //	    for(int i=0;i<bugIds.size();i++) {
@@ -47,7 +47,7 @@ public class Main {
 //	    	}
 //	    }
 	    
-	    //获取输入
+
 //	    List<String> allInputs=FileReader.readByBufferedReader("/Users/zhangtongke/Desktop/patchGeneration/d4j2_rem.txt");
 //	    List<String> myInputs=new ArrayList();
 //	    for(int line=0;line<allInputs.size();line++) {

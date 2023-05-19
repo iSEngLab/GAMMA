@@ -11,7 +11,7 @@ public class StatementRemover extends FixPattern{
 		List<String> res=new ArrayList();
 		res.add("");
 		
-		//删掉if语句===if(true)
+
 		Tree ifStatement=findIfStatement(tree);
 		if(ifStatement!=null) {
 			Tree toBeChanged=tree.get(0);
